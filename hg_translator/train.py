@@ -214,6 +214,7 @@ training_args = Seq2SeqTrainingArguments(
     fp16=False,
     push_to_hub=False,
     disable_tqdm=True,
+    report_to="none",
 )
 
 trainer = Seq2SeqTrainer(
@@ -224,6 +225,7 @@ trainer = Seq2SeqTrainer(
     tokenizer=tokenizer,
     data_collator=data_collator,
     compute_metrics=compute_metrics,
+    setup_wandb=False,
 )
 
 trainer.train()
