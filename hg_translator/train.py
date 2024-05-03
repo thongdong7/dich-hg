@@ -225,7 +225,6 @@ trainer = Seq2SeqTrainer(
     tokenizer=tokenizer,
     data_collator=data_collator,
     compute_metrics=compute_metrics,
-    setup_wandb=False,
 )
 
 trainer.train()
