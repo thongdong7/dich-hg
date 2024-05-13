@@ -200,7 +200,7 @@ model = AutoModelForSeq2SeqLM.from_pretrained(checkpoint)
 temp_dir = tempfile.gettempdir()
 print("Temp dir:", temp_dir)
 output_dir = join(temp_dir, "output")
-training_args = Seq2SeqTrainingArguments(
+training_args = Seq2SeqTØrainingArguments(
     output_dir=output_dir,
     evaluation_strategy="epoch",
     learning_rate=2e-5,
