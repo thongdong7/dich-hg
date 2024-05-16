@@ -68,13 +68,14 @@ def gen():
                         exit(1)
 
                     for line in approve_lines:
-                        yield {
-                            "id": f"{file_id}_{line}",
-                            "translation": {
-                                "convert": convert_lines[line],
-                                "dich": dich_lines[line],
-                            },
-                        }
+                        if line < len(convert_lines) and line < len(dich_lines):
+                            yield {
+                                "id": f"{file_id}_{line}",
+                                "translation": {
+                                    "convert": convert_lines[line],
+                                    "dich": dich_lines[line],
+                                },
+                            }
 
 
 ds = Dataset.from_generator(gen)
