@@ -1,0 +1,2995 @@
+{
+  "currentLine": 118,
+  "next": {
+    "id": 71,
+    "title": "Chương 71 : Bán xương"
+  },
+  "title": {
+    "convert": "Chương 70 : Thúy nhi",
+    "dich": "Chương 70 :  Thúy nhi"
+  },
+  "previous": {
+    "id": 69,
+    "title": "Chương 69 : Vụ Chu"
+  },
+  "currentWorkingLine": 119,
+  "changed": true,
+  "approved": true,
+  "lines": [
+    {
+      "convert": "Cái này gọi là \"Thúy nhi\" thiếu nữ, trong miệng nói lẩm bẩm về sau, một tay bỗng nhiên hướng trên quyển trục vỗ.",
+      "dich": "Thiếu nữ tên gọi \"Thúy nhi\" này lẩm bẩm một hồi, sau đó một tay bỗng nhiên vỗ lên trên quyển trục.",
+      "suggest": "Thiếu nữ tên gọi Thúy nhi trong miệng nói lẩm bẩm, sau đó một tay bỗng nhiên vỗ vỗ lên quyển trục.",
+      "similarity": [
+        [
+          0,
+          0.99
+        ],
+        [
+          1,
+          0.96
+        ],
+        [
+          2,
+          0.96
+        ],
+        [
+          4,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Phốc\" một tiếng, vô số hoàng khí bí mật mang theo đủ mọi màu sắc phù văn từ quyển trục xông lên mà ra, thẳng thăng vài chục trượng độ cao, lại quay tròn ngưng tụ về sau, lại biến thành một cái màu vàng nhạt cự thuyền.",
+      "dich": "\"Phốc\" một tiếng, vô số luồng khí màu vàng mang theo phù văn đủ loại màu sắc bay lên trời, đến tận khi cao vài chục trượng mới quay tít một vòng rồi ngưng tụ lại, biến thành một con thuyền khổng lồ màu vàng nhạt.",
+      "suggest": "\"Phốc\" một tiếng, vô số phù văn màu vàng mang theo đủ loại màu sắc phù văn từ trong quyển trục bay ra, bay lượn với tốc độ hơn mười trượng, sau khi quay tròn ngưng tụ lại, lại biến thành một con thuyền màu vàng nhạt.",
+      "similarity": [
+        [
+          0,
+          0.96
+        ],
+        [
+          1,
+          0.99
+        ],
+        [
+          2,
+          0.96
+        ],
+        [
+          4,
+          0.95
+        ],
+        [
+          5,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chẳng qua là này thuyền nhìn như cực lớn, nhưng mông lung, lại dường như không phải thật thể bình thường.",
+      "dich": "Chỉ có điều mặc dù thuyền này trông cực lớn, nhưng lại có vẻ mông lung hư ảo, dường như không phải vật thật vậy.",
+      "suggest": "Chỉ có điều cái thuyền này thoạt nhìn rất lớn, nhưng mông lung, dường như không phải là một chuyện bình thường.",
+      "similarity": [
+        [
+          0,
+          0.96
+        ],
+        [
+          1,
+          0.96
+        ],
+        [
+          2,
+          0.98
+        ],
+        [
+          4,
+          0.95
+        ],
+        [
+          5,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Tốt rồi, chư vị sư đệ sư muội có thể lên đây.\"",
+      "dich": "\"Tốt rồi, chư vị sư đệ sư muội có thể lên thuyền.\"",
+      "suggest": "\"Được rồi, chư vị sư đệ sư muội có thể tới đây.\"",
+      "similarity": [
+        [
+          3,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tiền sư tỷ nhưng căn bản mặc kệ những người khác vẻ giật mình, cùng với thiếu nữ áo lục phối hợp bay lên Vụ Châu.",
+      "dich": "Tiền sư tỷ chẳng thèm để ý tới vẻ giật mình của những người khác, cùng thiếu nữ áo lục bay lên Vụ Chu.",
+      "suggest": "Tiền sư tỷ căn bản mặc kệ những người khác giật mình, cùng thiếu nữ áo xanh phối hợp bay lên Vụ Châu.",
+      "similarity": [
+        [
+          1,
+          0.95
+        ],
+        [
+          2,
+          0.95
+        ],
+        [
+          4,
+          0.98
+        ],
+        [
+          7,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Những người khác nhìn nhau liếc về sau, tự nhiên cũng cuống quít đã bay đi lên.",
+      "dich": "Những người khác sau khi liếc nhau vài lần, hiển nhiên cũng cuống quít lên theo.",
+      "suggest": "Những người khác nhìn nhau một lát, đương nhiên cũng cuống quít bay lên.",
+      "similarity": [
+        [
+          0,
+          0.96
+        ],
+        [
+          5,
+          0.98
+        ],
+        [
+          9,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ồ, tại sao lại là ngươi!\"",
+      "dich": "\"Ồ, sao lại là ngươi!\"",
+      "suggest": "\"Ồ, tại sao lại là ngươi!\"",
+      "similarity": [
+        [
+          6,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lôi Thần cùng nhỏ nhắn xinh xắn nữ tử vừa mới bay lên Vụ Châu, đi vài bước về sau, rút cuộc phát hiện cách đó không xa Liễu Minh, có chút kinh ngạc.",
+      "dich": "Lôi Thần và thiếu nữ xinh xắn vừa mới bay lên Vụ Chu, sau khi đi vài bước đã phát hiện ra Liễu Minh đang đứng cách đó không xa, trong lòng có chút kinh ngạc.",
+      "suggest": "Lôi Thần và nữ tử nhỏ nhắn xinh xắn vừa mới bay lên Vụ Châu được vài bước, sau khi đi được vài bước đã phát hiện Liễu Minh cách đó không xa.",
+      "similarity": [
+        [
+          4,
+          0.96
+        ],
+        [
+          5,
+          0.95
+        ],
+        [
+          7,
+          0.99
+        ],
+        [
+          11,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Tại hạ cũng thật không ngờ lại ở chỗ này đụng phải Lôi huynh đấy.\"",
+      "dich": "\"Tại hạ cũng thật không ngờ lại gặp được Lôi huynh ở đây.\"",
+      "suggest": "\"Tại hạ cũng không ngờ lại đụng phải Lôi huynh ở đây.\"",
+      "similarity": [
+        [
+          3,
+          0.96
+        ],
+        [
+          8,
+          0.99
+        ],
+        [
+          10,
+          0.95
+        ],
+        [
+          11,
+          0.95
+        ],
+        [
+          12,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nếu như đối phương nói chuyện, Liễu Minh cũng hơi gật đầu trả lời.",
+      "dich": "Nếu đối phương đã chủ động nói chuyện, Liễu Minh cũng khẽ gật đầu trả lời.",
+      "suggest": "Nếu đối phương đã nói chuyện, Liễu Minh cũng gật đầu trả lời.",
+      "similarity": [
+        [
+          5,
+          0.95
+        ],
+        [
+          7,
+          0.95
+        ],
+        [
+          8,
+          0.95
+        ],
+        [
+          9,
+          0.99
+        ],
+        [
+          12,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ta nhớ không lầm lời mà nói, Bạch sư đệ là bái nhập Cửu Anh Sơn Khuê sư bá môn hạ a.",
+      "dich": "\"Nếu ta nhớ không lầm, Bạch sư đệ là đệ tử chi Cửu Anh Sơn của Khuê sư bá a.",
+      "suggest": "\"Ta nhớ không lầm thì Bạch sư đệ là môn hạ của Khuê sư bá.",
+      "similarity": [
+        [
+          8,
+          0.95
+        ],
+        [
+          10,
+          0.98
+        ],
+        [
+          13,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngươi không tốt trong núi tu luyện, ngược lại là có thời gian chạy loạn, sẽ không sợ làm trễ nãi chính mình tu hành ư!\"",
+      "dich": "Ngươi không tập trung tu luyện trong núi, trái lại còn có thời gian chạy loạn, không sợ sẽ làm trễ nải việc tu hành của mình ư!\"",
+      "suggest": "Ngươi không ở trong núi tu luyện, trái lại còn có thời gian chạy loạn, không sợ làm chậm trễ việc tu hành của mình ư!\"",
+      "similarity": [
+        [
+          7,
+          0.96
+        ],
+        [
+          8,
+          0.96
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          12,
+          0.96
+        ],
+        [
+          14,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lôi Thần ánh mắt lóe lên mà hỏi, kia nhưng biết rõ Liễu Minh dùng tên giả, hơn nữa tựa hồ đối với sự tình khác cũng có phần hiểu rõ bộ dáng.",
+      "dich": "Ánh mắt Lôi Thần lóe lên hỏi, không ngờ lại biết rõ tên của Liễu Minh, hơn nữa dường như ít nhiều cũng hiểu rõ một vài chuyện khác.",
+      "suggest": "Ánh mắt Lôi Thần sáng lên hỏi, gã này cũng biết Liễu Minh dùng tên giả, hơn nữa tựa hồ đối với những việc khác cũng có phần hiểu rõ.",
+      "similarity": [
+        [
+          7,
+          0.98
+        ],
+        [
+          8,
+          0.97
+        ],
+        [
+          9,
+          0.97
+        ],
+        [
+          11,
+          0.96
+        ],
+        [
+          12,
+          0.99
+        ],
+        [
+          13,
+          0.96
+        ],
+        [
+          14,
+          0.96
+        ],
+        [
+          15,
+          0.96
+        ],
+        [
+          16,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ah, Lôi huynh nguyên lai biết rõ tiểu đệ tính danh.",
+      "dich": "\"A, thì ra Lôi huynh đã biết tên tiểu đệ.",
+      "suggest": "\"A, Lôi huynh vốn dĩ biết rõ tính danh của tiểu đệ.",
+      "similarity": [
+        [
+          8,
+          0.96
+        ],
+        [
+          12,
+          0.96
+        ],
+        [
+          13,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ta muốn đi Vệ châu phường thị xử lý chút ít chuyện quan trọng hơn tình, mặc dù muốn hao phí chút thời gian, cũng là không cách nào sự tình.\"",
+      "dich": "Ta muốn đi phường thị Vệ châu xử lý một vài chuyện quan trọng, mặc dù phải lãng phí chút thời gian, nhưng cũng không còn cách nào khác.\"",
+      "suggest": "Ta muốn đi Vệ châu xử lý một vài chuyện quan trọng hơn, mặc dù muốn hao phí chút thời gian, cũng là chuyện không thể nào.\"",
+      "similarity": [
+        [
+          11,
+          0.97
+        ],
+        [
+          12,
+          0.97
+        ],
+        [
+          14,
+          0.99
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          18,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh vốn là khẽ giật mình, lại một cười nói.",
+      "dich": "Liễu Minh vốn khẽ giật mình, nhưng lập tức cười cười nói.",
+      "suggest": "Liễu Minh vốn khẽ giật mình, nhưng sau đó lại cười cười nói.",
+      "similarity": [
+        [
+          12,
+          0.96
+        ],
+        [
+          15,
+          0.99
+        ],
+        [
+          17,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ta có thể nghe nói gần nhất Chấp Sự đường xuất hiện một gã \"Nhiệm vụ cuồng nhân\", tại mấy tháng bên trong liền hoàn thành bốn mươi năm mươi kiện nhiệm vụ, nghe nói cũng mới nhập môn không lâu đệ tử, giống như cũng họ Bạch đấy, sẽ không cùng Bạch huynh là cùng một người a!\"",
+      "dich": "\"Gần đây ta nghe nói Chấp Sự đường xuất hiện một gã 'nhiệm vụ cuồng nhân', chỉ trong mấy tháng đã hoàn thành bốn năm mươi nhiệm vụ, nghe nói cũng là đệ tử mới nhập môn không lâu, hình như cũng là họ Bạch thì phải, không biết có phải là cùng một người với Bạch huynh đây không?!\"",
+      "suggest": "\"Ta có thể nghe nói gần đây trên Chấp Sự Đường xuất hiện một \"Nhiệm vụ cuồng nhân\", trong thời gian mấy tháng liền đã hoàn thành bốn mươi năm mươi nhiệm vụ, nghe nói cũng mới nhập môn không lâu, chắc chắn cũng giống Bạch huynh, sẽ không cùng đi với Bạch huynh chứ?\"",
+      "similarity": [
+        [
+          11,
+          0.97
+        ],
+        [
+          12,
+          0.97
+        ],
+        [
+          14,
+          0.96
+        ],
+        [
+          16,
+          0.99
+        ],
+        [
+          18,
+          0.97
+        ],
+        [
+          19,
+          0.97
+        ],
+        [
+          20,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bên cạnh tên kia nhỏ nhắn xinh xắn nữ tử nghe nói như thế, bỗng nhiên cười cười mở miệng.",
+      "dich": "Thiếu nữ xinh xắn bên cạnh nghe thế, bỗng nhiên cười cười mở miệng.",
+      "suggest": "Nữ tử nhỏ nhắn bên cạnh nghe vậy, bỗng nhiên cười cười mở miệng.",
+      "similarity": [
+        [
+          17,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Khục, mới nhập môn đệ tử nếu là không có thứ hai họ Bạch đệ tử, vậy cũng có thể chỉ đúng là ta đi.",
+      "dich": "\"Khụ, nếu đã là đệ tử mới nhập môn thì chắc cũng không có người họ Bạch thứ hai, vậy có lẽ đúng là ta rồi.",
+      "suggest": "\"Khụ, nếu ta không có đệ tử họ Bạch thứ hai, vậy cũng có thể chỉ đúng ta.",
+      "similarity": [
+        [
+          13,
+          0.96
+        ],
+        [
+          14,
+          0.95
+        ],
+        [
+          18,
+          0.98
+        ],
+        [
+          19,
+          0.96
+        ],
+        [
+          20,
+          0.96
+        ],
+        [
+          22,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tại hạ gần nhất đỉnh đầu so sánh nhanh, cũng chỉ có làm nhiều chút ít nhiệm vụ để đổi lấy chút ít linh thạch.\"",
+      "dich": "Gần đây tình hình tại hạ tương đối căng, cũng chỉ có thể làm nhiều nhiệm vụ hơn một chút để đổi lấy một ít Linh thạch.\"",
+      "suggest": "Tại hạ gần như là nhanh nhất, cũng chỉ có thể làm vài nhiệm vụ để đổi lấy chút Linh Thạch thôi.\"",
+      "similarity": [
+        [
+          14,
+          0.96
+        ],
+        [
+          16,
+          0.95
+        ],
+        [
+          18,
+          0.96
+        ],
+        [
+          19,
+          0.98
+        ],
+        [
+          20,
+          0.97
+        ],
+        [
+          22,
+          0.95
+        ],
+        [
+          23,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Gặp đối phương tựa hồ cũng không có gì ác ý, Liễu Minh cũng chỉ có thể ho nhẹ một tiếng trả lời.",
+      "dich": "Thấy đối phương dường như cũng không có ý xấu, Liễu Minh cũng chỉ có thể ho nhẹ một tiếng trả lời.",
+      "suggest": "Thấy đối phương dường như cũng không có ác ý gì, Liễu Minh cũng chỉ có thể ho nhẹ một tiếng rồi trả lời.",
+      "similarity": [
+        [
+          15,
+          0.96
+        ],
+        [
+          17,
+          0.96
+        ],
+        [
+          18,
+          0.97
+        ],
+        [
+          19,
+          0.97
+        ],
+        [
+          20,
+          1
+        ],
+        [
+          22,
+          0.95
+        ],
+        [
+          23,
+          0.95
+        ],
+        [
+          24,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Thật là Bạch huynh!",
+      "dich": "\"Đúng là Bạch huynh!",
+      "suggest": "\"Thật là Bạch huynh!",
+      "similarity": [
+        [
+          21,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chậc chậc, ta có thể nghe một ít sư huynh sư tỷ nói, Bạch huynh hoàn thành những nhiệm vụ kia, không ít đối với một ít đệ tử cũ mà nói đều có chút nguy hiểm đấy, ngươi vậy mà có thể một hơi hoàn thành như vậy nhiều, chẳng lẽ trong đó có cái gì bí quyết hay sao?",
+      "dich": "Chậc chậc, ta nghe một vài sư huynh sư tỷ nói, trong những nhiệm vụ mà Bạch huynh hoàn thành kia có không ít nhiệm vụ mà kể cả là đối với một số đệ tử cũ cũng đều có chút nguy hiểm, sư huynh vậy mà có thể một hơi hoàn thành nhiều như vậy, chẳng lẽ trong đó có bí quyết gì hay sao?",
+      "suggest": "Chậc chậc, ta có thể nghe một vài sư huynh sư tỷ nói, những nhiệm vụ mà Bạch huynh hoàn thành không ít đối với một ít đệ tử cũ, chẳng lẽ trong đó có bí quyết gì hay sao?",
+      "similarity": [
+        [
+          18,
+          0.97
+        ],
+        [
+          19,
+          0.96
+        ],
+        [
+          20,
+          0.96
+        ],
+        [
+          22,
+          0.99
+        ],
+        [
+          25,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đúng rồi, tiểu muội gọi Âu Dương phi, cũng là Thiên Cơ nhất mạch môn hạ.\"",
+      "dich": "Đúng rồi, tiểu muội tên Âu Dương Phi, cũng là môn hạ chi Thiên Cơ.\"",
+      "suggest": "Đúng rồi, tiểu muội gọi Âu Dương phi là môn hạ thuộc chi Thiên Cơ.\"",
+      "similarity": [
+        [
+          23,
+          0.99
+        ],
+        [
+          27,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhỏ nhắn xinh xắn nữ tử cảm thấy hiếu kỳ nói ra, đồng thời tự nhiên cười nói giới thiệu chính mình.",
+      "dich": "Thiếu nữ xinh xắn cảm thấy tò mò nói, đồng thời tự nhiên cười nói giới thiệu tên tuổi bản thân.",
+      "suggest": "Nữ tử nhỏ nhắn cảm thấy hiếu kỳ nói, đồng thời tự nhiên cười nói giới thiệu bản thân.",
+      "similarity": [
+        [
+          20,
+          0.95
+        ],
+        [
+          24,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Âu Dương sư muội nói đùa, tông môn nhiệm vụ nào có cái gì bí quyết đáng nói, chẳng qua là tại hạ nhiều bỏ chút thời gian, cộng thêm vận khí không tệ, mới có thể hoàn thành như vậy nhiều nhiệm vụ.\"",
+      "dich": "\"Âu Dương sư muội nói đùa rồi, nhiệm vụ tông môn nào có bí quyết gì đáng nói, chẳng qua tại hạ dùng nhiều thời gian hơn một chút, cộng với vận khí không tệ, mới có thể hoàn thành nhiều nhiệm vụ như vậy.\"",
+      "suggest": "\"Âu Dương sư muội nói đùa, nhiệm vụ tông môn nào có bí quyết gì đáng nói, chẳng qua là tại hạ bỏ chút thời gian, cộng thêm vận khí không tệ mới có thể hoàn thành được nhiều nhiệm vụ như vậy.\"",
+      "similarity": [
+        [
+          22,
+          0.98
+        ],
+        [
+          25,
+          1
+        ],
+        [
+          27,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh nghe vậy, chỉ có thể hàm hồ nói ra.",
+      "dich": "Liễu Minh nghe vậy, chỉ có thể úp mở nói.",
+      "suggest": "Liễu Minh nghe vậy, chỉ có thể hàm hồ nói.",
+      "similarity": [
+        [
+          23,
+          0.95
+        ],
+        [
+          26,
+          0.99
+        ],
+        [
+          28,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Hừ, loại lời này ngươi cho rằng Lôi mỗ sẽ tin tưởng, có cơ hội lời mà nói, luận bàn một chút đi, ta nghĩ Bạch sư đệ thực lực, sẽ phải để cho ta có một cái ngoài ý muốn kinh hỉ a.\"",
+      "dich": "\"Hừ, ngươi cho rằng Lôi mỗ sẽ tin tưởng những lời này sao? Nếu có cơ hội lời, luận bàn một chút đi, ta nghĩ thực lực Bạch sư đệ chắc chắn sẽ gây cho ta một kinh hỉ bất ngờ.\"",
+      "suggest": "\"Hừ, loại lời này ngươi cho rằng Lôi mỗ sẽ tin tưởng, khi nào có cơ hội, hãy bàn bạc một chút đi, thực lực Bạch sư đệ, chắc chắn sẽ làm cho ta có một phen kinh hỉ ngoài ý muốn.\"",
+      "similarity": [
+        [
+          22,
+          0.97
+        ],
+        [
+          25,
+          0.97
+        ],
+        [
+          27,
+          0.97
+        ],
+        [
+          27,
+          0.98
+        ],
+        [
+          29,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lôi Thần hai mắt như điện nhìn Liễu Minh trong chốc lát về sau, bỗng nhiên hừ một tiếng nói.",
+      "dich": "Hai mắt Lôi Thần như điện nhìn Liễu Minh trong chốc lát, sau đó bỗng nhiên hừ một tiếng nói.",
+      "suggest": "Lôi Thần hai mắt nhìn như điện nhìn Liễu Minh trong chốc lát, sau đó bỗng nhiên hừ một tiếng nói.",
+      "similarity": [
+        [
+          23,
+          0.96
+        ],
+        [
+          24,
+          0.96
+        ],
+        [
+          26,
+          0.96
+        ],
+        [
+          27,
+          0.95
+        ],
+        [
+          28,
+          1
+        ],
+        [
+          29,
+          0.96
+        ],
+        [
+          30,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Lôi huynh nói đùa, ngươi là Cửu Linh lôi mạch thân thể, Bạch mỗ sao có thể có thể là đối thủ.\"",
+      "dich": "\"Lôi huynh nói giỡn, ngươi là Cửu Linh Lôi Mạch Thể, Bạch mỗ sao có thể có thể là đối thủ.\"",
+      "suggest": "\"Lôi huynh nói đùa, người là thân thể của Cửu Linh Lôi mạch, Bạch mỗ sao có thể là đối thủ của đối phương.\"",
+      "similarity": [
+        [
+          25,
+          0.95
+        ],
+        [
+          27,
+          0.96
+        ],
+        [
+          27,
+          0.95
+        ],
+        [
+          28,
+          0.95
+        ],
+        [
+          29,
+          0.99
+        ],
+        [
+          31,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh tuy rằng trong lòng có một tia ngoài ý muốn, nhưng tự nhiên liên tục lắc đầu.",
+      "dich": "Mặc dù trong lòng Liễu Minh hơi bất ngờ, nhưng đương nhiên liên tục lắc đầu.",
+      "suggest": "Mặc dù trong lòng Liễu Minh có chút bất ngờ, nhưng hắn vẫn liên tục lắc đầu.",
+      "similarity": [
+        [
+          26,
+          0.96
+        ],
+        [
+          28,
+          0.96
+        ],
+        [
+          29,
+          0.95
+        ],
+        [
+          30,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Không có giao thủ qua, làm sao ngươi biết không phải là đối thủ!",
+      "dich": "\"Chưa giao thủ làm sao ngươi biết không phải là đối thủ!",
+      "suggest": "\"Chưa có giao thủ, làm sao ngươi biết đối phương không phải là đối thủ của ngươi!",
+      "similarity": [
+        [
+          27,
+          0.95
+        ],
+        [
+          29,
+          0.95
+        ],
+        [
+          31,
+          0.99
+        ],
+        [
+          32,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ta ngược lại là nghe người ta nói qua, ngươi đã từng cùng Cửu Khiếu Sơn chi nhân đã giao thủ a, thậm chí còn đã từng đánh bại trong bọn họ một thiên tài đệ tử.",
+      "dich": "Trái lại ta đã từng nghe người nói qua, ngươi đã từng giao thủ với đệ tử Cửu Khiếu Sơn, thậm chí còn đánh bại một đệ tử thiên tài trong bọn chúng.",
+      "suggest": "Trái lại ta đã nghe người ta nói qua, ngươi đã từng giao thủ với một nhân vật thiên tài trong đám người Cửu Khiếu Sơn, thậm chí đã từng đánh bại một trong những đệ tử thiên tài đó.",
+      "similarity": [
+        [
+          27,
+          0.96
+        ],
+        [
+          29,
+          0.95
+        ],
+        [
+          32,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Việc này tổng không phải là giả sao.\"",
+      "dich": "Việc này chắc không giả chứ!?\"",
+      "suggest": "Việc này cũng không phải là giả sao.\"",
+      "similarity": [
+        [
+          33,
+          0.97
+        ],
+        [
+          35,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lôi Thần nghe xong lời này, trên mặt hiển hiện một tia kỳ quái mà hỏi..",
+      "dich": "Lôi Thần nghe xong lời này, trên mặt hiện lên chút khó hiểu, hỏi lại.",
+      "suggest": "Lôi Thần nghe xong lời này, trên mặt lộ rõ vẻ kỳ quái hỏi.",
+      "similarity": [
+        [
+          28,
+          0.96
+        ],
+        [
+          34,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Lôi huynh làm sao biết việc này hay sao?\"",
+      "dich": "\"Làm sao Lôi huynh biết được việc này?\"",
+      "suggest": "\"Lôi huynh làm sao biết việc này?\"",
+      "similarity": [
+        [
+          29,
+          0.96
+        ],
+        [
+          31,
+          0.96
+        ],
+        [
+          35,
+          0.99
+        ],
+        [
+          37,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh nghe nói như thế, lại thật sự có vài phần giật mình.",
+      "dich": "Liễu Minh nghe thế, lúc này thật sự có vài phần giật mình.",
+      "suggest": "Liễu Minh nghe thế, thực sự có vài phần giật mình.",
+      "similarity": [
+        [
+          30,
+          0.96
+        ],
+        [
+          34,
+          0.95
+        ],
+        [
+          36,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Xem ra Bạch huynh chính mình còn không biết, ngươi đánh bại Cửu Khiếu Sơn thiên tài đệ tử sự tình đã sớm từ một ít Cửu Anh Sơn sư huynh trong miệng truyền ra, cho các ngươi nhất mạch môn hạ chi nhân có thể phóng đại rồi không ít thể diện đấy.",
+      "dich": "\"Xem ra chính Bạch huynh vẫn chưa biết, chuyện huynh đánh bại đệ tử thiên tài Cửu Khiếu Sơn đã được một vài sư huynh Cửu Anh Sơn nói ra ngoài từ lâu rồi. Cũng làm cho thể diện môn hạ đệ tử chi Cửu Anh tăng lên không ít đấy.",
+      "suggest": "\"Xem ra Bạch huynh còn không biết, chuyện ngươi đánh bại Cửu Khiếu Sơn đệ tử thiên tài đã từ miệng một vài sư huynh truyền ra, khiến cho các ngươi có không ít thể diện.",
+      "similarity": [
+        [
+          31,
+          0.95
+        ],
+        [
+          32,
+          0.98
+        ],
+        [
+          34,
+          0.95
+        ],
+        [
+          37,
+          0.99
+        ],
+        [
+          37,
+          0.96
+        ],
+        [
+          38,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cộng thêm gần nhất quét ngang Chấp Sự đường phần đông nhiệm vụ sự tình, ngươi bây giờ danh khí, kỳ thật tại trong tông không coi là nhỏ đấy.\"",
+      "dich": "Cộng thêm gần nhất chuyện sư huynh quét ngang rất nhiều nhiệm vụ Chấp Sự Đường, bây giờ danh khí của sư huynh trong tông kỳ thật không thể coi là nhỏ đâu.\"",
+      "suggest": "Với việc gần đây ngươi liên tục hoàn thành phần lớn nhiệm vụ trong Chấp Sự Đường, kỳ thật danh khí của ngươi tại Chấp Sự Đường quả thật không phải là nhỏ.\"",
+      "similarity": [
+        [
+          31,
+          0.95
+        ],
+        [
+          32,
+          0.96
+        ],
+        [
+          37,
+          0.97
+        ],
+        [
+          38,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Âu Dương phi cười khẽ nói.",
+      "dich": "Âu Dương Phi mỉm cười nói.",
+      "suggest": "Âu Dương Phi cười khẽ nói.",
+      "similarity": [
+        [
+          39,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh nghe đến đó, chỉ có thể cười khổ không dứt.",
+      "dich": "Liễu Minh nghe đến đó, chỉ có thể cười gượng không thôi.",
+      "suggest": "Liễu Minh nghe đến đó, chỉ có thể lắc đầu cười khổ.",
+      "similarity": [
+        [
+          34,
+          0.95
+        ],
+        [
+          36,
+          0.97
+        ],
+        [
+          40,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bạch sư đệ hiện tại không muốn luận bàn lời mà nói, vậy thì chờ đến một năm rưỡi sau đại khái a.",
+      "dich": "\"Nếu hiện giờ Bạch sư đệ không muốn luận bàn, vậy thì chờ đến lần tỷ thí Đại Giác chừng một năm rưỡi sau.",
+      "suggest": "\"Nếu Bạch sư đệ không muốn luận bàn, vậy thì đợi một năm sau vậy.",
+      "similarity": [
+        [
+          37,
+          0.96
+        ],
+        [
+          38,
+          0.95
+        ],
+        [
+          41,
+          0.98
+        ],
+        [
+          42,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngươi đến lúc đó tổng không có khả năng không tham gia này thịnh hội a!\"",
+      "dich": "Đến lúc đó chắc chắn ngươi không thể không tham gia thịnh hội này a!\"",
+      "suggest": "Đến lúc đó ngươi cũng không có khả năng không tham gia thịnh hội lần này đâu.\"",
+      "similarity": [
+        [
+          35,
+          0.96
+        ],
+        [
+          37,
+          0.96
+        ],
+        [
+          38,
+          0.95
+        ],
+        [
+          41,
+          0.96
+        ],
+        [
+          42,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lôi Thần nhìn chằm chằm vào Liễu Minh, lại nhàn nhạt một tiếng nói.",
+      "dich": "Lôi Thần nhìn chằm chằm vào Liễu Minh, thản nhiên nói một câu.",
+      "suggest": "Lôi Thần nhìn chằm chằm vào Liễu Minh, sau đó lại thản nhiên nói.",
+      "similarity": [
+        [
+          36,
+          0.96
+        ],
+        [
+          37,
+          0.95
+        ],
+        [
+          40,
+          0.97
+        ],
+        [
+          43,
+          0.99
+        ],
+        [
+          44,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Trong tông đại khái lời mà nói, tự nhiên là tránh cũng không thể tránh, bất quá đến lúc đó tại hạ tham gia lời mà nói, cũng không nhất định sẽ đụng phải Lôi huynh đấy.\"",
+      "dich": "\"Tỷ thí Đại Giác trong tông đương nhiên muốn tránh cũng không thể tránh được, nhưng đến lúc đó tại hạ tham gia cũng không nhất định sẽ gặp Lôi huynh.\"",
+      "suggest": "\"Trong tông đại khái tự nhiên là có thể tránh né, nhưng đến lúc đó nếu tại hạ tham gia, cũng không nhất định sẽ đụng phải Lôi huynh đâu.\"",
+      "similarity": [
+        [
+          37,
+          0.97
+        ],
+        [
+          37,
+          0.95
+        ],
+        [
+          38,
+          0.97
+        ],
+        [
+          41,
+          0.97
+        ],
+        [
+          42,
+          0.97
+        ],
+        [
+          44,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh chỉ có thể miễn cưỡng cười cười nói.",
+      "dich": "Liễu Minh chỉ có thể miễn cưỡng cười cười, nói.",
+      "suggest": "Liễu Minh chỉ có thể miễn cưỡng cười cười nói.",
+      "similarity": [
+        [
+          40,
+          0.98
+        ],
+        [
+          43,
+          0.97
+        ],
+        [
+          45,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Cái này không sao.",
+      "dich": "\"Cái này không vấn đề gì.",
+      "suggest": "\"Điều này cũng không sao.",
+      "similarity": [
+        [
+          46,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chỉ cần cho ta xem qua ngươi ra tay, dĩ nhiên là có thể biết thực lực của ngươi như thế nào, hy vọng đến lúc đó đừng để cho ta thất vọng rồi.\"",
+      "dich": "Chỉ cần ta được xem ngươi ra tay, đương nhiên có thể biết thực lực của ngươi như thế nào, hy vọng đến lúc đó đừng để cho ta thất vọng.\"",
+      "suggest": "Chỉ cần cho ta xem thực lực của ngươi, đương nhiên là có thể biết được thực lực của ngươi như thế nào, hi vọng đến lúc đó đừng để cho ta phải thất vọng.\"",
+      "similarity": [
+        [
+          42,
+          0.96
+        ],
+        [
+          44,
+          0.96
+        ],
+        [
+          47,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lôi Thần ngạo nghễ một tiếng nói, liền không nói thêm lời rời đi.",
+      "dich": "Lôi Thần ngạo nghễ nói một tiếng, sau đó liền không nói gì nữa quay người bước đi.",
+      "suggest": "Lôi Thần ngạo nghễ nói một tiếng, sau đó liền không nói thêm lời rời đi.",
+      "similarity": [
+        [
+          40,
+          0.96
+        ],
+        [
+          43,
+          0.96
+        ],
+        [
+          44,
+          0.96
+        ],
+        [
+          45,
+          0.96
+        ],
+        [
+          48,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Âu Dương phi bề bộn hướng Liễu Minh áy náy cười cười, cũng liền theo qua.",
+      "dich": "Âu Dương Phi vội vàng cười với vẻ áy náy với Liễu Minh, rồi lập tức theo sau.",
+      "suggest": "Âu Dương phi đang áy náy cười cười với Liễu Minh, sau đó liền đi theo.",
+      "similarity": [
+        [
+          43,
+          0.96
+        ],
+        [
+          45,
+          0.97
+        ],
+        [
+          49,
+          0.98
+        ],
+        [
+          50,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh thấy vậy, chỉ có thể hơi lắc đầu không nói.",
+      "dich": "Liễu Minh thấy vậy, chỉ có thể lắc lắc đầu không nói.",
+      "suggest": "Liễu Minh thấy vậy chỉ có thể lắc đầu không nói.",
+      "similarity": [
+        [
+          43,
+          0.97
+        ],
+        [
+          44,
+          0.95
+        ],
+        [
+          45,
+          0.98
+        ],
+        [
+          48,
+          0.96
+        ],
+        [
+          49,
+          0.96
+        ],
+        [
+          50,
+          0.99
+        ],
+        [
+          51,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá trong lòng hắn, lại đối với Lôi Thần này Nhân Ấn giống như tốt hơn một chút vòng vo một ít.",
+      "dich": "Tuy nhiên trong lòng hắn dường như lại có chút thiện cảm với vị Lôi Thần này.",
+      "suggest": "Tuy nhiên trong lòng hắn lại cảm thấy tốt hơn một chút với cái tên Lôi Thần này.",
+      "similarity": [
+        [
+          43,
+          0.95
+        ],
+        [
+          44,
+          0.96
+        ],
+        [
+          45,
+          0.95
+        ],
+        [
+          47,
+          0.95
+        ],
+        [
+          48,
+          0.95
+        ],
+        [
+          49,
+          0.95
+        ],
+        [
+          51,
+          0.99
+        ],
+        [
+          52,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tuy rằng kẻ này thoạt nhìn ngạo khí mười phần, hết sức tốt đấu, nhưng bản tính tựa hồ còn thập phần đơn thuần đấy.",
+      "dich": "Tuy người này thoạt nhìn ngạo khí mười phần, cực kỳ hiếu chiến, nhưng bản tính dường như lại rất đơn thuần.",
+      "suggest": "Tuy thoạt nhìn hắn ngạo khí mười phần, nhưng bản tính tựa hồ vẫn cực kỳ đơn thuần.",
+      "similarity": [
+        [
+          44,
+          0.95
+        ],
+        [
+          51,
+          0.96
+        ],
+        [
+          52,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chỉ sợ cũng giống như này, Thiên Cơ núi mới có thể lại để cho Âu Dương phi nàng này một mực làm bạn kia bên người a.",
+      "dich": "Chỉ sợ có như vậy thì Thiên Cơ Sơn mới có thể để Âu Dương Phi kia luôn luôn theo sát bên người gã được.",
+      "suggest": "Chỉ sợ cũng như vậy, Thiên Cơ núi mới có thể để cho Âu Dương phi ở bên cạnh suốt ngày.",
+      "similarity": [
+        [
+          45,
+          0.95
+        ],
+        [
+          47,
+          0.96
+        ],
+        [
+          48,
+          0.95
+        ],
+        [
+          49,
+          0.96
+        ],
+        [
+          51,
+          0.96
+        ],
+        [
+          53,
+          0.99
+        ],
+        [
+          54,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh trong nội tâm như vậy suy nghĩ thời điểm, cả tòa Vụ Châu cạnh ngoài một tầng nhàn nhạt màn sáng hiển hiện, đám đông toàn bộ Đô hộ tại kia xuống, sau đó chấn động, liền chở người xung quanh hướng xa xa bay mất.",
+      "dich": "Khi trong lòng Liễu Minh suy nghĩ như vậy, một tầng sáng nhàn nhạt xuất hiện bên ngoài Vụ Chu, tất cả mọi người đều được bao bọc vào bên trong màn sáng này, sau đó con thuyền rung lên, lập tức chở mọi người bay thật nhanh về phía xa.",
+      "suggest": "Trong khi Liễu Minh đang suy nghĩ, một tầng màn sáng nhàn nhạt xuất hiện bên ngoài phòng, đám đông Đô hộ phía ngoài rạp chiếu bóng hiện ra, sau đó bỗng nhiên chấn động, lập tức chở những người xung quanh bay về phía xa.",
+      "similarity": [
+        [
+          47,
+          0.96
+        ],
+        [
+          48,
+          0.96
+        ],
+        [
+          49,
+          0.96
+        ],
+        [
+          51,
+          0.96
+        ],
+        [
+          52,
+          0.95
+        ],
+        [
+          53,
+          0.96
+        ],
+        [
+          54,
+          0.99
+        ],
+        [
+          55,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh tại cự trên thuyền tìm một cái không người nơi hẻo lánh chỗ mới ngừng chân bất động, cũng hướng màn sáng bên ngoài vừa nhìn mà đi, cũng = đồng thời một chút cảm ứng Vụ Châu tốc độ.",
+      "dich": "Liễu Minh tìm một chỗ vắng vẻ trên con thuyền lớn mới dừng chân, hai mắt nhìn ra phía ngoài màn sáng, đồng thời cũng cảm nhận tốc độ của Vụ Chu một chút.",
+      "suggest": "Liễu Minh đang đứng bất động trên một con thuyền không có người qua lại, hắn cũng vừa nhìn ra ngoài màn sáng, đồng thời tăng tốc độ cảm ứng với Vụ Châu.",
+      "similarity": [
+        [
+          47,
+          0.96
+        ],
+        [
+          48,
+          0.96
+        ],
+        [
+          49,
+          0.96
+        ],
+        [
+          50,
+          0.95
+        ],
+        [
+          51,
+          0.96
+        ],
+        [
+          53,
+          0.96
+        ],
+        [
+          54,
+          0.98
+        ],
+        [
+          55,
+          0.98
+        ],
+        [
+          56,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cái này Vụ Châu tuy rằng so với Thuật Đằng Không mau hơn rất nhiều, nhưng mà so về cái kia chiếc Bích Linh Phi Châu đến, vẫn là cách biệt một trời một vực.",
+      "dich": "Vụ Chu này mặc dù nhanh hơn rất nhiều so với Thuật Đằng Không, nhưng so với chiếc Bích Linh Phi Châu kia vẫn cách biệt một trời một vực.",
+      "suggest": "Vụ Châu này mặc dù nhanh hơn Thuật Đằng Không rất nhiều, nhưng so với Bích Linh Phi Châu kia thì vẫn cách biệt một trời một vực.",
+      "similarity": [
+        [
+          51,
+          0.96
+        ],
+        [
+          53,
+          0.96
+        ],
+        [
+          54,
+          0.95
+        ],
+        [
+          56,
+          0.99
+        ],
+        [
+          57,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Xem ra điều này cũng thực sự không phải là cái gì phi hành Linh Khí, ngược lại là càng giống là nào đó pháp thuật cùng đặc thù Phù Khí đem kết hợp đặc thù thủ đoạn.",
+      "dich": "Xem ra Vụ Chu này cũng không thực sự là Linh Khí phi hành gì, trái lại càng giống như một loại pháp thuật nào đó và Phù Khí đặc thù được kết hợp với nhau thông qua một phương pháp đặc biệt.",
+      "suggest": "Xem ra điều này cũng không phải là Linh Khí phi hành, trái lại còn giống như một loại pháp thuật đặc thù kết hợp với nó một cách đặc thù.",
+      "similarity": [
+        [
+          51,
+          0.96
+        ],
+        [
+          52,
+          0.96
+        ],
+        [
+          53,
+          0.95
+        ],
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.96
+        ],
+        [
+          56,
+          0.96
+        ],
+        [
+          57,
+          0.99
+        ],
+        [
+          58,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh trong nội tâm một bên đang nghiên cứu Vụ Châu bí mật, một bên lấy tay sờ lên đặt ở trong tay áo một cái túi tiền.",
+      "dich": "Trong lòng Liễu Minh vừa nghiên cứu bí mật của Vụ Chu này, vừa lấy tay đặt lên túi tiền trong tay áo.",
+      "suggest": "Trong lòng Liễu Minh một bên đang nghiên cứu bí mật Vụ Châu, một bên lấy tay sờ sờ túi tiền đặt trong tay áo.",
+      "similarity": [
+        [
+          50,
+          0.95
+        ],
+        [
+          51,
+          0.95
+        ],
+        [
+          53,
+          0.96
+        ],
+        [
+          54,
+          0.97
+        ],
+        [
+          55,
+          0.97
+        ],
+        [
+          56,
+          0.96
+        ],
+        [
+          58,
+          0.99
+        ],
+        [
+          59,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trong bao vải chỉ có chừng ba mươi khối dị thường thanh tịnh Tinh Thạch, lại đúng là hắn từ tông môn đổi lấy trung giai Linh Thạch.",
+      "dich": "Trong túi vải chỉ có chừng ba mươi viên Tinh Thạch trong suốt lạ thường, chính là Linh Thạch trung giai được hắn đổi lấy từ tông môn.",
+      "suggest": "Trong bao vải chỉ có chừng ba mươi viên Tinh Thạch Thanh tịnh dị thường, đúng là do hắn đổi lấy Linh Thạch trung giai từ tông môn.",
+      "similarity": [
+        [
+          54,
+          0.95
+        ],
+        [
+          55,
+          0.95
+        ],
+        [
+          56,
+          0.96
+        ],
+        [
+          57,
+          0.96
+        ],
+        [
+          58,
+          0.96
+        ],
+        [
+          59,
+          0.99
+        ],
+        [
+          60,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nếu không thật muốn mang hơn ba nghìn khối cấp thấp Linh Thạch lời nói, hắn chỉ sợ muốn lưng cõng một cái túi lớn mới được rồi.",
+      "dich": "Nếu không, thực sự phải mang hơn ba nghìn viên Linh Thạch cấp thấp, chỉ sợ hắn phải cõng một cái bao lớn mới được.",
+      "suggest": "Nếu không thật sự muốn mang hơn ba nghìn khối Linh Thạch cấp thấp, hắn chỉ sợ phải cõng một cái túi lớn mới được.",
+      "similarity": [
+        [
+          52,
+          0.96
+        ],
+        [
+          53,
+          0.97
+        ],
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.96
+        ],
+        [
+          56,
+          0.96
+        ],
+        [
+          57,
+          0.96
+        ],
+        [
+          58,
+          0.97
+        ],
+        [
+          59,
+          0.96
+        ],
+        [
+          60,
+          1
+        ],
+        [
+          61,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn lúc này đây sở dĩ tình nguyện tiêu phí trên trăm điểm cống hiến cũng muốn đi Vệ châu phường thị, tự nhiên là vì dùng những thứ này Linh Thạch đổi lấy một ít gia tăng Pháp lực đan dược.",
+      "dich": "Hôm nay sở dĩ hắn chấp nhận tiêu phí hơn trăm điểm cống hiến để tới phường thị Vệ Châu, đương nhiên là vì muốn dùng những Linh Thạch này đổi lấy một ít đan dược gia tăng Pháp lực.",
+      "suggest": "Việc hắn chi ra hơn trăm điểm cống hiến cũng là vì muốn đổi lấy một ít Linh Thạch gia tăng Pháp lực để gia tăng Pháp lực.",
+      "similarity": [
+        [
+          53,
+          0.96
+        ],
+        [
+          54,
+          0.95
+        ],
+        [
+          55,
+          0.95
+        ],
+        [
+          56,
+          0.96
+        ],
+        [
+          58,
+          0.96
+        ],
+        [
+          59,
+          0.96
+        ],
+        [
+          60,
+          0.97
+        ],
+        [
+          61,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Dù sao hai lần thần bí bong bóng khí phát tác khoảng cách, cũng liền không quá nửa năm tả hữu.",
+      "dich": "Dù sao thời gian giữa hai lần bong bóng khí thần bí phát tác, cũng chỉ chừng nửa năm mà thôi.",
+      "suggest": "Dù sao hai lần bong bóng khí phát tác thần bí cũng chỉ cách nhau chưa tới nửa năm.",
+      "similarity": [
+        [
+          62,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn muốn thừa dịp tiếp theo phát tác trước, trước đem tu vi gia tăng đi lên rồi hãy nói.",
+      "dich": "Hắn muốn nhân lúc lần phát tác tiếp theo chưa xảy ra, trước tiên phải gia tăng tu vi của mình rồi sau đó tính tiếp.",
+      "suggest": "Hắn muốn nhân cơ hội này phát tác trước, trước tiên phải gia tăng tu vi lên rồi hãy nói.",
+      "similarity": [
+        [
+          60,
+          0.95
+        ],
+        [
+          61,
+          0.96
+        ],
+        [
+          63,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Dựa theo hắn từ những người khác trong miện giải đến tin tức, nhiều như vậy Linh Thạch nếu không phải cân nhắc đan dược phẩm chất vấn đề lời nói, nên cũng đầy đủ mua lấy không ít.",
+      "dich": "Dựa theo tin tức nghe được từ miệng những người khác, với nhiều Linh Thạch như vậy, nếu không cần cân nhắc đến vấn đề phẩm chất đan dược, có lẽ cũng để để mua một số lượng không nhỏ.",
+      "suggest": "Dựa theo tin tức từ những người khác trong miện giải tới, lượng Linh Thạch lớn như vậy nếu không phải là vấn đề về đan dược phẩm, chắc chắn cũng đủ để mua lấy không ít.",
+      "similarity": [
+        [
+          56,
+          0.97
+        ],
+        [
+          57,
+          0.96
+        ],
+        [
+          58,
+          0.97
+        ],
+        [
+          59,
+          0.96
+        ],
+        [
+          60,
+          0.98
+        ],
+        [
+          61,
+          0.97
+        ],
+        [
+          63,
+          0.96
+        ],
+        [
+          64,
+          0.99
+        ],
+        [
+          65,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhưng mà nói về, đan dược phẩm chất đối với tu luyện giả mà nói cũng là cực kỳ chuyện trọng yếu.",
+      "dich": "Tuy nhiên phẩm chất đan dược cũng là một chuyện cực kỳ trọng yếu đối với tu luyện giả.",
+      "suggest": "Nhưng nói về phẩm chất đan dược, đối với người tu luyện lại là chuyện cực kỳ trọng yếu.",
+      "similarity": [
+        [
+          57,
+          0.96
+        ],
+        [
+          58,
+          0.96
+        ],
+        [
+          59,
+          0.96
+        ],
+        [
+          60,
+          0.97
+        ],
+        [
+          61,
+          0.96
+        ],
+        [
+          63,
+          0.96
+        ],
+        [
+          64,
+          0.97
+        ],
+        [
+          65,
+          0.99
+        ],
+        [
+          66,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cao phẩm chất gia tăng Pháp lực loại đan dược phục dụng về sau, chẳng những có thể lại để cho Pháp lực nhiều gia tăng một ít, hơn nữa bên trong dược lực đơn thuần, tạp chất ít, lại để cho người dùng trong cơ thể sinh ra đan dược kháng lực sẽ sâu sắc giảm bớt đấy.",
+      "dich": "Sau khi sử dụng loại đan dược gia tăng Pháp lực có phẩm chất cao, chẳng những có thể khiến cho Pháp lực gia tăng nhiều hơn một ít, hơn nữa dược lực bên trong rất tinh thuần, ít tạp chất, khiến cho kháng lực với đan dược sinh ra trong cơ thể sẽ giảm xuống rất nhiều.",
+      "suggest": "Đan dược gia tăng Pháp lực có phẩm chất cao chẳng những có thể làm cho Pháp lực gia tăng thêm một ít, hơn nữa dược lực trong đan dược lại ít tạp chất, khiến cho người dùng Đan dược sinh ra đan dược có thể kháng cự lại dược lực, kháng lực sẽ sâu sắc hơn.",
+      "similarity": [
+        [
+          59,
+          0.95
+        ],
+        [
+          60,
+          0.95
+        ],
+        [
+          61,
+          0.96
+        ],
+        [
+          64,
+          0.97
+        ],
+        [
+          65,
+          0.95
+        ],
+        [
+          66,
+          0.99
+        ],
+        [
+          67,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Dù sao tu luyện giả trong cơ thể nào đó đan dược kháng lực một khi rất cao, phục dụng nhiều hơn nữa đồng loại đan dược cũng không cách nào triển khai quá lớn hiệu quả.",
+      "dich": "Dù sao một khi kháng lực với một loại đan dược nào đó trong cơ thể tu luyện giả mà tăng lên rất cao, cho dù có sử dụng loại đan dược đó nhiều hơn nữa cũng không thu được hiệu quả quá lớn.",
+      "suggest": "Dù sao đan dược trong cơ thể người tu luyện một khi có tác dụng kháng lực rất cao, khi phục dụng nhiều đan dược hơn nữa cũng không cách nào triển khai quá lớn hiệu quả.",
+      "similarity": [
+        [
+          59,
+          0.95
+        ],
+        [
+          60,
+          0.96
+        ],
+        [
+          61,
+          0.96
+        ],
+        [
+          63,
+          0.95
+        ],
+        [
+          64,
+          0.97
+        ],
+        [
+          65,
+          0.96
+        ],
+        [
+          66,
+          0.98
+        ],
+        [
+          67,
+          0.99
+        ],
+        [
+          68,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mà cấp bậc càng cao đan dược, đối với phẩm chất coi trọng cũng là càng cao đấy.",
+      "dich": "Mà đan dược cấp bậc càng cao, lại càng coi trọng phẩm chất hơn.",
+      "suggest": "Mà đan dược có cấp bậc cao thì phẩm chất cũng càng được coi trọng.",
+      "similarity": [
+        [
+          60,
+          0.95
+        ],
+        [
+          64,
+          0.96
+        ],
+        [
+          65,
+          0.97
+        ],
+        [
+          68,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Dù sao tu vi thấp đợi, có lẽ mấy viên gia tăng Pháp lực đan dược cũng đủ để lại để cho tu vi tiến nhanh từng bước, mà một khi đã đến Linh Sư hoặc là rất cao cấp bậc, nói không chừng ăn vào mấy chục trên trăm đan dược, mới chỉ bất quá có thể làm cho tu vi tăng tiến một bước nhỏ.",
+      "dich": "Dù sao với tu vi thấp, có lẽ chỉ cần dùng mấy viên đan dược gia tăng Pháp lực cũng đủ để tu vi tiến nhanh từng bước, nhưng một khi đã tới cảnh giới Linh Sư hoặc cao hơn nữa, nói không chừng sử dụng mấy chục trên trăm viên đan dược, tu vi mới chỉ có thể tăng lên được một bước rất nhỏ.",
+      "suggest": "Dù sao tu vi thấp thì cũng phải tốn vài viên đan dược gia tăng Pháp lực cũng đủ để cho tu vi tiến nhanh từng bước, mà một khi đã đến Linh Sư hoặc là rất cao cấp, nói không chừng phải ăn vào mấy chục viên đan dược gia tăng Pháp lực cũng đủ để cho tu vi tiến nhanh từng bước.",
+      "similarity": [
+        [
+          61,
+          0.96
+        ],
+        [
+          63,
+          0.95
+        ],
+        [
+          64,
+          0.97
+        ],
+        [
+          66,
+          0.98
+        ],
+        [
+          67,
+          0.98
+        ],
+        [
+          69,
+          0.99
+        ],
+        [
+          70,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đến nơi này lúc, đan dược phẩm chất càng cao tự nhiên cũng liền có thể phục dụng càng nhiều nữa loại này đan dược, Pháp lực cũng liền có thể gia tăng càng nhiều.",
+      "dich": "Đến lúc đó, phẩm chất đan dược càng cao, đương nhiên cũng sẽ có thể sử dụng loại đan dược này nhiều hơn, Pháp lực cũng có thể gia tăng càng nhiều.",
+      "suggest": "Đến lúc này, phẩm chất đan dược càng cao đương nhiên cũng có thể phục dụng thêm loại đan dược này, Pháp lực cũng sẽ càng được gia tăng lên càng nhiều.",
+      "similarity": [
+        [
+          64,
+          0.96
+        ],
+        [
+          65,
+          0.95
+        ],
+        [
+          66,
+          0.97
+        ],
+        [
+          67,
+          0.97
+        ],
+        [
+          68,
+          0.97
+        ],
+        [
+          69,
+          0.96
+        ],
+        [
+          70,
+          0.99
+        ],
+        [
+          71,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mặt khác đối với một ít có đặc thù hiệu quả đan dược, phẩm chất càng cao, đối với hiệu quả càng có biên độ tăng trưởng tác dụng.",
+      "dich": "Mặt khác đối với một vài loại đan dược có hiệu quả đặc thù, phẩm chất càng cao, tác dụng lại càng lớn.",
+      "suggest": "Một vài đan dược có phẩm chất đặc thù, phẩm chất càng cao, đối với hiệu quả càng có biên độ tăng trưởng.",
+      "similarity": [
+        [
+          66,
+          0.97
+        ],
+        [
+          67,
+          0.95
+        ],
+        [
+          68,
+          0.96
+        ],
+        [
+          69,
+          0.95
+        ],
+        [
+          70,
+          0.96
+        ],
+        [
+          71,
+          0.98
+        ],
+        [
+          72,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Kể từ đó, cao phẩm chất đan dược giá tiền là bình thường phẩm chất đan dược gấp mấy lần thậm chí mười mấy lần giá cả sự tình, đang tu luyện giới cũng là chuyện thường xảy ra rồi.",
+      "dich": "Bởi vậy, chuyện giá cả đan dược phẩm chất cao gấp mấy lần đan dược phẩm chất bình thường, thậm chí còn gấp mười mấy lần, trong giới tu luyện hiện nay cũng là chuyện thường xuyên xảy ra.",
+      "suggest": "Cứ như vậy, giá tiền của đan dược cao gấp mấy lần phẩm chất đan dược bình thường, thậm chí gấp mấy lần giá tiền của người bình thường khi tu luyện cũng là chuyện thường.",
+      "similarity": [
+        [
+          64,
+          0.96
+        ],
+        [
+          65,
+          0.95
+        ],
+        [
+          66,
+          0.97
+        ],
+        [
+          67,
+          0.97
+        ],
+        [
+          68,
+          0.95
+        ],
+        [
+          69,
+          0.97
+        ],
+        [
+          70,
+          0.97
+        ],
+        [
+          71,
+          0.96
+        ],
+        [
+          72,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá những thứ này dĩ nhiên đối với hắn hiện tại mà nói, hay vẫn là quá xa vời một ít.",
+      "dich": "Tuy nhiên những điều này đối với hắn hiện giờ dĩ nhiên vẫn là chuyện quá xa vời.",
+      "suggest": "Tuy nhiên những thứ này đối với hắn hiện giờ vẫn còn quá xa vời.",
+      "similarity": [
+        [
+          65,
+          0.96
+        ],
+        [
+          73,
+          0.99
+        ],
+        [
+          74,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn bây giờ còn chẳng qua là Linh Đồ trung kỳ, đối với cái này vấn đề ngược lại không cần quá nặng xem đấy.",
+      "dich": "Bây giờ hắn chỉ là môt tên Linh Đồ trung kỳ, trái lại không cần quá coi trọng vấn đề này.",
+      "suggest": "Bây giờ hắn chỉ là Linh Đồ trung kỳ, đối với những vấn đề này ngược lại không cần phải xem trọng.",
+      "similarity": [
+        [
+          67,
+          0.95
+        ],
+        [
+          70,
+          0.95
+        ],
+        [
+          72,
+          0.95
+        ],
+        [
+          73,
+          0.96
+        ],
+        [
+          74,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh nhìn qua Vụ Châu bên ngoài, thở dài một hơi như vậy suy nghĩ lấy..",
+      "dich": "Liễu Minh nhìn ra bên ngoài Vụ Chu, thở dài một hơi nghĩ như vậy.",
+      "suggest": "Liễu Minh nhìn ra ngoài Vụ Châu, thở dài một hơi, suy nghĩ một chút.",
+      "similarity": [
+        [
+          75,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trong lòng của hắn khẽ động, bỗng nhiên quay người lại tới đây.",
+      "dich": "Bỗng nhiên trong lòng của hắn hơi xao động, lập tức quay người nhìn lại.",
+      "suggest": "Trong lòng hắn khẽ động, đột nhiên quay người lại.",
+      "similarity": [
+        [
+          76,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chỉ thấy ở một bên hơn một trượng đi xa, tên kia gọi \"Thúy nhi\" thiếu nữ lại chẳng biết lúc nào ra hiện ra tại đó, hơn nữa mắt cũng không chớp nhìn qua \"Hắn\", không, phải nói là nhìn qua kia bên hông màu đen áo da mới đúng.",
+      "dich": "Chỉ thấy cách hắn hơn một trượng, thiếu nữ tên gọi \"Thúy nhi\" kia chẳng biết lúc nào đã đứng ở đó, hơn nữa mắt không chớp lấy một cái nhìn về phía hắn, không, chính xác phải nói là nhìn chằm chằm vào cái túi da màu đen bên hông hắn.",
+      "suggest": "Chỉ thấy cách đó hơn một trượng, thiếu nữ tên gọi Thúy nhi kia không biết từ lúc nào đã xuất hiện ở đó, hơn nữa hai mắt cũng không chớp nhìn qua Hắn, không, phải nói là nhìn qua cái áo da màu đen bên hông kia mới đúng.",
+      "similarity": [
+        [
+          72,
+          0.95
+        ],
+        [
+          73,
+          0.95
+        ],
+        [
+          74,
+          0.96
+        ],
+        [
+          75,
+          0.95
+        ],
+        [
+          76,
+          0.97
+        ],
+        [
+          77,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Sư tỷ có thể có chuyện gì phân phó sao?\"",
+      "dich": "\"Sư tỷ có chuyện gì cần tiểu đệ ra sức sao?\"",
+      "suggest": "\"Sư tỷ có chuyện gì phân phó sao?\"",
+      "similarity": [
+        [
+          78,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh bị đối phương nhìn trong nội tâm sợ hãi, miễn cưỡng cười cười mà hỏi.",
+      "dich": "Liễu Minh bị đối phương nhìn chằm chằm, trong lòng hơi bất an, miễn cưỡng cười cười hỏi.",
+      "suggest": "Liễu Minh thấy đối phương nhìn trong lòng sợ hãi, miễn cưỡng cười cười hỏi.",
+      "similarity": [
+        [
+          75,
+          0.96
+        ],
+        [
+          79,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Cái này cỗ khí tức không có sai, đích thật là Dưỡng Hồn Đại không giả.",
+      "dich": "\"Khí tức này ... Đúng rồi, đích xác là Dưỡng Hồn Đại.",
+      "suggest": "\"Phong Lưu Khí tức này không sai, đích xác là Dưỡng Hồn Đại không giả.",
+      "similarity": [
+        [
+          80,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Vị sư đệ này, cùng ngươi thương lượng một việc như thế nào, đem ngươi cái này cái Dưỡng Hồn Đại bán cho ta đi?\"",
+      "dich": "Vị sư đệ này, ta thương lượng một việc với ngươi được không, ngươi bán cái Dưỡng Hồn Đại này cho ta đi?\"",
+      "suggest": "Vị sư đệ này, thảo luận việc bán Dưỡng Hồn Đại này với ta như thế nào?\"",
+      "similarity": [
+        [
+          74,
+          0.95
+        ],
+        [
+          81,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thiếu nữ áo lục nghe vậy, rút cuộc đem ánh mắt từ áo da bên trên lưu luyến dịch chuyển khỏi, nhưng lập tức hướng về phía Liễu Minh vẻ mặt tươi cười nói.",
+      "dich": "Thiếu nữ áo lục nghe vậy, cuối cùng cũng rời ánh mắt khỏi túi da với vẻ lưu luyến không thôi, nhưng mặt mũi lập tức tươi cười nói với Liễu Minh.",
+      "suggest": "Thiếu nữ áo xanh nghe vậy, rút cuộc dời mắt khỏi áo da, nhưng lập tức quay mặt về phía Liễu Minh tươi cười nói.",
+      "similarity": [
+        [
+          75,
+          0.96
+        ],
+        [
+          76,
+          0.96
+        ],
+        [
+          77,
+          0.96
+        ],
+        [
+          79,
+          0.96
+        ],
+        [
+          82,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Cái này chỉ sợ lại để cho sư tỷ thất vọng rồi.",
+      "dich": "\"Chuyện này chỉ sợ phải làm cho sư tỷ thất vọng rồi.",
+      "suggest": "\"Chuyện này chỉ sợ sẽ khiến cho sư tỷ thất vọng.",
+      "similarity": [
+        [
+          78,
+          0.96
+        ],
+        [
+          83,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thứ này tại hạ không bán đấy.\"",
+      "dich": "Thứ này tại hạ không bán.\"",
+      "suggest": "Thứ này tại hạ không bán.\"",
+      "similarity": [
+        [
+          84,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh trong nội tâm rùng mình, nhưng lập tức lắc đầu nói.",
+      "dich": "Trong lòng Liễu Minh rùng mình, lập tức lắc đầu nói.",
+      "suggest": "Trong lòng Liễu Minh rùng mình, nhưng lập tức lắc đầu nói.",
+      "similarity": [
+        [
+          82,
+          0.96
+        ],
+        [
+          83,
+          0.95
+        ],
+        [
+          85,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Sư đệ đừng nói như vậy khẳng định a, ta dùng một kiện cực phẩm Phù Khí để đổi như thế nào... Thật sự không được, hai kiện cũng được!\"",
+      "dich": "\"Sư đệ đừng chắc như đinh đóng cột vậy chứ, ta dùng một kiện Phù Khí cực phẩm để đổi lấy ... Nếu thực sự không được, thì hai kiện!\"",
+      "suggest": "\"Sư đệ đừng nói như vậy, ta dùng một kiện Phù Khí cực phẩm để đổi lấy một kiện như thế nào? Thật sự không được, hai kiện cũng được!\"",
+      "similarity": [
+        [
+          78,
+          0.96
+        ],
+        [
+          81,
+          0.96
+        ],
+        [
+          82,
+          0.95
+        ],
+        [
+          83,
+          0.96
+        ],
+        [
+          86,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thiếu nữ áo lục liên tục nói.",
+      "dich": "Thiếu nữ áo lục liên tục nói.",
+      "suggest": "Thiếu nữ áo xanh liên tục nói.",
+      "similarity": [
+        [
+          87,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mà Liễu Minh sau khi nghe, thần sắc không khỏi hơi chậm lại.",
+      "dich": "Liễu Minh nghe xong, thần sắc không thể không nghiêm túc nhìn đối phương.",
+      "suggest": "Mà Liễu Minh nghe xong, sắc mặt không khỏi hơi chậm lại.",
+      "similarity": [
+        [
+          82,
+          0.96
+        ],
+        [
+          85,
+          0.95
+        ],
+        [
+          88,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cái này Dưỡng Hồn Đại thế nhưng là xấp xỉ Linh Khí bảo vật, đối phương vậy mà định dùng một hai kiện Phù Khí để đổi, đây là ý gì?",
+      "dich": "Dưỡng Hồn Đại này dù gì cũng là bảo vật xấp xỉ Linh Khí, vậy mà đối phương định dùng một hai kiện Phù Khí để đổi lấy, đây là ý gì?",
+      "suggest": "Dưỡng Hồn Đại này cũng là bảo vật xấp xỉ Linh Khí, đối phương vậy mà lại dùng một hai kiện Phù Khí để đổi lấy, vậy là ý gì?",
+      "similarity": [
+        [
+          81,
+          0.95
+        ],
+        [
+          86,
+          0.97
+        ],
+        [
+          89,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chẳng lẽ ý định mạnh mẽ bắt lấy hào đoạt hay sao!",
+      "dich": "Chẳng lẽ định cưỡng ép đoạt bảo hay sao!",
+      "suggest": "Chẳng lẽ ý định mạnh mẽ bắt lấy hào đoạt sao!",
+      "similarity": [
+        [
+          90,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá nhìn thiếu nữ áo lục cười tủm tỉm đáng yêu bộ dáng, hiện tại quả là không quá giống rồi.",
+      "dich": "Tuy nhiên nhìn dáng vẻ cười tủm tỉm đáng yêu của thiếu nữ áo lục, hiện giờ quả thực không giống một kẻ cậy mạnh hiếp yếu chút nào.",
+      "suggest": "Tuy nhiên nhìn dáng vẻ đáng yêu cười tủm tỉm của thiếu nữ áo xanh, hiện giờ quả thực không quá giống.",
+      "similarity": [
+        [
+          86,
+          0.95
+        ],
+        [
+          91,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh trong nội tâm lòng cảnh giác cùng một chỗ, càng ngay cả liền lắc đầu.",
+      "dich": "Trong lòng Liễu Minh cảnh giác, càng ngày càng lắc đầu mạnh hơn.",
+      "suggest": "Trong lòng Liễu Minh cảnh giác lẫn nhau, thậm chí hắn còn lắc đầu liên tục.",
+      "similarity": [
+        [
+          85,
+          0.97
+        ],
+        [
+          87,
+          0.96
+        ],
+        [
+          88,
+          0.96
+        ],
+        [
+          92,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thiếu nữ áo lục cũng rất nhanh liền đem giá cả tăng lên tới ba kiện Phù Khí lên, nhưng một bộ kiên nhẫn bộ dạng.",
+      "dich": "Thiếu nữ áo lục cũng rất nhanh tăng giá lên tới ba kiện Phù Khí lên, bộ dạng cực kỳ kiên nhẫn.",
+      "suggest": "Thiếu nữ áo xanh cũng nhanh chóng tăng giá ba kiện Phù Khí lên, nhưng vẫn rất kiên nhẫn.",
+      "similarity": [
+        [
+          86,
+          0.96
+        ],
+        [
+          89,
+          0.97
+        ],
+        [
+          91,
+          0.95
+        ],
+        [
+          93,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Thúy nhi, ngươi đang làm cái gì, còn không mau tới đây.\"",
+      "dich": "\"Thúy nhi, ngươi đang làm gì đó, còn không mau tới đây.\"",
+      "suggest": "\"Thúy nhi, ngươi đang làm cái gì vậy, còn không mau tới đây!\"",
+      "similarity": [
+        [
+          86,
+          0.95
+        ],
+        [
+          94,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đúng lúc này, một cái lạnh lùng thanh âm từ một phương khác hướng truyền đến.",
+      "dich": "Đúng lúc này, một giọng nói lạnh lùng truyền đến từ một hướng khác.",
+      "suggest": "Đúng lúc này, một giọng nói lạnh lùng từ một phương khác truyền đến.",
+      "similarity": [
+        [
+          95,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh ngẩng đầu nhìn lại, nhưng là vị kia Tiền sư tỷ đã đi tới, cũng hướng thiếu nữ áo lục mặt không biểu tình nói.",
+      "dich": "Liễu Minh ngẩng đầu nhìn qua, đúng là vị Tiền sư tỷ kia đang đi tới, mặt không hiện lên chút cảm xúc nào nói với thiếu nữ áo lục.",
+      "suggest": "Liễu Minh ngẩng đầu nhìn lại, nhưng đúng là vị Tiền sư tỷ kia đã đi tới, quay mặt về phía thiếu nữ áo xanh, mặt không đổi sắc nói.",
+      "similarity": [
+        [
+          88,
+          0.97
+        ],
+        [
+          89,
+          0.95
+        ],
+        [
+          91,
+          0.96
+        ],
+        [
+          92,
+          0.96
+        ],
+        [
+          93,
+          0.95
+        ],
+        [
+          94,
+          0.95
+        ],
+        [
+          95,
+          0.95
+        ],
+        [
+          96,
+          0.99
+        ],
+        [
+          97,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"A, sư tỷ tại sao không có đi thao túng tàu cao tốc, cũng đừng phi sai rồi phương hướng.\"",
+      "dich": "\"A, sao sư tỷ không điều khiển con thuyền mà lại đến đây, cẩn thận kẻo bay sai hướng đấy.\"",
+      "suggest": "\"A, sư tỷ tại sao không đi thao túng tàu cao tốc chứ? Cũng đừng đi sai hướng.\"",
+      "similarity": [
+        [
+          91,
+          0.95
+        ],
+        [
+          94,
+          0.97
+        ],
+        [
+          96,
+          0.95
+        ],
+        [
+          97,
+          0.97
+        ],
+        [
+          98,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thiếu nữ áo lục vừa thấy Tiền sư tỷ tới đây, thoáng một phát giống như hỏa thiêu bờ mông giống như lập tức đi tới, cũng cười làm lành nói.",
+      "dich": "Thiếu nữ áo lục vừa thấy Tiền sư tỷ đi tới, bỗng nhiên như bị 'lửa đốt mông' lập tức chạy tới, cười cười lấy lòng nói.",
+      "suggest": "Thiếu nữ áo xanh vừa thấy Tiền sư tỷ tới, lập tức đi tới, cười tươi nói.",
+      "similarity": [
+        [
+          96,
+          0.97
+        ],
+        [
+          98,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Hừ, ta lại để cho Lục Túc tạm thời giúp ta chấp chưởng tàu cao tốc.",
+      "dich": "\"Hừ, ta đã để cho Lục Túc tạm thời giúp ta điều khiển con thuyền.",
+      "suggest": "\"Hừ, ta sẽ để cho Lục Túc tạm thời giúp ta điều khiển tàu cao tốc.",
+      "similarity": [
+        [
+          94,
+          0.95
+        ],
+        [
+          99,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngược lại là ngươi bệnh cũ xem ra lại tái phát, vừa thấy ưa thích thứ đồ vật liền đi bất động đường, cho người khác càn quấy đi lên.",
+      "dich": "Nhưng xem ra bệnh cũ của ngươi lại tái phát rồi, vừa thấy đồ vật ưa thích đã không chịu nổi rồi, lại đi quấy rầy người khác hả?",
+      "suggest": "Trái lại, bệnh cũ của ngươi xem chừng lại tái phát, vừa thấy vật mình thích liền chạy như điên, để cho người khác càn quấy.",
+      "similarity": [
+        [
+          93,
+          0.95
+        ],
+        [
+          96,
+          0.96
+        ],
+        [
+          97,
+          0.95
+        ],
+        [
+          98,
+          0.96
+        ],
+        [
+          100,
+          0.98
+        ],
+        [
+          101,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cái này vị sư đệ này chớ để ý, Thúy nhi nha đầu kia cũng không có gì ác ý, chẳng qua là trời sinh tính có chút tinh nghịch mà thôi.\"",
+      "dich": "Vị sư đệ này chớ trách, nha đầu Thúy nhi kia cũng không có ý xấu đâu, chỉ có điều là tính tình trời sinh có chút nghịch ngợm mà thôi.\"",
+      "suggest": "Vị sư đệ này chớ để ý, nha đầu Thúy nhi kia cũng không có ác ý, chỉ là trời sanh tính tình có chút tinh nghịch mà thôi.\"",
+      "similarity": [
+        [
+          93,
+          0.95
+        ],
+        [
+          94,
+          0.95
+        ],
+        [
+          96,
+          0.96
+        ],
+        [
+          97,
+          0.95
+        ],
+        [
+          98,
+          0.96
+        ],
+        [
+          100,
+          0.95
+        ],
+        [
+          101,
+          0.99
+        ],
+        [
+          102,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tiền sư tỷ hừ một tiếng răn dạy thiếu nữ hai câu về sau, liền xoay người hướng Liễu Minh thần sắc dừng một chút nói.",
+      "dich": "Tiền sư tỷ hừ một tiếng răn dạy thiếu nữ, sau đó liền xoay người có chút hòa hoãn nói với Liễu Minh.",
+      "suggest": "Tiền sư tỷ hừ một tiếng, răn dạy thiếu nữ hai câu, sau đó liền xoay người hướng Liễu Minh dừng lại một chút, nói.",
+      "similarity": [
+        [
+          94,
+          0.95
+        ],
+        [
+          95,
+          0.96
+        ],
+        [
+          96,
+          0.97
+        ],
+        [
+          97,
+          0.95
+        ],
+        [
+          98,
+          0.97
+        ],
+        [
+          99,
+          0.95
+        ],
+        [
+          101,
+          0.96
+        ],
+        [
+          102,
+          0.99
+        ],
+        [
+          103,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Không có việc gì, Thúy nhi sư tỷ cũng không làm cái gì quá phận sự tình.\"",
+      "dich": "\"Không sao, sư tỷ Thúy nhi cũng không làm chuyện gì quá đáng.\"",
+      "suggest": "\"Không có việc gì, Thúy nhi sư tỷ cũng không làm chuyện quá phận.\"",
+      "similarity": [
+        [
+          96,
+          0.95
+        ],
+        [
+          97,
+          0.96
+        ],
+        [
+          98,
+          0.95
+        ],
+        [
+          99,
+          0.96
+        ],
+        [
+          101,
+          0.96
+        ],
+        [
+          102,
+          0.97
+        ],
+        [
+          103,
+          0.99
+        ],
+        [
+          104,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh đối mặt người này tại Man Quỷ Tông bài danh Top 5 đệ tử hạch tâm, tự nhiên không dám lãnh đạm nói.",
+      "dich": "Liễu Minh đối mặt với đệ tử hạch tâm đứng thứ năm tại Man Quỷ Tông, đương nhiên không dám chậm trễ, nói.",
+      "suggest": "Liễu Minh đối mặt với đệ tử hạch tâm Man Quỷ Tông, đương nhiên không dám chậm trễ nói.",
+      "similarity": [
+        [
+          96,
+          0.95
+        ],
+        [
+          102,
+          0.96
+        ],
+        [
+          104,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đúng rồi, sư đệ họ gì, là cái đó nhất mạch môn hạ!\"",
+      "dich": "\"Đúng rồi, sư đệ họ gì, thuộc chi nào vậy?!\"",
+      "suggest": "\"Đúng rồi, sư đệ họ gì, là môn hạ thuộc chi nào?\"",
+      "similarity": [
+        [
+          105,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tiền sư tỷ gật đầu, nhưng ánh mắt đã ở kia bên hông áo da bên trên quét qua về sau, lại hỏi một câu.",
+      "dich": "Tiền sư tỷ gật đầu, nhưng sau khi ánh mắt quét qua cái túi da bên hông hắn, lại hỏi một câu.",
+      "suggest": "Tiền sư tỷ gật đầu, nhưng ánh mắt đã quét qua lớp da bên hông áo da kia, sau đó lại hỏi một câu.",
+      "similarity": [
+        [
+          98,
+          0.97
+        ],
+        [
+          99,
+          0.96
+        ],
+        [
+          101,
+          0.95
+        ],
+        [
+          102,
+          0.98
+        ],
+        [
+          103,
+          0.96
+        ],
+        [
+          104,
+          0.96
+        ],
+        [
+          106,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Tại hạ họ Bạch, là Cửu Anh Sơn Khuê sư môn hạ!\"",
+      "dich": "\"Tại hạ họ Bạch, là môn hạ của Khuê sư chi Cửu Anh Sơn!\"",
+      "suggest": "\"Tại hạ họ Bạch, là môn hạ thuộc chi Cửu Anh Sơn!\"",
+      "similarity": [
+        [
+          107,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh không biết đối phương dụng ý, nhưng cũng không có giấu diếm ý tứ.",
+      "dich": "Liễu Minh tuy không biết dụng ý của đối phương là gì, nhưng cũng không định giấu diếm.",
+      "suggest": "Liễu Minh mặc dù không biết dụng ý của đối phương, nhưng cũng không có ý định giấu diếm.",
+      "similarity": [
+        [
+          101,
+          0.96
+        ],
+        [
+          102,
+          0.95
+        ],
+        [
+          104,
+          0.95
+        ],
+        [
+          108,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ah, Khuê sư bá môn hạ.",
+      "dich": "\"A, môn hạ của Khuê sư bá.",
+      "suggest": "\"A, Khuê sư bá môn hạ.",
+      "similarity": [
+        [
+          109,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Xem ra ngươi cái này cái Dưỡng Hồn Đại hẳn không phải là tông môn ban tặng rồi.",
+      "dich": "Xem ra Dưỡng Hồn Đại này của ngươi hẳn không phải được tông môn ban tặng rồi.",
+      "suggest": "Xem ra cái Dưỡng Hồn Đại này không phải là do tông môn ban tặng đâu.",
+      "similarity": [
+        [
+          102,
+          0.96
+        ],
+        [
+          104,
+          0.95
+        ],
+        [
+          110,
+          0.99
+        ],
+        [
+          111,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ta cho sư đệ một cái đề nghị, nếu như ngươi không giống vật ấy bị người đơn giản nhận ra lời mà nói, tốt nhất dùng xích ** bôi lên một lần, kể từ đó lời mà nói, có thể nhận ra vật ấy người liền rải rác không có mấy rồi.",
+      "dich": "Ta cho sư đệ một lời khuyên, nếu như ngươi không muốn vật này dễ dàng bị người nhận ra, tốt nhất nên bôi lên trên một lớp Xích Hồ. Như vậy chắc chắn sẽ không có mấy người có thể nhận ra vật này.",
+      "suggest": "Ta đưa ra đề nghị, nếu ngươi không giống vật ấy, tốt nhất dùng xích ** bôi lên một lần, như vậy thì khả năng ngươi nhận ra vật ấy cũng không phải là ít.",
+      "similarity": [
+        [
+          111,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Dù sao Vệ châu phường thị bí mật khó giữ nếu nhiều người biết, đến lúc đó hay vẫn là cẩn thận một chút một chút thì tốt hơn.\"",
+      "dich": "Dù sao sẽ rất khó giữ bí mật tại phường thị Vệ châu nếu có nhiều người biết, vẫn nên cẩn thận một chút thì tốt hơn.\"",
+      "suggest": "Dù sao thì bí mật của phường thị cũng khó giữ kín nếu nhiều người biết, đến lúc đó hay vẫn nên cẩn thận một chút thì tốt hơn.\"",
+      "similarity": [
+        [
+          111,
+          0.96
+        ],
+        [
+          111,
+          0.95
+        ],
+        [
+          112,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tiền sư tỷ thản nhiên nói.",
+      "dich": "Tiền sư tỷ thản nhiên nói.",
+      "suggest": "Tiền sư tỷ thản nhiên nói.",
+      "similarity": [
+        [
+          113,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đa tạ sư tỷ chỉ điểm, tiểu đệ biết rõ như thế nào đi làm.\"",
+      "dich": "\"Đa tạ sư tỷ chỉ điểm, tiểu đệ đã biết rõ nên làm như thế nào.\"",
+      "suggest": "\"Đa tạ sư tỷ chỉ điểm, tiểu đệ biết nên làm như thế nào rồi.\"",
+      "similarity": [
+        [
+          111,
+          0.96
+        ],
+        [
+          114,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh nao nao, nhưng trong miệng bề bộn cảm ơn một tiếng.",
+      "dich": "Liễu Minh nao nao, nhưng vẫn vội vàng cảm ơn một tiếng.",
+      "suggest": "Liễu Minh hơi nao nao, nhưng ngoài miệng vẫn cảm ơn một tiếng.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Tiền sư tỷ gật gật đầu, liền mang theo còn có mấy phần không muốn thiếu nữ áo lục rời đi.",
+      "dich": "Tiền sư tỷ gật gật đầu, sau đó liền dắt theo thiếu nữ áo lục vẫn còn có chút lưu luyến rời đi.",
+      "suggest": "Tiền sư tỷ gật gật đầu, sau đó liền mang theo một thiếu nữ áo xanh còn vài phần không muốn rời đi.",
+      "similarity": [
+        [
+          111,
+          0.95
+        ],
+        [
+          112,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bạch sư đệ, ngươi nhiều hơn nữa cân nhắc thoáng một phát, giá cả còn có thể lại thương lượng một chút đấy.\"",
+      "dich": "\"Bạch sư đệ, ngươi cứ cân nhắc thêm chút nữa nhé, giá cả vẫn còn có thể thương lượng lại mà.\"",
+      "suggest": "\"Bạch sư đệ, ngươi hãy cân nhăc kỹ một chút, giá cả còn có thể thương lượng lại với ta.\"",
+      "similarity": [
+        [
+          111,
+          0.97
+        ],
+        [
+          112,
+          0.96
+        ],
+        [
+          114,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh bên tai bỗng nhiên lại truyền tới Thúy nhi truyền âm thanh âm, lại để cho kia thật sự triệt để bó tay rồi.",
+      "dich": "Bên tai Liễu Minh bỗng nhiên truyền tới giọng nói của Thúy nhi, điều này thực sự khiến cho hắn hoàn toàn bó tay rồi.",
+      "suggest": "Bên tai Liễu Minh bỗng nhiên truyền tới thanh âm của Thúy nhi, khiến cho hắn thật sự bó tay không biết làm sao.",
+      "similarity": [
+        [
+          110,
+          0.96
+        ],
+        [
+          111,
+          0.96
+        ],
+        [
+          111,
+          0.96
+        ],
+        [
+          112,
+          0.96
+        ]
+      ],
+      "approved": true
+    }
+  ]
+}

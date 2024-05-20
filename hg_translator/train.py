@@ -95,20 +95,6 @@ print("Sample train data:", train_data[0])
 print("Number of train data:", len(train_data))
 # {'id': '3_34', 'translation': {'convert': 'Buổi sáng về sau, Vương hộ pháp cũng không có nhường mọi người ăn điểm tâm, trực tiếp bả nhiều người người tới dưới núi một mảng lớn đủ loại cây trúc sườn dốc trước mặt', 'dich': 'Hôm sau trời vừa sáng, Vương hộ pháp cũng không để cho mọi người được ăn điểm tâm, trực tiếp mang cả bọn xuống núi, tới trước một khu rừng trúc rậm rạp'}}
 
-# load dataset
-# all_books = load_dataset("opus_books", "en-fr")
-
-
-# # Create a small dataset
-# books = DatasetDict({"train": all_books["train"].select(range(number_of_books))})
-
-# books = books["train"].train_test_split(test_size=0.2)
-# print(books["train"][0])
-# exit(0)
-# books["train"][0]
-
-# preprocess
-
 
 # checkpoint = "google-t5/t5-small"
 tokenizer_model = checkpoint
@@ -123,9 +109,6 @@ def load_tokenizer():
 
 
 tokenizer = load_tokenizer()
-
-# source_lang = "en"
-# target_lang = "fr"
 
 source_lang = "convert"
 target_lang = "dich"

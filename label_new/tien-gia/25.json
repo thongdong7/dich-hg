@@ -1,0 +1,1409 @@
+{
+  "currentLine": 106,
+  "next": {
+    "id": 26,
+    "title": "Chương 26: Pháp thuật chi đạo"
+  },
+  "previous": {
+    "id": 24,
+    "title": "Chương 24: Súc Nguyên Tí"
+  },
+  "title": {
+    "convert": "Chương 25",
+    "dich": "Chương 25"
+  },
+  "lines": [
+    {
+      "convert": "Viên Minh đem hai cây lợn rừng hung thú răng dài tận gốc rút ra, sau đó dùng chuẩn bị xong vỏ cây dây thừng buộc chặt tốt, dự định mang đến cóc đáy vực đổi ít đồ.",
+      "dich": "Viên Minh nhổ tận hai cái nanh của hung thú lợn lòi ra, sau đó dùng dây thừng bện từ vỏ cây buộc chặt lại, dự định mang đến Cáp Mô Cốc đổi lấy ít đồ.",
+      "suggest": "Viên Minh lấy hai cái răng dài của con lợn rừng ra khỏi gốc, sau đó dùng dây thừng buộc chặt phần vỏ cây để buộc chặt mấy cái túi nhỏ rồi định mang xuống đáy vực làm ít đồ.",
+      "similarity": [
+        [
+          0,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá trước lúc này, đầu này to mập lợn rừng tự nhiên cũng không thể lãng phí, dùng để tế một tế ngũ tạng miếu vừa vặn.",
+      "dich": "Có điều trước lúc đó, tất nhiên không thể lãng phí con lợn lòi to béo này, đem tế ngũ tạng miếu là vừa đẹp.",
+      "suggest": "Tuy nhiên trước đó mấy con lợn rừng này tự nhiên cũng không lãng phí, con lợn rừng này tự nhiên cũng không lãng phí, dùng để tế tự ngũ tạng miếu là vừa vặn.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Nhưng lại tại Viên Minh chuẩn bị lột đi da lợn rừng thời điểm, bốn phía bỗng nhiên có tiếng bước chân truyền đến, hắn lập tức nắm chặt bạch cốt đoản thương, cảnh giác mong hướng bốn phía.",
+      "dich": "Nhưng khi Viên Minh chuẩn bị lột da con lợn lòi, từ bốn phía chợt có tiếng bước chân truyền tới, hắn lập tức nắm chặt cây cốt thương, cảnh giác nhìn khắp xung quanh.",
+      "suggest": "Nhưng ngay khi Viên Minh chuẩn bị lột da lợn rừng, bỗng nhiên bốn phía bỗng nhiên có tiếng bước chân đến, hắn lập tức nắm chặt lấy đoản thương, cảnh giác nhìn bốn phía.",
+      "similarity": [
+        [
+          2,
+          0.44
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Sau một khắc, bốn đạo nhân ảnh từ núi rừng bốn phía bên trong nhảy ra, đem Viên Minh vây ở trung ương.",
+      "dich": "Sau một khắc, bốn bóng người từ trong rừng nhảy ra, vây quanh người Viên Minh.",
+      "suggest": "Sau một khắc, bốn bóng người từ trong núi rừng nhảy ra, bao trọn Viên Minh ở trung ương.",
+      "similarity": [
+        [
+          3,
+          0.51
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Thanh Lang Bang mấy vị bằng hữu, đột nhiên như thế lao ra, là muốn làm gì?\"",
+      "dich": "\"Mấy vị bằng hữu Thanh Lang Bang, đột nhiên lao ra như thế là định làm gì?\"",
+      "suggest": "\"Hai vị bằng hữu Thanh Lang Bang đột nhiên lao ra, là muốn làm gì?\"",
+      "similarity": [
+        [
+          4,
+          0.42
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh xem xét mấy người này, lông mày hơi hơi nhíu lên.",
+      "dich": "Viên Minh quan sát mấy gã này xong, khẽ nhíu mày, chất vấn.",
+      "suggest": "Viên Minh nhìn mấy người này, lông mày khẽ nhíu lại.",
+      "similarity": [
+        [
+          55,
+          0.13
+        ],
+        [
+          71,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Thế nào, tiểu tử, lần này không định chạy?\"",
+      "dich": "\"Sao thế tiểu tử, lần này không định chạy?\"",
+      "suggest": "\"Thế nào, tiểu tử, lần này không chạy à?\"",
+      "similarity": [
+        [
+          6,
+          0.42
+        ],
+        [
+          63,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ở trong người cầm đầu xùy cười một tiếng, là một cái người khoác sói xanh da thô ngắn hán tử, làn da ngăm đen đỏ lên, xem xét chính là dã nhân xuất thân.",
+      "dich": "Tên thủ lĩnh đám này cười nhạo một tiếng. Gã thủ lĩnh này là một hán tử thô kệch, dáng lùn, thân mặc áo da sói thô ráp, làn da ngăm đen đỏ au, nhìn bộ dạng hẳn trước kia là dã nhân.",
+      "suggest": "Cầm đầu ở bên trong cười ha hả một tiếng, là một hán tử mặc áo bào xanh của sói xanh, da ngăm đen, nhìn xem xem người này có xuất thân từ dã nhân không.",
+      "similarity": [
+        [
+          7,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh lúc trước đã cùng những người này qua lại mấy lần, chuẩn xác mà nói, là những người này trước tiên phía trước ba phen mấy bận, tính toán vây giết Viên Minh, chỉ bất quá Viên Minh tính cảnh giác cực cao, bọn hắn mỗi lần cũng là còn đến không kịp vây quanh, liền đã cho Viên Minh trốn.",
+      "dich": "Viên Minh lúc trước đã từng va chạm với đám này mấy lần, nói chính xác là mấy tên này khi trước ba lần bảy lượt mưu tính vây giết Viên Minh, chỉ có điều Viên Minh vô cùng cơ cảnh, khiến bọn chúng chưa kịp tới bao vây thì Viên Minh đã trốn thoát.",
+      "suggest": "Lúc trước Viên Minh đã liên lạc với những người này qua lại mấy lần, đích xác là ba lần trước tiên bọn họ gây hấn với Viên Minh, chỉ có điều Viên Minh lại có cảnh giác cực cao, bọn họ mỗi lần đến gần đều nhắm bắn Viên Minh, chỉ có điều Viên Minh lại không kịp tránh né, đành phải cho Viên Minh chạy thoát.",
+      "similarity": [
+        [
+          8,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lần này thật vất vả ngăn chặn Viên Minh, bọn hắn như thế nào lại dễ dàng buông tha?",
+      "dich": "Lần này vất vả lắm mới vây được hắn, bọn chúng làm sao có thể dễ dàng buông tha?",
+      "suggest": "Lần này thật vất vả ngăn cản Viên Minh, bọn hắn như thế nào lại dễ dàng buông tha cho bọn họ?",
+      "similarity": [
+        [
+          9,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đối với những người này vốn là cảm nhận không tốt, vẫn luôn là có thể trốn liền trốn, nhưng hôm nay xem ra bình thường là không thoát thân được rồi.",
+      "dich": "Viên Minh vốn không có thiện cảm với đám này, trước giờ luôn là có thể trốn thì trốn, nhưng hôm nay xem ra là không thoát được rồi.",
+      "suggest": "Viên Minh vốn có cảm giác không tốt với những người này, vẫn luôn có thể chạy trốn, nhưng hôm nay xem ra bình thường hắn không thoát thân được nữa rồi.",
+      "similarity": [
+        [
+          10,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bớt nói nhiều lời, giao ra cái kia hai cây lợn rừng răng thú cùng ngươi túi trữ máu bên trong huyết thực, bằng không ngày này sang năm, liền là ngày giỗ của ngươi.\"",
+      "dich": "\"Bớt nói nhảm, giao hai cái nanh lợn lòi cùng huyết thực trong túi trữ máu của ngươi ra đây, nếu không ngày này năm sau chính là ngày giỗ của ngươi.\"",
+      "suggest": "\"Khoan đã, giao ra hai cây răng thú kia cùng với túi máu chứa máu của ngươi. Nếu không ngày này sang năm, là ngày giỗ của ngươi.\"",
+      "similarity": [
+        [
+          11,
+          0.26
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cầm đầu thô ngắn hán tử nói.",
+      "dich": "Hán tử cầm đầu hăm dọa.",
+      "suggest": "Tên cầm đầu thô ngắn nói.",
+      "similarity": [
+        [
+          12,
+          0.15
+        ],
+        [
+          88,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bọn hắn nhân số thực lực tuyệt đối chiếm ưu, căn bản không đem Viên Minh để vào mắt.",
+      "dich": "Thực lực, nhân số bọn chúng chiếm ưu thế tuyệt đối, nên cơ bản không để Viên Minh vào mắt.",
+      "suggest": "Thực lực của bọn họ tuyệt đối chiếm ưu thế, căn bản không để Viên Minh vào mắt.",
+      "similarity": [
+        [
+          13,
+          0.42
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh trong lòng than nhẹ một tiếng, biết bữa này thịt heo rừng sợ là không kịp ăn rồi, không khỏi rất là tiếc hận.",
+      "dich": "Viên Minh thầm thở dài một hơi, tự biết bữa thịt lợn rừng này e là ăn không được, không khỏi cảm thấy vô cùng tiếc hận.",
+      "suggest": "Viên Minh thầm than một tiếng, biết rằng lần này không thể ăn hết miếng thịt heo rừng này, không khỏi rất tiếc hận.",
+      "similarity": [
+        [
+          14,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá hắn đổ cũng không có sợ hãi chút nào, những người này ở trong cầm đầu cái kia thô ngắn hán tử, miễn cưỡng coi là luyện khí một tầng, còn lại ba cái đi theo, đều vẫn chưa tới luyện khí một tầng, chính là liên thủ lại, cũng không phải là đối thủ của hắn.",
+      "dich": "Có điều hắn cũng không hề sợ hãi, bởi trong đám này, tên hán tử lùn cầm đầu miễn cưỡng tính là Luyện Khí tầng một, còn ba tên đi theo đều chưa tới Luyện Khí tầng một, dù chúng có liên thủ thì cũng không phải là đối thủ của hắn.",
+      "suggest": "Tuy nhiên hắn lại không sợ hãi chút nào, đám người cầm đầu kia, miên cương được coi là luyện khí một tầng, còn lại ba người còn lại, đều không tới tầng luyện khí một, nếu như liên thủ lại thì cũng không phải là đối thủ của hắn.",
+      "similarity": [
+        [
+          15,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn đem trói tốt lợn rừng răng dài, không nhanh không chậm liếc cột vào trên lưng mình, ngón tay nhẹ nhàng vuốt ve cái kia bạch cốt đoản thương.",
+      "dich": "Hắn cột chặt hai cái nanh lợn lòi, xong bình tĩnh buộc chéo sau lưng, đưa tay vuốt ve cây đoản thương kia.",
+      "suggest": "Hắn đem cái răng dài của con lợn rừng buộc chặt lại, không nhanh không chậm cột vào trên lưng mình, ngón tay nhẹ nhàng vuốt ve cái đoản thương màu trắng kia.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Một động tác này đối với Thanh Lang Bang mà nói, hiển nhiên là rõ ràng không chịu giao ra răng thú, bọn hắn lúc này nhao nhao phủ thêm khoác mao da thú, chuẩn bị thi triển Phi Mao chi thuật hóa thú.",
+      "dich": "Động tác này với đám người Thanh Lang Bang mà nói, hiển nhiên là tuyên bố không chịu giao nanh thú ra, tức thì, bọn chúng nhao nhao trùm Phi Mao thú bì lên đầu, thi triển Phi Mao Thuật để hóa thú.",
+      "suggest": "Động tác này của đối phương hiển nhiên là không chịu giao ra răng thú, bọn họ lúc này nhao nhao phủ thêm áo bào da thú, chuẩn bị thi triển thuật hóa thú Phi Mao.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Nhưng vào lúc này, vừa mới cột chắc răng dài Viên Minh, đột nhiên không có dấu hiệu nào bạo khởi, trong tay bạch cốt đoản thương lần nữa tụ lực một kích, hướng về ngay phía trước cái kia cầm đầu dã nhân ném mạnh mà đi.",
+      "dich": "Nhưng đúng lúc này, Viên Minh vừa mới cột chắc nanh thú xong, đột nhiên không dấu hiệu báo trước nào bạo khởi, cánh tay đang cầm cốt thương lần nữa tụ lực đánh một kích, ném thẳng về phía trước người dã nhân cầm đầu kia.",
+      "suggest": "Nhưng đúng lúc này, Viên Minh vừa mới cột chặt răng xong, đột nhiên không có dấu hiệu phục hồi, đoản thương trong tay lại lần nữa tụ lực một kích, ném mạnh con dã nhân cầm đầu về phía trước.",
+      "similarity": [
+        [
+          18,
+          0.42
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Người kia thấy thế kinh hãi, tựa hồ không nghĩ tới Viên Minh dám ra tay với hắn, lúc này muốn thi triển khoác mao thuật lại đã không kịp rồi, bạch cốt đoản thương \"Sưu\" một chút bay bắn tới trước ngực của hắn.",
+      "dich": "Gã kia thấy thế kinh hãi, tựa như không nghĩ Viên Minh lại dám ra tay với gã, giờ muốn thi triển pmy đã không kịp, chỉ chớp mắt đã thấy đoản thương mang theo tiếng gió rít bay tới ngay trước ngực.",
+      "suggest": "Người này thấy thế kinh hãi, tựa hồ không nghĩ Viên Minh dám ra tay với hắn, lúc này muốn thi triển thuật khoác mao đã không còn kịp rồi, bạch cốt đoản thương 'sưu' một tiếng bắn tới trước ngực hắn.",
+      "similarity": [
+        [
+          19,
+          0.26
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Phanh\" một tiếng vang trầm!",
+      "dich": "Một tiếng 'rầm' trầm thấp vang lên.",
+      "suggest": "Một tiếng 'rầm' trầm đục vang lên.",
+      "similarity": [
+        [
+          20,
+          0.5
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Người kia lọt vào trọng kích, thân thể bỗng nhiên bay ngược ra ngoài, hung hăng đập vào một gốc tráng kiện cổ thụ bên trên, trong miệng máu tươi phun ra, nặng nề té ngã trên mặt đất.",
+      "dich": "Gã bị trúng một đòn nặng, cơ thể bị đẩy văng ra sau rồi nặng nề đập lên một gốc cây cổ thụ, tức thì miệng ói máu tươi, người ngã vật ra đất.",
+      "suggest": "Người kia bị trọng kích, thân thể bay ngược ra ngoài, hung hăng đập vào một gốc cây cổ thụ, miệng máu tươi phun ra, té ngã trên mặt đất.",
+      "similarity": [
+        [
+          21,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mấy người khác thấy thế, vội vàng thi triển Phi Mao chi thuật.",
+      "dich": "Mấy tên kia thấy thế, vội vàng thi triển Phi Mao Thuật.",
+      "suggest": "Mấy người khác thấy thế, vội vàng thi triển thuật Phi Mao.",
+      "similarity": [
+        [
+          22,
+          0.51
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhưng chờ bọn hắn chuẩn bị sẵn sàng lúc, Viên Minh đã nhảy lên một cái, rơi vào thô ngắn hán tử trước người.",
+      "dich": "Có điều trong lúc bọn chúng còn đang chuẩn bị, Viên Minh đã nhảy vọt tới, rơi lên trên người hán tử lùn.",
+      "suggest": "Nhưng khi bọn hắn đã chuẩn bị sẵn sàng, Viên Minh đã nhảy lên một cái, nhảy lên người một hán tử thô ngắn.",
+      "similarity": [
+        [
+          23,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn nhặt lên chuôi này bạch cốt đoản thương, chặn lại cổ của người nọ, nói ra:",
+      "dich": "Hắn nhặt cây cốt thương lên, dí mũi thương vào cổ gã rồi nói:",
+      "suggest": "Hắn nhặt lấy thanh đoản thương, chặn lại cổ của người nọ, nói:",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Ta nếu là muốn giết ngươi, vừa rồi bắn về phía ngươi chính là mũi thương, mà không phải chuôi thương rồi.",
+      "dich": "\"Nếu ta muốn giết người, mới rồi thứ bắn về phía ngươi là mũi thương chứ không phải cán thương.",
+      "suggest": "\"Ta nếu muốn giết ngươi, vừa rồi mũi thương bắn về phía ngươi không phải là chuôi thương chứ?",
+      "similarity": [
+        [
+          25,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lần này lưu ngươi mạng chó, là để ngươi cút về nói cho các ngươi bang chủ, ta chỉ muốn thanh thản ổn định săn thú, đừng đến trêu chọc ta!\"",
+      "dich": "Lần này giữ lại cái mạng chó của ngươi, là để ngươi về nói bang chủ của các ngươi, ta chỉ muốn an ổn săn thú, đừng có trêu chọc ta!\"",
+      "suggest": "Lần này lưu lại mạng chó của ngươi là để ngươi cút về nói cho bang chủ các ngươi, ta chỉ muốn thanh thản ổn định săn thú, đừng có trêu chọc ta!\"",
+      "similarity": [
+        [
+          26,
+          0.52
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nói câu nói sau cùng lúc, Viên Minh âm thanh đột nhiên đề cao, cảnh cáo ý vị mười phần.",
+      "dich": "Lúc nói câu sau, Viên Minh cố tình đẩy cao giọng lên, thể hiện ý cảnh cáo rõ ràng.",
+      "suggest": "Nói xong, âm thanh cảnh cáo đột nhiên cao vút lên, ý vị mười phần.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Người kia dọa phải liên tục gật đầu, muốn muốn lên tiếng trả lời, thế nhưng trong cổ họng đều là máu tươi, cái gì đều nói không rõ ràng.",
+      "dich": "Gã kia bị dọa cho gật đầu như bổ củi, toan lên tiếng trả lời nhưng trong họng toàn là máu tươi, nói gì cũng không ra tiếng.",
+      "suggest": "Người này liên tục gật đầu, muốn lên tiếng trả lời nhưng trong cổ họng đều là máu tươi, nói cái gì cũng không rõ.",
+      "similarity": [
+        [
+          28,
+          0.33
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Hình như ra tay hơi nặng quá.\"",
+      "dich": "\"Hình như hạ thủ hơi nặng.\"",
+      "suggest": "\"Hình như ra tay hơi nặng một chút nhỉ?\"",
+      "similarity": [
+        [
+          29,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh thầm nghĩ trong lòng một câu, xách theo bạch cốt đoản thương cất bước đi.",
+      "dich": "Viên Minh thầm nghĩ trong lòng, xong liền xách cốt thương rời đi.",
+      "suggest": "Viên Minh thầm nghĩ trong lòng một câu, sau đó xách theo đoản thương màu trắng bước đi.",
+      "similarity": [
+        [
+          30,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chờ đến Viên Minh đi xa, thô ngắn hán tử dùng sức đem trong miệng máu tươi nhả sạch, lúc này mới cát khàn cổ họng, oán hận nói ra: \"Ngươi tiểu tử này dám thừa dịp ta không có chuẩn bị làm đánh lén... Ta sớm muộn nhất định muốn giết ngươi.\"",
+      "dich": "Đợi khi Viên Minh đã đi xa, gã hán tử lùn mới ra sức nhổ hết máu tươi trong miệng ra, xong mới nói một câu tràn đầy oán giận bằng giọng vẫn còn khàn khàn: \"Tiểu tử ngươi dám thừa lúc ta không chuẩn bị mà đánh lén ... Không sớm thì muộn, ta nhất định giết chết ngươi.\"",
+      "suggest": "Chờ Viên Minh đi khuất, hán tử thô ngắn dùng sức nhổ sạch sẽ máu tươi trong miệng, lúc này cổ họng mới khàn khàn, oán hận nói: \"Ngươi tiểu tử này dám thừa dịp ta không có chuẩn bị đánh lén, ta sớm muộn sẽ giết ngươi.\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Bên cạnh đi theo ba người thấy thế, cũng cũng không dám đáp lời.",
+      "dich": "Mấy gã đi theo nghe thế, chỉ yên lặng không dám tiếp lời.",
+      "suggest": "Ba người bên cạnh thấy thế cũng không dám đáp lời.",
+      "similarity": [
+        [
+          72,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ba người các ngươi phế vật, một chút tác dụng cũng không có!",
+      "dich": "\"Ba tên phế vật các ngươi, chẳng được tích sự gì!",
+      "suggest": "\"Ba người các ngươi, một chút tác dụng cũng không có!",
+      "similarity": [
+        [
+          33,
+          0.14
+        ],
+        [
+          67,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tháng này nộp lên trên trong bang huyết thực gấp bội, trong ba ngày, không quản các ngươi dùng phương pháp gì, đều giao cho ta.\"",
+      "dich": "Phạt tăng gấp đôi lượng huyết thực cần nộp cho bang tháng này. Trong ba ngày, mặc kệ các người dùng cách gì, phải giao cho ta!\"",
+      "suggest": "Tháng này nộp lên bang phí gấp đôi số lượng máu thực nộp lên. Trong ba ngày, không quản các ngươi dùng phương pháp gì, đều giao cho ta.\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Thả xong ngoan thoại sau đó, nhỏ bé hán tử lại nhìn về phía ba người, càng là giận không chỗ phát tiết.",
+      "dich": "Nói một câu ác độc xong, hán tử lùn nhìn về phía ba gã đàn em, lập tức cảm thấy càng tức giận hơn.",
+      "suggest": "Sau khi nói hết những lời trong trẻo, hán tử nhỏ bé nhìn về phía ba người, ánh mắt giận dữ không thôi.",
+      "similarity": [
+        [
+          35,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Trát Cáp lão đại hạ thủ lưu tình!\"",
+      "dich": "\"Trát Cáp lão đại thủ hạ lưu tình!\"",
+      "suggest": "\"Trát Cáp lão đại hạ thủ lưu tình!\"",
+      "similarity": [
+        [
+          36,
+          0.62
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Mỗi tháng chỉ riêng tông môn cùng trong bang yêu cầu nộp lên bộ phận, đã có chút không thở được!\"",
+      "dich": "\"Mỗi tháng chỉ mỗi phần nộp cho tông môn với trong bang đã thở không nổi rồi!\"",
+      "suggest": "\"Mỗi tháng chỉ riêng tông môn và bang phái phải nộp đơn lên bộ phận tông môn, đã có chút không thở nổi rồi!\"",
+      "similarity": [
+        [
+          37,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đúng vậy a, không có qua mấy ngày chính là nộp lên trên tông môn thời gian, trong ba ngày lại muốn thu thập căn bản không kịp a!",
+      "dich": "\"Đúng vậy ạ, chỉ mấy ngày nữa là tới hạn phải nộp lên tông môn, trong ba ngày lại muốn thu thập cơ bản không thể kịp!",
+      "suggest": "\"Đúng vậy, còn mấy ngày nữa mới nộp đơn lên tông môn, thời gian ba ngày tiếp theo cơ bản không kịp!",
+      "similarity": [
+        [
+          38,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tông môn bên kia nếu như giao nộp không đủ, đó là một con đường chết rồi.\"",
+      "dich": "Bên tông môn mà nộp không đủ thì chỉ có con đường chết.\"",
+      "suggest": "Nếu như giao nộp không đủ thì đó là một con đường chết a.\"",
+      "similarity": [
+        [
+          39,
+          0.25
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ba người kia nghe vậy, lập tức sắc mặt trắng bệch, vội vàng quỳ rạp xuống đất, dập đầu như giã tỏi mà liên tục cầu xin tha thứ.",
+      "dich": "Ba người nghe xong lời của hán tử lùn, lập tức tái mặt, cuống cuồng quỳ rạp xuống đất, dập đầu như giã tỏi, liên tục cầu xin tha thứ.",
+      "suggest": "Ba người nghe vậy, sắc mặt lập tức trắng bệch, vội vàng quỳ xuống đất, dập đầu như giã tỏi, liên tục cầu xin tha thứ.",
+      "similarity": [
+        [
+          40,
+          0.51
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lấy thực lực của bọn hắn, mỗi tháng dựa vào tự động săn thú nộp lên trên tông môn năm phần huyết thực vốn là mười phần miễn cưỡng, lại thỉnh thoảng sẽ tao ngộ người khác cướp bóc, bất đắc dĩ mới gia nhập vào Thanh Lang Bang, một phương diện có thể tìm kiếm cái che chở, một phương diện khác, thì lại đồng dạng có thể lấy nhiều khi ít, ngược lại cướp bóc người khác.",
+      "dich": "Lấy thực lực bọn họ, mỗi tháng tự mình đi săn thú để kiếm năm phần huyết thực nộp lên tông môn vốn là chuyện rất khó khăn, thỉnh thoảng còn bị người khác cướp bóc, bất đắc dĩ mới gia nhập Thanh Lang Bang, một mặt là từ đó có thể có được chỗ dựa, mặt khác là có thể ỷ đông hiếp yếu, đi cướp của người khác.",
+      "suggest": "Với thực lực của bọn hắn, mỗi tháng dựa vào năm phần máu thịt do tự động săn thú nộp lên tông môn là mười phần miễn cưỡng, hơn nữa thỉnh thoảng còn gặp phải chuyện cướp bóc, bất đắc dĩ mới gia nhập vào Thanh Lang bang, một phương diện có thể tìm được sự che chở, phương diện khác, lại có thể cướp bóc được nhiều hơn, ngược lại còn cướp bóc được nhiều hơn.",
+      "similarity": [
+        [
+          41,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đương nhiên Thanh Lang Bang không dưỡng phế vật, cũng yêu cầu thành viên mỗi tháng đúng hạn nộp lên trên nhất định huyết thực, vô hình trung đã gia tăng thành viên áp lực.",
+      "dich": "Đương nhiên, Thanh Lang Bang không nuôi phế vật nên cũng yêu cầu thành viên mỗi tháng phải nộp lên một số lượng huyết thực nhất định, vô hình trùng càng tăng thêm áp lực cho thành viên.",
+      "suggest": "Đương nhiên, phế vật không nuôi nổi, cũng yêu cầu mỗi tháng thành viên phải nộp một lượng nhất định huyết thực, điều này làm cho áp lực tăng lên rất nhiều.",
+      "similarity": [
+        [
+          42,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Liền ba ngày!",
+      "dich": "\"Chỉ ba ngày!",
+      "suggest": "\"Liền ba ngày!",
+      "similarity": [
+        [
+          43,
+          0.43
+        ],
+        [
+          89,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Giao không đủ, các ngươi biết hậu quả!\"",
+      "dich": "Giao không đủ, các ngươi tự biết hậu quả!\"",
+      "suggest": "Giao không đủ, các ngươi phải biết hậu quả!\"",
+      "similarity": [
+        [
+          44,
+          0.73
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đối với bọn hắn cầu xin tha thứ, thô ngắn hán tử không có nửa điểm thương hại, hắn một lời nộ khí, cũng nên tìm địa phương gắn mới được.",
+      "dich": "Nghe những lợi cầu xin của bọn họ, hán tử lùn không có chút thương hại nào, một bụng tức giận của gã, cũng phải tìm chỗ xả mới được.",
+      "suggest": "Đối với lời cầu xin tha thứ của bọn họ, hán tử thô ngắn không có nửa điểm thương hại, hắn một lời nộ khí, cũng phải tìm một chỗ khác mới được.",
+      "similarity": [
+        [
+          45,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mắt thấy đầu đều đập đổ máu, thô ngắn hán tử vẫn như cũ không hề bị lay động, quỳ dưới đất ba người biết cuối cùng vô dụng, đứng lên.",
+      "dich": "Thấy mình dập chảy máu đầu mà tên hán tử lùn này vẫn không hề động lòng, ba người đang quỳ dưới đất hiểu nói gì cuối cùng cũng vô dụng, liền đứng lên.",
+      "suggest": "Mắt thấy đầu đều đã rỉ máu, hán tử thô ngắn vẫn đứng yên không nhúc nhích, hai tay quỳ xuống đất ba người biết cuối cùng không còn gì để sống nữa, liền đứng dậy.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Bọn hắn vẻ mặt trên mặt từ thấp thỏm lo âu, dần dần biến bình tĩnh, cuối cùng chuyển thành lạnh nhạt, ba người nhìn nhau một cái, sau đó cùng một chỗ hướng về thô ngắn hán tử vây quanh.",
+      "dich": "Vẻ lo âu trên mặt bọn họ dần dần chuyển sang bình tĩnh, cuối cũng biến thành lạnh lùng. Ba người liếc mắt nhìn nhau rồi cùng nhau bước tới vây quanh hán tử lùn.",
+      "suggest": "Vẻ mặt bọn họ từ thấp thỏm lo âu dần dần biến thành lạnh nhạt, cuối cùng trở nên lạnh nhạt, ba người nhìn nhau, sau đó đồng thời quay đầu nhìn về phía hán tử thô ngắn.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Thô ngắn hán tử nguyên bản vẫn còn đang không ngừng chửi rủa, có thể đợi đến ba người kia đè hắn xuống bả vai lúc, mới rốt cục ý thức được không thích hợp, âm thanh nhẹ hơi có chút run rẩy mà hỏi thăm: \"Các ngươi... Các ngươi muốn làm cái gì?",
+      "dich": "Hán tử lùn vốn còn đang chửi rủa không ngơi mồm, phải tới khi ba người kia đè vai gã xuống, gã mới ý thức được có gì đó không đúng, run giọng dò hỏi: \"Các ngươi ... Các ngươi muốn làm gì?",
+      "suggest": "hán tử thô ngắn vốn đang không ngừng chửi rủa, nhưng đến tận khi ba người kia đè hắn xuống bả vai, hắn mới ý thức được sự bất thường, giọng nói khẽ run rẩy hỏi:",
+      "similarity": [
+        [
+          48,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Không muốn sống nữa sao!\"",
+      "dich": "Không muốn sống à!\"",
+      "suggest": "Không muốn sống nữa sao!\"",
+      "similarity": [
+        [
+          49,
+          0.32
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đều là ngươi ép, đừng trách chúng ta...\"",
+      "dich": "\"Đều là do người ép, đừng trách chúng ta.\"",
+      "suggest": "\"Đều tại ngươi, đừng trách chúng ta ...\"",
+      "similarity": [
+        [
+          50,
+          0.46
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Rất nhanh, một tiếng kêu thê lương thảm thiết âm thanh truyền đến, lại rất nhanh bị người che, đã biến thành thấp giọng kêu rên....",
+      "dich": "Rất nhanh, một tiếng kêu thê lương thảm thiết vang lên, nhưng cũng rất nhanh bị người bịt lại, biến thành tiếng kêu rên khe khẽ...",
+      "suggest": "Rất nhanh, một tiếng kêu gào thê lương truyền tới, rất nhanh bị người ta che lại, sau đó liền biến thành thấp giọng rên rỉ....",
+      "similarity": [
+        [
+          51,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trong rừng, một mảnh quần cư doanh địa.",
+      "dich": "Trong rừng, tại một mảnh quần cư doanh địa.",
+      "suggest": "Trong rừng có một khu doanh địa tập trung nhiều người qua lại.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Từng tòa thanh hạt tấm ván gỗ đinh thành nhà gỗ, lấy cực lớn cây cối thân cành làm căn cơ, đặt ngang tại đại thụ bên trên, cao thấp xen vào nhau, số lượng không thiếu.",
+      "dich": "Có không ít những căn nhà gỗ màu xanh nâu, cao thấp không đều, nằm ngang trên những cây đại thụ.",
+      "suggest": "Từng căn nhà gỗ nhỏ được làm từ những thân cây cối cực lớn, lấy thân cành cực lớn làm căn cơ đặt ngang trên một gốc cây to, cao thấp xen kẽ nhau, số lượng không thiếu.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Bên trong một cái lò sưởi bên trong mang lấy đống lửa, phía trên đang để một ngụm to lớn thạch oa, bên trong \"Ùng ục ùng ục\" đốt nồng trắng canh thịt, tản mát ra đậm đà mùi thịt.",
+      "dich": "Trong những bếp này, có một bếp đang nổi lửa, bên trên đặt một cái nồi đá cực lớn, nước dùng trong nồi sôi ùng ục, tỏa ra mùi thịt nồng đậm.",
+      "suggest": "Trong một cái lò sưởi, bên trên đang để một cái chén lớn, bên trên đang để một cái chén gỗ to, bên trong đang đổ một nồi thịt nướng đỏ au, mùi thịt nướng thơm lừng tỏa ra.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Những người này cơ hồ tất cả bên trên xích lõa, bên hông vây quanh một trương nửa người da thú, trong đó lấy sói xanh cùng báo đen các loại làm chủ, sau thắt lưng đều buông thõng da thú đầu mặt, rõ ràng toàn bộ đều là Phi Mao thú nô.",
+      "dich": "Mấy người này hầu như ai cũng ở trần, hông quấn nửa bộ da thú, trong đó chủ yếu là da sói xanh và báo đen, phần da mặt, đầu thú được treo thõng sau thắt lưng. Hiển nhiên, mấy người này đều là Phi Mao thú nô.",
+      "suggest": "Những người này hầu như đều mang trên vai một cái túi da thú, trong đó có cả da thú nửa người, chủ yếu là da sói xanh và báo đen làm chủ, sau lưng tất cả đều trùm kín cái túi da thú, rõ ràng đều là Phi Mao thú nô.",
+      "similarity": [
+        [
+          55,
+          0.25
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này, bên ngoài doanh trại có ba bóng người, đi lại vội vã chạy trở về, đi thẳng tới bên cạnh đống lửa, hướng về ở giữa đang ngồi một người, quỳ ngã xuống.",
+      "dich": "Lúc này, bên ngoài doanh địa có ba bóng người đang hớt ha hớt hải chạy trở về, rồi đi thẳng tới bên cạnh đống lửa, hướng về một người ngồi ở chính giữa rồi quỳ sụp xuống.",
+      "suggest": "Lúc này, bên ngoài doanh trại có ba bóng người đang vội vã trở về, đi thẳng tới đống lửa bên cạnh rồi quỳ xuống.",
+      "similarity": [
+        [
+          56,
+          0.29
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ba người đầu sát mặt đất, căn bản vốn không dám ngẩng đầu.",
+      "dich": "Ba người dập đầu sát đất, cơ bản không dám ngẩng đầu nhìn lên.",
+      "suggest": "Ba người cúi gằm mặt xuống đất, căn bản không dám ngẩng đầu lên.",
+      "similarity": [
+        [
+          57,
+          0.32
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ô Bảo... Bang chủ, Trát Cáp... Trát Cáp chết rồi.\"",
+      "dich": "\"Ô Bảo ... bang chủ, Trát Cáp ... Trát Cáp chết rồi.\"",
+      "suggest": "\"Ô Bảo... bang chủ, Trát Cáp... Trát Cáp... Trát Cáp... Trát Cáp...\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Một người trong đó, tiếng nói khẩn trương đã có chút phát run, bẩm báo nói.",
+      "dich": "Một tên trong đó run giọng, lắp bắp bẩm báo.",
+      "suggest": "Một người trong đó, giọng nói có chút run rẩy, bẩm báo.",
+      "similarity": [
+        [
+          59,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ở giữa đang ngồi người kia, mái tóc màu đen xõa, hai mắt sắc bén như đao, mũi cao thẳng, chóp mũi hơi hơi phía dưới cong như ưng miệng, trên mặt ba rất dài vết sẹo xuyên qua cơ hồ toàn bộ gương mặt, khuôn mặt nhìn hung ác nham hiểm lại hung ác.",
+      "dich": "Người ngồi chính giữa kia, mái tóc đen rối tung, hai mắt sắc như đao, sống mũi cao thẳng, chóp mũi cong như mỏ ưng, trên mặt có ba vết sẹo dài kéo dài gần hết khuôn mặt, dung mạo nhìn qua thì hung tợn, nhìn lại thì độc ác.",
+      "suggest": "Người ngồi ở giữa là một người khác, mái tóc đen xõa, hai mắt sắc bén như đao, mũi cao thẳng, chóp mũi sền sệt, trên mặt có ba vết sẹo dài khá dài, khuôn mặt trông hung ác nham hiểm lại hung ác.",
+      "similarity": [
+        [
+          60,
+          0.33
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Dám giết chúng ta Thanh Lang Bang người, là cái nào cỗ thế lực?\"",
+      "dich": "\"Dám giết người Thanh Lang Bang chúng ta, là người của thế lực nào?'",
+      "suggest": "\"Người dám giết Thanh Lang bang chúng ta là thế lực nào?\"",
+      "similarity": [
+        [
+          61,
+          0.36
+        ],
+        [
+          73,
+          0.21
+        ],
+        [
+          80,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Bảo nghe vậy, dừng lại ăn thịt động tác, hỏi.",
+      "dich": "Ô Bảo nghe thế liền ngừng ăn thịt, hỏi.",
+      "suggest": "Ô Bảo nghe vậy, động tác dừng lại, hỏi.",
+      "similarity": [
+        [
+          62,
+          0.21
+        ],
+        [
+          90,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Không phải thế lực nào, tiểu tử kia tựa như là cái người Trung Nguyên, vẫn luôn là độc lai độc vãng.",
+      "dich": "\"Không phải thế lực nào, tiểu tử đó hình như là người Trung Nguyên, trước giờ luôn độc lai độc vãng.",
+      "suggest": "\"Không biết có thế lực nào, tiểu tử kia dường như là người Trung Nguyên, vẫn luôn độc lai độc vãng.",
+      "similarity": [
+        [
+          63,
+          0.58
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trát Cáp nhìn chằm chằm hắn rất lâu, trước tiên mấy lần trước vây quanh đều bị nó cho chuồn đi, lần này thật vất vả ngăn chặn hắn, lại bị hắn giết ngược.\"",
+      "dich": "Trát Cáp theo dõi hắn từ lâu, mấy lần bao vây trước đều để hắn chuồn mất, lần này vất vả lắm mới chặn được thì lại bị hắn phản sát.\"",
+      "suggest": "Trát Cáp nhìn hắn rất lâu, trước kia mấy lần nó vây quanh hắn đều bị nó cho chạy đi, lần này thật vất vả ngăn cản hắn lại, nhưng lại bị nó giết ngược lại.\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Người kia ổn ổn cảm xúc, đem sớm chuẩn bị xong lí do thoái thác, nói ra.",
+      "dich": "Người kia ổn định cảm xúc, xong liền lôi lý do đã được chuẩn bị trước ra nói một lèo.",
+      "suggest": "Người này ổn định cảm xúc, đưa ra lí do thoái thác đã chuẩn bị sẵn, nói.",
+      "similarity": [
+        [
+          65,
+          0.22
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Bảo nghe vậy, nhướng mày, từ dưới đất đứng lên, đem trong tay thịt xương trực tiếp ném trở về thạch trong nồi, mở miệng hỏi:",
+      "dich": "Ô Bảo nghe thế liền nhướng mày, đứng dậy, ném cục xương trong tay vào trong nồi đá, chất vấn:",
+      "suggest": "Ô Bảo nghe vậy, nhướng mày, đứng dậy từ dưới đất đứng lên, ném phần thịt còn lại vào trong nồi, mở miệng hỏi:",
+      "similarity": [
+        [
+          66,
+          0.22
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bốn người các ngươi đánh một cái, Trát Cáp còn bị người phản sát?",
+      "dich": "\"Bốn người các ngươi đánh một người, Trát Cáp còn bị hắn giết ngược?",
+      "suggest": "\"Bốn người các ngươi đánh một trận, Trát Cáp còn bị người khác ám sát sao?",
+      "similarity": [
+        [
+          67,
+          0.52
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Người kia thực lực gì?\"",
+      "dich": "Tên đó thực lực thế nào?\"",
+      "suggest": "Thực lực người này thế nào?\"",
+      "similarity": [
+        [
+          68,
+          0.37
+        ],
+        [
+          89,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Không... Không rõ ràng, đối phương chỉ dùng một chiêu, Trát Cáp liền chết...\"",
+      "dich": "\"Không ... không rõ lắm, đối phương chỉ dùng một chiều, Trát Cáp lập tức mất mạng ...\"",
+      "suggest": "\"Không... không rõ ràng, đối phương chỉ dùng một chiêu, Trát Cáp liền chết...\"",
+      "similarity": [
+        [
+          69,
+          0.26
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Một cái độc lai độc vãng lạc đàn nhà bây giờ cũng dám tùy ý giết chúng ta Thanh Lang Bang người, xem ra chúng ta Thanh Lang Bang gần nhất làm việc quá mức nhu hòa, để người ta cho là chúng ta dễ bắt nạt.\"",
+      "dich": "\"Một tên độc lai độc vang giờ cũng dám tùy tiện giết người Thanh Lang Bang ta, xem ra Thanh Lang Bang ta gần đây làm việc nhẹ nhàng quá, để cho bọn họ nghĩ chúng ta dễ bắt nạt.\"",
+      "suggest": "\"Một tên Lạc đàn độc lai độc vãng không ngờ cũng dám tùy tiện giết hại một người như chúng ta, xem ra gần đây Thanh Lang Bang chúng ta làm việc quá mức nhu hòa, dễ khiến cho người ta tin là chúng ta dễ bắt nạt.\"",
+      "similarity": [
+        [
+          70,
+          0.3
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Bảo ánh mắt đảo qua mọi người chung quanh, trong miệng chậm rãi nói.",
+      "dich": "Ô Bảo đảo mắt nhìn mấy người xung quanh rồi chậm rãi nói.",
+      "suggest": "Ánh mắt Ô Bảo đảo qua mọi người xung quanh, chậm rãi nói.",
+      "similarity": [
+        [
+          71,
+          0.31
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Vừa mới chạy về mấy người, dọa đến liền vội cúi đầu, không dám đáp lời.",
+      "dich": "Mấy người vừa mới về gấp, nghe thế bị dọa cho vội vàng cúi đầu, không dám đáp lời.",
+      "suggest": "Mấy người vừa mới chạy về phía trước sợ tới mức vội cúi đầu, không dám đáp lời.",
+      "similarity": [
+        [
+          72,
+          0.44
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bang chủ, dám can đảm giết chúng ta Thanh Lang Bang người, không thể tha thứ.",
+      "dich": "\"Bang chủ, cả gan giết người Thanh Lang Bang chúng ta, không thể tha thứ.",
+      "suggest": "\"Bang chủ, dám can đảm giết Thanh Lang bang chúng ta, chúng ta không thể tha thứ.",
+      "similarity": [
+        [
+          68,
+          0.24
+        ],
+        [
+          73,
+          0.52
+        ],
+        [
+          77,
+          0.13
+        ],
+        [
+          87,
+          0.13
+        ],
+        [
+          99,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ta nguyện dẫn người đuổi theo, nhất định sẽ lại không để hắn chạy rồi.",
+      "dich": "Ta nguyện dẫn người đuổi theo, nhất định không để hắn chạy thoát nữa.",
+      "suggest": "Ta sẽ dẫn người đuổi theo, nhất định sẽ không để hắn chạy thoát.",
+      "similarity": [
+        [
+          74,
+          0.63
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nếu không phải có thể đem đầu của hắn tóm xuống, ta liền đưa đầu tới gặp.\"",
+      "dich": "Nếu không mang được đầu của hắn quay về, ta liền đưa đầu tới gặp.\"",
+      "suggest": "Nếu không phải có thể tóm được đầu của hắn, ta lập tức đưa đầu tới đây.\"",
+      "similarity": [
+        [
+          75,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này, Ô Bảo bên cạnh đi ra một tên đại hán đầu trọc, vỗ bộ ngực mình, trầm giọng nói.",
+      "dich": "Lúc này, một đại hán đầu trọc bên cạnh Ô Bảo bước tới trước, vỗ vỗ ngực, trầm giọng nói.",
+      "suggest": "Lúc này, bên cạnh Ô Bảo có một tên đại hán đầu trọc, vỗ vỗ ngực mình, trầm giọng nói.",
+      "similarity": [
+        [
+          76,
+          0.5
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bang chủ, ta ngược lại có chút cái nhìn khác, không biết có nên nói hay không?\"",
+      "dich": "\"Bang chủ, ta có một cách nhìn khác, không biết có nên nói hay không?\"",
+      "suggest": "\"Bang chủ, ta có một cái nhìn khác, không biết có nên nói hay không?\"",
+      "similarity": [
+        [
+          77,
+          0.15
+        ],
+        [
+          77,
+          0.86
+        ],
+        [
+          87,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này, bỗng nhiên có một người từ trong đám người đi ra, mở miệng nói ra.",
+      "dich": "Ngay tiếp đó, đột nhiên có một tên từ trong đám người đi ra, mở miệng đề xuất.",
+      "suggest": "Lúc này, bỗng nhiên có một người đi ra từ trong đám người, mở miệng nói.",
+      "similarity": [
+        [
+          78,
+          0.26
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Gã đại hán đầu trọc nghe vậy, quay đầu hướng người kia nhìn lại, trong mắt lập tức thoáng qua một vòng vẻ chán ghét.",
+      "dich": "Gã đại hán trọc đầu nghe thế, quay đầu nhìn sang phía người kia, trong mắt lập tức lộ ra vẻ chán ghét.",
+      "suggest": "Gã đại hán đầu trọc nghe vậy, quay đầu nhìn về phía người này, trong mắt lập tức xuất hiện vẻ chán ghét.",
+      "similarity": [
+        [
+          79,
+          0.12
+        ],
+        [
+          79,
+          0.4
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ô Lỗ, ngươi mới đến Thanh Lang Bang mấy ngày?",
+      "dich": "\"Ô Lỗ, ngươi mới đến Thanh Lang Bang được mấy ngày?",
+      "suggest": "\"Ô Lỗ, ngươi mới đến Thanh Lang Bang mấy ngày?",
+      "similarity": [
+        [
+          80,
+          0.7
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ở đây lúc nào có phần của ngươi nói chuyện nhi rồi?\"",
+      "dich": "Nơi này từ lúc nào có chỗ cho ngươi nói chuyện?\"",
+      "suggest": "Lúc nào ở đây có ai nói chuyện với ngươi hả?\"",
+      "similarity": [
+        [
+          81,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Gã đại hán đầu trọc quở trách nói.",
+      "dich": "Đại hán trọc đầu quở trách.",
+      "suggest": "Gã đại hán đầu trọc quở trách nói.",
+      "similarity": [
+        [
+          82,
+          0.12
+        ],
+        [
+          82,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Lỗ nghe vậy, chỉ là không chớp mắt nhìn về phía Ô Bảo, không có mở miệng phản bác.",
+      "dich": "Ô Lỗ nghe vậy, cũng không lên tiếng phản đối, chỉ không chớp mắt nhìn Ô Bảo.",
+      "suggest": "Ô Lỗ nghe vậy, chỉ chớp mắt nhìn về phía Ô Bảo, không mở miệng phản bác.",
+      "similarity": [
+        [
+          83,
+          0.3
+        ],
+        [
+          102,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ba Âm, ngươi đừng vội, nghe một chút hắn nói thế nào.\"",
+      "dich": "\"Ba Âm, người chớ vội, nghe chút xem hắn nói sao.\"",
+      "suggest": "\"Ba Âm, ngươi đừng vội, nghe hắn nói thế nào.\"",
+      "similarity": [
+        [
+          84,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này, Ô Bảo mở miệng nói ra.",
+      "dich": "Ô Bảo lên tiếng phân định.",
+      "suggest": "Lúc này, Ô Bảo mở miệng nói.",
+      "similarity": [
+        [
+          85,
+          0.11
+        ],
+        [
+          88,
+          0.1
+        ],
+        [
+          90,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tên là Ba Âm gã đại hán đầu trọc, mặc dù có bất mãn lại cũng chỉ có thể cưỡng chế đến, nhìn về phía Ô Lỗ.",
+      "dich": "Gã đại hán trọc đầu nghe xong, dù bất mãn cũng chỉ có thể nhịn xuống, đưa mắt nhìn Ô Lỗ.",
+      "suggest": "Gã đại hán đầu trọc tên gọi Ba Âm kia mặc dù có bất mãn nhưng cũng chỉ có thể cưỡng chế quay mặt về phía Ô Lỗ.",
+      "similarity": [
+        [
+          86,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bang chủ, nếu như không có đoán sai, người Trung nguyên kia hẳn là Viên Minh.\"",
+      "dich": "\"Bang chủ, nếu ta đoán không sai thì người Trung Nguyên kia hẳn là Viên Minh.\"",
+      "suggest": "\"Bang chủ, nếu như không đoán sai thì người Trung nguyên kia hẳn là Viên Minh.\"",
+      "similarity": [
+        [
+          80,
+          0.14
+        ],
+        [
+          84,
+          0.13
+        ],
+        [
+          87,
+          0.61
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Lỗ nói.",
+      "dich": "Ô Lỗ nói.",
+      "suggest": "Ô Lỗ nói.",
+      "similarity": [
+        [
+          88,
+          1
+        ],
+        [
+          93,
+          0.12
+        ],
+        [
+          106,
+          0.15
+        ],
+        [
+          109,
+          0.18
+        ],
+        [
+          111,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ngươi biết?\"",
+      "dich": "\"Ngươi biết?\"",
+      "suggest": "\"Ngươi biết?\"",
+      "similarity": [
+        [
+          45,
+          0.11
+        ],
+        [
+          75,
+          0.11
+        ],
+        [
+          89,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Bảo cau mày nói.",
+      "dich": "Ô Bảo cau mày, hỏi.",
+      "suggest": "Ô Bảo cau mày nói.",
+      "similarity": [
+        [
+          90,
+          0.15
+        ],
+        [
+          90,
+          0.21
+        ],
+        [
+          90,
+          0.43
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Người này là cùng ta cùng một chỗ trở thành Phi Mao thú nô, là cái hảo thủ.",
+      "dich": "\"Người này trở thành Phi Mao thú nô cùng đợt với ta, là một hảo thủ.",
+      "suggest": "\"Người này là bạn cùng lớp với ta, cũng là hảo thủ.",
+      "similarity": [
+        [
+          91,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Có thể giết luyện khí một tầng Trát Cáp, ta muốn hắn thực lực e rằng đã tiếp cận tầng hai, cùng tốn thời gian phí sức đuổi giết hắn, không bằng lôi kéo tới, để hắn thành vì chúng ta người.\"",
+      "dich": "Có thể giết Trát Cáp có tu vi Luyện Khí tầng một, ta nghĩ thực lực của hắn e rằng đã tiếp cận tầng hai, so với việc tốn công phí sức đuổi giết hắn, chi bằng lôi kéo về đây, biến hắn thành người của chúng ta.\"",
+      "suggest": "Có thể giết được một tầng Trát Cáp của Luyện Khí, ta muốn hắn thực lực đã tiến giai tầng hai, cũng tốn thời gian đuổi giết hắn, không bằng lôi kéo hắn tới, để hắn trở thành người của chúng ta.\"",
+      "similarity": [
+        [
+          92,
+          0.26
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Lỗ nhẹ gật đầu, nói.",
+      "dich": "Ô Lỗ gật nhẹ đầu, đáp.",
+      "suggest": "Ô Lỗ nhẹ gật đầu, nói.",
+      "similarity": [
+        [
+          93,
+          0.17
+        ],
+        [
+          93,
+          0.18
+        ],
+        [
+          106,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nghe được Ô Lỗ, đám người thần sắc hơi hơi xảy ra biến hóa.",
+      "dich": "Nghe mấy câu của Ô Lỗ, thần sắc cả đám có chút thay đổi.",
+      "suggest": "Nghe được Ô Lỗ, thần sắc đám người có chút biến hóa.",
+      "similarity": [
+        [
+          87,
+          0.11
+        ],
+        [
+          94,
+          0.29
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một cái vừa trở thành Phi Mao thú nô không bao lâu gia hỏa, lại nhiên đã sắp đến luyện khí tầng hai?",
+      "dich": "Một gia hỏa mới trở thành Phi Mao thú nô chưa được bao lâu, lại có thể sắp tu đến Luyện Khí tầng hai?",
+      "suggest": "Một gia hỏa vừa trở thành Phi Mao thú nô không bao lâu, lại đột nhiên sắp tiến vào tầng hai luyện khí?",
+      "similarity": [
+        [
+          95,
+          0.19
+        ],
+        [
+          95,
+          0.35
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngay trong bọn họ tuyệt đại bộ phận người tu hành mấy năm, vẫn như cũ liền luyện khí một tầng đều không thể đạt đến.",
+      "dich": "Ngay trong số bọn họ, đa số là những người đã tu hành mấy năm rồi mà vẫn như cũ, ngay cả Luyện Khí tầng một còn chưa đạt được.",
+      "suggest": "Nhưng ngay cả những người tu hành mấy năm trong đám họ, vẫn như cũ không thể đạt tới tầng thứ tu luyện nào.",
+      "similarity": [
+        [
+          96,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Toàn bộ Thanh Lang Bang, có thể nói vững vàng vượt trên hắn một con, chỉ sợ cũng chỉ có cũng là luyện khí tầng ba bang chủ Ô Bảo cùng Phó bang chủ Ba Âm hai người.",
+      "dich": "Cả Thanh Lang Bang, e là cũng chỉ có hai người là bang chủ Ô Bảo và phó bang chủ Ba Âm mới có thể vững vàng áp đảo hắn.",
+      "suggest": "Toàn bộ bang Thanh Lang có thể nói đứng thứ ba, có thể nói là đứng thứ ba sau bang chủ Ô Bảo và Phó bang chủ ba Âm.",
+      "similarity": [
+        [
+          97,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "So sánh dưới, Viên Minh có thể tính đúng hắn xuất chúng gia hỏa rồi.",
+      "dich": "So ra, Viên Minh có thể xem như là một gia hỏa cực kỳ xuất chúng.",
+      "suggest": "So sánh với Viên Minh, Viên Minh có thể tính là người xuất chúng.",
+      "similarity": [
+        [
+          98,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Không được, hắn đã giết chúng ta người, không thể lưu, bằng không truyền sắp xuất hiện đi, chúng ta Thanh Lang Bang còn thế nào tại Thập Vạn Đại Sơn đặt chân!\"",
+      "dich": "\"Không được, hắn giết người của chúng ta, không thể để lại, nếu không để chuyện này truyền ra ngoài, Thanh Lang Bang chúng ta làm sao đứng vững ở Thập Vạn Đại Sơn!\"",
+      "suggest": "\"Không được, hắn đã giết nhiều người chúng ta, không thể lưu lại, nếu không truyền tống tới Thập Vạn Đại Sơn, Thanh Lang Bang chúng ta còn có thể đặt chân ở Thập Vạn Đại Sơn sao!\"",
+      "similarity": [
+        [
+          99,
+          0.34
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ba Âm lập tức phản đối nói.",
+      "dich": "Ba Âm lập tức phản đối.",
+      "suggest": "Ba Âm lập tức phản đối.",
+      "similarity": [
+        [
+          100,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ba Âm Phó bang chủ, chắc hẳn ngài cũng có thể dự đoán được, mười cái Trát Cáp cũng không sánh được một cái Viên Minh, nếu là chúng ta có thể thu phục hắn, lợi tức nhất định so giết hắn còn mạnh hơn nhiều.\"",
+      "dich": "\"Ba Âm phó bang chủ, ta chắc ngày cũng có thể hiểu được, mười Trát Cáp so ra vẫn kém một Viên Minh, nếu chúng ta có thể thu phục hắn, lợi ích nhất định hơn việc giết hắn nhiều.\"",
+      "suggest": "\"Ba Âm Phó bang chủ, chắc ngài cũng đã đoán trước được mười Trát Cáp cũng không bằng một Viên Minh. Nếu chúng ta có thể thu phục hắn, lợi tức nhất định còn mạnh hơn giết hắn nhiều lắm.\"",
+      "similarity": [
+        [
+          101,
+          0.32
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Lỗ nhìn về phía gã đại hán đầu trọc, nói.",
+      "dich": "Ô Lỗ nhìn về phía đại hán trọc đầu, phản bác.",
+      "suggest": "Ô Lỗ nhìn về phía gã đại hán đầu trọc, nói.",
+      "similarity": [
+        [
+          83,
+          0.13
+        ],
+        [
+          102,
+          0.37
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Bảo trầm ngâm chốc lát về sau, nói ra: \"Ta liền cho hắn một cơ hội.",
+      "dich": "Ô Bảo trầm ngâm một lát rồi nói: \"Ta sẽ cho hắn một cơ hội.",
+      "suggest": "Ô Bảo trầm ngâm trong chốc lát, sau đó nói ra: \"Ta cho hắn một cơ hội.",
+      "similarity": [
+        [
+          103,
+          0.41
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Còn sót lại sự tình liền giao cho ngươi, Ô Lỗ.\"",
+      "dich": "Những chuyện còn lại giao cho ngươi, Ô Lỗ.\"",
+      "suggest": "Những chuyện còn lại giao cho ngươi, Ô Lỗ.\"",
+      "similarity": [
+        [
+          104,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ta cái này liền đi.\"",
+      "dich": "\"Ta lập tức đi lo chuyện này.\"",
+      "suggest": "\"Ta đi.\"",
+      "similarity": [
+        [
+          30,
+          0.11
+        ],
+        [
+          45,
+          0.11
+        ],
+        [
+          95,
+          0.12
+        ],
+        [
+          96,
+          0.13
+        ],
+        [
+          105,
+          0.13
+        ],
+        [
+          109,
+          0.11
+        ],
+        [
+          111,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Lỗ lập tức ôm quyền, nói.",
+      "dich": "Ô Lỗ ôm quyền, đáp.",
+      "suggest": "Ô Lỗ lập tức ôm quyền, nói.",
+      "similarity": [
+        [
+          95,
+          0.13
+        ],
+        [
+          100,
+          0.12
+        ],
+        [
+          106,
+          0.11
+        ],
+        [
+          106,
+          0.24
+        ]
+      ],
+      "approved": true
+    }
+  ],
+  "currentWorkingLine": 107,
+  "changed": true
+}

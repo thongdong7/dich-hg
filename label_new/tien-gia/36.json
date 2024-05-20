@@ -1,0 +1,1725 @@
+{
+  "currentLine": 108,
+  "next": {
+    "id": 37,
+    "title": "Chương 37: Thai nghén"
+  },
+  "previous": {
+    "id": 35,
+    "title": "Chương 35: Mộng miêu"
+  },
+  "title": {
+    "convert": "Chương 36",
+    "dich": "Chương 36"
+  },
+  "lines": [
+    {
+      "convert": "\"Ta đây cũng không biết, ta chưa từng luyện, trong tông môn cũng không gặp ai luyện qua.",
+      "dich": "\"Ta cũng không biết, ta chưa từng luyện, trong tông môn cũng không gặp ai luyện rồi.",
+      "suggest": "\"Ta cũng không biết, ta chưa luyện qua, trong tông môn cũng chưa từng thấy người nào luyện qua.",
+      "similarity": [
+        [
+          0,
+          0.5
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá, từ Lộc trưởng lão móc móc lục soát, một mực không chịu lấy ra dáng vẻ xem, có lẽ còn là có chút giá trị.\"",
+      "dich": "Có điều, nhìn bộ dạng của Lộc trưởng lão, lần lần sờ sờ, mãi không chịu lấy ra, có lẽ là có chút giá trị.\"",
+      "suggest": "Tuy nhiên, từ chỗ Lộc trưởng lão lục lọi, vẫn không chịu lấy ra, có lẽ vẫn còn có chút giá trị.\"",
+      "similarity": [
+        [
+          1,
+          0.4
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng lắc đầu, nói có chút lập lờ nước đôi.",
+      "dich": "Triệu Đồng lắc đầu, nói lập lờ nước đôi.",
+      "suggest": "Triệu Đồng lắc đầu, nói có chút lập lờ.",
+      "similarity": [
+        [
+          2,
+          0.53
+        ],
+        [
+          31,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Được, vậy ta liền đổi.\"",
+      "dich": "\"Được, vậy ta sẽ đổi.\"",
+      "suggest": "\"Được, vậy ta sẽ đổi.\"",
+      "similarity": [
+        [
+          3,
+          1
+        ],
+        [
+          59,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh suy nghĩ một chút, nói.",
+      "dich": "Viên Minh suy nghĩ một chút rồi quyết định.",
+      "suggest": "Viên Minh suy nghĩ một chút, nói.",
+      "similarity": [
+        [
+          4,
+          0.54
+        ],
+        [
+          11,
+          0.12
+        ],
+        [
+          15,
+          0.14
+        ],
+        [
+          60,
+          0.11
+        ],
+        [
+          63,
+          0.11
+        ],
+        [
+          66,
+          0.13
+        ],
+        [
+          68,
+          0.11
+        ],
+        [
+          75,
+          0.12
+        ],
+        [
+          81,
+          0.14
+        ],
+        [
+          85,
+          0.11
+        ],
+        [
+          87,
+          0.11
+        ],
+        [
+          89,
+          0.18
+        ],
+        [
+          101,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Tốt, vậy ta đây bên cạnh liền cho ngươi rõ ràng trương mục, vẫn quy củ cũ, ngươi có thể xem một canh giờ, có thể nhớ kỹ bao nhiêu... Được rồi, ngươi cái tên này, sẽ không không nhớ được.\"",
+      "dich": "\"Tốt, vậy ta đây sẽ đưa luôn sách cho ngươi, vẫn quy định cũ, ngươi có thể xem một canh giờ, có thể ghi nhớ bao nhiêu ... Mà thôi, cái tên nhà ngươi, sẽ không có chuyện không nhớ được.\"",
+      "suggest": "\"Được, vậy bên cạnh ta sẽ cho ngươi biết trương mục, vẫn quy củ cũ, ngươi có thể xem trong một canh giờ, có thể nhớ rõ bao nhiêu... Được rồi, tên của ngươi ta cũng sẽ ghi nhớ trong đầu.\"",
+      "similarity": [
+        [
+          5,
+          0.26
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng nói được nửa câu, liền nghĩ tới Viên Minh kia đã gặp qua là không quên được bản lĩnh.",
+      "dich": "Triệu Đồng nói được nửa câu, lại nhớ tới bản lĩnh thấy qua không quên của Viên Minh.",
+      "suggest": "Triệu Đồng nói được nửa câu, đã nghĩ tới Viên Minh không thể quên được bản lĩnh của hắn.",
+      "similarity": [
+        [
+          6,
+          0.37
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh tiếp nhận sách, tìm nơi hẻo lánh ngồi xếp bằng, cẩn thận lật xem.",
+      "dich": "Viên Minh nhận sách, tìm chỗ trống trải ngồi xếp bằng, cẩn thận lật xem.",
+      "suggest": "Viên Minh nhận lấy quyển sách, tìm một chỗ yên tĩnh, ngồi xếp bằng, cẩn thận xem một lượt.",
+      "similarity": [
+        [
+          7,
+          0.32
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng cũng chỉ là chính nâng lên sách trong tay, đổ vào trên ghế nằm, phối hợp lật xem.",
+      "dich": "Triệu Đồng cũng nâng cuốn sách trong tay lên, ngả người nằm lên ghế, cùng lật xem sách với hắn.",
+      "suggest": "Triệu Đồng cũng chỉ giơ cuốn sách trong tay lên, đặt lên trên ghế dựa, phối hợp lật xem.",
+      "similarity": [
+        [
+          8,
+          0.3
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Chư thân đi khí, linh pháp đi đầu, lấy thân là khí, lấy pháp vì ngự...\"",
+      "dich": "\"Chư thân tẩu khí, linh pháp tiên hành, dĩ thân vi khí, dĩ pháp vi ngự...\"",
+      "suggest": "\"Chư thân hành khí, Linh pháp đi đầu, lấy thân là khí, lấy pháp vì dân\".",
+      "similarity": [
+        [
+          9,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhìn thấy bên trong nội dung một nháy mắt, Viên Minh không khỏi hơi sững sờ.",
+      "dich": "Chỉ mới thoáng nhìn nội dung trong sách, Viên Minh không khỏi sững sờ.",
+      "suggest": "Viên Minh nhìn thấy nội dung bên trong, không kìm được mà sững sờ một hồi.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Chỉ vì cái này « Vô Ảnh Bộ » ghi chép công pháp, dùng không phải Nam Cương văn tự, mà là Trung Nguyên văn tự, khó trách kia Triệu Đồng nói đến như thế mập mờ, chỉ sợ hắn không phải là không muốn luyện, mà là bản thân chưa hẳn nhìn hiểu.",
+      "dich": "Nguyên do là chữ để ghi chép công pháp Vô Ảnh Bộ này không phải dùng chữ Nam Cương, mà là chữ Trung Nguyên, bảo sao Triệu Đồng kia lại nói mập mờ như vậy, chỉ e không phải y không muốn luyện, mà là bản thân y chưa chắc đã đọc hiểu được.",
+      "suggest": "Chỉ vì cái tên gọi Vô Ảnh Bộ  này, dùng văn tự Nam Cương, mà là Trung Nguyên, chỉ sợ hắn không phải không muốn luyện, mà bản thân cũng chưa hẳn đã hiểu rõ.",
+      "similarity": [
+        [
+          11,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Sách này sách bên trong ngoại trừ văn tự bên ngoài, vẫn xứng mười tám bức nữ tử che mặt chân dung, hoặc đi hoặc đứng, thân hình hoặc bên cạnh hoặc nghiêng, khoát tay giơ chân ở giữa có chút phiêu dật, lại mỗi một bức họa phối hữu vô số dấu chân, nhìn như lộn xộn, một chút tế phẩm nhưng lại không khỏi để cho người vỗ án tán dương, dấu chân lít nha lít nhít, không còn có trăm ngàn cái.",
+      "dich": "Bên trong sách, ngoại trừ chữ viết, còn có mười tám bức hình nữ tử che mặt, hoặc đi hoặc đứng, thân hình hoặc nghiêng trái, hoặc lắc phải, bộ dáng đưa tay nhấc chân có phần phiêu dật, kết hợp mỗi bức họa còn vẽ vô số dấu chân, nhìn qua có vẻ lộn xộn, nhưng để ý kỹ một chút lại không khỏi khiến người ta phải vỗ bàn tán dương. Những dấu chân này rậm rạp chằng chịt, số lượng không dưới trăm ngàn.",
+      "suggest": "Cuốn sách này ngoại trừ văn tự, còn có mười tám chân dung của nữ tử che mặt, hoặc là đi hoặc đứng, thân hình hoặc nghiêng hoặc nghiêng, hai tay giơ lên trên không trung có chút phiêu dật, lại mỗi một bức họa phối hợp có vô số dấu chân, thoạt nhìn có vẻ lộn xộn, một chút tế phẩm thì không thể nào che dấu được, dấu chân không thể dấu nổi mà còn có trăm ngàn.",
+      "similarity": [
+        [
+          12,
+          0.29
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mới bỏ ra không đến nửa canh giờ, Viên Minh cũng đã đem sách nội dung toàn bộ nhớ kỹ xuống tới, chỉ là khép sách lại một nháy mắt, hắn lại có chút tức giận.",
+      "dich": "Mới dùng chưa tới nửa canh giờ, Viên Minh đã ghi nhớ kỹ hết toàn bộ nội dung trong sách, có điều khi vừa khép sách vào, hắn lại có chút tức giận.",
+      "suggest": "Mới bỏ ra chưa tới nửa canh giờ, Viên Minh đã đọc hết toàn bộ nội dung cuốn sách, chỉ là sau khi đóng sách lại một chút, hắn lại có chút tức giận.",
+      "similarity": [
+        [
+          13,
+          0.5
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Triệu Đồng, ngươi vì sao gạt ta?\"",
+      "dich": "\"Triệu Đồng, vì sao ngươi lừa ta?\"",
+      "suggest": "'Triệu Đồng, vì sao ngươi lại gạt ta?'",
+      "similarity": [
+        [
+          14,
+          0.4
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh cau mày nói.",
+      "dich": "Viên Minh cau mày, chất vấn.",
+      "suggest": "Viên Minh cau mày nói.",
+      "similarity": [
+        [
+          15,
+          0.37
+        ],
+        [
+          15,
+          0.38
+        ],
+        [
+          60,
+          0.11
+        ],
+        [
+          63,
+          0.11
+        ],
+        [
+          68,
+          0.18
+        ],
+        [
+          75,
+          0.12
+        ],
+        [
+          81,
+          0.23
+        ],
+        [
+          87,
+          0.19
+        ],
+        [
+          101,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ta lúc nào lừa ngươi rồi?\"",
+      "dich": "\"Ta lừa ngươi lúc nào?\"",
+      "suggest": "'Lúc nào ta lừa ngươi rồi?'",
+      "similarity": [
+        [
+          16,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng ngồi thẳng người, cũng là không hiểu.",
+      "dich": "Triệu Đồng ngồi thẳng người lên, thắc mắc hỏi ngược lại.",
+      "suggest": "Triệu Đồng ngồi thẳng dậy cũng không hiểu.",
+      "similarity": [
+        [
+          17,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ngươi cho ta « Vô Ảnh Bộ » là không trọn vẹn, nội dung cũng không toàn bộ.\"",
+      "dich": "\"Vô Ảnh Bộ mà ngươi đưa ta là bản không đầy đủ, nội dung bị thiếu.\"",
+      "suggest": "\"Ngươi cho rằng  Vô Ảnh Bộ của ta không trọn vẹn, nội dung cũng không hoàn toàn.\"",
+      "similarity": [
+        [
+          18,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nhíu mày nói.",
+      "dich": "Viên Minh nhíu mày nói.",
+      "suggest": "Viên Minh nhíu mày nói.",
+      "similarity": [
+        [
+          16,
+          0.13
+        ],
+        [
+          19,
+          1
+        ],
+        [
+          60,
+          0.11
+        ],
+        [
+          63,
+          0.11
+        ],
+        [
+          68,
+          0.18
+        ],
+        [
+          75,
+          0.12
+        ],
+        [
+          81,
+          0.23
+        ],
+        [
+          87,
+          0.19
+        ],
+        [
+          101,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Không trọn vẹn?\"",
+      "dich": "\"Không đầy đủ?\"",
+      "suggest": "'Không trọn vẹn?'",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng nghe vậy, thần sắc hơi có lúng túng nói.",
+      "dich": "Triệu Đồng nghe thế, lộ ra vẻ lúng túng.",
+      "suggest": "Triệu Đồng nghe vậy, thần sắc có chút lúng túng nói.",
+      "similarity": [
+        [
+          21,
+          0.16
+        ],
+        [
+          85,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Rất hiển nhiên, hắn đối với cái này là không rõ tình hình.",
+      "dich": "Rất hiển nhiên, y đối với chuyện này cũng không nắm chắc.",
+      "suggest": "Rất hiển nhiên, hắn không hề biết đến tình hình này.",
+      "similarity": [
+        [
+          22,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Không trọn vẹn liền không trọn vẹn, cái này « Vô Ảnh Bộ » là trưởng lão cho, ta lại xem không hiểu, ngươi có thể trách không đến ta.\"",
+      "dich": "\"Không đầy đủ thì không đầy đủ, Vô Ảnh Bộ này là trưởng lão đưa, ta lại xem không hiểu, ngươi sao có thể trách ta.\"",
+      "suggest": "\"Không trọn vẹn thì không trọn vẹn, cái Vô Ảnh Bộ này là của trưởng lão, ta xem không hiểu, ngươi có thể trách ta sao.\"",
+      "similarity": [
+        [
+          23,
+          0.37
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhưng rất nhanh, hắn liền hai tay một đám, một bộ không liên quan chuyện ta thần sắc.",
+      "dich": "Rất nhanh, y lên giơ hai tay lắc lắc, làm bộ chuyện này không liên quan đến ta.",
+      "suggest": "Nhưng rất nhanh, hắn đã nắm chặt hai tay lại, bày ra một bộ thần sắc không liên quan gì đến chuyện của ta.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh tuy có bất mãn, nhưng cũng không thể tránh được.",
+      "dich": "Viên Minh dù có bất mãn, nhưng cũng không thể làm gì được.",
+      "suggest": "Viên Minh mặc dù có bất mãn, nhưng cũng không thể tránh được.",
+      "similarity": [
+        [
+          25,
+          0.64
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "So sánh cái khác ký danh đệ tử một bộ cao cao tại thượng diễn xuất, Triệu Đồng đối với hắn đã coi như là không tệ, hắn cũng không thể cưỡng cầu quá nhiều, dù sao mình nỗ lực cũng không nhiều.",
+      "dich": "So với những tên đệ tử ký danh suốt ngày làm bộ cao cao tại thượng, Triệu Đồng đối với hắn đã xem như không tồi, hắn cũng không thể đòi hỏi quá nhiều, dù sao bản thân hắn trả giá cũng không cao.",
+      "suggest": "So với những đệ tử ký danh đệ tử khác diễn xuất trên sân tập thì Triệu Đồng đối với hắn coi như không tệ, hắn cũng không thể cưỡng cầu quá nhiều. Dù sao thì nỗ lực của mình cũng không có quá nhiều.",
+      "similarity": [
+        [
+          26,
+          0.25
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đồng thời, cái này « Vô Ảnh Bộ » mặc dù chỉ là thượng quyển, nhưng từ tổng cương bên trong tố thuật nội dung đến xem, hoàn toàn chính xác không phải cái gì nát đường cái công pháp, chí ít cấp độ so « Mộc Thứ Thuật » là cao hơn ra rất nhiều.",
+      "dich": "Hơn nữa, Vô Ảnh Bộ này dù chỉ là quyển thượng, nhưng từ nội dung trong phần tổng cương ghi lại mà nói, công pháp này đúng là không phải hàng nát, ít nhất cũng cao hơn Mộc Thứ Thuật nhiều.",
+      "suggest": "Đồng thời, mặc dù chỉ là quyển thượng quyển, nhưng từ nội dung tố thuật tổng quát xem ra, hoàn toàn không phải là công pháp nát đường cái gì, chí ít cấp độ so với Mộc Thứ Thuật cao hơn rất nhiều.",
+      "similarity": [
+        [
+          27,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mặt khác, tu luyện thân này pháp về sau, không chỉ là nghênh địch lúc đối chiến có nắm chắc hơn, về sau tiềm hành truy tung cũng sẽ thuận tiện rất nhiều, đặc biệt là gặp được một chút tính cảnh giác cao hung thú, cũng càng dễ dàng theo dõi tiếp cận.",
+      "dich": "Mặt khác, sau khi tu luyện thân pháp này, không chỉ khi lúc đối chiến càng nắm chắc hơn, mà về phần tiềm hành truy tung cũng sẽ thuận tiện hơn nhiều, đặc biệt nếu gặp phải một số hung thú có tính cảnh giác cao, cũng dễ dàng theo dõi, tiếp cận.",
+      "suggest": "Mặt khác, sau khi tu luyện thân pháp này, không chỉ giúp cho việc nghênh địch có nắm chắc hơn, mà sau này khi đối chiến có thể nắm chắc hơn rất nhiều, đặc biệt là gặp được một vài hung thú có tính cảnh giác cao, càng dễ dàng quan sát tiếp cận.",
+      "similarity": [
+        [
+          28,
+          0.46
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh vốn định cáo từ rời đi, đã ôm lấy nắm đấm, lại đột nhiên nhớ lại Cáp Cống bị tập kích sự tình, lập tức nói ra:",
+      "dich": "Viên Minh vốn định cáo từ rời đi, đã ôm quyền rồi, lại đột nhiên nhớ tới chuyện Cáp Cống bị tập kích, lập tức nói:",
+      "suggest": "Viên Minh vốn định cáo từ rời đi, nhưng lại đột nhiên nhớ tới chuyện Cáp Cống bị tập kích, lập tức nói:",
+      "similarity": [
+        [
+          29,
+          0.77
+        ],
+        [
+          32,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đúng rồi, ta chỗ này còn có một việc muốn thỉnh giáo?\"",
+      "dich": "\"Phải rồi, ta còn có một chuyện muốn thỉnh giáo.\"",
+      "suggest": "\"Đúng rồi, ta còn có việc muốn thỉnh giáo.\"",
+      "similarity": [
+        [
+          30,
+          0.54
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng gặp hắn không so đo « Vô Ảnh Bộ » không trọn vẹn sự tình, liền cười nói ra: \"Chuyện gì, nói một chút?\"",
+      "dich": "Triệu Đồng thấy hắn không so đo chuyện Vô Ảnh Bộ không đầy đủ, liền vừa cười vừa đáp: \"Chuyện gì, nói chút coi.\"",
+      "suggest": "Triệu Đồng thấy hắn không so đo chuyện Vô Ảnh Bộ  không trọn vẹn, liền cười nói: Chuyện gì, nói một chút?",
+      "similarity": [
+        [
+          31,
+          0.49
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh lúc này liền đem Cáp Cống trải qua, cùng đối kia lông dài quái vật miêu tả nói một lần.",
+      "dich": "Viên Minh liền đem chuyện mà Cáp Cống đã trải qua, cùng miêu tả quái vật lông dài kia ra kể một lượt.",
+      "suggest": "Viên Minh cũng đã kể lại quá trình cõng Cốt Thi, cùng miêu tả quái vật lông dài một lần.",
+      "similarity": [
+        [
+          32,
+          0.32
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng sau khi nghe xong, thả ra trong tay sách, ngưng lông mày trầm tư.",
+      "dich": "Triệu Đồng im lặng ngồi nghe, đoạn thả sách trong tay ra, chau mày trầm tư.",
+      "suggest": "Triệu Đồng nghe xong, thu cuốn sách trong tay về, nhíu mày trầm tư.",
+      "similarity": [
+        [
+          8,
+          0.14
+        ],
+        [
+          33,
+          0.22
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ngươi nói cái này, ta còn thật không biết là thứ gì, chờ ta có rảnh, trở về cho ngươi hỏi một chút đồng môn đi.\"",
+      "dich": "\"Ngươi nói cái này, ta cũng thực sự không biết là thứ gì, chờ ta rảnh, về hỏi các đồng môn xem sao.\"",
+      "suggest": "\"Ngươi nói cái này, ta còn không biết là thứ gì, chờ khi nào ta rảnh, trở về hỏi ngươi một chút đồng môn đi.\"",
+      "similarity": [
+        [
+          34,
+          0.46
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Sau một lát, hắn lắc đầu, nói.",
+      "dich": "Một lát sau, y lắc đầu, đáp.",
+      "suggest": "Sau một lát, hắn lắc đầu, nói.",
+      "similarity": [
+        [
+          2,
+          0.25
+        ],
+        [
+          35,
+          0.19
+        ],
+        [
+          89,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đành phải gật đầu cân xong, chợt cáo từ rời đi.",
+      "dich": "Viên Minh đành gật đầu đồng ý, xong lập tức cáo từ rời đi.",
+      "suggest": "Viên Minh đành gật đầu cân nhắc, sau đó bèn cáo từ rời đi.",
+      "similarity": [
+        [
+          36,
+          0.47
+        ],
+        [
+          45,
+          0.22
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn không có tại Cáp Mô Cốc bên trong dừng lại lâu, trực tiếp hướng cốc bên ngoài đi đến, vừa xuất cốc miệng, một người dáng người thấp cường tráng, trên mặt mặt sẹo thanh niên đâm đầu đi tới.",
+      "dich": "Hắn không nấn ná ở lại Cáp Mô Cốc lâu, mà lập tức bước thẳng ra khỏi cốc, nhưng khi vừa ra khỏi cửa cốc, liền thấy một thanh niên mặt sẹo, dáng người lùn chắc cắm đầu bước tới.",
+      "suggest": "Hắn cũng không dừng lại lâu ở trong Cáp Mô Cốc, trực tiếp đi ra ngoài. Vừa bước tới gần cốc, một thanh niên có dáng người thấp bé, mặt mũi đầy sẹo đâm đầu vào.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Viên huynh, ta tới Cáp Mô Cốc tìm ngươi nhiều lần, hôm nay cuối cùng gặp được ngươi, nhưng có thuốc chữa thương cao?\"",
+      "dich": "\"Viên huynh, ta đến Cáp Mô Cốc tìm ngươi nhiều lần, hôm nay rốt cuộc cũng gặp được ngươi, có còn cao trị thương đó không?\"",
+      "suggest": "\"Viên huynh, ta tới Cáp Mô Cốc tìm ngươi nhiều lần, hôm nay cuối cùng ta cũng gặp được ngươi, nhưng thuốc chữa thương có cao không?\"",
+      "similarity": [
+        [
+          38,
+          0.45
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhìn thấy Viên Minh, mặt sẹo thanh niên mặt lộ vẻ sợ hãi lẫn vui mừng, nhiệt tình tiến lên đón.",
+      "dich": "Nhìn thấy Viên Minh, thanh niên mặt sẹo lộ vẻ vui mừng xen lẫn sợ hãi, nhiệt tình bước lên chào hỏi.",
+      "suggest": "Viên Minh thấy thanh niên mặt sẹo tỏ vẻ sợ hãi lẫn vui mừng, nhiệt tình tiến lên đón tiếp.",
+      "similarity": [
+        [
+          39,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"A, là Thổ Lặc huynh a, thực sự thật có lỗi, gần nhất trong tay không có gì dư thừa hàng tồn.\"",
+      "dich": "\"A, là Thổ Lặc huynh à, thật có lỗi, gần đây trong tay không còn hàng tồn.\"",
+      "suggest": "\"A, là Thổ Lặc huynh a, thật xấu hổ, gần đây trong tay không có bán ra thứ gì dư thừa.\"",
+      "similarity": [
+        [
+          40,
+          0.43
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh mặt lộ vẻ vẻ bất đắc dĩ nói.",
+      "dich": "Viên Minh làm bộ bất đắc dĩ, đáp.",
+      "suggest": "Viên Minh lộ vẻ bất đắc dĩ nói.",
+      "similarity": [
+        [
+          16,
+          0.11
+        ],
+        [
+          20,
+          0.14
+        ],
+        [
+          41,
+          0.21
+        ],
+        [
+          60,
+          0.11
+        ],
+        [
+          63,
+          0.11
+        ],
+        [
+          68,
+          0.11
+        ],
+        [
+          75,
+          0.11
+        ],
+        [
+          81,
+          0.14
+        ],
+        [
+          87,
+          0.11
+        ],
+        [
+          101,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ít đến bộ này, lần trước ngươi thế nhưng là hứa hẹn qua hai bình dược cao, không cho đồ vật, hôm nay ngươi mơ tưởng ra Cáp Mô Cốc.\"",
+      "dich": "\"Bớt dùng bài này đi, lần trước ngươi từng hứa hẹn hai bình cao thuốc đó, không đưa đồ, hôm này chớ mơ ra khỏi Cáp Mô Cốc.\"",
+      "suggest": "\"Tính ra thì ra lần trước ngươi đã hứa với ngươi hai bình dược, không cho phép đồ vật, hôm nay ngươi mơ thấy Cáp Mô Cốc.\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Thổ Lặc hai tay mở ra ngăn ở phía trước, một bộ vô lại bộ dáng.",
+      "dich": "Thổ Lặc giang hai tay cản đường đằng trước, bộ dạng dặt một phường vô lại.",
+      "suggest": "Thổ Lặc đưa hai tay ra ngăn trước người, dáng vẻ cực kỳ mệt mỏi.",
+      "similarity": [
+        [
+          89,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ngươi đây là... Tốt a, đây là vốn định lưu cho bản thân dùng, ngươi đã sốt ruột, trước hết lấy cho ngươi đi thôi.\"",
+      "dich": "\"Ngươi đây là ... Được rồi, đây là ta vốn định lưu cho mình dùng, ngươi đã sốt ruột thế, vậy giao cho ngươi trước vậy.\"",
+      "suggest": "\"Ngươi đây là ... Tốt a, đây là bảo bối của bản thân, ngươi đã nóng ruột, trước tiên cứ cầm cho ngươi đi.\"",
+      "similarity": [
+        [
+          44,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh từ phía sau lưng trong bao quần áo lấy ra hai cái ống trúc làm bình thuốc, đưa tới.",
+      "dich": "Viên Minh lấy hai ống trúc đựng thuốc từ tay nải sau lưng ra, đưa tới.",
+      "suggest": "Viên Minh lấy ra hai ống trúc từ trong túi quần áo đưa ra.",
+      "similarity": [
+        [
+          45,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Hắc hắc, cái này còn tạm được, đây là thù lao, cũng đừng nói ta lấy không ngươi đồ vật.\"",
+      "dich": "\"Hehehe, thế này còn tạm được, đây là thù lao, đừng có nói ta lấy không của ngươi.\"",
+      "suggest": "\"Ha ha, cái này cũng tạm được, đây là thù lao, cũng đừng nói là ta lấy không ngươi đồ vật.\"",
+      "similarity": [
+        [
+          46,
+          0.35
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thổ Lặc cười hắc hắc nói, lấy ra một cái túi tiền ném tới.",
+      "dich": "Thổ Lặc cười hehe nói, đoạn lấy một cái túi nhỏ ra, ném tới.",
+      "suggest": "Thổ Lặc cười hắc hắc, lấy ra một cái túi tiền ném tới.",
+      "similarity": [
+        [
+          47,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh mở túi vải ra nhìn thoáng qua, yên lặng thu vào.",
+      "dich": "Viên Minh mở túi ra liếc mắt nhìn rồi yên lặng thu lại.",
+      "suggest": "Viên Minh mở túi vải ra nhìn thoáng qua, yên lặng thu lại.",
+      "similarity": [
+        [
+          48,
+          0.44
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hai người lại rảnh rỗi hàn huyên hai câu, lúc này mới chia tay.",
+      "dich": "Hai người tiếp đó lại trò chuyện dăm ba câu, xong mới cáo từ rời đi.",
+      "suggest": "Hai người lại rảnh rỗi hàn huyên vài câu, lúc này mới chia tay.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh rời đi sơn cốc, đi vào một chỗ rừng già rậm rạp, thả người lên một cây đại thụ, lại lần nữa mở túi vải ra.",
+      "dich": "Viên Minh rời khỏi sơn cốc, đi tới một mảnh rừng già rậm rạp, tung người nhảy lên một cây đại thụ, xong một lần nữa mở túi vải ra.",
+      "suggest": "Viên Minh rời khỏi sơn cốc, đi vào một khu rừng rậm rậm rạp, thả mình lên một cây đại thụ, lại lần nữa mở túi vải ra.",
+      "similarity": [
+        [
+          50,
+          0.55
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bên trong lại là một trương da thú, phía trên viết đầy cực nhỏ chữ nhỏ, là phụ cận mảnh rừng núi này bên trong gần nhất phát sinh sự tình.",
+      "dich": "Bên trong có một tấm da thú, trên da ghi chi chít những chữ rất nhỏ, ghi lại những chuyện mới phát sinh xung quanh vùng rừng núi này.",
+      "suggest": "Bên trong là một tấm da thú, mặt ngoài viết đầy những chữ nhỏ, đúng là chuyện xảy ra gần đây nhất ở mảnh rừng núi này.",
+      "similarity": [
+        [
+          51,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cái kia Thổ Lặc là một cái tên là \"Thổ Hùng sẽ\" thú nô đoàn đội thành viên, chỉ có mười mấy người, là cái cỡ nhỏ đoàn thể.",
+      "dich": "Thổ Lặc kia là một thành viên của một đoàn đội tên là Thổ Hùng Hội, một đoàn đội cỡ nhỏ với khoảng mười mấy người.",
+      "suggest": "Thổ Lặc kia có một thành viên trong đoàn thú nô, chỉ có mười mấy người, là một tập thể nhỏ.",
+      "similarity": [
+        [
+          52,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cùng Thanh Lang Bang khác biệt, Thổ Hùng sẽ phong cách hành sự ôn hòa rất nhiều, thành viên đều là bằng vào tự thân lực lượng thu thập huyết thực người, chưa bao giờ có cướp đoạt người khác việc xấu.",
+      "dich": "Khác với Thanh Lang Bang, Thổ Hùng hội có phong cách hành xử rất ôn hòa, thành viên đều dựa vào lực lượng tự thân để thu thập huyết thực, chưa bao giờ đi làm chuyện cướp bóc kẻ khác.",
+      "suggest": "So với bang Thanh Lang, phong cách hành sự của Thổ Hùng khá giống nhau. Thành viên đều là người có sức mạnh bản thân thu thập, chưa bao giờ làm điều xấu.",
+      "similarity": [
+        [
+          53,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh hơn hai tháng trước cùng Thổ Lặc quen biết, đã từng đã cứu thứ nhất ra lệnh, Thổ Lặc làm người có chút trung nghĩa, cực nghĩ báo đáp, đáng tiếc thực lực không đủ.",
+      "dich": "Viên Minh quen biết Thổ Lặc từ khoảng hai tháng trước, cũng từng cứu gã một lần. Thổ Lặc làm người khá trung nghĩa, rất muốn báo đáp, đáng tiếc không đủ thực lực.",
+      "suggest": "Hai tháng trước Viên Minh và Thổ Lặc quen biết, đã từng cứu mạng một người, Thổ Lặc làm người có chút trung nghĩa, cực kỳ báo đáp, đáng tiếc thực lực không đủ.",
+      "similarity": [
+        [
+          54,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh gặp Thổ Lặc làm người khéo đưa đẩy, giỏi về giao tế, liền để hắn hỗ trợ thu thập trong núi rừng phi mao thú nô nhóm tin tức, để hắn kịp thời hiểu rõ các loại tình huống.",
+      "dich": "Viên Minh thấy Thổ Lặc là người khéo đưa đẩy, giỏi giao thiệp, liền nhớ gã hỗ trợ thu thập tin tức về các nhóm thú nô trong rừng, để hắn kịp nắm rõ tình hình.",
+      "suggest": "Viên Minh thấy Thổ Lặc làm người khéo léo, giỏi giao tế, liền nhờ hắn hỗ trợ thu thập tin tức về Phi Mao thú nô trong núi, để hắn kịp thời nắm bắt tình hình.",
+      "similarity": [
+        [
+          55,
+          0.4
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhìn xem da thú nội dung, Viên Minh sắc mặt ngưng trọng lên, căn cứ Thổ Lặc thu tập được tin tức, Thanh Lang Bang đã tìm tới Ba Âm đám người thi thể, cũng căn cứ tiền căn hậu quả, suy đoán ra hắn chính là hung thủ.",
+      "dich": "Nhìn nội dung trên da thú, sắc mặt Viên Minh trở nên ngưng trọng, căn cứ theo tin tức mà Thổ Lặc cung cấp, Thanh Lang Bang đã tìm được thi thể đám người Ba Âm, đồng thời xem xét tiền căn hậu quả, đoán ra hắn chính là hung thủ.",
+      "suggest": "Nội dung chính của bao da, Viên Minh sắc mặt ngưng trọng. Căn cứ vào tin tức Thổ Lặc thu được, Thanh Lang bang đã tìm được thi thể ba Âm hồn, từ những căn cứ tiền căn hậu quả, có thể đoán được hắn chính là hung thủ.",
+      "similarity": [
+        [
+          56,
+          0.35
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Da thú bên trên còn viết, Thanh Lang Bang chủ Ô Bảo treo thưởng một kiện nửa pháp khí thần binh, tìm kiếm Viên Minh hạ lạc.",
+      "dich": "Bên trong da thú còn ghi, bang chủ Thanh Lang Bang, Ô Bảo còn treo thương một kiện thần binh nửa pháp khí cho kẻ tìm được chỗ Viên Minh trú chân.",
+      "suggest": "Trên da thú còn viết, bang chủ Ô Bảo được một kiện pháp khí thần binh, tìm kiếm Viên Minh.",
+      "similarity": [
+        [
+          57,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Nếu là như vậy, ta gần đoạn thời gian cũng không thể tái xuất nhập Cáp Mô Cốc, trong cốc nhiều người phức tạp, rất dễ dàng gây nên người hữu tâm chú ý.\"",
+      "dich": "\"Nếu là như vậy, thời gian tới ta cũng không thể ra vào Cáp Mô Cốc nữa, trong cốc nhiều người phức tạp, rất dễ để người hữu tâm chú ý.\"",
+      "suggest": "\"Nếu như vậy, trong khoảng thời gian gần đây ta cũng không thể quay lại Cáp Mô Cốc, trong cốc có rất nhiều người, rất dễ dàng gây ra sự chú ý của người khác.\"",
+      "similarity": [
+        [
+          58,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đột nhiên nghĩ đến một chuyện, quay người rời đi.",
+      "dich": "Viên Minh đột nhiên nhớ tới một chuyện, quay người bước đi.",
+      "suggest": "Viên Minh đột nhiên nghĩ tới một chuyện, quay người rời đi.",
+      "similarity": [
+        [
+          37,
+          0.12
+        ],
+        [
+          59,
+          0.57
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn đem tốc độ tăng lên đến mức cao nhất, tại trong núi rừng lượn quanh một vòng lớn, xác định không có người theo dõi về sau, mới trở về bản thân nhà gỗ phụ cận.",
+      "dich": "Hắn đẩy tốc độ lên mức cao nhất, vòng một vòng lớn trong rừng, sau khi xác định không có ai bám đuôi, mới trở về căn nhà gỗ của mình.",
+      "suggest": "Hắn đem tốc độ tăng lên đến mức cao nhất, bay quanh núi rừng một vòng lớn, sau khi xác định không có người theo dõi mới trở về căn nhà gỗ cạnh mình.",
+      "similarity": [
+        [
+          60,
+          0.41
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bên trong nhà gỗ, Cáp Cống đang nằm nghỉ ngơi.",
+      "dich": "Bên trong nhà gỗ, Cáp Cống đang nằm nghỉ ngơi.",
+      "suggest": "Cáp Cống đang nằm nghỉ ngơi bên trong nhà gỗ.",
+      "similarity": [
+        [
+          61,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đột nhiên hắn mở to mắt, ráng chống đỡ lấy đứng dậy, nắm chặt Thanh Lang da thú, tùy thời chuẩn bị kích phát Phi Mao Thuật.",
+      "dich": "Đột nhiên y mở trừng hai mắt, ráng chống tay đứng lên, nắm chặt da sói xanh, chuẩn bị kích phát Phi Mao Thuật bất cứ lúc nào.",
+      "suggest": "Đột nhiên hắn mở to mắt, cố chống đỡ đứng dậy, nắm chặt lấy da Thanh Lang, tùy thời chuẩn bị kích phát Thuật Phi Mao.",
+      "similarity": [
+        [
+          62,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Là ta.\"",
+      "dich": "\"Là ta.\"",
+      "suggest": "\"Là ta.\"",
+      "similarity": [
+        [
+          3,
+          0.11
+        ],
+        [
+          63,
+          1
+        ],
+        [
+          87,
+          0.11
+        ],
+        [
+          101,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cáp Cống gặp đây, lúc này mới thở dài ra một hơi, lần nữa ngồi xuống.",
+      "dich": "Cáp Cống nghe thế, mới thở phào một hơi, lần nữa ngồi xuống.",
+      "suggest": "Cáp Cống thấy vậy mới thở dài một hơi, lần nữa ngồi xuống.",
+      "similarity": [
+        [
+          64,
+          0.52
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ta rời đi trong khoảng thời gian này, không người đến qua a?\"",
+      "dich": "\"Khoảng thời gian ta rời đi, không có ai tới đây chứ?\"",
+      "suggest": "\"Ta rời đi trong khoảng thời gian này, không có người nào đi qua sao?\"",
+      "similarity": [
+        [
+          65,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đẩy cửa tiến đến, hỏi.",
+      "dich": "Viên Minh đẩy cửa bước vào, hỏi.",
+      "suggest": "Viên Minh đẩy cửa tiến vào, hỏi.",
+      "similarity": [
+        [
+          16,
+          0.12
+        ],
+        [
+          20,
+          0.11
+        ],
+        [
+          65,
+          0.11
+        ],
+        [
+          66,
+          0.6
+        ],
+        [
+          66,
+          0.12
+        ],
+        [
+          68,
+          0.11
+        ],
+        [
+          75,
+          0.23
+        ],
+        [
+          81,
+          0.11
+        ],
+        [
+          87,
+          0.11
+        ],
+        [
+          101,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Nơi này có chút vắng vẻ, không có người đến, ta điều tức nghỉ ngơi một phen.",
+      "dich": "\"Nơi này khá vắng vẻ, không có ai đến, ta điều tức tĩnh dưỡng được một phen.",
+      "suggest": "\"Nơi này có chút vắng vẻ, không có người đến, ta lập tức nghỉ ngơi một phen.",
+      "similarity": [
+        [
+          67,
+          0.33
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngược lại là ngươi, sắc mặt thế nào như vậy ngưng trọng, đã xảy ra chuyện gì?\"",
+      "dich": "Ngược lại ngươi làm sao mặt mũi nghiêm trọng thế, đã xảy ra chuyện gì?\"",
+      "suggest": "Trái lại ngươi, sắc mặt sao lại ngưng trọng như vậy, đã xảy ra chuyện gì?\"",
+      "similarity": [
+        [
+          68,
+          0.41
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cáp Cống nhìn Viên Minh một chút sau hỏi.",
+      "dich": "Cáp Cống nhìn Viên Minh một chút rồi hỏi.",
+      "suggest": "Cáp Cống nhìn Viên Minh một chút rồi hỏi.",
+      "similarity": [
+        [
+          4,
+          0.21
+        ],
+        [
+          68,
+          0.12
+        ],
+        [
+          69,
+          1
+        ],
+        [
+          75,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Thanh Lang Bang đã biết là ta giết Ba Âm, ngay tại khắp nơi treo thưởng tìm kiếm ta, nơi này chỉ sợ không thể ở lại, được chuyển dời đến càng vắng vẻ địa phương tránh đầu gió.\"",
+      "dich": "\"Thanh Lang Bang đã biết là ta giết Ba Âm, chúng đang khắp nơi treo thưởng tìm ta, nơi này e là không thể ở lâu, phải chuyển tới nơi kín đáo hơn để tránh đầu sóng ngọn gió.\"",
+      "suggest": "\"Thanh Lang bang đã biết là ta giết ba Âm, luôn treo thưởng lên khắp nơi tìm kiếm ta, nơi này chỉ sợ không thể ở lại, phải dời tới địa phương vắng vẻ càng tốt tránh đầu gió.\"",
+      "similarity": [
+        [
+          70,
+          0.34
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh chậm rãi nói.",
+      "dich": "Viên Minh chậm rãi đáp.",
+      "suggest": "Viên Minh chậm rãi nói.",
+      "similarity": [
+        [
+          16,
+          0.12
+        ],
+        [
+          20,
+          0.23
+        ],
+        [
+          65,
+          0.11
+        ],
+        [
+          68,
+          0.11
+        ],
+        [
+          71,
+          0.54
+        ],
+        [
+          75,
+          0.12
+        ],
+        [
+          81,
+          0.23
+        ],
+        [
+          87,
+          0.19
+        ],
+        [
+          101,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ba Âm thật là ngươi giết!",
+      "dich": "\"Ba Âm đúng là do ngươi giết?!",
+      "suggest": "\"Ba Âm không phải là ngươi giết!",
+      "similarity": [
+        [
+          72,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngươi lá gan thật đúng là không nhỏ, hắn nhưng là luyện khí ba tầng, thực lực không thể so với Ô Bảo yếu bao nhiêu, ngươi đến tột cùng dùng thủ đoạn gì?\"",
+      "dich": "Lá gan ngươi thật đúng là không nhỏ, nhưng gã là Luyện Khí tầng ba, thực lực so ra cũng không kém Ô Bảo bao nhiêu, ngươi rốt cuộc là dùng thủ đoạn gì?\"",
+      "suggest": "Lá gan của ngươi thật sự không nhỏ. Hắn chỉ là luyện khí ba tầng, thực lực không thể so sánh với Ô Bảo Y, ngươi dùng thủ đoạn gì để lừa gạt hắn?\"",
+      "similarity": [
+        [
+          73,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cáp Cống lấy làm kinh hãi.",
+      "dich": "Cáp Cống kinh hãi thắc mắc.",
+      "suggest": "Cáp Cống lấy làm kinh hãi.",
+      "similarity": [
+        [
+          74,
+          0.2
+        ],
+        [
+          89,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đùa nghịch một chút tiểu thủ đoạn mà thôi, không đáng giá nhắc tới.",
+      "dich": "\"Chơi vài trò vặt mà thôi, không đáng nhắc tới.",
+      "suggest": "\"Chỉ là một chút thủ đoạn nhỏ mà thôi, không đáng nhắc tới.",
+      "similarity": [
+        [
+          75,
+          0.46
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cáp Cống huynh tiếp xuống tính thế nào?",
+      "dich": "Cáp Cống huynh tiếp đây tính làm gì?",
+      "suggest": "Cáp Cống huynh tiếp nhận thế nào?",
+      "similarity": [
+        [
+          17,
+          0.11
+        ],
+        [
+          76,
+          0.11
+        ],
+        [
+          76,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thanh Lang Bang ngày nay mão đủ kình đang tìm ta, đối ngươi hẳn không có để ý nhiều, ngươi là dự định cùng ta cùng nhau rời đi, vẫn là đơn độc hành động?\"",
+      "dich": "Thanh Lang Bang giờ đang ráo riết truy tìm ta, hẳn sẽ không chú ý ngươi quá, ngươi định cùng ta rời đi, hay là đơn độc hành động?\"",
+      "suggest": "Ngày hôm nay lão già Lam sư huynh đang tìm ta, chắc hẳn không để ý lắm, ngươi có ý định cùng ta rời đi hay là đơn độc hành động?",
+      "similarity": [
+        [
+          77,
+          0.34
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh chuyển hướng chủ đề, hỏi.",
+      "dich": "Viên Minh đổi chủ đề, hỏi.",
+      "suggest": "Viên Minh chuyển chủ đề, hỏi.",
+      "similarity": [
+        [
+          16,
+          0.13
+        ],
+        [
+          20,
+          0.13
+        ],
+        [
+          65,
+          0.11
+        ],
+        [
+          68,
+          0.22
+        ],
+        [
+          71,
+          0.12
+        ],
+        [
+          73,
+          0.13
+        ],
+        [
+          78,
+          0.59
+        ],
+        [
+          81,
+          0.13
+        ],
+        [
+          87,
+          0.14
+        ],
+        [
+          101,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Viên huynh cũng quá khinh thường ta Cáp Cống, ta ô tôn bộ người ơn nặng nhất nghĩa, người khác tặng ta một đấu, ta tất gấp mười hoàn lại, Viên huynh trước đó không tiếc bại lộ hành tích, xuất thủ cứu ta, ta như tại lúc này rời đi, ngày sau còn như thế nào ngang đầu ưỡn ngực hướng chó thần đại nhân cầu nguyện.\"",
+      "dich": "\"Viên huynh cũng quá khinh thường Cáp Cống ta rồi. Người Ô Tôn bộ ta coi trọng ân nghĩa nhất, người khác tặng ta một, ta nhất định trả lại mười. Viên huynh lúc trước không ngại để lộ hành tung, ra tay cứu ta, nếu ta lúc này lại bỏ đi, ngày sau sao còn dám ngẩng đầu ưỡn ngực cầu nguyện với Khuyển Thần đại nhân.\"",
+      "suggest": "\"Viên huynh cũng quá coi thường ta rồi, Cáp Cống ta là người nặng tình nhất, người khác tặng ta một đấu, ta tất sẽ trả lại, Viên huynh trước khi rời đi, đã ra tay cứu ta, bây giờ ta rời đi, sao còn mặt mũi nào mà ngửa mặt lên trời cầu nguyện cho đại nhân\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Cáp Cống hừ một tiếng, trên mặt hơi lộ ra vẻ giận dữ.",
+      "dich": "Cáp Cống hừ một tiếng, mặt lộ vẻ tức giận.",
+      "suggest": "Cáp Cống hừ một tiếng, trên mặt lộ ra chút giận dữ.",
+      "similarity": [
+        [
+          80,
+          0.42
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Là tại hạ thất ngôn, còn xin Cáp Cống huynh thông cảm.\"",
+      "dich": "\"Là tại hạ lỡ lời, xin Cáp Cống huynh chớ trách.\"",
+      "suggest": "\"Là tại hạ thất ngôn, mong Cáp Cống huynh thông cảm.\"",
+      "similarity": [
+        [
+          81,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh chắp tay nói.",
+      "dich": "Viên Minh chắp tay nói.",
+      "suggest": "Viên Minh chắp tay nói.",
+      "similarity": [
+        [
+          16,
+          0.12
+        ],
+        [
+          20,
+          0.23
+        ],
+        [
+          65,
+          0.11
+        ],
+        [
+          68,
+          0.11
+        ],
+        [
+          73,
+          0.18
+        ],
+        [
+          80,
+          0.12
+        ],
+        [
+          82,
+          1
+        ],
+        [
+          87,
+          0.19
+        ],
+        [
+          89,
+          0.11
+        ],
+        [
+          101,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn tại Thập Vạn Đại Sơn chờ đợi cũng có một đoạn thời gian, đối với Nam Cương phong thổ nhiều ít có chút ít hiểu.",
+      "dich": "Hắn ở Thập Vạn Đại Sơn đã được một khoảng thời gian, với phong thổ Nam Cương cũng có hiểu biết nhất định.",
+      "suggest": "Hắn ở trên Thập Vạn Đại Sơn cũng đã một thời gian dài, hiểu biết chút ít về phong thổ Nam Cương.",
+      "similarity": [
+        [
+          83,
+          0.26
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nam Cương dân bản địa bị Trung Nguyên xưng là dã nhân, phần lớn lấy bộ tộc hình thức quần cư sinh hoạt, mỗi cái bộ lạc đều có bản thân tập tục cùng tín ngưỡng, kiêng kỵ nhất người khác xúc phạm.",
+      "dich": "Dân bản địa Nam Cương bị người Trung Nguyên gọi là dã nhân, đa phần sống tập trung theo hình thức bộ lạc, mỗi một bộ lạc đều có tập tục và tín ngưỡng riêng, kỵ nhất là bị người khác xúc phạm.",
+      "suggest": "Dân bản địa Nam Cương bị Trung Nguyên gọi là dã nhân, phần lớn là tập tục tập quán của người Hán, mỗi bộ lạc đều có tập tục và tín ngưỡng riêng, không ai được xúc phạm.",
+      "similarity": [
+        [
+          84,
+          0.48
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Viên huynh là người Trung Nguyên, đối ta ô tôn bộ hoàn toàn không biết gì cả, không cần như thế, về sau chớ có lại nói lời này chính là.\"",
+      "dich": "\"Viên huynh là người Trung Nguyên, không biết gì về Ô Tôn bộ ta, không cần phải thế, sau này đừng nói mấy câu kia nữa là được.\"",
+      "suggest": "\"Viên huynh là người Trung Nguyên, đối với Ô tôn bộ của ta hoàn toàn không biết gì cả, không cần phải như thế, sau này đừng có nói những lời này nữa.\"",
+      "similarity": [
+        [
+          85,
+          0.39
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cáp Cống gặp Viên Minh chân thành xin lỗi, thần sắc hòa hoãn rất nhiều, nói.",
+      "dich": "Cáp Cống thấy Viên Minh chân thành xin lỗi, thần sắc dịu đi, nói.",
+      "suggest": "Cáp Cống thấy Viên Minh thành thật xin lỗi, thần sắc hòa hoãn rất nhiều, nói.",
+      "similarity": [
+        [
+          86,
+          0.46
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ta chắc chắn nhớ kỹ, Cáp Cống huynh đã chủ ý đã định, kia đi nhanh đi, ở chỗ này thêm một khắc liền nhiều một phần nguy hiểm.\"",
+      "dich": "\"Ta nhất định ghi nhớ, nếu Cáp Cống huynh đã quyết, vậy chúng ta mau rời đi, ở đây thêm một khắc là nguy hiểm thêm một phần.\"",
+      "suggest": "\"Ta chắc chắn nhớ kỹ, Cáp Cống huynh đã quyết, vậy ta phải đi nhanh lên, ở chỗ này thêm một khắc sẽ nguy hiểm thêm một phần.\"",
+      "similarity": [
+        [
+          87,
+          0.42
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nói.",
+      "dich": "Viên Minh đề nghị.",
+      "suggest": "Viên Minh nói.",
+      "similarity": [
+        [
+          16,
+          0.12
+        ],
+        [
+          20,
+          0.23
+        ],
+        [
+          64,
+          0.11
+        ],
+        [
+          65,
+          0.11
+        ],
+        [
+          68,
+          0.11
+        ],
+        [
+          73,
+          0.18
+        ],
+        [
+          80,
+          0.12
+        ],
+        [
+          86,
+          0.23
+        ],
+        [
+          88,
+          0.24
+        ],
+        [
+          101,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Tốt, chỉ là ta hiện tại hành động khó khăn, di động chỉ có thể nhờ ngươi.\"",
+      "dich": "\"Được, có điều ta giờ hành động khó khăn, di chuyển chỉ đành nhờ ngươi.\"",
+      "suggest": "\"Được, chỉ là hiện tại ta đang hành động khó khăn, di động chỉ có thể nhờ ngươi.\"",
+      "similarity": [
+        [
+          89,
+          0.38
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cáp Cống hai tay một đám nói.",
+      "dich": "Cáp Cống đưa hai tay ra, nói.",
+      "suggest": "Cáp Cống chắp tay nói.",
+      "similarity": [
+        [
+          20,
+          0.16
+        ],
+        [
+          76,
+          0.15
+        ],
+        [
+          86,
+          0.51
+        ],
+        [
+          90,
+          0.14
+        ],
+        [
+          101,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh không nói gì thêm, cõng lên Cáp Cống rời đi nhà gỗ, hướng hẻm núi phương hướng đi đến.",
+      "dich": "Viên Minh không nói gì, lập tức cõng Cáp Cống rời khỏi nhà gỗ, đi về phía hạp cốc.",
+      "suggest": "Viên Minh không nói thêm điều gì nữa, cõng Cáp Cống rời khỏi nhà gỗ, đi thẳng vào hẻm núi.",
+      "similarity": [
+        [
+          91,
+          0.48
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nếu nói địa phương an toàn, tự nhiên là hẻm núi đối diện.",
+      "dich": "Nói về nơi an toàn, hiển nhiên là hạp cốc phía trước.",
+      "suggest": "Nếu nói địa điểm an toàn, đương nhiên là hẻm núi đối diện.",
+      "similarity": [
+        [
+          92,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nơi đó vị trí vắng vẻ, không có gì hung thú, tự nhiên ít có phi mao thú nô tiến đến, liền trước mắt mà nói đã thích hợp tĩnh dưỡng, cũng có thể tránh né Thanh Lang Bang truy sát.",
+      "dich": "Nơi đó vị trí vắng vẻ, không có hung thú gì, tự nhiên sẽ ít có Phi Mao thú nô lui tới, trước mắt mà nói thì rất thích hợp để tĩnh dưỡng, cũng có thể tránh né Thanh Lang Bang truy sát.",
+      "suggest": "Nơi đó vị trí vắng vẻ, không có hung thú, tự nhiên ít có Phi Mao thú nô tiến đến, ngay cả trong thời gian ngắn cũng thích hợp để tĩnh dưỡng, cũng có thể tránh khỏi bị Thanh Lang bang truy sát.",
+      "similarity": [
+        [
+          93,
+          0.61
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trọng yếu nhất chính là, có đầu kia tràn ngập sương mù hẻm núi tại, cho dù Thanh Lang Bang toàn bang đi tìm đến, hắn cũng có thể trốn vào đáy cốc trong sương mù, lại nhiều người cũng vô dụng.",
+      "dich": "Quan trong nhất là, ở hạp cốc có đám sương mù kia, dù cả Thanh Lang Bang tới tìm, hắn cũng có thể trốn vào trong sương mù ở đáy cốc, lúc ấy dù có nhiều người cũng vô dụng.",
+      "suggest": "Quan trọng nhất chính là, có một hẻm núi tràn ngập sương mù, cho dù toàn bang Thanh Lang Bang tìm đến, hắn cũng có thể trốn vào trong sương mù, nhưng nhiều người cũng vô dụng.",
+      "similarity": [
+        [
+          94,
+          0.36
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lấy Viên Minh thực lực hôm nay, cho dù mang theo Cáp Cống, vẫn rất nhanh liền tới đến hẻm núi bên này.",
+      "dich": "Lấy thực lực hiện tại của Viên Minh, dù cõng theo Cáp Cống vẫn rất nhanh đã tới bờ bên này hạp cốc.",
+      "suggest": "Với thực lực của Viên Minh, cho dù mang theo Cáp Cống, song cũng rất nhanh đã tới được bên kia hẻm núi.",
+      "similarity": [
+        [
+          95,
+          0.25
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn không có khác tìm chỗ, trực tiếp mang theo Cáp Cống đi vào trước đây ở lại động quật.",
+      "dich": "Hắn không tìm chỗ khác, đưa thẳng Cáp Cống tới động quật sinh sống trước đây.",
+      "suggest": "Hắn không tìm chỗ khác, trực tiếp dẫn theo Cáp Cống đi vào động quật trước đây ở.",
+      "similarity": [
+        [
+          96,
+          0.32
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trải qua thời gian chung sống dài như vậy, Viên Minh đã đại khái mò thấy Cáp Cống tâm tính, làm người thành tín, đáng gia kết giao, cái này chỗ ở cũng không phải cái gì trọng yếu chỗ, bại lộ cho hắn cũng không phải cái vấn đề lớn gì.",
+      "dich": "Trải qua thời gian ở chung dài như vậy, Viên Minh đã đại khái hiểu được tâm tính Cáp Cống, làm người thủ tín, đáng để kết giao, nơi này cũng không phải chỗ quan trọng gì, để y biết cũng không phải vấn đề gì lớn.",
+      "suggest": "Trải qua thời gian chung sống dài như vậy, Viên Minh đã hiểu rõ tâm tính của Cáp Cống, là người thành tín, đáng gia kết giao, chỗ ở này cũng không phải vấn đề gì trọng yếu, bại lộ ra ngoài cũng không phải vấn đề gì to tát.",
+      "similarity": [
+        [
+          97,
+          0.36
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Nghĩ không ra Viên huynh ngươi vẫn còn như thế một cái chỗ ở.\"",
+      "dich": "\"Không ngờ Viên huynh ngươi còn có một chỗ ở thế này.\"",
+      "suggest": "\"Nghĩ không ra Viên huynh vẫn còn ở đây sao!\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Cáp Cống nhìn thấy điều kiện như thế hoàn thiện động quật, chậc chậc khen.",
+      "dich": "Cáp Cống nhìn động quật với điều kiện đầy đủ như thế, không khỏi tấm tắc khen.",
+      "suggest": "Cáp Cống thấy điều kiện hoàn thiện như vậy thì chậc chậc khen.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Vừa tới nơi này lúc lưu lại.",
+      "dich": "\"Trước mắt tạm ở lại đây.",
+      "suggest": "\"Vừa tới nơi này đã lưu lại một chút.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Thanh Lang Bang người nhất thời bán hội tìm không thấy nơi này, trong động đồ ăn cùng uống nước cũng rất sung túc, ngươi an tâm ở đây tĩnh dưỡng.\"",
+      "dich": "Người Thanh Lang Bang trong một chốc một lát sẽ không tìm nổi chỗ này, đồ ăn, nước uống trong động cũng khá đầy đủ, ngươi an tâm ở đây tĩnh dưỡng đi.\"",
+      "suggest": "Bán hội Thanh Lang bang tìm được nơi này, đồ ăn và nước uống trong động rất sung túc, ngươi an tâm ở đây tĩnh dưỡng.\"",
+      "similarity": [
+        [
+          101,
+          0.35
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nói.",
+      "dich": "Viên Minh nói.",
+      "suggest": "Viên Minh nói.",
+      "similarity": [
+        [
+          16,
+          0.12
+        ],
+        [
+          20,
+          0.23
+        ],
+        [
+          64,
+          0.11
+        ],
+        [
+          65,
+          0.11
+        ],
+        [
+          68,
+          0.11
+        ],
+        [
+          73,
+          0.18
+        ],
+        [
+          80,
+          0.12
+        ],
+        [
+          86,
+          0.23
+        ],
+        [
+          92,
+          0.24
+        ],
+        [
+          102,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cáp Cống nhẹ gật đầu, khoanh chân ngồi xuống, vận công dưỡng thương.",
+      "dich": "Cáp Cống nhẹ gật đầu, khoanh chân ngồi xuống, vận công dưỡng thương.",
+      "suggest": "Cáp Cống nhẹ gật đầu, khoanh chân ngồi xuống, vận công dưỡng thương.",
+      "similarity": [
+        [
+          103,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh không có lưu ở nơi đây tu luyện, đứng dậy đi ra phía ngoài, rất mau tới đến một chỗ yên lặng rừng cây.",
+      "dich": "Viên Minh không ở lại đây tu luyện, mà đứng dậy đi ra bên ngoài, chỉ chốc lát đã tới một rừng cây yên tĩnh.",
+      "suggest": "Viên Minh không còn ở đây tu luyện, đứng dậy đi ra ngoài, đi tới một khu rừng cây yên tĩnh.",
+      "similarity": [
+        [
+          104,
+          0.37
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn mang Cáp Cống tới đây, không chỉ vì tránh né Thanh Lang Bang lùng bắt, cùng để Cáp Cống có thể yên tĩnh dưỡng thương, cũng có được mục đích của mình.",
+      "dich": "Hắn đưa Cáp Cống tới đây, không chỉ vì tránh né Thanh Lang Bang lùng bắt với để Cáp Cống có thể dưỡng thương, mà còn có một mục đích khác.",
+      "suggest": "Hắn mang Cáp Cống tới đây, không chỉ để tránh bị Thanh Lang bang lùng bắt, mà còn để Cáp Cống có thể yên tĩnh dưỡng thương, cũng có mục đích của riêng hắn.",
+      "similarity": [
+        [
+          105,
+          0.42
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngày nay tình cảnh của hắn cũng không quá diệu, nhất định phải tận khả năng tăng lên thực lực của mình, mới có thể tại đứng trước đột phát tình huống lúc làm được toàn thân trở ra, tu vi tăng lên không phải một sớm một chiều sự tình, vừa mới đạt được Vô Ảnh Bộ pháp không thể nghi ngờ là lập tức so sánh có thể hiệu quả nhanh chóng lựa chọn.",
+      "dich": "Tình cảnh hiện giờ của hắn không được tốt lắm, nhất định phải dốc hết khả năng nâng thực lực bản thân lên, thế mới có thể toàn thân trở ra khi gặp tình huống bất ngờ. Tăng tu vi không phải chuyện một sớm một chiều, suy nghĩ chút không khó để thấy được Vô Ảnh Bộ vừa tới tay, chính là lựa chọn tốt nhất để mau chóng tăng thực lực lên.",
+      "suggest": "Tình cảnh của hắn hiện tại cũng không quá tệ, nhất định phải tận lực tăng lên thực lực của mình, mới có thể trong tình huống bất ngờ xuất hiện trở lại, tu vi tăng lên không phải chuyện sớm một chiều mà là chuyện không thể vội vàng có thể lựa chọn một cách nhanh chóng.",
+      "similarity": [
+        [
+          106,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mà môn này bộ pháp huyền diệu khó lường, cần thời gian cùng không gian luyện tập, hẻm núi bên này vắng vẻ yên tĩnh, cũng chính thích hợp.",
+      "dich": "Có điều môn bộ pháp này huyền diệu khó lường, cần thời gian và không gian luyện tập, bên này hạp cốc vừa hẻo lánh vừa yên tĩnh, chính là một nơi vô cùng phù hợp.",
+      "suggest": "Mà môn pháp thuật này vô cùng huyền diệu, cần thời gian và không gian luyện tập, hẻm núi bên này vắng vẻ yên tĩnh cũng là thích hợp.",
+      "similarity": [
+        [
+          107,
+          0.3
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh tại nguyên chỗ ngừng chân mà đứng, nhắm mắt tinh tế về ôn một lần Vô Ảnh Bộ pháp ghi lại văn tự chân dung, sau đó hít sâu một hơi, dồn khí đan điền, bước ra bước đầu tiên, bước bước thứ hai lúc lại tiếp tục đem khí phun ra...",
+      "dich": "Viên Minh đứng yên tại chỗ, nhắm mắt cẩn thận nhớ lại một lượt những chữ viết và hình vẽ được ghi lại trong Vô Ảnh Bộ, sau đó hít sâu một hơi, dồn khí xuống đan điền, bước tới một bước, tới bước thứ hai liền thở ra một hơi ...",
+      "suggest": "Viên Minh đứng nguyên tại chỗ, nhắm mắt tinh tế ôn lại một lần bộ pháp quyết vô hình ghi lại văn tự chân dung, sau đó hít sâu một hơi, dồn hết khí lực vào trong Đan Điền, bước tiếp theo lại tiếp tục rót khí vào...",
+      "similarity": [
+        [
+          108,
+          0.26
+        ]
+      ],
+      "approved": true
+    }
+  ],
+  "currentWorkingLine": 109,
+  "changed": true
+}

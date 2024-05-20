@@ -1,0 +1,2581 @@
+{
+  "currentLine": 116,
+  "next": {
+    "id": 32,
+    "title": "Chương 32: Liệp đảm"
+  },
+  "previous": {
+    "id": 30,
+    "title": "Chương 30: Bán pháp khí"
+  },
+  "title": {
+    "convert": "Chương 31",
+    "dich": "Chương 31"
+  },
+  "lines": [
+    {
+      "convert": "\"Bình thường binh khí, coi như lại như thế nào cứng cỏi sắc bén, chỉ có thể coi là lợi khí, có thể phát huy tác dụng cũng có hạn, chỉ có thể là người bình thường sở dụng.",
+      "dich": "\"Binh khí bình thường, dù sắc bén, cứng cỏi thế nào cũng chỉ coi là vũ khí lợi hại, tác dụng có thể phát huy có hạn, chỉ để cho người thường sử dụng.",
+      "suggest": "\" Binh khí bình thường mặc dù cứng cỏi sắc bén thế nào, cũng chỉ có thể coi là lợi khí, có thể phát huy tác dụng cũng có hạn, chỉ có thể là người bình thường mà thôi.",
+      "similarity": [
+        [
+          0,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nếu là người tu hành, đem pháp lực quán chú trong đó, cho dù tốt lợi khí, cũng sẽ bởi vì không thể thừa nhận mà đứt đoạn, mà pháp khí thì lại khác, có thể tiếp nhận dung nạp pháp lực.\"",
+      "dich": "Nếu là người tu hành, quán chú pháp lục vào trong đó, dù có là vũ khí tốt thì cũng sẽ vì không thể dung nạp mà vỡ vụn. Pháp khí lại khác, có thể tiếp nhận, dung nạp pháp lực.\"",
+      "suggest": "Nếu là người tu hành, đem pháp lực quán chú trong đó, cho dù có lợi ích không thể thừa nhận, cũng sẽ bởi vì không thể thừa nhận mà đứt đoạn, mà pháp khí lại khác, có thể dung nạp và dung nạp.\"",
+      "similarity": [
+        [
+          1,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng hắng giọng một cái, chậm rãi mà nói giải thích nói.",
+      "dich": "Triệu Đồng hắng giọng, đĩnh đạc lên tiếng giải thích.",
+      "suggest": "Triệu Đồng hắng giọng một cái, chậm rãi giải thích.",
+      "similarity": [
+        [
+          2,
+          0.32
+        ],
+        [
+          8,
+          0.16
+        ],
+        [
+          27,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Chuôi kiếm này có thể quán chú pháp lực?\"",
+      "dich": "\"Có thể quán chú pháp lực vào thanh kiếm này?\"",
+      "suggest": "\"Chuôi kiếm này có thể quán chú pháp lực?\"",
+      "similarity": [
+        [
+          3,
+          0.38
+        ],
+        [
+          23,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh kinh ngạc nói.",
+      "dich": "Viên Minh kinh ngạc hỏi.",
+      "suggest": "Viên Minh kinh ngạc nói.",
+      "similarity": [
+        [
+          4,
+          0.54
+        ],
+        [
+          10,
+          0.19
+        ],
+        [
+          42,
+          0.15
+        ],
+        [
+          54,
+          0.19
+        ],
+        [
+          60,
+          0.19
+        ],
+        [
+          86,
+          0.12
+        ],
+        [
+          96,
+          0.16
+        ],
+        [
+          105,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ngươi thử nhìn một chút.\"",
+      "dich": "\"Ngươi thử xem.\"",
+      "suggest": "\"Ngươi thử nhìn một chút.\"",
+      "similarity": [
+        [
+          5,
+          0.27
+        ],
+        [
+          5,
+          0.13
+        ],
+        [
+          19,
+          0.14
+        ],
+        [
+          36,
+          0.12
+        ],
+        [
+          41,
+          0.13
+        ],
+        [
+          64,
+          0.11
+        ],
+        [
+          75,
+          0.13
+        ],
+        [
+          81,
+          0.11
+        ],
+        [
+          85,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng không có trực tiếp trả lời, thanh kiếm đưa cho Viên Minh.",
+      "dich": "Triệu Đồng không trả lời vào câu hỏi mà đưa thanh kiếm cho Viên Minh.",
+      "suggest": "Triệu Đồng không trực tiếp trả lời, thanh kiếm đưa cho Viên Minh.",
+      "similarity": [
+        [
+          6,
+          0.28
+        ],
+        [
+          24,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh tiếp nhận trường kiếm sau nắm chặt, thôi động trong đan điền pháp lực, hướng phía lòng bàn tay dẫn đạo mà đi.",
+      "dich": "Viên Minh nhận kiếm xong liền nắm chắc, điều động pháp lực trong đan điền, dẫn nó chảy về hướng lòng bàn tay.",
+      "suggest": "Viên Minh nhận lấy thanh kiếm dài, huy động pháp lực trong đan điền, hướng lòng bàn tay dẫn đạo.",
+      "similarity": [
+        [
+          7,
+          0.39
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn chỉ cảm thấy pháp lực tại lòng bàn tay ngưng tụ về sau, giống như là lập tức tìm được phát tiết cửa ra vào, kéo dài mà ra, tiến vào ở trong tay trường kiếm bằng đồng thau bên trong.",
+      "dich": "Hắn chỉ cảm thấy pháp lực sau khi ngưng tụ tại lòng bàn tay, thì như lập tức tìm được được chỗ phát tiết, xông vào bên trong thanh kiếm trên tay.",
+      "suggest": "Hắn chỉ cảm thấy sau khi Pháp lực ngưng tụ trong lòng bàn tay giống như lập tức tìm được lối ra, kéo dài ra, tiến vào trong thanh trường kiếm bằng đồng thau trong tay.",
+      "similarity": [
+        [
+          8,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tiếp theo một cái chớp mắt, trường kiếm bằng đồng thau bên trên sáng lên một tầng thanh sắc lưu quang, như là một con cá bơi lội từ kiếm đốc kiếm chỗ tới lui mà lên, bay thẳng mũi kiếm, ở trong rõ ràng phát tán ra một cỗ phong duệ chi khí.",
+      "dich": "Trong nháy mắt tiếp theo, mặt ngoài thanh kiếm tỏa ra một tầng ánh sáng màu xanh. Ánh sáng lưu chuyển như một con cá tung tăng bơi từ đốc kiếm lên thẳng mũi kiếm, bên trong rõ ràng phát ra một luồng khí tức sắc bén.",
+      "suggest": "Chỉ nháy mắt sau đó, mặt ngoài thanh đoản kiếm sáng lên một tầng sáng màu xanh biếc, trông như một con cá bơi từ kiếm đốc kiếm đi ra, từ trong đó tỏa ra một cỗ khí phong duệ.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Thanh Ngư.\"",
+      "dich": "\"Thanh Ngư.\"",
+      "suggest": "\"Thanh Ngư.\"",
+      "similarity": [
+        [
+          6,
+          0.18
+        ],
+        [
+          10,
+          1
+        ],
+        [
+          10,
+          0.11
+        ],
+        [
+          17,
+          0.12
+        ],
+        [
+          34,
+          0.12
+        ],
+        [
+          36,
+          0.12
+        ],
+        [
+          41,
+          0.24
+        ],
+        [
+          54,
+          0.11
+        ],
+        [
+          58,
+          0.12
+        ],
+        [
+          64,
+          0.11
+        ],
+        [
+          67,
+          0.18
+        ],
+        [
+          75,
+          0.24
+        ],
+        [
+          81,
+          0.11
+        ],
+        [
+          85,
+          0.11
+        ],
+        [
+          101,
+          0.11
+        ],
+        [
+          109,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này, Viên Minh mới chú ý tới, thân kiếm tới gần kiếm đốc kiếm vị trí, tuyên khắc lấy hai cái xinh đẹp Nam Cương chữ nhỏ.",
+      "dich": "Viên Minh lúc này mới để ý thấy trên thân kiếm, chỗ gần đốc kiếm có khắc hai chữ Nam Cương tinh xảo.",
+      "suggest": "Lúc này, Viên Minh mới chú ý đến vị trí thanh kiếm đốc kiếm, tuyên bố khắc lên đó hai chữ nhỏ xinh đẹp Nam Cương.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Đây là luyện khí người lưu lại chữ khắc trên đồ vật, không là chính hắn danh tự, là hắn cho thanh kiếm này đặt tên.",
+      "dich": "\"Đây là minh văn do người luyện khí lưu lại, không phải tên của hắn mà là tên hắn đặt cho thanh kiếm này.",
+      "suggest": "\"Đây là vật mà người luyện khí lưu lại, không phải tên của hắn, là tên của thanh kiếm này.",
+      "similarity": [
+        [
+          12,
+          0.54
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Như thế xem ra, thanh kiếm này hoặc là hắn tác phẩm đắc ý, hoặc là chính là đối với hắn có phi phàm ý nghĩa.\"",
+      "dich": "Như thế xem ra, thanh kiếm này hoặc là tác phẩm đắc ý của hắn, hoặc là có ý nghĩ phi phàm với hắn.\"",
+      "suggest": "Xem ra thanh kiếm này hoặc là tác phẩm đắc ý của hắn, hoặc là có ý nghĩa phi phàm đối với hắn.\"",
+      "similarity": [
+        [
+          13,
+          0.67
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng liếc qua, tùy ý nói.",
+      "dich": "Triệu Đồng liếc mắt nhìn rồi thuận miệng giải thích.",
+      "suggest": "Triệu Đồng liếc nhìn, tùy ý nói.",
+      "similarity": [
+        [
+          14,
+          0.16
+        ],
+        [
+          14,
+          0.11
+        ],
+        [
+          17,
+          0.1
+        ],
+        [
+          27,
+          0.11
+        ],
+        [
+          34,
+          0.1
+        ],
+        [
+          37,
+          0.11
+        ],
+        [
+          40,
+          0.11
+        ],
+        [
+          58,
+          0.1
+        ],
+        [
+          65,
+          0.11
+        ],
+        [
+          105,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Vậy ngươi vì sao nói nó là kiện bán pháp khí?\"",
+      "dich": "\"Vậy sao ngươi lại nói nó là kiện nửa pháp khí?\"",
+      "suggest": "\"Vậy ngươi vì sao lại nói nó là pháp khí kiện bán?\"",
+      "similarity": [
+        [
+          15,
+          0.26
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh lại hỏi.",
+      "dich": "Viên Minh lại hỏi.",
+      "suggest": "Viên Minh lại hỏi.",
+      "similarity": [
+        [
+          5,
+          0.23
+        ],
+        [
+          12,
+          0.11
+        ],
+        [
+          16,
+          1
+        ],
+        [
+          17,
+          0.12
+        ],
+        [
+          24,
+          0.13
+        ],
+        [
+          34,
+          0.25
+        ],
+        [
+          41,
+          0.11
+        ],
+        [
+          42,
+          0.15
+        ],
+        [
+          54,
+          0.24
+        ],
+        [
+          58,
+          0.25
+        ],
+        [
+          60,
+          0.15
+        ],
+        [
+          75,
+          0.11
+        ],
+        [
+          107,
+          0.13
+        ],
+        [
+          109,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bởi vì bình thường pháp khí đều có nhất định phụ thuộc uy năng, tỉ như phóng thích đóng băng, hỏa diễm, lôi điện vân vân.",
+      "dich": "\"Bởi vì pháp khí bình thường đều có uy năng phụ thuộc nhất định, tỷ như phóng ra băng, hỏa, lôi điện các kiểu.",
+      "suggest": "\"Bởi vì bình thường pháp khí đều có những uy lực nhất định, chẳng hạn như phóng ra ánh sáng màu xanh, hỏa diễm, lôi điện vân vân.",
+      "similarity": [
+        [
+          17,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đây là bởi vì trong đó ẩn chứa có thuộc tính khác nhau trận văn bố trí, mà ngươi chuôi kiếm này luyện chế sau khi hoàn thành, cũng không tiến hành trận văn khắc họa, cho nên không có được năng lực như vậy.\"",
+      "dich": "Cái này là do bên trong nó được bố trí trận văn thuộc tính khác nhau, trong khi người luyện chế thanh kiếm này sau khi làm xong, vẫn chưa tiến hành khắc họa trận văn, cho nên không có được uy năng như vậy.\"",
+      "suggest": "Đây là bởi vì trong đó ẩn chứa trận văn có thuộc tính khác nhau, mà sau khi luyện chế chuôi kiếm này, cũng không tiến hành khắc họa trận văn, cho nên cũng không có năng lực như vậy.\"",
+      "similarity": [
+        [
+          18,
+          0.33
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng tiếp tục giải thích nói.",
+      "dich": "Triệu Đồng tiếp tục giảng giải.",
+      "suggest": "Triệu Đồng tiếp tục giải thích.",
+      "similarity": [
+        [
+          3,
+          0.16
+        ],
+        [
+          16,
+          0.18
+        ],
+        [
+          19,
+          0.45
+        ],
+        [
+          19,
+          0.17
+        ],
+        [
+          27,
+          0.17
+        ],
+        [
+          34,
+          0.17
+        ],
+        [
+          37,
+          0.11
+        ],
+        [
+          40,
+          0.21
+        ],
+        [
+          58,
+          0.17
+        ],
+        [
+          65,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh tưởng tượng, mới vừa rồi thân kiếm hoàn toàn chính xác chỉ là trở nên sắc bén hơn, cũng vô cái khác phụ thuộc uy năng, liền hỏi:",
+      "dich": "Viên Minh nhớ lại thân kiếm mới đây đúng là trở nên sắc bén hơn chứ không có uy năng phụ thuộc khác, bèn hỏi tiếp:",
+      "suggest": "Viên Minh tưởng tượng, thân kiếm vừa rồi quả thật đã trở nên sắc bén hơn, không còn chút uy lực phụ thuộc nào khác, liền hỏi:",
+      "similarity": [
+        [
+          20,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Cái kia còn có thể bổ cứu, một lần nữa khắc hoạ trận văn sao?\"",
+      "dich": "\"Vậy còn có thể bổ cứu, một lần nữa khắc họa trận văn không?\"",
+      "suggest": "\"Vậy còn có thể bổ sung thêm, khắc hoạ trận văn sao?\"",
+      "similarity": [
+        [
+          21,
+          0.34
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Có thể tự nhiên là có thể, bất quá cái này cần Hỏa Luyện Đường trưởng lão mới có thể làm đến, đệ tử tầm thường nhưng không có bản sự này.\"",
+      "dich": "\"Đương nhiên là có thể, có điều việc này cần trưởng lão Hỏa Luyện đường mới làm được, đệ tử bình thường không có bản lĩnh này.\"",
+      "suggest": "\"Đương nhiên là có thể, nhưng việc này phải có trưởng lão Hỏa Luyện Đường mới có thể làm được, đệ tử bình thường không có cái này.\"",
+      "similarity": [
+        [
+          22,
+          0.55
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng nói.",
+      "dich": "Triệu Đồng đáp.",
+      "suggest": "Triệu Đồng nói.",
+      "similarity": [
+        [
+          12,
+          0.11
+        ],
+        [
+          18,
+          0.11
+        ],
+        [
+          21,
+          0.15
+        ],
+        [
+          23,
+          0.35
+        ],
+        [
+          27,
+          0.12
+        ],
+        [
+          34,
+          0.35
+        ],
+        [
+          37,
+          0.11
+        ],
+        [
+          40,
+          0.18
+        ],
+        [
+          41,
+          0.11
+        ],
+        [
+          54,
+          0.11
+        ],
+        [
+          58,
+          0.35
+        ],
+        [
+          60,
+          0.13
+        ],
+        [
+          65,
+          0.15
+        ],
+        [
+          75,
+          0.11
+        ],
+        [
+          96,
+          0.16
+        ],
+        [
+          105,
+          0.11
+        ],
+        [
+          109,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nghe xong, liền biết tạm thời vô vọng, lấy hắn ngày nay thú nô thân phận, lại thế nào góp nhặt tài nguyên, cũng tuyệt đối không có khả năng mời được đến một vị tông môn trưởng lão, vì chính mình luyện chế pháp khí.",
+      "dich": "Viên Minh nghe xong, liền biết tạm thời không có hy vọng gì, lấy thân phận thú nô của hắn bây giờ, dù có đi góp nhặt tài nguyên thế nào, cũng tuyệt không thể mới được trưởng lão của một tông môn đi giúp hắn luyện chế pháp khí.",
+      "suggest": "Viên Minh nghe xong thì biết tạm thời không có hy vọng, với thân phận thú nô ngày nay, không biết có bao nhiêu tài nguyên để mua một vị tông môn, để luyện chế một pháp khí.",
+      "similarity": [
+        [
+          24,
+          0.25
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Còn có một cái đồ vật, muốn cho ngươi chưởng chưởng nhãn.\"",
+      "dich": "\"Còn một thứ muốn nhờ người kiểm tra chút.\"",
+      "suggest": "\"Còn có một vật, muốn cho ngươi chưởng chưởng nhãn.\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nói xong, lấy ra cái kia từ Ba Âm trên tay có được gốm đen bình nhỏ.",
+      "dich": "Viên Minh nói, xong cầm cái bình gốm nhỏ màu đen lấy được từ tay Ba Âm ra.",
+      "suggest": "Viên Minh nói xong liền lấy ra cái bình nhỏ từ trên tay nải của Ba Âm Bồ từ trong tay nải ra.",
+      "similarity": [
+        [
+          26,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng cầm tới, tò mò mở ra, lập tức nghe được một cỗ gay mũi cay độc mùi.",
+      "dich": "Triệu Đồng tò cầm lấy, tò mò mở ra, lập tức ngửi được một mùi cay nồng gay mũi.",
+      "suggest": "Triệu Đồng cầm lấy, tò mò mở ra, lập tức ngửi thấy mùi cay xè.",
+      "similarity": [
+        [
+          27,
+          0.53
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn lập tức dời ra, mặt mũi tràn đầy ghét bỏ địa đẩy trở về, nói ra: \"Đây là Bạo Huyết Hoàn, ngươi chỗ nào lấy được?\"",
+      "dich": "Y lập tức bỏ xuống, thần sắc tràn ngập vẻ ghét bỏ, đẩy trở về rồi nói: \"Đây là Bạo Huyết Hoàn, ngươi kiếm đâu ra vậy?\"",
+      "suggest": "Hắn lập tức dời ánh mắt, mặt mũi tràn đầy ghét bỏ ném cái túi trở về, nói: 'Đây là Bạo Huyết Hoàn, ngươi ở đâu lấy được?'",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Thứ này có ích lợi gì?\"",
+      "dich": "\"Thứ này có tác dụng gì?\"",
+      "suggest": "\"Thứ này có ích gì?\"",
+      "similarity": [
+        [
+          29,
+          0.43
+        ],
+        [
+          33,
+          0.13
+        ],
+        [
+          57,
+          0.17
+        ],
+        [
+          106,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh không có giải thích, đắp kín nắp bình, hỏi.",
+      "dich": "Viên Minh không trả lời, đậy nắp bình lại xong lại hỏi.",
+      "suggest": "Viên Minh không giải thích, đậy kín nắp bình, hỏi.",
+      "similarity": [
+        [
+          30,
+          0.17
+        ],
+        [
+          107,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng tưởng tượng, liền minh bạch thứ này là thế nào tới, phi mao thú nô ở giữa chém giết cướp đoạt, hắn thấy cũng nhiều.",
+      "dich": "Triệu Đồng ngẫm nghĩ chút, hiểu được ngày thứ này từ đâu ra, chuyện chém giết cướp đoạt giữa các Phi Mao Thuật, hắn thấy không ít.",
+      "suggest": "Triệu Đồng nghĩ lại sẽ hiểu rõ thứ này, đám Phi Mao thú nô ở giữa chém giết cướp đoạt, hắn cũng thấy nó.",
+      "similarity": [
+        [
+          31,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Thiêu đốt tinh huyết, kích phát tiềm lực, có thể khiến người ta ngắn ngủi bộc phát ra viễn siêu bản thân thực tế lực lượng, không qua đi di chứng cực lớn, không đến sinh tử tồn vong thời điểm, tuyệt đối không nên dùng.\"",
+      "dich": "\"Thiêu đốt tinh huyết, kích phát tiềm lực, có thể khiến người ta bộc phát ra lực lượng vượt xa thực tế bản thân, có di chứng cực lớn, chưa đến thời điểm sinh tử tồn vong, tuyệt đối không được dùng.\"",
+      "suggest": "\"Thiêu đốt tinh huyết, kích phát tiềm lực, có thể làm cho người ta trong nháy mắt bộc phát ra lực lượng thực tế của bản thân, không để lại di chứng cực lớn, tuyệt đối không nên dùng.\"",
+      "similarity": [
+        [
+          32,
+          0.49
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng giống như giải thích, lại như dặn dò.",
+      "dich": "Triệu Đồng giải thích như căn dặn.",
+      "suggest": "Triệu Đồng giống như giải thích, lại như dặn dò.",
+      "similarity": [
+        [
+          3,
+          0.11
+        ],
+        [
+          16,
+          0.1
+        ],
+        [
+          33,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nghe vậy, trong lòng nghi hoặc bỗng nhiên hiểu, Ba Âm lúc trước nhất định là ăn cái đồ chơi này, mới đột nhiên bạo tẩu, có đánh giết Nhân Diện Quỷ Chu lực lượng.",
+      "dich": "Viên Minh nghe xong, nghi hoặc trong lòng cũng được giải, Ba Âm khi trước nhất định là đã dùng thứ này mới đột nhiên phát rồ, có sức đánh giết Nhân Diện Quỷ Chu.",
+      "suggest": "Viên Minh nghe vậy, trong lòng nghi hoặc bỗng nhiên hiểu ra, Ba Âm lúc trước nhất định là ăn phải thứ đồ chơi này, mới đột nhiên bạo tẩu, có lực lượng đánh giết Nhân Diện Quỷ Chu.",
+      "similarity": [
+        [
+          34,
+          0.3
+        ],
+        [
+          47,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Về phần di chứng, ngẫm lại sau khi hắn chết thi thể liền biết khủng bố đến mức nào.",
+      "dich": "Về phần di chứng, chỉ cần nghĩ tới thi thể gã sau khi chết là biết ngay nó khủng bố cỡ nào.",
+      "suggest": "Về phần di chứng, xem ra sau khi hắn chết thi thể hắn đã khủng bố đến mức nào.",
+      "similarity": [
+        [
+          35,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đa tạ giải hoặc, lần này liền bán ra cái này hai cái chân nhện.\"",
+      "dich": "\"Đa tạ giải đáp. Lần này liền bán ra hai cái chân nhện.\"",
+      "suggest": "\"Đa tạ giải thích, lần này đã bán ra hai cái chân nhện này.\"",
+      "similarity": [
+        [
+          36,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nói xong, thu hồi bản thân Thanh Ngư kiếm.",
+      "dich": "Viên Minh nói, đồng thời thu hồi Thanh Ngư kiếm của mình.",
+      "suggest": "Viên Minh nói xong, thu lại Thanh Ngư kiếm của mình.",
+      "similarity": [
+        [
+          37,
+          0.47
+        ],
+        [
+          45,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Được thôi, lần này ngươi muốn đổi thứ gì?\"",
+      "dich": "\"Được thôi, lần này ngươi muốn đổi thứ gì?\"",
+      "suggest": "\"Được rồi, lần này ngươi muốn đổi thứ gì?\"",
+      "similarity": [
+        [
+          31,
+          0.13
+        ],
+        [
+          38,
+          0.79
+        ],
+        [
+          57,
+          0.13
+        ],
+        [
+          106,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng hỏi.",
+      "dich": "Triệu Đồng hỏi.",
+      "suggest": "Triệu Đồng hỏi.",
+      "similarity": [
+        [
+          5,
+          0.16
+        ],
+        [
+          12,
+          0.11
+        ],
+        [
+          18,
+          0.21
+        ],
+        [
+          21,
+          0.15
+        ],
+        [
+          25,
+          0.35
+        ],
+        [
+          35,
+          0.12
+        ],
+        [
+          39,
+          1
+        ],
+        [
+          39,
+          0.11
+        ],
+        [
+          40,
+          0.18
+        ],
+        [
+          41,
+          0.11
+        ],
+        [
+          54,
+          0.11
+        ],
+        [
+          58,
+          1
+        ],
+        [
+          65,
+          0.15
+        ],
+        [
+          75,
+          0.11
+        ],
+        [
+          107,
+          0.13
+        ],
+        [
+          109,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh trầm ngâm một lát, hỏi: \"Có cái gì kiếm thuật công pháp?\"",
+      "dich": "Viên Minh trầm ngâm một lúc rồi hỏi: \"Có công pháp kiếm thuật gì không?\"",
+      "suggest": "Viên Minh trầm ngâm một lát, hỏi: \"Có công pháp kiếm thuật nào?\"",
+      "similarity": [
+        [
+          40,
+          0.59
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Cái này... Thật đúng là không có.\"",
+      "dich": "\"Cái này ... Thực sự không có.\"",
+      "suggest": "\"Điều này ... thật đúng là không có.\"",
+      "similarity": [
+        [
+          41,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng nghe vậy, lắc đầu nói.",
+      "dich": "Triệu Đồng nghe thế, lắc đầu đáp.",
+      "suggest": "Triệu Đồng nghe vậy, lắc đầu nói.",
+      "similarity": [
+        [
+          21,
+          0.11
+        ],
+        [
+          25,
+          0.1
+        ],
+        [
+          35,
+          0.11
+        ],
+        [
+          42,
+          0.1
+        ],
+        [
+          42,
+          0.31
+        ],
+        [
+          42,
+          0.11
+        ],
+        [
+          58,
+          0.1
+        ],
+        [
+          65,
+          0.11
+        ],
+        [
+          105,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nghe vậy, trong lòng cảm thấy tiếc nuối.",
+      "dich": "Viên Minh nghe xong, trong lòng không khỏi cảm thấy tiếc nuối.",
+      "suggest": "Viên Minh nghe vậy, trong lòng cảm thấy tiếc nuối.",
+      "similarity": [
+        [
+          43,
+          0.44
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Chúng ta Bích La Động là lấy ngự thú nổi tiếng tông môn, môn nội công pháp cũng coi đây là chủ, về phần một chút hỗn tạp đê giai công pháp cũng không ít, có thể kiếm thuật công pháp, ta chưa từng thấy qua.\"",
+      "dich": "\"Bích La Động chúng ta là tông môn nổi dành về thuật ngự thú, công pháp trong môn cũng lấy đó làm chủ, về phần một số công pháp tạp nham cấp thấy cũng có không ít, nhưng công pháp kiếm thuật thì đúng là ta chưa thấy lần nào.\"",
+      "suggest": "\"Chúng ta Bích La Động là tông môn lấy ngự thú nổi danh nhất tông môn, công pháp phần lớn cũng coi đây là chủ, về phần một ít công pháp phức tạp có thể nói là chủ yếu, nhưng về phần kiếm thuật công pháp, ta chưa từng thấy qua.\"",
+      "similarity": [
+        [
+          44,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng giải thích nói.",
+      "dich": "Triệu Đồng giải thích thêm.",
+      "suggest": "Triệu Đồng giải thích.",
+      "similarity": [
+        [
+          3,
+          0.16
+        ],
+        [
+          12,
+          0.11
+        ],
+        [
+          16,
+          0.18
+        ],
+        [
+          18,
+          0.11
+        ],
+        [
+          21,
+          0.16
+        ],
+        [
+          25,
+          0.28
+        ],
+        [
+          35,
+          0.37
+        ],
+        [
+          42,
+          0.28
+        ],
+        [
+          45,
+          0.11
+        ],
+        [
+          45,
+          0.54
+        ],
+        [
+          45,
+          0.11
+        ],
+        [
+          54,
+          0.11
+        ],
+        [
+          58,
+          0.28
+        ],
+        [
+          65,
+          0.15
+        ],
+        [
+          75,
+          0.11
+        ],
+        [
+          109,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh ôm quyền nói.",
+      "dich": "Viên Minh ôm quyền nói.",
+      "suggest": "Viên Minh ôm quyền nói.",
+      "similarity": [
+        [
+          5,
+          0.18
+        ],
+        [
+          18,
+          0.19
+        ],
+        [
+          46,
+          0.43
+        ],
+        [
+          54,
+          0.19
+        ],
+        [
+          60,
+          0.19
+        ],
+        [
+          86,
+          0.12
+        ],
+        [
+          96,
+          0.16
+        ],
+        [
+          105,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đều là sinh ý, không cần khách sáo.\"",
+      "dich": "\"Đều là làm ăn, không cần khách sáo.\"",
+      "suggest": "\"Đều là sinh ý, không cần khách sáo.\"",
+      "similarity": [
+        [
+          47,
+          0.63
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng khoát tay áo, tùy ý nói.",
+      "dich": "Triệu Đồng khoát khoát tay, thuận miệng đáp.",
+      "suggest": "Triệu Đồng khoát tay, tùy ý nói.",
+      "similarity": [
+        [
+          21,
+          0.11
+        ],
+        [
+          25,
+          0.1
+        ],
+        [
+          35,
+          0.11
+        ],
+        [
+          42,
+          0.1
+        ],
+        [
+          45,
+          0.11
+        ],
+        [
+          48,
+          0.11
+        ],
+        [
+          48,
+          0.26
+        ],
+        [
+          58,
+          0.1
+        ],
+        [
+          65,
+          0.11
+        ],
+        [
+          105,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh cáo từ một tiếng, dự định rời đi.",
+      "dich": "Viên Minh nói lời cáo từ, xong toan rời đi.",
+      "suggest": "Viên Minh cáo từ một tiếng, đang định rời đi.",
+      "similarity": [
+        [
+          49,
+          0.19
+        ],
+        [
+          51,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hôm nay đúng lúc là nộp lên huyết thực thời gian, hắn dự định đi một chuyến cột mốc biên giới bên kia.",
+      "dich": "Hôm này chính là ngày nộp lên huyết thực, hắn tính đi qua tảng đá mốc giới kia một chuyến.",
+      "suggest": "Hôm nay là ngày nộp đủ máu, hắn định đi một chuyến tới cột mốc biên giới phía trước.",
+      "similarity": [
+        [
+          50,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này, sau lưng đột nhiên truyền đến Triệu Đồng thanh âm, tựa như tùy ý hỏi: \"Đúng rồi, ngươi giết Nhân Diện Quỷ Chu thời điểm, có hay không lấy đi nó gương mặt kia da?\"",
+      "dich": "Lúc này, tiếng Triệu Đồng từ sau lưng đột nhiên vang lên, nghe như thuận miệng hỏi: \"Phải rồi, lúc ngươi giết Nhân Diện Quỷ Chu, có lấy tấm da hình mặt người kia không?\"",
+      "suggest": "Đúng lúc này, sau lưng Triệu Đồng truyền đến giọng nói như tùy ý: \"Đúng rồi, khi ngươi giết Nhân Diện Quỷ Chu, có lấy đi da mặt của nó không?\"",
+      "similarity": [
+        [
+          36,
+          0.11
+        ],
+        [
+          51,
+          0.28
+        ],
+        [
+          55,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nghe vậy, trong lòng hơi động một chút, hỏi: \"Kia làm người ta sợ hãi đồ chơi cũng hữu dụng?\"",
+      "dich": "Viên Minh nghe hỏi, trong lòng hơi động, hỏi ngược lại: \"Món đồ chơi làm người ta hết hồn kia cũng có tác dụng?\"",
+      "suggest": "Viên Minh nghe vậy, trong lòng hơi động, hỏi: \"Vậy đồ chơi làm cho người ta sợ hãi có hữu dụng không?\"",
+      "similarity": [
+        [
+          52,
+          0.33
+        ],
+        [
+          55,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn một câu nói kia hỏi ra, Triệu Đồng trong mắt rõ ràng hiện lên một vòng vẻ thất vọng.",
+      "dich": "Hắn hỏi ra câu này, tức thì trong mắt Triệu Đồng hiện lên vẻ thất vọng.",
+      "suggest": "Hắn vừa nói một câu, trong mắt Triệu Đồng rõ ràng hiện lên vẻ thất vọng.",
+      "similarity": [
+        [
+          53,
+          0.43
+        ],
+        [
+          73,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Vật kia thế nhưng là luyện chế Thiên Cơ mặt nạ chủ tài, ngươi không có nhặt coi như xong.\"",
+      "dich": "\"Thứ đó là vật liệu chính để luyện thế mặt nạ Thiên Cơ, ngươi không nhặt thì thôi.\"",
+      "suggest": "\"Vật này là chủ tài luyện chế mặt nạ Thiên Cơ, ngươi không nhặt lên thì coi như xong.\"",
+      "similarity": [
+        [
+          54,
+          0.36
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng khoát tay áo, ra hiệu hắn có thể đi.",
+      "dich": "Triệu Đồng phẩy phẩy tay áo, ra hiệu hắn có thể rời đi.",
+      "suggest": "Triệu Đồng khoát tay, ra hiệu hắn có thể đi.",
+      "similarity": [
+        [
+          52,
+          0.22
+        ],
+        [
+          55,
+          0.41
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh từ phản ứng của hắn bên trong, đánh giá ra kia Nhân Diện Quỷ Chu da mặt nhất định không phải cái gì phổ thông đồ vật, ít nhất là đối Triệu Đồng mà nói có chút trọng yếu đồ vật.",
+      "dich": "Viên Minh từ trong phản ứng của y, tự hiểu rằng tấm da mặt của Nhân Diện Quỷ Chu nhất định không phải thứ bình thường, chí ít với Triệu Đồng mà nói thì đó là thứ tương đối quan trọng.",
+      "suggest": "Viên Minh từ phản ứng của hắn đánh giá con Quỷ Chu này nhất định không phải là thứ gì bình thường, ít nhất là đối với Triệu Đồng có chút trọng yếu.",
+      "similarity": [
+        [
+          56,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Trách không được chịu giải thích cho ta nhiều đồ như vậy, nguyên lai là vì cái này làm nền.\"",
+      "dich": "\"Bảo sao chịu giải thích cho ta nhiều như vậy, hóa ra là làm nền cho thứ này.\"",
+      "suggest": "\"Không được giải thích cho ta nhiều thứ như vậy, nguyên lai là vì cái này.\"",
+      "similarity": [
+        [
+          57,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh thầm nghĩ trong lòng.",
+      "dich": "Viên Minh thầm nghĩ.",
+      "suggest": "Viên Minh thầm nghĩ.",
+      "similarity": [
+        [
+          5,
+          0.18
+        ],
+        [
+          12,
+          0.11
+        ],
+        [
+          18,
+          0.24
+        ],
+        [
+          25,
+          0.12
+        ],
+        [
+          42,
+          0.12
+        ],
+        [
+          49,
+          0.11
+        ],
+        [
+          50,
+          0.15
+        ],
+        [
+          58,
+          1
+        ],
+        [
+          59,
+          0.12
+        ],
+        [
+          60,
+          0.15
+        ],
+        [
+          75,
+          0.11
+        ],
+        [
+          109,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn dừng bước lại, xoay người, hỏi: \"Đúng rồi, ngươi nơi này còn có hay không giống như là « Bách Thảo Tập » đồng dạng sách, có thể hay không lại cho ta hai quyển?\"",
+      "dich": "Hắn dừng bước lại, xoay người, hỏi: \"Đúng rồi, ở đây nếu ngươi còn sách gì kiểu như Bách Thảo Tập, có thể cho ta thêm một bản không?\"",
+      "suggest": "Hắn dừng bước, xoay người, hỏi: Đúng rồi, nơi này còn có quyển sách nào giống như Bách Thảo Tập hay không?",
+      "similarity": [
+        [
+          59,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh cũng chính là từ Triệu Đồng nơi này đạt được « Bách Thảo Tập », mới có thể nhận ra Nhục Linh Chi.",
+      "dich": "Viên Minh cũng chính là có được Bách Thảo Tập từ chỗ này, mới có thể nhận ra Nhục Linh Chi.",
+      "suggest": "Viên Minh cũng chính là từ chỗ Triệu Đồng có được Bách Thảo Tập  mới có thể nhận ra Nhục Linh Chi.",
+      "similarity": [
+        [
+          60,
+          0.54
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ngươi phải những cái kia làm cái gì?\"",
+      "dich": "\"Ngươi cần mấy thứ đó làm gì?\"",
+      "suggest": "\"Ngươi đang làm cái gì đó?\"",
+      "similarity": [
+        [
+          6,
+          0.11
+        ],
+        [
+          31,
+          0.11
+        ],
+        [
+          61,
+          0.14
+        ],
+        [
+          106,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng hỏi.",
+      "dich": "Triệu Đồng hỏi.",
+      "suggest": "Triệu Đồng hỏi.",
+      "similarity": [
+        [
+          5,
+          0.16
+        ],
+        [
+          12,
+          0.11
+        ],
+        [
+          18,
+          0.21
+        ],
+        [
+          21,
+          0.15
+        ],
+        [
+          25,
+          0.35
+        ],
+        [
+          35,
+          0.12
+        ],
+        [
+          42,
+          1
+        ],
+        [
+          45,
+          0.11
+        ],
+        [
+          48,
+          0.18
+        ],
+        [
+          49,
+          0.11
+        ],
+        [
+          62,
+          0.11
+        ],
+        [
+          62,
+          1
+        ],
+        [
+          65,
+          0.15
+        ],
+        [
+          75,
+          0.11
+        ],
+        [
+          107,
+          0.13
+        ],
+        [
+          109,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Được thêm kiến thức, lần sau gặp lại Nhân Diện Quỷ Chu cái này hung thú, liền biết trên người nó những thứ đó hữu dụng, những thứ đó vô dụng.\"",
+      "dich": "\"Bổ sung kiến thức, sau này có gặp hung thú Nhân Diện Quỷ Chu kia, sẽ biết ngay trên người có cái gì hữu dụng, cái gì vô dụng.\"",
+      "suggest": "\"Được học hỏi thêm kiến thức, lần sau gặp hung thú Nhân diện quỷ Chu này, sẽ biết những thứ trên người nó có hữu dụng hay không.\"",
+      "similarity": [
+        [
+          63,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh vừa cười vừa nói.",
+      "dich": "Viên Minh vừa cười vừa nói.",
+      "suggest": "Viên Minh cười nói.",
+      "similarity": [
+        [
+          5,
+          0.18
+        ],
+        [
+          12,
+          0.11
+        ],
+        [
+          18,
+          0.24
+        ],
+        [
+          25,
+          0.12
+        ],
+        [
+          42,
+          0.12
+        ],
+        [
+          49,
+          0.11
+        ],
+        [
+          50,
+          0.15
+        ],
+        [
+          62,
+          0.24
+        ],
+        [
+          64,
+          0.12
+        ],
+        [
+          64,
+          0.2
+        ],
+        [
+          75,
+          0.11
+        ],
+        [
+          86,
+          0.12
+        ],
+        [
+          96,
+          0.16
+        ],
+        [
+          105,
+          0.11
+        ],
+        [
+          109,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng nghe vậy, một chút do dự, từ trong ngực móc ra một bản thanh sắc sách, ném tới.",
+      "dich": "Triệu Đồng nghe thế, sau một thoáng do dự, móc một cuốn sách bìa xanh từ ngực áo ra, ném tới.",
+      "suggest": "Triệu Đồng nghe vậy, hơi do dự một chút rồi móc từ trong ngực ra một quyển sách màu xanh, ném qua.",
+      "similarity": [
+        [
+          65,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh vội vàng đưa tay tiếp được, nhìn lướt qua phong bì, trên đó viết « Thường Loại Hung Thú Đồ Giám ».",
+      "dich": "Viên Minh vội vươn tay ra tiếp, nhìn lướt qua bìa sách, trên đó viết \"Thường Loại Hung Thú Đồ Giám\".",
+      "suggest": "Viên Minh vội vàng đưa tay nhận lấy, nhìn lướt qua phong bì, trên đó viết  Đồ Giám Thường Loại Hung Thú .",
+      "similarity": [
+        [
+          66,
+          0.34
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Trong này toàn bộ Thập Vạn Đại Sơn bên trong thường gặp hung thú, tính tình cùng thủ đoạn công kích, cùng có thể lợi dụng mức độ đều có ghi chép, ngươi nhìn cái này liền đủ.\"",
+      "dich": "\"Trong này có ghi chép thông tin về toàn bộ hung thú phổ biến trong Thập Vạn Đại Sơn, bao gồm tâm tính, thủ đoạn công kích, khả năng vốn có. Người đọc cái này là đủ.\"",
+      "suggest": "\"Trong Thập Vạn Đại Sơn này, hung thú thường gặp nhất, tính tình và các loại công kích có thể lợi dụng đều có ghi chép, ngươi xem qua cái này là đủ.\"",
+      "similarity": [
+        [
+          67,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Triệu Đồng nói.",
+      "dich": "Triệu Đồng nói.",
+      "suggest": "Triệu Đồng nói.",
+      "similarity": [
+        [
+          12,
+          0.11
+        ],
+        [
+          18,
+          0.11
+        ],
+        [
+          21,
+          0.15
+        ],
+        [
+          25,
+          0.35
+        ],
+        [
+          35,
+          0.12
+        ],
+        [
+          42,
+          0.35
+        ],
+        [
+          45,
+          0.11
+        ],
+        [
+          48,
+          0.18
+        ],
+        [
+          49,
+          0.11
+        ],
+        [
+          62,
+          0.11
+        ],
+        [
+          66,
+          0.35
+        ],
+        [
+          68,
+          0.13
+        ],
+        [
+          68,
+          0.15
+        ],
+        [
+          75,
+          0.11
+        ],
+        [
+          96,
+          0.16
+        ],
+        [
+          105,
+          0.11
+        ],
+        [
+          109,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nghe vậy, mừng thầm trong lòng, vừa định nói lời cảm tạ, liền nghe hắn lại bổ sung: \"Sách này sách đối với các ngươi phi mao thú nô tới nói có giá trị không nhỏ, xem như dùng một cây chân nhện đổi.\"",
+      "dich": "Viên Minh nghe xong, mừng thầm trong lòng, đang định nói cám ơn đã nghe y bổ sung: \"Sách này có giá trị không nhỏ với Phi Mao Thuật các ngươi, coi như dùng một chân nhện trao đổi.\"",
+      "suggest": "Viên Minh nghe vậy, mừng thầm trong lòng, đang định nói lời cảm ơn, chợt nghe hắn bổ sung: \"Sách này đối với Phi Mao thú nô có giá trị không nhỏ, xem như là đổi lấy một cái chân nhện vậy.\"",
+      "similarity": [
+        [
+          69,
+          0.4
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ta...\"",
+      "dich": "\"Ta ...\"",
+      "suggest": "\"Ta ...\"",
+      "similarity": [
+        [
+          6,
+          0.18
+        ],
+        [
+          12,
+          0.19
+        ],
+        [
+          44,
+          0.12
+        ],
+        [
+          49,
+          0.19
+        ],
+        [
+          70,
+          0.11
+        ],
+        [
+          70,
+          0.13
+        ],
+        [
+          75,
+          0.19
+        ],
+        [
+          81,
+          0.11
+        ],
+        [
+          85,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nói lời cảm tạ ngạnh tại trong cổ họng, trong lòng thầm mắng một câu, cứ thế mà đi....",
+      "dich": "Lời cám ơn Viên Minh vừa định nói giờ nghẹn cứng trong họng, lòng thầm mắng một câu, xong cứ thế rời đi...",
+      "suggest": "Viên Minh nói lời cảm ơn với cổ họng cứng đơ, trong lòng thầm mắng một câu, cứ như vậy mà đi....",
+      "similarity": [
+        [
+          71,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đi vào cột mốc biên giới chỗ, Viên Minh lần nữa gặp được Hô Hỏa trưởng lão.",
+      "dich": "Đi tới bia mốc giới, Viên Minh lần nữa gặp lại Hô Hỏa trưởng lão.",
+      "suggest": "Viên Minh lại gặp Hô Hỏa trưởng lão ở gần đó.",
+      "similarity": [
+        [
+          18,
+          0.11
+        ],
+        [
+          73,
+          0.19
+        ],
+        [
+          76,
+          0.19
+        ],
+        [
+          77,
+          0.13
+        ],
+        [
+          80,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đối với hắn duy nhất một lần giao ra mười ba phần huyết thực, Hô Hỏa trưởng lão chỉ là một chút xem xét liền thu vào, cũng không có biểu hiện ra cái gì quá mức ngoài ý muốn.",
+      "dich": "Với việc hắn nộp một lần mười ba phần tinh huyết hung thú, Hô Hỏa trưởng lão chỉ xem qua chút rồi thu vào ngay, cũng không có biểu hiện gì kiểu tỏ ra ngạc nhiên.",
+      "suggest": "Đối với một lần hắn giao ra mười ba phần máu thịt, Hô Hỏa trưởng lão chỉ xem xét một chút rồi thu lại, cũng không có biểu hiện gì quá bất ngờ.",
+      "similarity": [
+        [
+          74,
+          0.38
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Có thể nhanh như vậy thích ứng phi mao thú nô sinh hoạt con người không nhiều, ngươi làm không tệ.\"",
+      "dich": "\"Không có mấy kẻ có thể thích ứng với cuộc sống của Phi Mao Thuật nhanh như vậy, ngươi làm không tệ.\"",
+      "suggest": "\"Có thể thích ứng với số lượng lớn Phi Mao thú nô như vậy, ngươi làm rất tốt.\"",
+      "similarity": [
+        [
+          75,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn lạnh nhạt nói một câu, tiện tay đem một viên Hủ Tâm Đan giải dược thả tới.",
+      "dich": "Hắn lạnh nhạt nói một câu, xong tiện tay ném một viên thuốc giải Hủ Tâm đan qua.",
+      "suggest": "Hắn lạnh nhạt nói một câu, tiện tay thả một viên giải dược Hủ Tâm Đan ra.",
+      "similarity": [
+        [
+          76,
+          0.33
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh sau khi nhận lấy, không có lập tức ăn vào, mà là mở miệng hỏi: \"Trưởng lão, liên quan tới phi mao chi thuật, ta có một chút nghi hoặc, không biết có thể hay không hướng ngài hỏi thăm một hai?\"",
+      "dich": "Viên Minh tiếp lấy, xong không ăn vào ngay mà mở miệng hỏi: \"Trưởng lão, ta có vài thắc mắc liên quan đến Phi Mao Thuật, không biết có thể hỏi ngài một chút hay không?\"",
+      "suggest": "Viên Minh nhận lấy, không có ngay lập tức ăn ngay, mà mở miệng hỏi: \"Trưởng lão, ta có chút nghi hoặc, không biết có thể cho tiểu đệ hỏi qua một chút hay không?\"",
+      "similarity": [
+        [
+          77,
+          0.37
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Không thể.\"",
+      "dich": "\"Không thể.\"",
+      "suggest": "\"Không thể.\"",
+      "similarity": [
+        [
+          6,
+          0.18
+        ],
+        [
+          12,
+          0.24
+        ],
+        [
+          18,
+          0.11
+        ],
+        [
+          25,
+          0.12
+        ],
+        [
+          42,
+          0.12
+        ],
+        [
+          44,
+          0.12
+        ],
+        [
+          49,
+          0.24
+        ],
+        [
+          62,
+          0.11
+        ],
+        [
+          66,
+          0.12
+        ],
+        [
+          72,
+          0.11
+        ],
+        [
+          75,
+          0.18
+        ],
+        [
+          78,
+          1
+        ],
+        [
+          81,
+          0.11
+        ],
+        [
+          85,
+          0.11
+        ],
+        [
+          101,
+          0.4
+        ],
+        [
+          109,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hô Hỏa trưởng lão lời ít mà ý nhiều, trực tiếp cự tuyệt nói.",
+      "dich": "Hô Hỏa trưởng lão lời ít ý nhiều, lập tức cự tuyệt.",
+      "suggest": "Hô Hỏa trưởng lão không chút để tâm, trực tiếp cự tuyệt.",
+      "similarity": [
+        [
+          78,
+          0.16
+        ],
+        [
+          79,
+          0.27
+        ],
+        [
+          79,
+          0.13
+        ],
+        [
+          80,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Xem ra muốn từ Hô Hỏa trưởng lão nơi này đạt được trợ giúp, là không thể nào.\"",
+      "dich": "\"Xem ra muốn kiếm sự trợ giúp từ Hô Hỏa trưởng lão là chuyện không thể nào.\"",
+      "suggest": "\"Xem ra muốn nhờ Hô Hỏa trưởng lão tìm giúp thì không thể nào.\"",
+      "similarity": [
+        [
+          78,
+          0.15
+        ],
+        [
+          79,
+          0.15
+        ],
+        [
+          80,
+          0.43
+        ],
+        [
+          80,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh ánh mắt chớp lên, trong lòng thầm nghĩ, không có chút nào ngoài ý muốn.",
+      "dich": "Viên Minh chớp mắt thầm nghĩ, không bất ngờ chút nào.",
+      "suggest": "Ánh mắt Viên Minh chớp động, trong lòng thầm nghĩ, chắc chắn không có gì ngoài ý muốn.",
+      "similarity": [
+        [
+          81,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ta lúc trước nói qua cho ngươi, như thế nào trở thành ký danh đệ tử sự tình, đừng quên là được.\"",
+      "dich": "\"Ta lúc trước từng nói cho ngươi, chuyện làm thế nào để trở thành đệ tử ký danh, đừng quên là được.\"",
+      "suggest": "\"Lúc trước ta đã nói cho ngươi biết, chuyện ngươi trở thành đệ tử ký danh cũng đừng quên là được.\"",
+      "similarity": [
+        [
+          82,
+          0.42
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hô Hỏa trưởng lão sắc mặt lãnh đạm, lại nói một câu.",
+      "dich": "Hô Hỏa trưởng lão hờ hững nói thêm một câu.",
+      "suggest": "Sắc mặt Hô Hỏa trưởng lão lãnh đạm, lại nói một câu.",
+      "similarity": [
+        [
+          78,
+          0.16
+        ],
+        [
+          82,
+          0.2
+        ],
+        [
+          82,
+          0.13
+        ],
+        [
+          83,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đa tạ trưởng lão nhắc nhở.\"",
+      "dich": "\"Đa tạ trưởng lão nhắc nhở.\"",
+      "suggest": "\"Đa tạ trưởng lão nhắc nhở.\"",
+      "similarity": [
+        [
+          6,
+          0.11
+        ],
+        [
+          12,
+          0.11
+        ],
+        [
+          38,
+          0.2
+        ],
+        [
+          44,
+          0.11
+        ],
+        [
+          49,
+          0.22
+        ],
+        [
+          83,
+          0.11
+        ],
+        [
+          84,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chỉ cần có thể trở thành Bích La Động ký danh đệ tử, liền có thể thoát ly phi mao thú nô thân phận, tự nhiên cũng sẽ không cần lại lo lắng phi mao chi thuật phản phệ, nhưng thu thập ngàn phần huyết thực đại giới, nhưng lại sẽ tạo thành phản phệ phong hiểm tăng nhiều cùng thời gian trước giờ.",
+      "dich": "Chỉ cần có thể trở thành đệ tử ký danh Bích La Động, lập tức có thể thoát ly thân phận thú nô, tự nhiên cũng sẽ không cần lo lắng chuyện Phi Mao Thuật phản phệ, nhưng điều kiện thu thập một ngàn phần tinh huyết sẽ rút ngắn thời gian, đồng thời tăng cao độ nguy hiểm của việc phản phệ.",
+      "suggest": "Chỉ cần có thể trở thành ký danh đệ tử Bích La Động, tự nhiên sẽ không cần phải lo lắng thuật Phi Mao phản phệ. Nhưng thu thập được ngàn phần huyết thực, sẽ tạo thành phong hiểm so với trước kia.",
+      "similarity": [
+        [
+          85,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đi một bước, nhìn một bước đi, tận khả năng tăng lên thực lực bản thân, luôn luôn không sai.",
+      "dich": "\"Đi một bước, nhìn một bước vậy. Gắng hết sức tăng tu vi lên luôn không sai.",
+      "suggest": "\"Đi một bước, nhìn một bước, tận lực tăng lên thực lực bản thân, luôn luôn không sai.",
+      "similarity": [
+        [
+          86,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đường dài còn lắm gian truân...\"",
+      "dich": "Đường dài còn lắm gian truân.\"",
+      "suggest": "Đường dài còn lắm gian truân...\"",
+      "similarity": [
+        [
+          88,
+          0.7
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh than nhẹ một tiếng, tự lẩm bẩm....",
+      "dich": "Viên Minh than nhẹ, lẩm bẩm tự nói...",
+      "suggest": "Viên Minh than nhẹ một tiếng, tự lẩm bẩm....",
+      "similarity": [
+        [
+          89,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Qua mấy ngày, Thanh Lang Bang con người rốt cục xác nhận chi kia phái ra truy sát Viên Minh tiểu đội, đã toàn viên mất tích.",
+      "dich": "Qua mấy ngày, người Thanh Lang Bang rốt cuộc xác nhận toàn bộ tiểu đội được phái đi truy sát Viên Minh đã mất tích.",
+      "suggest": "Qua mấy ngày sau, con người Thanh Lang bang rốt cuộc cũng xác nhận được tin tức chi phái ra truy sát Viên Minh đã hoàn toàn biến mất.",
+      "similarity": [
+        [
+          90,
+          0.34
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bang chủ, chúng ta tìm khắp cả phụ cận phương viên trăm dặm, vẫn là không có Ba Âm Phó bang chủ tung tích của bọn hắn, xem bộ dáng là dữ nhiều lành ít.",
+      "dich": "\"Bang chủ, chúng ta đã tìm khắp phương viên trăm dặm quanh đây, vẫn không thấy tích Ba Âm Phó bang chủ bọn họ, coi bộ lành ít dữ nhiều.",
+      "suggest": "\"Bang chủ, chúng ta tìm khắp nơi trong phạm vi trăm dặm xung quanh nhưng vẫn không thấy tung tích của đám Phó bang chủ Ba Âm Phó kia, xem ra là điềm dữ nhiều lành ít.",
+      "similarity": [
+        [
+          91,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bọn hắn trước đây là đuổi theo giết kia Viên Minh, không phải là gặp tiểu tử kia độc thủ?\"",
+      "dich": "Bọn họ lúc đó đi truy sát Viên Minh kia, chẳng lẽ đã dính độc thủ của tiểu tử kia.\"",
+      "suggest": "Bọn hắn trước đây là đuổi theo Viên Minh, không phải là gặp phải độc thủ của tiểu tử kia sao?\"",
+      "similarity": [
+        [
+          92,
+          0.24
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một cái mặt chữ điền khoát miệng, mắt lộ ra hung quang dã man nhân nói.",
+      "dich": "Một dã nhân mặt vuông miệng rộng, mắt lộ vẻ hung ác, mở miệng nói.",
+      "suggest": "Một người đàn ông trung niên khoát tay, mắt lộ ra vẻ hung quang dã man nói.",
+      "similarity": [
+        [
+          93,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Căn cứ Ô Lỗ phản hồi, kia Viên Minh có khả năng đã đạt tới luyện khí tầng hai, nhưng dù vậy, Ba Âm thế nhưng là luyện khí ba tầng, có thể chết ở trên tay hắn?\"",
+      "dich": "\"Căn cứ báo cáo của Ô Lỗ, Viên Minh kia có khả năng đã đạt tới Luyện Khí tầng hai, nhưng dù vậy, Ba Âm đã là Luyện Khí tầng ba, sao có thể chết trong tay hắn?\"",
+      "suggest": "\"Căn cứ theo những gì Ô Lỗ phản hồi, Viên Minh có thể đã đạt tới tầng hai luyện khí, nhưng dù sao, ba Âm cũng là luyện khí ba tầng, vì sao lại chết trên tay hắn được?\"",
+      "similarity": [
+        [
+          94,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Bảo trên mặt cơ bắp co rúm.",
+      "dich": "Ô Bảo cau mặt nhíu mày phân tích.",
+      "suggest": "Cơ bắp trên mặt Ô Bảo co giật.",
+      "similarity": [
+        [
+          95,
+          0.11
+        ],
+        [
+          107,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Cũng đúng, Ba Âm lại thế nào củi mục, cũng không nên tử tại một cái luyện khí tầng hai gia hỏa trong tay.",
+      "dich": "\"Cũng phải, Ba Âm sao dù tệ như thế nào đi nữa, cũng không thể chết trong tay một tên Luyện khí tầng hai.",
+      "suggest": "\"Cũng đúng, Ba Âm dù có là củi mục thế nào, cũng không thể nào chết trong tay một gã gia hỏa luyện khí tầng hai.",
+      "similarity": [
+        [
+          96,
+          0.3
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ta cảm thấy, ở trong đó chuyện ẩn ở bên trong khẳng định nhỏ không được.\"",
+      "dich": "Ta cảm thấy, trong này có chuyện mờ ám không nhỏ.\"",
+      "suggest": "Ta cảm thấy, ẩn nấp ở trong đó khẳng định không được.\"",
+      "similarity": [
+        [
+          97,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ba Đồ trầm ngâm nói.",
+      "dich": "Ba Đồ trầm ngâm nói.",
+      "suggest": "Ba Đồ trầm ngâm nói.",
+      "similarity": [
+        [
+          68,
+          0.13
+        ],
+        [
+          98,
+          1
+        ],
+        [
+          105,
+          0.16
+        ],
+        [
+          109,
+          0.21
+        ],
+        [
+          113,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ba Đồ, ngươi có lời gì cứ việc nói thẳng, chớ cùng ta cong cong quấn.\"",
+      "dich": "\"Ba Đồ, ngươi có lời gì cứ nói thẳng, đừng có vòng vo với ta.\"",
+      "suggest": "\"Ba Đồ, ngươi có lời gì cứ việc nói thẳng, chớ có dây dưa với ta.\"",
+      "similarity": [
+        [
+          99,
+          0.57
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Bảo tâm tình không tốt, trách mắng.",
+      "dich": "Ô Bảo đang lúc không vui, quở mắng.",
+      "suggest": "Tâm tình Ô Bảo không tốt, trách mắng.",
+      "similarity": [
+        [
+          100,
+          0.13
+        ],
+        [
+          107,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bang chủ, ta nói là... Chúng ta gần nhất khuếch trương quá nhanh, có phải hay không bị thế lực khác để mắt tới, nếu không một cái chỉ là luyện khí tầng hai, làm sao dám đối với chúng ta con người xuất thủ?\"",
+      "dich": "\"Bang chủ, ta nói là ... Chúng ta gần đây khuếch trương quá nhanh, có phải đã bị thế lực khác để mắt tới, nếu không một tên Luyện Khí tầng hai, làm sao dám ra tay với người của chúng ta?\"",
+      "suggest": "\"Bang chủ, ta nói là ... Chúng ta gần đây khuếch trương quá nhanh, có phải bị một thế lực khác để mắt tới hay không? Nếu không một gã luyện khí chỉ là tầng hai, sao dám đối với con người chúng ta ra tay?\"",
+      "similarity": [
+        [
+          101,
+          0.4
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ba Đồ dừng một chút, thanh âm chưa phát giác nhỏ mấy phần.",
+      "dich": "Ba Đồ ngưng một chút, dùng giọng nhỏ đi mấy phần, nêu ý kiến.",
+      "suggest": "Ba Đồ ngừng lại một chút, thanh âm không rõ là nhỏ hay sao.",
+      "similarity": [
+        [
+          102,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Không có khả năng!",
+      "dich": "\"Không thể nào!",
+      "suggest": "\"Không có khả năng!",
+      "similarity": [
+        [
+          75,
+          0.1
+        ],
+        [
+          83,
+          0.17
+        ],
+        [
+          103,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Phụ cận mấy cái thế lực tình huống ta đều rõ như lòng bàn tay, lấy Ba Âm thực lực, cho dù không địch lại, tự bảo vệ mình vẫn là không ngại.\"",
+      "dich": "Tình hình mấy thế lực xung quanh thế nào ta nắm rất rõ, lấy thực lực của Ba Âm, dù không địch lại, tự vệ cũng không vấn đề gì.\"",
+      "suggest": "Tình huống bên ngoài mấy thế lực đó ta đều nắm trong lòng bàn tay, với thực lực của ba Âm chân nhân, cho dù không địch lại, tự bảo vệ mình vẫn là không ngại.\"",
+      "similarity": [
+        [
+          104,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nghe xong lời ấy, Ô Bảo không khỏi ngưng lông mày trầm tư, thấp giọng nói.",
+      "dich": "Nghe xong ý kiến của Ba Đồ, Ô Bảo bất giác cau mày, nhỏ giọng nói.",
+      "suggest": "Nghe xong lời ấy, Ô Bảo không khỏi nhíu mày, trầm tư một lúc rồi thấp giọng nói.",
+      "similarity": [
+        [
+          105,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bang chủ, còn có một loại khả năng.\"",
+      "dich": "\"Bang chủ, còn một khả năng nữa.\"",
+      "suggest": "\"Bang chủ, còn có một khả năng khác.\"",
+      "similarity": [
+        [
+          106,
+          0.47
+        ],
+        [
+          111,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ba Đồ bỗng nhiên vỗ ót một cái, còn nói thêm.",
+      "dich": "Ba Đồ bỗng vỗ trán, nói.",
+      "suggest": "Ba Đồ đột nhiên vỗ vỗ ót một cái, còn nói thêm.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Cái gì?\"",
+      "dich": "\"Khả năng gì?\"",
+      "suggest": "\"Cái gì?\"",
+      "similarity": [
+        [
+          12,
+          0.13
+        ],
+        [
+          31,
+          0.19
+        ],
+        [
+          41,
+          0.12
+        ],
+        [
+          44,
+          0.12
+        ],
+        [
+          49,
+          0.13
+        ],
+        [
+          65,
+          0.17
+        ],
+        [
+          75,
+          0.18
+        ],
+        [
+          83,
+          0.13
+        ],
+        [
+          106,
+          0.11
+        ],
+        [
+          108,
+          0.32
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Bảo nhìn về phía hắn.",
+      "dich": "Ô Bảo nhìn gã, hỏi.",
+      "suggest": "Ô Bảo nhìn gã.",
+      "similarity": [
+        [
+          12,
+          0.11
+        ],
+        [
+          18,
+          0.11
+        ],
+        [
+          25,
+          0.12
+        ],
+        [
+          42,
+          0.12
+        ],
+        [
+          49,
+          0.11
+        ],
+        [
+          62,
+          0.11
+        ],
+        [
+          66,
+          0.12
+        ],
+        [
+          83,
+          0.11
+        ],
+        [
+          101,
+          0.11
+        ],
+        [
+          109,
+          0.43
+        ],
+        [
+          109,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ba Âm tiểu tử kia đem người phản loạn chúng ta Thanh Lang Bang, đã quy hàng người khác.\"",
+      "dich": "\"Tiểu tử Ba Âm kia dẫn người phản bội Thanh Lang Bang chúng ta, quy thuận thế lực khác.\"",
+      "suggest": "\"Ba Âm tiểu tử kia đem đám người phản loạn chúng ta quy hàng.\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Ba Đồ nói.",
+      "dich": "Ba Đồ đáp.",
+      "suggest": "Ba Đồ nói.",
+      "similarity": [
+        [
+          12,
+          0.11
+        ],
+        [
+          18,
+          0.11
+        ],
+        [
+          25,
+          0.16
+        ],
+        [
+          42,
+          0.16
+        ],
+        [
+          49,
+          0.11
+        ],
+        [
+          62,
+          0.11
+        ],
+        [
+          66,
+          0.16
+        ],
+        [
+          68,
+          0.13
+        ],
+        [
+          83,
+          0.11
+        ],
+        [
+          104,
+          0.23
+        ],
+        [
+          109,
+          0.16
+        ],
+        [
+          111,
+          0.35
+        ],
+        [
+          113,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nghe vậy, Ô Bảo ánh mắt lập tức đọng lại, thoáng qua hắn liền mắng: \"Ngươi cùng Ba Âm thường hay bất hòa, ta chưa từng hỏi đến, nhưng chuyện cho tới bây giờ, cũng không thể tại việc này bên trên không có bằng chứng nói mò.\"",
+      "dich": "Nghe vậy, Ô Bảo lập tức nhíu nheo mắt, nhíu mày, mắng gã: \"Ngươi với Ba Âm thường xung đột, việc này đó giờ ta không hỏi đến, nhưng chuyện đã tới nước này, cũng không thể theo đó mà ăn ốc nói mò.\"",
+      "suggest": "Nghe vậy, ánh mắt Ô Bảo lập tức nhíu lại. Hắn chưa bao giờ hỏi đến chuyện của ba Âm, nhưng cho tới bây giờ, cũng không thể nào nói ra những lời như vậy được.\"",
+      "similarity": [
+        [
+          112,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bang chủ bớt giận!",
+      "dich": "\"Bang chủ bớt giận!",
+      "suggest": "\"Bang chủ bớt giận!",
+      "similarity": [
+        [
+          75,
+          0.1
+        ],
+        [
+          109,
+          0.1
+        ],
+        [
+          111,
+          0.14
+        ],
+        [
+          113,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ta chỉ là đưa ra ta phỏng đoán, Ba Âm cùng ba người khác tập thể biến mất, chuyện này bất kể thế nào nhìn, đều lộ ra sợi quái dị.\"",
+      "dich": "Ta chỉ đưa ra phỏng đoán của mình, Ba Âm và ba tên kia cùng biến mất, chuyện này bất kể nói thế nào, đều có vẻ rất kỳ quặc.\"",
+      "suggest": "Ta chỉ là đưa ra phỏng đoán, ba Âm và ba người khác đều biến mất, chuyện này bất kể nhìn như thế nào, đều lộ ra sự quái dị.\"",
+      "similarity": [
+        [
+          114,
+          0.36
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ba Đồ vẫn không thuận không buông tha nói.",
+      "dich": "Ba Đồ vẫn chưa chịu thôi, tiếp tục nói.",
+      "suggest": "Ba Đồ vẫn không thuận theo, không buông tha nói.",
+      "similarity": [
+        [
+          113,
+          0.1
+        ],
+        [
+          115,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Bảo nghe vậy, một tay đặt trên chân, chống đỡ cái cằm, trầm mặc thật lâu.",
+      "dich": "Ô Bảo nghe lời này xong, đặt một tay lên đùi, chống cằm im lặng một lúc lâu.",
+      "suggest": "Ô Bảo nghe vậy, một tay đặt trên chân, chống cằm, trầm mặc trong chốc lát.",
+      "similarity": [
+        [
+          116,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Gần nhất trước buông xuống truy sát Viên Minh sự tình, đem nhân thủ rút lui trở lại cho ta, về sau tận lực lấy mười người làm đơn vị, càng không có đơn độc hành động, cho ta toàn lực tìm kiếm Ba Âm tung tích của bọn hắn.\"",
+      "dich": "\"Tiếp đây tạm bỏ qua việc truy sát Viên Minh, rút hết nhân thủ về cho ta, tiếp đó cố gắng ghép mỗi đơn vị mười người, quyết không được hành động đơn lẻ, dốc toàn lực tìm kiếm tung tích đám Ba Âm cho ta.\"",
+      "suggest": "\"Lần trước bắt đầu truy sát Viên Minh, đem nhân thủ rút lui cho ta, sau đó tận lực lấy mười người làm đơn vị, càng không có hành động đơn độc, toàn lực tìm kiếm tung tích của bọn họ.\"",
+      "similarity": [
+        [
+          117,
+          0.24
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một lát sau, hắn ngẩng đầu phân phó nói.",
+      "dich": "Sau một chốc, gã ngẩng đầu ra lệnh.",
+      "suggest": "Một lát sau, hắn ngẩng đầu lên, phân phó một câu.",
+      "similarity": [
+        [
+          88,
+          0.11
+        ]
+      ],
+      "approved": true
+    }
+  ],
+  "currentWorkingLine": 117,
+  "changed": true
+}

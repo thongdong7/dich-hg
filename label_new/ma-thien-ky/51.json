@@ -1,0 +1,1802 @@
+{
+  "next": {
+    "id": 52,
+    "title": "Chương 52 : Kinh biến"
+  },
+  "title": {
+    "convert": "Chương 51 : Chiến thắng",
+    "dich": "Chương 51 : Chiến thắng"
+  },
+  "previous": {
+    "id": 50,
+    "title": "Chương 50 :  Cơ quan Hộ Kính"
+  },
+  "currentWorkingLine": 98,
+  "changed": true,
+  "approved": true,
+  "lines": [
+    {
+      "convert": "Hai khối phiến gỗ bề mặt sáng bóng trơn trượt dị thường, cũng minh ấn có một chút màu đen linh văn, bốn phía biên giới chỗ lại có...khác rậm rạp chằng chịt dây nhỏ, đem chúng chăm chú cột vào rồi âm trầm trên người thiếu niên.",
+      "dich": "Bề mặt hai tấm gỗ bóng loáng trơn trượt lạ thường, bên trên khắc rõ một ít Linh văn màu đen, mép ngoài lại có chi chít chằng chịt dây nhỏ buộc chặt tấm gỗ vào người thiếu niên lạnh lùng.",
+      "suggest": "Hai khối đá lớn này nhẵn bóng lạ thường, bên ngoài lại có một vài linh văn màu đen mờ mờ, bốn phía xung quanh lại có thêm mấy sợi dây nhỏ khác rậm rạp chằng chịt, dồn hết sức lực lên người thiếu niên.",
+      "similarity": [
+        [
+          0,
+          0.98
+        ],
+        [
+          1,
+          0.97
+        ],
+        [
+          2,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mà hai đạo Phong Nhận làm cho trảm chỗ, cũng chỉ tại phía trước phiến gỗ bên trên lưu lại hai đạo tấc hơn sâu dấu vết, căn bản không cách nào thứ nhất trảm mà ra",
+      "dich": "Mà chỗ hai đạo Phong Nhận kia chém vào, cũng chỉ lưu lại trên mặt tấm gỗ hai vết sâu hơn tấc, căn bản không thể nào xuyên qua được.",
+      "suggest": "Mà hai đạo Phong Nhận bị phá hỏng kia cũng chỉ lưu lại hai vết nứt sâu hai tấc phía trước phiến gỗ, căn bản không cách nào phá giải",
+      "similarity": [
+        [
+          0,
+          0.97
+        ],
+        [
+          1,
+          0.99
+        ],
+        [
+          2,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đối diện Liễu Minh gặp tình hình này, tự nhiên cũng là sững sờ, hiển nhiên cũng thật không ngờ lúc trước công kích lại cũng hội sẽ thất thủ.",
+      "dich": "Liễu Minh phía đối diện thấy một màn này đương nhiên sững người trong chốc lát, hiển nhiên hắn thực sự không ngờ tới công kích lúc trước của mình sẽ thất bại.",
+      "suggest": "Liễu Minh đứng đối diện thấy vậy đương nhiên cũng sửng sốt, hiển nhiên cũng không ngờ tới mình cũng sẽ thất thủ.",
+      "similarity": [
+        [
+          2,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Kim Vũ một bàn tay hướng trước ngực phiến gỗ vỗ một cái.",
+      "dich": "Một bàn tay Kim Vũ vỗ vỗ tấm gỗ phía trước ngực.",
+      "suggest": "Một bàn tay của Kim Vũ vỗ nhẹ vào phiến gỗ trước ngực.",
+      "similarity": [
+        [
+          3,
+          0.99
+        ],
+        [
+          5,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Phanh\" một tiếng.",
+      "dich": "\"Phanh\" một tiếng.",
+      "suggest": "\"Bịch!\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Nhìn như bình thường hai khối phiến gỗ, đột nhiên biến hình mở rộng đứng lên, trong nháy mắt liền biến thành một kiện đơn giản mộc giáp bao trùm nửa người trên từng cái chỗ hiểm chỗ..",
+      "dich": "Hai tấm gỗ nhìn rất bình thường đột nhiên biến lớn, trong nháy mắt đã trở thành một kiện giáp gỗ đơn giản bao bọc nửa thân, che đi mọi chỗ hiểm trên cơ thể.",
+      "suggest": "Hai khối gỗ trông như hai khối gỗ bình thường, đột nhiên mở rộng ra, trong nháy mắt đã biến thành một kiện mộc giáp bao trùm toàn thân người ta.",
+      "similarity": [
+        [
+          2,
+          0.96
+        ],
+        [
+          5,
+          0.99
+        ],
+        [
+          6,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ngươi còn nói cái này không phải là các ngươi ban thưởng cơ quan chiến giáp!\"",
+      "dich": "\"Ngươi còn nói thứ này không phải là cơ quan chiến giáp các ngươi ban cho hắn ư!\"",
+      "suggest": "\"Ngươi còn nói cái này không phải là chiến giáp do các ngươi ban thưởng sao!\"",
+      "similarity": [
+        [
+          6,
+          0.99
+        ],
+        [
+          8,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chu Xích gặp tình hình này, lập tức giận dử.",
+      "dich": "Chu Xích thấy thế, lập tức giận dữ quát.",
+      "suggest": "Chu Xích thấy vậy, lập tức giận dữ quát.",
+      "similarity": [
+        [
+          7,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Thứ này thực không phải chúng ta ban tặng, điểm ấy ta hai người có thể dưới tóc:phát hạ tâm thề.",
+      "dich": "\"Thứ này thực sự không phải do chúng ta đưa cho hắn, hai người chúng ta có thể phát tâm thề.",
+      "suggest": "\"Điều này không phải do chúng ta ban tặng, chỉ cần hai người chúng ta thề dưới tóc:",
+      "similarity": [
+        [
+          6,
+          0.96
+        ],
+        [
+          8,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hơn nữa dù cho cơ quan này kính bảo hộ sau khi biến hóa, cũng vô cùng đơn sơ, xa xa xưng không hơn là cơ quan chiến giáp.",
+      "dich": "Hơn nữa cho dù sau khi cơ quan Hộ Kính này biến hóa cũng vô cùng thô sơ, còn lâu mới được gọi là cơ quan chiến giáp.",
+      "suggest": "Hơn nữa cho dù là kính bảo hộ do cơ quan này biến hóa, cũng vô cùng đơn sơ, xa xa gọi là cơ quan chiến giáp.",
+      "similarity": [
+        [
+          9,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chậc chậc, Vũ nhi đứa nhỏ này vậy mà đã có thể luyện chế như vậy phức tạp cơ quan linh có được.\"",
+      "dich": "Chậc chậc, đứa nhỏ Vũ nhi này vậy mà đã có thể luyện chế được cơ quan Linh Cụ phức tạp như vậy.\"",
+      "suggest": "Chậc chậc, đứa nhỏ Vũ nhi này vậy mà lại có thể luyện chế ra những kiện Cơ quan linh phức tạp như vậy.\"",
+      "similarity": [
+        [
+          9,
+          0.95
+        ],
+        [
+          10,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lão già tóc bạc vội vàng giải thích hai câu, lại mặt mũi tràn đầy vẻ vui mừng nói.",
+      "dich": "Lão giả tóc bạc vội vàng giải thích hai câu, sau đó mặt mũi tràn đầy vẻ vui mừng nói.",
+      "suggest": "Lão giả tóc bạc vội vàng giải thích hai câu, mặt mũi tràn đầy vẻ vui mừng nói.",
+      "similarity": [
+        [
+          11,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một bên Đại Thượng, cũng là tràn đầy vẻ mặt kinh hỉ.",
+      "dich": "Sắc mặt Đại Thượng bên cạnh cũng là tràn đầy vẻ hưng phấn.",
+      "suggest": "Đại Thượng một bên cũng tràn đầy vẻ vui mừng.",
+      "similarity": [
+        [
+          12,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tựa hồ Kim Vũ biểu hiện vậy. Vượt xa hồ dự liệu của bọn hắn.",
+      "dich": "Dường như biểu hiện lúc này của Kim Vũ đã vượt xa dự liệu của bọn họ.",
+      "suggest": "Dường như Kim Vũ có biểu hiện vậy. Hơn nữa, vượt xa dự liệu của bọn hắn.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Nghe xong hai người bọn họ liên tâm thề như thế ngôn ngữ nói hết ra rồi, Chu Xích ngẩn ngơ về sau, cũng là không tốt cái này nói cái gì rồi.",
+      "dich": "Nghe xong hai người bọn họ ngay cả tâm thề cũng dám phát ra, Chu Xích ngẩn ngơ một hồi, sau đó cũng không biết nói thêm câu gì.",
+      "suggest": "Nghe xong lời thề liên tâm như thế, Chu Xích ngẩn ngơ một lúc, sau đó cũng không biết nên nói cái gì nữa.",
+      "similarity": [
+        [
+          14,
+          0.99
+        ],
+        [
+          15,
+          0.97
+        ],
+        [
+          17,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này, bị Mộc gia bao trùm nửa người Kim Vũ, một tay hướng trên trán lại một điểm mà đi, tay kia một cái cuốn về sau, lại nhiều hơn một cây lớn bằng ngón cái đoản côn, cũng không nói hai lời hướng đối diện chọn một hai cái.",
+      "dich": "Lúc này, Kim Vũ được mộc giáp bao trùm nửa người, một tay điểm nhẹ lên trán, tay kia hoa lên mấy cái đã lấy ra một cây côn ngắn to cỡ ngón cái, sau đó không nói hai lời chỉ cây côn về phía đối diện.",
+      "suggest": "Lúc này, Kim Vũ đang bị Mộc gia bao phủ nửa người, một tay đưa lên trán một cái, tay kia lật một cái, sau đó lại thêm một cây đoản côn lớn bằng ngón cái, không nói hai lời chỉ về phía đối diện chọn một hai cái.",
+      "similarity": [
+        [
+          14,
+          0.97
+        ],
+        [
+          15,
+          0.99
+        ],
+        [
+          17,
+          0.97
+        ],
+        [
+          18,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Phốc\" \"Phốc\" vài tiếng.",
+      "dich": "\"Phốc\", \"Phốc\" vài tiếng.",
+      "suggest": "\"Phụp\" \"Phụp\" vài tiếng.",
+      "similarity": [
+        [
+          16,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hai đạo thanh mang từ côn trong một mặt kích xạ mà ra, mấy cái chớp động sau đã đến Liễu Minh phụ cận chỗ.",
+      "dich": "Hai đường sáng xanh biếc từ trên cây côn bắn ra, sau mấy cái chớp lóe đã đến trước mắt Liễu Minh.",
+      "suggest": "Hai đạo thanh dao nhọn từ trong hai con dao lóe lên, sau mấy cái chớp động đã tới bên cạnh Liễu Minh.",
+      "similarity": [
+        [
+          15,
+          0.97
+        ],
+        [
+          17,
+          0.98
+        ],
+        [
+          18,
+          0.96
+        ],
+        [
+          19,
+          0.97
+        ],
+        [
+          20,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Rõ ràng là hai cây dài gần tấc trúc đinh, mặt ngoài ánh sáng màu xanh mênh mông, hết sức quỷ dị.",
+      "dich": "Rõ ràng là hai cây đinh trúc dài gần tấc, mặt ngoài tỏa ra ánh sáng màu xanh biếc, trông hết sức quỷ dị.",
+      "suggest": "Rõ ràng là hai cây trúc đinh dài gần tấc, mặt ngoài phát ra ánh sáng màu xanh lam hết sức quỷ dị.",
+      "similarity": [
+        [
+          17,
+          0.97
+        ],
+        [
+          18,
+          0.99
+        ],
+        [
+          19,
+          0.96
+        ],
+        [
+          20,
+          0.97
+        ],
+        [
+          21,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cùng lúc đó, không trung ánh sáng màu xanh Bọ Ngựa Khôi Lỗi, đôi cánh chấn về sau, cũng phát ra một hồi ô ô quái dị vang lên chạy Liễu Minh xông lên mà đi rồi.",
+      "dich": "Cùng lúc đó, đôi cánh Khôi Lỗi Thanh Quang Đường Lang trên không trung đập mạnh, sau đó phát ra một hồi tiếng kêu 'ô ô' quái dị, xông thẳng tới chỗ Liễu Minh.",
+      "suggest": "Cùng lúc đó, Khôi Lỗi Bọ Cạp trong không trung lóe lên ánh sáng màu xanh biếc, đôi cánh sau khi chấn động, cũng phát ra một tiếng 'xuy xuy' quái dị chạy về phía Liễu Minh.",
+      "similarity": [
+        [
+          17,
+          0.98
+        ],
+        [
+          18,
+          0.97
+        ],
+        [
+          19,
+          0.99
+        ],
+        [
+          20,
+          0.98
+        ],
+        [
+          21,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Phanh\" \"Phanh\" hai tiếng, Liễu Minh hầu như theo bản năng đưa tay trên cổ tay quang thuẫn vừa nhấc, hai cây trúc đinh bị ngăn cản xuống, nhưng lập tức bạo liệt mà ra",
+      "dich": "\"Phanh\" \"Phanh\" hai tiếng, Liễu Minh hầu như vô thức giơ tấm thuẫn bằng ánh sáng trên cổ tay lên, mặc dù nó đã ngăn cản được hai cây đinh trúc, nhưng lại lập tức vỡ tan ra.",
+      "suggest": "\"Phanh\", \"Phanh\" hai tiếng, Liễu Minh hầu như vô thức giơ tay lên, hai cây trúc bị chặn lại, nhưng lập tức tan vỡ",
+      "similarity": [
+        [
+          18,
+          0.96
+        ],
+        [
+          19,
+          0.97
+        ],
+        [
+          20,
+          0.99
+        ],
+        [
+          21,
+          0.96
+        ],
+        [
+          23,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một cỗ màu trắng chất lỏng tại bạo liệt trong phóng lên trời, lại ngưng tụ về sau, lại hóa thành một giương bạch núc ních tia lưới vừa rơi xuống hạ xuống.",
+      "dich": "Một dòng chất lỏng màu trắng đục trong lúc tấm thuẫn vỡ tan bắn lên trời, sau đó ngưng tụ lại liền hóa thành một tấm lưới trắng xóa chụp xuống dưới.",
+      "suggest": "Một giọt chất lỏng màu trắng sữa phóng lên trời, sau khi ngưng tụ lại, lại hóa thành một cái lưới màu trắng núc ních vừa hạ xuống.",
+      "similarity": [
+        [
+          19,
+          0.95
+        ],
+        [
+          20,
+          0.96
+        ],
+        [
+          21,
+          0.98
+        ],
+        [
+          23,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Mạng nhện thuật \"",
+      "dich": "\"Thuật Chu Ti!\"",
+      "suggest": "\"Mạng nhện thuật!\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh trong nội tâm rùng mình, trong miệng nhanh chóng nhất niệm quyết, lại một tay giương lên, một viên đỏ thẫm hỏa cầu lập tức kích xạ mà ra, thoáng một phát đánh vào màu trắng tia lưới lên, cuồn cuộn hỏa diễm thoáng một phát bạo liệt mà ra",
+      "dich": "Trong lòng Liễu Minh rùng mình, miệng niệm pháp quyết với tốc độ nhanh nhất, lại giơ một tay lên, một quả cầu lửa đỏ thẫm lập tức bắn ra, trong nháy mắt đã đánh vào tấm lưới màu trắng, sóng lửa cuồn cuộn tức thì tràn ngập khắp nơi.",
+      "suggest": "Trong lòng Liễu Minh rùng mình, miệng nhanh chóng niệm quyết, một quả cầu lửa màu đỏ thẫm bắn ra, một phát đánh vào quầng sáng màu trắng, ngọn lửa cuồn cuộn bùng phát",
+      "similarity": [
+        [
+          21,
+          0.97
+        ],
+        [
+          23,
+          0.99
+        ],
+        [
+          26,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhưng lại để cho hắn giật mình một màn xuất hiện.",
+      "dich": "Nhưng một màn khiến hắn giật mình xuất hiện.",
+      "suggest": "Nhưng kết quả lại khiến cho hắn giật nảy lên.",
+      "similarity": [
+        [
+          24,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Vốn là cho là nên thoáng một phát hóa thành tro tàn tia lưới, tại trong ngọn lửa căn bản lông tóc không tổn thương, hơn nữa có chút rung động sau khiến cho hỏa diễm nhanh chóng mà diệt, thuận thế lần nữa một tráo hạ xuống.",
+      "dich": "Vốn dĩ cho rằng tấm lưới sẽ nhanh chóng biến thành tro tàn, lúc này lại căn bản không tổn hại chút nào, hơn nữa nó còn rung nhẹ lên một cái đã làm cho sóng lửa nhanh chóng tán loạn biến mất, thuận thế lần nữa chụp xuống.",
+      "suggest": "Vốn tưởng rằng tia lửa đã hóa thành tro tàn, nhưng ngọn lửa vẫn chưa biến thành tro tàn, hơn nữa còn có chút rung động khiến cho ngọn lửa nhanh chóng tan biến, thuận thế lần nữa hạ xuống.",
+      "similarity": [
+        [
+          23,
+          0.97
+        ],
+        [
+          25,
+          0.98
+        ],
+        [
+          26,
+          0.96
+        ],
+        [
+          28,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh biến sắc, đột nhiên trong tay pháp quyết biến đổi, đỉnh đầu chỗ chấn động cùng một chỗ, bỗng nhiên gắt gao tro khí lăng không hiển hiện về sau, lại huyễn hóa ra một đoàn hơn một trượng lớn tro Vân Lai.",
+      "dich": "Liễu Minh biến sắc, pháp quyết trong tay đột nhiên biến đổi, không khí trên đỉnh đầu chấn động, rất nhiều tia khí màu xám tro bỗng nhiên xuất hiện rồi tụ tập lại, không ngờ lại biến hóa ra một đám mây màu xám tro lớn hơn trượng.",
+      "suggest": "Liễu Minh biến sắc, pháp quyết trong tay đột nhiên biến đổi, đỉnh đầu chấn động, tro bụi trong đầu bỗng nhiên biến thành những đám mây xám tro dày đặc, sau một lát liền huyễn hóa ra một đám mây màu xám tro lớn hơn một trượng.",
+      "similarity": [
+        [
+          25,
+          0.96
+        ],
+        [
+          26,
+          0.99
+        ],
+        [
+          28,
+          0.97
+        ],
+        [
+          29,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đúng là tất cả Linh Đồ đều đằng không thuật triệu hoán đến Linh Vân.",
+      "dich": "Đúng là Linh vân mà tất cả Linh Đồ đều ngưng tụ ra khi tri triển thuất Đằng Không.",
+      "suggest": "Đúng là tất cả Linh Đồ đều dùng thuật Đằng Không triệu hoán đến Linh Vân.",
+      "similarity": [
+        [
+          27,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Màu trắng tia lưới một tráo hạ xuống về sau, lập tức bị cái này tro vân một nắm chắc chắn, mà không cách nào rơi xuống.",
+      "dich": "Tấm lưới màu trắng kia sau khi hạ xuống, lập tức đã bị đám mây xám tro kia cản lại, không cách nào tới gần được.",
+      "suggest": "Tấm lưới màu trắng hạ xuống, lập tức bị đám mây màu xám tro này nắm chắc một phần, không cách nào rơi xuống được.",
+      "similarity": [
+        [
+          26,
+          0.97
+        ],
+        [
+          28,
+          0.99
+        ],
+        [
+          29,
+          0.96
+        ],
+        [
+          31,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một màn này, chẳng những đối diện Kim Vũ sững sờ, mà ngay cả vòng tròn vẻ ngoài chiến Chu Xích Đại Trí đám người, cũng không khỏi hai mặt nhìn nhau đi lên.",
+      "dich": "Một màn này chẳng những làm cho Kim Vũ phía đối diện sững sờ, mà ngay cả đám người Chu Xích Đại Trí bên ngoài vòng tròn đang quan sát trận chiến cũng không kìm được mà liếc mắt nhìn nhau.",
+      "suggest": "Màn này chẳng những làm cho Kim Vũ sững sờ, mà ngay cả đám người Chu Xích Đại Trí bên cạnh cũng không khỏi ngơ ngẩn nhìn nhau.",
+      "similarity": [
+        [
+          27,
+          0.95
+        ],
+        [
+          28,
+          0.97
+        ],
+        [
+          29,
+          0.99
+        ],
+        [
+          30,
+          0.96
+        ],
+        [
+          31,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Dùng đằng không thuật đảm đương làm phòng ngự thủ đoạn, cho dù bọn họ cũng là lần đầu tiên nhìn thấy đấy.",
+      "dich": "Dùng Thuật Đằng Không làm thủ đoạn phòng ngự, cho dù là bọn họ thì đây cũng là lần đầu tiên nhìn thấy.",
+      "suggest": "Thủ đoạn dùng thuật Đằng Không làm phòng ngự, cho dù bọn họ cũng là lần đầu tiên thấy qua.",
+      "similarity": [
+        [
+          28,
+          0.97
+        ],
+        [
+          29,
+          0.98
+        ],
+        [
+          30,
+          0.98
+        ],
+        [
+          31,
+          0.96
+        ],
+        [
+          33,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá Liễu Minh như vậy luống cuống tay chân sau một lúc, đầu kia Bọ Ngựa Khôi Lỗi cũng tại mấy cái chớp động sau vọt tới thứ nhất bên cạnh chỗ, hai cái lưỡi đao giống như chân trước khẽ động xuống, liền biến thành hơn mười đạo hàn quang vừa bổ hạ xuống.",
+      "dich": "Tuy nhiên chỉ cần Liễu Minh luống cuống tay chân một lúc như vậy, con Khôi Lỗi Đường Lang kia sau mấy cái chớp lóe đã tới rất gần, hai chân trước như lưỡi đao khẽ chuyển động liền biến thành hơn mười đạo hàn quang bổ xuống.",
+      "suggest": "Tuy nhiên sau một hồi luống cuống tay chân, Khôi Lỗi kia cũng chớp động mấy cái liền vọt tới bên cạnh chỗ Liễu Minh đứng, hai cái lưỡi đao như chân trước khẽ động, sau đó liền biến thành hơn mười đạo hàn quang vừa bổ xuống.",
+      "similarity": [
+        [
+          29,
+          0.97
+        ],
+        [
+          30,
+          0.95
+        ],
+        [
+          31,
+          0.99
+        ],
+        [
+          33,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Phốc\" một tiếng.",
+      "dich": "\"Phốc\" một tiếng.",
+      "suggest": "\"Phốc\" một tiếng.",
+      "similarity": [
+        [
+          32,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh mang theo vòng đồng cánh tay hướng Bọ Ngựa Khôi Lỗi run lên, quang thuẫn lập tức biến mất, thay vào đó hiện ra một cái màu vàng đầu hổ, há miệng hướng đối diện phun ra một cỗ trắng xoá sóng âm.",
+      "dich": "Cánh tay Liễu Minh đeo vòng đồng chỉ về phía Khôi Lỗi Đường Lang run lên, tấm thuẫn ánh sáng lập tức biến mất, thay vào đó là một cái đầu hổ màu vàng, nó há miệng phun ra một luồng sóng âm trong suốt.",
+      "suggest": "Cánh tay Liễu Minh run lên, quang thuẫn lập tức biến mất, thay vào đó hiện lên hình đầu hổ màu vàng, há miệng phun ra một luồng sóng âm trắng xóa.",
+      "similarity": [
+        [
+          31,
+          0.97
+        ],
+        [
+          33,
+          0.99
+        ],
+        [
+          35,
+          0.97
+        ],
+        [
+          36,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ừng ực\" một tiếng.",
+      "dich": "\"Gràoo ...\"",
+      "suggest": "\"Ầm\" một tiếng.",
+      "similarity": [
+        [
+          32,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Khôi Lỗi Bọ Ngựa chân trước biến thành lưới dao sắc tung vô cùng sắc bén, nhưng mà đối mặt sóng âm loại này xấp xỉ vô hình công kích nhưng căn bản không cách nào ngăn cản, cuối cùng bị phát sau mà đến trước đánh trúng vào thân hình, bị cứng rắn một oanh trở ra mấy bước đi xa.",
+      "dich": "Chân trước Khôi Lỗi Đường Lang biến thành một tấm lưới tạo thành từ những lưỡi dao vô cùng sắc bén, nhưng khi đối mặt với công kích sóng âm gần như vô hình này lại không thể ngăn cản được, cuối cùng bị công kích xuất phát sau mà đến trước này đánh trúng người, bắn mạnh về phía sau mấy trượng.",
+      "suggest": "Cánh tay Khôi Lỗi biến thành một tấm lưới dao sắc bén, nhưng đối mặt với công kích xấp xỉ vô hình này, căn bản không thể ngăn cản được, cuối cùng bị một đòn chí mạng đánh trúng vào thân hình, bị cứng rắn đá văng ra xa mấy bước.",
+      "similarity": [
+        [
+          33,
+          0.97
+        ],
+        [
+          35,
+          0.99
+        ],
+        [
+          37,
+          0.97
+        ],
+        [
+          38,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhưng sau một khắc, khôi lỗi thú lại một chợt hiện vọt lên.",
+      "dich": "Nhưng chỉ sau một khắc, Khôi Lỗi Thú lại vọt lên lần nữa.",
+      "suggest": "Nhưng sau một khắc, Khôi Lỗi Thú lại một lần nữa hiện lên.",
+      "similarity": [
+        [
+          36,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh sắc mặt trầm xuống xuống, trong cơ thể Pháp lực thúc giục xuống, từ đầu hổ trong miệng lại phun ra một đạo sóng âm, lần nữa đem Bọ Ngựa thú một kích trở ra.",
+      "dich": "Sắc mặt Liễu Minh trầm xuống, Pháp lực trong cơ thể nhanh chóng vận chuyển, từ miệng đầu hổ kia lại phun ra một luồng sóng âm, lần nữa đánh cho Đường Lang kia bật trở lại.",
+      "suggest": "Sắc mặt Liễu Minh trầm xuống, Pháp lực trong cơ thể thúc giục, từ miệng Hổ Đầu phun ra một luồng sóng âm, lần nữa đánh cho Bọ Ngưa thú kia một kích.",
+      "similarity": [
+        [
+          35,
+          0.97
+        ],
+        [
+          36,
+          0.96
+        ],
+        [
+          37,
+          0.99
+        ],
+        [
+          38,
+          0.95
+        ],
+        [
+          38,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhưng đáng tiếc cái này sóng âm công kích tuy rằng có chút huyền diệu, nhưng công kích uy năng hội sẽ theo khoảng cách kéo xa mà thật lớn yếu bớt, mặc dù liên tiếp hai lần đánh trúng mục tiêu, Bọ Ngựa Khôi Lỗi lại không có chút nào bị hao tổn bộ dáng, phản tại âm trầm thiếu niên thúc dục hạ liên tục hướng Liễu Minh điên cuồng vọt tới.",
+      "dich": "Nhưng đáng tiếc công kích sóng âm này mặc dù có chút huyền diệu, nhưng uy lực lại giảm bớt theo khoảng cách xa dần. Mặc dù liên tiếp hai lần đánh trúng mục tiêu, song dáng vẻ Khôi Lỗi Đường Lang hầu như đều không bị tổn hại chút nào, trái lại dưới sự điều khiển của thiếu niên lạnh lùng còn liên tục điên cuồng lao về phía Liễu Minh.",
+      "suggest": "Nhưng đáng tiếc công kích sóng âm này mặc dù có chút huyền diệu, nhưng uy năng hội tụ tại đây sẽ càng lúc càng yếu đi, mặc dù liên tiếp hai lần đánh trúng mục tiêu, Bọ Ngưa Khôi Lỗi lại không có chút bộ dáng hao tổn, bị thiếu niên trầm mặc thúc dục điên cuồng xông về phía Liễu Minh.",
+      "similarity": [
+        [
+          36,
+          0.95
+        ],
+        [
+          37,
+          0.97
+        ],
+        [
+          38,
+          0.97
+        ],
+        [
+          38,
+          0.98
+        ],
+        [
+          39,
+          0.98
+        ],
+        [
+          40,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hiển nhiên Kim Vũ biết rõ Hổ Giảo Hoàn loại này Phù Khí công kích tuy rằng phát động thời gian quá ngắn, nhưng cực kỳ hao tổn Chân Nguyên, mặc dù một gã trung kỳ Linh Đồ cũng tuyệt không pháp chèo chống loại công kích này quá lâu đấy.",
+      "dich": "Hiển nhiên Kim Vũ biết rõ loại Phù Khí như Hổ Giảo Hoàn này mặc dù thời gian phát động công kích rất ngắn, nhưng cực kỳ hao tổn Chân Nguyên, kể cả là một gã Linh Đồ trung kỳ cũng tuyệt không cách nào thi triển loại công kích này trong thời gian dài được.",
+      "suggest": "Hiển nhiên Kim Vũ biết rõ loại Phù Khí này mặc dù phát động trong thời gian ngắn, nhưng cực kỳ hao tổn Chân Nguyên, cho dù một gã Linh Đồ trung kỳ cũng tuyệt không có cách nào chèo chống loại công kích này quá lâu.",
+      "similarity": [
+        [
+          37,
+          0.96
+        ],
+        [
+          38,
+          0.97
+        ],
+        [
+          38,
+          0.97
+        ],
+        [
+          39,
+          0.99
+        ],
+        [
+          40,
+          0.97
+        ],
+        [
+          41,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh tự nhiên cũng biết loại chuyện này, lại một lần nữa đánh lui ánh sáng màu xanh Bọ Ngựa Khôi Lỗi về sau, bỗng nhiên quát khẽ một tiếng, hai cái chân nhỏ thoáng một phát vừa thô vừa to rồi một vòng, lại hung hăng một đập mặt đất về sau, thân hình liền tên nỏ giống như hướng Kim Vũ kích xạ mà đi.",
+      "dich": "Liễu Minh đương nhiên cũng biết chuyện này, sau khi lại một lần nữa đánh lui Khôi Lỗi Thanh Quang Đường Lang, bỗng nhiên quát khẽ một tiếng, hai cái chân gầy guộc đột nhiên to phồng lên, sau đó đạp mạnh xuống mặt đất, thân hình như tên rời cung bắn thẳng về phía Kim Vũ.",
+      "suggest": "Liễu Minh đương nhiên cũng biết chuyện này, sau khi một lần nữa đánh lui Khôi Lỗi Bọ Ngưa màu xanh, bỗng nhiên quát khẽ một tiếng, hai cái chân vừa thô vừa to đập xuống mặt đất, sau đó hung hăng bổ mạnh xuống mặt đất, thân hình như một mũi tên bắn ngược về phía Kim Vũ.",
+      "similarity": [
+        [
+          38,
+          0.96
+        ],
+        [
+          38,
+          0.97
+        ],
+        [
+          39,
+          0.95
+        ],
+        [
+          40,
+          0.99
+        ],
+        [
+          41,
+          0.97
+        ],
+        [
+          42,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Dùng Liễu Minh tu thành tầng thứ hai Minh Cốt Quyết Pháp lực gia trì, cộng thêm lúc trước lại dùng Hổ Giảo Hoàn thi triển qua rồi Khinh Thân Thuật, cũng vận dụng kích phát tiềm lực bí thuật, cái này nhảy chồm tốc độ mặc dù vẫn còn so sánh không hơn cái kia ánh sáng màu xanh Bọ Ngựa Khôi Lỗi, nhưng cũng sẽ không thua kém quá nhiều.",
+      "dich": "Với Pháp lực tầng thứ hai Minh Cốt Quyết, cộng thêm vừa rồi dùng Hổ Giảo Hoàn thi triển Thuật Khinh Thân, lúc này lại vận dụng bí thuật kích phát tiềm lực, tốc độ của Liễu Minh mặc dù không thể bì kịp Khôi Lỗi Thanh Quang Đường Lang kia, nhưng cũng không kém quá nhiều.",
+      "suggest": "Với Pháp lực gia trì của Liễu Minh đã được gia trì, cộng thêm thuật Khinh Thân thi triển qua, cũng sử dụng bí thuật kích phát tiềm lực bí thuật, tốc độ nhảy chồm này mặc dù không thể so sánh với Khôi Lỗi màu xanh kia, nhưng cũng không kém quá nhiều.",
+      "similarity": [
+        [
+          38,
+          0.96
+        ],
+        [
+          39,
+          0.97
+        ],
+        [
+          40,
+          0.97
+        ],
+        [
+          41,
+          0.99
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          43,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cho nên Bọ Ngựa Khôi Lỗi tại một trì hoãn xuống, lại hướng đuổi theo lúc cũng đã có chút đã muộn.",
+      "dich": "Cho nên sau khi Khôi Lỗi Đường Lang bị đánh lui lại một chút mới đuổi theo, đã chậm mất một nhịp.",
+      "suggest": "Cho nên Khôi Lỗi bị trì hoãn một thời gian, sau đó lại tiếp tục chạy trối chết cũng đã quá muộn.",
+      "similarity": [
+        [
+          40,
+          0.96
+        ],
+        [
+          41,
+          0.95
+        ],
+        [
+          42,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhưng Kim Vũ hừ một tiếng, đứng ở tại chỗ không trốn không né, chẳng qua là thủ đoạn run lên, trong tay đoản côn lối vào ánh sáng màu xanh lóe lên, lại có hai quả màu xanh trúc đinh hướng Liễu Minh kích xạ mà đến.",
+      "dich": "Tuy nhiên Kim Vũ lại hừ một tiếng, đứng nguyên tại chỗ không trốn tránh, cổ tay hơi run lên, ánh sáng màu xanh trên cây côn ngắn trong tay lóe lên, lại có hai cây đinh trúc xanh biếc lao vút về phía Liễu Minh.",
+      "suggest": "Nhưng Kim Vũ hừ một tiếng, đứng bất động tại chỗ, không tránh không né, đoản côn trong tay lóe lên ánh sáng màu xanh, còn có hai cây trúc xanh lớn hơn nữa bắn về phía Liễu Minh.",
+      "similarity": [
+        [
+          40,
+          0.98
+        ],
+        [
+          41,
+          0.96
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          43,
+          0.99
+        ],
+        [
+          45,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Vèo\" \"Vèo\" hai tiếng.",
+      "dich": "\"Vèo\" \"Vèo\" hai tiếng.",
+      "suggest": "\"Vèo\", \"Vèo\" hai tiếng.",
+      "similarity": [
+        [
+          44,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh hai tay giương lên, hai đạo bạch tuyến từ trong tay kích xạ mà ra, lóe lên phía dưới, liền đem hai cái màu xanh trúc đinh một kích mà bay.",
+      "dich": "Liễu Minh giơ hai tay lên, hai đường màu trắng từ trong tay bắn ra, lóe lên một cái đã đánh bay hai cây đinh trúc xanh biếc kia đi.",
+      "suggest": "Hai tay Liễu Minh giơ lên, hai đạo bạch tuyến từ trong tay bắn ra, lóe lên phía dưới, lập tức đánh cho hai cây trúc nhọn màu xanh một kích bay đi.",
+      "similarity": [
+        [
+          42,
+          0.96
+        ],
+        [
+          43,
+          0.98
+        ],
+        [
+          45,
+          0.99
+        ],
+        [
+          46,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trúc đính tại tại một cỗ nhu lực xảo diệu dưới tác dụng, cũng không có bạo liệt mà ra",
+      "dich": "Hai cây trúc định bị một nhu lực tác động một cách rất xảo diệu, không ngờ lại không vỡ tan ra.",
+      "suggest": "Dưới tác dụng của một cỗ nhu lực xảo diệu, nó cũng không hề bạo liệt",
+      "similarity": [
+        [
+          43,
+          0.95
+        ],
+        [
+          46,
+          0.97
+        ],
+        [
+          48,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cái kia hai cây bạch tuyến, rõ ràng là hai đạo thủy tiễn thuật biến thành.",
+      "dich": "Hai đường màu trắng kia rõ ràng là do Thuật Thủy Tiễn biến thành.",
+      "suggest": "Hai cây bạch tuyến kia rõ ràng là thuật Thủy tiễn mà hắn sáng tạo ra.",
+      "similarity": [
+        [
+          46,
+          0.96
+        ],
+        [
+          47,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này, Liễu Minh hai cái lên xuống về sau, đã rời âm trầm thiếu niên bất quá ba bốn trượng xa, một tay bấm niệm pháp quyết, trong miệng một nói lẩm bẩm, mơ hồ một đạo Phong Nhận đã tại kia trong tay lập tức hình thành.",
+      "dich": "Lúc này, Liễu Minh sau hai lần nhảy lên nhảy xuống đã rời xa thiếu niên lạnh lùng chừng ba bốn trượng, một tay bấm niệm pháp quyết, miệng nói lẩm bẩm, một đạo Phong Nhận mờ ảo đã dần thành hình trong tay.",
+      "suggest": "Lúc này, Liễu Minh đã cách thiếu niên khoảng ba bốn trượng, một tay bấm niệm pháp quyết, trong miệng lẩm bẩm pháp quyết, trong miệng lẩm bẩm, mơ hồ một đạo Phong Nhận bỗng nhiên hình thành trong lòng bàn tay.",
+      "similarity": [
+        [
+          45,
+          0.96
+        ],
+        [
+          46,
+          0.95
+        ],
+        [
+          48,
+          0.99
+        ],
+        [
+          49,
+          0.96
+        ],
+        [
+          50,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Kim Vũ thấy vậy, vẫn đang đứng ở tại chỗ không động thoáng một phát về sau, ngược lại cầm trong tay đoản côn ném đi về sau, xa hơn bên hông nhanh chóng một trảo, trong tay thoáng một phát nhiều ra một cái cánh tay phẩm chất kim loại ống đồng, cũng đem đen sì đồng miệng thoáng một phát nhắm ngay phía trước",
+      "dich": "Kim Vũ thấy vậy, vẫn tiếp tục đứng nguyên tại chỗ không động đậy, tức thì ném cây côn ngắn trong tay đi, sau đó nhanh chóng sờ sờ một chỗ bên hông, trong tay bỗng nhiên xuất hiện thêm một ống đồng làm bằng kim loại dài cỡ cánh tay, tiếp đó lập tức quay miệng ống đồng đen sì ra phía trước.",
+      "suggest": "Kim Vũ thấy vậy, vẫn đang đứng bất động tại chỗ, ném đoản côn trong tay về phía sau, tay trái nắm chặt lại, ống đồng được làm từ chất lỏng màu vàng, sau đó từ bên hông nhanh chóng giơ ra phía trước",
+      "similarity": [
+        [
+          46,
+          0.95
+        ],
+        [
+          48,
+          0.97
+        ],
+        [
+          49,
+          0.98
+        ],
+        [
+          50,
+          0.97
+        ],
+        [
+          51,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tuy rằng Liễu Minh chỉ cảm thấy thân thể, tuy rằng không biết cái này ống đồng trong có gì thứ đồ vật, nhưng nhiều lần sinh tử trong lúc đó rèn luyện ra kinh nghiệm hãy để cho kia lập tức đã có nguy hiểm cực kỳ cảm giác.",
+      "dich": "Mặc dù Liễu Minh không biết trong ống đồng kia có thứ gì, nhưng kinh nghiệm được rèn luyện qua rất nhiều phen sinh tử đã làm cho hắn lập tức có một cảm giác cực kỳ nguy hiểm.",
+      "suggest": "Mặc dù Liễu Minh chỉ cảm thấy thân thể, tuy không biết trong ống đồng này có thứ gì, nhưng trải qua những lần sinh tử rèn luyện kinh nghiệm sống sót, cảm giác nguy hiểm khi sinh tử đã khiến cho hắn lập tức có cảm giác nguy hiểm cực kỳ.",
+      "similarity": [
+        [
+          48,
+          0.97
+        ],
+        [
+          49,
+          0.96
+        ],
+        [
+          50,
+          0.99
+        ],
+        [
+          51,
+          0.96
+        ],
+        [
+          52,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn không cần suy nghĩ một tay đột nhiên hướng trước ngực vỗ, ba điêm hắc quang lóe lên về sau, một cái hắc mênh mông quang thuẫn thoáng một phát tại bên ngoài cơ thể hiển hiện mà ra.",
+      "dich": "Hắn không cần suy nghĩ lấy một tay vỗ mạnh vào trước ngực, ba điểm sáng đen lóe lên, sau đó một tấm thuẫn bằng ánh sáng đen bóng ngay lập tức xuất hiện bên ngoài cơ thể.",
+      "suggest": "Hắn không suy nghĩ gì nhiều, một tay đột nhiên vỗ mạnh vào trước ngực, ba điểm sáng màu đen lóe lên, sau đó một cái bóng mờ mịt hiện ra bên ngoài cơ thể.",
+      "similarity": [
+        [
+          48,
+          0.98
+        ],
+        [
+          49,
+          0.97
+        ],
+        [
+          50,
+          0.97
+        ],
+        [
+          51,
+          0.99
+        ],
+        [
+          52,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mà hầu như cùng một thời gian, đối diện ống đồng mặt ngoài mấy cái đỏ thẫm phù văn lóe lên mà hiện về sau, từ đó thoáng một phát phun màu đỏ thắm cuồn cuộn lửa cháy mạnh, lập tức liền lại xông lại Liễu Minh thoáng một phát bao phủ tiến vào trong đó.",
+      "dich": "Hầu như cùng một lúc, mấy cái phù văn đỏ thẫm mặt ngoài ống đồng đối diện cũng lóe lên, từ trong đó đột nhiên phun ra một đoàn liệt diễm màu đỏ thắm cuồn cuộn, trong nháy mắt đã bao phủ cả người Liễu Minh vào trong.",
+      "suggest": "Hầu như cùng một lúc, mấy cái phù văn màu đỏ thẫm hiện lên phía mặt ngoài ống đồng, sau đó mấy cái phù văn đỏ thẫm kia lóe lên rồi hiện ra, sau đó liền bao phủ Liễu Minh vào trong.",
+      "similarity": [
+        [
+          49,
+          0.96
+        ],
+        [
+          50,
+          0.97
+        ],
+        [
+          51,
+          0.97
+        ],
+        [
+          52,
+          0.99
+        ],
+        [
+          53,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mà ở lửa cháy mạnh phun ra lập tức, một viên màu đen viên cầu cũng từ Kim Vũ trong tay lăn một vòng mà ra, một ngón tay hướng trên trán lại một điểm về sau, liền Ự...c một tiếng hóa thành một cái cao cỡ nửa người Rùa khổng lồ Khôi Lỗi.",
+      "dich": "Mà cùng lúc đoàn liệt diễm phun ra, một quả cầu màu đen cũng từ trong tay Kim Vũ lăn ra, gã lại điểm nhẹ một cái lên trên, quả cầu kia 'răng rắc' mấy tiếng đã biến thành một Khôi Lỗi Cự Quy cao cỡ nửa người.",
+      "suggest": "Mà ngay khi ngọn lửa bùng lên, một quả cầu lửa màu đen cũng lăn tròn trong tay Kim Vũ, một ngón tay điểm nhẹ lên trán hắn, sau đó ngón tay điểm nhẹ một cái, liền hóa thành một Khôi Lỗi nửa người khổng lồ.",
+      "similarity": [
+        [
+          50,
+          0.97
+        ],
+        [
+          51,
+          0.98
+        ],
+        [
+          52,
+          0.98
+        ],
+        [
+          53,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Này Rùa khổng lồ một cái đảo ngược đứng lên về sau, liền dường như một mặt đen sì cự thuẫn đem thiếu niên hộ tại phía sau.",
+      "dich": "Cự Quy này quay ngược lại rồi đứng lên, tựa như một lá chắn đen sì bảo vệ đằng trước thiếu niên.",
+      "suggest": "Con Rùa khổng lồ này sau khi lộn ngược một cái liền giống như một cái thuẫn đen sì hộ vệ cho thiếu niên phía sau.",
+      "similarity": [
+        [
+          51,
+          0.96
+        ],
+        [
+          52,
+          0.97
+        ],
+        [
+          53,
+          0.98
+        ],
+        [
+          54,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Âm trầm thiếu niên một bước tiến lên cự Quy bên trên nhanh chóng vỗ.",
+      "dich": "Thiếu niên lạnh lùng bước lên một bước rồi nhanh chóng vỗ vào người Cự Quy.",
+      "suggest": "Thiếu niên trầm tĩnh bước lên phía trên, vỗ vỗ nhè nhẹ.",
+      "similarity": [
+        [
+          55,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ự...c âm thanh vừa vang lên!",
+      "dich": "Lại một hồi tiếng 'rắc rắc' vang lên!",
+      "suggest": "Âm thanh \"O...c...\" vang lên!",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Rùa khổng lồ nhìn hậu bối xác mắc lừa tức hơn mười người lỗ nhỏ trồi lên, bên trong tiếng xé gió cùng một chỗ, mấy chục cây nửa thép mũi tên hóa thành như mưa to từ đó kích xạ mà ra, hầu như đem phía trước mấy trượng bên trong hết thảy tất cả đều bao phủ tại công kích ở trong.",
+      "dich": "Trên vỏ Cự Quy lập tức xuất hiện hơn mười cái lỗ nhỏ, tiếng xé gió đồng thời nổi lên, mấy chục cái mũi tên thép như mưa rào từ trong đó bắn ra, dường như bao phủ tất cả mọi thứ trong vòng mấy trượng vào trong phạm vi công kích của chúng.",
+      "suggest": "Rùa khổng lồ nhìn hậu bối bị lừa gạt hơn mười người, trong tiếng xé gió cùng một chỗ, hơn mười mũi tên nhọn như mưa to từ trong đó bắn ra, hầu như tất cả đều bao phủ ở phía trước mấy trượng.",
+      "similarity": [
+        [
+          53,
+          0.97
+        ],
+        [
+          54,
+          0.97
+        ],
+        [
+          55,
+          0.95
+        ],
+        [
+          57,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Vòng tròn vẻ ngoài nhìn Đại Trí Đại Thượng thấy vậy, lập tức đại hỉ, mà Chu Xích cùng họ Chung đạo cô, tức thì tâm tất cả đều trầm xuống.",
+      "dich": "Đại Trí Đại Thượng bên ngoài vòng tròn thấy vậy lập tức vui mừng, mà sắc mặt của Chu Xích và đạo cô họ Chung lại đều trầm xuống.",
+      "suggest": "Vòng tròn bên ngoài nhìn Đại Trí Đại Thượng thấy vậy, lập tức vui mừng lẫn sợ hãi, mà Chu Xích và đạo cô họ Chung thì tâm đều trầm xuống.",
+      "similarity": [
+        [
+          58,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Vèo\" một thân.",
+      "dich": "\"Vèo\" một tiếng.",
+      "suggest": "\"Vèo\" một cái.",
+      "similarity": [
+        [
+          59,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trong ngọn lửa một đạo nhân ảnh lóe lên, hướng hơi nghiêng kích xạ mà ra, lập tức liền tránh qua, tránh né thép mũi tên công kích, tiếp theo tại một cổ vô hình lực lượng dẫn dắt hạ bỗng nhiên phương hướng biến đổi, dùng không thể tưởng tượng nổi tốc độ tìm một cái vòng tròn hướng Kim Vũ hơi nghiêng kích xạ mà đi.",
+      "dich": "Một bóng người trong màn lửa lóe lên, nghiêng nghiêng vọt ra, uốn éo thân hình tránh được liên tiếp các mũi tên thép công kích, sau đó dường như được một cỗ sức mạnh vô hình nào đó lôi kéo bỗng nhiên biến đổi phương hướng, dùng một tốc độ không thể tưởng tượng nổi lao vút về phía Kim Vũ trong vòng tròn.",
+      "suggest": "Một bóng người lóe lên, hướng về phía ngọn lửa bắn ra, lập tức tránh qua công kích của mũi tên nhọn, tiếp đó dưới một sức mạnh vô hình dẫn dắt, phương hướng bị một sức mạnh vô hình dẫn dắt bỗng nhiên thay đổi, dùng tốc độ không thể tưởng tượng nổi tốc độ của hắn tìm một cái vòng tròn màu vàng chếch về phía Kim Vũ.",
+      "similarity": [
+        [
+          57,
+          0.97
+        ],
+        [
+          58,
+          0.95
+        ],
+        [
+          60,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cái này xuất kỳ bất ý một màn, lại để cho âm trầm thiếu niên kinh hãi, vội vàng quay người lại, còn muốn làm ra cái gì phòng ngự thủ đoạn, lại đã muộn.",
+      "dich": "Một màn xuất hiện cực kỳ bất ngờ này khiến cho thiếu niên lạnh lùng kinh hãi, vội vàng quay người lại, đang muốn thi triển các thủ loại phòng ngự khác, nhưng lúc này đã muộn.",
+      "suggest": "Một màn xuất kỳ bất ý này, lại để cho thiếu niên âm trầm kinh hãi, vội vàng quay người lại, muốn làm gì đó phòng ngự, nhưng đã muộn.",
+      "similarity": [
+        [
+          57,
+          0.96
+        ],
+        [
+          58,
+          0.95
+        ],
+        [
+          60,
+          0.96
+        ],
+        [
+          61,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn mới vòng qua một nửa thân hình, bỗng nhiên tiếng gió bên tai cùng một chỗ, hai vai trầm xuống, hai cái chớp động ánh sáng màu xanh bàn tay thoáng một phát khoác lên rồi phía trên, đồng thời một cái nhàn nhạt thanh âm truyền đến:",
+      "dich": "Kim Vũ vừa mới xoay được nửa người thì tiếng xé gió bỗng nhiên đã tới sát bên tai, hai vai gã nặng chĩu, hai bàn tay chớp lóe ánh sáng màu xanh không biết từ bao giờ đã kề lên cổ, cùng lúc đó là một giọng nói lạnh lẽo vang lên bên tai:",
+      "suggest": "Hắn vừa mới xoay người được nửa người, bỗng nhiên tiếng gió bên tai cùng một chỗ, hai vai trầm xuống, hai bàn tay chớp lóe ánh sáng màu xanh biếc khoác lên người, đồng thời một giọng nói nhàn nhạt truyền đến:",
+      "similarity": [
+        [
+          57,
+          0.96
+        ],
+        [
+          58,
+          0.96
+        ],
+        [
+          60,
+          0.97
+        ],
+        [
+          61,
+          0.96
+        ],
+        [
+          62,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đừng nhúc nhích, tái cử động thoáng một phát, ta liền cắt lấy đầu của ngươi.\"",
+      "dich": "\"Đừng nhúc nhích, chỉ cần cử động một cái là ta sẽ lập tức cắt đầu ngươi xuống.\"",
+      "suggest": "\"Đừng nhúc nhích, tái cử động một chút, ta sẽ cắt đầu ngươi ra.\"",
+      "similarity": [
+        [
+          63,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ở đằng kia hai bàn tay lúc giữa, thình lình có hai cái như ẩn như hiện Phong Nhận tại chớp động không thôi.",
+      "dich": "Trong hai lòng bàn tay kia không ngờ lại có hai đạo Phong Nhận như ẩn như hiện đang chớp lóe không ngừng.",
+      "suggest": "Hai bàn tay kia ở phía trước bỗng nhiên xuất hiện hai cái Phong Nhận như ẩn như hiện đang chớp động không ngừng.",
+      "similarity": [
+        [
+          60,
+          0.95
+        ],
+        [
+          61,
+          0.96
+        ],
+        [
+          62,
+          0.97
+        ],
+        [
+          64,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Kim Vũ sắc mặt thoáng một phát trở nên xanh mét đứng lên.",
+      "dich": "Sắc mặt Kim Vũ thoáng lúc này đã xanh như đít nhái.",
+      "suggest": "Sắc mặt Kim Vũ bỗng nhiên trở nên xanh mét.",
+      "similarity": [
+        [
+          65,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn cho dù có cơ quan chiến giáp hộ thân, nhưng chỗ cổ không chút nào phòng hộ không có, hôm nay khoảng cách gần bị Phong Nhận chém, cho dù có thiên đại bổn sự cũng khẳng định khó giữ được cái mạng nhỏ này rồi.",
+      "dich": "Mặc dù gã có cơ quan chiến giáp hộ thân, nhưng ở cổ lại không được bảo vệ chút nào. Lúc này nếu bị Phong Nhận chém một phát với khoảng cách gần như thế này, cho dù gã có thiên đại bổn sự đi chẳng nữa thì cũng chắc chắn khó giữ được cái mạng nhỏ.",
+      "suggest": "Cho dù hắn có cơ quan chiến giáp hộ thân, nhưng chỗ cổ không có chút phòng hộ nào, hôm nay khoảng cách gần bị Phong Nhận chém, cho dù có thiên đại bổn sự cũng khó có thể bảo toàn mạng nhỏ này.",
+      "similarity": [
+        [
+          61,
+          0.96
+        ],
+        [
+          62,
+          0.96
+        ],
+        [
+          64,
+          0.96
+        ],
+        [
+          66,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá mặc dù như thế, hắn hay vẫn là một chút quay đầu lại, trong mắt hung quang chớp động nhìn về phía đứng ở bên cạnh đối thủ.",
+      "dich": "Tuy nhiên mặc dù là như thế, gã vẫn hơi quay đầu lại, hung quang trong mắt lấp lóe nhìn về phía đối thủ đang đứng bên cạnh.",
+      "suggest": "Tuy nhiên mặc dù như thế, hắn vẫn hơi quay đầu lại, hung quang trong mắt chớp lóe nhìn về phía đối thủ đang đứng bên cạnh.",
+      "similarity": [
+        [
+          62,
+          0.97
+        ],
+        [
+          63,
+          0.96
+        ],
+        [
+          64,
+          0.96
+        ],
+        [
+          66,
+          0.96
+        ],
+        [
+          66,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này Liễu Minh, một thân màu xanh nhạt quần áo sớm đã trở nên bụi bẩn một mảnh, trên người càng tràn đầy một cỗ hun khói lửa cháy hương vị, khỏa thân bên ngoài cái cổ thủ đoạn này địa phương càng có thể chứng kiến như mọc thành phiến đỏ bừng bong bóng, rõ ràng một bộ bị hỏa thiêu tổn thương không nhẹ bộ dáng, nhưng vẫn nhưng trên mặt dáng tươi cười nhìn xem hắn.",
+      "dich": "Lúc này, quần áo cả người Liễu Minh đã đầy bụi đất, trên người tỏa ra mùi khét lẹt vì lửa cháy, những chỗ da lộ ra ngoài ở cổ tay có thể thấy được những bọng nước chi chít đỏ lựng, rõ ràng đã bị bỏng không nhẹ, nhưng hắn vẫn đang tươi cười nhìn về phía Kim Vũ.",
+      "suggest": "Lúc này quần áo của Liễu Minh đã trở nên bụi bẩn, trên người tràn ngập mùi hương hun khói, trên người hắn càng tràn ngập một mùi hương hun khói nồng nặc, chỗ ẩn nấp bên ngoài cơ thể còn có thể thấy rõ ràng là một bộ dáng bị hỏa thiêu tổn thương không nhẹ, nhưng vẫn tươi cười nhìn hắn.",
+      "similarity": [
+        [
+          64,
+          0.96
+        ],
+        [
+          66,
+          0.96
+        ],
+        [
+          66,
+          0.96
+        ],
+        [
+          67,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đương lúc âm trầm thiếu niên ánh mắt xuống chút nữa lúc nãy khẽ quét mà qua về sau, lập tức có chút bừng tỉnh đại ngộ đứng lên.",
+      "dich": "Khi ánh mắt thiếu niên lạnh lùng nhìn xuống dưới người đối phương một chút đã lập tức hiểu ra nguyên nhân mình thất bại.",
+      "suggest": "Ánh mắt âm trầm của thiếu niên quét qua một lần, sau đó lập tức có chút giật mình đứng dậy.",
+      "similarity": [
+        [
+          64,
+          0.96
+        ],
+        [
+          66,
+          0.95
+        ],
+        [
+          67,
+          0.96
+        ],
+        [
+          68,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chỉ thấy Liễu Minh một cái nhỏ trên đùi chẳng biết lúc nào quấn quanh lấy một cây thật dài hắc tác, một chỗ khác lại sâu đâm sâu tại kia đặt chân chỗ trong lòng đất không biết bao sâu chỗ.",
+      "dich": "Chỉ thấy một đầu sợi dây thừng mảnh đen sì chẳng biết lúc nào đã quấn quanh đùi Liễu Minh, đầu còn lại thì đâm xuống lòng đất không biết sâu bao nhiêu ở ngay gần bàn chân gã.",
+      "suggest": "Chỉ thấy trên đùi Liễu Minh chẳng biết lúc nào đã quấn quanh một cây hắc tác rất dài, một chỗ khác lại sâu thêm một chỗ vào trong lòng đất không biết bao sâu.",
+      "similarity": [
+        [
+          65,
+          0.95
+        ],
+        [
+          66,
+          0.95
+        ],
+        [
+          66,
+          0.96
+        ],
+        [
+          67,
+          0.96
+        ],
+        [
+          68,
+          0.97
+        ],
+        [
+          69,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Vừa rồi hắn sở dĩ có thể tốc độ tăng nhiều, cũng có thể thay đổi biến phương hướng, đột nhiên vây quanh thứ nhất bên cạnh đến, hiển nhiên là mượn này hắc tác lực lượng.",
+      "dich": "Sở dĩ vừa rồi tốc độ của đối phương có thể tăng vọt lên nhiều như vậy, hơn nữa còn có thể đột ngột thay đổi phương hướng, trong nháy mắt đã tới bên cạnh, hiển nhiên là nhờ vào sợi dây đen nhánh này.",
+      "suggest": "Vừa rồi hắn có thể tăng tốc lên rất nhiều, đột nhiên thay đổi hướng đi, hiển nhiên là nhờ lực lượng hắc tác kia.",
+      "similarity": [
+        [
+          66,
+          0.95
+        ],
+        [
+          66,
+          0.96
+        ],
+        [
+          67,
+          0.96
+        ],
+        [
+          68,
+          0.96
+        ],
+        [
+          69,
+          0.96
+        ],
+        [
+          70,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chẳng qua là đối thủ lúc nào đem này tác bố trí tại khoảng cách gần như vậy chỗ đấy, hắn vậy mà chút nào đều không có phát giác được!",
+      "dich": "Chỉ có điều từ lúc nào đối thủ đã bố trí sợi dây này ở chỗ gần như vậy, gã lại không thể phát hiện ra được chút nào!",
+      "suggest": "Chỉ có điều lúc đối thủ bố trí loại công thức này ở một khoảng cách gần như vậy, hắn cũng không phát giác ra!",
+      "similarity": [
+        [
+          66,
+          0.96
+        ],
+        [
+          67,
+          0.97
+        ],
+        [
+          68,
+          0.96
+        ],
+        [
+          69,
+          0.96
+        ],
+        [
+          70,
+          0.95
+        ],
+        [
+          71,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Hảo tâm kế!",
+      "dich": "\"Tâm kế giỏi!",
+      "suggest": "'Hảo tâm kế!",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá muốn thật sự là 1 vs 1 chính diện đọ sức, ngươi cũng không phải đối thủ của ta.\"",
+      "dich": "Tuy nhiên nếu thực sự đọ sức chính diện, ngươi cũng không phải là đối thủ của ta.\"",
+      "suggest": "Tuy nhiên nếu thực sự là so tài trực tiếp, ngươi cũng không phải đối thủ của ta.\"",
+      "similarity": [
+        [
+          71,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Kim Vũ trừng mắt Liễu Minh, từng chữ nói.",
+      "dich": "Kim Vũ trừng mắt nhìn Liễu Minh, nói gằn từng chữ.",
+      "suggest": "Kim Vũ trừng mắt nhìn Liễu Minh, từng chữ nói.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Chính diện đọ sức?",
+      "dich": "\"Đọ sức chính diện ư?",
+      "suggest": "\"Chính diện so sánh?",
+      "similarity": [
+        [
+          73,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ta nếu là cũng có thể có như vậy nhiều cơ quan vật phẩm, cũng có thể có được hai ba đầu Khôi Lỗi giúp đỡ, ngược lại có thể cân nhắc thoáng một phát đấy.\"",
+      "dich": "Nếu ta cũng có nhiều cơ quan vật phẩm như vậy, lại được hai ba đầu Khôi Lỗi trợ giúp, trái lại cũng có thể cân nhắc qua một phen.\"",
+      "suggest": "Nếu ta cũng có thể có được nhiều vật phẩm như vậy, hơn nữa cũng có thể có được hai ba Khôi Lỗi giúp đỡ, ngược lại còn có thể cân nhăc một chút đấy.\"",
+      "similarity": [
+        [
+          71,
+          0.96
+        ],
+        [
+          72,
+          0.95
+        ],
+        [
+          74,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh mỉm cười nói.",
+      "dich": "Liễu Minh mỉm cười nói.",
+      "suggest": "Liễu Minh mỉm cười nói.",
+      "similarity": [
+        [
+          75,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Hặc hặc, thông thiên, ngươi làm thì tốt hơn.",
+      "dich": "\"Ha ha, Thông Thiên, ngươi làm tốt lắm.",
+      "suggest": "\"Ha ha, thông thiên, ngươi làm thì tốt hơn.",
+      "similarity": [
+        [
+          77,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Quả nhiên không để cho hai ta người thất vọng.",
+      "dich": "Quả nhiên không để cho hai người chúng ta thất vọng.",
+      "suggest": "Quả nhiên không để cho hai ta phải thất vọng.",
+      "similarity": [
+        [
+          77,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đại Trí Đại Thượng hai vị đạo hữu, ván này nói như thế nào?\"",
+      "dich": "Đại Trí, Đại Thượng hai vị đạo hữu, ván này thắng thua thế nào?\"",
+      "suggest": "Hai vị đạo hữu Đại Trí, Đại Thượng, các vị đạo hữu thấy thế nào?\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Vòng tròn bên ngoài Chu Xích gặp tình hình này, rốt cuộc kềm nén không được trong nội tâm hưng phấn mang cười rộ lên.",
+      "dich": "Chu Xích bên ngoài vòng tròn thấy vậy, không kìm được mà cười lên mấy tiếng thật to, sau đó quay sang nói với hai vị Linh Sư Cửu Khiếu Sơn.",
+      "suggest": "Chu Xích bên ngoài vòng tròn thấy một màn như vậy, cuối cùng cũng không kìm được sự hưng phấn trong lòng, cười rộ lên.",
+      "similarity": [
+        [
+          77,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bên cạnh họ Chung đạo cô, tự nhiên cũng là vẻ mặt tươi cười rồi.",
+      "dich": "Vẻ mặt đạo cô họ Chung bên cạnh đương nhiên cũng cực kỳ vui mừng.",
+      "suggest": "Đạo cô họ Chung bên cạnh đương nhiên cũng tươi cười đáp lại.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Hừ, thua thì thua.",
+      "dich": "\"Hừ, thua thì thua.",
+      "suggest": "\"Hừ, thua thì thua.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Chẳng lẽ Chu huynh còn sợ chúng ta đổi ý hay sao?",
+      "dich": "Chẳng lẽ Chu huynh còn sợ chúng ta đổi ý hay sao?",
+      "suggest": "Chẳng lẽ Chu huynh còn sợ chúng ta đổi ý sao?",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Vũ nhi, trở về a.",
+      "dich": "Vũ nhi, trở về đi.",
+      "suggest": "Vũ nhi, trở về đi.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Ngươi người này đệ tử ngược lại là tâm kế chồng chất, cho các ngươi nhặt được một cái tốt hạt giống.\"",
+      "dich": "Người đệ tử này của ngươi tâm kế chồng chất, các ngươi đã nhặt được một hạt giống thật tốt.\"",
+      "suggest": "Người này ngược lại còn tâm kế chồng chất, giúp các ngươi nhặt được một hạt giống tốt.\"",
+      "similarity": [
+        [
+          85,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đại Trí hừ một tiếng, sắc mặt có chút khó coi nói.",
+      "dich": "Đại Trí hừ một tiếng, sắc mặt có chút khó coi nói.",
+      "suggest": "Đại Trí hừ một tiếng, sắc mặt có chút khó coi nói.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Kim Vũ vậy mà lúc này trong tỉ thí thua trận, cái này thật sự để cho bọn họ quá để ý bên ngoài rồi.",
+      "dich": "Không ngờ Kim Vũ lại thua trận tỷ thí này, điều này thực sự làm cho bọn họ hết sức buồn bực.",
+      "suggest": "Kim Vũ vậy mà lại thua trong tỷ thí, điều này thật sự khiến cho bọn họ quá để tâm vào chuyện bên ngoài rồi.",
+      "similarity": [
+        [
+          85,
+          0.96
+        ],
+        [
+          87,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Cái kia tiền đặt cược sự tình...\"",
+      "dich": "\"Còn chuyện tiền đặt cược kia ...\"",
+      "suggest": "\"Chuyện này...\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Chu Xích không lưỡng lự lại hỏi.",
+      "dich": "Chu Xích không lưỡng lự lại hỏi.",
+      "suggest": "Chu Xích không lưỡng lự hỏi.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Những thứ này linh quả tất cả đều về ngươi rồi, cái kia bạch cân thiết tinh sau đó ta hai người cũng sẽ phái môn hạ đệ tử tự mình đưa tới cho ngươi đấy.\"",
+      "dich": "\"Toàn bộ Linh quả này đều thuộc về ngươi, còn một trăm cân Thiết Tinh kia, hai người chúng ta sau khi trở về sẽ phái môn hạ đệ tử trực tiếp đưa tới Cửu Anh Sơn.\"",
+      "suggest": "\"Tất cả những linh quả này đều thuộc về ngươi, viên Thiết Tinh kia sau này hai người chúng ta sẽ tự mình đưa tới cho ngươi.\"",
+      "similarity": [
+        [
+          87,
+          0.97
+        ],
+        [
+          89,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đại Trí hầu như có chút nghiến răng nghiến lợi nói, Đại Thượng cũng mặt trầm như nước tại nguyên chỗ một lời không nói.",
+      "dich": "Đại Trí hình như có chút nghiến răng nghiến lợi nói, mặt mũi Đại Thượng cũng lặng như nước đứng nguyên tại chỗ không nói câu gì.",
+      "suggest": "Hầu như Đại Trí đều nghiến răng nghiến lợi nói, nhưng mặt sau lưng thì trầm như nước như nước, không nói một lời.",
+      "similarity": [
+        [
+          88,
+          0.96
+        ],
+        [
+          89,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ha ha, vậy đa tạ nhị vị đạo hữu dày cho.\"",
+      "dich": "\"Ha ha, vậy phải đa tạ hai vị đạo hữu rồi.\"",
+      "suggest": "\"Ha ha, đa tạ đạo hữu dày công khai phá.\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Chu Xích nghe vậy, đại hỉ nói.",
+      "dich": "Chu Xích nghe vậy, vui mừng nói.",
+      "suggest": "Chu Xích nghe vậy, rất vui mừng nói.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Bất quá, hai vị đạo hữu có phải hay không cũng nên nói cho chúng ta biết, vì sao đối với mấy cái này Thiên Quỳnh Quả coi trọng đến trình độ như vậy đi à nha.\"",
+      "dich": "\"Tuy nhiên, hai vị đạo hữu cũng nên nói cho chúng ta biết vì sao hai vị lại coi trọng số Thiên Quỳnh Quả này đến mức độ như vậy chứ?\"",
+      "suggest": "\"Bất quá hai vị đạo hữu có phải nên nói cho chúng ta biết vì sao Thiên Quỳnh Quả lại quan tâm đến mấy cái chuyện như vậy chứ?\"",
+      "similarity": [
+        [
+          92,
+          0.96
+        ],
+        [
+          94,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Họ Chung đạo cô lại ánh mắt lóe lên mà hỏi.",
+      "dich": "Ánh mắt đạo cô họ Chung lại lóe lên hỏi.",
+      "suggest": "Đạo cô họ Chung ánh mắt lóe lên hỏi.",
+      "similarity": [],
+      "approved": true
+    }
+  ]
+}

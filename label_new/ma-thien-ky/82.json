@@ -1,0 +1,4407 @@
+{
+  "currentLine": 117,
+  "next": {
+    "id": 83,
+    "title": "Chương 83 : Uế Khí Châu và linh cốt."
+  },
+  "title": {
+    "convert": "Chương 82 : Tư Mã Thiên",
+    "dich": "Chương 82 : Tư Mã Thiên"
+  },
+  "previous": {
+    "id": 81,
+    "title": "Chương 81 : Vạn cốt quật"
+  },
+  "currentWorkingLine": 118,
+  "changed": true,
+  "approved": true,
+  "lines": [
+    {
+      "convert": "Hắn đúng là lúc trước đi tìm Liễu Minh Thạch Kiên, kia song tu bầu bạn tên kia gọi Lục Vân phu nhân đồng dạng đã ở nơi đây, hai người khác nhưng là một gã trang phục đại hán cùng một gã hai tay phủ lấy bảy tám cái huyết sắc cánh tay hoàn thanh niên.",
+      "dich": "Người này là Thạch Kiên lúc trước đi tìm Liễu Minh. Đạo lữ song tu với hắn là Lục Vân cũng đang đứng ở chỗ này. Hai người khác là một người mặc trang phục đại hán cùng một thanh niên đeo Huyết Sáo (bao tay màu máu) trên tay.",
+      "suggest": "Hắn chính là Liễu Minh Thạch Kiên, người mà hai người vừa gặp lúc trước là Lục Vân phu nhân và một đại hán mặc trang phục đại hán, hai người còn lại mặc một bộ quần áo và một thanh niên mặc một bộ cánh tay màu máu.",
+      "similarity": [
+        [
+          0,
+          0.96
+        ],
+        [
+          0,
+          0.98
+        ],
+        [
+          1,
+          0.96
+        ],
+        [
+          2,
+          0.96
+        ],
+        [
+          4,
+          0.97
+        ],
+        [
+          5,
+          0.96
+        ],
+        [
+          5,
+          0.96
+        ],
+        [
+          7,
+          0.97
+        ],
+        [
+          8,
+          0.96
+        ],
+        [
+          12,
+          0.96
+        ],
+        [
+          13,
+          0.95
+        ],
+        [
+          15,
+          0.95
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          16,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đi Vạn Cốt Quật lời mà nói, nhất định sẽ có một vị sư thúc tự mình dẫn đội lời mà nói, chúng ta cho dù biết rõ tiểu tử này ở trong đó, cũng tuyệt không pháp không biết làm sao đấy.",
+      "dich": "- Đi Vạn Cốt Quật nhất định sẽ có một vị sư thúc tự mình dẫn đội. Chúng ta dù biết rõ có tên tiểu tử này ở trong đó cũng không thể làm gì được.",
+      "suggest": "\"Đi Vạn Cốt Quật mà nói, nhất định sẽ có một vị sư thúc đích thân dẫn đội, cho dù chúng ta có biết tiểu tử này ở trong đó, cũng tuyệt không cách nào không biết được.",
+      "similarity": [
+        [
+          0,
+          0.96
+        ],
+        [
+          0,
+          0.95
+        ],
+        [
+          1,
+          0.97
+        ],
+        [
+          1,
+          0.97
+        ],
+        [
+          2,
+          0.98
+        ],
+        [
+          5,
+          0.97
+        ],
+        [
+          5,
+          0.97
+        ],
+        [
+          7,
+          0.98
+        ],
+        [
+          8,
+          0.97
+        ],
+        [
+          12,
+          0.96
+        ],
+        [
+          13,
+          0.96
+        ],
+        [
+          16,
+          0.98
+        ],
+        [
+          16,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tiểu tử này cũng là thật là rất đấy, vì tránh đi chúng ta cũng dám đi Vạn Cốt Quật cái loại địa phương đó, sẽ không sợ thật sự vừa đi không trở về rồi.",
+      "dich": "Tiểu tử này cũng thật là chỉ vì muốn tránh chúng ta mà cũng dám đi đến địa phương như Vạn Cốt Quật, hắn không sợ một đi không trở lại sao.",
+      "suggest": "Tiểu tử này cũng thật là rất giỏi, vì tránh cho chúng ta cũng dám đi tới chỗ Vạn Cốt Quật, sẽ không sợ vừa đi không về.",
+      "similarity": [
+        [
+          0,
+          0.96
+        ],
+        [
+          1,
+          0.96
+        ],
+        [
+          1,
+          0.97
+        ],
+        [
+          2,
+          0.99
+        ],
+        [
+          5,
+          0.97
+        ],
+        [
+          5,
+          0.97
+        ],
+        [
+          7,
+          0.97
+        ],
+        [
+          8,
+          0.96
+        ],
+        [
+          11,
+          0.95
+        ],
+        [
+          12,
+          0.96
+        ],
+        [
+          13,
+          0.96
+        ],
+        [
+          16,
+          0.98
+        ],
+        [
+          16,
+          0.97
+        ],
+        [
+          20,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngô sư huynh, ngươi kiến thức rộng rãi, có thể có chủ ý gì tốt sao?\"",
+      "dich": "Ngô sư huynh kiến thức rộng rãi có ý kiến gì không?",
+      "suggest": "Ngô sư huynh, kiến thức rộng rãi, có thể có chủ ý gì tốt sao?\"",
+      "similarity": [
+        [
+          1,
+          0.96
+        ],
+        [
+          2,
+          0.96
+        ],
+        [
+          3,
+          0.97
+        ],
+        [
+          5,
+          0.95
+        ],
+        [
+          7,
+          0.96
+        ],
+        [
+          8,
+          0.96
+        ],
+        [
+          12,
+          0.95
+        ],
+        [
+          16,
+          0.95
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          20,
+          0.95
+        ],
+        [
+          21,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cánh tay hoàn thanh niên đuôi lông mày nhảy lên về sau, quay đầu bốc đồng giả bộ đại hán hỏi.",
+      "dich": "Nam thanh niên tay đeo Huyết Sáo khẽ nhíu mày, quay đầu hỏi nam tử mặc trang phục đại hán.",
+      "suggest": "Lông mày thanh niên dựng lên, sau đó quay đầu lại, giả bộ đại hán hỏi.",
+      "similarity": [
+        [
+          0,
+          0.95
+        ],
+        [
+          0,
+          0.96
+        ],
+        [
+          4,
+          0.97
+        ],
+        [
+          7,
+          0.96
+        ],
+        [
+          12,
+          0.95
+        ],
+        [
+          15,
+          0.96
+        ],
+        [
+          19,
+          0.95
+        ],
+        [
+          21,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Nếu như hắn đi rồi Vạn Cốt Quật, tối thiểu ba trong vòng bốn tháng không có ý định lại quay về trong tông được rồi, cho nên chúng ta còn muốn tìm hắn phiền toái lời mà nói, cũng chỉ có phái người đồng dạng tham gia Vạn Cốt Quật trấn áp nhiệm vụ mới có cơ hội.\"",
+      "dich": "- Hắn đã đi Vạn Cốt Quật thì tối thiểu ba tháng không có ở trong tông môn. Cho nên chúng ta nếu cồn muốn tìm hắn gây sự thì cũng chỉ có thể phái người cùng tham gia nhiệm vụ trấn áp Vạn Cốt Quật mới có cơ hội.",
+      "suggest": "\"Nếu hắn đã đi khỏi Vạn Cốt Quật, tối thiểu ba bốn tháng sau đó không có ý định quay lại tông, cho nên nếu chúng ta muốn tìm phiền toái hắn thì cũng chỉ có phái người tham gia trấn áp nhiệm vụ Vạn Cốt Quật mới có cơ hội.\"",
+      "similarity": [
+        [
+          0,
+          0.95
+        ],
+        [
+          1,
+          0.95
+        ],
+        [
+          2,
+          0.98
+        ],
+        [
+          5,
+          0.97
+        ],
+        [
+          5,
+          0.98
+        ],
+        [
+          7,
+          0.97
+        ],
+        [
+          8,
+          0.96
+        ],
+        [
+          12,
+          0.95
+        ],
+        [
+          13,
+          0.95
+        ],
+        [
+          16,
+          0.97
+        ],
+        [
+          16,
+          0.97
+        ],
+        [
+          20,
+          0.97
+        ],
+        [
+          21,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Áo quần cứng cáp đại hán chậm rãi nói.",
+      "dich": "Đại hán mặc áo quần cứng cáp chậm rãi nói.",
+      "suggest": "Đại hán mặc áo quần cứng cáp chậm rãi nói.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Ngô sư huynh không chỉ nói nở nụ cười, cái kia vạn cỗ quật tuy rằng mỗi chém giết một đầu cốt quỷ đều có điểm cống hiến ban thưởng, nhưng là quá nguy hiểm một ít.",
+      "dich": "- Ngô sư huynh nói đùa, tuy trong Vạn Cốt Quật chém giết một đầu cốt quỷ sẽ thu được rất nhiều điểm cống hiến nhưng mà nguy hiểm quá nhiều.",
+      "suggest": "\"Ngô sư huynh không chỉ cười, vạn cỗ quật kia mặc dù mỗi một chém giết một con Cốt Quỷ đều có điểm cống hiến ban thưởng, nhưng cũng quá nguy hiểm.",
+      "similarity": [
+        [
+          0,
+          0.96
+        ],
+        [
+          0,
+          0.96
+        ],
+        [
+          1,
+          0.96
+        ],
+        [
+          1,
+          0.96
+        ],
+        [
+          2,
+          0.96
+        ],
+        [
+          4,
+          0.96
+        ],
+        [
+          5,
+          0.96
+        ],
+        [
+          5,
+          0.97
+        ],
+        [
+          7,
+          0.99
+        ],
+        [
+          8,
+          0.97
+        ],
+        [
+          12,
+          0.97
+        ],
+        [
+          13,
+          0.95
+        ],
+        [
+          15,
+          0.95
+        ],
+        [
+          16,
+          0.97
+        ],
+        [
+          16,
+          0.97
+        ],
+        [
+          20,
+          0.97
+        ],
+        [
+          21,
+          0.96
+        ],
+        [
+          22,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngoại trừ trong tông những cái kia truy cầu giết chóc chi đạo tên điên đối với cái này vui đến quên cả trời đất bên ngoài, những người khác cái nào không phải là bị sư thúc các sư bá điểm danh, bị ép bất đắc dĩ mới đi tiếp nhiệm vụ này vụ đấy.\"",
+      "dich": "Trừ những tên điên truy cầu sát lục chi đạo trong tông lấy đó làm niềm vui ra thì những người khác không phải bị các sư thúc sư bá điểm danh ép đi mới phải bất đắc dĩ nhận loại nhiệm vụ này.",
+      "suggest": "Ngoại trừ những tên điên cuồng đi đòi giết chóc kia, những kẻ khác không phải là bị sư thúc, sư bá điểm danh, bị ép phải tiếp nhận nhiệm vụ này khi chưa đắc dĩ.\"",
+      "similarity": [
+        [
+          0,
+          0.96
+        ],
+        [
+          1,
+          0.96
+        ],
+        [
+          2,
+          0.95
+        ],
+        [
+          5,
+          0.97
+        ],
+        [
+          7,
+          0.96
+        ],
+        [
+          8,
+          0.99
+        ],
+        [
+          12,
+          0.96
+        ],
+        [
+          13,
+          0.95
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          16,
+          0.97
+        ],
+        [
+          20,
+          0.95
+        ],
+        [
+          21,
+          0.97
+        ],
+        [
+          22,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thanh niên nghe vậy, biến sắc nói.",
+      "dich": "Nam thanh niên nghe vậy, biến sắc nói.",
+      "suggest": "Thanh niên nghe vậy, biến sắc nói.",
+      "similarity": [
+        [
+          9,
+          0.99
+        ],
+        [
+          15,
+          0.95
+        ],
+        [
+          19,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Nếu chỉ có vậy, vậy chuyện này cũng chỉ có thể trước được rồi.",
+      "dich": "- Như vậy thì việc này cũng chỉ có thể tạm dừng ở đây.",
+      "suggest": "\"Nếu chỉ có vậy, chuyện này cũng chỉ có thể giải quyết trước được.",
+      "similarity": [
+        [
+          1,
+          0.97
+        ],
+        [
+          5,
+          0.95
+        ],
+        [
+          7,
+          0.95
+        ],
+        [
+          10,
+          0.98
+        ],
+        [
+          13,
+          0.96
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          21,
+          0.95
+        ],
+        [
+          24,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ta cũng không muốn đi cái kia Vạn Cốt Quật đấy.",
+      "dich": "Ta cũng không muốn đi Vạn Cốt Quật.",
+      "suggest": "Ta cũng không muốn đi Vạn Cốt Quật kia.",
+      "similarity": [
+        [
+          0,
+          0.95
+        ],
+        [
+          1,
+          0.97
+        ],
+        [
+          5,
+          0.96
+        ],
+        [
+          7,
+          0.96
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          20,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cũng may Cao sư đệ còn đang bế quan, tiểu tử này cùng Mục Minh Châu hôn ước vấn đề, hắn còn không biết đấy.",
+      "dich": "Cũng may Cao sư đệ còn đang bế quan, việc hôn ước giữa tiểu tử này và Mục Minh Châu hắn vẫn chưa biết.",
+      "suggest": "Cũng may Cao sư đệ còn đang bế quan, tiểu tử này và Mục Minh Châu có vấn đề gì với Mục Minh Châu hắn cũng không biết.",
+      "similarity": [
+        [
+          0,
+          0.96
+        ],
+        [
+          0,
+          0.95
+        ],
+        [
+          1,
+          0.96
+        ],
+        [
+          2,
+          0.96
+        ],
+        [
+          4,
+          0.95
+        ],
+        [
+          5,
+          0.96
+        ],
+        [
+          5,
+          0.96
+        ],
+        [
+          7,
+          0.97
+        ],
+        [
+          8,
+          0.96
+        ],
+        [
+          12,
+          0.99
+        ],
+        [
+          13,
+          0.96
+        ],
+        [
+          15,
+          0.95
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          20,
+          0.97
+        ],
+        [
+          21,
+          0.95
+        ],
+        [
+          24,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đợi tiểu tử này sau khi trở về, chúng ta sẽ giúp hắn giải quyết cái phiền toái này cũng không muộn đấy.\"",
+      "dich": "Đợi sau khi tiểu tử này trở về, chúng ta sẽ giải quyết hắn cũng không muộn.",
+      "suggest": "Đợi sau khi tiểu tử này trở về, chúng ta sẽ giúp hắn giải quyết phiền toái này cũng không muộn.\"",
+      "similarity": [
+        [
+          1,
+          0.96
+        ],
+        [
+          2,
+          0.96
+        ],
+        [
+          5,
+          0.95
+        ],
+        [
+          5,
+          0.96
+        ],
+        [
+          7,
+          0.96
+        ],
+        [
+          8,
+          0.96
+        ],
+        [
+          12,
+          0.96
+        ],
+        [
+          13,
+          0.98
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          20,
+          0.95
+        ],
+        [
+          21,
+          0.96
+        ],
+        [
+          24,
+          0.97
+        ],
+        [
+          27,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Họ Ngô đại hán một buông tay nói.",
+      "dich": "Đại hán họ Ngô đưa ra ý kiến kết luận.",
+      "suggest": "Đại hán họ Ngô buông tay ra nói.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Lời này lại để cho đối diện cánh tay hoàn thanh niên nghe xong, chỉ có thể chau mày không nói.",
+      "dich": "Lời này khiến nam thanh niên tay đeo Huyết Sáo đứng đối diện chau mày.",
+      "suggest": "Lời này khiến cho thanh niên đối diện nghe xong, chỉ có thể chau mày không nói.",
+      "similarity": [
+        [
+          0,
+          0.95
+        ],
+        [
+          0,
+          0.95
+        ],
+        [
+          1,
+          0.97
+        ],
+        [
+          2,
+          0.96
+        ],
+        [
+          4,
+          0.95
+        ],
+        [
+          5,
+          0.95
+        ],
+        [
+          5,
+          0.96
+        ],
+        [
+          7,
+          0.96
+        ],
+        [
+          8,
+          0.95
+        ],
+        [
+          9,
+          0.96
+        ],
+        [
+          12,
+          0.96
+        ],
+        [
+          13,
+          0.96
+        ],
+        [
+          15,
+          0.96
+        ],
+        [
+          16,
+          0.95
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          19,
+          0.96
+        ],
+        [
+          21,
+          0.96
+        ],
+        [
+          24,
+          0.96
+        ],
+        [
+          27,
+          0.96
+        ],
+        [
+          28,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Để cho chúng ta chỉ vì giáo huấn tiểu tử này, liền chủ động đi chỗ đó Vạn Cốt Quật hoàn toàn chính xác có chút không tốt lắm xử lý, bất quá nếu để cho vốn là liền tham gia trấn áp nhiệm vụ người thuận tiện xử lý việc này tình, cũng là không phải rất khó khăn đấy.\"",
+      "dich": "- Chỉ vì giáo huấn tiểu tử này mà chúng ta phải đi Vạn Cốt Quật quả thật không tốt lắm. Nhưng nếu để người tham gia nhiệm vụ trấn áp Vạn Cốt Quận thuận tiện xử lý giùm việc này cũng không phải khó khăn.",
+      "suggest": "\"Nếu chúng ta chỉ giáo huấn tiểu tử này một chút, thì việc hắn chủ động đi chỗ Vạn Cốt Quật chắc chắn sẽ có chút khó khăn, bất quá nếu để cho người tham gia trấn áp nhiệm vụ thuận tiện xử lý chuyện này cũng không phải chuyện gì quá khó.\"",
+      "similarity": [
+        [
+          0,
+          0.96
+        ],
+        [
+          1,
+          0.96
+        ],
+        [
+          2,
+          0.97
+        ],
+        [
+          5,
+          0.96
+        ],
+        [
+          5,
+          0.98
+        ],
+        [
+          7,
+          0.97
+        ],
+        [
+          8,
+          0.97
+        ],
+        [
+          12,
+          0.96
+        ],
+        [
+          13,
+          0.96
+        ],
+        [
+          16,
+          0.97
+        ],
+        [
+          16,
+          0.98
+        ],
+        [
+          20,
+          0.97
+        ],
+        [
+          21,
+          0.97
+        ],
+        [
+          24,
+          0.97
+        ],
+        [
+          27,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thạch Kiên lại mở miệng như vậy nói.",
+      "dich": "Thạch Kiên mở miệng nói.",
+      "suggest": "Thạch Kiên lại mở miệng nói.",
+      "similarity": [
+        [
+          0,
+          0.96
+        ],
+        [
+          17,
+          0.99
+        ],
+        [
+          23,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Thạch sư huynh có ý tứ là...\"",
+      "dich": "- Thạch sư huynh, ý huynh là..",
+      "suggest": "\"Thạch sư huynh có ý ...\"",
+      "similarity": [
+        [
+          18,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thanh niên nghe xong lời này, thần sắc khẽ động.",
+      "dich": "Nam thanh niên nghe vậy, thần sắc khẽ động.",
+      "suggest": "Thanh niên nghe xong lời này, sắc mặt khẽ động.",
+      "similarity": [
+        [
+          9,
+          0.96
+        ],
+        [
+          19,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ta nhận thức Âm Sát tông Tư Mã sư đệ, hắn giống như lúc này đây cũng rút trúng rồi Vạn Cốt Quật trấn áp nhiệm vụ.",
+      "dich": "- Ta có quen biết Tư Mã sư đệ của Âm Sát Sơn, lần này hắn cũng đi nhận nhiệm vụ trấn áp Vạn Cốt Quật.",
+      "suggest": "\"Ta nhận thức Tư Mã sư đệ, hình như lúc này hắn cũng đã rút được Vạn Cốt Quật trấn áp nhiệm vụ.",
+      "similarity": [
+        [
+          0,
+          0.96
+        ],
+        [
+          1,
+          0.96
+        ],
+        [
+          2,
+          0.96
+        ],
+        [
+          5,
+          0.97
+        ],
+        [
+          5,
+          0.97
+        ],
+        [
+          7,
+          0.97
+        ],
+        [
+          8,
+          0.95
+        ],
+        [
+          11,
+          0.96
+        ],
+        [
+          12,
+          0.96
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          20,
+          0.98
+        ],
+        [
+          22,
+          0.95
+        ],
+        [
+          33,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nếu là hắn chịu ra tay lời mà nói, đối phó chính là một cái mới nhập môn đệ tử, tự nhiên là chuyện dễ như trở bàn tay.",
+      "dich": "Nếu hắn chịu ra tay, đối phó với một tên đệ tử mới nhập môn là chuyện dễ như trở bàn tay.",
+      "suggest": "Nếu hắn chịu ra tay, đối phó với một đệ tử mới nhập môn, đương nhiên sẽ là chuyện dễ như trở bàn tay.",
+      "similarity": [
+        [
+          0,
+          0.95
+        ],
+        [
+          0,
+          0.95
+        ],
+        [
+          1,
+          0.96
+        ],
+        [
+          2,
+          0.96
+        ],
+        [
+          4,
+          0.96
+        ],
+        [
+          5,
+          0.95
+        ],
+        [
+          5,
+          0.96
+        ],
+        [
+          7,
+          0.96
+        ],
+        [
+          8,
+          0.97
+        ],
+        [
+          12,
+          0.96
+        ],
+        [
+          13,
+          0.96
+        ],
+        [
+          15,
+          0.95
+        ],
+        [
+          16,
+          0.95
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          20,
+          0.95
+        ],
+        [
+          21,
+          0.99
+        ],
+        [
+          24,
+          0.97
+        ],
+        [
+          27,
+          0.96
+        ],
+        [
+          28,
+          0.95
+        ],
+        [
+          33,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá Tư Mã sư đệ thế nhưng là Thái Âm trên tấm bia bài danh trước hai mươi đệ tử hạch tâm, lại để cho hắn ra tay, đại giới cũng không nhẹ đấy.\"",
+      "dich": "Nhưng Mã sư đệ ở bên tấm bia bài danh cũng xếp hạng trên hai mươi. Muốn hắn ra tay chỉ sợ phải trả một cái giá đắt.",
+      "suggest": "Tuy nhiên Tư Mã sư đệ, vị trí hạch tâm trong đám đệ tử đứng trước mặt Thái Âm, lại để cho hắn ra tay, uy hiếp cũng không nhẹ.\"",
+      "similarity": [
+        [
+          0,
+          0.97
+        ],
+        [
+          0,
+          0.96
+        ],
+        [
+          1,
+          0.95
+        ],
+        [
+          1,
+          0.96
+        ],
+        [
+          2,
+          0.96
+        ],
+        [
+          4,
+          0.96
+        ],
+        [
+          5,
+          0.96
+        ],
+        [
+          5,
+          0.97
+        ],
+        [
+          7,
+          0.97
+        ],
+        [
+          8,
+          0.97
+        ],
+        [
+          12,
+          0.97
+        ],
+        [
+          13,
+          0.95
+        ],
+        [
+          15,
+          0.96
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          20,
+          0.97
+        ],
+        [
+          21,
+          0.97
+        ],
+        [
+          22,
+          0.96
+        ],
+        [
+          24,
+          0.96
+        ],
+        [
+          27,
+          0.95
+        ],
+        [
+          33,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thạch Kiên chậm rãi nói ra.",
+      "dich": "Thạch Kiên chậm rãi nói.",
+      "suggest": "Thạch Kiên chậm rãi nói.",
+      "similarity": [
+        [
+          17,
+          0.95
+        ],
+        [
+          23,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Không có sao, cũng không phải thật muốn chém giết tiểu tử kia, chỉ cần hung hăng giáo huấn mấy lần, lại để cho hắn đáp ứng lui mất hôn ước là được rồi, cần bao nhiêu Linh Thạch lời mà nói, tất cả đều để ta làm ra là được.",
+      "dich": "- Không sao! Cũng không phải muốn chém giết tên tiểu tử kia. Chỉ cần giáo huấn vài lần là được, để cho hắn biết khó mà rút hôn ước này lại. Cần bao nhiêu linh thạch tất cả cứ nói với ta.",
+      "suggest": "\"Không sao, cũng không phải ta muốn chém giết tiểu tử kia, chỉ cần hung hăng giáo huấn mấy lần, để cho hắn đáp ứng chuyện hôn ước còn chưa chấm dứt, tất cả đều do ta tự làm ra.",
+      "similarity": [
+        [
+          1,
+          0.95
+        ],
+        [
+          2,
+          0.96
+        ],
+        [
+          5,
+          0.96
+        ],
+        [
+          7,
+          0.96
+        ],
+        [
+          8,
+          0.97
+        ],
+        [
+          12,
+          0.96
+        ],
+        [
+          13,
+          0.95
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          20,
+          0.95
+        ],
+        [
+          21,
+          0.96
+        ],
+        [
+          24,
+          0.97
+        ],
+        [
+          27,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Như vậy, Ngô sư huynh không có ý kiến gì rồi a.\"",
+      "dich": "Ngô sư huynh có ý kiến gì không!",
+      "suggest": "Như vậy Ngô sư huynh không có ý kiến gì chứ?\"",
+      "similarity": [
+        [
+          1,
+          0.95
+        ],
+        [
+          3,
+          0.96
+        ],
+        [
+          7,
+          0.95
+        ],
+        [
+          8,
+          0.95
+        ],
+        [
+          12,
+          0.95
+        ],
+        [
+          15,
+          0.95
+        ],
+        [
+          18,
+          0.95
+        ],
+        [
+          25,
+          0.96
+        ],
+        [
+          27,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cánh tay hoàn thanh niên nghe nói như thế, khẽ nở nụ cười.",
+      "dich": "Nam thanh tiên tay đeo Huyết Sáo nói.",
+      "suggest": "Thanh niên bên cánh tay nghe vậy, khẽ nở nụ cười.",
+      "similarity": [
+        [
+          4,
+          0.95
+        ],
+        [
+          9,
+          0.95
+        ],
+        [
+          19,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Nếu như tân sư đệ nói như thế rồi, cái kia dĩ nhiên là không thành vấn đề.\"",
+      "dich": "- Tân sư đệ đã nói như thế thì điều này hoàn toàn không có vấn đề gì.",
+      "suggest": "\"Nếu Tân sư đệ đã nói như vậy, vậy đương nhiên là không thành vấn đề rồi.\"",
+      "similarity": [
+        [
+          1,
+          0.95
+        ],
+        [
+          2,
+          0.96
+        ],
+        [
+          5,
+          0.95
+        ],
+        [
+          7,
+          0.95
+        ],
+        [
+          8,
+          0.95
+        ],
+        [
+          12,
+          0.95
+        ],
+        [
+          16,
+          0.95
+        ],
+        [
+          24,
+          0.95
+        ],
+        [
+          27,
+          0.97
+        ],
+        [
+          35,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Áo quần cứng cáp đại hán ánh mắt chớp lên vài cái về sau, nhẹ gật đầu.",
+      "dich": "Đại hán áo thô chớp mắt vài cái, gầu đầu đồng ý.",
+      "suggest": "Ánh mắt đại hán cứng rắn chớp lóe mấy cái, sau đó nhẹ gật đầu.",
+      "similarity": [
+        [
+          0,
+          0.95
+        ],
+        [
+          4,
+          0.96
+        ],
+        [
+          7,
+          0.96
+        ],
+        [
+          21,
+          0.96
+        ],
+        [
+          28,
+          0.97
+        ],
+        [
+          32,
+          0.96
+        ],
+        [
+          37,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Tốt, Thạch sư huynh, hai ngày này ngươi rút sạch liên lạc một chút Tư Mã sư huynh a.\"",
+      "dich": "- Tốt! Thạch sư huynh, hai ngày tới sư huynh gấp rút liên hệ với Tư Mã sư huynh.",
+      "suggest": "\"Được, Thạch sư huynh, hai ngày này ngươi rút hết liên lạc với Tư Mã sư huynh đi.\"",
+      "similarity": [
+        [
+          2,
+          0.95
+        ],
+        [
+          4,
+          0.95
+        ],
+        [
+          7,
+          0.96
+        ],
+        [
+          8,
+          0.96
+        ],
+        [
+          12,
+          0.96
+        ],
+        [
+          13,
+          0.95
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          18,
+          0.95
+        ],
+        [
+          20,
+          0.96
+        ],
+        [
+          21,
+          0.95
+        ],
+        [
+          24,
+          0.96
+        ],
+        [
+          29,
+          0.96
+        ],
+        [
+          33,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thanh niên không do dự nữa nói.",
+      "dich": "Thanh niên không hề do dự nói.",
+      "suggest": "Thanh niên không do dự nói.",
+      "similarity": [
+        [
+          9,
+          0.97
+        ],
+        [
+          15,
+          0.95
+        ],
+        [
+          19,
+          0.96
+        ],
+        [
+          26,
+          0.95
+        ],
+        [
+          30,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thạch Kiên tự nhiên một tiếng đáp ứng xuống.",
+      "dich": "Thạch Kiên gật đầu đáp ứng.",
+      "suggest": "Thạch Kiên đương nhiên đáp ứng.",
+      "similarity": [
+        [
+          31,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Vì vậy mấy người lại thương lượng một chút chi tiết vấn đề, liền riêng phần mình đã đi ra lầu các.",
+      "dich": "Tiếp đó mấy người thương lượng tỉ mỉ chi tiết một chút rồi rời khỏi lầu các.",
+      "suggest": "Vì vậy mấy người lại thương lượng một chút vấn đề, sau đó lập tức rời khỏi lầu các.",
+      "similarity": [
+        [
+          4,
+          0.95
+        ],
+        [
+          5,
+          0.95
+        ],
+        [
+          5,
+          0.96
+        ],
+        [
+          7,
+          0.96
+        ],
+        [
+          8,
+          0.96
+        ],
+        [
+          12,
+          0.95
+        ],
+        [
+          13,
+          0.96
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          20,
+          0.95
+        ],
+        [
+          21,
+          0.97
+        ],
+        [
+          24,
+          0.97
+        ],
+        [
+          27,
+          0.96
+        ],
+        [
+          28,
+          0.95
+        ],
+        [
+          32,
+          0.97
+        ],
+        [
+          33,
+          0.96
+        ],
+        [
+          35,
+          0.96
+        ],
+        [
+          36,
+          0.95
+        ],
+        [
+          37,
+          0.96
+        ],
+        [
+          38,
+          0.95
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          43,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ba ngày sau, Man Quỷ Tông sơn môn bên ngoài một tòa cực lớn cổng chào phụ cận chỗ, bắt đầu lần lượt xuất hiện một ít Man Quỷ Tông nội môn đệ tử.",
+      "dich": "Ba ngày sau, gần một tòa lâu bên ngoài sơn môn Man Quỷ Tông lục đục xuất hiện một ít đệ tử nội môn Man Quỷ Tông.",
+      "suggest": "Ba ngày sau, bên ngoài sơn môn Man Quỷ Tông, một cánh cổng chào cực lớn được mở ra, bắt đầu xuất hiện một vài đệ tử nội môn Man Quỷ Tông.",
+      "similarity": [
+        [
+          4,
+          0.95
+        ],
+        [
+          5,
+          0.96
+        ],
+        [
+          5,
+          0.96
+        ],
+        [
+          7,
+          0.96
+        ],
+        [
+          8,
+          0.95
+        ],
+        [
+          12,
+          0.96
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          16,
+          0.95
+        ],
+        [
+          20,
+          0.97
+        ],
+        [
+          21,
+          0.96
+        ],
+        [
+          33,
+          0.99
+        ],
+        [
+          37,
+          0.96
+        ],
+        [
+          42,
+          0.97
+        ],
+        [
+          43,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Phần lớn là ba chừng bốn mươi tuổi, liền hơn hai mươi tuổi đệ tử đều không có mấy người.",
+      "dich": "Những đệ tử này phần lớn đều trên dưới ba mươi tuổi. Những người hơn hai mươi tuổi cũng không có mấy người.",
+      "suggest": "Phần lớn là khoảng ba bốn mươi tuổi, đến hơn hai mươi đệ tử đều không có mấy người.",
+      "similarity": [
+        [
+          34,
+          0.97
+        ],
+        [
+          34,
+          0.96
+        ],
+        [
+          37,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Những người này nguyên một đám thần sắc âm trầm, tất cả đều tâm sự nặng nề bộ dáng.",
+      "dich": "Những người này thần sắc âm trầm, tất cả đều mang theo bộ dáng như có tâm sự vậy.",
+      "suggest": "Thần sắc những người này nguyên một đám âm trầm, tất cả đều mang theo dáng vẻ trầm tư.",
+      "similarity": [
+        [
+          7,
+          0.95
+        ],
+        [
+          35,
+          0.98
+        ],
+        [
+          37,
+          0.95
+        ],
+        [
+          38,
+          0.96
+        ],
+        [
+          43,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá cũng có mấy người đàm tiếu như trước, và những người khác thần sắc khác nhau rất lớn bộ dáng.",
+      "dich": "Nhưng vẫn có người đám tiếu rôm rả so với những người kia thì hoàn toàn cách biệt.",
+      "suggest": "Tuy nhiên cũng có vài người lại đàm tiếu như trước, và những người khác sắc mặt khác nhau rất lớn.",
+      "similarity": [
+        [
+          7,
+          0.96
+        ],
+        [
+          8,
+          0.96
+        ],
+        [
+          10,
+          0.96
+        ],
+        [
+          12,
+          0.95
+        ],
+        [
+          13,
+          0.96
+        ],
+        [
+          15,
+          0.95
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          21,
+          0.96
+        ],
+        [
+          24,
+          0.96
+        ],
+        [
+          27,
+          0.95
+        ],
+        [
+          32,
+          0.96
+        ],
+        [
+          34,
+          0.96
+        ],
+        [
+          35,
+          0.95
+        ],
+        [
+          36,
+          0.98
+        ],
+        [
+          37,
+          0.95
+        ],
+        [
+          42,
+          0.95
+        ],
+        [
+          43,
+          0.95
+        ],
+        [
+          45,
+          0.96
+        ],
+        [
+          46,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lại chờ một lát về sau, cổng chào hạ đã tụ tập hơn ba mươi tên nam nữ đệ tử, mới có một gã thướt tha thân ảnh từ đằng xa như chậm thực nhanh đến đã đi tới.",
+      "dich": "Lại chờ một lúc nữa, hơn ba mươi nam nữ đệ tử tụ tập lại mới có một thân ảnh thướt tha từ đằng xa bay tới.",
+      "suggest": "Đợi thêm một lát, sau khi trước cửa đã tập trung hơn ba mươi tên nam nữ đệ tử, lúc này mới có một bóng người thướt tha chậm rãi đi tới.",
+      "similarity": [
+        [
+          7,
+          0.95
+        ],
+        [
+          8,
+          0.95
+        ],
+        [
+          12,
+          0.95
+        ],
+        [
+          13,
+          0.95
+        ],
+        [
+          16,
+          0.95
+        ],
+        [
+          16,
+          0.95
+        ],
+        [
+          21,
+          0.96
+        ],
+        [
+          24,
+          0.96
+        ],
+        [
+          27,
+          0.95
+        ],
+        [
+          33,
+          0.96
+        ],
+        [
+          35,
+          0.96
+        ],
+        [
+          37,
+          0.99
+        ],
+        [
+          38,
+          0.96
+        ],
+        [
+          42,
+          0.97
+        ],
+        [
+          43,
+          0.95
+        ],
+        [
+          46,
+          0.97
+        ],
+        [
+          48,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đúng là một gã mặt như Đào Hoa tướng mạo đẹp nữ tử, hai mươi bảy hai mươi tám tuổi bộ dạng, một thân màu tím áo dài, thần sắc trong trẻo nhưng lạnh lùng.",
+      "dich": "Là một nữ tử tướng mạo đẹp như hoa, bộ dáng chừng hai bảy hai tám tuổi, một thân áo dài tím, thần sắc trong trẻo lạnh lùng.",
+      "suggest": "Đúng là một nữ tử xinh đẹp như Đào Hoa, tướng mạo xinh đẹp hai mươi bảy hai mươi tám tuổi, mặc một bộ áo dài màu tím, thần sắc lạnh lùng nhưng lạnh lùng.",
+      "similarity": [
+        [
+          37,
+          0.95
+        ],
+        [
+          38,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"A, dĩ nhiên là Quỷ Vũ núi Lâm sư bá!\"",
+      "dich": "- Ah! Dĩ nhiên là Lâm sư bá của Ảnh Vũ Sơn.",
+      "suggest": "\"A, đương nhiên là Lâm sư bá của Quỷ Vũ!\"",
+      "similarity": [
+        [
+          39,
+          0.96
+        ],
+        [
+          43,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bái kiến Lâm sư thúc \"",
+      "dich": "- Bái kiến Lâm sư thúc.",
+      "suggest": "\"Bái kiến Lâm sư thúc!\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Tham kiến Lâm sư bá \"",
+      "dich": "- Tham kiến Lâm sư bá.",
+      "suggest": "\"Tham kiến Lâm sư bá\"",
+      "similarity": [
+        [
+          41,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Những thứ này Man Quỷ Tông đệ tử, vừa nhìn rõ ràng tử sam nữ tử dung mạo về sau, hơn phân nửa đều ngược lại hít một hơi khí lạnh, nhao nhao sợ hãi tiến lên bái kiến.",
+      "dich": "Những đệ tử Man Quỷ Tông này nhìn rõ dung mạo nữ tử, hơn phân nửa đều chầm trồ, nhao nhao sợ hãi tiến lên bái kiến.",
+      "suggest": "Những đệ tử Man Quỷ Tông này, sau khi vừa nhìn thấy dung mạo nữ tử tử sam, hơn phân nửa đều hít vào một hơi lạnh, vội vàng tiến lên bái kiến.",
+      "similarity": [
+        [
+          12,
+          0.96
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          16,
+          0.95
+        ],
+        [
+          20,
+          0.96
+        ],
+        [
+          21,
+          0.96
+        ],
+        [
+          33,
+          0.97
+        ],
+        [
+          35,
+          0.96
+        ],
+        [
+          37,
+          0.97
+        ],
+        [
+          38,
+          0.96
+        ],
+        [
+          42,
+          0.98
+        ],
+        [
+          43,
+          0.96
+        ],
+        [
+          46,
+          0.96
+        ],
+        [
+          48,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cô gái này thình lình đúng là Quỷ vật nhất mạch đích đương đại sơn chủ, nghe nói cũng là Man Quỷ Tông không nhiều lắm tu luyện tới Linh Sư trung kỳ cường đại Linh Sư.",
+      "dich": "Người này chính là sơn chủ của Ảnh Vũ nhất mạch, nghe nói trong Man Quỷ Tông nàng cũng là một số ít có thể tu luyện tới Linh Sư trung kỳ.",
+      "suggest": "Cô gái này đúng là sơn chủ chi Quỷ Vật, nghe nói cũng là một trong những Linh Sư mạnh mẽ nhất Man Quỷ Tông, nghe nói cũng là một trong những Linh Sư trung kỳ mà Huyền môn phái hắn tu luyện tới cảnh giới Linh Sư trung kỳ.",
+      "similarity": [
+        [
+          16,
+          0.95
+        ],
+        [
+          20,
+          0.96
+        ],
+        [
+          33,
+          0.96
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          43,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ân, đứng dậy a.",
+      "dich": "- Được rồi đứng dậy đi!",
+      "suggest": "\"Ừm, đứng dậy đi.",
+      "similarity": [
+        [
+          44,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thời gian cũng không còn nhiều lắm rồi, mọi người đến đông đủ không có.\"",
+      "dich": "Thời gian không còn nhiều lắm, mọi người đã đến đông đủ chưa.",
+      "suggest": "Thời gian cũng không còn nhiều lắm, mọi người đến đông đủ rồi.\"",
+      "similarity": [
+        [
+          45,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Họ Lâm nữ tử khoát tay chặn lại, lại để cho chúng đệ tử đứng dậy, ánh mắt lại tả hữu quét qua về sau, lông mày kẻ đen nhíu một cái mà hỏi.",
+      "dich": "Nữ tử họ Lâm khoát tay nói, lại để cho chúng đệ tử đứng dậy, ánh mắt nhìn quét qua một lượt, lông mày khẽ nhíu nói.",
+      "suggest": "Nữ tử họ Lâm khoát tay chặn lại, để cho chúng đệ tử đứng dậy, ánh mắt lại nhìn về phía chúng đệ tử, lông mày kẻ đen nhíu chặt lại.",
+      "similarity": [
+        [
+          21,
+          0.96
+        ],
+        [
+          24,
+          0.95
+        ],
+        [
+          33,
+          0.96
+        ],
+        [
+          35,
+          0.95
+        ],
+        [
+          37,
+          0.97
+        ],
+        [
+          38,
+          0.96
+        ],
+        [
+          42,
+          0.97
+        ],
+        [
+          46,
+          0.98
+        ],
+        [
+          48,
+          0.95
+        ],
+        [
+          54,
+          0.95
+        ],
+        [
+          55,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bẩm báo Lâm sư thúc, còn giống như kém hai người.\"",
+      "dich": "- Hồi bẩm Lâm sư thúc, còn thiếu hai người.",
+      "suggest": "\"Bẩm báo Lâm sư thúc, hình như còn kém hai người.\"",
+      "similarity": [
+        [
+          20,
+          0.95
+        ],
+        [
+          24,
+          0.95
+        ],
+        [
+          27,
+          0.95
+        ],
+        [
+          28,
+          0.95
+        ],
+        [
+          38,
+          0.95
+        ],
+        [
+          43,
+          0.95
+        ],
+        [
+          46,
+          0.95
+        ],
+        [
+          47,
+          0.96
+        ],
+        [
+          54,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một gã hơn ba mươi tuổi, nhìn như thập phần ổn trọng đệ tử, vội vàng trước khi đi vài bước trả lời.",
+      "dich": "Một nam tử ba mươi tuổi, bộ dáng ổn trọng vội vàng bước ra phía trước trả lời.",
+      "suggest": "Một gã đệ tử chạc ba mươi tuổi, nhìn cực kỳ ổn trọng, vội vàng trả lời.",
+      "similarity": [
+        [
+          48,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Vậy đợi lát nữa đợi a.",
+      "dich": "- Vậy thì chờ một chút.",
+      "suggest": "\"Hôm nay đợi lát nữa a.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Nếu là nửa khắc đồng hồ còn không đến lời mà nói, liền câu dẫn hai người này danh ngạch!\"",
+      "dich": "Nếu nửa khắc sau vẫn không tới thì loại bỏ hai người này khỏi danh sách!",
+      "suggest": "Nếu nửa khắc đồng hồ mà không tới, vậy thì lập tức dẫn theo hai người này đi!\"",
+      "similarity": [
+        [
+          21,
+          0.96
+        ],
+        [
+          24,
+          0.97
+        ],
+        [
+          37,
+          0.95
+        ],
+        [
+          46,
+          0.95
+        ],
+        [
+          50,
+          0.97
+        ],
+        [
+          54,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Họ Lâm nữ tử không chút lựa chọn nói ra.",
+      "dich": "Nữ tử họ Lâm không do dự nói.",
+      "suggest": "Nữ tử họ Lâm không chút lựa chọn nói.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Người này nam tính đệ tử, tự nhiên cung kính đáp ứng một tiếng.",
+      "dich": "Nam đệ tử này cung kính đáp ứng.",
+      "suggest": "Nam đệ tử này đương nhiên cung kính đáp ứng một tiếng.",
+      "similarity": [
+        [
+          52,
+          0.97
+        ],
+        [
+          61,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Vì vậy mọi người tiếp tục tại chỗ này chờ đợi đứng lên.",
+      "dich": "Mọi người tiếp tục chờ đợi.",
+      "suggest": "Vì vậy mọi người tiếp tục đứng tại chỗ này chờ đợi.",
+      "similarity": [
+        [
+          53,
+          0.97
+        ],
+        [
+          56,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá bởi vì có họ Lâm nữ tử tại nguyên nhân, ai cũng không dám nói cái gì nữa lời nói, lại không dám tùy ý đi đi lại lại cái gì, tất cả đều bà ngoại thực cái chết đứng ở chỗ cũ khoanh tay mà đứng lấy.",
+      "dich": "Nhưng bởi vì có sư xuất hiện của nữ tử họ Lâm ở đây là không ai dám nói câu gì, lại không dám tùy tiện đi đi lại lại. Tất cả đều ngoan ngoãn đứng một chỗ.",
+      "suggest": "Tuy nhiên vì có nữ tử họ Lâm ở đây, mọi người cũng không dám nói gì nữa, lại không dám tùy tiện đi lại lại, tất cả đều đứng khoanh tay đứng nhìn.",
+      "similarity": [
+        [
+          24,
+          0.97
+        ],
+        [
+          27,
+          0.96
+        ],
+        [
+          32,
+          0.95
+        ],
+        [
+          34,
+          0.95
+        ],
+        [
+          35,
+          0.97
+        ],
+        [
+          36,
+          0.96
+        ],
+        [
+          37,
+          0.97
+        ],
+        [
+          38,
+          0.96
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          43,
+          0.96
+        ],
+        [
+          46,
+          0.97
+        ],
+        [
+          50,
+          0.95
+        ],
+        [
+          54,
+          0.98
+        ],
+        [
+          55,
+          0.96
+        ],
+        [
+          56,
+          0.97
+        ],
+        [
+          57,
+          0.96
+        ],
+        [
+          61,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Kết quả lại sau một lúc lâu về sau, từ tông môn bên kia có hai đóa tro vân hiển hiện mà ra, cũng từ khác nhau phương hướng hướng cổng chào chỗ bay thật nhanh đến.",
+      "dich": "Một lát sau, từ trong tông môn bay ra hai đám mây, cũng từ hai phương hướng khác nhau bay đến điểm tập kết.",
+      "suggest": "Kết quả là một lúc lâu sau, hai đám mây màu xám tro từ bên kia tông môn xuất hiện, cũng từ hai hướng khác nhau bay thật nhanh về phía cổng chào.",
+      "similarity": [
+        [
+          24,
+          0.95
+        ],
+        [
+          33,
+          0.96
+        ],
+        [
+          35,
+          0.96
+        ],
+        [
+          37,
+          0.97
+        ],
+        [
+          38,
+          0.95
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          46,
+          0.96
+        ],
+        [
+          48,
+          0.95
+        ],
+        [
+          54,
+          0.95
+        ],
+        [
+          55,
+          0.98
+        ],
+        [
+          57,
+          0.95
+        ],
+        [
+          61,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Những người khác thấy vậy, cũng nhịn không được vừa nhìn mà đi.",
+      "dich": "Những người khác thấy vậy cũng không nhịn được nhìn lại.",
+      "suggest": "Những người khác thấy vậy, cũng không nhịn được mà liếc mắt nhìn sang.",
+      "similarity": [
+        [
+          24,
+          0.95
+        ],
+        [
+          34,
+          0.95
+        ],
+        [
+          35,
+          0.95
+        ],
+        [
+          36,
+          0.95
+        ],
+        [
+          46,
+          0.96
+        ],
+        [
+          54,
+          0.96
+        ],
+        [
+          56,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hai đóa tro vân hầu như đồng thời đã rơi vào cổng chào phía dưới, tản ra về sau, riêng phần mình hiện ra một đạo nhân ảnh đến.",
+      "dich": "Hai đám mây cơ hồ cùng lúc hạ xuống điểm tập kết, hiện ra thân ảnh chủ nhân.",
+      "suggest": "Hai đám mây màu xám tro gần như cùng lúc hạ xuống phía dưới cổng chào, sau đó tản ra, riêng phần mình hiện ra một bóng người.",
+      "similarity": [
+        [
+          24,
+          0.95
+        ],
+        [
+          32,
+          0.95
+        ],
+        [
+          35,
+          0.96
+        ],
+        [
+          36,
+          0.95
+        ],
+        [
+          37,
+          0.97
+        ],
+        [
+          38,
+          0.96
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          46,
+          0.96
+        ],
+        [
+          48,
+          0.95
+        ],
+        [
+          54,
+          0.95
+        ],
+        [
+          55,
+          0.97
+        ],
+        [
+          57,
+          0.97
+        ],
+        [
+          61,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một người là hai mươi sáu hai mươi bảy tuổi âm trầm nam tử, một thân áo đen, hai cái tay áo bên trên riêng phần mình minh in một viên sắc đầu lâu.",
+      "dich": "Một người là nam tử chừng hai sáu hai bảy tuổi, mặc áo đen. Trên tay áo có minh ấn là một cái đầu lâu.",
+      "suggest": "Một nam tử trung niên chừng hai mươi sáu hai mươi bảy tuổi, mặc một bộ áo đen, hai tay áo phía trên thêu một viên Đầu Lâu màu đen.",
+      "similarity": [
+        [
+          37,
+          0.96
+        ],
+        [
+          38,
+          0.97
+        ],
+        [
+          42,
+          0.95
+        ],
+        [
+          46,
+          0.95
+        ],
+        [
+          48,
+          0.96
+        ],
+        [
+          55,
+          0.95
+        ],
+        [
+          58,
+          0.97
+        ],
+        [
+          59,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tên còn lại nhưng là nhìn như mười sáu mười bảy tuổi thiếu niên, một thân màu xanh lá nội môn đệ tử quần áo và trang sức, dáng người có chút cao lớn.",
+      "dich": "Người còn lại là một thiếu niên mười sáu mười bảy tuổi, cũng là đệ tử nội môn, dáng người có chút cao lớn.",
+      "suggest": "Tên còn lại nhìn chừng mười sáu mười bảy tuổi, mặc một bộ quần áo và trang sức của đệ tử nội môn màu xanh, dáng người có chút cao lớn.",
+      "similarity": [
+        [
+          33,
+          0.96
+        ],
+        [
+          34,
+          0.95
+        ],
+        [
+          35,
+          0.95
+        ],
+        [
+          37,
+          0.96
+        ],
+        [
+          38,
+          0.97
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          43,
+          0.95
+        ],
+        [
+          46,
+          0.96
+        ],
+        [
+          48,
+          0.96
+        ],
+        [
+          55,
+          0.96
+        ],
+        [
+          58,
+          0.96
+        ],
+        [
+          59,
+          0.98
+        ],
+        [
+          61,
+          0.95
+        ],
+        [
+          65,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bái kiến Lâm sư bá \"",
+      "dich": "- Bái kiến Lâm sư bá.",
+      "suggest": "\"Bái kiến Lâm sư bá!\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Âm trầm nam tử vừa nhìn rõ ràng họ Lâm nữ tử khuôn mặt về sau, tựa hồ cũng là cả kinh, vội vàng tiến lên chào.",
+      "dich": "Nam tử âm trầm nhìn rõ gương mặt của nữ tử họ Lâm cũng cả kinh, hắn nhanh chóng bước lên thi lễ.",
+      "suggest": "Nam tử âm trầm vừa nhìn khuôn mặt nữ tử họ Lâm, tựa hồ cũng kinh sợ, vội vàng tiến lên chào.",
+      "similarity": [
+        [
+          35,
+          0.95
+        ],
+        [
+          37,
+          0.96
+        ],
+        [
+          38,
+          0.96
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          46,
+          0.95
+        ],
+        [
+          48,
+          0.96
+        ],
+        [
+          61,
+          0.98
+        ],
+        [
+          65,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mà cái kia mười bảy mười tám tuổi thiếu niên, tức thì sau đó cũng yên lặng thi lễ.",
+      "dich": "Mà thiếu niên mười bảy mười tám tuổi kia cũng nhanh chóng thi lễ.",
+      "suggest": "Mà thiếu niên chừng mười bảy mười tám tuổi kia, sau đó cũng yên lặng thi lễ.",
+      "similarity": [
+        [
+          37,
+          0.96
+        ],
+        [
+          38,
+          0.96
+        ],
+        [
+          58,
+          0.95
+        ],
+        [
+          59,
+          0.96
+        ],
+        [
+          62,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Tư Mã sư điệt, tại sao là ngươi.",
+      "dich": "- Tư Mã sư điệt. Tại sao là ngươi.",
+      "suggest": "\"Tư Mã sư điệt, tại sao ngươi lại là ngươi?",
+      "similarity": [
+        [
+          54,
+          0.95
+        ],
+        [
+          64,
+          0.95
+        ],
+        [
+          70,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thi đấu cũng sắp muốn bắt đầu, ngươi không tại trong tông hảo hảo tu luyện, đi chỗ đó Vạn Cốt Quật làm cái gì?\"",
+      "dich": "Đại bỉ cũng sắp bắt đầu rồi, tại sao ngươi không ở trong tông hảo hảo tu luyện mà đi đến Vạn Cốt Quật làm gì?",
+      "suggest": "Thi đấu cũng sắp bắt đầu, ngươi không ở trong tông luyện tập cái gì, đi chỗ Vạn Cốt Quật đó làm cái gì?\"",
+      "similarity": [
+        [
+          64,
+          0.98
+        ],
+        [
+          66,
+          0.96
+        ],
+        [
+          68,
+          0.96
+        ],
+        [
+          69,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Họ Lâm nữ tử tựa hồ nhận thức âm trầm gương mặt nam tử, ánh mắt lóe lên hỏi một câu.",
+      "dich": "Nữ tử họ Lâm nhận thức nam tử âm trầm, ánh mắt lóe lên hỏi.",
+      "suggest": "Nữ tử họ Lâm dường như nhận ra vẻ âm trầm của nam tử, ánh mắt lóe lên hỏi một câu.",
+      "similarity": [
+        [
+          33,
+          0.96
+        ],
+        [
+          35,
+          0.96
+        ],
+        [
+          37,
+          0.96
+        ],
+        [
+          38,
+          0.96
+        ],
+        [
+          42,
+          0.97
+        ],
+        [
+          43,
+          0.96
+        ],
+        [
+          46,
+          0.97
+        ],
+        [
+          48,
+          0.95
+        ],
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.96
+        ],
+        [
+          57,
+          0.97
+        ],
+        [
+          61,
+          0.97
+        ],
+        [
+          65,
+          0.98
+        ],
+        [
+          72,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Lâm sư thúc, ngươi cũng rõ ràng. Ta tu luyện tuy rằng không phải thuần túy giết chóc chi đạo, nhưng mà nếu muốn gia tăng thực lực lời mà nói, tự nhiên chỉ có tại chém giết trong mới có thể tăng trưởng nhanh nhất đấy.\"",
+      "dich": "- Lâm sư thúc, người cũng biết, đệ tử tu luyện tuy không phải là Sát Lục Chi Đạo thuần túy nhưng muốn gia tăng thực lực tự nhiên cần phải từ trong chém giết mới có thể tăng trưởng nhanh nhất.",
+      "suggest": "\"Lâm sư thúc, ngươi cũng rõ rồi. Ta tu luyện mặc dù không phải chỉ thuần túy chém giết, nhưng nếu muốn gia tăng thực lực, đương nhiên chỉ có chém giết mới có thể tăng trưởng nhanh nhất.\"",
+      "similarity": [
+        [
+          35,
+          0.95
+        ],
+        [
+          42,
+          0.95
+        ],
+        [
+          43,
+          0.96
+        ],
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.95
+        ],
+        [
+          64,
+          0.96
+        ],
+        [
+          66,
+          0.98
+        ],
+        [
+          69,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Âm trầm nam tử bình tĩnh trả lời.",
+      "dich": "Nam tử âm trầm bình tĩnh trả lời.",
+      "suggest": "Nam tử bình tĩnh trả lời.",
+      "similarity": [
+        [
+          67,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Nghe nói ngươi lần trước một người xâm nhập qua Vạn Cốt Quật tầng thứ tư rồi, lúc này đây sẽ không còn muốn đi đệ này tầng a.",
+      "dich": "- Nghe nói lần trước ngươi một mình xâm nhập tầng thứ tư Vạn Cốt Quật. Bây giờ lại muốn đi lên đó sao.",
+      "suggest": "\"Nghe nói ngươi lần trước đã xâm nhập tầng thứ tư Vạn Cốt Quật rồi, lúc này chắc không còn muốn đi tiếp tầng thứ tư nữa rồi.",
+      "similarity": [
+        [
+          33,
+          0.95
+        ],
+        [
+          35,
+          0.95
+        ],
+        [
+          37,
+          0.96
+        ],
+        [
+          38,
+          0.95
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          43,
+          0.96
+        ],
+        [
+          54,
+          0.95
+        ],
+        [
+          55,
+          0.95
+        ],
+        [
+          64,
+          0.98
+        ],
+        [
+          66,
+          0.96
+        ],
+        [
+          68,
+          0.98
+        ],
+        [
+          69,
+          0.96
+        ],
+        [
+          74,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nếu là như vậy lời mà nói, ngươi cũng không nhất định có lần trước vận khí, còn có thể toàn thân trở ra đấy.",
+      "dich": "Nếu như thế ngươi cũng nên xác định có thể không còn vận may như trước toàn thân mà trở ra nữa.",
+      "suggest": "Nếu như vậy, ngươi cũng không nhất định có vận khí lần trước, còn có thể toàn thân trở lại.",
+      "similarity": [
+        [
+          35,
+          0.96
+        ],
+        [
+          42,
+          0.95
+        ],
+        [
+          43,
+          0.96
+        ],
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.95
+        ],
+        [
+          56,
+          0.95
+        ],
+        [
+          64,
+          0.96
+        ],
+        [
+          66,
+          0.96
+        ],
+        [
+          68,
+          0.95
+        ],
+        [
+          69,
+          0.98
+        ],
+        [
+          72,
+          0.95
+        ],
+        [
+          74,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Sở sư huynh chẳng lẽ không cùng ngươi đã nói cùng loại lời mà nói sao?\"",
+      "dich": "Sở sư huynh chẳng lẽ không có nhắc nhở ngươi sao?",
+      "suggest": "Sở sư huynh chẳng lẽ không nói cho ngươi biết những lời như vậy sao?\"",
+      "similarity": [
+        [
+          70,
+          0.97
+        ],
+        [
+          74,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Họ Lâm nữ tử nhàn nhạt lại hỏi.",
+      "dich": "Nữ tử họ Lâm lạnh nhạt nói.",
+      "suggest": "Nữ tử họ Lâm thản nhiên hỏi.",
+      "similarity": [
+        [
+          65,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Sư điệt lúc này đây đối với đệ tử hạch tâm mười thứ hạng đầu tên nguyện nhất định phải có, mong rằng sư thúc không nên ngăn trở.\"",
+      "dich": "- Lúc này, sư điệt đối với danh ngạch top mười đệ tử hạch tâm nhất định phải có. Mong rằng sư thúc không có ngăn cản.",
+      "suggest": "\"Sư điệt, lúc này tên của mười thứ hạng đầu đệ tử hạch tâm nhất định phải có, mong sư thúc không ngăn trở.\"",
+      "similarity": [
+        [
+          37,
+          0.95
+        ],
+        [
+          38,
+          0.96
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          43,
+          0.96
+        ],
+        [
+          46,
+          0.96
+        ],
+        [
+          50,
+          0.95
+        ],
+        [
+          54,
+          0.96
+        ],
+        [
+          61,
+          0.96
+        ],
+        [
+          64,
+          0.97
+        ],
+        [
+          65,
+          0.95
+        ],
+        [
+          66,
+          0.96
+        ],
+        [
+          68,
+          0.96
+        ],
+        [
+          69,
+          0.95
+        ],
+        [
+          72,
+          0.98
+        ],
+        [
+          74,
+          0.97
+        ],
+        [
+          76,
+          0.96
+        ],
+        [
+          77,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Âm trầm nam tử hả ra một phát đầu, không lưỡng lự trả lời.",
+      "dich": "Nam tử âm trầm ôm quyền không lưỡng lự nói.",
+      "suggest": "Nam tử trầm mặc cả người, không lưỡng lự trả lời.",
+      "similarity": [
+        [
+          38,
+          0.95
+        ],
+        [
+          46,
+          0.95
+        ],
+        [
+          61,
+          0.96
+        ],
+        [
+          65,
+          0.96
+        ],
+        [
+          73,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Được rồi, ngươi đã liền Sở sư huynh lời mà nói cũng không muốn nghe, ta đây cái ngoại nhân lại càng không liền xen vào việc của người khác rồi, ngươi muốn đảm nhiệm hay không đảm nhiệm chức vụ đi thôi!",
+      "dich": "- Được rồi, ngay cả lời Sở sư huynh là ngươi cũng không nghe thì ta là ngoại nhân càng không muốn xen vào chuyện của người khác. Ngươi muốn đi thì cứ đi.",
+      "suggest": "\"Được rồi, ngươi đã không muốn nghe lời của Sở sư huynh thì đừng mong nghe, ta là ngoại nhân không thể xen vào việc của người khác, ngươi có thể đảm nhiệm chức vụ nào tùy ngươi!",
+      "similarity": [
+        [
+          42,
+          0.95
+        ],
+        [
+          43,
+          0.95
+        ],
+        [
+          46,
+          0.95
+        ],
+        [
+          54,
+          0.97
+        ],
+        [
+          55,
+          0.95
+        ],
+        [
+          64,
+          0.96
+        ],
+        [
+          66,
+          0.96
+        ],
+        [
+          69,
+          0.96
+        ],
+        [
+          70,
+          0.95
+        ],
+        [
+          74,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Về phần ngươi..., giống như có chút quen mặt, ngươi là cái đó nhất mạch đệ tử, tên gọi là gì?",
+      "dich": "Về phần ngươi... ta thấy ngươi rất quen mặt. Ngươi là đệ tử mạch nào, tên là gì?",
+      "suggest": "Về phần ngươi ... hình như có chút quen mặt, ngươi là đệ tử chi nào, tên là gì?",
+      "similarity": [
+        [
+          70,
+          0.95
+        ],
+        [
+          74,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Họ Lâm nữ tử khẽ chau mày về sau, lại nhìn bên kia thiếu niên liếc, trên mặt có một tia nghi hoặc hiện lên.",
+      "dich": "Nữ tử họ Lâm khẽ cau mày thì thiếu niên mới đến, trên mặt có một tia nghi hoặc.",
+      "suggest": "Nữ tử họ Lâm khẽ cau mày, sau đó lại nhìn sang thiếu niên bên kia, trên mặt lộ rõ vẻ nghi hoặc.",
+      "similarity": [
+        [
+          42,
+          0.96
+        ],
+        [
+          43,
+          0.96
+        ],
+        [
+          46,
+          0.97
+        ],
+        [
+          50,
+          0.95
+        ],
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.96
+        ],
+        [
+          56,
+          0.95
+        ],
+        [
+          57,
+          0.96
+        ],
+        [
+          61,
+          0.97
+        ],
+        [
+          65,
+          0.97
+        ],
+        [
+          69,
+          0.95
+        ],
+        [
+          74,
+          0.95
+        ],
+        [
+          76,
+          0.98
+        ],
+        [
+          81,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Vãn bối Cửu Anh môn hạ Bạch Thông Thiên, bái kiến Lâm sư thúc!\"",
+      "dich": "- Đệ tử là môn hạ của Cửu Anh Sơn, tên Bạch Thông Thiên, bái kiến Lâm sư thúc!",
+      "suggest": "\"Vãn bối chi Cửu Anh, môn hạ Bạch Thông Thiên, bái kiến Lâm sư thúc!\"",
+      "similarity": [
+        [
+          77,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thiếu niên khom người nói ra, đúng là Liễu Minh.",
+      "dich": "Thiếu niên khom người nói chính là Liễu Minh.",
+      "suggest": "Thiếu niên khom người nói, đúng là Liễu Minh.",
+      "similarity": [
+        [
+          43,
+          0.95
+        ],
+        [
+          51,
+          0.95
+        ],
+        [
+          65,
+          0.95
+        ],
+        [
+          73,
+          0.96
+        ],
+        [
+          78,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bạch Thông Thiên, Cửu Anh?",
+      "dich": "- Bạch Thông Thiên, Cửu Anh?",
+      "suggest": "\"Bạch Thông Thiên, Cửu Anh?",
+      "similarity": [
+        [
+          79,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nguyên lai là ngươi tên tiểu tử này!\"",
+      "dich": "Thì ra là tiểu gia hỏa ngươi!",
+      "suggest": "Nguyên lai là tên tiểu tử này!\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Họ Lâm nữ tử nghe vậy đã có một tia giật mình rồi, cũng nhớ tới trước đó lần thứ nhất Khai Linh đại điển lên, chính mình thiếu chút nữa đem một gã ba Linh Mạch thiếu niên thu làm môn hạ sự tình đến.",
+      "dich": "Nữ tử họ Lâm nghe vậy thì giật mình, cũng nhớ đến lần đại điển trước chính mình thiếu chút nữa đã thu người này trở thành môn hạ.",
+      "suggest": "Nữ tử họ Lâm nghe vậy hơi giật mình, cũng nhớ lại đại điển Khai Linh lần đầu tiên, chính mình thiếu chút nữa đã thu một thiếu niên ba Linh Mạch làm môn hạ.",
+      "similarity": [
+        [
+          46,
+          0.96
+        ],
+        [
+          61,
+          0.96
+        ],
+        [
+          64,
+          0.96
+        ],
+        [
+          66,
+          0.95
+        ],
+        [
+          68,
+          0.96
+        ],
+        [
+          72,
+          0.95
+        ],
+        [
+          74,
+          0.96
+        ],
+        [
+          76,
+          0.95
+        ],
+        [
+          77,
+          0.95
+        ],
+        [
+          81,
+          0.98
+        ],
+        [
+          85,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Lâm sư bá, vậy mà nhận ra vãn bối!\"",
+      "dich": "- Lâm sư bá nhận ra đệ tử!",
+      "suggest": "\"Lâm sư bá, sao sư bá lại nhận ra vãn bối!\"",
+      "similarity": [
+        [
+          77,
+          0.95
+        ],
+        [
+          82,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh ngược lại là nao nao rồi.",
+      "dich": "Liễu Minh thấy vậy nao nao.",
+      "suggest": "Liễu Minh trái lại hơi nao nao.",
+      "similarity": [
+        [
+          83,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ta tự nhiên nhận ra.",
+      "dich": "- Ta tự nhiên nhận ra!",
+      "suggest": "\"Ta đương nhiên nhận ra.",
+      "similarity": [
+        [
+          84,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá ngươi chính là một cái mới nhập môn đệ tử liền dám đi Vạn Cốt Quật, lá gan không nhỏ a.",
+      "dich": "Nhưng ngươi là đệ tử mới nhập môn mà cũng dám đi Vạn Cốt Quật, lá gan cũng không nhỏ.",
+      "suggest": "Tuy nhiên ngươi chính là đệ tử mới nhập môn mà dám đi tới Vạn Cốt Quật, lá gan thật lớn.",
+      "similarity": [
+        [
+          61,
+          0.95
+        ],
+        [
+          64,
+          0.97
+        ],
+        [
+          66,
+          0.97
+        ],
+        [
+          68,
+          0.96
+        ],
+        [
+          69,
+          0.95
+        ],
+        [
+          72,
+          0.95
+        ],
+        [
+          74,
+          0.96
+        ],
+        [
+          77,
+          0.96
+        ],
+        [
+          85,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá đây là ngươi lựa chọn của mình, ta đồng dạng sẽ không ngăn trở.",
+      "dich": "Nhưng ngươi đã chọn như thế thì ta cũng không ngăn cản.",
+      "suggest": "Tuy nhiên đây là lựa chọn của ngươi, ta cũng sẽ không ngăn trở.",
+      "similarity": [
+        [
+          74,
+          0.96
+        ],
+        [
+          86,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tốt rồi, mọi người đến đông đủ, lên đường đi.\"",
+      "dich": "Tốt rồi, mọi người đã đến đông đủ, chúng ta lên đường thôi.",
+      "suggest": "Tốt rồi, mọi người đến đông đủ, lên đường đi.\"",
+      "similarity": [
+        [
+          87,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Họ Lâm nữ tử mỉm cười nói hai câu về sau, bàn tay một cái cuốn, bỗng nhiên nhiều ra một cái trắng noãn như ngọc tiểu hồ lô.",
+      "dich": "Nữ tử họ Lâm mỉm cười nói hai câu. Bàn tay khẽ đảo, một tiểu hồ lô trắng noãn như ngọc xuất hiện.",
+      "suggest": "Nữ tử họ Lâm mỉm cười nói hai câu, sau đó bàn tay lật một cái, bỗng nhiên xuất hiện một hồ lô trắng noãn như ngọc.",
+      "similarity": [
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.96
+        ],
+        [
+          57,
+          0.96
+        ],
+        [
+          61,
+          0.96
+        ],
+        [
+          64,
+          0.96
+        ],
+        [
+          65,
+          0.96
+        ],
+        [
+          68,
+          0.95
+        ],
+        [
+          69,
+          0.95
+        ],
+        [
+          72,
+          0.95
+        ],
+        [
+          73,
+          0.95
+        ],
+        [
+          74,
+          0.95
+        ],
+        [
+          76,
+          0.96
+        ],
+        [
+          81,
+          0.96
+        ],
+        [
+          85,
+          0.95
+        ],
+        [
+          88,
+          0.98
+        ],
+        [
+          90,
+          0.96
+        ],
+        [
+          91,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tùy theo nàng đem hồ lô hướng không trung ném đi, một tay bấm niệm pháp quyết trong miệng nói lẩm bẩm.",
+      "dich": "Nàng tùy ý ném hồ lô lên trời, một tay bấm niệm pháp quyết, miệng niệm chú ngữ.",
+      "suggest": "Sau đó ả ta ném cái hồ lô lên không trung, một tay bấm niệm pháp quyết trong miệng lẩm bẩm.",
+      "similarity": [
+        [
+          58,
+          0.95
+        ],
+        [
+          72,
+          0.95
+        ],
+        [
+          88,
+          0.95
+        ],
+        [
+          89,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trong chốc lát, hồ lô đón gió nhoáng một cái cự phát triển dựng lên, đón lấy một cái đảo ngược hạ xuống, từ miệng hồ lô trong phun ra từng cổ một nồng đậm sương trắng đến, trong chốc lát công phu, liền biến thành một cái ba mươi bốn mươi trượng Trường Bạch sắc sương mù mãng xà.",
+      "dich": "Nháy mắt hồ lô đón gió rồi tự động biến lớn, miệng hồ lô phun ra một luồng sương trắng nồng đậm biến thành Vụ Mãng màu trắng dài ba mươi, bốn mươi trượng.",
+      "suggest": "Trong giây lát, hồ lô đón gió đột ngột phát triển, đón lấy một luồng gió mát từ trong miệng phun ra từng cổ từng cổ sương trắng nồng đậm, trong nháy mắt đã biến thành một con mãng xà màu trắng sữa cao ba mươi bốn mươi trượng.",
+      "similarity": [
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.97
+        ],
+        [
+          57,
+          0.96
+        ],
+        [
+          61,
+          0.95
+        ],
+        [
+          64,
+          0.95
+        ],
+        [
+          69,
+          0.95
+        ],
+        [
+          76,
+          0.95
+        ],
+        [
+          81,
+          0.95
+        ],
+        [
+          88,
+          0.96
+        ],
+        [
+          89,
+          0.95
+        ],
+        [
+          90,
+          0.99
+        ],
+        [
+          91,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Này mãng xà chẳng qua là vật còn sống giống như bãi xuống khởi hành thân thể, lập tức một cỗ kinh người khí tức một cuốn mà mở, phụ cận đứng yên một ít Man Quỷ Tông đệ tử chỉ cảm thấy trước mắt trắng xoá cuồng phong cùng một chỗ, không tự chủ được nhao nhao rút lui mấy bước đi xa.",
+      "dich": "Vụ Mãng giống như vật sống, chậm rãi hạ thân thể xuống, lập tức một cỗ khí tức kinh cười toát ra, những tên đệ tử Man Quỷ Tông đứng ở gần đó chịu ảnh hưởng nhiều nhất, sắc mặt trắng bệch, không tự chủ lùi lại sau mấy bước.",
+      "suggest": "Con mãng xà này chẳng qua là đang nghỉ ngơi, lập tức một luồng khí tức kinh người cuốn tới, một đám đệ tử Man Quỷ Tông bên cạnh chỉ cảm thấy trước mắt trắng xoá, không tự chủ được mà đua nhau lui lại mấy bước.",
+      "similarity": [
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.97
+        ],
+        [
+          59,
+          0.95
+        ],
+        [
+          61,
+          0.97
+        ],
+        [
+          64,
+          0.96
+        ],
+        [
+          65,
+          0.95
+        ],
+        [
+          66,
+          0.96
+        ],
+        [
+          68,
+          0.95
+        ],
+        [
+          69,
+          0.96
+        ],
+        [
+          74,
+          0.96
+        ],
+        [
+          76,
+          0.96
+        ],
+        [
+          81,
+          0.96
+        ],
+        [
+          85,
+          0.96
+        ],
+        [
+          88,
+          0.95
+        ],
+        [
+          90,
+          0.96
+        ],
+        [
+          91,
+          0.99
+        ],
+        [
+          95,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hơn phân nửa người không khỏi mặt hiện vẻ kinh ngạc.",
+      "dich": "Hơn phân nửa những người ở đây đều lộ ra sự kinh ngạc.",
+      "suggest": "Hơn phân nửa đám người không khỏi lộ vẻ kinh ngạc.",
+      "similarity": [
+        [
+          92,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Họ Lâm nữ tử thân ảnh nhoáng một cái, liền xuất hiện ở sương mù mãng xà đầu lâu chỗ, sau đó nhàn nhạt phân phó nói:",
+      "dich": "Nữ tử họ Lâm nhảy lên đầu Vụ Mãng nhàn nhạt nói:",
+      "suggest": "Nữ tử họ Lâm nhoáng một cái đã xuất hiện ở chỗ sâu nhất trong đám sương mù, sau đó thản nhiên phân phó:",
+      "similarity": [
+        [
+          55,
+          0.96
+        ],
+        [
+          57,
+          0.96
+        ],
+        [
+          61,
+          0.96
+        ],
+        [
+          64,
+          0.96
+        ],
+        [
+          65,
+          0.96
+        ],
+        [
+          66,
+          0.95
+        ],
+        [
+          68,
+          0.95
+        ],
+        [
+          69,
+          0.95
+        ],
+        [
+          72,
+          0.95
+        ],
+        [
+          74,
+          0.95
+        ],
+        [
+          76,
+          0.96
+        ],
+        [
+          81,
+          0.96
+        ],
+        [
+          88,
+          0.96
+        ],
+        [
+          90,
+          0.96
+        ],
+        [
+          91,
+          0.97
+        ],
+        [
+          93,
+          0.95
+        ],
+        [
+          95,
+          0.97
+        ],
+        [
+          96,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Các ngươi chờ cái gì, còn không lên một lượt đến.",
+      "dich": "- Các ngươi còn chờ gì nữa, còn không đi lên.",
+      "suggest": "\"Các ngươi chờ cái gì, còn không mau lên đây đi!",
+      "similarity": [
+        [
+          74,
+          0.95
+        ],
+        [
+          86,
+          0.95
+        ],
+        [
+          94,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chúng Man Quỷ Tông đệ tử lúc này mới chợt hiểu hiểu ra, nhao nhao bay lên không cũng lên sương mù mãng xà trên người.",
+      "dich": "Chúng đệ tử Man Quỷ Tông lúc này mới hiểu ra, nhao nhao đi lên, đứng trên người Vụ Mãng.",
+      "suggest": "Đệ tử Quỷ Tông chúng ta lúc này mới hiểu ra, đua nhau bay lên trời với đám mây mù dày đặc.",
+      "similarity": [
+        [
+          57,
+          0.96
+        ],
+        [
+          61,
+          0.96
+        ],
+        [
+          64,
+          0.96
+        ],
+        [
+          66,
+          0.96
+        ],
+        [
+          68,
+          0.96
+        ],
+        [
+          69,
+          0.95
+        ],
+        [
+          74,
+          0.95
+        ],
+        [
+          81,
+          0.95
+        ],
+        [
+          85,
+          0.96
+        ],
+        [
+          90,
+          0.96
+        ],
+        [
+          91,
+          0.96
+        ],
+        [
+          95,
+          0.97
+        ],
+        [
+          96,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Sau một khắc, sương mù mãng xà dưới thân cuồng phong cùng một chỗ, liền chở hơn ba mươi người bay lên trời, thẳng đến một cái hướng khác bay thật nhanh đi.",
+      "dich": "Sau một khắc, dưới chân Vụ Mãng cuồng phong nổi lên, chở ba mươi người bay lên trời đi đến Vạn Cốt Quật.",
+      "suggest": "Sau một khắc, sương mù dưới chân cuộn lên, chở hơn ba mươi người bay lên trời, bay thẳng về một hướng khác.",
+      "similarity": [
+        [
+          61,
+          0.95
+        ],
+        [
+          64,
+          0.95
+        ],
+        [
+          69,
+          0.95
+        ],
+        [
+          88,
+          0.95
+        ],
+        [
+          89,
+          0.95
+        ],
+        [
+          90,
+          0.97
+        ],
+        [
+          91,
+          0.96
+        ],
+        [
+          95,
+          0.96
+        ],
+        [
+          96,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ngươi chính là Bạch Thông Thiên?\"",
+      "dich": "- Ngươi là Bạch Thông Thiên?",
+      "suggest": "\"Ngươi chính là Bạch Thông Thiên?\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh lúc nãy tại sương mù mãng xà bên trên tùy ý tìm một chỗ khoanh chân ngồi xuống, bỗng nhiên trước người bóng người nhoáng một cái, vị kia vừa mới cùng hắn cùng một chỗ chạy tới âm trầm nam tử, lại xuất hiện ở kia trước mặt.",
+      "dich": "Liễu Minh ở trên người Vụ Mãng tùy ý tìm một chỗ khoanh chân ngồi xuống. Bỗng nhiên trước mặt có người lại gần, chính là người đến muộn cùng hắn.",
+      "suggest": "Lúc nãy Liễu Minh đang khoanh chân ngồi xuống dưới đám mây mù, bỗng nhiên trước người thoáng hiện lên bóng người, người đó vừa mới cùng gã chạy tới một chỗ thì xuất hiện trước mặt hắn.",
+      "similarity": [
+        [
+          61,
+          0.96
+        ],
+        [
+          64,
+          0.95
+        ],
+        [
+          66,
+          0.95
+        ],
+        [
+          69,
+          0.95
+        ],
+        [
+          74,
+          0.96
+        ],
+        [
+          76,
+          0.96
+        ],
+        [
+          81,
+          0.95
+        ],
+        [
+          90,
+          0.96
+        ],
+        [
+          91,
+          0.97
+        ],
+        [
+          95,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đúng vậy, đúng là tại hạ.",
+      "dich": "- Đúng vậy, chính là tại hạ.",
+      "suggest": "\"Đúng vậy, đúng là tại hạ.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Các hạ có chuyện sao?\"",
+      "dich": "Các hạ có chuyện gì?",
+      "suggest": "Các hạ có chuyện gì sao?\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh ngẩng đầu nhìn đối phương liếc, mơ hồ từ đối phương trên người cảm nhận được một tia không hiểu địch ý, lúc này cũng không khách khí nói.",
+      "dich": "Liễu Minh ngẩng đầu liếc nhìn đối phương, mơ hồ cảm nhận được địch ý trên người đối phương. Liễu Minh không khách khí nói.",
+      "suggest": "Liễu Minh ngẩng đầu nhìn đối phương, mơ hồ cảm thấy trên người đối phương có chút không hiểu ý tứ, lúc này cũng không khách khí nói.",
+      "similarity": [
+        [
+          64,
+          0.96
+        ],
+        [
+          66,
+          0.96
+        ],
+        [
+          69,
+          0.96
+        ],
+        [
+          73,
+          0.95
+        ],
+        [
+          74,
+          0.96
+        ],
+        [
+          76,
+          0.95
+        ],
+        [
+          81,
+          0.96
+        ],
+        [
+          85,
+          0.96
+        ],
+        [
+          91,
+          0.97
+        ],
+        [
+          95,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ta là Tư Mã Thiên, hảo hảo nhớ kỹ.\"",
+      "dich": "- Ta gọi là Tư Mã Thiên, hảo hảo nhớ kỹ.",
+      "suggest": "\"Ta là Tư Mã Thiên, hảo hảo nhớ kỹ.\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Âm trầm nam tử đồng dạng cao thấp đánh giá Liễu Minh vài lần, mặt không biểu tình nói.",
+      "dich": "Nam tử âm trầm dò xét Liễu Minh vài lần, mặt không biểu tình nói.",
+      "suggest": "Nam tử trầm mặc đánh giá Liễu Minh vài lần, mặt không đổi sắc nói.",
+      "similarity": [
+        [
+          65,
+          0.97
+        ],
+        [
+          68,
+          0.95
+        ],
+        [
+          72,
+          0.95
+        ],
+        [
+          73,
+          0.96
+        ],
+        [
+          76,
+          0.96
+        ],
+        [
+          78,
+          0.96
+        ],
+        [
+          81,
+          0.95
+        ],
+        [
+          88,
+          0.95
+        ],
+        [
+          90,
+          0.95
+        ],
+        [
+          91,
+          0.95
+        ],
+        [
+          93,
+          0.96
+        ],
+        [
+          95,
+          0.96
+        ],
+        [
+          96,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Lời này là có ý gì?\"",
+      "dich": "- Lời này là có ý gì?",
+      "suggest": "\"Lời này của ngươi là có ý gì?\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh hai mắt nhíu lại hỏi lại một câu.",
+      "dich": "Hai mắt Liễu Minh nhíu lại, hỏi ngược một câu.",
+      "suggest": "Hai mắt Liễu Minh nhíu lại hỏi lại một câu.",
+      "similarity": [
+        [
+          65,
+          0.95
+        ],
+        [
+          73,
+          0.95
+        ],
+        [
+          76,
+          0.96
+        ],
+        [
+          78,
+          0.96
+        ],
+        [
+          93,
+          0.95
+        ],
+        [
+          95,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bởi vì đợi đến lúc Vạn Cốt Quật về sau, chúng ta có lẽ sẽ thường xuyên gặp mặt đấy.\"",
+      "dich": "- Bởi vì khi đến Vạn Cốt Quật, có lẽ chúng ta sẽ thường xuyên gặp mặt.",
+      "suggest": "\"Bởi vì sau khi Vạn Cốt Quật nổ, chúng ta chắc chắn sẽ thường xuyên gặp nhau đấy.\"",
+      "similarity": [
+        [
+          68,
+          0.97
+        ],
+        [
+          85,
+          0.95
+        ],
+        [
+          96,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tư Mã Thiên lạnh lùng nói ra, tùy theo phối hợp ly khai, khác tìm một nơi cũng khoanh chân ngồi xuống.",
+      "dich": "Tư Mã Thiên lạnh lùng nói, rồi tùy ý đi đến chỗ khác khoanh chân ngôi xuống.",
+      "suggest": "Tư Mã Thiên lạnh lùng nói, tùy thời hợp lý rời đi, còn lại tìm một chỗ khác khoanh chân ngồi xuống.",
+      "similarity": [
+        [
+          74,
+          0.96
+        ],
+        [
+          76,
+          0.95
+        ],
+        [
+          81,
+          0.96
+        ],
+        [
+          85,
+          0.95
+        ],
+        [
+          91,
+          0.96
+        ],
+        [
+          95,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh nghe thế lần không đầu không đuôi lời mà nói, chẳng qua là khẽ chau mày, liền thần sắc như thường nhắm mắt dưỡng thần, dường như căn bản không có nghe qua âm trầm nam tử Tiên Thiên nói đích thoại ngữ bình thường.",
+      "dich": "Liễu Minh nghe được lời nói không đầu không đuôi của đối phương thì khẽ chau mày, nhưng thần sắc vẫn như thường lại tiếp tục nhắm mắt dưỡng thần giống như chưa hề nói chuyện với Tư Mã Thiên.",
+      "suggest": "Liễu Minh nghe thế lần đầu không nói một câu, chỉ khẽ cau mày, thần sắc vẫn như thường nhắm mắt dưỡng thần, dường như chưa bao giờ nghe thấy giọng nói trầm thấp của nam tử Tiên Thiên nói.",
+      "similarity": [
+        [
+          69,
+          0.95
+        ],
+        [
+          74,
+          0.96
+        ],
+        [
+          76,
+          0.96
+        ],
+        [
+          81,
+          0.96
+        ],
+        [
+          85,
+          0.96
+        ],
+        [
+          90,
+          0.95
+        ],
+        [
+          91,
+          0.97
+        ],
+        [
+          95,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nửa tháng sau, một cái do mấy chục tòa lớn nhỏ đồi núi làm thành loại nhỏ thung lũng trên không.",
+      "dich": "Nửa tháng sau, trên bầu trời một bồn địa do mấy chục ngọn núi lớn nhỏ tạo thành.",
+      "suggest": "Nửa tháng sau, một thung lũng nhỏ do mấy chục ngọn núi lớn nhỏ tạo thành có diện tích vài chục hecta.",
+      "similarity": [
+        [
+          90,
+          0.95
+        ],
+        [
+          91,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một cái màu trắng sương mù mãng xà từ đằng xa gào thét mà đến, trong khoảnh khắc liền đi tới thung lũng ở trung tâm một cái gần dặm lớn nhỏ thạch trại trên không, từ từ xuống lúc nãy trên đất trống vừa rơi xuống hạ xuống.",
+      "dich": "Vụ Mãng gào thét bay đến. Trong khoảnh khắc đã hạ xuống một thạch trại trên bồn địa.",
+      "suggest": "Một con mãng xà màu trắng sương mù gào thét từ đằng xa, trong nháy mắt đã đi tới rìa một thạch trại lớn gần dặm ở trung tâm thung lũng, chậm rãi hạ xuống mặt đất trống lúc nãy.",
+      "similarity": [
+        [
+          81,
+          0.95
+        ],
+        [
+          88,
+          0.96
+        ],
+        [
+          90,
+          0.97
+        ],
+        [
+          91,
+          0.97
+        ],
+        [
+          95,
+          0.96
+        ],
+        [
+          96,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tại họ Lâm nữ tử dưới sự dẫn dắt, Liễu Minh một đám Man Quỷ Tông đệ tử nhao nhao rơi xuống sương mù mãng xà, cũng tò mò mọi nơi dò xét không ngừng.",
+      "dich": "Dưới sự dẫn dắt của nữ tử họ Lâm, Liễu Minh cùng đám đệ tử Man Quỷ Tông nhao nhao đi xuống, cũng hiếu kỳ dò xét xung quanh.",
+      "suggest": "Dưới sự dẫn dắt của nữ tử họ Lâm, đám đệ tử Man Quỷ Tông đua nhau hạ xuống đám mây xám tro, tò mò không ngừng dò xét xung quanh.",
+      "similarity": [
+        [
+          85,
+          0.95
+        ],
+        [
+          90,
+          0.95
+        ],
+        [
+          91,
+          0.97
+        ],
+        [
+          95,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chỉ thấy này thạch trại đơn giản dị thường, ngoại trừ bốn phía một mặt mấy trượng cao dài Trường Thanh tường đá bên ngoài, bên trong kiến trúc cũng không tính nhiều, hơn nữa phần lớn là cái loại này giản dị dị thường Tiểu Thạch phòng.",
+      "dich": "Chỉ thấy thạch trại này vô cùng đơn giản, trừ những bức tường đá cao mấy trượng ở xung quanh ra thì kiến trúc bên trong không nhiều, hơn nữa còn có những căn phòng nhỏ bằng đá rất giản dị.",
+      "suggest": "Chỉ thấy thạch trại này đơn giản lạ thường, ngoại trừ tường đá bốn phía cao mấy trượng và tường đá bốn phía cũng không tính là nhiều, hơn nữa phần lớn bên trong đều là những căn phòng nhỏ xinh xắn, bình thường.",
+      "similarity": [
+        [
+          74,
+          0.95
+        ],
+        [
+          90,
+          0.95
+        ],
+        [
+          91,
+          0.96
+        ],
+        [
+          95,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hơn nữa liếc nhìn trúng, trong trại càng là hầu như không thấy vài bóng người, chỉ có xa xa mấy cái nhìn như cao lớn chút ít kiến trúc, mơ hồ có người đứng ở bên ngoài nói chuyện bộ dạng.",
+      "dich": "Trong trại cũng có mấy người đang đi lại, xa xa có thể nhìn thấy một ít kiến trúc cao lớn, trên đó mơ hồ có người đang nói chuyện.",
+      "suggest": "Hơn nữa nếu nhìn kỹ lại, trong trại hầu như không thấy bóng người, chỉ có vài kiến trúc nhìn như cao lớn, mơ hồ có người đứng bên ngoài nói chuyện.",
+      "similarity": [
+        [
+          74,
+          0.96
+        ],
+        [
+          76,
+          0.96
+        ],
+        [
+          81,
+          0.96
+        ],
+        [
+          87,
+          0.95
+        ],
+        [
+          90,
+          0.95
+        ],
+        [
+          91,
+          0.96
+        ],
+        [
+          92,
+          0.96
+        ],
+        [
+          95,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Nghe cho kỹ, cái này Vạn Cốt Quật mặc dù là dùng chúng ta Man Quỷ Tông đệ tử làm chủ, nhưng mà cũng có mặt khác mấy tông đệ tử ngẫu nhiên tới đây thí luyện đấy, cho nên gặp được bên ngoài tông đệ tử cũng không nên cảm thấy kỳ quái.",
+      "dich": "- Nghe kỹ, Vạn Cốt Quật này tuy do Man Quỷ Tông chúng ta làm chủ nhưng đệ tử các tông môn khác cũng ngẫu nhiên đến đây thí luyện. Nếu gặp phải đệ tử tông môn khác cũng không nên ngạc nhiên.",
+      "suggest": "\"Nghe cho kỹ, Vạn Cốt Quật này mặc dù do Man Quỷ Tông chúng ta làm chủ, nhưng cũng có vài tông đệ tử khác ngẫu nhiên tới đây thí luyện, cho nên gặp được đệ tử bên ngoài tông cũng không nên cảm thấy kỳ quái.",
+      "similarity": [
+        [
+          74,
+          0.96
+        ],
+        [
+          77,
+          0.96
+        ],
+        [
+          81,
+          0.95
+        ],
+        [
+          85,
+          0.98
+        ],
+        [
+          91,
+          0.97
+        ],
+        [
+          95,
+          0.96
+        ],
+        [
+          96,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mặt khác lần đầu tiên tới Vạn Cốt Quật đệ tử, đi trước nhìn rõ ràng bên kia ghi các loại điều lệ, cũng đừng trái với rồi.",
+      "dich": "Mặt khác đệ tử lần đầu tiên đến Vạn Cốt Quật trước khi đi phải nhớ rõ các loại điều lệ đừng làm trái.",
+      "suggest": "Những đệ tử lần đầu tới Vạn Cốt Quật, trước tiên hãy xem qua điều lệ bên kia, cũng đừng trái với.",
+      "similarity": [
+        [
+          74,
+          0.96
+        ],
+        [
+          77,
+          0.95
+        ],
+        [
+          85,
+          0.97
+        ],
+        [
+          95,
+          0.95
+        ],
+        [
+          96,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hiện tại ư, các ngươi đâu cũng có thể tự do hành động rồi.\"",
+      "dich": "Được rồi, các ngươi có thể tự do hành động.",
+      "suggest": "Bây giờ ư, các ngươi cũng có thể tự do hành động rồi.\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Họ Lâm nữ tử chỉ một cái dọc tại hàng rào ở trung tâm một khối tràn ngập màu bạc văn tự tấm bia đá, nói lên vài câu về sau, liền phối hợp hướng xa xa một tòa cao lớn chút ít kiến trúc đi đến rồi.",
+      "dich": "Nữ tử họ Lâm chỉ tay vào một tấm bia đá tràn ngập văn tự màu bạc ở trung tâm thạch trại, lại nói vài câu rồi bay đến tòa kiến trúc cao lớn.",
+      "suggest": "Nữ tử họ Lâm chỉ tấm bia đá tràn ngập màu bạc ở trung tâm, sau khi nói vài câu liền phối hợp đi về phía một kiến trúc khá cao lớn phía xa.",
+      "similarity": [
+        [
+          76,
+          0.96
+        ],
+        [
+          81,
+          0.96
+        ],
+        [
+          88,
+          0.95
+        ],
+        [
+          90,
+          0.96
+        ],
+        [
+          91,
+          0.96
+        ],
+        [
+          95,
+          0.96
+        ]
+      ],
+      "approved": true
+    }
+  ]
+}
