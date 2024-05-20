@@ -1,5 +1,5 @@
 model_name = "convert_dich"
-num_train_epochs = 3
+num_train_epochs = 5
 
 # For GPU P100 16GB
 per_device_train_batch_size = 12
