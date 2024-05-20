@@ -1,5 +1,5 @@
 {
-  "currentLine": 11,
+  "currentLine": 100,
   "next": {
     "id": 42,
     "title": "Chương 42: Oan gia đối đầu"
@@ -22,7 +22,8 @@
           0,
           0.75
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn cũng không phải là đang lo lắng Ô Bảo bọn người sẽ truy vào đến, trong hạp cốc khu vực rộng rãi, chớ nói Thanh Lang Bang cùng Liệp Cẩu Đường tổng cộng bất quá mấy chục người quy mô, chính là nhiều gấp bội, muốn tìm được bọn hắn cũng khó như lên trời.",
@@ -33,7 +34,8 @@
           1,
           0.28
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh đang suy nghĩ hắn Thanh Ngư kiếm, trước đó ở cùng lông trắng quái vật tranh đấu, Thanh Ngư kiếm gặp lưu ngay tại chỗ.",
@@ -45,10 +47,11 @@
           0.27
         ],
         [
-          37,
+          32,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Kiếm này chính là nửa pháp khí, sắc bén dị thường, như vậy vứt bỏ thật là đáng tiếc.",
@@ -59,7 +62,8 @@
           3,
           0.21
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Nhưng bây giờ đi lên tìm kiếm, sẽ gia tăng bại lộ phong hiểm.",
@@ -70,7 +74,8 @@
           4,
           0.25
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Được rồi, một thanh bảo kiếm mà thôi.\"",
@@ -81,7 +86,8 @@
           5,
           0.24
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Cân nhắc liên tục, Viên Minh vẫn là bỏ đi mạo hiểm nhặt về Thanh Ngư kiếm ý nghĩ, khoanh chân ngồi xuống.",
@@ -92,7 +98,8 @@
           6,
           0.27
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn vượn trắng biến thân nguyên bản ở Phi Mao Thuật bên trong cực kì phổ thông, nhưng da thú trải qua hơn lần tiến hóa, tự hỏi đã không kém hơn bất luận cái gì phi mao da thú, so với Ô Bảo cùng Kim Khôn cũng không hề rơi xuống hạ phong một chút nào.",
@@ -103,7 +110,8 @@
           7,
           0.27
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "So sánh với nhau, tu vi của hắn vẫn là thấp một bậc.",
@@ -114,7 +122,8 @@
           8,
           0.43
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Nếu như tu vi có thể tiến thêm một bước, đạt tới luyện khí tầng bốn, lại đối mặt Ô Bảo bọn người lúc, liền sẽ không như hôm nay như vậy chật vật.",
@@ -126,402 +135,437 @@
           0.7
         ],
         [
-          25,
+          20,
           0.1
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh lấy lại bình tĩnh, bắt đầu nhắm mắt tu luyện, dần dần vật ngã lưỡng vong....",
-      "dich": "Viên Minh lấy lại bình tĩnh, bắt đầu nhắm mắt tu luyện, từ từ tiến vào trạng trái vật ngã lưỡng vong.",
+      "dich": "Viên Minh lấy lại bình tĩnh, bắt đầu nhắm mắt tu luyện, từ từ tiến vào trạng trái vật ngã lưỡng vong...",
       "suggest": "Viên Minh lấy lại bình tĩnh, bắt đầu nhắm mắt tu luyện, từ từ vật ngã lưỡng vong....",
       "similarity": [
         [
           10,
           0.64
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh cùng Cáp Cống tại trong hạp cốc thảnh thơi tu luyện, Ô Bảo lại phát động Thanh Lang Bang đám người phát điên tìm kiếm bọn hắn, có thể chỗ nào tìm kiếm đạt được.",
-      "dich": "...",
+      "dich": "Trong khi Viên Minh và Cáp Cống ở trong cốc thảnh thơi tu luyện, Ô Bảo lại phát động toàn thể Thanh Lang Bang điên cuồng tìm kiếm bọn hắn, chỉ là biết tìm nơi nào.",
       "suggest": "Viên Minh và Cáp Cống đang thong thả tu luyện trong hạp cốc, Ô Bảo lại phát động đám người Thanh Lang bang điên cuồng tìm kiếm bọn hắn, nhưng không có ai tìm được.",
       "similarity": [
         [
-          12,
+          11,
           0.47
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn suy đoán Viên Minh khả năng trốn vào mê vụ hẻm núi, phái người xuống tới tìm kiếm qua, có thể mê vụ hẻm núi khu vực bao la, sương mù đầy trời, tìm mấy ngày, một điểm manh mối cũng không có.",
-      "dich": "Trong khi Viên Minh và Cáp Cống ở trong cốc thảnh thơi tu luyện, Ô Bảo lại phát động toàn thể Thanh Lang Bang điên cuồng tìm kiếm bọn hắn, chỉ là biết tìm nơi nào.",
+      "dich": "Gã đoán Viên Minh có thể đã trốn vào trong hạp cốc mù sương, từng phái người xuống tìm kiếm, nhưng diện tích hạp cốc quá lớn, sương mù đầy trời, tìm mấy ngày lại chẳng kiếm được chút manh mối nào.",
       "suggest": "Hắn đoán Viên Minh có khả năng trốn vào mê vụ, phái người xuống núi tìm kiếm. Nhưng khu vực mê vụ bao la, sương mù đầy trời, tìm mấy ngày cũng không có một chút manh mối.",
       "similarity": [
         [
-          13,
+          12,
           0.3
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Theo thời gian trôi qua, Viên Minh giống như bốc hơi khỏi nhân gian, không tiếp tục xuất hiện qua, Thanh Lang Bang bên trong bắt đầu có người phàn nàn, dù sao mỗi tháng còn muốn nộp lên trên huyết thực.",
-      "dich": "Gã đoán Viên Minh có thể đã trốn vào trong hạp cốc mù sương, từng phái người xuống tìm kiếm, nhưng diện tích hạp cốc quá lớn, sương mù đầy trời, tìm mấy ngày lại chẳng kiếm được chút manh mối nào.",
+      "dich": "Thời thời gian trôi đi, Viên Minh như bốc hơi khỏi nhân gian, chưa từng tái xuất hiện, bên trong Thanh Lang Bang bắt đầu có người phàn nàn, dĩ nhiên rồi, dù sao mỗi tháng bọn họ còn phải nộp lên huyết thực.",
       "suggest": "Thời gian trôi qua, Viên Minh dường như đã biến mất khỏi thế gian, không còn xuất hiện nữa. Trong bang phái Thanh Lang Bang bắt đầu có người phàn nàn, dù sao mỗi tháng vẫn phải nộp một lượng lớn máu thịt.",
       "similarity": [
         [
-          14,
+          13,
           0.27
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Ô Bảo ghi nhớ lấy Viên Minh trên thân khả năng tồn tại bí mật, mặc dù không có cam lòng, cũng đành phải bất đắc dĩ từ bỏ.",
-      "dich": "Thời thời gian trôi đi, Viên Minh như bốc hơi khỏi nhân gian, chưa từng tái xuất hiện, bên trong Thanh Lang Bang bắt đầu có người phàn nàn, dĩ nhiên rồi, dù sao mỗi tháng bọn họ còn phải nộp lên huyết thực.",
+      "dich": "Ô Bảo vẫn luôn để tâm chuyện trên người Viên Minh có thể tồn tại bí mật, nhưng dù không cam lòng thì với tình cảnh này, cũng đành phải bất đắc dĩ từ bỏ.",
       "suggest": "Ô Bảo ghi nhớ bí mật trên người Viên Minh, cho dù không cam lòng, cũng đành bất đắc dĩ từ bỏ.",
+      "similarity": [
+        [
+          14,
+          0.31
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá trước đây Viên Minh ở Thanh Lang Bang Liệp Cẩu Đường hai nhóm thế lực bao vây chặn đánh dưới, vẫn có thể toàn thân trở ra sự tình lan truyền nhanh chóng, tăng thêm hắn không có lại xuất hiện qua, Viên Minh cái tên này trong lúc nhất thời vang vọng phiến khu vực này, gặp phi mao thú nô nhóm truyền miệng.",
+      "dich": "Chỉ là, việc Viên Minh bị hai thế lực Thanh Lang Bang và Liệp Cẩu Đường bao vây, đánh chặn mà vẫn có thể toàn thân thoát ra trước đó nhanh chóng lan truyền, công thêm việc hắn chưa từng xuất hiện lại, cái tên Viên Minh trong lúc nhất thời vang dội cả khu vực này, trở thành đề tài truyền miệng của các Phi Mao thú nô.",
+      "suggest": "Tuy nhiên Viên Minh dưới hai thế lực Thanh Lang bang và Liệp Cẩu đường bị Thanh Lang bang vây khốn, vẫn có thể toàn thân trở ra, hơn nữa hắn còn không có xuất hiện trước đó, trong lúc nhất thời hắn đã vang vọng khắp nơi, nghe được cái tên Viên Minh này trong lúc nhất thời vang vọng khắp nơi, nghe được bọn Phi Mao thú nô truyền miệng.",
       "similarity": [
         [
           15,
           0.31
         ]
-      ]
-    },
-    {
-      "convert": "Bất quá trước đây Viên Minh ở Thanh Lang Bang Liệp Cẩu Đường hai nhóm thế lực bao vây chặn đánh dưới, vẫn có thể toàn thân trở ra sự tình lan truyền nhanh chóng, tăng thêm hắn không có lại xuất hiện qua, Viên Minh cái tên này trong lúc nhất thời vang vọng phiến khu vực này, gặp phi mao thú nô nhóm truyền miệng.",
-      "dich": "Ô Bảo vẫn luôn ghim chuyện trên người Viên Minh có thể tồn tại bí mật, nhưng dù không cam lòng thì với tình cảnh này, cũng đành phải bất đắc dĩ từ bỏ.",
-      "suggest": "Tuy nhiên Viên Minh dưới hai thế lực Thanh Lang bang và Liệp Cẩu đường bị Thanh Lang bang vây khốn, vẫn có thể toàn thân trở ra, hơn nữa hắn còn không có xuất hiện trước đó, trong lúc nhất thời hắn đã vang vọng khắp nơi, nghe được cái tên Viên Minh này trong lúc nhất thời vang vọng khắp nơi, nghe được bọn Phi Mao thú nô truyền miệng.",
-      "similarity": [
-        [
-          16,
-          0.31
-        ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Thời gian trôi qua, trong nháy mắt lại qua nửa năm.",
-      "dich": "Chỉ là, việc Viên Minh bị hai thế lực Thanh Lang Bang và Liệp Cẩu Đường bao vây, đánh chặn mà vẫn có thể toàn thân thoát ra trước đó nhanh chóng lan truyền, công thêm việc hắn chưa từng xuất hiện lại, cái tên Viên Minh trong lúc nhất thời vang dội cả khu vực này, trở thành đề tài truyền miệng của các Phi Mao thú nô.",
+      "dich": "Thời gian trôi qua, nháy mắt lại qua nửa năm.",
       "suggest": "Thời gian trôi qua, trong nháy mắt đã qua nửa năm.",
       "similarity": [
         [
-          17,
+          16,
           0.53
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hẻm núi dưới đáy một chỗ bí ẩn trong sơn động, Viên Minh ngồi xếp bằng, trên mặt huỳnh quang ẩn ẩn.",
-      "dich": "Thời gian trôi qua, nháy mắt lại qua nửa năm.",
+      "dich": "Trong một sơn động bí ẩn dưới đáy hạp cốc, Viên Minh ngồi xếp bằng, trên mặt có ánh huỳnh quang chớp động.",
       "suggest": "Trong một sơn động bí ẩn dưới đáy hẻm núi, Viên Minh đang ngồi xếp bằng, trên mặt tỏa ra ánh sáng trắng.",
       "similarity": [
         [
-          18,
+          17,
           0.51
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Trong sơn động bên ngoài, không có Cáp Cống thân ảnh.",
-      "dich": "Trong một sơn động bí ẩn dưới đáy hạp cốc, Viên Minh ngồi xếp bằng, trên mặt có ánh huỳnh quang chớp động.",
+      "dich": "Trong ngoài sơn động, không thấy bóng dáng Cáp Cống.",
       "suggest": "Bên ngoài sơn động không có thân ảnh Cáp Cống.",
       "similarity": [
         [
-          19,
+          18,
           0.22
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Ngoài sơn động sương mù màu trắng đột nhiên kịch liệt dũng động, giống như nước sôi, phụ cận thiên địa linh khí cũng bị dẫn động, hướng phía sơn động hội tụ tới.",
-      "dich": "Trong ngoài sơn động, không thấy bóng dáng Cáp Cống.",
+      "dich": "Sương mù màu trắng bên ngoài sơn động đột nhiên như nước sôi, cuồn cuộn chảy vào trong động, linh khí thiên địa xung quanh cũng bị dẫn động, hội tụ về phía sơn động.",
       "suggest": "Sương mù màu trắng bên ngoài sơn động đột nhiên kịch liệt dũng động như nước sôi, phụ cận Linh Khí của Thiên Địa Linh Khí cũng bị dẫn động tập trung về phía sơn động.",
       "similarity": [
         [
-          20,
+          19,
           0.44
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Linh khí hội tụ tình huống kéo dài một khắc đồng hồ, lúc này mới ngừng.",
-      "dich": "Sương mù màu trắng bên ngoài sơn động đột nhiên như nước sôi, cuồn cuộn chảy vào trong động, linh khí thiên địa xung quanh cũng bị dẫn động, hội tụ về phía sơn động.",
+      "dich": "Tình cảnh linh khí hội tụ diễn ra liên tục trong một khắc đồng hồ mới ngừng.",
       "suggest": "Linh Khí hội tụ kéo dài một khắc thì ngưng tụ lại.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Trong sơn động, Viên Minh toàn thân cao thấp gặp một tầng huỳnh quang bao phủ, cả người nhìn rực rỡ hẳn lên.",
-      "dich": "Tình cảnh linh khí hội tụ diễn ra liên tục trong một khắc đồng hồ mới ngừng.",
+      "dich": "Trong sơn động, trên dưới cả người Viên Minh bị một tầng huỳnh quang bao phủ, nhìn qua toàn thân rực rỡ hẳn lên.",
       "suggest": "Trong sơn động, Viên Minh cao thấp gặp một tầng huỳnh quang bao phủ, cả người nhìn thấy một màn sáng ngời.",
       "similarity": [
         [
-          22,
+          21,
           0.35
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn vận chuyển Cửu Nguyên Quyết, một cỗ cường hãn pháp lực ba động lan ra, so với trước đó cường đại gấp bội.",
-      "dich": "Trong sơn động, trên dưới cả người Viên Minh bị một tầng huỳnh quang bao phủ, nhìn qua toàn thân rực rỡ hẳn lên.",
+      "dich": "Hắn vận chuyển Cửu Nguyên Quyết, tức thì một cỗ pháp lực chấn động cường hãn tỏa ra, mạnh gấp bội so với trước đây.",
       "suggest": "Hắn vận chuyển Cửu Nguyên Quyết, một cỗ pháp lực cường đại ba động lan ra, mạnh mẽ hơn trước gấp bội.",
       "similarity": [
         [
-          23,
+          22,
           0.29
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh mở ra hai mắt, thần sắc ở giữa tràn ngập mừng rỡ.",
-      "dich": "Hắn vận chuyển Cửu Nguyên Quyết, tức thì một cỗ pháp lực chấn động cường hãn tỏa ra, mạnh gấp bội so với trước đây.",
+      "dich": "Viên Minh mở hai mắt ra, thần sắc tràn ngập vẻ mừng vui.",
       "suggest": "Viên Minh mở to hai mắt, thần sắc tràn ngập mừng rỡ.",
       "similarity": [
         [
-          24,
+          23,
           0.38
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Luyện khí tầng mười ba cảnh giới, một tầng đến ba tầng chỉ là cơ sở, chỉ có đạt tới luyện khí tầng bốn, mới tính hơi có tiểu thành.",
-      "dich": "Viên Minh mở hai mắt ra, thần sắc tràn ngập vẻ mừng vui.",
+      "dich": "Mười ba tầng của cảnh giới Luyện Khí, tầng một tới tầng ba chỉ là cơ sở, chỉ khí đạt tới tầng bốn, mới được xem là tiểu thành.",
       "suggest": "Tầng mười ba Luyện Khí tầng mười ba mới chỉ là cơ sở, một tầng đến ba tầng mới tính là thành tựu.",
       "similarity": [
         [
-          25,
+          24,
           0.16
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Thời gian nửa năm, từ luyện khí ba tầng tăng lên tới luyện khí tầng bốn, so với trước đó chậm không ít.",
-      "dich": "Mười ba tầng của cảnh giới Luyện Khí, tầng một tới tầng ba chỉ là cơ sở, chỉ khí đạt tới tầng bốn, mới được xem là tiểu thành.",
+      "dich": "Mất thời gian nửa năm để tu luyện từ tầng ba lên tầng bốn Luyện Khí, tính ra chậm hơn trước khá nhiều.",
       "suggest": "Nửa năm sau, từ tầng ba luyện khí lên tầng bốn so với trước kia chậm hơn không ít.",
       "similarity": [
         [
-          26,
+          25,
           0.12
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh lại không có chút nào bất mãn, theo tu vi dần dần sâu, đột phá cần thiết thời gian thật to kéo dài, luyện khí ba tầng về sau, mỗi tăng lên một tầng, vốn là cần lấy năm qua tính toán.",
-      "dich": "Mất thời gian nửa năm để tu luyện từ tầng ba lên tầng bốn Luyện Khí, tính ra chậm hơn trước khá nhiều.",
+      "dich": "Nhưng Viên Minh lại không hề cảm thấy bất mãn, theo tu vi dần tăng tiến, thời gian cần để đột phá cũng tăng lên rất nhiều, từ Luyện Khí tầng ba về sau, thời gian cần để tăng lên một tầng sẽ phải lấy năm để tính.",
       "suggest": "Viên Minh lại không cảm thấy bất mãn, theo tu vi dần dần sâu, mỗi lần đột phá cần thời gian dài hơn một chút, sau khi luyện khí ba tầng, mỗi tầng cần thiết phải tăng lên một tầng, vốn phải dựa vào năm qua tính toán.",
       "similarity": [
         [
-          27,
+          26,
           0.28
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn chỉ dùng nửa năm liền đột phá luyện khí tầng bốn, đều nhờ vào Cửu Nguyên Quyết tinh diệu, đã là cực nhanh, lại ở giữa cũng không liên tục, mỗi tháng còn cần vụng trộm xuất cốc đi đổi lấy giải dược.",
-      "dich": "Nhưng Viên Minh lại không hề cảm thấy bất mãn, theo tu vi dần tăng tiến, thời gian cần để đột phá cũng tăng lên rất nhiều, từ Luyện Khí tầng ba về sau, thời gian cần để tăng lên một tầng sẽ phải lấy năm để tính.",
+      "dich": "Hắn chỉ dùng nửa năm đã đột phát Luyện Khí tầng bốn, đều là nhờ vào sự tinh diệu của Cửu Nguyên Quyết. Tốc độ này đã là cực nhanh, hơn nữa quá trình tu luyện cũng phải liên tục, mà mỗi tháng còn phải âm thầm xuất cốc đi đổi lấy thuốc giải.",
       "suggest": "Hắn chỉ dùng nửa năm đã đột phá tầng bốn luyện khí, đều nhờ vào Cửu Nguyên Quyết tinh diệu, đã là cực nhanh, lại ở giữa không trung không liên tục, mỗi tháng còn phải vụng trộm xuất cốc đi đổi lấy giải dược.",
       "similarity": [
         [
-          28,
+          27,
           0.13
         ],
         [
-          29,
+          27,
           0.2
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh vận chuyển Cửu Nguyên Quyết, hơi ổn định lại cảnh giới, liền không kịp chờ đợi đi vào ngoài động, thi triển Phi Mao Thuật, hóa thành vượn trắng hình thái.",
-      "dich": "Hắn chỉ dùng nửa năm đã đột phát Luyện Khí tầng bốn, đều là nhờ vào sự tinh diệu của Cửu Nguyên Quyết.",
+      "dich": "Viên Minh vận chuyển Cửu Nguyên Quyết, ổn định cảnh giới một chút, xong không thể chờ đợi thêm, lập tức đi ra ngoài động, thi triển Phi Mao Thuật, hóa thành hình thái vượn trắng.",
       "suggest": "Viên Minh vận chuyển Cửu Nguyên Quyết, hơi ổn định cảnh giới, không kịp tiến vào trong động, thi triển Phi Mao Thuật, hóa thành hình dạng con vượn trắng.",
       "similarity": [
         [
-          30,
+          28,
           0.37
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Vượn trắng nhìn cùng trước đó không có quá đại biến hóa, bất quá Viên Minh có thể rõ ràng cảm ứng được ngày nay nhục thân chi lực lại lần nữa bạo tăng, trong lúc giơ tay nhấc chân đều có một cỗ đại lực chấn động ra tới.",
-      "dich": "Tốc độ này đã là cực nhanh, hơn nữa quá trình tu luyện cũng phải liên tục, mà mỗi tháng còn phải âm thầm xuất cốc đi đổi lấy thuốc giải.",
+      "dich": "Vượn trắng nhìn qua không thay đổi gì mấy so với trước đây, nhưng Viên Minh có thể cảm nhận được rất rõ lực lượng nhục thân lại lần nữa bạo tăng, khi giơ tay nhấc chân đều có một cỗ lực lượng lớn lan tỏa ra.",
       "suggest": "Con Vượn trắng so với trước kia không có quá biến hóa, nhưng Viên Minh lại cảm ứng được sức mạnh nhục thân ngày nay lại lần nữa bạo tăng, trong lúc giơ tay nhấc chân đều có một cỗ lực chấn động mạnh mẽ truyền tới.",
       "similarity": [
         [
-          31,
+          29,
           0.35
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn từ dưới đất nhặt lên một tảng đá xanh, nhẹ nhàng một nắm.",
-      "dich": "Viên Minh vận chuyển Cửu Nguyên Quyết, ổn định cảnh giới một chút, xong không thể chờ đợi thêm, lập tức đi ra ngoài động, thi triển Phi Mao Thuật, hóa thành hình thái vượn trắng.",
+      "dich": "Hắn nhặt một tảng đá từ dưới đất lên rồi bóp nhẹ.",
       "suggest": "Hắn nhặt một tảng đá xanh từ dưới đất lên, nhẹ nhàng nắm lấy.",
       "similarity": [
         [
-          32,
+          30,
           0.4
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Răng rắc!",
-      "dich": "Vượn trắng nhìn qua không thay đổi gì mấy so với trước đây, nhưng Viên Minh có thể cảm nhận được rất rõ lực lượng nhục thân lại lần nữa bạo tăng, khi giơ tay nhấc chân đều có một cỗ lực lượng lớn lan tỏa ra.",
+      "dich": "Răng rắc!",
       "suggest": "Răng rắc!",
       "similarity": [
         [
-          33,
+          31,
           1
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Cứng rắn đá xanh ứng thanh vỡ nát, hóa thành một chùm bột đá, từ đầu ngón tay chầm chậm bay xuống.",
-      "dich": "Hắn nhặt một tảng đá từ dưới đất lên rồi bóp nhẹ.",
+      "dich": "Tảng đá cứng rắn theo tiếng vỡ nát, hóa thành một chùm bột đá, từ kẽ tay hắn chảy xuống,",
       "suggest": "Đá xanh cứng rắn ứng với tiếng nổ nhỏ lập tức vỡ vụn, hóa thành một chùm đá xanh từ đầu ngón tay chậm rãi bay xuống.",
       "similarity": [
         [
-          34,
+          32,
           0.16
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh trong mắt lóe lên một vòng kinh hỉ, vốn cho là theo tu vi tăng lên, Phi Mao Thuật đối nhục thân chi lực gia trì sẽ cùng hình thể, dần dần yếu bớt, có thể vượn trắng này da giống như cũng không phải là như thế, lực lượng tăng phúc không giảm trái lại còn tăng.",
-      "dich": "Răng rắc!",
+      "dich": "Trong mắt Viên Minh hiện lên vẻ kinh ngạc pha lẫn vui mừng, hắn vốn cho tăng theo tu vi tăng lên, hiệu quả của Phi Mao Thuật đối với việc gia tăng lực lượng bản thân sẽ dần giảm bớt như với hình thể, nhưng da vượn trắng tựa hồ không phải vậy, hiệu quả gia tăng lực lượng không những không giảm mà còn tăng.",
       "suggest": "Viên Minh chớp mắt, vốn cho rằng tu vi tăng lên theo tu vi, lực gia trì của Thuật Phi Mao đối với thân thể dần dần yếu đi, có điều da vượn trắng này cũng không phải là như thế, lực lượng tăng phúc không những không giảm mà ngược lại còn tăng lên.",
       "similarity": [
         [
-          35,
+          33,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn trở về sơn động, lấy ra túi quần áo của mình, một thanh bao vải trường kiếm nghiêng cắm ở bên trong, chính là Thanh Ngư kiếm.",
-      "dich": "Tảng đá cứng rắn theo tiếng vỡ nát, hóa thành một chùm bột đá, từ kẽ tay hắn chảy xuống,",
+      "dich": "Hắn trở lại sơn động, lấy túi quần áo ra, bên trong túi có một thanh kiếm cắm nghiêng, cũng chính là Thanh Ngư kiếm.",
       "suggest": "Hắn trở về sơn động, lấy ra một kiện trường kiếm bằng vải bố cắm vào trong đó, đúng là Thanh Ngư kiếm.",
       "similarity": [
         [
-          36,
+          34,
           0.24
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Kiếm này cùng hắn hơi có chút duyên phận, ngày đó cùng lông trắng quái vật một trận đại chiến, Thanh Ngư kiếm thất lạc ở trong núi rừng, hắn lo lắng bị Ô Bảo bọn người phát giác tung tích, không có kịp thời thu hồi, vốn cho rằng kiếm này khẳng định rơi mất.",
-      "dich": "Trong mắt hắn hiện lên vẻ kinh ngạc pha lẫn vui mừng, hắn vốn cho tăng theo tu vi tăng lên, hiệu quả của Phi Mao Thuật đối với việc gia tăng lực lượng bản thân sẽ dần giảm bớt như với hình thể, nhưng da vượn trắng tựa hồ không phải vậy, hiệu quả gia tăng lực lượng không những không giảm mà còn tăng.",
+      "dich": "Kiếm này khá có duyên với hắn, ngày ấy đại chiến một trận với quái vật lông trắng, Thanh Ngư kiếm bị thất lạc trong núi rừng, hắn lại lo sẽ bị đám người Ô Bảo truy ra tung tích nên không đi tìm lại, vốn cho rằng kiếm này mất chắc rồi.",
       "suggest": "Kiếm này có chút duyên phận, ngày đó cùng với quái vật lông trắng đại chiến, thanh Ngư kiếm thất lạc trong rừng, hắn lo lắng bị Ô Bảo phát hiện, không kịp thu hồi, vốn cho rằng kiếm này chắc chắn đã rơi mất.",
       "similarity": [
         [
-          37,
+          35,
           0.23
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Nào biết được hắn về sau ra ngoài thu thập ẩm thực chi vật, ngẫu nhiên trải qua nơi đó, Thanh Ngư kiếm vẫn lẳng lặng nằm ở trong núi rừng.",
-      "dich": "Hắn trở lại sơn động, lấy túi quần áo ra, bên trong túi có một thanh kiếm cắm nghiêng, cũng chính là Thanh Ngư kiếm.",
+      "dich": "Nào ai biết được, về sau hắn trong lúc đi ra ngoài tìm kiếm đồ ăn thức uống, ngẫu nhiên qua nơi đó, phát hiện Thanh Ngư kiếm vẫn im lìm nằm giữa núi rừng.",
       "suggest": "Nào biết được sau này hắn đi ra ngoài mua thực vật, thỉnh thoảng đi qua những nơi đó, thanh Ngư kiếm vẫn lẳng lặng nằm yên lặng trong núi rừng.",
       "similarity": [
         [
-          38,
+          36,
           0.12
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh hướng lên trên phương leo lên, rất nhanh đến đỉnh chóp.",
-      "dich": "Kiếm này khá có duyên với hắn, ngày ấy đại chiến một trận với quái vật lông trắng, Thanh Ngư kiếm bị thất lạc trong núi rừng, hắn lại lo sẽ bị đám người Ô Bảo truy ra tung tích nên không đi tìm lại, vốn cho rằng kiếm này mất chắc rồi.",
+      "dich": "Viên Minh leo lên phía trên, rất nhanh đã tới đỉnh vách núi.",
       "suggest": "Viên Minh leo lên, rất nhanh đã tới đỉnh chóp.",
       "similarity": [
         [
-          39,
+          37,
           0.5
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn đi vào phụ cận một cây đại thụ bàng, từ rễ cây trong khe hở lấy ra một cái ống trúc, bên trong chứa một trương da thú.",
-      "dich": "Nào ai biết được, về sau hắn trong lúc đi ra ngoài tìm kiếm đồ ăn thức uống, ngẫu nhiên qua nơi đó, phát hiện Thanh Ngư kiếm vẫn im lìm nằm giữa núi rừng.",
+      "dich": "Hắn đi tới một cây đại thụ gần đó, lấy một ống trúc từ trong một hốc nhỏ trên rễ cây ra, chỉ thấy trong ống trúc đựng một tấm da thú.",
       "suggest": "Hắn đi vào một cây bàng lớn gần đó, lấy ra từ trong khe hở một cái ống trúc, bên trong có chứa một miếng da thú.",
       "similarity": [
         [
-          40,
+          38,
           0.14
         ],
         [
-          77,
+          72,
           0.13
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh mở ra da thú, phía trên viết đầy chữ nhỏ, lại là Thập Vạn Đại Sơn gần nhất tình huống, chính là Cáp Cống lưu lại.",
-      "dich": "Viên Minh leo lên phía trên, rất nhanh đã tới đỉnh vách núi.",
+      "dich": "Viên Minh mở tấm da thú ra, thấy ngay trên đó có chi chít những chữ nhỏ ghi lại tình hình Thập Vạn Đại Sơn gần đây. Thứ này chính là do Cáp Cống để lại.",
       "suggest": "Viên Minh mở bao da ra, trên đó viết đầy chữ nhỏ, đúng là tình huống Thập Vạn Đại Sơn gần nhất, chính là Cáp Cống lưu lại.",
       "similarity": [
         [
-          41,
+          39,
           0.2
         ],
         [
-          75,
+          70,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Cáp Cống ở nhập cốc không bao lâu liền khỏi bệnh rời đi, Viên Minh vì kịp thời nắm giữ Thập Vạn Đại Sơn tình huống, dùng trước đó đồng dạng biện pháp, mỗi tháng đều để Cáp Cống đem tin tức lưu ở nơi đây.",
-      "dich": "Hắn đi tới một cây đại thụ gần đó, lấy một ống trúc từ trong một hốc nhỏ trên rễ cây ra, chỉ thấy trong ống trúc đựng một tấm da thú.",
+      "dich": "Cáp Cống sau khi nhập cốc không bao lâu liền khỏi bệnh rời đi, Viên Minh vì muốn kịp thời nắm bắt tình hình Thập Vạn Đại Sơn nên lại dùng cách như trước đó, nhớ Cáp Cống mỗi tháng mang tin tức để lại ở chỗ này.",
       "suggest": "Cáp Cống ở lại trong cốc không bao lâu thì khỏi bệnh, Viên Minh vì kịp thời nắm tình hình Thập Vạn Đại Sơn nên đã dùng nhiều biện pháp khác nhau, mỗi tháng đều để Cáp Cống đem tin tức lưu lại tại chỗ.",
       "similarity": [
         [
-          41,
+          40,
           0.1
         ],
         [
-          43,
+          40,
           0.29
         ],
         [
-          75,
+          70,
           0.12
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Nhìn xem da thú bên trên tin tức, Viên Minh ánh mắt lạnh lùng mấy phần.",
-      "dich": "Viên Minh mở tấm da thú ra, thấy ngay trên đó có chi chít những chữ nhỏ ghi lại tình hình Thập Vạn Đại Sơn gần đây.",
+      "dich": "Nhìn tin tức trên miếng da thú, ánh mắt Viên Minh lạnh đi mấy phần.",
       "suggest": "Nhìn tin tức trên bao da, ánh mắt Viên Minh lạnh lùng thêm mấy phần.",
       "similarity": [
         [
-          44,
+          41,
           0.51
         ],
         [
-          93,
+          88,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Bên ngoài Thanh Lang Bang đã không còn treo thưởng đuổi bắt hắn, kì thực là Ô Bảo cũng không từ bỏ, âm thầm thực hiện khao thưởng so trước đó còn tăng lên không ít.",
-      "dich": "Thứ này chính là do Cáp Cống để lại.",
+      "dich": "Bề ngoài thì Thanh Lang Bang không còn treo thưởng truy bắt hắn nữa, thực tế Ô Bảo vẫn chưa từ bỏ, hơn nữa còn âm thầm treo thưởng lớn hơn trước không ít.",
       "suggest": "Thanh Lang bang bên ngoài cũng không còn treo thưởng đuổi bắt hắn, kì thật Ô Bảo cũng không từ bỏ, âm thầm thực hiện khao thưởng so với trước kia còn tăng lên không ít.",
       "similarity": [
         [
-          45,
+          42,
           0.17
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Chỉ là hắn hôm nay xưa đâu bằng nay, đơn thuần tu vi đã có thể cùng Ô Bảo so sánh, tự nhiên không sợ.",
-      "dich": "Cáp Cống sau khi nhập cốc không bao lâu liền khỏi bệnh rời đi, Viên Minh vì muốn kịp thời nắm bắt tình hình Thập Vạn Đại Sơn nên lại dùng cách như trước đó, nhớ Cáp Cống mỗi tháng mang tin tức để lại ở chỗ này.",
+      "dich": "Nhưng hắn giờ đã khác xưa, chỉ xét tu vi đã có thể so kè với Ô Bảo, dĩ nhiên không phải sợ.",
       "suggest": "Chỉ là tu vi của hắn ngày nay đâu còn bằng ngày xưa, chỉ là tu vi đơn thuần mà thôi, tự nhiên không sợ hãi.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Trừ cái đó ra, Thập Vạn Đại Sơn bên trong vẫn còn tính yên lặng, không có gì đặc biệt sự tình phát sinh.",
-      "dich": "Nhìn tin tức trên miếng da thú, ánh mắt Viên Minh lạnh đi mấy phần.",
+      "dich": "Trừ cái đó ra, nội bộ Thập Vạn Đại Sơn vẫn xem như bình ổn, không xảy ra chuyện gì đặc biệt.",
       "suggest": "Trừ cái này ra, trong Thập Vạn Đại Sơn vẫn giữ được tính yên lặng, không có chuyện gì đặc biệt phát sinh cả.",
       "similarity": [
         [
@@ -529,233 +573,253 @@
           0.1
         ],
         [
-          47,
+          44,
           0.28
         ],
         [
-          97,
+          92,
           0.12
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh thu hồi da thú, lấy ra một dáng khăn bao lấy diện mạo, hướng Cáp Mô Cốc bước đi.",
-      "dich": "Bề ngoài thì Thanh Lang Bang không còn treo thưởng truy bắt hắn nữa, thực tế Ô Bảo vẫn chưa từ bỏ, hơn nữa còn âm thầm treo thưởng lớn hơn trước không ít.",
+      "dich": "Viên Minh thu tấm da thú lại, lấy ra một miếng khăn vuông che khuôn mặt lại, cất bước đi về phía Cáp Mô Cốc.",
       "suggest": "Viên Minh thu hồi da thú, lấy ra một tấm khăn che mặt, đi về phía Cáp Mô Cốc.",
       "similarity": [
         [
-          48,
+          45,
           0.29
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Lúc trước hắn nắm Cáp Cống hướng Triệu Đồng cầu mua một kiện đồ vật, ngày nay sắp hai tháng đi tới, Triệu Đồng hẳn là đem đồ vật chuẩn bị xong.",
-      "dich": "Nhưng hắn giờ đã khác xưa, chỉ xét tu vi đã có thể so kè với Ô Bảo, dĩ nhiên không phải sợ.",
+      "dich": "Lúc trước hắn có nhờ Cáp Cống đi tìm Triệu Đồng cầu mua một món đồ, từ đó tới giờ đã qua hai tháng, hẳn là Triệu Đồng đã chuẩn bị xong xuôi món đồ đó rồi.",
       "suggest": "Lúc trước hắn cầm Cáp Cống cầu xin một kiện đồ vật, ngày hôm nay đã hai tháng trôi qua, chắc hẳn Triệu Đồng đã chuẩn bị xong hết.",
       "similarity": [
         [
-          49,
+          46,
           0.19
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Đi đường ở giữa, Viên Minh vô ý thức thôi động Vô Ảnh Bộ.",
-      "dich": "Trừ cái đó ra, nội bộ Thập Vạn Đại Sơn vẫn xem như bình ổn, không xảy ra chuyện gì đặc biệt.",
+      "dich": "Trên đường đi, Viên Minh vô thức thôi động Vô Ảnh Bộ.",
       "suggest": "Giữa đường, Viên Minh vô thức thôi động Vô Ảnh Bộ.",
       "similarity": [
         [
-          50,
+          47,
           0.77
         ],
         [
-          90,
+          85,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Theo tu vi cùng pháp lực tăng lên, hắn ngày nay thi triển ra cũng càng vì thu phóng tự nhiên.",
-      "dich": "Viên Minh thu tấm da thú lại, lấy ra một miếng khăn vuông che khuôn mặt lại, cất bước đi về phía Cáp Mô Cốc.",
+      "dich": "Theo tu vi và pháp lực tăng lên, Vô Ảnh Bộ mà hắn thi triển cũng càng thêm thuần thục tự nhiên, dễ dàng thu phát.",
       "suggest": "Theo tu vi và pháp lực tăng lên, ngày nay hắn thi triển ra ngoài cũng vì muốn giải phóng bản thân.",
       "similarity": [
         [
-          51,
+          48,
           0.33
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Đi tới nửa đường, phụ cận rừng cây \"Soạt\" một vang, một con to mọng thỏ xám thoan xuất hiện, hướng nơi xa hốt hoảng chạy trốn.",
-      "dich": "Lúc trước hắn có nhờ Cáp Cống đi tìm Triệu Đồng cầu mua một món đồ, từ đó tới giờ đã qua hai tháng, hẳn là Triệu Đồng đã chuẩn bị xong xuôi món đồ đó rồi.",
+      "dich": "Đi được nửa đường, rừng cây bên cạnh chợt có tiếng \"soạt\" vang lên, một con thỏ xám to béo nhảy ra, hốt hoảng chạy trốn.",
       "suggest": "Đi được nửa đường, rừng cây gần đó bỗng \"soạt\" một tiếng, một con thỏ xám thoan xuất hiện, chạy về phía xa.",
       "similarity": [
         [
-          52,
+          49,
           0.35
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh vì đột phá bình cảnh, bế quan ròng rã ba ngày ba đêm, giọt nước không vào, lúc này bụng có chút đói khát, bấm niệm pháp quyết hư không điểm ra.",
-      "dich": "Trên đường đi, Viên Minh vô thức thôi động Vô Ảnh Bộ.",
+      "dich": "Viên Minh vừa bế quan ròng rã ba ngày ba đêm để đột phá bình cảnh, một giọt nước cũng không uống, hiện tại bụng khá đói, liền bấm niệm pháp quyết điểm một cái vào hư không.",
       "suggest": "Viên Minh vì đột phá bình cảnh, bế quan ba ngày ba đêm, lúc này bụng đói khát, bấm niệm pháp quyết điểm vào hư không.",
       "similarity": [
         [
-          53,
+          50,
           0.31
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Chạy con thỏ dưới thân thanh mang hiện lên, một cây sắc bén gai gỗ trống rỗng toát ra, chính xác xuyên qua con thỏ thân thể, từ trên lưng xuyên thấu mà ra.",
-      "dich": "Theo tu vi và pháp lực tăng lên, Vô Ảnh Bộ mà hắn thi triển cũng càng thêm thuần thục tự nhiên, dễ dàng thu phát.",
+      "dich": "Dưới chân con thỏ đang chạy đột nhiên có ánh sáng xanh lóe lên, tiếp đó một cây gai gỗ thình lình xuất hiện, chuẩn xác xuyên qua người con thỏ, đâm ra sau lưng.",
       "suggest": "Thanh âm của con thỏ chạy phía dưới vang lên, một cái gai gỗ sắc bén xuất hiện xuyên qua thân thể con thỏ, xuyên qua cả thân thể nó rồi từ trên lưng nó chui ra.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Thỏ xám chi chi kêu thảm, vùng vẫy mấy lần, rất nhanh bất động.",
-      "dich": "Đi được nửa đường, rừng cây bên cạnh chợt có tiếng \"soạt\" vang lên, một con thỏ xám to béo nhảy ra, hốt hoảng chạy trốn.",
+      "dich": "Thỏ xám kêu chít chít thảm thiết, giãy dụa mấy cái rồi nhanh chóng bất động.",
       "suggest": "Con thỏ xám kêu thảm thiết, vùng vẫy mấy lần, nhưng rất nhanh đã bất động.",
       "similarity": [
         [
-          55,
+          52,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn đứng dậy lấy ra thỏ xám thi thể, đang muốn tẩy lột, động tác đột nhiên dừng lại, ánh mắt rơi vào thỏ cái cằm cùng chân trước bên trên.",
-      "dich": "Viên Minh vừa bế quan ròng rã ba ngày ba đêm để đột phá bình cảnh, một giọt nước cũng không uống, hiện tại bụng khá đói, liền bấm niệm pháp quyết điểm một cái vào hư không.",
+      "dich": "Hắn đứng dậy, bước tới lấy thi thể thỏ xám ra, đang định lột da thì đột nhiên ngừng động tác lại, ánh mắt rơi vào khoảng giữa cằm và chi trước con thỏ.",
       "suggest": "Hắn đứng dậy lấy thi thể thỏ, đang muốn tẩy rửa, nhưng đột nhiên dừng lại, ánh mắt tập trung lên cái cằm, chân trước của thỏ.",
       "similarity": [
         [
-          56,
+          53,
           0.19
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Nơi đó lây dính không ít vết máu, hiện ra màu đỏ thẫm, tuyệt không phải con thỏ máu tươi của mình.",
-      "dich": "Dưới chân con thỏ đang chạy đột nhiên có ánh sáng xanh lóe lên, tiếp đó một cây gai gỗ thình lình xuất hiện, chuẩn xác xuyên qua người con thỏ, đâm ra sau lưng.",
+      "dich": "Nơi đó dính không ít máu, toát ra màu đỏ thẫm, nhưng đấy chắc chắn không phải máu của con thỏ này.",
       "suggest": "Nơi đó dính không ít máu, hiện ra màu đỏ sẫm, tuyệt đối không phải máu tươi của con thỏ.",
       "similarity": [
         [
-          57,
+          54,
           0.39
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh từ vết máu đọng lại bên trong nhặt lên một cây hỏa hồng sắc mềm mại tóc dài, rõ ràng là con người tóc.",
-      "dich": "Thỏ xám kêu chít chít thảm thiết, giãy dụa mấy cái rồi nhanh chóng bất động.",
+      "dich": "Từ trong vết máu đọng, Viên Minh lấy ra một sợi lông dài mềm màu đỏ lửa, nhìn kỹ rõ ràng là tóc người.",
       "suggest": "Viên Minh nhặt một mái tóc dài màu hồng từ trong vết máu, rõ ràng là tóc của con người.",
       "similarity": [
         [
-          58,
+          55,
           0.17
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn sắc mặt biến được ngưng trọng, đứng dậy đi hướng con thỏ thoát ra rừng cây.",
-      "dich": "Hắn đứng dậy, bước tới lấy thi thể thỏ xám ra, đang định lột da thì đột nhiên ngừng động tác lại, ánh mắt rơi vào khoảng giữa cằm và chi trước con thỏ.",
+      "dich": "Sắc mặt hắn trở nên ngưng trọng, đứng lên, bước lại hướng mà con thỏ vừa nhảy ra.",
       "suggest": "Sắc mặt hắn trở nên ngưng trọng, đứng dậy đi về phía con thỏ thoát ra khỏi rừng cây.",
       "similarity": [
         [
-          59,
+          56,
           0.43
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Thoạt đầu không có cái gì phát hiện, có thể đi về phía trước không bao xa, một cỗ mùi máu tanh từ tiền phương truyền đến.",
-      "dich": "Nơi đó dính không ít máu, toát ra màu đỏ thẫm, nhưng đấy chắc chắn không phải máu của con thỏ này.",
+      "dich": "Ban đầu không phát hiện được đi, nhưng khi thêm một quãng ngắn, liền ngửi thấy mùi máu tanh từ đằng trước truyền tới.",
       "suggest": "Lúc đầu còn chưa có phát hiện, nhưng khi đã đi được không xa, một mùi máu tanh từ bên ngoài truyền tới.",
       "similarity": [
         [
-          60,
+          57,
           0.19
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh lần theo mùi hướng phía trước đi đến, rất nhanh đến một chỗ sơn cốc, đẩy ra cốc khẩu tươi tốt cỏ cây, sắc mặt của hắn bỗng nhiên biến đổi.",
-      "dich": "Từ trong vết máu đọng, Viên Minh lấy ra một sợi lông dài mềm màu đỏ lửa, nhìn kỹ rõ ràng là tóc người.",
+      "dich": "Viên Minh lần theo hướng phát ra mùi máu bước tới, rất nhanh tới được chỗ một sơn cốc. Rẽ đám hoa cỏ tươi tốt ở cửa cốc ra, sắc mặt hắn chợt biến đổi.",
       "suggest": "Viên Minh theo mùi hương thoang thoảng đi về phía trước, rất nhanh đã tới một sơn cốc tươi tốt, sau khi đẩy một đám cỏ lên khỏi cốc khẩu, sắc mặt hắn bỗng nhiên biến đổi.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Chỉ gặp trong sơn cốc ngổn ngang lộn xộn, nằm mấy cỗ thi thể, đều là phi mao thú nô, mỗi người thân thể đều vỡ vụn thành mấy khối, tử trạng vô cùng thê thảm.",
-      "dich": "Sắc mặt hắn trở nên ngưng trọng, đứng lên, bước lại hướng mà con thỏ vừa nhảy ra.",
+      "dich": "Chỉ thấy trong sơn cốc có mấy bộ thi thể nằm ngổn ngang, hơn nữa cùng là Phi Mao thú nô, thân thể kẻ nào kẻ nấy đều bị chia thành mấy khúc, tử trạng thảm không nỡ nhìn.",
       "suggest": "Chỉ thấy trong sơn cốc ngổn ngang thi thể, đều là Phi Mao thú nô, mỗi người thân thể đều vỡ vụn thành mấy mảnh, tử trạng vô cùng thê thảm.",
       "similarity": [
         [
-          63,
+          59,
           0.25
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Những người này phi mao da thú cũng bị xé rách thành nhiều khối, triệt để tổn hại.",
-      "dich": "Ban đầu không phát hiện được đi, nhưng khi thêm một quãng ngắn, liền ngửi thấy mùi máu tanh từ đằng trước truyền tới.",
+      "dich": "Phi Mao thú bì của những người này cũng bị xé rách thành nhiều mảnh, hoàn toàn hư hỏng.",
       "suggest": "Những bộ da thú này cũng bị xé thành nhiều mảnh, hoàn toàn tổn hại.",
       "similarity": [
         [
-          64,
+          60,
           0.36
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh lông mày cau chặt!",
-      "dich": "Viên Minh lần theo hướng phát ra mùi máu bước tới, rất nhanh tới được chỗ một sơn cốc.",
+      "dich": "Viên Minh nhíu chặt tràng mày!",
       "suggest": "Lông mày Viên Minh nhíu chặt lại!",
       "similarity": [
         [
-          65,
+          61,
           0.39
         ],
         [
-          89,
+          84,
           0.12
         ],
         [
-          96,
+          91,
           0.12
         ],
         [
-          105,
+          100,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Từ khi tiến vào Thập Vạn Đại Sơn sau hắn cũng coi như thường thấy huyết tinh chém giết, nhưng như thế hung tàn phân thây hành vi, cũng là lần đầu tiên nhìn thấy, phi mao thú nô chỉ sợ không ai sẽ làm như vậy, cũng không giống là hung thú làm.",
-      "dich": "Rẽ đám hoa cỏ tươi tốt ở cửa cốc ra, sắc mặt hắn chợt biến đổi.",
+      "dich": "Sau khi tiến vào Thập Vạn Đại Sơn, hắn cũng coi như quen nhìn thấy cảnh chém giết tanh máu, nhưng hành vi phân thây hung tàn như vậy thì mới thấy lần đầu, Phi Mao thú nô e là không ai đi làm vậy, có điều nhìn cũng không giống như hung thú làm.",
       "suggest": "Từ khi tiến vào Thập Vạn Đại Sơn hắn cũng coi như thường thấy hành động bạo tàn phân thây của huyết tinh, nhưng hành động hung tàn phân thây này cũng là lần đầu tiên hắn thấy, Phi Mao thú nô chỉ sợ không ai sẽ làm như vậy, cũng không giống hung thú.",
       "similarity": [
         [
-          66,
+          62,
           0.29
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn cố nén ác tâm, đem những thi thể này tra xét rõ ràng một phen, đáng tiếc cũng vô thu hoạch gì.",
-      "dich": "Chỉ thấy trong sơn cốc có mấy bộ thi thể nằm ngổn ngang, hơn nữa cùng là Phi Mao thú nô, thân thể kẻ nào kẻ nấy đều bị chia thành mấy khúc, tử trạng thảm không nỡ nhìn.",
+      "dich": "Hắn cố nén cảm giác buồn nôn, tra xét rõ ràng những thi thể này một phen, tiếc là không phát hiện được gì.",
       "suggest": "Hắn cố nén ác tâm, đem những thi thể này tra xét rõ ràng một phen, đáng tiếc cũng chẳng thu được gì.",
       "similarity": [
         [
-          67,
+          63,
           0.3
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh không có tiếp tục ở chỗ này lưu lại, rất nhanh rời đi.",
-      "dich": "Phi Mao thú bì của những người này cũng bị xé rách thành nhiều mảnh, hoàn toàn hư hỏng.",
+      "dich": "Viên Minh không tiếp tục ở lại đây mà nhanh chóng rời đi.",
       "suggest": "Viên Minh không tiếp tục ở lại đây nữa, rất nhanh rời đi.",
       "similarity": [
         [
@@ -763,114 +827,125 @@
           0.13
         ],
         [
-          68,
+          64,
           0.59
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn lúc này cũng không có muốn ăn, tiếp tục đi đường, rất nhanh đã tới Cáp Mô Cốc.",
-      "dich": "Viên Minh nhíu chặt tràng mày!",
+      "dich": "Hắn lúc này không còn bụng dạ nghĩ chuyện ăn uống, tiếp tục lên đường, chẳng mấy chốc đã đến Cáp Mô Cốc.",
       "suggest": "Lúc này hắn cũng không muốn ăn uống gì, tiếp tục đi đường, rất nhanh đã tới Cáp Mô Cốc.",
       "similarity": [
         [
           39,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Nhưng mà ngày bình thường có chút náo nhiệt Cáp Mô Cốc, lúc này yên tĩnh, có vẻ hơi quỷ dị.",
-      "dich": "Sau khi tiến vào Thập Vạn Đại Sơn, hắn cũng coi như quen nhìn thấy cảnh chém giết tanh máu, nhưng hành vi phân thây hung tàn như vậy thì mới thấy lần đầu, Phi Mao thú nô e là không ai đi làm vậy, có điều nhìn cũng không giống như hung thú làm.",
+      "dich": "Có điều Cáp Mô Cốc ngày thường khá náo nhiệt, giờ phút này lại im ắng, có vẻ khá quỷ dị.",
       "suggest": "Nhưng ngày thường Cáp Mô Cốc khá tĩnh lặng, có vẻ hơi quỷ dị.",
+      "similarity": [
+        [
+          66,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh vừa đi vừa ánh mắt bốn phía băn khoăn, trước đây gặp Bích La Động mấy tên đồ đệ dùng để làm ăn thạch ốc đều đóng cửa, toàn bộ sơn cốc vậy mà không có một người.",
+      "dich": "Viên Minh vừa đi vừa băn khoăn đưa mắt nhìn bốn phía, chỉ thấy mấy gian nhà đá mà đám đệ tử ký danh Bích La Động dùng làm chỗ buôn bán trước đây đều đóng cửa, cả sơn cốc không một bóng người.",
+      "suggest": "Viên Minh vừa đi vừa suy nghĩ, trước đây mấy tên đồ đệ làm nghề thạch ốc ở Bích La Động đều đóng cửa, toàn bộ sơn cốc chẳng có một ai.",
+      "similarity": [
+        [
+          67,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn rất mau tới đến Triệu Đồng cái gian phòng kia trước nhà đá, nơi này cũng tương tự người không, phòng trống.",
+      "dich": "Hắn mau chóng bước tới trước cửa căn nhà đá mà Triệu Đồng dùng trước đây, phát hiện ở đây cũng như vậy, tiếp tục là cảnh người không phòng trống.",
+      "suggest": "Rất nhanh hắn đã đi tới trước của phòng đá Triệu Đồng, phòng này cũng giống như người ở, phòng trống.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Hẳn là chuyện gì xảy ra?\"",
+      "dich": "\"Hẳn là đã có chuyện gì đó xảy ra?\"",
+      "suggest": "\"Chuyện gì đang xảy ra vậy?\"",
+      "similarity": [
+        [
+          69,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh sờ lên cằm, tự lẩm bẩm.",
+      "dich": "Viên Minh rờ cằm, lẩm bẩm tự hỏi.",
+      "suggest": "Viên Minh sờ sờ cằm, tự nói thầm.",
       "similarity": [
         [
           70,
           0.13
         ]
-      ]
-    },
-    {
-      "convert": "Viên Minh vừa đi vừa ánh mắt bốn phía băn khoăn, trước đây gặp Bích La Động mấy tên đồ đệ dùng để làm ăn thạch ốc đều đóng cửa, toàn bộ sơn cốc vậy mà không có một người.",
-      "dich": "Hắn cố nén cảm giác buồn nôn, tra xét rõ ràng những thi thể này một phen, tiếc là không phát hiện được gì.",
-      "suggest": "Viên Minh vừa đi vừa suy nghĩ, trước đây mấy tên đồ đệ làm nghề thạch ốc ở Bích La Động đều đóng cửa, toàn bộ sơn cốc chẳng có một ai.",
-      "similarity": [
-        [
-          71,
-          0.18
-        ]
-      ]
-    },
-    {
-      "convert": "Hắn rất mau tới đến Triệu Đồng cái gian phòng kia trước nhà đá, nơi này cũng tương tự người không, phòng trống.",
-      "dich": "Viên Minh không tiếp tục ở lại đây mà nhanh chóng rời đi.",
-      "suggest": "Rất nhanh hắn đã đi tới trước của phòng đá Triệu Đồng, phòng này cũng giống như người ở, phòng trống.",
-      "similarity": []
-    },
-    {
-      "convert": "\"Hẳn là chuyện gì xảy ra?\"",
-      "dich": "Hắn lúc này không còn bụng dạ nghĩ chuyện ăn uống, tiếp tục lên đường, chẳng mấy chốc đã đến Cáp Mô Cốc.",
-      "suggest": "\"Chuyện gì đang xảy ra vậy?\"",
-      "similarity": [
-        [
-          73,
-          0.11
-        ]
-      ]
-    },
-    {
-      "convert": "Viên Minh sờ lên cằm, tự lẩm bẩm.",
-      "dich": "Có điều Cáp Mô Cốc ngày thường khá náo nhiệt, giờ phút này lại im ắng, có vẻ khá quỷ dị.",
-      "suggest": "Viên Minh sờ sờ cằm, tự nói thầm.",
-      "similarity": [
-        [
-          74,
-          0.13
-        ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Cáp Cống cho tin tức của hắn đã nói Thập Vạn Đại Sơn cũng không khác dị thường, xem ra Cáp Mô Cốc bực này kịch biến là gần đây sự tình.",
-      "dich": "Viên Minh vừa đi vừa băn khoăn đưa mắt nhìn bốn phía, chỉ thấy mấy gian nhà đá mà đám đệ tử ký danh Bích La Động dùng làm chỗ buôn bán trước đây đều đóng cửa, cả sơn cốc không một bóng người.",
+      "dich": "Tin tức mà Cáp Cống đưa cho hắn đã nói tình hình Thập Vạn Đại Sơn gần đây không có gì dị thường, xem ra Cáp Mô Cốc xảy ra kịch biến cỡ này là chuyện mới gần đây.",
       "suggest": "Theo tin tức của Cáp Cống thì tin tức của hắn nói về Thập Vạn Đại Sơn cũng không khác mấy, xem ra chuyện kịch biến ở Cáp Mô Cốc gần đây rất gần.",
       "similarity": [
         [
-          75,
+          71,
           0.13
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh im lặng đứng thẳng một lát, đang muốn quay người rời đi, đột nhiên nghĩ tới một chuyện, đi vào thạch ốc đằng sau, đưa tay luồn vào thạch ốc nơi hẻo lánh chỗ hai khối tảng đá lớn ở giữa trong khe hở.",
-      "dich": "Hắn mau chóng bước tới trước cửa căn nhà đá mà Triệu Đồng dùng trước đây, phát hiện ở đây cũng như vậy, tiếp tục là cảnh người không phòng trống.",
+      "dich": "Viên Minh im lắng đứng một lát, khi đang định quay người rời đi, đột nhiên nghĩ tới một chuyện, xong liền cất bước đi tới chỗ hẻo lánh phía sau gian nhà đá, vươn tay thò vào kẽ hở giữa hai tảng đá lớn.",
       "suggest": "Viên Minh im lặng đứng tại chỗ suy nghĩ một lát, đang muốn quay người rời đi, đột nhiên nghĩ tới một chuyện, quay người đi vào trong thạch ốc, đưa tay luồn vào khe hở giữa hai khối đá lớn.",
       "similarity": [
         [
-          76,
+          72,
           0.34
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn rất nhanh cầm lại tay, lòng bàn tay đã nhiều một khối da thú.",
-      "dich": "\"Hẳn là đã có chuyện gì đó xảy ra?\"",
+      "dich": "Hắn rất nhanh đã rút tay ra, trong lòng bàn tay có thêm một miếng da thú.",
       "suggest": "Rất nhanh hắn đã cầm lấy tay, trong lòng bàn tay đã có rất nhiều da thú.",
       "similarity": [
         [
-          77,
+          73,
           0.29
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh cùng Triệu Đồng giao dịch nhiều lần, có chút quen biết, đây là hai người lẫn nhau lưu lời nhắn địa phương, lấy viết thư phương thức cùng Thổ Lặc, Cáp Cống trao đổi, vẫn là từ Triệu Đồng nơi này học được.",
-      "dich": "Viên Minh rờ cằm, lẩm bẩm tự hỏi.",
+      "dich": "Viên Minh cùng Triệu Đồng từng giao dịch nhiều lần nên khá quen thuộc, chỗ này chính là nơi để hai người để lại lời nhắn cho đối phương. Phương thức dùng thư để giao lưu với Thổ Lặc, Cáp Cống cũng chính là học từ chỗ Triệu Đồng.",
       "suggest": "Viên Minh và Triệu Đồng giao dịch nhiều lần, có chút quen biết. Nơi đây là địa điểm hai người trao đổi thư từ, phương thức gửi thư, trao đổi, vẫn là do Triệu Đồng học được từ nơi này.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Viên Minh triển khai da thú, nội dung phía trên không nhiều, rất mau nhìn xong.",
-      "dich": "Tin tức mà Cáp Cống đưa cho hắn đã nói tình hình Thập Vạn Đại Sơn gần đây không có gì dị thường, xem ra Cáp Mô Cốc xảy ra kịch biến cỡ này là chuyện mới gần đây.",
+      "dich": "Viên Minh mở tấm da thú ra, nội dung ghi trên đó không nhiều, chỉ thoáng cái đã đọc hết.",
       "suggest": "Viên Minh mở bao da ra, nội dung bên trong không nhiều lắm, rất nhanh đã đọc xong.",
       "similarity": [
         [
@@ -878,102 +953,111 @@
           0.14
         ],
         [
-          80,
+          75,
           0.19
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Căn cứ Triệu Đồng lưu lại lời nhắn, đóng cửa Cáp Mô Cốc là Bích La Động tông môn yêu cầu, về phần nguyên nhân, tựa hồ là Thập Vạn Đại Sơn bên trong xảy ra biến cố gì, Triệu Đồng còn dặn dò Viên Minh cẩn thận.",
-      "dich": "Viên Minh im lắng đứng một lát, khi đang định quay người rời đi, đột nhiên nghĩ tới một chuyện, xong liền cất bước đi tới chỗ hẻo lánh phía sau gian nhà đá, vươn tay thò vào kẽ hở giữa hai tảng đá lớn.",
+      "dich": "Căn cứ lời nhắn mà Triệu Đồng để lại, đóng cửa Cáp Mô Cốc là yêu cầu từ Bích La Động, có vẻ như trong Thập Vạn Đại Sơn đã xảy ra biến cố nào đó, Triệu Đồng còn dặn Viên Minh phải cẩn thận.",
       "suggest": "Căn cứ theo lời Triệu Đồng, yêu cầu đóng cửa Cáp Mô Cốc là yêu cầu của tông môn Bích La động, về phần nguyên nhân, tựa hồ như trong Thập Vạn Đại Sơn đã xảy ra chuyện gì, Triệu Đồng còn dặn dò Viên Minh cẩn thận hơn.",
       "similarity": [
         [
-          81,
+          76,
           0.33
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn thu hồi da thú, trong đầu không khỏi hiện lên trước đây không lâu nhìn thấy toái thi hình tượng, những cái kia phi mao thú nô tử không biết cùng dưới mắt biến cố có quan hệ hay không?",
-      "dich": "Hắn rất nhanh đã rút tay ra, trong lòng bàn tay có thêm một miếng da thú.",
+      "dich": "Hắn thu tấm da thú lại, trong đầu không khỏi hiện lên hình ảnh thi thể đứt rời mới thấy khi nãy, không biết cái chết của những Phi Mao thú nô kia và biến cố trước mắt này có quan hệ gì hay không?",
       "suggest": "Hắn thu lại da thú, trong đầu bỗng hiện lên hình ảnh hình ảnh không lâu trước đây không thấy: những nô bộc Phi Mao kia không biết có quan hệ gì với biến cố sau này không?",
       "similarity": [
         [
-          82,
+          77,
           0.17
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh không có ở Cáp Mô Cốc dừng lại lâu, rất nhanh quay người rời đi, trực tiếp quay trở về mê vụ trong hạp cốc nơi ở, dự định củng cố một lần cảnh giới.",
-      "dich": "Viên Minh cùng Triệu Đồng từng giao dịch nhiều lần nên khá quen thuộc, chỗ này chính là nơi để hai người để lại lời nhắn cho đối phương.",
+      "dich": "Viên Minh không dừng lại lâu trong Cáp Mô Cốc, rất nhanh đã quay người rời đi, một đường đi thẳng về nơi ở dưới hạp cốc mù sương, dự tính củng cố cảnh giới thêm chút.",
       "suggest": "Viên Minh không dừng lại ở Cáp Mô Cốc lâu, nhanh chóng quay người trở về tiểu viện của mình, đang muốn củng cố cảnh giới một lần nữa.",
       "similarity": [
         [
-          83,
+          78,
           0.18
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn tu vi tuy có tăng lên, nhưng cũng không dám mù quáng tự đại, Thập Vạn Đại Sơn bên trong biến cố để Bích La Động đều có chút coi trọng, hắn tự nhiên không dám xem thường.",
-      "dich": "Phương thức dùng thư để giao lưu với Thổ Lặc, Cáp Cống cũng chính là học từ chỗ Triệu Đồng.",
+      "dich": "Tu vi của hắn tăng lên nhưng bản thân cũng không dám mù quáng tự đại, biến cố xảy ra trong Thập Vạn Đại Sơn khiến Bích La Động cũng phải xem trọng, hắn tự nhiên càng không dám coi thường.",
       "suggest": "Tu vi của hắn tuy có tăng lên, nhưng cũng không dám mù quáng tự đại, trong Thập Vạn Đại Sơn mọi biến cố đều có chút quan trọng, hắn đương nhiên không dám xem thường.",
       "similarity": [
         [
-          84,
+          79,
           0.37
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Năm ngày sau đó, Viên Minh lại lần nữa đi ra động phủ, trèo lên hẻm núi, hướng cột mốc biên giới chỗ bước đi.",
-      "dich": "Viên Minh mở tấm da thú ra, nội dung ghi trên đó không nhiều, chỉ thoáng cái đã đọc hết.",
+      "dich": "Năm ngày sau đó, Viên Minh lại lần nữa ra khỏi động phủ, trèo lên hạp cộc, tiến về phía tảng đá mốc giới.",
       "suggest": "Năm ngày sau, Viên Minh lại lần nữa ra khỏi động phủ, trèo lên hẻm núi, tiếp tục đi về phía cột mốc biên giới.",
       "similarity": [
         [
-          85,
+          80,
           0.52
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn cũng không phải là phải ra ngoài săn thú, hôm nay là giao nạp tinh huyết thời gian.",
-      "dich": "Căn cứ lời nhắn mà Triệu Đồng để lại, đóng cửa Cáp Mô Cốc là yêu cầu từ Bích La Động, có vẻ như trong Thập Vạn Đại Sơn đã xảy ra biến cố nào đó, Triệu Đồng còn dặn Viên Minh phải cẩn thận.",
+      "dich": "Cũng không phải hắn muốn ra ngoài săn thú, mà hôm nay là hạn giao nộp tinh huyết.",
       "suggest": "Hắn cũng không phải ra ngoài săn thú mà là thời gian giao nạp tinh huyết.",
       "similarity": [
         [
-          86,
+          81,
           0.21
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh rất nhanh đến cự thạch cột mốc biên giới dưới, phát hiện Ô Lỗ cũng đã đến.",
-      "dich": "Hắn thu tấm da thú lại, trong đầu không khỏi hiện lên hình ảnh thi thể đứt rời mới thấy khi nãy, không biết cái chết của những Phi Mao thú nô kia và biến cố trước mắt này có quan hệ gì hay không?",
+      "dich": "Viên Minh rất nhanh liền tới chỗ tảng đá mốc giới, phát hiện Ô Lỗ cũng đã đến.",
       "suggest": "Viên Minh rất nhanh đã đi tới mốc giới cự thạch, lúc này Ô Lỗ cũng đã đến.",
       "similarity": [
         [
-          87,
+          82,
           0.4
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Ô Lỗ, từ khi chia tay đến giờ không có vấn đề gì chứ.\"",
-      "dich": "Viên Minh không dừng lại lâu trong Cáp Mô Cốc, rất nhanh đã quay người rời đi, một đường đi thẳng về nơi ở dưới hạp cốc mù sương, dự tính củng cố cảnh giới thêm chút.",
+      "dich": "\"Ô Lỗ, từ khi chia tay tới giờ không vấn đề gì chứ.\"",
       "suggest": "\"Ô Lỗ, từ khi chia tay đến giờ không có vấn đề gì cả.\"",
       "similarity": [
         [
-          88,
+          83,
           0.53
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh lên tiếng chào.",
-      "dich": "Tu vi của hắn tăng lên nhưng bản thân cũng không dám mù quáng tự đại, biến cố xảy ra trong Thập Vạn Đại Sơn khiến Bích La Động cũng phải xem trọng, hắn tự nhiên càng không dám coi thường.",
+      "dich": "Viên Minh lên tiếng chào.",
       "suggest": "Viên Minh lên tiếng chào.",
       "similarity": [
         [
@@ -981,87 +1065,94 @@
           0.13
         ],
         [
-          89,
+          84,
           1
         ],
         [
-          96,
+          91,
           0.21
         ],
         [
-          105,
+          100,
           0.12
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Còn tốt, Viên Minh huynh gần đây như thế nào?\"",
-      "dich": "Năm ngày sau đó, Viên Minh lại lần nữa ra khỏi động phủ, trèo lên hạp cộc, tiến về phía tảng đá mốc giới.",
+      "dich": "\"Còn tốt, Viên Minh huynh gần đây thế nào?\"",
       "suggest": "\"Còn tốt lắm, gần đây Viên Minh huynh thế nào?\"",
       "similarity": [
         [
-          90,
+          85,
           0.37
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Ô Lỗ mỉm cười hỏi.",
-      "dich": "Cũng không phải hắn muốn ra ngoài săn thú, mà hôm nay là hạn giao nộp tinh huyết.",
+      "dich": "Ô Lỗ cười hỏi.",
       "suggest": "Ô Lỗ mỉm cười hỏi.",
       "similarity": [
         [
-          91,
+          86,
           0.41
         ],
         [
-          96,
+          91,
           0.19
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Coi như qua đi.\"",
-      "dich": "Viên Minh rất nhanh liền tới chỗ tảng đá mốc giới, phát hiện Ô Lỗ cũng đã đến.",
+      "dich": "\"Cũng tàm tạm.\"",
       "suggest": "\"Coi như qua đi.\"",
       "similarity": [
         [
-          92,
+          87,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh mỉm cười nói, thái độ so trước đó nhiều hơn mấy phần thân mật.",
-      "dich": "\"Ô Lỗ, từ khi chia tay tới giờ không vấn đề gì chứ.\"",
+      "dich": "Viên Minh mỉm cười đáp, thái độ thân thiện hơn trước đấy mấy phần.",
       "suggest": "Viên Minh mỉm cười nói, thái độ so với trước kia còn thân mật hơn mấy phần.",
       "similarity": [
         [
-          93,
+          88,
           0.25
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Thanh Lang Bang mặc dù đã rút về nhân thủ, không còn quy mô truy tung với hắn, hai ở giữa mâu thuẫn nhưng không có hóa giải, ngày nay mấy tháng trôi qua, Thanh Lang Bang chưa ở cột mốc biên giới phụ cận mai phục qua hắn, lại cùng Ô Lỗ có không ít quan hệ.",
-      "dich": "Viên Minh lên tiếng chào.",
+      "dich": "Thanh Lang Bang dù đã rút nhân thủ về, không còn tổ chức truy tìm hắn với quy mô lớn nhưng mâu thuẫn giữa hai bên còn chưa hóa giải, hiện tại trải qua mấy tháng mà Thanh Lang Bang chưa từng mai phục quanh chỗ mốc giới này, chuyện này cùng Ô Lỗ có liên quan rất lớn.",
       "suggest": "Thanh Lang bang mặc dù đã rút về nhân thủ, không còn quy mô truy tung, hai bên mâu thuẫn vẫn không được hóa giải. Mấy tháng trôi qua, Thanh Lang bang vẫn chưa tới sát biên giới Việt-Trung, hơn nữa còn có quan hệ không nhỏ với Ô Lỗ.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "\"Ô Lỗ huynh, ta mấy ngày trước đây tiến về Cáp Mô Cốc, nơi đó không có một ai, nhiều mặt nghe ngóng sau mới nghe nói là Thập Vạn Đại Sơn bên trong phát sinh dị biến, dẫn đến Cáp Mô Cốc bị phong cấm, Thanh Lang Bang tin tức linh thông, không biết phải chăng là dạng này?\"",
-      "dich": "\"Còn tốt, Viên Minh huynh gần đây thế nào?\"",
+      "dich": "\"Ô Lỗ huynh, ta mấy ngày có đi đến Cáp Mô Cốc, nơi đó không một bóng người, thăm dò nhiều bên xong mới nghe được rằng trong Thập Vạn Đại Sơn phát sinh dị biến, dẫn tới Cáp Mô Cốc bị phong cấm, Thanh Lang Bang tin tức nhạy bén, không biết có phải vậy không?\"",
       "suggest": "\"Ô Lỗ huynh, mấy ngày trước ta tiến vào Cáp Mô Cốc, nơi đó không có một ai, sau nhiều ngày nghe ngóng mới biết là trong Thập Vạn Đại Sơn phát sinh dị biến, dẫn đến Cáp Mô Cốc bị phong cấm, Thanh Lang Bang tin tức linh thông. Không biết có phải như vậy không?\"",
       "similarity": [
         [
-          95,
+          90,
           0.42
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh hỏi.",
-      "dich": "Ô Lỗ cười hỏi.",
+      "dich": "Viên Minh hỏi.",
       "suggest": "Viên Minh hỏi.",
       "similarity": [
         [
@@ -1081,30 +1172,31 @@
           0.21
         ],
         [
-          96,
+          91,
           1
         ],
         [
-          105,
+          100,
           0.12
+        ],
+        [
+          103,
+          0.18
+        ],
+        [
+          105,
+          0.18
         ],
         [
           108,
           0.18
-        ],
-        [
-          110,
-          0.18
-        ],
-        [
-          113,
-          0.18
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Tiếp theo Thập Vạn Đại Sơn sẽ phát sinh biến cố gì, chúng ta cũng không rõ ràng.\"",
-      "dich": "\"Cũng tàm tạm.\"",
+      "dich": "\"Tiếp đây Thập Vạn Đại Sơn sẽ phát sinh biến cố gì, chúng ta cũng không rõ.\"",
       "suggest": "\"Tiếp theo Thập Vạn Đại Sơn sẽ xảy ra biến cố gì, chúng ta cũng không rõ.\"",
       "similarity": [
         [
@@ -1112,115 +1204,123 @@
           0.13
         ],
         [
-          97,
+          92,
           0.69
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Ô Lỗ như có điều suy nghĩ thở dài một tiếng, lắc đầu nói.",
-      "dich": "Viên Minh mỉm cười đáp, thái độ thân thiện hơn trước đấy mấy phần.",
+      "dich": "Ô Lỗ thở dài như có điều suy nghĩ, lắc đầu đáp.",
       "suggest": "Ô Lỗ như có điều suy nghĩ, lắc đầu nói.",
       "similarity": [
         [
-          98,
+          93,
           0.58
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hai người câu được câu không nói chuyện phiếm bên trong, Hô Hỏa trưởng lão cưỡi cự ưng từ đằng xa lao vùn vụt tới, ở cột mốc biên giới phụ cận rơi xuống.",
-      "dich": "Thanh Lang Bang dù đã rút nhân thủ về, không còn tổ chức truy tìm hắn với quy mô lớn nhưng mâu thuẫn giữa hai bên còn chưa hóa giải, hiện tại trải qua mấy tháng mà Thanh Lang Bang chưa từng mai phục quanh chỗ mốc giới này, chuyện này cùng Ô Lỗ có liên quan rất lớn.",
+      "dich": "Trong khi hai người đang ta một câu ngươi một câu trò chuyện, Hô Hỏa trưởng lão cưỡi cự ưng từ phía xa vùn vụt lao tới, đáp xuống chỗ cạnh cột mốc.",
       "suggest": "Trong lúc hai người đang nói chuyện phiếm, Hô Hỏa trưởng lão cưỡi cự ưng từ đằng xa bay vút tới, đậu xuống cạnh cột mốc biên giới.",
       "similarity": [
         [
-          99,
+          94,
           0.32
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Gặp qua Hô Hỏa trưởng lão!\"",
-      "dich": "\"Ô Lỗ huynh, ta mấy ngày có đi đến Cáp Mô Cốc, nơi đó không một bóng người, thăm dò nhiều bên xong mới nghe được rằng trong Thập Vạn Đại Sơn phát sinh dị biến, dẫn tới Cáp Mô Cốc bị phong cấm, Thanh Lang Bang tin tức nhạy bén, không biết có phải vậy không?\"",
+      "dich": "\"Bái kiến Hô Hỏa trưởng lão!\"",
       "suggest": "\"Gặp Hô Hỏa trưởng lão!\"",
       "similarity": [
         [
-          100,
+          95,
           0.61
         ],
         [
-          103,
+          98,
           0.16
         ],
         [
-          104,
+          99,
           0.29
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh cùng Ô Lỗ vội vàng đứng dậy hành lễ.",
-      "dich": "Viên Minh hỏi.",
+      "dich": "Viên Minh và Ô Lỗ vội vàng đứng dậy thi lễ.",
       "suggest": "Viên Minh và Ô Lỗ vội vàng đứng dậy hành lễ.",
       "similarity": [
         [
-          101,
+          96,
           0.77
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Hai người các ngươi đều ở nơi này, rất tốt, có kiện sự tình phải cáo tri các ngươi.\"",
-      "dich": "\"Tiếp đây Thập Vạn Đại Sơn sẽ phát sinh biến cố gì, chúng ta cũng không rõ.\"",
+      "dich": "\"Hai ngươi các ngươi đều ở chỗ này, rất tốt, có một chuyện muốn thông báo với các ngươi!\"",
       "suggest": "\"Hai ngươi đều ở đây, rất tốt, có chuyện gì cần phải cáo tri cho các ngươi.\"",
       "similarity": [
         [
-          102,
+          97,
           0.27
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hô Hỏa trưởng lão từ cự ưng bên trên nhảy xuống, nói.",
-      "dich": "Ô Lỗ thở dài như có điều suy nghĩ, lắc đầu đáp.",
+      "dich": "Hô Hỏa trưởng lão nhảy từ trên người cự ưng xuống, nói ngay.",
       "suggest": "Hô Hỏa trưởng lão nhảy từ trên cự ưng xuống, nói.",
       "similarity": [
         [
-          100,
+          98,
           0.19
         ],
         [
-          103,
+          98,
           0.66
         ],
         [
-          104,
+          99,
           0.21
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Còn xin Hô Hỏa trưởng lão phân phó.\"",
-      "dich": "Trong khi hai người đang ta một câu ngươi một câu trò chuyện, Hô Hỏa trưởng lão cưỡi cự ưng từ phía xa vùn vụt lao tới, đáp xuống chỗ cạnh cột mốc.",
+      "dich": "\"Mời Hô Hỏa trưởng lão căn dặn.\"",
       "suggest": "\"Còn nữa, xin Hô Hỏa trưởng lão phân phó.\"",
       "similarity": [
         [
-          100,
+          99,
           0.21
         ],
         [
-          103,
+          99,
           0.18
         ],
         [
-          104,
+          99,
           0.24
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh hai người cung kính trả lời.",
-      "dich": "\"Bái kiến Hô Hỏa trưởng lão!\"",
+      "dich": "Hai người Viên Minh cung kính đáp.",
       "suggest": "Hai người Viên Minh cung kính trả lời.",
       "similarity": [
         [
@@ -1232,54 +1332,13 @@
           0.1
         ],
         [
-          105,
+          100,
           0.62
         ]
-      ]
-    },
-    {
-      "dich": "Viên Minh và Ô Lỗ vội vàng đứng dậy thi lễ."
-    },
-    {
-      "dich": "\"Hai ngươi các ngươi đều ở chỗ này, rất tốt, có một chuyện muốn thông báo với các ngươi!\""
-    },
-    {
-      "dich": "Hô Hỏa trưởng lão nhảy từ trên người cự ưng xuống, nói ngay."
-    },
-    {
-      "dich": "\"Mời Hô Hỏa trưởng lão căn dặn.\""
-    },
-    {
-      "dich": "Hai người Viên Minh cung kính đáp."
-    },
-    {
-      "dich": "__________________________________________"
-    },
-    {
-      "dich": "Chú giải:"
-    },
-    {
-      "dich": "1."
-    },
-    {
-      "dich": "Vật ngã lưỡng vong: Cảnh giới quên mọi thứ xung quanh, quên luôn bản thân."
-    },
-    {
-      "dich": "2."
-    },
-    {
-      "dich": "Các bạn còn nhớ Viên Minh là tứ linh căn khuyết Thổ không, đúng vậy, đây là lỗ hổng trong truyện mà Vong Ngữ tạo ra khi Viên Minh lại tu luyện được Địa Thứ Thuật thuộc tính Thổ, để vá thì mấy chương gần đây lão Vong sửa nó thành Mộc Thứ Thuật."
-    },
-    {
-      "dich": "Mình sẽ dò và chỉnh sửa lại cho khớp với nguyên tác sau, trước mắt bạn đọc hãy tự sửa trong đầu giúp mình, Viên Minh luyện Mộc Thứ Thuật chứ không phải Địa Thứ Thuật nhaaaaaa!"
-    },
-    {
-      "dich": "3."
-    },
-    {
-      "dich": "Tử trạng: tình trạng khi chết."
+      ],
+      "approved": true
     }
   ],
-  "currentWorkingLine": 0,
+  "currentWorkingLine": 101,
   "changed": true
 }
