@@ -188,7 +188,7 @@ print("Temp dir:", temp_dir)
 output_dir = join(temp_dir, "output")
 training_args = Seq2SeqTrainingArguments(
     output_dir=output_dir,
-    evaluation_strategy="epoch",
+    eval_strategy="epoch",
     learning_rate=2e-5,
     # Reduce batch size to 8 to
     per_device_train_batch_size=per_device_train_batch_size,
