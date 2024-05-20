@@ -1,0 +1,2763 @@
+{
+  "next": {
+    "id": 58,
+    "title": "Chương 58: Phục kích"
+  },
+  "previous": {
+    "id": 56,
+    "title": "Chương 56: Giúp ta một chút"
+  },
+  "title": {
+    "convert": "Chương 57",
+    "dich": "Chương 57"
+  },
+  "lines": [
+    {
+      "convert": "Nhân Tiêu Vương trong sào huyệt.",
+      "dich": "Trong sào huyệt của Nhân Tiêu Vương.",
+      "suggest": "Trong sào huyệt của Nhân Tiêu Vương.",
+      "similarity": [
+        [
+          0,
+          1
+        ],
+        [
+          3,
+          0.26
+        ],
+        [
+          30,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "Cạnh huyết trì, lẳng lặng nằm một bộ không đầu thi thể, toàn thân sinh cơ đã đoạn tuyệt.",
+      "dich": "Một thi thể không đầu nằm lặng yên bên ao máu, toàn thấy không còn chút dấu hiệu nào của sự sống.",
+      "suggest": "Huyết trì bên cạnh, lẳng lặng nằm một bộ thi thể không đầu không đầu, sinh cơ toàn thân đã đoạn tuyệt.",
+      "similarity": [
+        [
+          1,
+          0.12
+        ],
+        [
+          20,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh ngồi xổm ở một bên, trên mặt đất mở ra lấy một kiện vải rách quần áo, phía trên chính đoan đoan chính chính đặt vào một viên đỏ sậm màu sắc đầu người, chính là Nhân Tiêu Vương.",
+      "dich": "Viên Minh ngồi xổm bên cạnh, trải một tấm vải rách ra nền đất, đặt ngay ngắn cái đầu người màu đỏ sậm lên đó.",
+      "suggest": "Viên Minh ngồi một bên, trên mặt đất mở một cái túi vải, bên trên đặt một cái đầu người màu đỏ sậm, chính là Nhân Tiêu Vương.",
+      "similarity": [
+        [
+          2,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn cẩn thận đóng gói tốt cái đầu kia, nhìn về phía ngồi xổm một bên ngân miêu.",
+      "dich": "Cái đầu này chính là đầu Nhân Tiêu Vương.",
+      "suggest": "Hắn cẩn thận đóng gói cái đầu kia lại, nhìn về phía con chim nhỏ đang ngồi xổm một bên.",
+      "similarity": [
+        [
+          4,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn chính quan sát tỉ mỉ lấy trước người một lớn chừng bằng trái long nhãn màu đen viên châu, không biết đang suy tư điều gì.",
+      "dich": "Hắn cẩn thận bao buộc tấm vải lại, xong đưa mắt nhìn mèo bạc đang ngồi xổm bên cạnh.",
+      "suggest": "Hắn đang quan sát một viên Uế Khí Châu lớn cỡ trái long nhãn, không biết đang suy tư điều gì.",
+      "similarity": [
+        [
+          5,
+          0.43
+        ]
+      ]
+    },
+    {
+      "convert": "\"Đi thôi.\"",
+      "dich": "Nó hiện đang tỉ mỉ quan sát một viên châu to bằng quả long nhãn trước người, không biết đang suy tư điều gì.",
+      "suggest": "\"Đi thôi.\"",
+      "similarity": [
+        [
+          6,
+          1
+        ],
+        [
+          29,
+          0.13
+        ],
+        [
+          35,
+          0.11
+        ],
+        [
+          68,
+          0.12
+        ],
+        [
+          77,
+          0.11
+        ],
+        [
+          79,
+          0.24
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh mở miệng nhắc nhở.",
+      "dich": "\"Đi thôi.\"",
+      "suggest": "Viên Minh mở miệng nhắc nhở.",
+      "similarity": [
+        [
+          7,
+          0.16
+        ],
+        [
+          83,
+          0.15
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân miêu giật mình hoàn hồn, nâng lên một con chân trước, ở Hồn Châu bên trên nhẹ nhàng quét qua, Hồn Châu liền biến mất ở nguyên địa.",
+      "dich": "Viên Minh lên tiếng nhắc.",
+      "suggest": "Con chim nhỏ giật mình hoàn hồn, nhấc chân trước lên, nhẹ nhàng quét qua cái bóng màu bạc kia, Hồn Châu liền biến mất ở nguyên tại chỗ.",
+      "similarity": [
+        [
+          8,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh thấy ngạc nhiên, nhưng cũng không có hỏi nhiều cái gì, nhấc lên bao lấy Nhân Tiêu Vương thủ cấp bao khỏa, ở ngân miêu chỉ dẫn dưới, từ một bên khác động quật lối ra rời đi....",
+      "dich": "Mèo bạc giật mình tỉnh hồn, nâng một chân trước lên xong nhẹ nhàng quet qua khoảng không bên trên viên châu, Hồn châu lập tức biến mất tại chỗ.",
+      "suggest": "Viên Minh thấy ngạc nhiên nhưng cũng không hỏi nhiều, nhanh chóng cầm bao lớn của Vương thủ lĩnh lên, sau khi đọc qua chỉ dẫn của Ngân miêu liền đi ra ngoài cửa động quật....",
+      "similarity": [
+        [
+          9,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Không biết qua bao lâu, hai đạo nhân ảnh trong lòng đất trong động quật nhanh chóng truy tìm, rốt cục đi tới bên này.",
+      "dich": "Viên Minh cảm thấy ngạc nhiên nhưng cũng không hỏi thêm gì, nhấc bọc vải chứa đầu Nhân Tiêu Vương lên, tiếp đó dựa theo chỉ dẫn của mèo bạc, từ một lối ra khác của động quật rời đi.",
+      "suggest": "Không biết bao lâu sau, hai bóng người trong lòng đất nhanh chóng truy tìm những động quật dưới lòng đất, cuối cùng đã tới được bên này.",
+      "similarity": [
+        [
+          11,
+          0.26
+        ]
+      ]
+    },
+    {
+      "convert": "\"Nơi đây người kia khí tức nồng đậm, sẽ không sai, liền tại bên trong...\"",
+      "dich": "…",
+      "suggest": "\"Khí tức của người này nồng đậm như vậy, chắc hẳn là ở bên trong ...\"",
+      "similarity": []
+    },
+    {
+      "convert": "Sở Hùng trưởng lão đôi mắt sáng lên, chỉ chỉ bên cạnh cửa hang, nói.",
+      "dich": "Không biết qua bao lâu, hai bóng người đang nhanh chóng truy tìm trong động quật, cuối cùng đi tới bên này.",
+      "suggest": "Đôi mắt Sở Hùng sáng lên, chỉ vào cửa hang bên cạnh, nói.",
+      "similarity": [
+        [
+          13,
+          0.52
+        ]
+      ]
+    },
+    {
+      "convert": "\"Nhanh lên đem này diệt sát, tìm tới Hồn Châu.\"",
+      "dich": "\"Khí tức kẻ đó ở đây rất nồng đậm, không sai được, ở ngay bên trong…\"",
+      "suggest": "\"Nhanh lên diệt sát nó, tìm tơi Hồn Châu.\"",
+      "similarity": [
+        [
+          14,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "Tát Nhân trưởng lão thúc giục nói.",
+      "dich": "Sơ Hùng trưởng lão mắt sáng lên, chỉ chỉ cửa hang bên cạnh, nói.",
+      "suggest": "Tát Nhân trưởng lão thúc giục.",
+      "similarity": [
+        [
+          15,
+          1
+        ],
+        [
+          22,
+          0.28
+        ],
+        [
+          25,
+          0.28
+        ],
+        [
+          33,
+          0.28
+        ],
+        [
+          36,
+          0.19
+        ],
+        [
+          38,
+          0.28
+        ],
+        [
+          45,
+          0.28
+        ],
+        [
+          48,
+          0.16
+        ],
+        [
+          50,
+          0.32
+        ],
+        [
+          53,
+          0.12
+        ],
+        [
+          55,
+          0.37
+        ],
+        [
+          59,
+          0.15
+        ],
+        [
+          63,
+          0.2
+        ],
+        [
+          65,
+          0.13
+        ],
+        [
+          67,
+          0.32
+        ],
+        [
+          70,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Sở Hùng trưởng lão bàn tay vung lên, trong lòng bàn tay trống rỗng nhiều hơn một cái hình như cốt trảo bộ dáng màu đen binh khí, thân hình lóe lên xông vào trong động quật.",
+      "dich": "\"Mau vào diệt sát hắn, thu lấy Hồn châu.\"",
+      "suggest": "Sở Hùng trưởng lão vung tay lên, lòng bàn tay trống rỗng thêm một cây binh khí màu đen hình như là cốt trảo màu đen, thân hình lóe lên xông vào trong động.",
+      "similarity": [
+        [
+          16,
+          0.28
+        ]
+      ]
+    },
+    {
+      "convert": "Tát Nhân trưởng lão theo sát phía sau, đồng dạng lách mình vọt vào.",
+      "dich": "Tát Nhân trưởng lão thúc giục.",
+      "suggest": "Tát Nhân trưởng lão theo sát phía sau, cũng lách mình nhảy vào.",
+      "similarity": [
+        [
+          15,
+          0.14
+        ],
+        [
+          17,
+          0.11
+        ],
+        [
+          22,
+          0.18
+        ],
+        [
+          25,
+          0.17
+        ],
+        [
+          33,
+          0.17
+        ],
+        [
+          36,
+          0.18
+        ],
+        [
+          38,
+          0.18
+        ],
+        [
+          41,
+          0.11
+        ],
+        [
+          45,
+          0.17
+        ],
+        [
+          48,
+          0.16
+        ],
+        [
+          50,
+          0.16
+        ],
+        [
+          55,
+          0.15
+        ],
+        [
+          63,
+          0.18
+        ],
+        [
+          67,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Nhưng mà, khi bọn hắn xông vào trong động một sát na, hai người đúng là không hẹn mà cùng ngây ngẩn cả người.",
+      "dich": "Sở Hùng trưởng lão vung bàn tay lên, tức thì trong lòng bàn tay lăng không có thêm một kiện binh khí bộ dáng như một bộ cốt trảo màu đen, xong liền nhoáng người một cái xông vào trong động quật.",
+      "suggest": "Nhưng, chỉ sau một sát na bọn hắn tiến vào trong động, hai người đúng là không hẹn mà cùng ngây ngẩn cả người.",
+      "similarity": [
+        [
+          18,
+          0.14
+        ]
+      ]
+    },
+    {
+      "convert": "Động quật bên trong, một mảnh hỗn độn, mặt đất khắp nơi đều tán lạc vụn vặt thi thể, đại bộ phận đều là nghiêm trọng hư thối dáng vẻ, vẫn còn rất nhiều đã khô bại thành cốt, hỗn loạn không chịu nổi.",
+      "dich": "Tát Nhân cũng lách người tiến vào, theo sát ngay phía sau.",
+      "suggest": "Trong động quật, một mảnh hỗn độn, khắp nơi trên mặt đất đều là thi thể vụn vãi, phần lớn đều là những thi thể đã hư thối nặng nề, phần lớn đều là những thi thể đã khô héo, còn rất nhiều đã khô héo, hỗn loạn không chịu được.",
+      "similarity": [
+        [
+          19,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Mà tại ở gần ao máu kia địa phương, còn nằm một cỗ thi thể không đầu.",
+      "dich": "Nhưng khi bọn họ vừa xông vào trong động quật, cả hai lại không hẹn mà cùng sửng sốt.",
+      "suggest": "Mà tại chỗ đất trống gần ao máu, còn có một thi thể không đầu.",
+      "similarity": [
+        [
+          1,
+          0.15
+        ],
+        [
+          20,
+          0.41
+        ]
+      ]
+    },
+    {
+      "convert": "\"Đây là...\"",
+      "dich": "Bên trong động quật là một mảnh lộn xộn, tàn thi vương vãi khắp nơi trên mặt đất, đại bộ phận đã bị phân hủy nghiêm trọng, còn có không ít thi thể khô quắt trơ xương, hỗn loạn không chịu nổi.",
+      "suggest": "\"Đây là ...\"",
+      "similarity": [
+        [
+          6,
+          0.16
+        ],
+        [
+          79,
+          0.16
+        ],
+        [
+          82,
+          0.26
+        ]
+      ]
+    },
+    {
+      "convert": "Sở Hùng trưởng lão giật mình, vội vàng vọt tới.",
+      "dich": "Mà ở ngay chỗ cạnh áo máu kia, còn có một thi thể không đầu nằm đó.",
+      "suggest": "Sở Hùng trưởng lão giật mình, vội vàng chạy tới.",
+      "similarity": [
+        [
+          21,
+          0.52
+        ],
+        [
+          22,
+          0.1
+        ],
+        [
+          27,
+          0.11
+        ],
+        [
+          36,
+          0.2
+        ],
+        [
+          40,
+          0.23
+        ],
+        [
+          43,
+          0.16
+        ],
+        [
+          46,
+          0.13
+        ],
+        [
+          48,
+          0.16
+        ],
+        [
+          53,
+          0.22
+        ],
+        [
+          60,
+          0.19
+        ],
+        [
+          65,
+          0.2
+        ],
+        [
+          70,
+          0.22
+        ]
+      ]
+    },
+    {
+      "convert": "Tát Nhân trưởng lão theo sát lấy đuổi theo.",
+      "dich": "\"Đây là…\" Sở Hùng trưởng lão giật mình, vội vọt tới.",
+      "suggest": "Tát Nhân trưởng lão theo sát sau.",
+      "similarity": [
+        [
+          15,
+          0.38
+        ],
+        [
+          22,
+          0.29
+        ],
+        [
+          25,
+          0.28
+        ],
+        [
+          33,
+          0.28
+        ],
+        [
+          36,
+          0.19
+        ],
+        [
+          38,
+          0.28
+        ],
+        [
+          45,
+          0.28
+        ],
+        [
+          48,
+          0.16
+        ],
+        [
+          50,
+          0.32
+        ],
+        [
+          53,
+          0.12
+        ],
+        [
+          55,
+          0.37
+        ],
+        [
+          59,
+          0.13
+        ],
+        [
+          63,
+          0.2
+        ],
+        [
+          65,
+          0.11
+        ],
+        [
+          67,
+          0.32
+        ],
+        [
+          70,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"Hắn chết như thế nào?",
+      "dich": "Tát Nhân trưởng lão cũng vội vàng đuổi theo.",
+      "suggest": "\"Hắn chết như thế nào?",
+      "similarity": [
+        [
+          23,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Cái kia không phải là giả chứ?\"",
+      "dich": "\"Hắn làm sao lại chết rồi?",
+      "suggest": "Cái này không phải là giả chứ?\"",
+      "similarity": [
+        [
+          24,
+          0.61
+        ],
+        [
+          82,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Tát Nhân trưởng lão khó có thể tin nói.",
+      "dich": "Không phải là giả chứ?\"",
+      "suggest": "Tát Nhân trưởng lão nói với vẻ khó có thể tin được.",
+      "similarity": [
+        [
+          15,
+          0.18
+        ],
+        [
+          22,
+          0.21
+        ],
+        [
+          25,
+          0.26
+        ],
+        [
+          33,
+          0.21
+        ],
+        [
+          36,
+          0.19
+        ],
+        [
+          38,
+          0.22
+        ],
+        [
+          45,
+          0.21
+        ],
+        [
+          48,
+          0.39
+        ],
+        [
+          50,
+          0.21
+        ],
+        [
+          55,
+          0.2
+        ],
+        [
+          57,
+          0.12
+        ],
+        [
+          63,
+          0.21
+        ],
+        [
+          67,
+          0.2
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ngực vết thương, là ta Thực Cốt Thủ bố trí, cái này sẽ không sai, chính là hắn.\"",
+      "dich": "Tát Nhân trưởng lão khó mà tin được nói.",
+      "suggest": "\"Vết thương ở cổ tay là do ta thực sự bố trí, điều này không sai, chính là hắn.\"",
+      "similarity": [
+        [
+          26,
+          0.27
+        ]
+      ]
+    },
+    {
+      "convert": "Sở Hùng trưởng lão miệng ở bên trong giải thích, cau mày, hiển nhiên cũng là đầy bụng hồ nghi.",
+      "dich": "\"Vết thương trên ngực là do Thực Cốt Thủ của ta gây ra, cái này không nhầm được, chính là hắn.\"",
+      "suggest": "Sở Hùng trưởng lão giải thích, nhíu mày, hiển nhiên là đang nghi hoặc.",
+      "similarity": [
+        [
+          13,
+          0.1
+        ],
+        [
+          21,
+          0.16
+        ],
+        [
+          27,
+          0.2
+        ],
+        [
+          36,
+          0.17
+        ],
+        [
+          40,
+          0.21
+        ],
+        [
+          43,
+          0.16
+        ],
+        [
+          46,
+          0.13
+        ],
+        [
+          48,
+          0.15
+        ],
+        [
+          53,
+          0.12
+        ],
+        [
+          60,
+          0.15
+        ],
+        [
+          70,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Cái này Nhân Tiêu Vương làm sao lại đột nhiên chết, mà lại... Đầu của hắn đi đâu?",
+      "dich": "Sở Hùng trưởng lão vừa lên tiếng giải thích, vừa cau mày lại, hiển nhiên cũng vô cùng hồ nghi.",
+      "suggest": "Làm sao Nhân Tiêu Vương này lại đột nhiên chết đi, mà lại ... đầu của hắn đi đâu mất rồi?",
+      "similarity": [
+        [
+          28,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "\"Hồn Châu!\"",
+      "dich": "Nhân Tiêu Vương này làm sao lại đột nhiên chết mất, hơn nữa…đầu của hắn đi đâu rồi?",
+      "suggest": "\"Hồn Châu!\"",
+      "similarity": [
+        [
+          6,
+          0.13
+        ],
+        [
+          29,
+          0.3
+        ],
+        [
+          35,
+          0.11
+        ],
+        [
+          68,
+          0.15
+        ],
+        [
+          79,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Hai vị trưởng lão trong lòng đồng thời xiết chặt, vội vàng ở hắn trên thân tra tìm.",
+      "dich": "\"Hồn châu!\"",
+      "suggest": "Hai vị trưởng lão đồng thời căng thẳng, vội vàng lục soát trên người hắn.",
+      "similarity": [
+        [
+          30,
+          0.39
+        ]
+      ]
+    },
+    {
+      "convert": "Có thể sau một lát, trong lòng hai người đồng thời mát lạnh, bị người nhanh chân đến trước, Hồn Châu không có.",
+      "dich": "Nội tâm hai vị trưởng lão đồng thời trở nên căng thẳng, vội vàng lục tìm trên người Nhân Tiêu Vương.",
+      "suggest": "Nhưng sau một lát, trong lòng hai người đồng thời thấy lạnh, vì bị người nhanh chân đến trước, Hồn Châu không còn.",
+      "similarity": [
+        [
+          31,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "\"Sở Trường lão, Hồn Châu một chuyện, nhưng còn có những người khác biết?\"",
+      "dich": "Nhưng sau một lát, hai người cùng rùng mình, phát hiện Hồn châu không còn, hiển nhiên đã bị người khác nhanh chân tới trước lấy đi.",
+      "suggest": "\"Sở Trường lão, Sở Trường lão, Hồn Châu có chuyện gì mà ông biết?\"",
+      "similarity": []
+    },
+    {
+      "convert": "Tát Nhân trưởng lão kinh nghi bất định nói.",
+      "dich": "\"Sở trưởng lão, chuyện Hồn châu còn ai biết nữa không?\"",
+      "suggest": "Tát Nhân trưởng lão kinh nghi bất định nói.",
+      "similarity": [
+        [
+          15,
+          0.28
+        ],
+        [
+          22,
+          0.28
+        ],
+        [
+          25,
+          0.31
+        ],
+        [
+          33,
+          0.78
+        ],
+        [
+          36,
+          0.2
+        ],
+        [
+          38,
+          0.31
+        ],
+        [
+          45,
+          0.28
+        ],
+        [
+          48,
+          0.16
+        ],
+        [
+          50,
+          0.3
+        ],
+        [
+          53,
+          0.12
+        ],
+        [
+          55,
+          0.28
+        ],
+        [
+          63,
+          0.23
+        ],
+        [
+          67,
+          0.28
+        ],
+        [
+          70,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ngươi biết việc này liên quan thân phận chân thật của hắn, ta làm sao lại nói cho những người khác?",
+      "dich": "Tát Nhân trưởng lão kinh nghi bất định hỏi.",
+      "suggest": "\"Ngươi biết việc này có liên quan thân phận thật sự của hắn, cớ sao ta lại nói cho những người khác?",
+      "similarity": [
+        [
+          34,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "Ngươi cái kia không sẽ...\"",
+      "dich": "\"Ngươi biết việc này liên quan tới thân phận thật của hắn, ta sao lại đi nói với người khác?",
+      "suggest": "Ngươi không ...\"",
+      "similarity": [
+        [
+          6,
+          0.17
+        ],
+        [
+          79,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "Sở Hùng trưởng lão nhìn về phía Tát Nhân trưởng lão, hoài nghi nói.",
+      "dich": "Không phải ngươi đã…\"",
+      "suggest": "Sở Hùng trưởng lão nhìn Tát Nhân trưởng lão, hoài nghi nói.",
+      "similarity": [
+        [
+          13,
+          0.11
+        ],
+        [
+          15,
+          0.16
+        ],
+        [
+          21,
+          0.18
+        ],
+        [
+          22,
+          0.19
+        ],
+        [
+          25,
+          0.21
+        ],
+        [
+          27,
+          0.12
+        ],
+        [
+          32,
+          0.11
+        ],
+        [
+          33,
+          0.19
+        ],
+        [
+          36,
+          0.86
+        ],
+        [
+          38,
+          0.23
+        ],
+        [
+          40,
+          0.2
+        ],
+        [
+          43,
+          0.18
+        ],
+        [
+          45,
+          0.19
+        ],
+        [
+          46,
+          0.13
+        ],
+        [
+          48,
+          0.39
+        ],
+        [
+          50,
+          0.19
+        ],
+        [
+          53,
+          0.19
+        ],
+        [
+          55,
+          0.17
+        ],
+        [
+          60,
+          0.19
+        ],
+        [
+          63,
+          0.21
+        ],
+        [
+          65,
+          0.16
+        ],
+        [
+          67,
+          0.18
+        ],
+        [
+          70,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ngươi thấy ta giống sẽ làm loại kia chuyện ngu xuẩn người sao?\"",
+      "dich": "Sở Hùng trưởng lão nhìn Tát Nhân trưởng lão, hoài nghi hỏi.",
+      "suggest": "'Ngươi thấy ta giống kẻ ngu xuẩn làm lắm chuyện ngu xuẩn thế nào chứ?'",
+      "similarity": [
+        [
+          37,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Tát Nhân trưởng lão liếc mắt nhìn hắn, nói.",
+      "dich": "\"Ngươi trông ta giống loại người đi làm chuyện ngu xuẩn như thế sao?\"",
+      "suggest": "Tát Nhân trưởng lão liếc nhìn hắn, nói.",
+      "similarity": [
+        [
+          13,
+          0.11
+        ],
+        [
+          15,
+          0.28
+        ],
+        [
+          22,
+          0.28
+        ],
+        [
+          25,
+          0.31
+        ],
+        [
+          33,
+          0.28
+        ],
+        [
+          36,
+          0.2
+        ],
+        [
+          38,
+          0.66
+        ],
+        [
+          45,
+          0.28
+        ],
+        [
+          48,
+          0.17
+        ],
+        [
+          50,
+          0.3
+        ],
+        [
+          53,
+          0.12
+        ],
+        [
+          55,
+          0.28
+        ],
+        [
+          63,
+          0.23
+        ],
+        [
+          67,
+          0.28
+        ],
+        [
+          70,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"Kia đây rốt cuộc là ai làm?\"",
+      "dich": "Tát Nhân trưởng lão liếc nhìn lại, nói.",
+      "suggest": "'Cuối cùng là ai làm?'",
+      "similarity": [
+        [
+          39,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Sở Hùng trưởng lão nhíu mày, trầm ngâm không thôi.",
+      "dich": "\"Vậy chuyện này rốt cuộc là ai làm?\"",
+      "suggest": "Sở Hùng trưởng lão nhíu mày, trầm ngâm không thôi.",
+      "similarity": [
+        [
+          21,
+          0.18
+        ],
+        [
+          27,
+          0.12
+        ],
+        [
+          36,
+          0.2
+        ],
+        [
+          40,
+          0.53
+        ],
+        [
+          43,
+          0.16
+        ],
+        [
+          46,
+          0.13
+        ],
+        [
+          48,
+          0.16
+        ],
+        [
+          53,
+          0.22
+        ],
+        [
+          60,
+          0.19
+        ],
+        [
+          65,
+          0.24
+        ],
+        [
+          70,
+          0.22
+        ]
+      ]
+    },
+    {
+      "convert": "Tát Nhân trưởng lão ở bốn phía một phen dò xét về sau, lại nhìn một chút trên mặt đất tản mát tàn thi, lông mày không khỏi vặn thành u cục.",
+      "dich": "Sở Hùng trưởng lão nhíu mày, liên tục cân nhắc.",
+      "suggest": "Tát Nhân trưởng lão kiểm tra bốn phía một phen, sau đó lại nhìn một chút tàn thi trên mặt đất, lông mày không kìm được mà nhíu lại.",
+      "similarity": [
+        [
+          41,
+          0.27
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ngươi có phải hay không đoán được cái gì?\"",
+      "dich": "Tát Nhân trưởng lão sau khi quan sát bốn phía, lại nhìn những tàn thi trên mặt đất, bất giác nhíu chặt tràng mày.",
+      "suggest": "\"Ngươi có phải đoán được cái gì hay không?\"",
+      "similarity": [
+        [
+          32,
+          0.11
+        ],
+        [
+          42,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Nhìn xem hắn một mặt xoắn xuýt thần sắc, Sở Hùng trưởng lão nhịn không được hỏi.",
+      "dich": "\"Ngươi đoán ra được gì rồi sao?\"",
+      "suggest": "Nhìn hắn mặt mũi tràn đầy vẻ xoắn xuýt, Sở Hùng trưởng lão không nhịn được hỏi.",
+      "similarity": [
+        [
+          21,
+          0.14
+        ],
+        [
+          27,
+          0.11
+        ],
+        [
+          36,
+          0.15
+        ],
+        [
+          40,
+          0.13
+        ],
+        [
+          43,
+          0.55
+        ],
+        [
+          46,
+          0.13
+        ],
+        [
+          48,
+          0.14
+        ],
+        [
+          60,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ngươi xem một chút đất này bên trên tàn thi trạng thái cùng phân bố, nhìn ra chút gì không?\"",
+      "dich": "Nhìn vẻ mặt xoắn xuýt của lão, Sở Hùng trưởng lão không nhịn được hỏi.",
+      "suggest": "\"Ngươi xem trạng thái của đám tàn thi trên mảnh đất này xem có gì khác thường không?\"",
+      "similarity": []
+    },
+    {
+      "convert": "Tát Nhân trưởng lão hỏi.",
+      "dich": "\"Người thử nhìn tình trạng và sự phân bố của những tàn thi một chút, xem có trông ra điều gì không?\"",
+      "suggest": "Tát Nhân trưởng lão hỏi.",
+      "similarity": [
+        [
+          15,
+          0.43
+        ],
+        [
+          22,
+          0.28
+        ],
+        [
+          25,
+          0.28
+        ],
+        [
+          33,
+          0.31
+        ],
+        [
+          36,
+          0.21
+        ],
+        [
+          38,
+          0.28
+        ],
+        [
+          45,
+          0.29
+        ],
+        [
+          48,
+          0.16
+        ],
+        [
+          50,
+          0.32
+        ],
+        [
+          53,
+          0.12
+        ],
+        [
+          55,
+          0.37
+        ],
+        [
+          59,
+          0.19
+        ],
+        [
+          63,
+          0.2
+        ],
+        [
+          65,
+          0.13
+        ],
+        [
+          67,
+          0.32
+        ],
+        [
+          70,
+          0.12
+        ],
+        [
+          83,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Sở Hùng trưởng lão sau khi nghe xong, vừa cẩn thận quan sát một lát, thần sắc bỗng nhiên biến đổi.",
+      "dich": "Tát Nhân trưởng lão không đáp mà hỏi lại.",
+      "suggest": "Sở Hùng trưởng lão nghe xong, cẩn thận quan sát một lát, sắc mặt bỗng nhiên biến đổi.",
+      "similarity": [
+        [
+          21,
+          0.12
+        ],
+        [
+          27,
+          0.12
+        ],
+        [
+          36,
+          0.12
+        ],
+        [
+          40,
+          0.11
+        ],
+        [
+          43,
+          0.13
+        ],
+        [
+          46,
+          0.53
+        ],
+        [
+          48,
+          0.12
+        ],
+        [
+          60,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "\"Những thi thể này lúc trước có hoạt động vết tích, bọn hắn bị người điều khiển.\"",
+      "dich": "Sở Hùng trưởng lão nghe thế liền cẩn thận quan sát một lát, xong thần sắc chợt biến đổi.",
+      "suggest": "\"Những thi thể này lúc trước có dấu hiệu hoạt động, bọn hắn bị người điều khiển.\"",
+      "similarity": [
+        [
+          47,
+          0.61
+        ]
+      ]
+    },
+    {
+      "convert": "Sở Hùng trưởng lão khó có thể tin nhìn về phía Tát Nhân trưởng lão.",
+      "dich": "\"Những thi thể này lúc trước có dấu vết hoạt động, bọn chúng bị người ta điều khiển.\"",
+      "suggest": "Sở Hùng trưởng lão lộ vẻ khó có thể tin được nhìn Tát Nhân trưởng lão.",
+      "similarity": [
+        [
+          15,
+          0.1
+        ],
+        [
+          21,
+          0.15
+        ],
+        [
+          22,
+          0.14
+        ],
+        [
+          25,
+          0.17
+        ],
+        [
+          27,
+          0.11
+        ],
+        [
+          33,
+          0.14
+        ],
+        [
+          36,
+          0.37
+        ],
+        [
+          38,
+          0.14
+        ],
+        [
+          40,
+          0.15
+        ],
+        [
+          43,
+          0.17
+        ],
+        [
+          45,
+          0.14
+        ],
+        [
+          46,
+          0.12
+        ],
+        [
+          48,
+          0.83
+        ],
+        [
+          50,
+          0.13
+        ],
+        [
+          53,
+          0.12
+        ],
+        [
+          55,
+          0.12
+        ],
+        [
+          60,
+          0.15
+        ],
+        [
+          63,
+          0.15
+        ],
+        [
+          67,
+          0.13
+        ],
+        [
+          70,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"Có thể khống Thi, ít nhất nói rõ lấy đi Hồn Châu... Là hồn tu, cái này...\"",
+      "dich": "Sở Hùng trưởng lão lộ vẻ khó có thể tin nhìn Tát Nhân trưởng lão.",
+      "suggest": "\"Có thể khống Thi, ít nhất nói rõ Đoạt Hồn Châu là Hồn Tu, cái này...\"",
+      "similarity": [
+        [
+          49,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Tát Nhân trưởng lão muốn nói lại thôi.",
+      "dich": "\"Có thể khống thi, ít nhất cũng nói rõ kẻ lấy đi Hồn châu…là Hồn tu, cái này…\"",
+      "suggest": "Tát Nhân trưởng lão đang muốn nói lại thôi.",
+      "similarity": [
+        [
+          15,
+          0.28
+        ],
+        [
+          22,
+          0.28
+        ],
+        [
+          25,
+          0.29
+        ],
+        [
+          33,
+          0.28
+        ],
+        [
+          36,
+          0.19
+        ],
+        [
+          38,
+          0.3
+        ],
+        [
+          45,
+          0.29
+        ],
+        [
+          48,
+          0.16
+        ],
+        [
+          50,
+          0.67
+        ],
+        [
+          53,
+          0.1
+        ],
+        [
+          55,
+          0.28
+        ],
+        [
+          63,
+          0.21
+        ],
+        [
+          67,
+          0.28
+        ],
+        [
+          70,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "\"Nơi này liền hai người chúng ta, còn có cái gì không dám nói?",
+      "dich": "Tát Nhân trưởng lão muốn nói lại thôi.",
+      "suggest": "\"Nơi này có hai người chúng ta, còn có cái gì mà không dám nói?",
+      "similarity": [
+        [
+          51,
+          0.57
+        ]
+      ]
+    },
+    {
+      "convert": "Ngươi có phải hay không cũng cảm thấy là đại trưởng lão làm?\"",
+      "dich": "\"Nơi này chỉ có hai người chúng ta, còn cái gì không dám nói?",
+      "suggest": "Ngươi có phải cũng cảm thấy làm như vậy không?\"",
+      "similarity": [
+        [
+          52,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Sở Hùng trưởng lão gọn gàng dứt khoát nói.",
+      "dich": "Có phải ngươi cũng cảm thấy là Đại trưởng lão làm?\"",
+      "suggest": "Sở Hùng trưởng lão nhanh chóng nói.",
+      "similarity": [
+        [
+          13,
+          0.11
+        ],
+        [
+          15,
+          0.13
+        ],
+        [
+          21,
+          0.17
+        ],
+        [
+          25,
+          0.12
+        ],
+        [
+          27,
+          0.11
+        ],
+        [
+          36,
+          0.19
+        ],
+        [
+          38,
+          0.12
+        ],
+        [
+          40,
+          0.22
+        ],
+        [
+          43,
+          0.15
+        ],
+        [
+          46,
+          0.12
+        ],
+        [
+          48,
+          0.16
+        ],
+        [
+          50,
+          0.11
+        ],
+        [
+          53,
+          0.41
+        ],
+        [
+          55,
+          0.12
+        ],
+        [
+          57,
+          0.11
+        ],
+        [
+          60,
+          0.19
+        ],
+        [
+          65,
+          0.38
+        ],
+        [
+          67,
+          0.11
+        ],
+        [
+          70,
+          0.41
+        ]
+      ]
+    },
+    {
+      "convert": "\"Toàn bộ Bích La Động, ngoại trừ lão nhân gia ông ta bên ngoài, ta nghĩ không ra người thứ hai.\"",
+      "dich": "Sở Hùng trưởng lão dứt khoát nói.",
+      "suggest": "\"Toàn bộ Bích La động, ngoại trừ lão nhân gia ông ta, ta nghĩ không còn người thứ hai.\"",
+      "similarity": [
+        [
+          54,
+          0.48
+        ]
+      ]
+    },
+    {
+      "convert": "Tát Nhân trưởng lão nhẹ gật đầu.",
+      "dich": "\"Toàn bộ Bích La Động, ngoài lão nhân gia ông ta ra, ta không nghĩ ra người thứ hai.\"",
+      "suggest": "Tát Nhân trưởng lão nhẹ gật đầu.",
+      "similarity": [
+        [
+          15,
+          0.38
+        ],
+        [
+          22,
+          0.28
+        ],
+        [
+          25,
+          0.28
+        ],
+        [
+          33,
+          0.28
+        ],
+        [
+          36,
+          0.19
+        ],
+        [
+          38,
+          0.28
+        ],
+        [
+          45,
+          0.28
+        ],
+        [
+          48,
+          0.16
+        ],
+        [
+          50,
+          0.32
+        ],
+        [
+          53,
+          0.12
+        ],
+        [
+          55,
+          0.5
+        ],
+        [
+          59,
+          0.13
+        ],
+        [
+          63,
+          0.2
+        ],
+        [
+          65,
+          0.11
+        ],
+        [
+          67,
+          0.32
+        ],
+        [
+          70,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"Lão gia hỏa này, nói không chừng đã sớm phát hiện Hồn Châu tồn tại, thế mà dẫn đầu tiệt hồ, uổng chúng ta còn dự định cầm tới về sau, vào hiến cho hắn.\"",
+      "dich": "Tát Nhân trưởng lão khẽ gật đầu.",
+      "suggest": "\"Lão gia hỏa này, nói không chừng đã sớm phát hiện ra Hồn Châu, thế mà dẫn đầu hồ đồ, uổng phí chúng ta còn đang muốn tìm hắn, sau đó sẽ hiến dâng cho hắn.\"",
+      "similarity": [
+        [
+          56,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "Sở Hùng trưởng lão có chút tức giận nói.",
+      "dich": "\"Lão gia hỏa này, nói không chừng đã sớm phát hiện sự tồn tại của Hồn châu, cứ thế tới trước nẫng tay trên luôn, uổng cho chúng ta còn tính sau khi lấy được sẽ dâng tặng lão.\"",
+      "suggest": "Sở Hùng trưởng lão có chút tức giận nói.",
+      "similarity": [
+        [
+          13,
+          0.11
+        ],
+        [
+          21,
+          0.17
+        ],
+        [
+          25,
+          0.12
+        ],
+        [
+          27,
+          0.11
+        ],
+        [
+          36,
+          0.19
+        ],
+        [
+          38,
+          0.12
+        ],
+        [
+          40,
+          0.22
+        ],
+        [
+          43,
+          0.15
+        ],
+        [
+          46,
+          0.12
+        ],
+        [
+          48,
+          0.17
+        ],
+        [
+          50,
+          0.1
+        ],
+        [
+          53,
+          0.32
+        ],
+        [
+          57,
+          0.11
+        ],
+        [
+          60,
+          0.19
+        ],
+        [
+          65,
+          0.28
+        ],
+        [
+          70,
+          0.32
+        ]
+      ]
+    },
+    {
+      "convert": "\"Thế nhưng là, hắn tại sao muốn hái đi đầu của hắn?\"",
+      "dich": "Sở Hùng nói với vẻ khá tức tối.",
+      "suggest": "\"Thế nhưng, tại sao hắn lại muốn hái đầu hắn?\"",
+      "similarity": []
+    },
+    {
+      "convert": "Tát Nhân trưởng lão có chút khó hiểu nói.",
+      "dich": "\"Cơ mà sao lão lại hái đầu của hắn đi?\"",
+      "suggest": "Tát Nhân trưởng lão có chút khó hiểu nói.",
+      "similarity": [
+        [
+          15,
+          0.28
+        ],
+        [
+          22,
+          0.28
+        ],
+        [
+          25,
+          0.32
+        ],
+        [
+          33,
+          0.28
+        ],
+        [
+          36,
+          0.19
+        ],
+        [
+          38,
+          0.31
+        ],
+        [
+          45,
+          0.28
+        ],
+        [
+          48,
+          0.18
+        ],
+        [
+          50,
+          0.3
+        ],
+        [
+          53,
+          0.12
+        ],
+        [
+          55,
+          0.28
+        ],
+        [
+          59,
+          0.13
+        ],
+        [
+          63,
+          0.23
+        ],
+        [
+          67,
+          0.28
+        ],
+        [
+          70,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"Hẳn là... Hắn đã...\"",
+      "dich": "Tát Nhân hơi khó hiểu hỏi.",
+      "suggest": "\"Hẳn là ... hắn ...\"",
+      "similarity": []
+    },
+    {
+      "convert": "Sở Hùng trưởng lão thần sắc khẽ biến.",
+      "dich": "\"Chắc là…Chắc là…\" Thần sắc Sở Hùng trưởng lão hơi đổi.",
+      "suggest": "Sắc mặt Sở Hùng trưởng lão khẽ biến.",
+      "similarity": [
+        [
+          15,
+          0.11
+        ],
+        [
+          21,
+          0.17
+        ],
+        [
+          27,
+          0.11
+        ],
+        [
+          36,
+          0.19
+        ],
+        [
+          40,
+          0.22
+        ],
+        [
+          43,
+          0.16
+        ],
+        [
+          46,
+          0.13
+        ],
+        [
+          48,
+          0.16
+        ],
+        [
+          50,
+          0.11
+        ],
+        [
+          53,
+          0.32
+        ],
+        [
+          55,
+          0.19
+        ],
+        [
+          57,
+          0.11
+        ],
+        [
+          60,
+          0.19
+        ],
+        [
+          65,
+          0.31
+        ],
+        [
+          67,
+          0.11
+        ],
+        [
+          70,
+          0.32
+        ]
+      ]
+    },
+    {
+      "convert": "\"Việc này có chút không đúng, nếu thật là đại trưởng lão, chỉ cần một câu phân phó, chúng ta cái nào dám ngỗ nghịch?",
+      "dich": "\"Việc này có vẻ không đúng lắm, nếu thật là Đại trưởng lão, lão chỉ cần nói một câu thì chúng ta ai dám trái lệnh?",
+      "suggest": "- Việc này có chút không đúng. Nếu thật là đại trưởng lão, chỉ cần một câu phân phó, chúng ta nào dám ngỗ nghịch?",
+      "similarity": [
+        [
+          61,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Lại nói, hắn lại vì sao muốn mang đi đầu người?\"",
+      "dich": "Hơn nữa, lão vì cớ gì lại muốn mang đầu người đi?\"",
+      "suggest": "Hơn nữa, vì sao hắn lại muốn mang đầu người ta đi?\"",
+      "similarity": [
+        [
+          58,
+          0.12
+        ],
+        [
+          62,
+          0.41
+        ]
+      ]
+    },
+    {
+      "convert": "Tát Nhân trưởng lão cẩn thận suy tư một lát sau, nói.",
+      "dich": "Tát Nhân trưởng lão cẩn thận suy tư một hồi rồi nói.",
+      "suggest": "Tát Nhân trưởng lão cẩn thận suy nghĩ một lát, sau đó nói.",
+      "similarity": [
+        [
+          15,
+          0.14
+        ],
+        [
+          22,
+          0.17
+        ],
+        [
+          25,
+          0.19
+        ],
+        [
+          33,
+          0.17
+        ],
+        [
+          36,
+          0.18
+        ],
+        [
+          38,
+          0.2
+        ],
+        [
+          45,
+          0.17
+        ],
+        [
+          46,
+          0.1
+        ],
+        [
+          48,
+          0.16
+        ],
+        [
+          50,
+          0.17
+        ],
+        [
+          55,
+          0.15
+        ],
+        [
+          63,
+          0.46
+        ],
+        [
+          67,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "\"Hồn tu luôn luôn thần bí âm túy, lấy đi thủ cấp có lẽ là dùng để luyện chế cái gì hồn tu pháp khí, cũng không nhất định.\"",
+      "dich": "\"Hồn tu luôn thần bí âm hiểm, lấy đầu lâu đi là dùng để luyện chế pháp khí Hồn tu nào đó cũng không chừng.\"",
+      "suggest": "\"Hồn tu luôn luôn thần bí, có lẽ lấy thủ cấp của nó để luyện chế một loại pháp khí nào đó, cũng không nhất định.\"",
+      "similarity": [
+        [
+          64,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Sở Hùng trưởng lão trầm ngâm nói.",
+      "dich": "Sở Hùng trưởng lão trầm ngâm nói",
+      "suggest": "Sở Hùng trưởng lão trầm ngâm nói.",
+      "similarity": [
+        [
+          13,
+          0.11
+        ],
+        [
+          15,
+          0.13
+        ],
+        [
+          21,
+          0.17
+        ],
+        [
+          25,
+          0.12
+        ],
+        [
+          27,
+          0.11
+        ],
+        [
+          36,
+          0.19
+        ],
+        [
+          38,
+          0.12
+        ],
+        [
+          40,
+          0.22
+        ],
+        [
+          43,
+          0.15
+        ],
+        [
+          46,
+          0.12
+        ],
+        [
+          48,
+          0.16
+        ],
+        [
+          50,
+          0.11
+        ],
+        [
+          53,
+          0.41
+        ],
+        [
+          55,
+          0.12
+        ],
+        [
+          57,
+          0.11
+        ],
+        [
+          60,
+          0.19
+        ],
+        [
+          65,
+          0.87
+        ],
+        [
+          67,
+          0.11
+        ],
+        [
+          70,
+          0.41
+        ]
+      ]
+    },
+    {
+      "convert": "\"Kiểu nói này, ngược lại nói thông được, nếu như là đại trưởng lão làm, chúng ta về sau vạn không thể nhắc lại cùng Hồn Châu... Tạm thời xem như, việc này chưa hề phát sinh qua đi.\"",
+      "dich": "\"Nói như vậy cũng có lý, nếu là Đại trưởng lão làm, chúng ta sau này vạn vạn không thể đề cập Hồn châu nữa…Cứ tạm coi như việc này chưa từng xảy ra đi.\"",
+      "suggest": "\"Từ ngữ này quả thực không thể nào hiểu được, nếu như đại trưởng lão đã làm, về sau chúng ta vạn lần không thể nhắc lại chuyện này với Hồn Châu nữa, tạm thời xem như chuyện này chưa từng xảy ra.\"",
+      "similarity": [
+        [
+          66,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Tát Nhân trưởng lão cười khổ một tiếng, nói.",
+      "dich": "Tát Nhân trưởng lão cười bổ sung thêm.",
+      "suggest": "Tát Nhân trưởng lão cười khổ một tiếng, nói.",
+      "similarity": [
+        [
+          13,
+          0.11
+        ],
+        [
+          15,
+          0.25
+        ],
+        [
+          22,
+          0.25
+        ],
+        [
+          25,
+          0.28
+        ],
+        [
+          33,
+          0.25
+        ],
+        [
+          36,
+          0.2
+        ],
+        [
+          38,
+          0.34
+        ],
+        [
+          45,
+          0.25
+        ],
+        [
+          48,
+          0.16
+        ],
+        [
+          50,
+          0.26
+        ],
+        [
+          53,
+          0.11
+        ],
+        [
+          55,
+          0.25
+        ],
+        [
+          63,
+          0.24
+        ],
+        [
+          67,
+          0.37
+        ],
+        [
+          70,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "\"Không tệ!",
+      "dich": "\"Đúng vậy!",
+      "suggest": "\"Đúng vậy!",
+      "similarity": [
+        [
+          6,
+          0.11
+        ],
+        [
+          29,
+          0.13
+        ],
+        [
+          35,
+          0.11
+        ],
+        [
+          68,
+          1
+        ],
+        [
+          79,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Vạn hạnh hắn đã chết, hủy thi diệt tích về sau, việc này cũng coi như có một kết thúc, ngươi ta nhiều năm tâm bệnh cũng có thể khứ trừ.\"",
+      "dich": "May mắn hắn chết rồi, sau khi hủy thi diệt tích thì việc này xem như cũng kết thúc, tâm bệnh nhiều năm của ta và người cũng có thể trừ bỏ.\"",
+      "suggest": "Vạn hạnh hắn đã chết, hủy thi diệt tích, việc này cũng coi như có một kết thúc, tâm bệnh của ta nhiều năm cũng có thể trừ bỏ.\"",
+      "similarity": [
+        [
+          69,
+          0.38
+        ]
+      ]
+    },
+    {
+      "convert": "Sở Hùng trưởng lão than thở một tiếng, nói.",
+      "dich": "Sở Hùng trưởng lão thở dài nói.",
+      "suggest": "Sở Hùng trưởng lão than thở một tiếng, nói.",
+      "similarity": [
+        [
+          13,
+          0.14
+        ],
+        [
+          21,
+          0.18
+        ],
+        [
+          25,
+          0.11
+        ],
+        [
+          27,
+          0.12
+        ],
+        [
+          36,
+          0.2
+        ],
+        [
+          38,
+          0.18
+        ],
+        [
+          40,
+          0.23
+        ],
+        [
+          43,
+          0.16
+        ],
+        [
+          46,
+          0.13
+        ],
+        [
+          48,
+          0.16
+        ],
+        [
+          53,
+          0.28
+        ],
+        [
+          60,
+          0.19
+        ],
+        [
+          65,
+          0.25
+        ],
+        [
+          70,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Hai người dứt lời, nhìn nhau không nói gì, trong lòng cũng không nhẹ nhõm bao nhiêu....",
+      "dich": "Dứt lời, hai người đưa mắt nhìn nhau, trong lòng vẫn còn khá nặng nề.",
+      "suggest": "Hai người dứt lời, nhìn nhau không nói gì, trong lòng cũng không nhẹ nhõm hơn là bao.",
+      "similarity": [
+        [
+          71,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Một bên khác, một tòa bí mật trong sơn cốc.",
+      "dich": "…",
+      "suggest": "Bên kia, một sơn cốc bí mật khác.",
+      "similarity": [
+        [
+          73,
+          0.39
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh ngồi xổm ở một mảnh thanh sắc dưới vách đá dựng đứng phương, đem Nhân Tiêu Vương thủ cấp bỏ vào một cái đào tốt trong hố lớn, hướng về phía bên trong lấp bên trên cát đất cùng cục đá, đem chôn giấu.",
+      "dich": "Một bên khác, trong một sơn cốc bí mật.",
+      "suggest": "Viên Minh ngồi xổm ở một vách đá dựng đứng, cho tay vào một cái hố lớn dưới vách đá, lấp đầy cát và đá, sau đó chôn lấp toàn bộ cát và đá vào bên trong.",
+      "similarity": [
+        [
+          74,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Tiếp theo, hắn lại tìm đến một khối tạo hình đặc biệt dài mảnh hòn đá để ở một bên, xem như dựng lên cái Vô Tự Bi.",
+      "dich": "Viên Minh ngồi xổm dưới một vách đá xanh dựng đứng, bỏ đầu Nhân Tiêu Vương vào trong một cái hố lớn mới đào, xong lấp lại bằng đất cát lẫn đá, xem như mai táng.",
+      "suggest": "Tiếp theo, hắn tìm một khối đá có tạo hình đặc biệt dài một bên để đặt sang một bên, xem như là một cái Vô Tự Bi.",
+      "similarity": [
+        [
+          75,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Làm tốt đây hết thảy về sau, hắn nhìn thoáng qua ngồi xổm ngồi ở bên cạnh trên tảng đá ngân miêu, nhíu mày, nói ra:",
+      "dich": "Tiếp đó, hắn lại kiếm một khối đá có hình dạng đặc biệt mảnh dài, mang về đặt ở bên cạnh xem như lập một tấm bia không chữ.",
+      "suggest": "Sau khi làm xong hết thảy, hắn nhìn qua con chim nhỏ đậu bên cạnh, nhíu mày nói:",
+      "similarity": [
+        [
+          76,
+          0.34
+        ]
+      ]
+    },
+    {
+      "convert": "\"Việc nơi này, chúng ta xin từ biệt.\"",
+      "dich": "Sau làm xong xuôi hết thảy, hắn liếc mắt nhìn con mèo bạc đang ngồi xổm trên tảng đá bên cạnh, nhíu mày nói:",
+      "suggest": "\"Việc này đã xong, chúng ta xin cáo từ.\"",
+      "similarity": [
+        [
+          77,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn đối lúc trước trong động quật phát sinh sự tình có chút bất mãn, không muốn tới lại có quá nhiều gặp nhau.",
+      "dich": "\"Chuyện ở đây đã xong, chúng ta cũng từ biệt thôi.\"",
+      "suggest": "Hắn có chút bất mãn với chuyện lúc trước trong động xảy ra, không muốn tới đây quá nhiều lần.",
+      "similarity": [
+        [
+          78,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "\"Dừng lại.\"",
+      "dich": "Hắn đối với chuyện xảy ra trong động quật khi trước vẫn còn chút bất mãn, nên không muốn giao thiệp với nó quá nhiều.",
+      "suggest": "\"Dừng lại.\"",
+      "similarity": [
+        [
+          6,
+          0.24
+        ],
+        [
+          29,
+          0.13
+        ],
+        [
+          35,
+          0.11
+        ],
+        [
+          68,
+          0.12
+        ],
+        [
+          79,
+          1
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân miêu thanh âm ở đầu óc hắn vang lên, vẫn như cũ là không cho phép nghi ngờ ngữ khí.",
+      "dich": "\"Dừng lại.\"",
+      "suggest": "Thanh âm của con chim nhỏ vẫn vang lên trong đầu hắn, vẫn là không có chút nào nghi ngờ.",
+      "similarity": [
+        [
+          80,
+          0.38
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh quay đầu nhìn lại, chỉ thấy một bản bàn tay độ dày thanh sắc sách trống rỗng hiển hiện, rơi vào bên chân của hắn.",
+      "dich": "Tiếng mèo bạc lại vang lên trong đầu hắn, vẫn là giọng điệu không thể nghi ngờ.",
+      "suggest": "Viên Minh quay đầu nhìn lại, chỉ thấy một quyển sách bìa dày màu xanh hiện ra trên bàn tay, ngay sát bên chân hắn.",
+      "similarity": [
+        [
+          81,
+          0.41
+        ]
+      ]
+    },
+    {
+      "convert": "\"Đây là cái gì?\"",
+      "dich": "Viên Minh quay đầu nhìn lại, liền thấy một quyển sách màu xanh dày bằng bàn tay thình lình xuất hiện, rơi xuống bên chân hắn.",
+      "suggest": "'Đây là cái gì?'",
+      "similarity": [
+        [
+          82,
+          0.41
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh cau mày nói.",
+      "dich": "\"Đây là cái gì?\"",
+      "suggest": "Viên Minh cau mày nói.",
+      "similarity": [
+        [
+          7,
+          0.18
+        ],
+        [
+          53,
+          0.11
+        ],
+        [
+          70,
+          0.11
+        ],
+        [
+          83,
+          0.32
+        ]
+      ]
+    },
+    {
+      "convert": "\"Lần này không có ngươi hỗ trợ... Ta cũng không có dễ dàng như vậy cầm tới Hồn Châu... Cái này, xem như thù lao.\"",
+      "dich": "Viên Minh cau màu hỏi.",
+      "suggest": "\"Lần này không có ngươi hỗ trợ... Ta cũng không có dễ dàng lấy được Hồn Châu ... Cái này, coi như là thù lao vậy.\"",
+      "similarity": [
+        [
+          84,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân miêu dứt lời, căn bản không quản Viên Minh phản ứng, liền tự lo quay người rời đi.",
+      "dich": "\"Lần này nếu không có ngươi hỗ trợ…Ta cũng không thể dễ dàng có được Hồn châu…Cai này, coi như thù lao.\"",
+      "suggest": "Ngân miêu vừa dứt lời, căn bản không quản Viên Minh phản ứng ra sao, lập tức xoay người rời đi.",
+      "similarity": [
+        [
+          85,
+          0.26
+        ]
+      ]
+    },
+    {
+      "convert": "Độc lưu Viên Minh một người, tại nguyên chỗ chần chờ thật lâu, mới từ trên mặt đất nhặt lên quyển kia thanh sắc sách.",
+      "dich": "Dứt lời, nó cũng thèm quan tâm xem Viên Minh phản ứng thế nào, lập tức quay người rời đi.",
+      "suggest": "Độc Lưu Viên Minh đứng nguyên tại chỗ chần chờ một lúc lâu mới cầm lên cuốn sách màu xanh kia.",
+      "similarity": []
+    },
+    {
+      "convert": "Nhìn một cái, chỉ gặp sách phong bì bên trên viết lấy « Minh Nguyệt quyết » ba chữ to.",
+      "dich": "Chỉ còn một mình Viên Minh ở lại, hắn đứng tại chỗ do dự hồi lâu mới quyết định nhặt cuốn sách bìa xanh từ dưới đất lên.",
+      "suggest": "Xem một lần, chỉ thấy trên phong bì có viết ba chữ Minh Nguyệt Quyết to đùng.",
+      "similarity": [
+        [
+          87,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Không phải Nam Cương văn tự, mà là Viên Minh trong trí nhớ, người Trung Nguyên sử dụng văn tự.",
+      "dich": "Nhìn qua thấy trên bìa sách có ghi ba chữ to \"Minh Nguyệt Quyết.\"",
+      "suggest": "Không phải Nam Man văn tự, mà là văn tự mà Viên Minh đã sử dụng.",
+      "similarity": [
+        [
+          88,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Một lát sau, Viên Minh chọn lấy một chỗ hướng Dương Sơn sườn núi, ở một khối bằng phẳng trên tảng đá lớn ngồi xuống, lật ra quyển kia thanh sắc sách.",
+      "dich": "Không phải văn tự Nam Cương mà là văn tự người Trung Nguyên sử dụng trong ký ức của Viên Minh.",
+      "suggest": "Một lát sau, Viên Minh chọn một chỗ ở sườn núi gần Dương Sơn, ngồi xuống một tảng đá bằng phẳng trên một tảng đá lớn, lật một quyển sách màu xanh.",
+      "similarity": [
+        [
+          81,
+          0.12
+        ],
+        [
+          89,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "\"Đóng hồn tu chi thuật, không vì hình mệt mỏi, không vì thuật hẹn, kỳ dị khó lường, bình thường khó khăn phòng.",
+      "dich": "Một lát sau, Viên Minh chọn một triền dốc hướng về phía mặt trời, ngồi lên một tảng đá lớn bằng phẳng, rồi bắt lật xem cuốn sách kia.",
+      "suggest": "\"Đóng hồn tu chi thuật, không vì hình mệt mỏi, không vì thuật hẹn hò, bình thường khó khăn phòng bị.",
+      "similarity": [
+        [
+          90,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Người tu hành, cần tự cho mình hắn thân, không phải thần hồn cường đại, ý chí cứng cỏi người, không thể ngông cuồng tu tập, nhớ lấy, nhớ lấy.\"",
+      "dich": "\"Cái Hồn tu chi thuật, không chịu gánh nặng bởi hình tướng, không bị ước thúc bởi thuật phép, kỳ dị khó lường, bình thường khó phòng.",
+      "suggest": "Người tu hành, cần tự mình có thân thể của mình, không phải thần hồn mạnh mẽ, ý chí cứng cỏi, không thể ngông cuồng tu tập, không thể ngông cuồng tu tập, phải nhớ lấy, nhớ lấy.\"",
+      "similarity": [
+        [
+          91,
+          0.26
+        ]
+      ]
+    },
+    {
+      "convert": "Khúc dạo đầu đoạn thứ nhất nói không phải tường thuật tóm lược công pháp cũng nên, mà là nhắc nhở đọc qua người bản thân xem kỹ, nhìn xem bản thân có hay không tu tập công pháp tư cách?",
+      "dich": "Kẻ tu hành phải biết người biết ta, không phải người có thần hồn cường đại, ý chỉ cứng cỏi thì không thể ngông cuồng tu tập, nhớ lấy, nhớ lấy!\"",
+      "suggest": "Đoạn mở đầu không phải là tường thuật tóm lược công pháp, mà là nhắc nhở bản thân tự mình xem xét kỹ càng bản thân, xem bản thân có tư cách tu tập công pháp hay không?",
+      "similarity": [
+        [
+          92,
+          0.44
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh mặc dù không hiểu cái gì gọi hồn tu chi thuật, nhưng cũng cảm thấy cái này khúc dạo đầu ngữ điệu, ít nhiều có chút dọa người.",
+      "dich": "Lời mở đầu ở trang thú nhất không phải là tóm tắt nội dung chính yếu của công pháp, mà là nhắc nhở người đọc tự nhìn lại bản thân, xem mình có tư cách tu tập công pháp hay không?",
+      "suggest": "Viên Minh mặc dù không hiểu thuật gọi hồn tu, nhưng cũng cảm giác được giọng điệu của đoạn dạo đầu có chút dọa người.",
+      "similarity": [
+        [
+          93,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn tiếp theo nhìn xuống, đằng sau ghi lại nội dung liền bình thường nhiều.",
+      "dich": "Viên Minh mặc dù không hiểu cái gì gọi là Hồn tu chi thuật, nhưng vẫn cảm thấy giọng điệu lời mở đầu này ít nhiều có chút dọa người.",
+      "suggest": "Sau đó hắn xem đi xem lại nội dung ghi chép đằng sau.",
+      "similarity": []
+    },
+    {
+      "convert": "\"Nhật tinh vu thần, trăng tinh thông hồn.",
+      "dich": "Hắn lật xem tiếp, thấy nội dung được ghi đằng sau bình thường hơn nhiều.",
+      "suggest": "\"Nhật Tinh vu thần, Trăng Tinh thông hồn.",
+      "similarity": [
+        [
+          95,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Minh Nguyệt công pháp, lấy trăng tinh dưỡng hồn, tẩm bổ hồn phách, lớn mạnh thần hồn...\"",
+      "dich": "\"Nhật tinh tại thần, Nguyệt tinh tại hồn.",
+      "suggest": "Minh Nguyệt Công Pháp, lấy ánh trăng nuôi hồn, bồi bổ hồn phách, lớn mạnh thần hồn.\"",
+      "similarity": [
+        [
+          96,
+          0.14
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh đem « Minh Nguyệt quyết » thông thiên nhìn xuống đến, mới hiểu được cái gọi là hồn tu, tựa hồ là tinh luyện thần hồn chi lực một loại tu sĩ, mà hồn tu công pháp, bình thường cũng là lấy rèn luyện thần hồn làm mục đích tu luyện công pháp.",
+      "dich": "Minh Nguyệt công pháp, lấy Nguyệt tinh dưỡng hồn, bồi dưỡng hồn phách, cường hóa thần hồn…\"",
+      "suggest": "Viên Minh nhìn thấu Minh Nguyệt Quyết, mới hiểu được cái gọi là hồn tu, tựa hồ là một tu sĩ tinh luyện thần hồn, mà công pháp tu luyện thần hồn bình thường cũng lấy rèn luyện thần hồn làm mục đích tu luyện.",
+      "similarity": [
+        [
+          97,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn lâm trận lúc đối địch thủ đoạn công kích, cũng là chủ công địch này thần hồn ý thức, thủ đoạn càng thêm bí mật khó lường, làm người khó mà đề phòng.",
+      "dich": "Viên Minh đọc một lượt từ đầu chí cuối Minh Nguyệt quyết, mới hiểu được cái gọi là Hồn tu kia giống như là một loại tu sĩ chuyên tinh luyện lực lượng thần hồn, mà Hồn tu công pháp thường thường cũng là lấy rèn luyện thần hồn làm mục đích tu luyện công pháp.",
+      "suggest": "Thủ đoạn công kích của hắn trong lúc đối địch cũng là chủ công công kích thần hồn ý thức của địch nhân, thủ đoạn càng thêm bí mật, làm cho người khác khó mà đề phòng.",
+      "similarity": [
+        [
+          98,
+          0.26
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh không khỏi nhớ tới ở trong động quật cùng Nhân Tiêu Vương lúc đối chiến, những cái kia tàn thi đã từng cùng công kích, nghĩ đến có lẽ chính là con kia ngân miêu thi triển một loại hồn tu thủ đoạn a?",
+      "dich": "Thủ đoạn công kích lúc lâm trận đối địch của nó cũng chủ yếu là tấn công thần hồn ý thức của đối phương, hơn nữa thủ đoạn còn rất kín đáo khó lường, khiến người ta khó mà đề phòng.",
+      "suggest": "Viên Minh không khỏi nhớ đến lúc ở trong động quật cùng với Nhân Tiêu Vương đối chiến, những tàn thi kia đã từng công kích cùng với công kích, nghĩ đến có lẽ đây chính là một loại thủ đoạn của hồn tu a?",
+      "similarity": [
+        [
+          99,
+          0.32
+        ]
+      ]
+    },
+    {
+      "convert": "Bất quá, loại này công pháp tu luyện độ khó tựa hồ cực lớn, trước mặt cảnh cáo ngữ điệu cũng không phải là một vị khuếch đại, mà là trong tu hành hoàn toàn chính xác tồn tại phong hiểm, tâm chí không kiên người rất có thể sẽ phản tổn thương bản thân hồn phách.",
+      "dich": "Viên Minh không khỏi nhớ tới lúc đối chiến với Nhân Tiêu Vương trong động quật, đám thi thể què cụt kia đã kết bầy kể lũ tấn công, nghĩ đến có lẽ chính là do con mèo bạc kia thi triển một loại thủ đoạn của Hồn tu a?",
+      "suggest": "Tuy nhiên, độ khó tu luyện loại công pháp này dường như cực lớn, lời cảnh cáo trước mặt không phải là một điều khuếch đại, mà trong tu luyện đích xác tồn tại một loại phong hiểm, tâm chí không kiên nhẫn rất có thể sẽ tổn thương hồn phách bản thân.",
+      "similarity": [
+        [
+          100,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Một khi hồn phách có hại, người liền có khả năng mất trí nhớ, hạ trí, tang hồn, thậm chí biến thành ngu dại người.",
+      "dich": "Có điều, tu luyện công pháp loại này có vẻ vô cùng khó khắn, giọng điệu cảnh cáo ở trang đầu cũng không phải chỉ là nói quá, mà đúng là trong quá trình tu hành có tồn tại nguy hiểm, người không có tâm chí kiên định rất có thể sẽ tự làm tổn thương hồn phách của chính mình.",
+      "suggest": "Một khi hồn phách có hại, người đó có thể mất trí nhớ, hạ trí, vong hồn, thậm chí biến thành ngu ngốc.",
+      "similarity": [
+        [
+          101,
+          0.33
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nguyên bản đối cái này « Minh Nguyệt quyết » cũng không có hứng thú quá lớn, bất quá nhìn tầng thứ nhất công pháp bên trong thuật, chỉ cần có thể tu luyện thành công, liền có thể đem thần hồn chi lực luyện hình hóa vật, trong lòng liền manh động mấy phần tu tập ý nghĩ.",
+      "dich": "Một khi hồn phách bị tổn thương, người đó liền có thể bị mất trí nhớ, sa sút trí tuệ, mất hồn, thậm chí biến thành kẻ ngớ ngẩn.",
+      "suggest": "Viên Minh vốn đối với việc tu luyện Minh Nguyệt Quyết này cũng không có hứng thú quá lớn. Nhưng nhìn vào công pháp tầng thứ nhất, chỉ cần có thể tu luyện thành công, có thể đem thần hồn lực luyện hình hóa vật, trong lòng liền khởi động mấy phần tu tập.",
+      "similarity": [
+        [
+          102,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn mặc dù không biết mình thần hồn chi lực phải chăng hợp cách, nhưng đối ý chí của mình vẫn còn có chút lòng tin.",
+      "dich": "Viên Minh vốn không hứng thú lắm với bản Minh Nguyệt quyết này, nhưng sau khi thấy tầng thứ nhất công pháp nói, chỉ cần tu luyện thành công, lập tức có thể đem lực lượng thần hồn luyện hình hóa vật, trong lòng liền manh nha ý định tu tập.",
+      "suggest": "Mặc dù hắn không biết năng lực thần hồn của mình có hợp với cách này không, nhưng đối với ý chí của mình vẫn có chút tin tưởng.",
+      "similarity": [
+        [
+          103,
+          0.34
+        ]
+      ]
+    },
+    {
+      "convert": "Sau đó, hắn lại tiếp tục lật xem đằng sau nội dung, kết quả phát hiện công pháp này ngoài ý liệu ngắn nhỏ, tổng cộng cũng mới chỉ có ba tầng.",
+      "dich": "Hắn dù không biết lực lượng thần hồn của mình có đủ tiêu chuẩn không, nhưng đối với ý chí bản thân thì vẫn khá tự tin.",
+      "suggest": "Sau đó, hắn lại tiếp tục xem nội dung đằng sau, kết quả phát hiện công pháp này rất ngắn, tổng cộng cũng mới chỉ có ba tầng.",
+      "similarity": [
+        [
+          104,
+          0.54
+        ]
+      ]
+    },
+    {
+      "convert": "Bất quá cái này ba tầng công pháp nội dung ngược lại là mười phần tỉ mỉ xác thực, bên cạnh lưu trắng chỗ còn ngẫu nhiên có chút cực nhỏ chữ nhỏ văn tự, tựa hồ là người nào đó lưu lại chú giải.",
+      "dich": "Sau đó, hắn lại tiếp tục đọc nội dung phía sau, kết quả phát hiện công pháp này ngắn đến bất ngờ, tổng cộng cũng chỉ có mỗi ba tầng.",
+      "suggest": "Tuy nhiên nội dung của ba tầng công pháp này lại cực kỳ tỉ mỉ, bên cạnh lưu lại mấy dòng văn tự cực nhỏ, tựa hồ có người đã chú giải qua.",
+      "similarity": [
+        [
+          105,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Bên trong ghi chép cặn kẽ phương pháp tu hành cùng hậu kỳ thủ đoạn công kích, bất quá nội dung lại có chút thâm thuý tối nghĩa, chí ít đối Viên Minh tới nói, muốn tất cả đều lý giải, nhiều ít vẫn là có chút khó khăn.",
+      "dich": "Cũng may nội dung ba tầng công pháp này lại được ghi rất tỉ mỉ chi tiết, khoảng trống ở rìa thỉnh thoảng còn thấy có một ít văn tự rất nhỏ, tựa như là chú giải do ai đó ghi lại.",
+      "suggest": "Trong quyển sách ghi chép chi tiết phương pháp tu hành và các loại thủ đoạn công kích hậu kỳ, nhưng nội dung lại có chút thâm thuý tối nghĩa, chí ít đối với Viên Minh, muốn hiểu rõ tất cả thì rất khó.",
+      "similarity": [
+        [
+          106,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Dưới mắt hắn cũng không có lập tức tu luyện dự định, liền thu hồi sách, ngay tại chỗ điều tức sau nửa canh giờ, liền rời đi....",
+      "dich": "Bên trong ghi chép kỹ càng phương pháp tu hành và thủ đoạn công kích hậu kỳ, có điều nội dung lại tương đối thâm ảo tối nghĩa, tối thiểu với Viên Minh mà nói, muốn lý giải hết thì ít nhiều vẫn khá khó khăn.",
+      "suggest": "Trước mắt hắn cũng không có ý định tu luyện ngay, liền thu hồi sách, ngay sau đó đứng nguyên tại chỗ điều tức trong nửa canh giờ liền rời đi.",
+      "similarity": [
+        [
+          107,
+          0.42
+        ]
+      ]
+    },
+    {
+      "convert": "Sau đó thời gian nửa tháng ở bên trong, Viên Minh không tiếp tục ra ngoài săn thú, mà là một mực lưu tại bản thân trong động quật, một bên dưỡng thương, một bên tu luyện.",
+      "dich": "Trước mắt hắn cũng không định tu luyện ngay, liền thu sách lại, ngồi tại chỗ điều tức hơn nửa canh giờ, xong lập tức rời đi.",
+      "suggest": "Trong thời gian nửa tháng sau, Viên Minh không ra ngoài săn thú nữa, mà một mực ở lại trong động quật của mình, vừa dưỡng thương, vừa tu luyện.",
+      "similarity": [
+        [
+          109,
+          0.53
+        ]
+      ]
+    },
+    {
+      "convert": "Thứ nhất là không xác định Khôn Đồ cùng Ba Đạt có thể hay không tới tìm phiền toái với mình, thứ hai là không xác định tông môn đối Nhân Tiêu sự kiện xử lý sẽ sẽ không dính dấp đến hắn, mặc dù lấy bản thân chỉ là một giới phi mao thú nô hèn mọn thân phận, hai chuyện này xuất hiện tỉ lệ cũng không quá lớn, nhưng hắn cũng không thể không phòng.",
+      "dich": "…",
+      "suggest": "Thứ nhất là không xác định được Khôn Đồ và Ba Đạt có thể gây ra phiền toái với mình hay không, thứ hai là không xác định được sự kiện Nhân Tiêu sẽ không dính dáng gì đến hắn, cho dù hắn chỉ là một Phi Mao thú nô hèn mọn, hai chuyện này xuất hiện tỉ lệ không quá lớn, nhưng hắn cũng không thể không đề phòng.",
+      "similarity": [
+        [
+          110,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "Vào ban ngày, hắn liền tiếp tục tu luyện Cửu Nguyên Quyết, buổi tối chờ đến có Minh Nguyệt huyền không thời điểm, hắn liền sẽ xuất hiện nếm thử tu luyện « Minh Nguyệt quyết ».",
+      "dich": "Trong thời gian nửa tháng sau đó, Viên Minh không tiếp tục ra ngoài săn thú, mà một mực ở lỳ trong động quật, vừa dưỡng thương vừa tu luyện.",
+      "suggest": "Vào buổi ngày, hắn lại tiếp tục tu luyện Cửu Nguyên Quyết, buổi tối chờ đến khi Minh Nguyệt Huyền Không xuất hiện, hắn sẽ thử tu luyện Minh Nguyệt Quyết.",
+      "similarity": [
+        [
+          104,
+          0.12
+        ],
+        [
+          111,
+          0.32
+        ]
+      ]
+    },
+    {
+      "convert": "Để hắn quấy nhiễu chính là, hắn lại một lần nữa gặp tu luyện Huyết Khí pháp thời điểm khốn cảnh.",
+      "dich": "Thứ nhất là hắn không xác định Khôn Đồ và Ba Đạt có tìm tới gây rắc rối cho hắn hay không, thứ hai là hắn không chắc việc tông môn xử lý sự kiện Nhân Tiêu có dính dáng gì tới mình hay không, dù bản thân chỉ là nhất giới Phi Mao thú nô thân phận thấp kém, nhưng hắn vẫn không thể không phòng.",
+      "suggest": "Điều duy nhất hắn bị quấy nhiễu chính là, hắn lại một lần nữa gặp khốn cảnh tu luyện Huyết Khí pháp.",
+      "similarity": [
+        [
+          112,
+          0.52
+        ]
+      ]
+    },
+    {
+      "convert": "Tu luyện « Minh Nguyệt quyết » có một cái rất rõ ràng nhập môn tiêu chuẩn, chính là có thể \"Thần thức nội thị, ngồi chiếu tự quan\".",
+      "dich": "Vào ban ngày, hắn tiếp tục tu luyện Cửu Nguyên quyết, buổi tối khi có trăng lên, hắn liền ra ngoài thử tu luyện Minh Nguyệt quyết.",
+      "suggest": "Minh Nguyệt Quyết có một tiêu chuẩn rất rõ ràng, đó chính là có thể \"thần thức nội thị, ngồi chiếu tự quan\".",
+      "similarity": [
+        [
+          113,
+          0.28
+        ],
+        [
+          117,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Cái gọi là thần thức, là bước vào Luyện Khí kỳ sau tu sĩ tạo ra một loại vượt qua lục thức năng lực, ở chín nguyên quyết bên trong cũng có đề cập, nói ngắn gọn, là một loại có thể dò xét hết thảy đặc thù cảm giác lực.",
+      "dich": "Điều làm hắn bối rối là, hắn lại một lần nữa gặp lại khốn cảnh như khi tu luyện Huyết Khí pháp.",
+      "suggest": "Thần thức còn được gọi là thần thức, là một loại năng lực vượt quá lục thức, ở trong chín nguyên quyết cũng đề cập đến, nói một cách ngắn gọn, nó là một loại cảm giác lực đặc thù có thể cảm nhận được.",
+      "similarity": [
+        [
+          114,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Chỉ là hắn hôm nay, thần thức mười phần yếu ớt, vẻn vẹn có thể nhắm mắt cảm giác hơn một xích phạm vi, lại mỗi một lần mở ra thần thức, thời gian hơi chút lâu dài, liền có loại hư thoát cảm giác, cần nghỉ ngơi già dài một đoạn thời gian mới có thể khôi phục.",
+      "dich": "Tu luyện Minh Nguyệt quyết có một cái tiêu chuẩn nhập môn rất cụ thể rõ ràng, chính là có thể \"Thần thức nội thị, tọa chiếu tự quan.\"",
+      "suggest": "Chỉ là hôm nay thần thức của hắn cực kỳ yếu ớt, chỉ có thể nhắm mắt cảm giác được phạm vi hơn một xích, lại mỗi một lần mở ra thần thức, thời gian hơi lâu, liền có cảm giác hư thoát, cần nghỉ ngơi trong một thời gian dài mới có thể khôi phục lại được.",
+      "similarity": [
+        [
+          115,
+          0.45
+        ]
+      ]
+    },
+    {
+      "convert": "Ngoài ra, nương theo lấy mỗi một lần tu vi tăng lên, thần thức cũng sẽ có một chút tăng cường, nhưng đối với Viên Minh mà nói, cảm giác cũng không quá rõ ràng.",
+      "dich": "Cái gọi là thần thức chính là một loại năng lực vượt xa lục thức của tu sĩ sau khi bước vào Luyện Khí kỳ sinh ra, trong Cửu Nguyên quyết cũng có nhắc tới, nói ngắn gọn là một loại năng lực cảm thụ đặc biệt có thể dò xét vạn vật.",
+      "suggest": "Ngoài ra, dựa theo tu vi tăng lên, thần thức cũng sẽ tăng lên một chút, nhưng đối với Viên Minh thì lại không quá rõ ràng.",
+      "similarity": [
+        [
+          116,
+          0.43
+        ]
+      ]
+    },
+    {
+      "convert": "Mà theo như sách viết thuật, cái gọi là \"Thần thức nội thị, ngồi chiếu tự quan\"",
+      "dich": "Chỉ là thần thức hiện tại của hắn vô cùng yếu ớt, chỉ có thể nhắm mắt cảm giác trong phạm vi hơn một xích, hơn nữa mỗi một lần mở thần thức ra hơi lâu một chút là lập tức có cảm giác hư thoát, cả người phải nghỉ ngời một thời gian dài mới có thể hồi phục lại.",
+      "suggest": "Theo như trong sách viết, cái gọi là \"Thần thức nội thị, ngồi chiếu tự quan\" cũng được gọi là \"Thần thức nội thị, ngồi chiếu tự quan\"",
+      "similarity": [
+        [
+          113,
+          0.18
+        ],
+        [
+          117,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "cần dẫn đạo thần thức quan sát tự thân đan điền, kinh mạch cùng thức hải cái này ba khu trọng yếu nội cảnh, tức tựa như nhân gian quân vương tuần sát cảnh nội Sơn Hà, lấy đó chưởng khống.",
+      "dich": "Ngoài ra, theo mỗi lần tu vi tăng lên, thần thức cũng sẽ tăng thêm một chút, nhưng với Viên Minh mà nói thì cảm giác cũng không rõ ràng lắm.",
+      "suggest": "Chỉ dẫn đạo thần thức quan sát toàn thân đan điền, kinh mạch và thức hải ở ba khu vực trọng yếu này, giống như cảnh quan nội cảnh của nhân gian, do đó nắm giữ.",
+      "similarity": [
+        [
+          118,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Nhưng Viên Minh trải qua nửa tháng cố gắng, cũng chỉ có thể khó khăn lắm nội thị một lần thức hải của mình, nhìn thấy cũng chỉ là một mảnh nhỏ hỗn độn khu vực, cũng không thể chân chính nội thị toàn bộ thức hải.",
+      "dich": "Mà theo ghi chép trên sách, cái gọi là \"Thần thức nội thị, tọa chiếu tự quan\"",
+      "suggest": "Nhưng Viên Minh trải qua nửa tháng cố gắng, cũng chỉ có thể nhìn thấy một khu vực hỗn độn, nhìn thấy cũng chỉ là một khu vực hỗn độn, không thể nào nội thị toàn bộ thức hải của mình.",
+      "similarity": [
+        [
+          119,
+          0.28
+        ]
+      ]
+    },
+    {
+      "convert": "Liền chớ đừng nói chi là cái gọi là thần thức bên ngoài tuần kinh mạch, thăm viếng đan điền.",
+      "dich": "cũng chính là phải dẫn đạo thần thức quan sát ba khu vực trọng yếu trong cơ thể chính mình gồm: đan điền, kinh mạch và thức hải, so sánh giống như là quân vương nhân gian đi tuần sát non sông lãnh thổ, qua đó thể hiện quyền khống chế.",
+      "suggest": "Càng không muốn nói đến kinh mạch bên ngoài cơ thể, mà ngay cả đan điền bên ngoài cũng phải có người đi vào.",
+      "similarity": []
+    },
+    {
+      "convert": "Loại này thần thức lưu chuyển, cùng trước đó ngân miêu chỉ đạo hắn dùng thần hồn chi lực ngưng tụ hai mắt khác biệt, thao tác hơn nữa cẩn thận, đối thần hồn chi lực khống chế cực kì nghiêm ngặt, Viên Minh từ đầu đến cuối khó mà nắm giữ.",
+      "dich": "Nhưng Viên Minh qua hơn nửa tháng cố gắng, vẫn chỉ có thể miễn cưỡng nội thị một chút thức hải của mình, nhìn thấy cũng chỉ là một khoảng hỗn độn nho nhỏ, chứ chưa thể chân chính nội thị toàn bộ thức hải, chớ nói gì tới cái gọi là thần thức ngoại tuần kinh mạch, thăm viếng đan điền.",
+      "suggest": "Loại thần thức này, cùng với lời Ngân miêu chỉ dạy hắn dùng thần hồn lực ngưng tụ hai mắt, thao tác vô cùng cẩn thận, đối với khống chế của thần hồn chi lực cực kì nghiêm ngặt, Viên Minh từ đầu đến cuối khó mà nắm giữ được.",
+      "similarity": [
+        [
+          120,
+          0.14
+        ]
+      ]
+    },
+    {
+      "dich": "Loại lưu chuyển thần thức này khác nhiều so với việc mèo bạc chỉ đạo hắn dùng lực lượng thần hồn ngưng tụ hai mắt lúc trước, không chỉ cần thao tác phải tỉ mỉ hơn nhiều, mà yêu cầu với việc khống chế lực lượng thần hồn cũng cực kỳ nghiêm khắc, Viên Minh thủy chung khó mà nắm giữ."
+    }
+  ]
+}

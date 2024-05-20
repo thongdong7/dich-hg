@@ -1,0 +1,1123 @@
+{
+  "next": {
+    "id": 56,
+    "title": "Chương 56: Giúp ta một chút"
+  },
+  "previous": {
+    "id": 54,
+    "title": "Chương 54: Tán loạn"
+  },
+  "title": {
+    "convert": "Chương 55",
+    "dich": "Chương 55"
+  },
+  "lines": [
+    {
+      "convert": "Không đầy một lát, Nhân Tiêu Vương trong mắt huyết hồng quang mang thu vào, lại dừng động tác lại, khôi phục nguyên trạng.",
+      "dich": "Chỉ sau chốc lát, tia sáng màu máu trong mắt Nhân Tiêu Vương thu lại, đồng thời nó dừng động tác, trở lại như cũ.",
+      "suggest": "Không đầy một lát, ánh mắt Nhân Tiêu Vương thu lại, sau đó lại ngừng động tác, khôi phục nguyên trạng.",
+      "similarity": [
+        [
+          0,
+          0.27
+        ],
+        [
+          44,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "\"Chuyện gì xảy ra?",
+      "dich": "\"Xảy ra chuyện gì?",
+      "suggest": "\"Chuyện gì đang xảy ra vậy?",
+      "similarity": [
+        [
+          27,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Cái này Nhân Tiêu Vương linh trí tựa hồ có chút không đúng?\"",
+      "dich": "Đầu óc Nhân Tiêu Vương này hình như xảy ra chuyện?\"",
+      "suggest": "Linh trí của Nhân Tiêu Vương dường như có chút không đúng?\"",
+      "similarity": [
+        [
+          2,
+          0.14
+        ],
+        [
+          28,
+          0.11
+        ],
+        [
+          65,
+          0.14
+        ]
+      ]
+    },
+    {
+      "convert": "Trong lòng của hắn nghi hoặc.",
+      "dich": "Viên Minh thầm thắc mắc.",
+      "suggest": "Trong lòng hắn nghi hoặc.",
+      "similarity": []
+    },
+    {
+      "convert": "Đúng lúc này, Nhân Tiêu Vương đã đứng dậy, hướng phía huyết trì đi tới.",
+      "dich": "Đúng lúc này, Nhân Tiêu Vương đứng dậy đi về phía ao máu.",
+      "suggest": "Đúng lúc này, Nhân Tiêu Vương đã đứng dậy, đi về phía huyết trì.",
+      "similarity": [
+        [
+          4,
+          0.47
+        ],
+        [
+          65,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh lông mày nhíu lại, nhìn về phía kia quay chung quanh huyết trì phù văn vết khắc, mơ hồ cảm thấy kia Nhân Tiêu Vương bước vào trong đó về sau, sẽ phát sinh chút gì.",
+      "dich": "Viên Minh nhíu mày nhìn về phía những đường khắc phù văn quanh ao máu, lờ mờ cảm thấy sau khi Nhân Tiêu Vương bước vào nó, sẽ có chuyện gì đó xảy ra.",
+      "suggest": "Hai hàng lông mày Viên Minh nhíu lại, nhìn về phía phù văn khắc trên huyết trì ở xung quanh, mơ hồ cảm thấy sau khi người này tiến vào trong đó sẽ phát sinh chuyện gì.",
+      "similarity": [
+        [
+          5,
+          0.14
+        ]
+      ]
+    },
+    {
+      "convert": "Nhưng lại tại Nhân Tiêu Vương sắp vượt qua qua trên mặt đất vùi lấp phù sắt lúc, nó chợt bước chân dừng lại, ngừng lại.",
+      "dich": "Nhưng khi Nhân Tiêu Vương sắp vượt qua chỗ chôn mảnh thiết phù hình tam giác, nó chợt ngừng bước lại.",
+      "suggest": "Nhưng khi Mục Tiên Vân đã vượt qua sự vùi lấp Phù sắt trên mặt đất rồi, bước chân nó chợt dừng lại.",
+      "similarity": []
+    },
+    {
+      "convert": "\"Bị hắn phát hiện?\"",
+      "dich": "\"Bị nó phát hiện rồi sao?\"",
+      "suggest": "\"Bị hắn phát hiện?\"",
+      "similarity": [
+        [
+          7,
+          0.17
+        ],
+        [
+          29,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh trong lòng ngạc nhiên.",
+      "dich": "Viên Minh trong lòng ngạc nhiên.",
+      "suggest": "Viên Minh giật mình.",
+      "similarity": [
+        [
+          3,
+          0.18
+        ],
+        [
+          8,
+          0.15
+        ],
+        [
+          84,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Nhưng rất nhanh, Viên Minh phát hiện, là hắn quá lo lắng.",
+      "dich": "Nhưng rất nhanh, Viên Minh phát hiện ra là hắn đã nghĩ nhiều.",
+      "suggest": "Nhưng rất nhanh, Viên Minh phát hiện ra hắn đã quá lo lắng.",
+      "similarity": [
+        [
+          9,
+          0.61
+        ]
+      ]
+    },
+    {
+      "convert": "Nhân Tiêu Vương sở dĩ dừng lại, tựa hồ là bởi vì trong đôi mắt huyết sắc lần nữa thu liễm, phảng phất linh trí lại một lần xảy ra vấn đề, mới ngừng lại được.",
+      "dich": "Sở dĩ Nhân Tiêu Vương dừng lại có lẽ là bởi màu máu trong mắt một lần nữa rút đi, tựa như đầu óc lại xảy ra vấn đề, không thể không ngừng bước.",
+      "suggest": "Sở dĩ Vương nhân tiêu dừng lại, tựa hồ là bởi vì huyết sắc trong mắt thu liễm, phảng phất như linh trí lại xảy ra vấn đề, lúc này mới ngừng lại.",
+      "similarity": [
+        [
+          10,
+          0.2
+        ]
+      ]
+    },
+    {
+      "convert": "Chỉ là sau một lát, hắn liền một cước bước qua phù văn vết khắc, đi vào huyết trì ở trong.",
+      "dich": "Chỉ một thoáng sau, nó liền bước một bước qua vết khắc phù văn, đi vào trong ao máu.",
+      "suggest": "Chỉ là sau một lát, hắn đã bước qua một bước phù văn, đi vào trong huyết trì.",
+      "similarity": [
+        [
+          11,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Chẳng biết tại sao, những cái kia phù văn vết khắc đối với Nhân Tiêu Vương bước vào không có nửa điểm phản ứng, không biết là không có đạt tới phát động điều kiện, vẫn là nói cái này vốn cũng không phải là nhằm vào Nhân Tiêu Vương?",
+      "dich": "Chẳng biết vì sao mà những đường phù văn kia không hề có phản ứng gì với Nhân Tiêu Vương, không biết là chưa đạt tới điều kiện phát động, hay là cái này vốn không phải là nhắm vào Nhân Tiêu Vương?",
+      "suggest": "Chẳng biết tại sao, những phù văn vết khắc kia đối với việc Nhân Tiêu Vương bước vào không có nửa điểm phản ứng, không biết là không có điều kiện khởi động, hay là cái này vốn không phải là nhằm vào Nhân Tiêu Vương sao?",
+      "similarity": [
+        [
+          12,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "Mặc kệ là loại kia, Viên Minh đều không có ý định lẫn vào, chỉ muốn yên lặng giấu ở một bên, chờ nguy cơ đi tới.",
+      "dich": "Bất luận là cái nào, Viên Minh đều không có ý định xen vào, chỉ muốn yên lặng núp ở một bên, đợi nguy cơ qua đi.",
+      "suggest": "Mặc kệ là loại nào, Viên Minh đều không có ý định xen vào, chỉ muốn yên lặng ẩn núp ở một bên, chờ đợi nguy hiểm đi tới.",
+      "similarity": [
+        [
+          13,
+          0.61
+        ]
+      ]
+    },
+    {
+      "convert": "Lúc này, hắn chú ý tới, bên trong ao máu kia huyết thủy cuồn cuộn, rung chuyển so trước đó lớn mấy lần, vô số \"Ục ục\" bốc lên bọng máu bốc lên, đem Nhân Tiêu vương thượng nửa người hoàn toàn che đậy, một mực bao phủ đến cái cổ.",
+      "dich": "Lúc này, hắn chú ý tới máu loãng trong ao đang cuộn dâng, mức độ xao động lớn hơn trước mấy lần, vô số bọng máu 'ùng ục' bốc lên đến ngang cổ Nhân Tiêu Vương, che kín hết nửa thân trên của nó.",
+      "suggest": "Lúc này, hắn để ý thấy, dòng nước trong ao kia cuồn cuộn, rung chuyển lớn hơn dòng nước xung quanh mấy lần, vô số bọng máu nổi lên, che kín nửa thân Nhân Tiêu vương, toàn thân còn lại che kín đến tận cổ.",
+      "similarity": [
+        [
+          14,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Bộ ngực hắn chỗ kia vết thương, chung quanh bốc lên cổ cổ khói trắng, tràn ngập trong không khí ra một cỗ huyết nhục hư thối mùi.",
+      "dich": "Miệng vết thương trên ngực nó bốc lên từng sợi khói trắng, nhất thời không khí tràn ngập mùi xác thối.",
+      "suggest": "Chỗ vết thương nơi ngực hắn, chung quanh bốc lên một làn khói trắng, tràn ngập không khí một mùi máu tanh nồng nặc.",
+      "similarity": []
+    },
+    {
+      "convert": "Một tầng hồng sắc quang vựng từ toàn bộ huyết trì sáng lên, đem nó toàn bộ bao khỏa ở trong đó.",
+      "dich": "Một quầng sáng màu đỏ từ khắp bề mặt ao máu nổi lên, bọc kín Nhân Tiêu Vương lại.",
+      "suggest": "Một tầng sáng màu hồng từ huyết trì tỏa ra bao trọn toàn bộ nó vào trong.",
+      "similarity": []
+    },
+    {
+      "convert": "\"Gia hỏa này không phải là ở chữa thương?\"",
+      "dich": "\"Gia hỏa này không phải là đang chữa thương chứ?\"",
+      "suggest": "\"Gia hỏa này không phải đang chữa thương sao?\"",
+      "similarity": [
+        [
+          7,
+          0.14
+        ],
+        [
+          17,
+          0.53
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh mặc dù không hiểu, nhưng cũng có thể đoán ra một hai.",
+      "dich": "Viên Minh dù không hiểu nhưng cũng thể đoán được một chút.",
+      "suggest": "Viên Minh mặc dù không hiểu, nhưng cũng có thể đoán ra được một hai.",
+      "similarity": [
+        [
+          18,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Chờ giây lát, huyết trì ở bên trong mực nước nghiêm trọng hạ xuống, Nhân Tiêu Vương lồng ngực lập tức hiển lộ ra, cái kia nhìn thấy mà giật mình vết thương, vậy mà đã bị huyết nhục đền bù chữa trị.",
+      "dich": "Chỉ sau thoáng chốc, mực nước trong ao máu hạ xuống rất nhanh, lập tức để lộ ra lồng ngực Nhân Tiêu Vương, chỉ thấy vết thương nhìn mà giật mình kia thình lình đã được máu thịt đắp đầy lại.",
+      "suggest": "Đợi giây lát, mực nước trong hồ lập tức hạ xuống, lồng ngực của Nhân Tiêu Vương lập tức lộ ra, vết thương ở ngực vừa nhìn thấy đã bị máu thịt đền bù.",
+      "similarity": [
+        [
+          19,
+          0.12
+        ],
+        [
+          41,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn trên thân đốt cháy khét huyết nhục vậy mà cũng bị chữa trị, toàn thân làn da trở nên khô cạn vàng như nến, nhìn tựa như là một bộ hong khô nhiều năm tịch Thi.",
+      "dich": "Máu thịt trên người bị đốt khét lẹt không ngờ cũng được chữa trị hết, làn da toàn thân trở nên khô vàng, nhìn giống một cái xác bị phơi khô nhiều năm.",
+      "suggest": "Huyết nhục bị hắn đốt cháy khét lẹt vậy mà cũng được chữa trị, da dẻ toàn thân trở nên vàng như gấc, nhìn giống như một bộ tịch thi đã bị phơi khô nhiều năm vậy.",
+      "similarity": [
+        [
+          20,
+          0.26
+        ]
+      ]
+    },
+    {
+      "convert": "\"Thật mạnh năng lực khôi phục!\"",
+      "dich": "\"Năng lực khôi phục mạnh quá!\"",
+      "suggest": "\"Thực mạnh năng lực khôi phục!\"",
+      "similarity": [
+        [
+          21,
+          0.24
+        ],
+        [
+          61,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "Mắt nhìn hắn thương thế phục hồi như cũ, Viên Minh trong lòng cảm giác nặng nề, sầu lo càng sâu.",
+      "dich": "Mắt thấy thương thế của nó khôi phục hoàn toàn, trong lòng Viên Minh càng thêm nặng nề âu lo.",
+      "suggest": "Mắt thấy thương thế của hắn khôi phục như cũ, trong lòng Viên Minh cảm thấy càng thêm nặng nề, buồn bực.",
+      "similarity": [
+        [
+          22,
+          0.41
+        ]
+      ]
+    },
+    {
+      "convert": "Dưới mắt hắn chỉ mong lấy Nhân Tiêu Vương chữa trị thương thế về sau, có thể lần nữa rời đi.",
+      "dich": "Trước mắt, Viên Minh chỉ mong Nhân Tiêu Vương sau khi chữa khỏi thương thế sẽ lại rời đi.",
+      "suggest": "Hắn chỉ mong lấy thân thể Nhân Tiêu Vương chữa trị khỏi thương thế, sau đó có thể một lần nữa rời đi.",
+      "similarity": [
+        [
+          23,
+          0.15
+        ],
+        [
+          57,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Nhân Tiêu Vương trên người lông tóc cũng không mọc ra, bắp thịt cả người dần dần tràn đầy, gương mặt cũng khôi phục đáng nhẽ hình dáng, nhìn dường như còn là một trương mũi cao thẳng, góc cạnh rõ ràng thanh niên nam tử khuôn mặt.",
+      "dich": "Lông tóc vẫn chưa mọc da trên người Nhân Tiêu Vương, nhưng bắp thịt toàn thân dần dần căng đầy, gương mặt cũng khôi phục lại hình dáng ban đầu, trông có vẻ như là một gương mặt đàn ông với góc cạnh rõ ràng, sống mũi cao thẳng.",
+      "suggest": "Lông tóc trên người Nhân Tiêu Vương cũng không mọc lại, bắp thịt cả người cũng dần dần khôi phục hình dáng ban đầu, nhìn từ trên xuống dưới cằm là một gương mặt thanh niên cao lớn, góc cạnh rõ ràng.",
+      "similarity": [
+        [
+          24,
+          0.26
+        ]
+      ]
+    },
+    {
+      "convert": "Như không phải là bởi vì quá phận bên ngoài đột ánh mắt, bóp méo nét mặt của hắn, gương mặt này vậy mà lộ ra mấy phần oai hùng tuấn lãng chi khí.",
+      "dich": "Nếu không phải nhãn cầu lồi ra quá mức khiến nét mặt nó vặn vẹo, gương mặt này nhìn qua quả thực có nét anh tuấn uy vũ.",
+      "suggest": "Nếu không phải vì bị ánh mắt bên ngoài che lấp đi, làm cho khuôn mặt hắn lộ ra mấy phần oai hùng tuấn lãng.",
+      "similarity": []
+    },
+    {
+      "convert": "Viên Minh trong lòng không khỏi sợ hãi cả kinh, hắn vững tin bản thân thấy được một khuôn mặt người, một Trương Thanh năm nam tử khuôn mặt.",
+      "dich": "Nội tâm Viên Minh không khỏi kinh hãi, hắn tin chắc thứ mình thấy chính là một gương mặt của con người, hay cụ thể hơn là một gương mặt đàn ông.",
+      "suggest": "Viên Minh trong lòng không khỏi sợ hãi cả kinh, hắn tự tin mình có thể thấy được một khuôn mặt người, một gương mặt của nam tử áo đen.",
+      "similarity": [
+        [
+          26,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"Tại sao có thể như vậy?",
+      "dich": "\"Sao lại có thể như vậy?",
+      "suggest": "\"Tại sao có thể như vậy?",
+      "similarity": [
+        [
+          27,
+          0.54
+        ]
+      ]
+    },
+    {
+      "convert": "Chẳng lẽ cái này Nhân Tiêu Vương là người ngụy trang?",
+      "dich": "Không lẽ Nhân Tiêu Vương này là con người ngụy trang?",
+      "suggest": "Chẳng lẽ vị Nhân Tiêu Vương này là người ngụy trang?",
+      "similarity": [
+        [
+          2,
+          0.2
+        ],
+        [
+          4,
+          0.11
+        ],
+        [
+          28,
+          0.55
+        ]
+      ]
+    },
+    {
+      "convert": "Hoặc là nói... Là từ người chuyển biến?\"",
+      "dich": "Hoặc là…do con người biến thành?\"",
+      "suggest": "Hoặc là nói...là từ người chuyển biến?\"",
+      "similarity": []
+    },
+    {
+      "convert": "Trong óc của hắn, không khỏi toát ra những ý niệm này.",
+      "dich": "Đầu hắn không khỏi nảy ra ý nghĩ này.",
+      "suggest": "Trong đầu hắn không kìm được mà xuất hiện những ý niệm này.",
+      "similarity": []
+    },
+    {
+      "convert": "Ngay tại hắn nghĩ như vậy thời điểm, chợt nghe trong Huyết Trì Nhân Tiêu Vương trong miệng phát ra một tiếng thê lương gào thét, thân thể đột nhiên mãnh đứng lên, nâng lên móng vuốt liền hướng lồng ngực của mình bắt tới.",
+      "dich": "Ngay vào lúc hắn đang nghĩ vậy, chợt nghe Nhân Tiêu Vương trong ao máu gào lên một tiếng thê lương, đứng phắt người lên, đưa móng vuốt bấu vào lồng ngực mình.",
+      "suggest": "Đúng lúc hắn nghĩ như vậy, chợt nghe trong miệng Huyết Trì Nhân Tiêu Vương phát ra một tiếng gào rú thê lương, thân thể đột nhiên mạnh mẽ đứng lên, giơ móng vuốt lên rồi nhắm thẳng vào lồng ngực của mình.",
+      "similarity": [
+        [
+          31,
+          0.14
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nghe tiếng vội vàng nhìn lại, chỉ thấy Nhân Tiêu Vương chỗ ngực vừa mới mọc tốt huyết nhục, vậy mà lấy tốc độ mà mắt thường cũng có thể thấy được hư thối, nhanh chóng biến tử biến thành đen thịt thối trực tiếp từ lồng ngực chỗ tróc ra, một lần nữa lộ ra cái kia kinh người huyết động.",
+      "dich": "Viên Minh nghe tiếng vội vàng nhìn qua, thấy ngay máu thịt vừa mới mọc ra nơi ngực nó không ngờ lại đang thối rữa với tốc độ mắt thường có thể thấy được, thịt thối nhanh chóng chuyển từ màu tím sang đen rồi rơi ra khỏi ngực, lần nữa để lộ ra lỗ máu dọa người kia.",
+      "suggest": "Viên Minh vội vàng nhìn lại, chỉ thấy chỗ ngực Nhân Tiêu Vương vừa mới mọc xong huyết nhục, vậy mà nhanh chóng biến thành thịt đen sì từ lồng ngực thối rữa ra, một lần nữa lộ ra huyết động kinh người kia.",
+      "similarity": []
+    },
+    {
+      "convert": "Không chỉ có như thế, huyết động chung quanh huyết nhục cũng bị xâm nhiễm, ngay tại từng chút từng chút mục nát suy bại, từ hắn lồng ngực tróc ra.",
+      "dich": "Không chỉ có thế, máu thịt xung quanh lô máu cũng bị xâm nhâm, đang rữa nát từng chút, từng chút, đoạn tróc khỏi ngực nó.",
+      "suggest": "Không chỉ có như thế, máu thịt chung quanh huyết nhục cũng bị xâm nhập, đang từng chút từng chút suy bại, từ lồng ngực hắn tuôn ra.",
+      "similarity": [
+        [
+          33,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "Nhân Tiêu Vương song trảo nổi điên chụp vào bộ ngực của mình, đem nơi đó thịt thối tất cả đều xé rách xuống tới, giãy dụa lấy muốn từ trong Huyết Trì thoát thân xuất hiện.",
+      "dich": "Nhân Tiêu Vương điên cuồng dùng song trảo cào cấu ngực mình, giật hết chỗ thịt thối xuống, đồng thời cuống cuống muốn thoát ra khỏi ao máu.",
+      "suggest": "Hai tay của Tiêu Vương nổi điên chụp vào ngực mình, xé toạc những miếng thịt thối còn sót lại của nó, giãy dụa muốn thoát ra khỏi Huyết Trì.",
+      "similarity": [
+        [
+          34,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Có thể nhưng vào lúc này, kia vờn quanh huyết trì phù văn vết khắc, lại đột nhiên phát sáng lên.",
+      "dich": "Nhưng đúng vào lúc này, những đường khắc phù văn bao quanh ao máu lại đột nhiên phát sáng.",
+      "suggest": "Nhưng đúng lúc này, những vết khắc màu máu vờn quanh huyết trì lại đột nhiên sáng lên.",
+      "similarity": [
+        [
+          35,
+          0.2
+        ]
+      ]
+    },
+    {
+      "convert": "Chỉ gặp dưới mặt đất, một đoàn tiếp một đoàn hồng quang dâng lên, tạm khắc mặt đất phù văn tùy theo xâu chuỗi mà lên, tạo thành một tòa trán phóng hào quang màu đỏ cổ quái pháp trận.",
+      "dich": "Chỉ thấy trên mặt đất, từng dải sáng màu đỏ nối tiếp nhau nổi lên, tiếp đó theo đường khắc phù văn liên kết lại, hình thành một pháp trận cổ quái tỏa hào quang màu đỏ.",
+      "suggest": "Chỉ thấy dưới mặt đất, một đoàn hồng quang dâng lên, phù văn dưới đất theo từng chuỗi xếp chồng lên nhau, hình thành một pháp trận có hình dáng cổ quái.",
+      "similarity": [
+        [
+          36,
+          0.2
+        ]
+      ]
+    },
+    {
+      "convert": "Xuyên thấu qua mặt đất, Viên Minh thấy được từng cái mơ hồ mà cổ phác phù lục văn tự.",
+      "dich": "Xuyên qua mặt đất, Viên Minh lờ mờ thấy kha khá những phù văn kiểu cổ.",
+      "suggest": "Viên Minh nhìn xuyên qua mặt đất, chỉ thấy từng dòng văn tự cổ phác trên Phù Lục.",
+      "similarity": [
+        [
+          37,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn có chút ngoài ý muốn phát hiện, những văn tự này cũng không phải là Nam Cương văn tự, nhìn giống như là Trung Nguyên văn tự.",
+      "dich": "Hắn ngạc nhiên phát hiện, những văn tự này lại không phải là văn tự Nam Cương, mà trông giống như văn tự Trung Nguyên.",
+      "suggest": "Hắn hơi ngạc nhiên phát hiện ra những văn tự này cũng không phải là Nam Man văn tự, nhìn giống như là văn tự Trung Nguyên.",
+      "similarity": [
+        [
+          38,
+          0.38
+        ]
+      ]
+    },
+    {
+      "convert": "Chỉ bất quá mỗi một cái văn tự hình thái đều cùng Viên Minh trong ấn tượng văn tự khác biệt, tất cả đều phát sinh vặn vẹo biến hình, nhìn xen vào văn tự cùng bức hoạ ở giữa, phức tạp vừa thần bí.",
+      "dich": "Chỉ có điều hình thái mỗi văn tự đều khác so với chữ viết trong ấn tượng của Viên Minh, tất cả đều phát sinh văn vẹo biến hình, trông như pha trộn giữa chữ viết và hình vẽ, vừa phức tạp vừa thần bí.",
+      "suggest": "Chỉ có điều mỗi một hình thái văn tự đều khác với ấn tượng của Viên Minh, tất cả đều phát sinh biến hóa, nhìn vào văn tự và bức hoạ xen kẽ rất thần bí.",
+      "similarity": [
+        [
+          39,
+          0.33
+        ]
+      ]
+    },
+    {
+      "convert": "Phù văn sáng lên đồng thời, từng đạo đỏ sậm quang mang từ pháp trận bên trên phát sáng lên, nhao nhao uốn lượn lấy thăm dò vào trong trận Nhân Tiêu Vương, như từng đầu xiềng xích đồng dạng quấn quanh ở trên cổ của hắn.",
+      "dich": "Phù văn sáng lên, đồng thời từng luồng sáng từ trên pháp trận bắt đầu bừng lên, đoạn nhất loạt uốn lượn, \"bò\" vào phía trung tâm pháp trận, giống như những sợi xích quấn quanh cổ Nhân Tiêu Vương.",
+      "suggest": "Phù văn sáng lên đồng thời, từng đạo ánh sáng đỏ sậm từ trên pháp trận phát ra, đua nhau uốn lượn thăm dò vào trong người Nhân Tiêu Vương, giống như từng sợi xích sắt quấn quanh cổ hắn vậy.",
+      "similarity": [
+        [
+          40,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Huyết sắc dây xích quấn chặt lấy trong nháy mắt, Nhân Tiêu Vương trên mặt liền lộ ra vẫn như cũ thần sắc thống khổ, trong miệng phát ra trận trận cuồng nộ gào thét, hai tay không ngừng xé rách hướng quấn quanh ở trên cổ mình huyết sắc xiềng xích.",
+      "dich": "Vừa bị sợi xích màu máu quấn chặt, trên mặt Nhân Tiêu Vương lập tức lộ thần sắc cực kỳ đau đớn, miệng phát ra từng tràng những tiếng gào thét giận dữ, đồng thời hai tay nó không ngừng bứt xé sợi xích màu máu quấn quanh cổ mình.",
+      "suggest": "Sợi xích máu màu máu quấn quanh cổ Nhân Tiêu Vương trong nháy mắt, trên mặt Nhân Tiêu Vương vẫn lộ ra vẻ thống khổ như cũ, miệng gào thét cuồng nộ, hai tay không ngừng xé rách sợi xích màu máu quấn quanh cổ mình.",
+      "similarity": [
+        [
+          40,
+          0.12
+        ],
+        [
+          41,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "Nhưng mà, hai trảo của hắn vừa mới đụng vào xiềng xích, tựa như là đụng chạm đến nung đỏ bàn ủi, lập tức liền gảy ra.",
+      "dich": "Có điều, ngay khi móng vuốt của nó chạm vào sợi xích liền bật trở ra ngay, tựa như túm phải thanh sắt nóng chảy vậy.",
+      "suggest": "Nhưng hai trảo của hắn vừa mới đụng vào sợi xích, dường như vừa chạm vào bàn ủi đã lập tức gãy ra.",
+      "similarity": []
+    },
+    {
+      "convert": "\"Ô ô...\"",
+      "dich": "\"Ô ô…\"",
+      "suggest": "\"Ô ô...\"",
+      "similarity": [
+        [
+          43,
+          0.17
+        ],
+        [
+          84,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "Nhân Tiêu Vương trong miệng phát ra trận trận nghẹn ngào, trong đôi mắt huyết sắc quang mang chớp động không thôi.",
+      "dich": "Miệng Nhân Tiêu Vương vẫn không ngừng ô a gầm gào, ánh mắt đỏ máu lấp lóe liên hồi.",
+      "suggest": "Miệng Nhân Tiêu Vương phát ra tiếng nghẹn ngào, hai mắt chớp động không thôi.",
+      "similarity": [
+        [
+          44,
+          0.14
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh gặp hắn bị khốn trụ, biết thời cơ đã đến, lúc này liền muốn quay người thoát đi.",
+      "dich": "Viên Minh thấy nó bị cột lại, biết thời cơ đã tới, lập tức tính quay người thoát đi.",
+      "suggest": "Viên Minh thấy hắn bị vây khốn, biết thời cơ đã đến, lập tức quay người bỏ chạy.",
+      "similarity": [
+        [
+          45,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "Lúc này, trong đầu của hắn lại đột nhiên vang lên lần nữa cái kia thanh âm thần bí: \"Nhanh đi... Chém nó... Thủ cấp.\"",
+      "dich": "Nhưng đúng lúc đó, âm thanh thần bí kia lại lần nữa vang lên trong đầu hắn: \"Mau đi..chặt…đầu nó!\"",
+      "suggest": "Lúc này, trong đầu hắn lại đột nhiên vang lên một thanh âm thần bí: \"Nhanh đi...chém nó...\"",
+      "similarity": [
+        [
+          46,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nghe vậy, cũng không có lập tức khởi hành, mà là lần nữa hướng phía chung quanh dò xét đi tới, vẫn như cũ không thể nhìn thấy người thần bí kia thân ảnh.",
+      "dich": "Viên Minh nghe thế, xong cũng không lập tức cất bước mà lại lần nữa nhìn khắp xung quanh, có điều lại vẫn như cũ, không hề thấy bóng dáng kẻ thần bí kia.",
+      "suggest": "Viên Minh nghe vậy, cũng không lập tức khởi hành, mà lại lần nữa quan sát xung quanh, vẫn như cũ không thể nhìn thấy thân ảnh người thần bí kia.",
+      "similarity": [
+        [
+          47,
+          0.28
+        ]
+      ]
+    },
+    {
+      "convert": "\"Lại không ra tay... Pháp trận... Khốn không được hắn... Ngươi chạy ra động quật... Không trốn được mặt đất... Đồng dạng... Tử.\"",
+      "dich": "\"Còn không ra tay…pháp trận…giữ không được nó…Ngươi chạy ra khỏi động quật…không trốn được xuống đất…vẫn sẽ…chết.\"",
+      "suggest": "\"Sao không ra tay... Pháp trận...Khốn không được hắn... Ngươi chạy ra khỏi động quật...không trốn được...\"",
+      "similarity": []
+    },
+    {
+      "convert": "Cái thanh âm kia càng phát ra vội vàng.",
+      "dich": "Âm thanh kia phát ra càng lúc càng nhanh.",
+      "suggest": "Thanh âm kia càng lúc càng vội vàng.",
+      "similarity": [
+        [
+          49,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nhíu mày do dự một chút về sau, nắm tay đập một cái vách tường, rút kiếm liền liền xông ra ngoài.",
+      "dich": "Viên Minh do dự giây lát, nắm chặt tay đập lên vách động, rút kiếm xông ra.",
+      "suggest": "Viên Minh nhíu mày suy nghĩ một chút, sau đó nắm tay đập một cái vào vách tường một cái, rút kiếm xông ra ngoài.",
+      "similarity": [
+        [
+          50,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "Tiếng bước chân của hắn, lập tức đưa tới Nhân Tiêu Vương chú ý, trong Huyết Trì thấp giọng nghẹn ngào thân thể đột nhiên thoáng giãy dụa, quay đầu nhìn về phía Viên Minh, tựa hồ ngửi được người sống khí tức, lập tức trở nên vô cùng nóng nảy.",
+      "dich": "Tiếng bước chân của hắn lập tức thu hút sự chú ý của Nhân Tiêu Vương, thân thể đang ngẹn giọng gầm gào trong ao máu đột nhiên khẽ động, quay đầu nhìn về phía Viên Minh, giống như ngửi được mùi người sống, lập tức trở nên vô cùng kích động.",
+      "suggest": "Tiếng bước chân của hắn lập tức gây sự chú ý của Nhân Tiêu Vương, trong tiếng hô hấp của Huyết Trì truyền tới sự chú ý, thân thể của Huyết Trì thấp giọng nghẹn ngào, quay đầu nhìn về phía Viên Minh, tựa hồ ngửi được khí tức của người sống, lập tức trở nên vô cùng nóng nảy.",
+      "similarity": [
+        [
+          51,
+          0.44
+        ]
+      ]
+    },
+    {
+      "convert": "Nhân Tiêu Vương toàn thân kịch liệt giãy dụa, quấn quanh ở hắn trên cổ đỏ sậm xiềng xích, lập tức bị dính dấp kịch liệt lay động.",
+      "dich": "Nhân Tiêu Vương toàn than giãy dụa kịch liệt, xiềng xích đỏ sậm quanh cổ nó vì đó mà lập tức rung lắc dữ dội theo.",
+      "suggest": "Nhân Tiêu Vương kêu lên kịch liệt, túm lấy sợi xích đỏ sậm trên cổ hắn, ngay lập tức bị sợi xích kịch liệt quấn quanh.",
+      "similarity": [
+        [
+          52,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Cái kia vốn là chỉ là chôn ở trong đất phù sắt, lập tức có bị dắt lôi ra tới xu thế.",
+      "dich": "Thiết phù vốn chỉ được vùi trong đất lập tức có xu hướng bị lôi bật ra.",
+      "suggest": "Cái Phù sắt vốn chỉ chôn dưới đất kia lập tức bị kéo ra ngoài.",
+      "similarity": []
+    },
+    {
+      "convert": "Toàn bộ đỏ sậm pháp trận kịch liệt lay động, gần như sụp đổ.",
+      "dich": "Cả pháp trận màu đỏ lay động kịch liệt, gần như sụp đổ.",
+      "suggest": "Toàn bộ pháp trận đỏ sậm chấn động kịch liệt, gần như sụp đổ hoàn toàn.",
+      "similarity": [
+        [
+          54,
+          0.45
+        ]
+      ]
+    },
+    {
+      "convert": "\"Không còn kịp rồi...\"",
+      "dich": "\"Không kịp…\" Viên Minh trong lòng thở dài.",
+      "suggest": "\"Không kịp rồi...\"",
+      "similarity": [
+        [
+          84,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh trong lòng thở dài.",
+      "dich": "Hắn vừa mới tới cạnh người Nhân Tiêu Vương, chưa kịp vung trường kiếm trong tay lên chém, bỗng nghe có tiếng \"phành\" từ mặt đất truyền đến.",
+      "suggest": "Viên Minh thầm thở dài.",
+      "similarity": [
+        [
+          3,
+          0.32
+        ],
+        [
+          8,
+          0.15
+        ],
+        [
+          55,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn vừa mới đi vào Nhân Tiêu Vương bên cạnh thân, trường kiếm trong tay cũng không kịp vung trảm, trên mặt đất liền truyền đến \"Phanh\" một thanh âm vang lên.",
+      "dich": "Một miếng thiết phù tựa như mỏ neo bị kéo bật lên, thân thể Nhân Tiêu Vương theo đó lập tức nghiêng phắt qua, đánh về phía hắn.",
+      "suggest": "Hắn vừa mới đi đến bên cạnh Nhân Tiêu Vương, trường kiếm trong tay cũng không kịp vung lên chém xuống, mặt đất liền truyền đến một tiếng 'Phanh'.",
+      "similarity": [
+        [
+          56,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Một viên phù sắt tựa như là mỏ neo thuyền đồng dạng bị rút ra, Nhân Tiêu Vương thân thể lập tức một cái nghiêng, hướng phía hắn đánh tới.",
+      "dich": "Nó dù chưa hoàn toàn thoát thân, nhưng việc kéo gần thêm một khoảng này thôi cũng đủ cho móng vuốt sắc bén của nó cắt đứt cổ họng Viên Minh.",
+      "suggest": "Một kiện Phù sắt giống như con thuyền gỗ bị rút ra, thân thể Nhân Tiêu Vương lập tức nghiêng về phía sau, lao về phía gã.",
+      "similarity": [
+        [
+          57,
+          0.22
+        ],
+        [
+          87,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn mặc dù còn không có hoàn toàn thoát thân, nhưng bị kéo dài điểm này khoảng cách, đã đầy đủ hắn bén nhọn câu trảo, vạch phá Viên Minh cổ họng.",
+      "dich": "Thời khắc ngàn cân treo sợi tóc, một cái bóng màu bạc bỗng lóe lên, xong thình lình rơi lên đầu vai Viên Minh.",
+      "suggest": "Mặc dù hắn chưa hoàn toàn thoát thân, nhưng khoảng cách này quá ngắn, đủ để hắn câu trảo, vạch trần cổ họng Viên Minh.",
+      "similarity": [
+        [
+          58,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "Thời khắc ngàn cân treo sợi tóc, một đạo ngân sắc cái bóng bỗng nhiên lóe lên, trống rỗng rơi vào Viên Minh đầu vai.",
+      "dich": "Viên Minh mơ hồ cảm giác là một con mèo bạc, nhưng không dám phân thần đi nhìn.",
+      "suggest": "Thời khắc ngàn cân treo sợi tóc, một cái bóng màu bạc bỗng nhiên lóe lên rồi dừng lại, rơi vào trên vai Viên Minh.",
+      "similarity": [
+        [
+          59,
+          0.6
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh mơ hồ cảm giác là một con ngân miêu, cũng không dám có chút phân thần đi xem.",
+      "dich": "\"Chém!\"",
+      "suggest": "Viên Minh mơ hồ cảm giác như là một con chim bạc, cũng không dám phân thần nhìn xem.",
+      "similarity": [
+        [
+          60,
+          0.44
+        ]
+      ]
+    },
+    {
+      "convert": "\"Chém!\"",
+      "dich": "Tiếng hét ra lệnh mang theo ngữ khí không thể từ chối vang lên trong đầu hắn.",
+      "suggest": "\"Chém!\"",
+      "similarity": [
+        [
+          21,
+          0.11
+        ],
+        [
+          43,
+          0.19
+        ],
+        [
+          61,
+          1
+        ],
+        [
+          84,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Thét ra lệnh thanh âm ở trong đầu hắn vang lên, mang theo không thể nghi ngờ mệnh lệnh ngữ khí.",
+      "dich": "Viên Minh chỉ cảm thấy đầu ong ong, cả người như bị chuông đánh, trong lòng dâng lên cảm giác phục tùng không thể kháng cự.",
+      "suggest": "Thanh âm ra lệnh vang lên trong đầu hắn, mang theo ngữ khí không thể nghi ngờ.",
+      "similarity": [
+        [
+          46,
+          0.14
+        ],
+        [
+          62,
+          0.48
+        ],
+        [
+          73,
+          0.14
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh chỉ cảm thấy đầu \"Ông\" một tiếng, cả người giống như là bị một ngụm chuông đập một cái, trong lòng lập tức dâng lên một loại khó mà kháng cự phục tùng cảm giác.",
+      "dich": "Thanh âm kia thực giống như vang lên từ cõi u minh, bảo hắn phục tùng, làm theo vô điều kiện.",
+      "suggest": "Viên Minh chỉ cảm thấy đầu mình \"đau\" một tiếng, cả người giống như bị một cây chuông đập vào, trong lòng lập tức nổi lên cảm giác bất lực khó có thể kháng cự.",
+      "similarity": [
+        [
+          63,
+          0.26
+        ],
+        [
+          80,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Thật giống như trong cõi u minh có cái thanh âm, ở nói cho hắn biết phục tùng, phục tòng vô điều kiện.",
+      "dich": "Cùng lúc đó, móng vuốt của Nhân Tiêu Vương cũng đang cào về phía hắn.",
+      "suggest": "Thật giống như có một thứ âm thanh nào đó trong cõi u minh nói cho hắn biết sự phục tùng, phục tòng vô điều kiện.",
+      "similarity": [
+        [
+          64,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "Cùng lúc đó, Nhân Tiêu Vương lợi trảo cũng vung hướng về phía hắn.",
+      "dich": "Lúc này, con mèo bạc đang ngồi xổm trên vai Viên Minh, dùng tư thái ưu nhã đối mặt với Nhân Tiêu Vương, trong hai đồng tử khác màu phảng phất như ngôi sao xán lạn lóe lên, tỏa ra đôi vầng hào quang chiếu tới phía trước.",
+      "suggest": "Cùng lúc đó, lợi trảo của Nhân Tiêu Vương cũng bay về phía hắn.",
+      "similarity": [
+        [
+          4,
+          0.13
+        ],
+        [
+          57,
+          0.12
+        ],
+        [
+          65,
+          0.5
+        ]
+      ]
+    },
+    {
+      "convert": "Lúc này, ngồi chồm hổm ở Viên Minh đầu vai ngân miêu, tư thái ưu nhã cùng Nhân Tiêu Vương chính diện tương đối, một đôi dị sắc trong con mắt phảng phất có lập lòe sao trời sáng lên, phóng xuất ra điểm điểm hào quang, chiếu rọi mà ra.",
+      "dich": "Ánh hào quang vừa chiếu tới, Nhân Tiêu Vương đang giãy dụa liền cứng đờ người, đứng yên tại chỗ, còn móng vuốt sắc bén đang vung tới của nó cũng khựng lại ở chỗ cách cổ họng Viên Minh chỉ hơn một tấc.",
+      "suggest": "Lúc này, Viên Minh đang ngồi chồm hổm ở đầu vai của Ngân miêu, tư thái ưu nhã và chính diện như Nhân Tiêu Vương, hai mắt phảng phất có sao sáng lập lòe, phóng xuất ra hào quang chiếu rọi.",
+      "similarity": [
+        [
+          66,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Quang mang hắt vẫy mà ra trong nháy mắt, giãy dụa Nhân Tiêu Vương thân thể cứng đờ, bình tĩnh lập ngay tại chỗ, vung ra lợi trảo, cũng ở khoảng cách Viên Minh yết hầu tấc hơn địa phương, ngừng lại.",
+      "dich": "Ngay vào lúc Viên Minh sắp ngăn không nổi, đáy lòng sắp chấp nhận, thần phục âm thanh kia, bên trên cánh phải hắn đột nhiên có một luồng hơi ấm tuôn ra.",
+      "suggest": "Ánh sáng xanh hắt ra trong chốc lát, thân thể Nhân tiêu Vương giãy dụa của hắn cứng đờ, bình tĩnh đứng nguyên tại chỗ, vung lợi trảo ở khoảng cách gần với yết hầu của Viên Minh hơn một tấc, dừng lại.",
+      "similarity": []
+    },
+    {
+      "convert": "Ngay tại Viên Minh sắp ngăn cản không nổi, từ đáy lòng tán thành cái thanh âm kia, muốn thần phục thời điểm, cánh tay phải của hắn bên trên bỗng nhiên có một cỗ ấm áp cảm giác chảy ra.",
+      "dich": "Ấn ký màu xanh do lư hương ngưng tụ thành kia hiện ra, rồi như một lực lượng như thủy triều tràn vào não, trong nháy mắt đã giúp hắn thanh tỉnh.",
+      "suggest": "Ngay khi Viên Minh sắp không thể ngăn cản được âm thanh kia, từ đáy lòng tán thành cái thanh âm kia, cánh tay phải hắn bỗng nhiên có một luồng cảm giác ấm áp chảy ra.",
+      "similarity": [
+        [
+          68,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Cái kia lư hương ngưng tụ thành thanh sắc ấn ký hiển hiện, một cỗ như thủy triều trên lực lượng tràn vào não, để hắn trong nháy mắt thanh tỉnh.",
+      "dich": "Theo đó, cảm giác muốn thần phục vừa xuất hiện kia cũng bị quét sạch sẽ không còn chút gì.",
+      "suggest": "Cái lư hương ngưng tụ thành ấn ký màu xanh hiện ra, một luồng sức mạnh như thủy triều tràn vào trong đầu, làm cho hắn trong nháy mắt thanh tỉnh lại.",
+      "similarity": [
+        [
+          69,
+          0.32
+        ]
+      ]
+    },
+    {
+      "convert": "Mới vừa rồi loại kia muốn thần phục cảm giác quét sạch sành sanh, không còn tồn tại.",
+      "dich": "Chứng kiến điều này, cặp mắt khác màu của mèo bạc hiện lên vẻ kinh ngạc, nhưng rất nhanh sau đó lại chuyển thành nghi ngờ.",
+      "suggest": "Vừa rồi loại cảm giác muốn thần phục kia vừa rồi đã biến mất không thấy đâu nữa.",
+      "similarity": [
+        [
+          70,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân miêu thấy thế, dị sắc trong con mắt hiện lên vẻ kinh ngạc, chỉ là rất nhanh lại chuyển thành nghi hoặc.",
+      "dich": "\"Ngươi không mau ra tay…Coi như không chết ở đây…ra ngoài…trưởng lão Bích La Động…cũng chết.\"",
+      "suggest": "Con sói xám thấy thế, trong mắt hiện lên vẻ kinh ngạc, nhưng rất nhanh đã chuyển sang nghi hoặc.",
+      "similarity": [
+        [
+          71,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ngươi không nhanh chút xuất thủ... Coi như không chết ở đây... Ra ngoài... Bích La Động trưởng lão... Đồng dạng tử\"",
+      "dich": "Một âm thanh nghiêm khắc cảnh cáo lại vang lên trong đầu Viên Minh.",
+      "suggest": "\"Ngươi không nhanh ra tay... Coi như không chết ở đây... Ra ngoài... Bích La động trưởng lão...\"",
+      "similarity": [
+        [
+          72,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "một cái nghiêm khắc cảnh cáo âm thanh, lần nữa ở Viên Minh não hải vang lên.",
+      "dich": "\"Quả nhiên là nó…\" Viên Minh nghiệm chứng suy đoán của mình.",
+      "suggest": "Một tiếng còi cảnh cáo nghiêm khắc vang lên, tiếp đó là tiếng Viên Minh phiền muộn.",
+      "similarity": []
+    },
+    {
+      "convert": "\"Quả nhiên là nó...\"",
+      "dich": "Thanh âm không ngừng nói chuyện với hắn khi trước, chính là con mèo bạc từng xuất hiện bên cạnh hắn từ rất lâu trước đây.",
+      "suggest": "\"Quả nhiên là nó ...\"",
+      "similarity": [
+        [
+          74,
+          0.18
+        ],
+        [
+          84,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nghiệm chứng chính mình suy đoán, lúc trước không ngừng trong đầu cùng hắn đối thoại, chính là cái này rất sớm trước đó liền ở bên cạnh hắn xuất hiện qua ngân miêu.",
+      "dich": "Con mèo bạc này rốt cuộc có lai lịch gì, vì sao lúc trước lại cứu mình, bây giờ lại còn có năng lực đủ để có thể chống lại Nhân Tiêu Vương?",
+      "suggest": "Viên Minh tự mình suy đoán, lúc trước không ngừng trong đầu cùng hắn nói chuyện, chính là lúc này, Ngân Miêu ở bên cạnh hắn đã xuất hiện từ rất sớm.",
+      "similarity": []
+    },
+    {
+      "convert": "Cái này ngân miêu đến tột cùng là lai lịch gì, vì sao lúc trước có thể cứu ta, ngày nay vẫn còn như thế đại năng nhịn có thể cùng cái này Nhân Tiêu Vương chống lại?",
+      "dich": "Trong lòng Viên Minh thoáng chốc nổi lên rất nhiều suy nghĩ, đồng thời hắn cũng không chần chờ nữa, mà lập tức dùng Súc Nguyên Tí điều chỉnh lực lượng, dốc hết sức chém xuống cổ Nhân Tiêu Vương.",
+      "suggest": "Con chim nhỏ này rút cuộc có lai lịch gì, vì sao lúc trước có thể cứu ta, ngày nay vẫn còn dùng đại năng để đối kháng lại với tên Nhân Tiêu Vương kia?",
+      "similarity": [
+        [
+          76,
+          0.32
+        ]
+      ]
+    },
+    {
+      "convert": "Trong lòng của hắn trong nháy mắt dâng lên rất nhiều ý niệm trong đầu, đồng thời cũng không do dự nữa, lấy Súc Nguyên Tí điều chỉnh lực lượng, toàn lực hướng phía Nhân Tiêu Vương chỗ cổ chém xuống đi.",
+      "dich": "\"Kanggg\" Một âm thanh chói tai vang lên.",
+      "suggest": "Trong đầu của hắn lập tức xuất hiện rất nhiều ý nghĩ, đồng thời cũng không do dự nữa, điều chỉnh lực lượng Súc Nguyên Tí, toàn lực chém về phía cổ của Nhân Tiêu Vương.",
+      "similarity": [
+        [
+          77,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "\"Bang\" một tiếng duệ vang.",
+      "dich": "Hoa lửa lóe lên trên cổ Nhân Tiêu Vương, đồng thời tiếng vàng đá va chạm từ bên dưới làn da khô héo của Nhân Tiêu Vương truyền ra.",
+      "suggest": "\"Bang!\", một tiếng nổ vang lên.",
+      "similarity": [
+        [
+          78,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Nhân Tiêu Vương trên cổ lại có hoả tinh tóe lên, phía dưới khô cạn trên da truyền đến kim thạch thanh âm.",
+      "dich": "Viên Minh chỉ cảm thấy cánh tay chấn động, căn bản không giống như chém vào thân thể máu thịt, mà giống như chém vào một khối sắt bọc da trâu.",
+      "suggest": "Trên cổ Nhân Tiêu Vương lại có từng sợi lửa đốt cháy, ở trên da thịt khô héo truyền đến thanh âm kim loại.",
+      "similarity": [
+        [
+          79,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh chỉ cảm thấy cánh tay chấn động, căn bản không giống như là chém vào trên nhục thể, mà giống như là chém vào một khối được da trâu sắt thép bên trên.",
+      "dich": "Phản lực to lớn còn khiến hắn không thể không lui lại.",
+      "suggest": "Viên Minh chỉ cảm thấy cánh tay chấn động, cơ hồ giống như là chém vào một miếng da trâu vậy.",
+      "similarity": [
+        [
+          63,
+          0.14
+        ],
+        [
+          80,
+          0.34
+        ]
+      ]
+    },
+    {
+      "convert": "Lực lượng cường đại, ngược lại đẩy hắn không thể không lui lại lướt về.",
+      "dich": "Con Nhân Tiêu Vương kia lại như bị chọc giận, điên cuồng gầm lên giận dữ, trên dưới cả người phát ra ánh sáng màu đỏ máu, dưới sự giãy dụa kịch liệt của nó, những sợi xích quấn quanh cổ không ngờ lại bị cứng rắn đánh gãy.",
+      "suggest": "Lực lượng mạnh mẽ của nó, trái lại khiến cho hắn không thể không lui lại phía sau.",
+      "similarity": [
+        [
+          81,
+          0.24
+        ]
+      ]
+    },
+    {
+      "convert": "Mà đầu kia Nhân Tiêu Vương cũng giống là bị chọc giận, phát ra một tiếng phẫn nộ cuồng hống, toàn thân trên dưới phát ra huyết sắc hồng quang, khuấy động phía dưới vậy mà sinh sinh đem quấn quanh ở trên cổ đỏ sậm xiềng xích từng chiếc đánh gãy.",
+      "dich": "Những miếng thiết phù dưới mặt đất cũng theo đó bị nhổ bật ra hết, cả pháp trận mà Viên Minh bố trí theo lời mèo bạc khi trước đã hoàn toàn mất đi hiệu lực.",
+      "suggest": "Mà đầu Nhân Tiêu Vương kia cũng giống như bị chọc giận, phát ra một tiếng gầm phẫn nộ, cả người trên dưới tỏa ra huyết sắc hồng quang, khuấy động không ngừng, những sợi xích đỏ sậm kia không ngờ lại nhanh chóng gãy mấy cái.",
+      "similarity": [
+        [
+          82,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Trên mặt đất phù sắt cũng theo đó toàn bộ bắn bay, Viên Minh lúc trước ở ngân miêu chỉ thị hạ bố trí pháp trận triệt để mất đi hiệu lực.",
+      "dich": "\"Gào….\"",
+      "suggest": "Phù sắt trên mặt đất cũng bị bắn bay đi, pháp trận do Viên Minh chỉ thị lúc trước đã hoàn toàn mất đi hiệu lực.",
+      "similarity": [
+        [
+          83,
+          0.28
+        ]
+      ]
+    },
+    {
+      "convert": "\"Rống...\"",
+      "dich": "Nhân Tiêu Vương trong miệng phát ra tiếng rống giận, tung người lướt ra khỏi ao máu, rồi nhào thẳng tới người Viên Minh.",
+      "suggest": "\"Gàoooo...\"",
+      "similarity": [
+        [
+          43,
+          0.12
+        ],
+        [
+          61,
+          0.12
+        ],
+        [
+          84,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Nhân Tiêu Vương trong miệng phát ra nổi giận cuồng hống, thân hình nhảy lên lướt đi huyết trì, hướng thẳng đến Viên Minh nhào tới.",
+      "dich": "Mèo bạc có hình thể nhỏ nhắn xinh xắn, động tác linh hoạt, khéo léo dị thường.",
+      "suggest": "Trong miệng Nhân Tiêu Vương nổi giận đùng đùng, thân hình nhảy lên, lướt đi huyết trì, hướng thẳng tới Viên Minh.",
+      "similarity": [
+        [
+          85,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân miêu hình thể nhỏ nhắn xinh xắn, động tác dị thường linh mẫn, từ Viên Minh đầu vai nhảy lên một cái, lại là đón Nhân Tiêu Vương mà đi, hai chân ở trên đầu của hắn linh xảo giẫm mạnh, liền nhảy tới mấy trượng bên ngoài.",
+      "dich": "Nó từ vai Viên Minh nhảy lên, lao về phía Nhân Tiêu Vương, đoạn dùng hai chân khéo léo giẫm lên đầu nó rồi nhảy ra sau mấy trượng.",
+      "suggest": "Con ưng nhỏ nhắn xinh xắn, động tác vô cùng linh mẫn, từ trên đầu Viên Minh nhảy lên một cái, tiếp đó là đón tiếp Mục Tiên Vân đi, hai chân giẫm mạnh xuống đất, đã nhảy xa được mấy trượng.",
+      "similarity": []
+    },
+    {
+      "convert": "Kia nhẹ nhàng thân thể, động tác nhanh nhẹn, nhìn không giống tránh né, giống như là khiêu vũ, mau lẹ mà ưu nhã.",
+      "dich": "Thân hình uyển chuyển cùng động tác nhanh nhẹn kia không giống né tránh, mà là khiêu vũ, mau lẹ mà ưu nhã.",
+      "suggest": "Thân thể nhẹ nhàng, động tác cũng nhanh nhẹn, thoạt nhìn không giống tránh né, giống như khiêu vũ, nhanh lẹ mà ưu nhã.",
+      "similarity": [
+        [
+          88,
+          0.22
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh cũng thừa cơ hướng về sau vút qua, lui ra.",
+      "dich": "Viên Minh cũng tranh thủ lui nhanh về phía sau.",
+      "suggest": "Viên Minh cũng thừa cơ bay vọt ra phía sau.",
+      "similarity": [
+        [
+          89,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Chỉ gặp ngân miêu rơi xuống đất trong nháy mắt, hai con dị sắc trong con mắt, bỗng nhiên đồng thời sáng lên quỷ dị ô quang, trên thân càng là tản mát ra một cỗ không nói được pháp lực ba động.",
+      "dich": "Chỉ thấy mèo bạc vừa đáp đất xong, trong cặp đồng tử khác màu của nó bỗng đồng thời tỏa ô quang kỳ dị, không những thế, trên thân còn tản mát ra một đợt sóng pháp lực khó diễn tả bằng lời.",
+      "suggest": "Chỉ thấy con chim nhỏ vừa rơi xuống mặt đất, hai con mắt dị sắc bỗng nhiên sáng lên vẻ kinh ngạc, trong mắt bỗng nhiên đồng thời sáng lên ánh sáng quỷ dị, trên người tản mát ra một cỗ pháp lực không nói nên lời.",
+      "similarity": []
+    },
+    {
+      "convert": "Theo cỗ ba động này dâng lên, sau người cách đó không xa Thi trong hố, bỗng nhiên xuất hiện rối loạn ầm ĩ.",
+      "dich": "Theo sự xuất hiện của đợt sóng này, hố xác không xa sau lưng hắn bỗng nhiên xuất hiện một hồi náo động.",
+      "suggest": "Theo ba động này nổi lên, hố sâu phía sau người cách đó không xa bỗng nhiên xuất hiện rối loạn.",
+      "similarity": [
+        [
+          91,
+          0.14
+        ]
+      ]
+    },
+    {
+      "convert": "Ngay sau đó, đã chết đi không biết bao lâu những thi thể, bỗng nhiên một cái tiếp một cái \"Sống\" đi qua.",
+      "dich": "Ngay tiếp đó, những cái xác không biết đã chết từ bao giờ bỗng nhiên nối tiếp nhau \"sống dậy.\"",
+      "suggest": "Ngay sau đó, những thi thể đã chết không biết bao nhiêu lâu, bỗng nhiên một lần nữa sống lại.",
+      "similarity": [
+        [
+          92,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh bị bất thình lình một màn, giật nảy mình, trơ mắt nhìn xem những cái kia tàn phá không chịu nổi, hư thối tanh hôi thi thể, giãy dụa thân thể, từ Thi trong hố đứng lên.",
+      "dich": "Viên Minh bị một màn bất ngờ này làm giật nảy cả người, trơ mắt nhìn những thi thể tàn tạ, rữa nát hôi thối kia giãy dụa đứng lên từ hố xác.",
+      "suggest": "Viên Minh bị một màn bất thình lình đánh cho giật mình, rùng mình một cái, trơ mắt nhìn những thi thể bị tàn phá không chịu nổi kia, giãy dụa thân thể, nhảy từ trong hố xuống.",
+      "similarity": [
+        [
+          93,
+          0.27
+        ]
+      ]
+    },
+    {
+      "convert": "Bọn hắn đại đa số thiếu cánh tay thiếu chân, có thậm chí không có thủ cấp, đi trên đường xiêu xiêu vẹo vẹo, rất không tự nhiên, vẫn còn rất người nằm rạp trên mặt đất hai tay bò, tất cả đều hướng phía phát cuồng Nhân Tiêu Vương nhào tới.",
+      "dich": "Bọn chúng đa số bị thiếu chân mất tay, có bộ thậm chí còn không có đầu, bước đi xiêu xiêu vẹo vẹo, rất không tự nhiên, còn có bộ nằm rạp dưới đất đưa hai tay ra bò, tất cả đều như phát cuồng nhào về phía Nhân Tiêu Vương.",
+      "suggest": "Đại bộ phận bọn họ đều thiếu cánh tay thiếu chân, có người thậm chí không có tay nghề, đi trên con đường đó rất không tự nhiên, vẫn còn rất nhiều người nằm sấp trên mặt đất, rất không tự nhiên, vẫn còn rất nhiều người nằm sấp trên mặt đất, hai tay bám chặt vào nhau, tất cả đều nhào về phía Nhân Tiêu Vương đang phát cuồng kia.",
+      "similarity": [
+        [
+          94,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Nhân Tiêu vương triều lấy chạm mặt tới một bộ hoạt thi vung ra một trảo, đen nhánh lợi trảo trong nháy mắt xé rách hoạt thi thân thể, đem đánh thành hai đoạn, nhưng này đứt gãy thân thể vẫn là cố chấp xông tới, nhào vào trên người hắn.",
+      "dich": "Nhân Tiêu Vương vung một trảo túm lấy một bộ xác sống trước mặt, trong nháy mắt dùng bộ móng vuốt đen xì của mình xé thân thể xác sống thành hai đoạn, thế nhưng phần thân thể đứt đoạn kia vẫn cứ cố chấp xông tới, nhào lên người nó.",
+      "suggest": "Vương triều Nhân Tiêu vung trảo lên, trảo đen nhánh trong nháy mắt xé rách thân thể một cái, đem đánh thành hai đoạn, nhưng thân thể bị chém làm hai đoạn nhưng gã vẫn cố chấp xông tới, nhào vào người gã.",
+      "similarity": [
+        [
+          95,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Ngay sau đó, thứ hai cỗ, bộ thứ ba... Càng ngày càng nhiều hoạt thi vây lại, đem Nhân Tiêu Vương toàn bộ áp đảo, tất cả đều bò lên trên thân thể của hắn.",
+      "dich": "Ngay tiếp đó, bộ thứ hai, thứ ba…Càng ngày càng nhiều xác sống quây lại, tất cả cùng nhào lên người Nhân Tiêu Vương, đè bẹp nó xuống.",
+      "suggest": "Ngay sau đó, cỗ thứ hai, cỗ thứ ba... càng ngày càng nhiều hoạt thi vây quanh, áp đảo toàn bộ Nhân Tiêu Vương, tất cả đều bò lên người hắn.",
+      "similarity": [
+        [
+          96,
+          0.15
+        ]
+      ]
+    }
+  ]
+}
