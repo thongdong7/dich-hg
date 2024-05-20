@@ -369,7 +369,7 @@
     },
     {
       "convert": "\"Ta...\"",
-      "dich": "\"Ta…\"",
+      "dich": "\"Ta ...\"",
       "suggest": "\"Ta ...\"",
       "similarity": [
         [
@@ -401,7 +401,7 @@
     },
     {
       "convert": "\"Ta... Là ngươi, không... Bất động.\"",
-      "dich": "\"Ta…là ngươi, bất…bất động.\"",
+      "dich": "\"Ta ... là ngươi, bất ... bất động.\"",
       "suggest": "\"Ta ... là ngươi, không...không...\"",
       "similarity": [
         [
@@ -448,7 +448,7 @@
     },
     {
       "convert": "\"Ta... Là ngươi..., liền... Bất động, sẽ chết.\"",
-      "dich": "\"Ta…là người…, liền…bất động, sẽ chết.\"",
+      "dich": "\"Ta ... là người ..., liền ... bất động, sẽ chết.\"",
       "suggest": "\"Ta...là ngươi ..., liền...bất động... sẽ chết.\"",
       "similarity": [],
       "approved": true
@@ -522,7 +522,7 @@
     },
     {
       "convert": "\"Nhân Tiêu Vương...\"",
-      "dich": "\"Nhân Tiêu Vương…\"",
+      "dich": "\"Nhân Tiêu Vương ...\"",
       "suggest": "\"Nhân Tiêu Vương ...\"",
       "similarity": [
         [
@@ -809,7 +809,7 @@
     },
     {
       "convert": "Hắn lúc này mặc dù không nhìn thấy những cái kia tựa như vong hồn đồng dạng hư ảnh, nhưng lại có thể cảm nhận được quanh người không khí nhiệt độ lần nữa hạ xuống, hắn tóc gáy không khỏi dựng thẳng lên, vật kia đến đây...",
-      "dich": "Hắn giờ phút này dù không nhìn thấy mấy cái bóng tựa như vong hồn kia, nhưng lại có thể cảm nhận được nhiệt độ không khí xung quanh lần nữa hạ xuống, lông tơ không khỏi dựng ngược lên, thứ đó tới rồi…",
+      "dich": "Hắn giờ phút này dù không nhìn thấy mấy cái bóng tựa như vong hồn kia, nhưng lại có thể cảm nhận được nhiệt độ không khí xung quanh lần nữa hạ xuống, lông tơ không khỏi dựng ngược lên, thứ đó tới rồi ...",
       "suggest": "Lúc này mặc dù hắn không nhìn thấy những bóng người như vong hồn kia, nhưng lại có thể cảm nhận được nhiệt độ xung quanh cơ thể hạ xuống, tóc gáy không khỏi dựng đứng lên. Vật này đến từ đâu vậy?",
       "similarity": [
         [
@@ -989,7 +989,7 @@
     },
     {
       "convert": "Nhưng bây giờ đã không có chiêu, Viên Minh cũng chỉ có thể ôm lấy ngựa chết làm ngựa sống ý nghĩ, bắt đầu thử nghiệm câu thông lư hương.",
-      "dich": "Nhưng bây giờ đã chẳng có cách nào khác, Viên Minh chỉ đành ôm suy nghĩ lấy ngựa chết làm ngựa sống(1), bắt đầu thử nghiệm câu thông lư hương.",
+      "dich": "Nhưng bây giờ đã chẳng có cách nào khác, Viên Minh chỉ đành ôm suy nghĩ lấy ngựa chết làm ngựa sống, bắt đầu thử nghiệm câu thông lư hương.",
       "suggest": "Bây giờ đã không còn chiêu nào, Viên Minh chỉ có thể ôm ý nghĩ ngựa chết làm ngựa sống, bắt đầu thử nghiệm câu thông lư hương.",
       "similarity": [
         [
@@ -1089,7 +1089,7 @@
     },
     {
       "convert": "\"Ngươi đã mở miệng nhắc nhở, nhất định là không muốn ta cứ thế mà chết đi đi, còn... Xin giúp ta thoát khốn.\"",
-      "dich": "\"Nếu ngươi đã nhắc nhớ ta, ngươi chắc chắc không muốn để ta cứ thế này chết đi, hơn nữa…Xin giúp ta thoát khốn.\"",
+      "dich": "\"Nếu ngươi đã nhắc nhớ ta, ngươi chắc chắc không muốn để ta cứ thế này chết đi, hơn nữa ... Xin giúp ta thoát khốn.\"",
       "suggest": "\"Ngươi đã nhắc nhở, nhất định là không muốn ta cứ như thế mà chết đi, còn cầu xin ngươi hãy giúp ta thoát khốn.\"",
       "similarity": [
         [
@@ -1125,7 +1125,7 @@
     },
     {
       "convert": "\"Chỗ mới nê toa, không tiếp tục động, chặn lại đi chỗ làm như thế nào áp chế?\"",
-      "dich": "\"Ộc ố phát ác, không ộng ậy ược, làm sao áp ế ộc ố?(2)\"",
+      "dich": "\"Ộc ố phát ác, không ộng ậy ược, làm sao áp ế ộc ố?\"",
       "suggest": "\"Chỗ mới kê không tiếp tục động, không tiếp tục động, làm như thế nào?\"",
       "similarity": []
     },
@@ -1153,7 +1153,7 @@
     },
     {
       "convert": "\"Ngu xuẩn... gia hỏa.\"",
-      "dich": "\"Gia hỏa…ngu xuẩn!\"",
+      "dich": "\"Gia hỏa ... ngu xuẩn!\"",
       "suggest": "\"Ngu xuẩn...\"",
       "similarity": [
         [

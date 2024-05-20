@@ -1,0 +1,790 @@
+{
+  "next": {
+    "id": 80,
+    "title": "Chương 80: Trời sinh thân cận"
+  },
+  "previous": {
+    "id": 78,
+    "title": "Chương 78: Sách không phải mượn"
+  },
+  "title": {
+    "convert": "Chương 79",
+    "dich": "Chương 79"
+  },
+  "lines": [
+    {
+      "convert": "Viên Minh sở dụng ở thuần thú loại thư tịch bên trên thời gian, so với mình dự đoán ít đi rất nhiều, thế là hắn ở đem sách cũng còn sau khi trở về, liền bắt đầu ở trước kệ sách dạo bước, chọn lựa một chút mới nội dung xem xét.",
+      "dich": "Thời gian dành cho sách thuần thú ít hơn nhiều so với dự kiến, thế nên sau khi trả hết toàn bộ sách về chỗ cũ, hắn bắt đầu dạo bước trước kệ sách, chọn một ít nội dung khác để đọc.",
+      "suggest": "Thời gian Viên Minh sử dụng loại thư tịch này trong thú nuôi thuần thú cũng ít hơn rất nhiều so với dự đoán, thế là hắn ở lại trên kệ sách dạo bước, chọn lựa một vài nội dung cần xem xét.",
+      "similarity": [
+        [
+          0,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Đi vào \"Địa lý chí\" cái này mắt loại dưới, Viên Minh dừng bước, ánh mắt ở trên giá sách băn khoăn thật lâu, mới từ phía trên tìm ra một bản tên là « Lục Thông chí » sách.",
+      "dich": "Đi tới danh mục 'Địa Lý Chí', Viên Minh dừng bước, phân vân nhìn một lúc lâu mới lấy từ trên giá xuống một cuốn có tên là 'Lục Thông Chí'.",
+      "suggest": "Sau khi đi vào \"Địa lý chí\", Viên Minh dừng bước, ánh mắt dò xét trên giá sách một hồi lâu, sau đó mới tìm được một quyển sách có tên là Lục Thông chí.",
+      "similarity": [
+        [
+          1,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "Quyển sách này so với quyển sách khác càng lớn càng dày, trang bìa cũng rất là khác biệt, là lấy cứng rắn chất tấm ván gỗ chế thành, phía trên chạm rỗng điêu khắc một tấm bản đồ.",
+      "dich": "Quyển sách này so với những quyển khác thì dày và lớn hơn hẳn, trang bìa cũng rất khác biệt, dùng một tấm gỗ cứng rắn chế thành, trên bìa còn chạm khắc một tấm bản đồ.",
+      "suggest": "Quyển sách này dày hơn nhiều so với những quyển sách khác, trang bìa cũng rất khác nhau, là do tấm ván cứng rắn chế thành, trên mặt ngoài có khắc một tấm bản đồ.",
+      "similarity": [
+        [
+          2,
+          0.44
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh lật ra « Lục Thông chí » bắt đầu xem, lại phát hiện bên trong tờ thứ nhất là gấp lại.",
+      "dich": "Viên Minh bắt đầu lật \"Địa Thông Chí\" ra xem, lại phát hiện trang đầu tiên bên trong được gấp lại.",
+      "suggest": "Viên Minh lật quyển  Lục Thông Chí , lúc này hắn mới phát hiện ra trang thứ nhất đã gấp gáp hơn bình thường.",
+      "similarity": []
+    },
+    {
+      "convert": "Hắn đem mở ra trải ra, phát hiện khoảng chừng ba trang sách lớn như vậy, phía trên dùng đỏ thẫm hai màu đường cong vẽ ra một trương diện tích lãnh thổ bát ngát bản đồ địa hình.",
+      "dich": "Hắn mở nó trải ra, phát hiện trang này lớn bằng ba trang sách bình thường, trên đó vẽ một tấm địa hình đồ diện tích rộng lớn bằng những đường nét màu đen và đỏ.",
+      "suggest": "Hắn mở rộng cuốn sách ra, phát hiện trong đó có khoảng ba trang lớn như vậy, bên trên dùng hai đường cong màu đỏ thẫm vẽ lên một vùng lãnh thổ bát ngát.",
+      "similarity": []
+    },
+    {
+      "convert": "Nói là bản đồ địa hình, cũng không chính xác, bởi vì tấm bản đồ này nửa bộ phận trên chỉ là thô sơ giản lược tuyến đồ, phía trên có cương vực phân ra đại khái khu vực, nhưng không có địa hình địa vật đánh dấu.",
+      "dich": "Nói là địa hình đồ cũng không chính xác, bởi nửa phần trên của tấm bản đồ này chỉ là những đường bản đồ thô sơ giản lược, trên đó có phân chia lãnh thổ với diện tích gần đúng, nhưng không có đánh dấu địa hình địa vật.",
+      "suggest": "Nói là bản đồ địa hình, cũng không chính xác, bởi vì trên tấm bản đồ này chỉ là tuyến đồ thô sơ, phía trên có phân ra khu vực đại khái, nhưng không có địa vật địa vật.",
+      "similarity": [
+        [
+          5,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "Mà nửa phần dưới, thì rõ ràng tiêu chú các loại địa hình địa vật, trong đó sơn phong nổi lên, lòng chảo sông hạ xuống, thế núi thủy mạch vô cùng rõ ràng, sinh động như thật.",
+      "dich": "Còn nửa phần dưới lại được đánh dấu rõ ràng các loại địa hình địa vật, trong đấy núi non nổi lên, thung lũng sông chìm xuống, sơn thế thủy mạch cực kỳ rõ nét, sinh động như thật.",
+      "suggest": "Mà phần dưới cùng, chúng ta thấy rõ ràng các loại địa vật, trong đó có núi non nước chảy, lòng chảo nổi lên, thủy mạch thế núi vô cùng rõ ràng, sinh động như thật.",
+      "similarity": [
+        [
+          6,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "Nhưng mà, Viên Minh ánh mắt, lại thẳng vào rơi vào bên trên kia một phần ba giản lược đến không thể lại giản lược trên bản đồ.",
+      "dich": "Nhưng ánh mắt Viên Minh lại rơi thẳng vào khoảng một phần ba bản đồ, chỗ được vẽ đơn giản đến độ không thể đơn giản hơn.",
+      "suggest": "Nhưng ánh mắt Viên Minh lại tập trung lên trên tấm bản đồ có hơn một phần ba diện tích còn lại kia.",
+      "similarity": [
+        [
+          7,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Bởi vì, chỉ vì phía trên tới gần địa đồ biên giới, ghi chú hai cái chữ to \"Trung Nguyên\", kia là Viên Minh trong trí nhớ mơ mơ hồ hồ quê quán, là hắn muốn trở về, lại không biết nên trở về nơi nào nơi hội tụ.",
+      "dich": "Nguyên do chính là vì trên chỗ sát mép bản đồ có ghi chú hai chữ to \"Trung Nguyên\", đó chính quê hương trong trí nhớ mơ mơ hồ hồ của Viên Minh, cũng chính nơi mà hắn muốn trở về nhưng lại không biết là cụ thể là nên về nơi nào trên đó.",
+      "suggest": "Bởi vì, trên tấm bản đồ phía trên có ghi hai chữ Trung Nguyên to đùng, chính là quê quán của Viên Minh khi hắn muốn trở về, nhưng lại không biết nên về nơi nào để hội tụ.",
+      "similarity": [
+        [
+          8,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nhìn kỹ một hồi, liền phát hiện kia chỉ có một phần ba bản đồ hiển nhiên cũng không hoàn chỉnh, chỉ là mơ hồ đánh dấu ra hai quốc gia bộ phận bản đồ, một cái tên là Đại Tấn, cùng hắn giờ hương thì nhìn thấy tiểu hoàng đế kia quốc gia cùng tên, một cái khác, thì gọi là Tây Việt.",
+      "dich": "Viên Minh nhìn kỹ một hồi, liền phát hiện chỗ chỉ chiếm một phần ba bản đồ còn không được hoàn chỉnh, mà chỉ đại khái đánh dấu phần bản đồ của hai quốc gia, một gọi là Đại Tấn, cùng tên với quốc gia của tiểu hoàng đế mà hắn thấy khi châm hương khi trước, một nước khác gọi là Tây Việt.",
+      "suggest": "Viên Minh quan sát một hồi, liền phát hiện trên một phần ba của bản đồ này hiển nhiên cũng không hoàn chỉnh, chỉ là mơ hồ đánh dấu hai quốc gia cùng tên, một quốc gia khác thì gọi là Tây Việt.",
+      "similarity": [
+        [
+          9,
+          0.2
+        ]
+      ]
+    },
+    {
+      "convert": "Hai quốc gia này láng giềng mà cư, đều cùng kia như là giao long vắt ngang Thập Vạn Đại Sơn giáp giới, mà vượt qua kia hắc tuyến phác hoạ tráng kiện lưng núi, một bên khác chính là Nam Cương.",
+      "dich": "Hai quốc gia này sát cạnh nhau, và đều giáp với Thập Vạn Đại Sơn như giao long nằm vắt ngang, và nếu vượt qua sườn núi khổng lồ được phác họa bằng đường màu đen trên bản đồ, sẽ thấy Nam Cương nằm phía bên kia.",
+      "suggest": "Hai quốc gia này cùng sinh sống trên một lãnh thổ rộng lớn như Thập Vạn Đại Sơn, mà bên ngoài có một bức tường sương mù màu đen rất tráng kiện, một bên là Nam Cương.",
+      "similarity": [
+        [
+          10,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Nam Cương địa hình phác hoạ đến liền muốn cẩn thận hơn nhiều, ngoại trừ núi non sông ngòi bên ngoài, còn tiêu chú một chút quốc gia cùng cùng loại với quốc gia phạm vi thế lực.",
+      "dich": "Địa hình Nam Cương được phác họa tỉ mỉ hơn rất nhiều, ngoại trừ núi non sông ngòi còn đánh dấu một số quốc gia và phạm vi thế lực tương tự quốc gia.",
+      "suggest": "Địa hình Nam Cương cũng cần cẩn thận hơn nhiều, ngoại trừ núi non sông ngòi, còn phải chú ý một chút đến phạm vi thế lực của một quốc gia có thế lực tương ứng.",
+      "similarity": [
+        [
+          11,
+          0.34
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh tốt một phen tìm kiếm, rốt cục tìm ra Bích La Động chỗ.",
+      "dich": "Viên Minh cẩn thận tìm kiếm một phen, cuối cùng cũng tìm thấy vị trí của Bích La Động.",
+      "suggest": "Viên Minh sau một phen tìm kiếm vất vả cuối cùng cũng tìm ra Bích La Động.",
+      "similarity": [
+        [
+          12,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn cẩn thận so sánh qua về sau, mới kinh ngạc phát hiện, nhìn như địa vực rộng rãi Bích La Động, cùng cái kia khổng lồ Thập Vạn Đại Sơn so sánh, đơn giản không đáng giá nhắc tới.",
+      "dich": "Sau khi cẩn thận so sánh, hắn mới kinh ngạc phát hiện Bích La Động trông có vẻ rộng lớn, nhưng đem so với dãy Thập Vạn Đại Sơn khổng lổ kia, quả thực là không đáng để nhắc tới.",
+      "suggest": "Hắn cẩn thận quan sát một phen, mới kinh ngạc phát hiện, Bích La động nhìn như rộng rãi, nhưng so với Thập Vạn Đại Sơn kia thì lại không đáng nhắc tới.",
+      "similarity": [
+        [
+          13,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Mà toàn bộ Nam Cương cương vực diện tích, cũng càng là to đến không hợp thói thường.",
+      "dich": "Mà toàn bộ diện tích lãnh thổ Nam Cương còn lớn hơn nhiều, cho người ta cảm giác lớn đến mức thái quá.",
+      "suggest": "Mà diện tích toàn bộ Nam Cương cũng càng ngày càng lớn, điều này thực sự không hợp với thói thường.",
+      "similarity": []
+    },
+    {
+      "convert": "Viên Minh nhìn ra ngoài một hồi về sau, muốn tìm ra một đầu từ Nam Cương thông hướng Trung Nguyên đường xá, lại chung quy là không thu hoạch được gì.",
+      "dich": "Viên Minh định tìm một lộ tuyến nối từ Nam Cương đến Trung Nguyên, có điều sau khi nhìn kỹ một hồi, cuối cũng vẫn không thu hoạch được gì.",
+      "suggest": "Viên Minh nhìn ra ngoài một vòng, muốn tìm một con đường xá từ Nam Cương thông tới Trung Nguyên nhưng rút cuộc lại không thu hoạch được gì.",
+      "similarity": [
+        [
+          15,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "\"Trời đất bao la, muốn trở lại quê hương, cuối cùng không phải chuyện dễ a.\"",
+      "dich": "\"Trời đất bao la, muốn trở lại quê nhà, chung quy cũng không phải chuyện dễ dàng.\"",
+      "suggest": "'Trời đất mênh mông, muốn về quê hương cuối cùng không phải chuyện dễ.'",
+      "similarity": [
+        [
+          16,
+          0.14
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh trong lòng cảm thán nói.",
+      "dich": "Viên Minh thầm cảm thán trong lòng.",
+      "suggest": "Viên Minh thầm cảm thán nói.",
+      "similarity": [
+        [
+          17,
+          0.54
+        ],
+        [
+          48,
+          0.2
+        ]
+      ]
+    },
+    {
+      "convert": "Lúc này, hắn nhớ lại một chuyện, lại bắt đầu tại trên địa đồ ngưng mắt tìm kiếm, sau một lúc lâu, mới rốt cuộc tìm được một tòa nhỏ như hạt gạo sơn phong, thấy được bên cạnh đánh dấu chữ nhỏ \"Thanh Áo sơn\".",
+      "dich": "Lúc này, hắn nhớ đến một chuyện, lại bắt đầu ngưng mắt tìm kiếm trên bản đồ, mất một lúc sau mới tìm ra được một ngọn núi bé như hạt gạo, ở bên cạnh đánh dấu mấy chữ nhỏ \"Thanh Áo Sơn\".",
+      "suggest": "Lúc này, hắn nhớ ra một chuyện, lại bắt đầu nhắm mắt tìm kiếm trên bản đồ. Một lúc lâu sau hắn mới tìm được một ngọn núi đá nhỏ như hạt gạo, bên cạnh có đánh dấu một ngọn núi nhỏ bé, chữ nhỏ này còn được đánh dấu rất nhỏ ở bên cạnh.",
+      "similarity": [
+        [
+          18,
+          0.33
+        ]
+      ]
+    },
+    {
+      "convert": "Kia là Cáp Cống đề cập qua quê quán, cũng là hắn lúc lâm chung sau cùng lo lắng.",
+      "dich": "Đó chính quê nhà mà Cáp Cống từng nhắc tới, cũng điều cuối cùng mà y nghĩ tới lúc lâm chung.",
+      "suggest": "Đó là địa điểm mà Cáp Cống đề cập tới, cũng là lúc hắn lâm chung rất lo lắng.",
+      "similarity": [
+        [
+          19,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh tính toán đợi hắn ở Bích La Động đứng vững gót chân về sau, liền nghĩ biện pháp đi ra ngoài một chuyến, muốn về Trung Nguyên rất khó khăn, đi một chuyến Thanh Áo sơn, nghĩ đến biết tương đối dễ dàng một chút.",
+      "dich": "Viên Minh dự định đợi sau khi hắn đứng vững gót chân ở Bích La Động, sẽ nghĩ cách đi ra ngoài một chuyện, muốn về Trung Nguyên thì quá khó, nhưng nếu đi một chuyến tới Thanh Áo sơn, phỏng chừng sẽ tương đối dễ dàng.",
+      "suggest": "Viên Minh tính toán đợi sau khi hắn đứng vững gót chân ở Bích La động, mới nghĩ tới chuyện ra ngoài một chuyến, muốn quay lại Trung Nguyên phải đi một chuyến, đi một chuyến tới Thanh Áo Sơn, nghĩ đến nghĩ cũng tương đối dễ dàng.",
+      "similarity": [
+        [
+          20,
+          0.41
+        ]
+      ]
+    },
+    {
+      "convert": "Nhìn một lát, hắn thu hồi khó phân nỗi lòng, đem địa đồ chồng chất trở về, bắt đầu lật sách đọc.",
+      "dich": "Nhìn một lát nữa, hắn thu hồi nỗi băn khoăn trong lòng, gập tấm bản đồ lại rồi bắt đầu lật sách đọc.",
+      "suggest": "Xem một hồi, hắn thu hồi những nỗi lòng khó nói, đem tấm bản đồ chồng lên nhau, bắt đầu lật sách đọc.",
+      "similarity": [
+        [
+          21,
+          0.33
+        ]
+      ]
+    },
+    {
+      "convert": "Sách này sách bên trong ghi lại, đại đa số đều là Nam Cương từng cái dãy núi cùng dòng sông tình huống giới thiệu, ở trong pha tạp rất nhiều thần tiên chí quái dị truyền thuyết dị văn cố sự, kỳ quái, thật giả vô định.",
+      "dich": "Nội dung được ghi trong sách này chủ yếu là giới thiệu tình huống các dòng sông, dãy núi của Nam Cương, ở trong đó còn pha tạp rất nhiều dị văn cố sự, truyền thuyết thần tiên chí quái, vừa kỳ quái vừa khó phân biệt thật giả.",
+      "suggest": "Trong những ghi chép này, đại đa số đều là những ghi chép về dãy núi và sông nước Nam Cương, bên trong pha tạp rất nhiều truyền thuyết thần tiên, quái dị, vô định.",
+      "similarity": [
+        [
+          22,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Bởi vì đại đa số địa phương đều rất lạ lẫm, hắn không có đi qua cũng chưa từng nghe qua, cho nên trong đầu cũng không có khái niệm gì, xem trong chốc lát, liền cảm giác không hứng lắm, đem sách thả trở về.",
+      "dich": "Do đại đa số các địa phương đều rất xa lạ, hơn chưa từng đi qua hay nghe qua nên trong đầu cũng không có khái niệm gì, sau khi đọc một lát liền cảm giác không hứng thú lắm, đem sách trả về chỗ cũ.",
+      "suggest": "Bởi vì đại đa số địa phương đều rất lạ lẫm, hắn chưa từng đi qua cũng chưa từng nghe qua, cho nên trong đầu cũng không có khái niệm gì, xem một lúc liền cảm thấy không hứng thú, liền cất sách trở về.",
+      "similarity": [
+        [
+          23,
+          0.36
+        ]
+      ]
+    },
+    {
+      "convert": "Sau đó, hắn lại cố ý tìm mấy quyển địa lý phương diện điển tịch, muốn nhìn một chút càng nhiều liên quan tới Trung Nguyên nội dung, đáng tiếc bên trong ghi lại rải rác, cũng không thể cho hắn cung cấp quá nhiều tin tức.",
+      "dich": "Sau đó, hắn lại chú tâm tìm mấy cuốn điển tịch về phương diện địa lý, tính tìm kiếm thêm chút ít thông tin liên quan đến Trung Nguyên, đáng tiếc những ghi chép như vậy ở trong sách vừa thưa thớt, hơn nữa lại chẳng thể cũng cấp cho hắn quá nhiều tin tức.",
+      "suggest": "Sau đó, hắn lại cố ý tìm mấy quyển điển tịch địa lý, muốn tìm hiểu thêm một chút nội dung có liên quan tới Trung Nguyên, đáng tiếc những tin tức này lại bị bỏ quên quá nhiều, không thể cung cấp cho hắn quá nhiều tin tức.",
+      "similarity": [
+        [
+          24,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "\"Đến cùng là ở Nam Cương địa vực, liên quan tới Trung Nguyên thư tịch, thực sự là ít đến đáng thương.\"",
+      "dich": "\"Rốt cuộc thì ở mảnh đất Nam Cương, thư tịch liên quan tới Trung Nguyên thực sự là ít đến đáng thương.\"",
+      "suggest": "\"Đến tột cùng là ở địa vực Nam Cương, thư tịch Trung Nguyên liên quan thực sự là ít nhiều cũng đáng thương.\"",
+      "similarity": [
+        [
+          25,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh đem cuối cùng một quyển sách nhét thư trả lời đỡ, tiếp tục dạo bước, muốn nhìn một chút cái khác mắt loại, còn có cái gì nội dung.",
+      "dich": "Viên Minh đặt quyển sách cuối cùng đặt lại lên giá, đoạn tiếp tục dạo bước, muốn nhìn chút xem các mục khác còn có nội dung gì.",
+      "suggest": "Viên Minh nhận lấy quyển sách cuối cùng, tiếp tục dạo bước, muốn nhìn một chút xem loại mắt kính kia còn có nội dung gì khác nữa.",
+      "similarity": [
+        [
+          26,
+          0.42
+        ]
+      ]
+    },
+    {
+      "convert": "Mấy bước về sau, hắn đi tới \"Tu hành\" mắt loại trước, ngừng lại.",
+      "dich": "Sau khi đi mấy bước, hắn dừng chân trước mục 'Tu Hành'.",
+      "suggest": "Mấy bước sau, hắn đi tới trước của bộ phận điều khiển cơ thể, hơi dừng lại một chút.",
+      "similarity": []
+    },
+    {
+      "convert": "Viên Minh tiện tay từ trên giá sách lấy ra một quyển sách, nhìn thoáng qua phong bì, phía trên lấy Nam Cương văn tự viết « Tu Hành Thông Thức », lập tức hứng thú.",
+      "dich": "Viên Minh tiện tay lấy một quyển từ trên giá xuống, liếc mắt nhìn bìa, thấy bên trên ghi \"Tu Hành Thông Thức\" bằng văn tự Nam Cường, lòng lập tức cảm thấy hứng thú.",
+      "suggest": "Viên Minh tiện tay lấy ra một quyển sách từ trong giá sách, liếc nhìn phong bì phía trên, trên phong bì có viết dòng chữ Tu Hành Thông Thức, hắn lập tức có hứng thú.",
+      "similarity": [
+        [
+          28,
+          0.22
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn có thể bước lên con đường tu hành, vốn là một kiện ra ngoài ý định bên ngoài sự tình, trước đây bị vây ở Thập Vạn Đại Sơn bên trong với tư cách phi mao thú nô, tự nhiên cũng sẽ không có nhân giáo đạo hắn liên quan tới tu hành phương diện kiến thức căn bản.",
+      "dich": "Hắn có thể đạp bước trên con đường tu hành, vốn đã là một chuyện nằm ngoài dự liệu, trước đây bị nhốt trong Thập Vạn Đại Sơn làm Phi Mao thú nô, tự nhiên cũng sẽ chẳng có ai dạy cho hắn những kiến thức căn bản về phương diện tu hành.",
+      "suggest": "Hắn có thể bước lên con đường tu hành vốn đã là một chuyện ngoài ý muốn, trước đây bị vây trong Thập Vạn Đại Sơn với tư cách Phi Mao thú nô, đương nhiên cũng sẽ không có người nào dạy cho hắn kiến thức căn bản về tu hành liên quan đến tu hành.",
+      "similarity": [
+        [
+          29,
+          0.39
+        ]
+      ]
+    },
+    {
+      "convert": "Lần này trời đất xui khiến trở thành ký danh đệ tử về sau, cũng tương tự không ai vì hắn giải đáp nghi vấn giải hoặc, Viên Minh chính khiếm khuyết loại này tri thức.",
+      "dich": "Lần này, sau khi trời đưa đất đẩy khiến hắn trở thành đệ tử ký danh, vẫn như trước chẳng có ai giải đáp thắc mắc cho hắn, vậy nên thứ Viên Minh thiếu khuyết chính là loại kiến thức này.",
+      "suggest": "Sau khi Trời đất xui khiến trở thành đệ tử ký danh cũng tương tự như hắn, không ai vì hắn giải thích nghi vấn mà giải thích, Viên Minh chính là thiếu hụt tri thức này.",
+      "similarity": [
+        [
+          30,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn lúc này trở lại trên chỗ ngồi, mở ra quyển sách bắt đầu tinh tế lật xem.",
+      "dich": "Hắn lập tức quay lại chỗ ngồi, mở sách ra rồi bắt đầu tỉ mỉ lật xem.",
+      "suggest": "Lúc này hắn đã trở lại chỗ ngồi, mở quyển sách ra đọc kỹ một lượt.",
+      "similarity": [
+        [
+          31,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Nhìn một lát, Viên Minh lông mày liền nhàu lên, thầm nghĩ trong lòng: \"Nguyên lai đồng dạng là tu hành, tu sĩ cùng tu sĩ cũng không giống nhau, vẫn còn pháp tu, thể tu cùng hồn tu phân chia a.\"",
+      "dich": "Đọc được một lúc, lông mày Viên Minh nhăn tít lại, trong lòng thầm nghĩ: \"Hóa ra cùng là tu hành mà không phải tu sĩ nào cũng giống tu sĩ nào, còn có phân chia Pháp tu, Thể tu và Hồn tu.\"",
+      "suggest": "Viên Minh nhíu mày, sau đó lông mày nhăn lại, thầm nghĩ trong lòng: \"Thì ra là tu hành, tu sĩ và tu sĩ không khác nhau là mấy, vẫn còn pháp tu, thể tu và hồn tu phân chia rõ ràng.\"",
+      "similarity": []
+    },
+    {
+      "convert": "Theo như sách viết nội dung thuật, cái gọi là thể tu, chính là chuyên cần thể phách, tu luyện công pháp rèn thể, chú trọng rèn luyện da lông gân cốt huyết nhục cùng tạng phủ, đem bản thân thể phách đoán luyện tới như là pháp bảo, cùng người giao chiến, không lấy ngoại vật vì thị, bản thân chính là sát khí, lại sinh tồn năng lực mạnh.",
+      "dich": "Theo như nội dung ghi trên sách, cái gọi là Thể tu chính là chuyên tu thể phách, tu luyện công pháp luyện thể, chú trọng rèn luyện da lông gân cốt huyết nhục và tạng phủ, rèn luyện chính bản thân mình tới mức độ như pháp bảo, khi đối chiến với kẻ địch thì không cần dựa vào ngoại vật, bản thân chính là vũ khí giết địch, hơn nữa năng lực sinh tồn còn rất mạnh.",
+      "suggest": "Theo như trong sách viết, thể tu chính là tập thể lực, tu luyện công pháp rèn thể, chú trọng rèn luyện da lông gân cốt, tạng phủ, đem thể phách bản thân rèn luyện như là pháp bảo, cùng người khác giao chiến, không lấy ngoại vật làm thị phi, bản thân chính là sát khí, lại còn có năng lực sinh tồn.",
+      "similarity": [
+        [
+          33,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Pháp tu thì là chú trọng pháp lực tích lũy tu luyện, đem linh khí trong thiên địa dẫn vào thể nội, tiến một bước tịnh hóa, tinh túy, tiếp theo chứa đựng vu đan điền kinh mạch bên trong, phối hợp thuật pháp phóng thích, liền có thể có năng lực quỷ thần cũng không lường được, tu đến chỗ cao thâm, càng có thể di sơn đảo hải.",
+      "dich": "Pháp tu thì là chú trọng tu luyện tích lũy pháp lực, dẫn linh khí thiên địa nhập vào trong cơ thể, từng bước thanh lọc, cô đọng, sau đó chứa đụng ở trong đan điền, kinh mạch, kết hợp với pháp thuật phóng ra, sẽ có thể có năng lực quỷ thần cũng không lường được, tu tới chỗ cao thâm thậm chí còn có thể dời non lấp bể.",
+      "suggest": "Pháp tu là chú trọng pháp lực tích lũy, đem linh khí trong thiên địa dẫn vào trong cơ thể, tiến một bước tịnh hóa, tinh túy, tiếp theo là kinh mạch của vu đan điền, phối hợp với thuật pháp phóng thích, có thể có năng lực quỷ thần không thể lường được, tu tới chỗ cao thâm, có thể di sơn đảo hải.",
+      "similarity": [
+        [
+          34,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "So với thể tu mà nói, cuốn sách này rõ ràng càng sùng bái pháp tu chi đạo, hắn thể phách mặc dù tương đối yếu đuối, nhưng thi pháp ngự vật, thủ đoạn tầng tầng lớp lớp, công kích biến hóa đa đoan, cũng có thể thông qua như là thôi động cùng mặc pháp khí, dược vật rèn luyện các loại thủ đoạn tăng lên bản thân, thường thường công thủ càng thêm toàn diện.",
+      "dich": "So với Thể tu mà nói, cuốn sách này rõ ràng tôn sùng con đường tu pháp hơn, nói dù thể phách tương đối yếu nhược, nhưng thi pháp ngự vật, thủ đoạn tầng tầng lớp lớp, công kích biến hóa đa đoan, cũng có thể thông qua các loại thủ đoạn như trang bị điều khiển pháp khí, rèn luyện dược vật để tăng thực lực bản thân, thường thường công thủ càng thêm toàn diện.",
+      "suggest": "So với thể tu, thì thể phách của hắn càng thêm sùng bái pháp tu, thủ đoạn thi pháp ngự vật, thủ đoạn biến hóa đa đoan, cũng có thể thông qua các thủ đoạn như thôi động và mặc pháp khí, dược vật rèn luyện các loại thủ đoạn tăng lên bản thân, thường thường công thủ càng thêm toàn diện.",
+      "similarity": [
+        [
+          35,
+          0.39
+        ]
+      ]
+    },
+    {
+      "convert": "Trong sách nhắc tới thứ ba loại lớn, thì là hồn tu, độ dài cực ít.",
+      "dich": "Loại thứ ba được đề cập trong sách là Hồn tu, có điều nội dung rất ít.",
+      "suggest": "Trong sách nói đến ba loại lớn thứ ba, thì là Hồn tu, độ dài cực ít.",
+      "similarity": [
+        [
+          36,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "Đối với hồn tu, viết cuốn sách này tác giả tựa hồ mang theo rõ ràng kỳ thị, chỉ nói hắn cũng không luyện thể, cũng không tu pháp, chuyên chú vào thần hồn chi lực tinh tu, quả thật tu hành này dị đoan.",
+      "dich": "Đối với Hồn tu, tác giả viết cuốn sách này tựa hồ có ý kỳ thị rất rõ ràng, chỉ nói nó đã không luyện thể, cũng không tu pháp, chuyên chú vào tinh tu lực lượng thần hồn, quả thực là tu hành dị đoan.",
+      "suggest": "Đối với hồn tu, trong cuốn sách này tác giả tựa hồ mang theo sự kỳ thị, chỉ nói hắn không luyện thể, cũng không tu pháp, chỉ chú tâm vào tinh tu thần hồn, quả thật tu hành này có chút dị đoan.",
+      "similarity": [
+        [
+          37,
+          0.34
+        ]
+      ]
+    },
+    {
+      "convert": "\"Dị đoan\" cái này một từ đánh giá, có thể nói vẫn như cũ thấp kém.",
+      "dich": "Đánh giá bằng một từ 'Dị đoạn' này cũng tương đương với nói nó cực kỳ thấp kém.",
+      "suggest": "\"Dị đoan\", đánh giá này vẫn thấp hơn đánh giá của hắn.",
+      "similarity": []
+    },
+    {
+      "convert": "Ở về sau, trong sách hay là đối hồn tu thủ đoạn làm một chút giản yếu miêu tả, nhưng nói đến, nhiều ít đều có chút mơ hồ.",
+      "dich": "Ở phần sau, trong sách vẫn miêu tả giản lược một chút thủ đoạn của Hồn tu, có điều mọi miêu tả ít nhiều đều có chút huyền bí.",
+      "suggest": "Sau này, trong sách nói đến thủ đoạn của hồn tu thì có một số điều mơ hồ.",
+      "similarity": []
+    },
+    {
+      "convert": "Tỉ như trong sách nhắc tới, hồn Tu Đạt đến cảnh giới nhất định, liền có thể khống chế không hồn này Thi, điều khiển hắn như người sống hành tẩu nhảy vọt, thậm chí công kích chiến đấu.",
+      "dich": "Ví như trong sách có nói rằng, Hồn tu đạt đến cảnh giới nhất định sẽ lập tức có thể khống chế thi thể không hồn, điều khiển nó chạy nhảy như người sống, thậm chí công kích chiến đấu.",
+      "suggest": "Tỉ như trong sách nói, Hồn Tu đạt đến cảnh giới nhất định, có thể khống chế Thi thể không hồn này, điều khiển nó như là vật sống, nhảy vọt, thậm chí công kích chiến đấu.",
+      "similarity": [
+        [
+          40,
+          0.45
+        ],
+        [
+          44,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "\"Con kia ngân miêu, cũng không biết đến tột cùng là thần thánh phương nào?\"",
+      "dich": "\"Con mèo bạc kia không biết rốt cuộc là thần thánh phương nào?\"",
+      "suggest": "\"Con Ngân miêu kia rút cuộc là thần thánh phương nào?\"",
+      "similarity": [
+        [
+          41,
+          0.5
+        ]
+      ]
+    },
+    {
+      "convert": "Nhìn thấy cái này một lúc thời điểm, Viên Minh không tự giác liền nghĩ tới lúc trước ở Nhân Tiêu Vương trong động quật, ngân miêu khống chế tàn thi công kích tràng cảnh.",
+      "dich": "Khi đọc đến đoạn này, Viên Minh bất giác nhớ đến cảnh tượng mèo bạc khống chế tàn thi tấn công Nhân Tiêu Vương trong động quật khi trước.",
+      "suggest": "Khi nhìn thấy cảnh này, Viên Minh không tự giác nhớ tới tràng cảnh lúc trước ở trong động quật Nhân Tiêu Vương, phối hợp với tràng cảnh tàn bạo lúc tàn sát của côn trùng.",
+      "similarity": [
+        [
+          42,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Liên quan tới hồn tu, trong sách có khác thần du cùng sưu hồn chi năng miêu tả.",
+      "dich": "Liên quan tới Hồn tu, trong sách còn miêu tả năng lực khác nữa là thần du và sưu hồn.",
+      "suggest": "Liên quan tới hồn tu, trong sách còn có miêu tả thần du và sưu hồn chi năng.",
+      "similarity": [
+        [
+          43,
+          0.42
+        ]
+      ]
+    },
+    {
+      "convert": "Trong đó, liên quan tới thần du miêu tả nói là, hồn Tu Đạt đến tu vi nhất định, có thể thần hồn ly thể, Phùng hư ngự phong mà thần hành ngàn dặm, thậm chí lấy hồn thể chi tư, công kích người khác, giết này ở ngoài ngàn dặm.",
+      "dich": "Trong đó, miêu tả liên quan tới thần du có nói, khi Hồn tu đạt đến một tu vi nhất định, có thể đưa thần hồn ly thể, phùng hư ngự phong mà thần hành ngàn dặm, thậm chí dùng hình thái hồn thể tấn công kẻ khác, giết địch ngoài ngàn dặm.",
+      "suggest": "Trong đó, liên quan đến thần du miêu tả nói rằng, hồn tu đạt đến tu vi nhất định, có thể thần hồn ly thể, ngự phong thần hành ngàn dặm, thậm chí lấy hồn thể ra công kích người khác, giết người ngoài ngàn dặm.",
+      "similarity": [
+        [
+          44,
+          0.39
+        ]
+      ]
+    },
+    {
+      "convert": "Mà nhất làm cho Viên Minh cảm thấy hứng thú, nhưng thật ra là sưu hồn năng lực.",
+      "dich": "Nhưng thứ khiến Viên Minh thấy hứng thú nhất, thực ra chính là năng lực sưu hồn.",
+      "suggest": "Mà điều khiến Viên Minh cảm thấy hứng thú chính là năng lực sưu hồn.",
+      "similarity": [
+        [
+          45,
+          0.44
+        ]
+      ]
+    },
+    {
+      "convert": "Có được này có thể, hồn tu liền có thể cưỡng ép đem thần trí của mình xâm nhập người khác thức hải, tùy ý lục soát dò xét người khác ký ức, thậm chí, còn có thể cưỡng ép xuyên tạc hoặc xóa đi người khác ký ức.",
+      "dich": "Hồn tu có được năng lực này liền có thể cưỡng ép đưa thần trí của mình xâm nhập vào thức hải người khác, tùy ỳ lục soát tra xét ký ức người khác, thậm chí còn có thể cưỡng ép thay đổi hoặc xóa ký ức của người đó.",
+      "suggest": "Có được lợi ích của việc này, hồn tu có thể cưỡng ép xâm nhập vào thức hải của người khác, tùy ý dò xét ký ức của người khác, thậm chí, còn có thể cưỡng ép xuyên tạc, xóa bỏ ký ức của người khác.",
+      "similarity": [
+        [
+          46,
+          0.36
+        ]
+      ]
+    },
+    {
+      "convert": "\"Nếu là có này thần thông, không biết có thể hay không tìm về trí nhớ của mình?\"",
+      "dich": "\"Nếu có thần thông này, không biết có thể lấy lại ký ức của mình không?\"",
+      "suggest": "\"Nếu như có thần thông này, không biết có thể tìm về trí nhớ của mình được không?\"",
+      "similarity": [
+        [
+          47,
+          0.48
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh trong lòng âm thầm thầm nói.",
+      "dich": "Viên Minh trong lòng thầm nói.",
+      "suggest": "Viên Minh âm thầm nói.",
+      "similarity": [
+        [
+          17,
+          0.13
+        ],
+        [
+          48,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "Theo tiếp tục hướng về sau xem tiếp đi, Viên Minh cũng dần dần hiểu rõ đến, hồn tu mặc dù có rõ ràng chỗ độc đáo, cũng đồng dạng tồn tại thiếu hụt trí mệnh.",
+      "dich": "Tiếp tục đọc tới phần sau, Viên Minh cũng dần dần hiểu rõ hơn, hồn tư dù có chỗ độc đáo rõ ràng, nhưng cũng tồn tại thiếu sót trí mạng.",
+      "suggest": "Tiếp tục quan sát, Viên Minh cũng dần dần hiểu được, hồn tu mặc dù có chỗ độc đáo, nhưng cũng tồn tại sự thiếu hụt trí mệnh.",
+      "similarity": [
+        [
+          49,
+          0.4
+        ]
+      ]
+    },
+    {
+      "convert": "So với cái khác hai cái thể hệ, hồn tu điều kiện tu luyện càng thêm hà khắc, quá trình tu luyện cũng càng thêm hung hiểm, mặc dù có chính thống hồn tu công pháp chỉ đạo, cũng rất dễ dàng liền sẽ tẩu hỏa nhập ma.",
+      "dich": "So với hai cách thức tu luyện kia, điều kiện tu luyện của Hồn tu hà khắc hơn, quá trình tu luyện cũng hung hiểm hơn, cho dù có công pháp Hồn tu chính thống hướng dẫn thì vẫn rất dễ bị tẩu hỏa nhập ma.",
+      "suggest": "So với hai thể hệ khác, điều kiện tu luyện càng thêm hà khắc, quá trình tu luyện cũng càng thêm hung hiểm, cho dù có được công pháp của hệ Hồn tu theo đúng quy định cũng rất dễ tẩu hỏa nhập ma.",
+      "similarity": [
+        [
+          50,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "Kẻ nhẹ đánh mất thần trí biến thành ngu dại, kẻ nặng hồn phi phách tán, liền chuyển đời làm người cơ hội đều không.",
+      "dich": "Người bị tẩu hỏa nhập ma, nhẹ thì thì đánh mất thần trí biến thành ngu dại, nặng thì hồn phi phách tán, đến cơ hội đầu thai chuyển thế làm người cũng không có.",
+      "suggest": "Kẻ nhẹ đánh mất thần trí biến thành kẻ ngốc, người nặng hồn phi phách tán, ngay cả cơ hội đổi đời làm người cũng không có.",
+      "similarity": [
+        [
+          51,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh gặp đây, không khỏi âm thầm kinh chảy mồ hôi lạnh ướt sũng cả người, bản thân tựa hồ đến nay chưa xuất hiện tương tự tình hình, cũng không biết là vận khí tốt, vẫn là bởi vì ngân miêu cho mình kia bộ « Minh Nguyệt Quyết » tương đối đặc biệt?",
+      "dich": "Viên Minh thấy thế, không khỏi âm thầm kinh hãi, mồ hôi lạnh túa ra ướt sũng cả người, bản thân hắn hình như trước giờ chưa xuất hiện tình trạng như vậy, cũng chẳng biết là do may mắn, hay là vì bộ Minh Nguyệt quyết mà mèo bạc cho hắn tương đối đặc biệt?",
+      "suggest": "Viên Minh thấy vậy, không khỏi âm thầm kinh hãi cả người, tựa hồ từ trước tới giờ chưa có chuyện gì xảy ra, cũng không biết là vận khí tốt hay là bởi vì ngân miêu tặng mình một bộ Minh Nguyệt Quyết tương đối đặc biệt?",
+      "similarity": [
+        [
+          52,
+          0.24
+        ]
+      ]
+    },
+    {
+      "convert": "Hồi tưởng lại, dưới mắt hắn tu hành bị ngăn trở, tiến triển chậm chạp, ngược lại là không có phát giác có cái gì tẩu hỏa nhập ma phong hiểm, ngược lại cảm thấy công pháp này có thể làm dịu bản thân trước đây tu luyện Phi Mao Thuật lưu lại phản phệ tai hoạ ngầm, đây cũng là hắn tiếp tục tu luyện chủ yếu động lực.",
+      "dich": "Nhớ lại thì hiện tại tuy việc tu hành của hắn gặp cản trở, tiến triển chậm chạp, nhưng không có phát giác dấu hiệu nguy hiểm gì như tẩu hỏa nhập ma, trái lại còn cảm thấy công pháp này có thể làm dịu mầm họa phản phệ do việc tu luyện Phi Mao thuật trước đây gây nên, đó cũng chính là động lực chủ yếu khiến hắn tiếp tục tu luyện.",
+      "suggest": "Hồi tưởng lại, tu luyện dưới mắt hắn bị ngăn trở, tiến triển chậm chạp, trái lại không phát hiện ra tai hoạ ngầm tẩu hỏa nhập ma, ngược lại còn cảm thấy công pháp này có thể xoa dịu những tai hoạ ngầm mà mình tu luyện trước kia, đây cũng là động lực chủ yếu để hắn tiếp tục tu luyện.",
+      "similarity": [
+        [
+          53,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh thậm chí cảm thấy đến, có lẽ đây là cuốn sách này tác giả đối hồn tu thành kiến hạ một loại nói ngoa, hơi có chút xem thường.",
+      "dich": "Viên Minh thậm chí còn cảm thấy rằng, có lẽ đây là sự cường điệu quá mức xuất phát từ thành kiến với Hồn tu của tác giả cuốn sách, do đó hắn có chút không đồng tình.",
+      "suggest": "Viên Minh thậm chí cảm thấy đến, có lẽ đây là một loại nói ngoa với hồn tu mà tác giả dành cho người có tu vi thấp kém.",
+      "similarity": [
+        [
+          54,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Phải biết, Phi Mao Thuật ngày nay vẫn là hắn lâm trận lúc đối địch trọng yếu dựa vào, ở không có đạt được tốt hơn ngăn địch thủ đoạn trước, hắn vẫn không có ý định từ bỏ, Minh Nguyệt Quyết tự nhiên cũng là không thể không sửa.",
+      "dich": "Phải biết rằng, Phi Mao thuật hiện tại vẫn là chỗ dựa chủ yếu của hắn mỗi khi lâm trận đối địch, hắn không có ý định từ bỏ nó trước khi có được thủ đoạn ngăn địch tốt hơn, vậy nên dĩ nhiên không thể không tiếp tục tu luyện Minh Nguyệt quyết.",
+      "suggest": "Phải biết rằng, Thuật Phi Mao ngày nay vẫn là vật dựa trọng yếu của hắn khi đối địch, cho dù không có được lợi ích ngăn cản địch, hắn cũng không có ý định từ bỏ, Minh Nguyệt Quyết đương nhiên cũng không thể không sửa.",
+      "similarity": [
+        [
+          55,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Về sau, Viên Minh lại có ý định tìm kiếm liên quan tới hồn tu tư liệu, chỉ tiếc đơn độc ghi lại hồn tu nội dung hoàn toàn không có, cùng cái khác nội dung xen lẫn cùng một chỗ, ngược lại là có một ít.",
+      "dich": "Tiếp đó, Viên Minh lại có ý định tìm kiếm thêm tư liệu liên quan tới Hồn tu, chỉ tiếc không có quyển nào mang nội dung nói riêng về Hồn tu, chỉ có một số cuốn ghi nội dung này xen lẫn các nội dung khác.",
+      "suggest": "Sau đó, Viên Minh lại có ý định tìm kiếm tư liệu liên quan đến hồn tu, chỉ tiếc nội dung ghi lại hoàn toàn không có, cùng những nội dung khác trùng lặp lại có một ít.",
+      "similarity": [
+        [
+          56,
+          0.33
+        ]
+      ]
+    },
+    {
+      "convert": "Có thể những nội dung này rải rác hỗn tạp không nói, thậm chí lẫn nhau tồn tại tương hỗ bác bỏ nội dung, căn bản khó phân biệt đúng sai thật giả.",
+      "dich": "Có điều những nội dung này không chỉ hỗn tạp phân tán mà thậm chí còn tồn tại những chỗ mâu thuẫn, bác bỏ lẫn nhau, cơ bản khó mà phân biệt đúng sai.",
+      "suggest": "Nhưng nội dung những nội dung này quá phức tạp, thậm chí tồn tại tồn tại sự tương hỗ, tương hỗ không rõ ràng, căn bản khó phân biệt đúng sai.",
+      "similarity": [
+        [
+          57,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Bất quá có một chút, những tài liệu này ngược lại là lạ thường nhất trí.",
+      "dich": "Nhưng có một điểm mà những tài liệu này lại nhất trí lạ thường.",
+      "suggest": "Tuy nhiên có một chút tài liệu này lại trùng hợp một cách lạ thường.",
+      "similarity": [
+        [
+          58,
+          0.25
+        ]
+      ]
+    },
+    {
+      "convert": "Đó chính là bọn họ đối hồn tu thái độ, tốt một chút chính là sợ mà xa này, không tốt lại cho rằng hồn tu hết thảy đều là dị đoan, đồng thời nói hồn tu bên trong, bảy tám phần mười đều là tà tu, không có đi đường tà đạo, ngược lại không đến ba thành.",
+      "dich": "Đó chính là thái độ của bọn họ với Hồn tu, tốt một chút thì là kính nhi viễn chi, không tốt thì cho rằng hết thảy Hồn tu đều là dị đoan, hơn nữa có nói trong số Hồn tu thì bảy tám phần mười là tà tu, kẻ không đi theo đường tà chỉ có chưa tới ba thành.",
+      "suggest": "Đó chính là thái độ của bọn họ đối với hồn tu, tốt một chút là sợ mà xa, cái này gọi là tín ngưỡng dị đoan, đồng thời nói hồn tu trong đó, bảy tám phần mười đều là tà tu, không có đi đường tà đạo, ngược lại không đến ba thành.",
+      "similarity": [
+        [
+          59,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh căn cứ vào trước đây vào trước là chủ phán đoán, đối với cái này từ chối cho ý kiến, chỉ nhận định hồn tu thủ đoạn quỷ bí, lại liên quan đến thần hồn ký ức một chuyện, ngược lại quyết định tiến một bước hảo hảo tu luyện « Minh Nguyệt Quyết ».",
+      "dich": "Viên Minh căn cứ vào ấn tượng trước đó mà phán đoán, đối với việc này cũng không nói đúng sai, chỉ nhận định Hồn tu có thủ đoạn quỷ bí, hơn nữa nó còn liên quan đến chuyện thần hồn, ký ức nên trái lại quyết định tiến thêm một bước, chuyên tâm tu luyện Minh Nguyệt quyết.",
+      "suggest": "Viên Minh căn cứ vào phán đoán trước đây của mình mà từ chối cho ý kiến, chỉ nhận định thủ đoạn quỷ bí của hồn tu có liên quan đến ký ức của thần hồn, ngược lại quyết định một bước hảo hảo tu luyện  Minh Nguyệt Quyết.",
+      "similarity": [
+        [
+          60,
+          0.24
+        ]
+      ]
+    },
+    {
+      "convert": "Thả lại lấy sau cùng đến một nhóm tư liệu về sau, Viên Minh duỗi lưng một cái, đang định lại đi tìm chút tư liệu đọc qua lúc, trên bậc thang đi xuống một người mặc chấp sự phục sức nam tử trung niên, trong miệng hô to lấy \"Giờ Tuất sắp tới, sắp bế các.\"",
+      "dich": "Sau khi trả lại đống tài liệu lấy xuống sau cùng, Viên Minh vươn vai, đang định tìm thêm một ít tài liệu để đọc thì một người đàn ông trung niên ăn mặc như chấp sự đi xuống cầu thang, miệng hô lớn: \"Sắp đến giờ Tuất, chuẩn bị đóng các.\"",
+      "suggest": "Sau khi cầm lấy những tư liệu đã chọn xong, Viên Minh liền duỗi lưng, đang định quay lại tìm một số tư liệu thì từ trên bậc thang đi xuống một nam tử trung niên mặc phục sức của nam tử, miệng hô to: \"Giờ Tuất sắp tới, sắp bế các ngươi rồi!\"",
+      "similarity": []
+    },
+    {
+      "convert": "Hắn lúc này mới phát hiện, bản thân trong bất tri bất giác, đã ở cái này Quy Tàng các ở bên trong xem đã hơn nửa ngày sách.",
+      "dich": "Hắn lúc này mới phát hiện, mình trong lúc bất tri bất giác đã ở trong Quy Tàng các đọc sách hơn nửa ngày.",
+      "suggest": "Lúc này hắn mới phát hiện, trong bất tri bất giác, đã xem gần nửa ngày ở trong Tàng Các này.",
+      "similarity": [
+        [
+          62,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn không có lập tức rời đi, mà là lại cưỡi ngựa xem hoa địa ở lầu một lượn một vòng, cho đến giờ Tuất mới lưu luyến không rời rời đi....",
+      "dich": "Hắn không có rời đi ngay mà dạo bước xem qua một vòng tầng một, tới giờ Tuất mới lưu luyến rời đi.",
+      "suggest": "Hắn không có rời đi ngay, mà lại cưỡi ngựa xem hoa ở tầng một cưỡi ngựa xem hoa, cho đến tận giờ Tuất mới luyến tiếc không rời đi....",
+      "similarity": [
+        [
+          63,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Ngày thứ hai buổi chiều, Viên Minh tiến về Hành Chấp Đường.",
+      "dich": "...",
+      "suggest": "Buổi chiều ngày thứ hai, Viên Minh trở về Hành Chấp Đường.",
+      "similarity": [
+        [
+          65,
+          0.25
+        ]
+      ]
+    },
+    {
+      "convert": "Lấy hắn ngày nay tri thức lịch duyệt, tăng thêm phi phàm trí nhớ, cùng đối Hỏa Sàm Nhi quen thuộc, tự nhiên thuận lợi thông qua được quản lý chấp sự sơ bộ tán thành, xác nhận đến chiếu khán Hỏa Chồn nhiệm vụ.",
+      "dich": "Buổi chiều ngày hôm sau, Viên Minh tiến về Hành Chấp đường.",
+      "suggest": "Với tri thức của hắn ngày nay, cộng thêm trí nhớ phi phàm, cùng với sự quen thuộc với Hỏa Sàm Nhi, đương nhiên thuận lợi thông qua chấp sự tán thành, chấp nhận nhiệm vụ chiếu khán Hỏa Chồn.",
+      "similarity": [
+        [
+          66,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "Sau đó, hắn liền căn cứ nhiệm vụ chỉ dẫn, trực tiếp trở về Hỏa Luyện Đường, đi tìm Tam động chủ.",
+      "dich": "Lấy tri thức kinh nghiệm của hắn hiện tại, cộng thêm trí nhớ phi phàm và sự thân thuộc với Hỏa Sàm Nhi, tự nhiên thuận lợi thông quan sự chấp thuận sơ bộ của chấp sự quản lý, tiếp nhận nhiệm vụ trông nom chồn lửa.",
+      "suggest": "Sau đó, hắn căn cứ nhiệm vụ được giao, trực tiếp trở về Hỏa Luyện Đường, tìm kiếm tam động chủ.",
+      "similarity": [
+        [
+          67,
+          0.42
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ sống một mình viện lạc, tọa lạc tại hậu sơn một chỗ yên lặng trong rừng trúc, hoàn cảnh mười phần thanh u.",
+      "dich": "Sau đó, hắn liền căn cứ theo chỉ dẫn nhiệm vụ, trực tiếp trở về Hỏa Luyện đường tìm Tam động chủ.",
+      "suggest": "Tam động chủ sống một mình, tọa lạc trong một trúc lâm yên tĩnh ở hậu sơn, hoàn cảnh mười phần tĩnh lặng.",
+      "similarity": [
+        [
+          68,
+          0.26
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh ở hỏi thăm mấy cái đồng môn về sau, mới tìm được thông hướng bên kia đường, chỉ là không đợi hắn đi đến cái rừng trúc kia, nửa đường liền gặp Trần Uyển.",
+      "dich": "Tam động chủ sống trong một việc lạc riêng, tọa lạc trong một rừng trúc hẻo lánh phía sau núi, hoàn cảnh vô cùng thanh tĩnh.",
+      "suggest": "Viên Minh sau khi hỏi thăm mấy người đồng môn mới tìm được hướng đi, chỉ là không đợi hắn đi tới bìa rừng trúc, nửa đường đã gặp Trần Uyển.",
+      "similarity": [
+        [
+          69,
+          0.4
+        ]
+      ]
+    },
+    {
+      "convert": "Hỏa Luyện Đường ngoại trừ Tam động chủ thu ba cái nội môn đệ tử bên ngoài, cái khác mấy cái trưởng lão phần lớn chỉ có một cái nội môn đệ tử, hoặc là dứt khoát liền không có thu đồ.",
+      "dich": "Sau khi hỏi thăm mấy vị đồng môn, Viên Minh mới tìm được con đường dẫn sang bên đó, chỉ là không đợi hắn đi đến rừng trúc kia thì giữa đường đã gặp Trần Uyển.",
+      "suggest": "Hỏa Luyện Đường ngoại trừ ba đệ tử nội môn ra thì phần lớn các trưởng lão đều chỉ thu một đệ tử nội môn, hoặc là dứt khoát không thu đồ.",
+      "similarity": [
+        [
+          70,
+          0.43
+        ]
+      ]
+    },
+    {
+      "convert": "Ngày bình thường, những này nội môn đệ tử phần lớn là phụng dưỡng ở riêng phần mình trái phải sư phụ, tùy thời tiếp nhận tự thân dạy dỗ, Trần Uyển cũng không ngoại lệ, cho nên từ lúc nhập môn đến nay, Viên Minh liền cực ít cùng với nàng chạm mặt.",
+      "dich": "Hỏa Luyện đường ngoại trừ Tam động chủ thu ba đệ tử nội môn ra, mấy vị trưởng lão khác đa phần chỉ có một đệ tử nội môn, hoặc là dứt khoát không nhận đồ đệ.",
+      "suggest": "Bình thường những đệ tử nội môn này hầu hết đều phụng dưỡng dưới sự dạy dỗ của sư phụ, Trần Uyển cũng không ngoại lệ, cho nên từ khi nhập môn đến nay, Viên Minh rất ít khi chạm mặt nàng.",
+      "similarity": [
+        [
+          71,
+          0.35
+        ]
+      ]
+    },
+    {
+      "dich": "Ngày thường nhưng đệ tử nội môn này đa phần đều phụng dưỡng bên cạnh sư phụ của mình, sẵn sàng tiếp nhận ngôn truyền thân giáo, Trần Uyển cũng không ngoại lệ, thế nên từ khi nhập môn tới này, Viên Minh rất ít gặp nàng."
+    },
+    {
+      "dich": "**Chú giải**"
+    },
+    {
+      "dich": "1."
+    },
+    {
+      "dich": "Địa hình đồ: Bản đồ địa hình."
+    },
+    {
+      "dich": "2."
+    },
+    {
+      "dich": "Ngôn truyền thân giáo: Dùng lời để dạy dỗ, dùng bản thân làm tấm gương."
+    },
+    {
+      "dich": "Ý trong chương là học theo lời nói và hành động của sư phụ, coi đó là chuẩn mực."
+    }
+  ]
+}

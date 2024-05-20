@@ -1,0 +1,2415 @@
+{
+  "next": {
+    "id": 71,
+    "title": "Chương 71: Chiếm thượng phong"
+  },
+  "previous": {
+    "id": 69,
+    "title": "Chương 69: Khu Vật Thuật"
+  },
+  "title": {
+    "convert": "Chương 70",
+    "dich": "Chương 70"
+  },
+  "lines": [
+    {
+      "convert": "\"Diệu a!",
+      "dich": "\"Hay quá!",
+      "suggest": "\"Diệu a!",
+      "similarity": [
+        [
+          0,
+          0.19
+        ],
+        [
+          32,
+          0.11
+        ],
+        [
+          47,
+          0.16
+        ],
+        [
+          51,
+          0.16
+        ],
+        [
+          109,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Sư tỷ thật sự là thông minh hơn người, vậy mà nghĩ đến loại này vung chùy biện pháp.\"",
+      "dich": "Sư tỷ đúng là thông minh hơn người, thế mà nghĩ ra cách vung búa này.\"",
+      "suggest": "Sư tỷ thật sự là người thông minh hơn người, vậy mà nghĩ ra biện pháp vung chùy như thế.\"",
+      "similarity": [
+        [
+          1,
+          0.26
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh ý niệm trong lòng chuyển động, trong miệng xu nịnh nói.",
+      "dich": "Ý niệm trong đầu Viên Minh chuyển động, đồng thời miệng lên tiếng nịnh nọt.",
+      "suggest": "Ý nghĩ trong đầu Viên Minh xoay chuyển, miệng nịnh nọt nói.",
+      "similarity": [
+        [
+          2,
+          0.2
+        ]
+      ]
+    },
+    {
+      "convert": "\"Chớ nói nhảm, loại biện pháp này ta nghĩ như thế nào đạt được, chính là xuất từ trăm năm trước bản môn một vị luyện khí đại sư chi thủ, vị đại sư kia trời sinh người yếu, vì đền bù lực lượng không đủ, ý nghĩ hão huyền khai sáng ra phương pháp này.\"",
+      "dich": "\"Chớ nói bậy, ta sao có thể nghĩ ra được cách này, nó là do một vị đại sư luyện khí của bản môn sáng tạo ra từ hơn trăm năm trước.",
+      "suggest": "\"Chứ nói nhảm, biện pháp này ta nghĩ ra cũng xuất phát từ một vị đại sư luyện khí trăm năm trước, vị đại sư kia trời sinh người yếu, vì đền bù lực lượng không đủ để ông ta khai sáng ra phương pháp này.\"",
+      "similarity": [
+        [
+          3,
+          0.13
+        ],
+        [
+          4,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển sắc mặt hơi đỏ lên, lắc đầu nói.",
+      "dich": "Vị đại sư đó trời sinh thân thể yếu ớt, để bù lại lực lượng không đủ mới nảy ra ý tưởng khác người, xong sáng tạo ra phương pháp này.\"",
+      "suggest": "Sắc mặt Trần Uyển hơi đỏ lên, lắc đầu nói.",
+      "similarity": [
+        [
+          5,
+          0.69
+        ],
+        [
+          10,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "\"Nguyên lai là dạng này, không biết vị này luyện khí đại sư tính danh?",
+      "dich": "Trần Uyển mặt hơi đỏ lên, lắc đầu nói.",
+      "suggest": "\"Ra là thế này, không biết vị đại sư luyện khí này có họ tên gì?",
+      "similarity": [
+        [
+          3,
+          0.12
+        ],
+        [
+          6,
+          0.5
+        ]
+      ]
+    },
+    {
+      "convert": "Hiện nay còn tại trong tông?\"",
+      "dich": "\"Thì ra là vậy, không biết vị đại sư luyện khí này tên họ là gì?",
+      "suggest": "Hiện giờ còn ở trong tông?\"",
+      "similarity": [
+        [
+          7,
+          0.37
+        ],
+        [
+          26,
+          0.11
+        ],
+        [
+          30,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh hiếu kì truy vấn.",
+      "dich": "Hiện tại còn ở trong tông không?\"",
+      "suggest": "Viên Minh hiếu kì hỏi.",
+      "similarity": [
+        [
+          8,
+          0.19
+        ],
+        [
+          21,
+          0.15
+        ],
+        [
+          31,
+          0.19
+        ],
+        [
+          33,
+          0.11
+        ],
+        [
+          50,
+          0.18
+        ],
+        [
+          58,
+          0.21
+        ],
+        [
+          62,
+          0.19
+        ],
+        [
+          73,
+          0.21
+        ],
+        [
+          77,
+          0.23
+        ],
+        [
+          88,
+          0.12
+        ],
+        [
+          94,
+          0.18
+        ],
+        [
+          108,
+          0.19
+        ],
+        [
+          113,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "\"Đen Mộc đại sư chính là bản môn trăm năm qua số một số hai thiên tài luyện khí sư, đáng tiếc nhiều năm trước chẳng biết tại sao, ly kỳ mất tích, như hắn vẫn còn, ta Bích La Động luyện khí trình độ tuyệt không chỉ bây giờ trình độ.\"",
+      "dich": "Viên Minh tò mò truy hỏi.",
+      "suggest": "\"Đen Mộc đại sư chính là luyện khí sư số một số hai bản môn trăm năm qua. Đáng tiếc, nhiều năm trước hắn không biết, không biết vì sao, đã mất tích nhiều năm. Nếu như hắn còn sống, luyện khí của Bích La động tuyệt không chỉ có bây giờ.\"",
+      "similarity": [
+        [
+          9,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển một mặt tiếc hận.",
+      "dich": "\"Hắc Mộc đại sư chính là luyện khí sư thiên tài số một, số hai của bản tông trong vòng trăm năm qua, đáng tiếc nhiều năm trước chẳng biết vì sao lại mất tích một cách ly kỳ, nếu người còn ở đây thì trình độ luyện khí của Bích La Động ta tuyệt đối không chỉ có như bây giờ.\"",
+      "suggest": "Trần Uyển buồn bã nói.",
+      "similarity": [
+        [
+          5,
+          0.11
+        ],
+        [
+          10,
+          0.13
+        ],
+        [
+          23,
+          0.11
+        ],
+        [
+          31,
+          0.21
+        ],
+        [
+          50,
+          0.16
+        ],
+        [
+          58,
+          0.19
+        ],
+        [
+          60,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh đối luyện khí cũng không hứng thú, không cách nào trải nghiệm Trần Uyển ý nghĩ, ngược lại suy tính tới Khu Vật Thuật sự tình.",
+      "dich": "Trần Uyển lộ vẻ tiếc hận, nói.",
+      "suggest": "Viên Minh đối với luyện khí cũng không có hứng thú, không cách nào trải nghiệm ý nghĩ của Trần Uyển, trái lại lại suy nghĩ tới chuyện Khu Vật Thuật.",
+      "similarity": [
+        [
+          11,
+          0.32
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn nhập môn đã nửa tháng, đối Bích La Động cũng có một chút cơ bản hiểu rõ, Trần Uyển nói Quy Tàng các là Bích La Động cất giữ pháp thuật, bí thuật, công pháp địa phương.",
+      "dich": "Viên Minh không hứng thú với luyện khí mấy nên không cách nào thấu hiểu được suy nghĩ của Trần Uyển, chỉ đang nghĩ tới chuyện Khu Vật thuật.",
+      "suggest": "Hắn nhập môn đã nửa tháng, đối với Bích La Động cũng có chút hiểu biết sơ bộ, Trần Uyển nói Quy Tàng Các là địa điểm cất giữ pháp thuật, bí thuật, công pháp.",
+      "similarity": [
+        [
+          12,
+          0.38
+        ]
+      ]
+    },
+    {
+      "convert": "Bích La Động tại đệ tử truyền đạo thụ nghiệp bên trên, làm có chút qua loa, trừ bỏ bị trưởng lão, động chủ nhóm thu nhập dưới trướng nội môn đệ tử, phổ thông ký danh đệ tử muốn học tập công pháp mới, bí thuật, đều là đi Quy Tàng các hối đoái, sau đó tự hành lĩnh hội.",
+      "dich": "Hắn nhập môn đã được nửa tháng, cũng đã có những hiểu biết cơ bản về Bích La Động, Quy Tàng các trong lời Trần Uyển chính là nơi Bích La Động cất giữ pháp thuật, bí thuật, công pháp.",
+      "suggest": "Bích La Động trong việc truyền thụ đạo thụ nghiệp có chút qua loa, ngoại trừ bị trưởng lão, động chủ thu làm đệ tử nội môn dưới trướng, những đệ tử ký danh phổ thông muốn học công pháp mới, bí thuật, đều được đưa tới Quy Tàng Các hối đoái, sau đó tự mình lĩnh hội.",
+      "similarity": [
+        [
+          13,
+          0.25
+        ]
+      ]
+    },
+    {
+      "convert": "Quy Tàng các làm tông môn quan phương cơ cấu, không thể so Cáp Mô cốc, ở đây đổi lấy pháp thuật không cách nào lấy vật đổi vật, cần dùng đến một loại được xưng là \"Điểm cống hiến\" đồ vật.",
+      "dich": "Trên phương diện truyền đạo thụ nghiệp cho đệ tử thì Bích La Động làm tương đối cẩu thả, ngoại trừ đệ tử nội môn được các trưởng lão, động chủ thu về dưới trướng, các đệ tử ký danh bình thường nếu muốn học tập công pháp, bí thuật mới đều phải đi tới Quy Tàng các đổi rồi về tự nghiên cứu lĩnh hội.",
+      "suggest": "Cơ cấu của Tàng Các là cơ cấu tổ chức của tông môn, không thể so sánh với Cáp Mô Cốc, ở đây không thể dùng vật đổi vật, cần phải dùng một loại đồ vật được gọi là \"Điểm cống hiến\".",
+      "similarity": []
+    },
+    {
+      "convert": "Đối với mới nhập môn ký danh đệ tử, tông môn sẽ ban cho hai mươi điểm cống hiến giá trị, để nó tại trong tông đặt chân, bất quá muốn tới cuối tháng mới có thể chính thức cấp cho.",
+      "dich": "Đối với đệ tử ký danh mới nhập môn, tông môn sẽ ban cho hai mươi điểm cống hiến, coi như để đệ tử đó có chỗ đặt chân trong tôn môn, có điều cũng phải hết tháng mới chính thức cấp cho.",
+      "suggest": "Đối với đệ tử ký danh mới nhập môn, tông môn sẽ ban thưởng hai mươi điểm cống hiến, để nó đặt chân trong tông, nhưng phải tới cuối tháng mới có thể chính thức cấp phép.",
+      "similarity": [
+        [
+          14,
+          0.46
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh tại Hỏa phường bên trong làm việc, cũng có thể được một chút điểm cống hiến, nhưng tương tự phải chờ tới cuối tháng mới có thể cầm tới, cho nên cho đến ngày nay đều tạm thời không có cách nào hối đoái bất luận cái gì thuật pháp.",
+      "dich": "Viên Minh làm việc ở Hỏa phường cũng có thể kiếm được ít đuển cống hiến, nhưng cũng phải chờ tới cuối tháng mới được cầm đi, thế nên cho tới hiện giờ, hắn tạm thời chẳng thể đổi được bất kỳ thuật pháp nào.",
+      "suggest": "Viên Minh ở trong phường Vệ Châu làm việc cũng có được một chút điểm cống hiến, nhưng cũng phải tới cuối tháng mới có thể cấp phát, cho nên cho đến tận bây giờ cũng không thể nào hối đoái bất cứ một thuật pháp nào nữa.",
+      "similarity": [
+        [
+          15,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ngươi cũng đừng mơ mộng hão huyền quá, dùng Khu Vật Thuật phụ trợ rèn đúc, trên lý luận mặc dù có thể thực hiện, thực tế làm lại là khó khăn trùng điệp, bởi vì thuật này tuy nhập cửa dễ dàng, nếu muốn cùng nhục thân lực lượng kết hợp cùng sử dụng tại luyện khí bên trên lại là không dễ, chí ít đối Luyện Khí kỳ tu sĩ là như thế này.",
+      "dich": "\"Ngươi cũng đừng có mơ mộng quá, dù Khu Vật thuật hỗ trợ rèn đó, việc này dù trên lý thuyết là có thể thực hiện, nhưng thực tế lại vô cùng khó khăn, bởi vì thuật này tuy dễ dàng nhập môn, nhưng nếu muốn kết hợp nó với lực lượng nhục thân để sử dụng vào việc luyện khí lại không dễ chút nào.",
+      "suggest": "\"Ngươi cũng đừng mơ mộng hão huyền, dùng Thuật Khu Vật giúp rèn đúc, trên lý luận mặc dù có thể thực hiện, nhưng để kết hợp lực lượng nhục thân với luyện khí lại là chuyện không dễ, huống chi đối với tu sĩ Luyện Khí kỳ như ngươi thì lại càng khó khăn hơn, bởi vì đối với tu sĩ Luyện Khí kỳ thì không thể nào có được kết quả như thế.",
+      "similarity": [
+        [
+          16,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Bản môn rất nhiều tiên thiên người yếu người cũng thử qua pháp này, lại cực ít có người có thể thành công, chính ngươi cân nhắc đi.",
+      "dich": "Bản môn có rất nhiều người trời sinh thể chất yếu đã từng thử cách này, nhưng chỉ có rất ít người thành công, ngươi tự cân nhắc đi.",
+      "suggest": "Rất nhiều tiên thiên người yếu cũng thử phương pháp này, nhưng lại rất ít có người thành công, ngươi tự cân nhắc đi.",
+      "similarity": [
+        [
+          17,
+          0.36
+        ]
+      ]
+    },
+    {
+      "convert": "Ta còn có việc, trước đi.\"",
+      "dich": "Ta còn có việc, đi trước nhé.\"",
+      "suggest": "Ta còn có việc gấp, trước tiên.\"",
+      "similarity": [
+        [
+          18,
+          0.34
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển nhắc nhở Viên Minh một câu về sau, liền muốn quay người rời đi.",
+      "dich": "Sau khi nhắc nhở Viên Minh một câu, Trần Uyển liền toan quay người rời đi.",
+      "suggest": "Trần Uyển nhắc nhở Viên Minh một câu, sau đó liền xoay người rời đi.",
+      "similarity": [
+        [
+          19,
+          0.51
+        ],
+        [
+          41,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "\"Trần sư tỷ như không có chuyện gì, có thể hay không mang ta đi một chút Hành Chấp đường?\"",
+      "dich": "\"Trần sư tỷ nếu không bận gì, có thể dẫn ta đi Hành Chấp đường một lát không?\"",
+      "suggest": "\"Trần sư tỷ không có chuyện gì, có thể dẫn ta đi Hành Chấp Đường một chút hay không?\"",
+      "similarity": [
+        [
+          20,
+          0.53
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh gọi lại đối phương.",
+      "dich": "Viên Minh gọi đối phương lại.",
+      "suggest": "Viên Minh gọi lại đối phương.",
+      "similarity": [
+        [
+          8,
+          0.15
+        ],
+        [
+          21,
+          0.33
+        ],
+        [
+          33,
+          0.11
+        ],
+        [
+          50,
+          0.15
+        ],
+        [
+          58,
+          0.17
+        ],
+        [
+          62,
+          0.16
+        ],
+        [
+          73,
+          0.16
+        ],
+        [
+          77,
+          0.15
+        ],
+        [
+          88,
+          0.12
+        ],
+        [
+          94,
+          0.15
+        ],
+        [
+          108,
+          0.15
+        ],
+        [
+          113,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "\"Hành Chấp đường tuyên bố nhiệm vụ đều không đơn giản, hơi không cẩn thận liền sẽ có nguy hiểm tính mạng, ngươi mới vừa vặn nhập môn, hiện tại liền đi nhận nhiệm vụ tựa hồ quá sớm, không bằng chờ qua một thời gian ngắn lại đi.\"",
+      "dich": "\"Nhiệm vụ do Hành Chấp đường ban bố đều không đơn giản, không cẩn thận một cái là có thể lập tức nguy hiểm tới tính mạng, người mới vừa nhập môn, giờ đã đi nhận nhiệm vụ có vẻ sớm quá, chi bằng chờ thêm một đoạn thời gian nữa rồi đi.\"",
+      "suggest": "\"Hành chấp đường tuyên bố nhiệm vụ đều không đơn giản, chỉ cần không cẩn thận sẽ có nguy hiểm tính mạng, ngươi vừa mới nhập môn, hiện tại liền đi nhận nhiệm vụ tựa hồ còn sớm, không bằng chờ qua một thời gian ngắn rồi hãy nói.\"",
+      "similarity": [
+        [
+          22,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển nhíu nhíu mày, khuyên.",
+      "dich": "Trần Uyển nhíu nhíu mày, khuyên nhủ.",
+      "suggest": "Trần Uyển nhíu nhíu mày, khuyên.",
+      "similarity": [
+        [
+          10,
+          0.11
+        ],
+        [
+          23,
+          0.75
+        ],
+        [
+          31,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "\"Không sao, ta chỉ là đi qua nhìn một chút, không nhất định nhận nhiệm vụ.\"",
+      "dich": "\"Không sao, ta chỉ muốn đi qua nhìn một chút, không nhất định sẽ tiếp nhận nhiệm vụ.\"",
+      "suggest": "\"Không sao, ta chỉ đi qua nhìn một chút, không nhất định phải nhận nhiệm vụ.\"",
+      "similarity": [
+        [
+          24,
+          0.7
+        ],
+        [
+          45,
+          0.1
+        ],
+        [
+          57,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh khoát tay áo, sau một khắc chỉ cảm thấy một cỗ kỳ hàn từ phía sau lưng nháy mắt tuôn ra, lại không khỏi giật mình rùng mình một cái.",
+      "dich": "Viên Minh khoát tay áo giải thích, có điều lời vừa dứt, hắn đột nhiên cảm nhận được một cảm giác lạnh lẽo kỳ dị từ sau lưng truyền ra, không nhịn được rùng mình một cái.",
+      "suggest": "Viên Minh khoát tay áo, sau một khắc liền cảm thấy một luồng khí cực lạnh từ sau lưng truyền ra, hắn giật mình rùng mình một cái.",
+      "similarity": [
+        [
+          25,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ngươi làm sao rồi?\"",
+      "dich": "\"Ngươi làm sao thế?\"",
+      "suggest": "\"Ngươi làm sao vậy?\"",
+      "similarity": [
+        [
+          26,
+          0.49
+        ],
+        [
+          30,
+          0.15
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển thấy thế, có chút kỳ quái hỏi.",
+      "dich": "Trần Uyển thấy vậy, hơi nghi hoặc hỏi.",
+      "suggest": "Trần Uyển thấy thế, có chút kỳ quái hỏi.",
+      "similarity": [
+        [
+          27,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "\"Không có... Không có việc gì, có thể có chút cảm lạnh.\"",
+      "dich": "\"Không có ... không có việc gì, có lẽ là do ta bị cảm lạnh.\"",
+      "suggest": "\"Không... không sao, có chút lạnh.\"",
+      "similarity": [
+        [
+          28,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh sờ sờ cái mũi, mơ hồ thoáng nhìn rèn đúc ngoài phòng trên một cây đại thụ, hiện lên một đạo thân ảnh màu bạc.",
+      "dich": "Viên Minh gãi gãi mũi, thoáng nhìn lên trên cây đại thụ bên ngoài phòng rèn đúc, lờ mờ thấy một cái bóng màu bạc ở trên đó.",
+      "suggest": "Viên Minh sờ sờ mũi, mơ hồ thoáng nhìn thấy một cây đại thụ bên ngoài phòng, hiện lên một thân ảnh màu bạc.",
+      "similarity": [
+        [
+          29,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "2",
+      "dich": "\"Còn đi hay không?\"",
+      "suggest": "2.",
+      "similarity": [
+        [
+          31,
+          0.16
+        ],
+        [
+          32,
+          0.11
+        ],
+        [
+          47,
+          0.16
+        ],
+        [
+          51,
+          0.16
+        ],
+        [
+          58,
+          0.16
+        ],
+        [
+          62,
+          0.11
+        ],
+        [
+          73,
+          0.11
+        ],
+        [
+          113,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "\"Còn có đi hay không?\"",
+      "dich": "Trần Uyển hỏi.",
+      "suggest": "\"Còn có đi hay không?\"",
+      "similarity": [
+        [
+          7,
+          0.18
+        ],
+        [
+          26,
+          0.13
+        ],
+        [
+          30,
+          0.61
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển hỏi.",
+      "dich": "\"Đi thôi.\"",
+      "suggest": "Trần Uyển hỏi.",
+      "similarity": [
+        [
+          8,
+          0.13
+        ],
+        [
+          10,
+          0.11
+        ],
+        [
+          23,
+          0.11
+        ],
+        [
+          27,
+          0.12
+        ],
+        [
+          31,
+          1
+        ],
+        [
+          32,
+          0.11
+        ],
+        [
+          47,
+          0.16
+        ],
+        [
+          51,
+          0.16
+        ],
+        [
+          58,
+          0.16
+        ],
+        [
+          62,
+          0.11
+        ],
+        [
+          73,
+          0.13
+        ],
+        [
+          77,
+          0.16
+        ],
+        [
+          108,
+          0.13
+        ],
+        [
+          113,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "\"Đi thôi.\"",
+      "dich": "Viên Minh thu ánh mắt lại, đáp.",
+      "suggest": "\"Đi thôi.\"",
+      "similarity": [
+        [
+          0,
+          0.12
+        ],
+        [
+          31,
+          0.12
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          47,
+          0.28
+        ],
+        [
+          51,
+          0.28
+        ],
+        [
+          58,
+          0.12
+        ],
+        [
+          62,
+          0.11
+        ],
+        [
+          63,
+          0.11
+        ],
+        [
+          73,
+          0.11
+        ],
+        [
+          78,
+          0.11
+        ],
+        [
+          93,
+          0.12
+        ],
+        [
+          109,
+          0.11
+        ],
+        [
+          113,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh thu hồi ánh mắt, nói.",
+      "dich": "Hai người rời Hỏa phường xong đi xuống phía chân núi, rất nhanh sau đó đi tới một sơn cốc nằm giữa ba đỉnh núi, trong cốc thấy có dựng một tháp đá màu xám vô cùng cao lớn gồm ba tầng.",
+      "suggest": "Viên Minh thu hồi ánh mắt, nói.",
+      "similarity": [
+        [
+          8,
+          0.11
+        ],
+        [
+          10,
+          0.18
+        ],
+        [
+          21,
+          0.11
+        ],
+        [
+          33,
+          0.24
+        ],
+        [
+          50,
+          0.14
+        ],
+        [
+          58,
+          0.13
+        ],
+        [
+          62,
+          0.11
+        ],
+        [
+          73,
+          0.11
+        ],
+        [
+          77,
+          0.11
+        ],
+        [
+          88,
+          0.12
+        ],
+        [
+          94,
+          0.11
+        ],
+        [
+          108,
+          0.11
+        ],
+        [
+          113,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Hai người rời đi Hỏa phường, đi xuống chân núi, rất mau tới đến ba ngọn núi cao ở giữa một chỗ sơn cốc, trong cốc đứng vững một tòa màu xám thạch tháp, phi thường cao lớn, lại là phân ba tầng.",
+      "dich": "Trước cửa tháp có trồng một cây cột đá, trên đó ghi ba chữ lớn màu đỏ: \"Hành Chấp Đường\".",
+      "suggest": "Hai người rời khỏi Hỏa phường, đi xuống chân núi, rất nhanh đã tới được một sơn cốc màu xám ở giữa ba ngọn núi, trong cốc có một tòa tháp đá màu xám rất cao lớn, lại cao tới ba tầng.",
+      "similarity": [
+        [
+          34,
+          0.28
+        ]
+      ]
+    },
+    {
+      "convert": "Thạch cửa tháp đứng vững một cây cột đá, trên đó viết \"Hành Chấp đường\" ba cái màu đỏ chữ lớn.",
+      "dich": "Cửa Hành Chấp đường liên tục có người vào kẻ ra, nhìn qua có vẻ khá náo nhiệt.",
+      "suggest": "Một cột đá trước cửa tháp đá đứng vững vàng, trên đó viết ba chữ lớn màu đỏ lớn màu đỏ.",
+      "similarity": [
+        [
+          35,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Hành Chấp đường nơi cửa không ngừng có người ra ra vào vào, lộ ra có chút náo nhiệt.",
+      "dich": "Hành Chấp đường là nơi ban bố nhiệm vụ và treo thưởng của Bích La Động, đệ tử Bích La Động có thể nhận nhiệm vụ ở đây để làm, kiếm lấy điểm cống hiến.",
+      "suggest": "Hành Chấp Đường không ngừng có người ra ra vào vào, biểu hiện ra vẻ náo nhiệt.",
+      "similarity": [
+        [
+          36,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Hành Chấp đường là Bích La Động tuyên bố treo thưởng nhiệm vụ địa phương, Bích La Động đệ tử có thể ở đây nhận nhận nhiệm vụ, kiếm lấy điểm cống hiến.",
+      "dich": "Điểm cống hiến có tác dụng rất lớn, không chỉ có thể đổi được pháp thuật, công pháp ở Quy Tàng các, còn có thể tới chỗ khác đổi lấy những vật như đan dược, phù lục, linh tài ... vv...",
+      "suggest": "Hành Chấp đường là Bích La Động tuyên bố treo thưởng nhiệm vụ, đệ tử Bích La Động có thể đến đây nhận nhiệm vụ, kiếm điểm cống hiến.",
+      "similarity": [
+        [
+          37,
+          0.41
+        ],
+        [
+          57,
+          0.1
+        ],
+        [
+          66,
+          0.16
+        ],
+        [
+          70,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "Điểm cống hiến tác dụng phi thường lớn, không chỉ có thể trả lại tàng các đổi lấy pháp thuật công pháp, còn có thể đi địa phương khác đổi lấy đan dược, phù lục, linh tài chờ những vật khác.",
+      "dich": "Viên Minh đã sớm nghe kể về nơi này, có điều trước đây bận rộng lo luyện tập rèn đúc và tu luyện nên hôm nay mới là lần đầu tiên tới đây.",
+      "suggest": "Tác dụng đem lại phi thường lớn, không chỉ có thể trả lại các đôi lấy pháp thuật công pháp, còn có thể đi các địa phương khác đổi lấy đan dược, phù lục, linh tài chờ đợi.",
+      "similarity": [
+        [
+          38,
+          0.34
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh đã sớm nghe nói qua nơi này, trước đó quá bận rộn luyện tập rèn đúc cùng tu luyện, hôm nay là lần đầu tiên tới.",
+      "dich": "\"Được rồi, chỗ ngươi muốn tới thì ta đã dẫn tới, lời thừa ta sẽ không nói nữa, ngươi tự bảo trọng đi.\"",
+      "suggest": "Viên Minh đã sớm nghe nói đến nơi này, trước đó quá bận rộn luyện tập và tu luyện, hôm nay là lần đầu tiên tới đây.",
+      "similarity": [
+        [
+          39,
+          0.37
+        ]
+      ]
+    },
+    {
+      "convert": "\"Tốt, địa phương ta là đưa đến, nói nhảm ta liền không nói, chính ngươi bảo trọng đi.\"",
+      "dich": "Dứt lời, Trần Uyển liền xoay người rời đi.",
+      "suggest": "\"Được, ta sẽ đưa đến, nói nhảm ta cũng không nói, ngươi tự bảo trọng đi.\"",
+      "similarity": [
+        [
+          40,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển nói xong, liền quay người rời đi.",
+      "dich": "Viên Minh dừng chân đứng nguyên tại chỗ, quan sát tháp xám một lát, rồi toan định cất bước đi vào.",
+      "suggest": "Trần Uyển nói xong, liền xoay người rời đi.",
+      "similarity": [
+        [
+          19,
+          0.17
+        ],
+        [
+          41,
+          0.53
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh tại nguyên chỗ ngừng chân mà đứng, quan sát một lát tro tháp, đang định cất bước đi vào.",
+      "dich": "\"Viên Minh sư đệ, ngươi đến nhận nhiệm vụ sao?\"",
+      "suggest": "Viên Minh đứng nguyên tại chỗ quan sát một lát, đang định bước vào trong.",
+      "similarity": [
+        [
+          42,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "\"Viên Minh sư đệ, ngươi tới nơi này nhận nhiệm vụ?\"",
+      "dich": "Một thanh âm rụt rè từ sau lưng Viên Minh truyền đến, nhìn lại thì là Kỳ Kỳ Cách.",
+      "suggest": "\"Viên Minh sư đệ, ngươi tới nơi này nhận nhiệm vụ?\"",
+      "similarity": [
+        [
+          43,
+          0.53
+        ],
+        [
+          101,
+          0.14
+        ]
+      ]
+    },
+    {
+      "convert": "Một cái sợ hãi thanh âm từ phía sau truyền đến, lại là Kỳ Kỳ Cách.",
+      "dich": "\"Kỳ Kỳ Cách sư tỷ, ta đến làm quen hoàn cảnh một chút, sư tỷ đây là muốn nhận nhiệm vụ à?\"",
+      "suggest": "Một giọng nói sợ hãi truyền đến từ phía sau, lại là Kỳ Cách.",
+      "similarity": [
+        [
+          44,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "\"Kỳ Kỳ Cách sư tỷ, ta tới làm quen một chút hoàn cảnh, sư tỷ đây là muốn nhận nhiệm vụ?\"",
+      "dich": "Viên Minh có ấn tượng khá tốt với Kỳ Kỳ Cách, nghe thế liền mỉm cười đáp.",
+      "suggest": "\"Kỳ Kỳ Cách sư tỷ, ta tới làm quen một chút hoàn cảnh, sư tỷ muốn nhận nhiệm vụ gì?\"",
+      "similarity": [
+        [
+          45,
+          0.47
+        ],
+        [
+          71,
+          0.22
+        ],
+        [
+          87,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh đối Kỳ Kỳ Cách cảm nhận không xấu, mỉm cười trả lời.",
+      "dich": "\"Ừm.\"",
+      "suggest": "Viên Minh cảm nhận được sự khác thường của Kỳ Kỳ, mỉm cười trả lời.",
+      "similarity": []
+    },
+    {
+      "convert": "\"Ừm.\"",
+      "dich": "Kỳ Kỳ Cách tính rất hay thẹn thùng, ánh mắt hai người vừa chạm nhau, nàng liền vội vàng cúi đầu xuống.",
+      "suggest": "\"Ái dà...\"",
+      "similarity": [
+        [
+          32,
+          0.16
+        ],
+        [
+          47,
+          0.17
+        ],
+        [
+          51,
+          0.17
+        ],
+        [
+          63,
+          0.11
+        ],
+        [
+          78,
+          0.11
+        ],
+        [
+          93,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Kỳ Kỳ Cách phi thường xấu hổ, cùng Viên Minh ánh mắt đụng một cái, lập tức liền cúi đầu xuống.",
+      "dich": "\"Vậy cùng vào đi, ta lần đầu tới nơi này, có nhiều chỗ chưa biết, mong sư tỷ chỉ điểm cho.\"",
+      "suggest": "Kỳ Kỳ Cách phi thường xấu hổ, cùng Viên Minh đụng một cái, lập tức cúi đầu xuống.",
+      "similarity": [
+        [
+          48,
+          0.15
+        ]
+      ]
+    },
+    {
+      "convert": "\"Kia đi vào chung đi, ta lần đầu tiên tới nơi này, có nhiều chỗ mong rằng sư tỷ chỉ điểm.\"",
+      "dich": "Viên Minh khiêm tốn nói.",
+      "suggest": "\"Vào trong chung đi, ta lần đầu tiên tới nơi đây, có nhiều việc mong sư tỷ chỉ điểm.\"",
+      "similarity": [
+        [
+          49,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nói.",
+      "dich": "\"Ừm.\"",
+      "suggest": "Viên Minh nói.",
+      "similarity": [
+        [
+          8,
+          0.15
+        ],
+        [
+          21,
+          0.15
+        ],
+        [
+          31,
+          0.16
+        ],
+        [
+          32,
+          0.11
+        ],
+        [
+          33,
+          0.11
+        ],
+        [
+          47,
+          0.16
+        ],
+        [
+          50,
+          0.23
+        ],
+        [
+          51,
+          0.16
+        ],
+        [
+          58,
+          1
+        ],
+        [
+          60,
+          0.16
+        ],
+        [
+          62,
+          0.24
+        ],
+        [
+          73,
+          0.24
+        ],
+        [
+          77,
+          0.18
+        ],
+        [
+          88,
+          0.22
+        ],
+        [
+          94,
+          0.18
+        ],
+        [
+          108,
+          0.15
+        ],
+        [
+          113,
+          0.24
+        ]
+      ]
+    },
+    {
+      "convert": "\"Được.\"",
+      "dich": "Kỳ Kỳ Cách chỉ đáp một chữ, xong liền cúi đầu đi vào.",
+      "suggest": "\"Tốt.\"",
+      "similarity": [
+        [
+          0,
+          0.16
+        ],
+        [
+          31,
+          0.16
+        ],
+        [
+          32,
+          0.24
+        ],
+        [
+          47,
+          0.35
+        ],
+        [
+          51,
+          0.35
+        ],
+        [
+          58,
+          0.16
+        ],
+        [
+          62,
+          0.11
+        ],
+        [
+          63,
+          0.11
+        ],
+        [
+          73,
+          0.11
+        ],
+        [
+          78,
+          0.11
+        ],
+        [
+          93,
+          0.12
+        ],
+        [
+          109,
+          0.11
+        ],
+        [
+          113,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Kỳ Kỳ Cách phun ra một chữ, cúi đầu đi vào.",
+      "dich": "Viên Minh cũng bước theo vào trong Hành Chấp đường.",
+      "suggest": "Kỳ Kỳ Cách phun ra một chữ, cúi đầu đi vào.",
+      "similarity": [
+        [
+          52,
+          0.4
+        ],
+        [
+          60,
+          0.1
+        ],
+        [
+          64,
+          0.13
+        ],
+        [
+          75,
+          0.1
+        ],
+        [
+          79,
+          0.12
+        ],
+        [
+          88,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh cũng đi vào Hành Chấp đường, bên trong không gian khá lớn, chừng trăm trượng phương viên, đầu tiên đập vào mi mắt chính là một trương thật dài bệ đá, bên trong ngồi hai người mặc chấp sự phục sức lão giả, ngay tại vì tiếp nhiệm vụ đệ tử đăng ký.",
+      "dich": "Chỉ thấy không gian bên trong khá lớn, chu vi khoảng hơn trăm trượng, cái đầu tiên đập vào mắt chính là một bệ đá cực dài, phía trong có hai lão giả mặc trang phục chấp sự đang ngồi tiếp nhận đăng ký nhiệm vụ của đệ tử.",
+      "suggest": "Viên Minh cũng đi vào trong Hành Chấp đường, bên trong có không gian khá lớn, chừng trăm trượng, trước mắt là một bệ đá thật dài, bên trong có hai lão giả mặc phục sức mặc áo choàng, đang tiếp nhận nhiệm vụ đệ tử.",
+      "similarity": [
+        [
+          54,
+          0.24
+        ]
+      ]
+    },
+    {
+      "convert": "Bệ đá bên cạnh đứng vững một khối cao bảy tám trượng, rộng ba, bốn trượng đá bạch ngọc bia, phía trên cấm chế thủ đoạn biểu hiện ra từng đầu tông môn nhiệm vụ.",
+      "dich": "Bên cạnh là một tấm bia đá bạch ngọc cao khoảng bảy, tám trượng, rộng cỡ ba, bốn trượng, phía trên dùng thủ đoạn cấm chế hiển thị từng nhiệm vụ của tông môn.",
+      "suggest": "Bên cạnh bệ đá có một tấm bia đá cao bảy tám trượng, rộng ba, bốn trượng, phía trên có khắc rõ những nhiệm vụ tông môn giao phó.",
+      "similarity": [
+        [
+          55,
+          0.32
+        ]
+      ]
+    },
+    {
+      "convert": "Mười cái Bích La Động đệ tử vây quanh ở bia đá chung quanh, căn bản là ký danh đệ tử, thấp giọng nghị luận nội dung trên tấm bia đá.",
+      "dich": "Hơn mười người, chủ yếu là đệ tử ký danh của Bích La Động, đứng vây quang bia đá, nhỏ giọng bàn luận về nội dụng trên tấm bia.",
+      "suggest": "Mười tên đệ tử Bích La Động vây quanh tấm bia đá, chủ yếu là ký danh đệ tử, thấp giọng nghị luận về nội dung trên tấm bia đá.",
+      "similarity": [
+        [
+          37,
+          0.11
+        ],
+        [
+          56,
+          0.21
+        ],
+        [
+          66,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "\"Người ở đây không nhiều a, ta còn tưởng rằng sẽ có rất nhiều đệ tử tới đây nhận nhiệm vụ.\"",
+      "dich": "\"Người đến đây hơi ít nhỉ, ta còn tưởng sẽ có rất nhiều đệ tử tới đây nhận nhiệm vụ.\"",
+      "suggest": "\"Người ở đây không nhiều lắm, ta còn tưởng rằng sẽ có rất nhiều đệ tử tới đây nhận nhiệm vụ.\"",
+      "similarity": [
+        [
+          24,
+          0.18
+        ],
+        [
+          57,
+          0.62
+        ],
+        [
+          59,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nói.",
+      "dich": "Viên Minh nói.",
+      "suggest": "Viên Minh nói.",
+      "similarity": [
+        [
+          8,
+          0.15
+        ],
+        [
+          21,
+          0.15
+        ],
+        [
+          31,
+          0.16
+        ],
+        [
+          32,
+          0.11
+        ],
+        [
+          33,
+          0.11
+        ],
+        [
+          47,
+          0.16
+        ],
+        [
+          50,
+          0.23
+        ],
+        [
+          51,
+          0.16
+        ],
+        [
+          58,
+          1
+        ],
+        [
+          60,
+          0.16
+        ],
+        [
+          62,
+          0.24
+        ],
+        [
+          73,
+          0.24
+        ],
+        [
+          77,
+          0.18
+        ],
+        [
+          88,
+          0.22
+        ],
+        [
+          94,
+          0.18
+        ],
+        [
+          108,
+          0.15
+        ],
+        [
+          113,
+          0.24
+        ]
+      ]
+    },
+    {
+      "convert": "\"Tông môn đệ tử đại đa số thời gian đều tại làm lấy bổn đường bản chức làm việc, còn thừa thời gian đều đang tu luyện, đến Hành Chấp đường nhận nhiệm vụ cũng không có nhiều người.\"",
+      "dich": "\"Đệ tử tông môn phần lớn thời gian đều ở bản đường làm việc của mình, thời gian còn lại đều là tu luyện nên cũng không có nhiều người đến Hành Chấp đường nhận nhiệm vụ.\"",
+      "suggest": "\"Tông môn đệ tử phần lớn thời gian đều làm việc ở bản chức bổn đường, những thời gian còn lại đều đang tu luyện, đến lúc đến Hành Chấp Đường nhận nhiệm vụ cũng không có nhiều người.\"",
+      "similarity": [
+        [
+          59,
+          0.34
+        ]
+      ]
+    },
+    {
+      "convert": "Kỳ Kỳ Cách nhẹ nói.",
+      "dich": "Kỳ Kỳ Cách khẽ nói.",
+      "suggest": "Kỳ Kỳ Cách nhẹ nói.",
+      "similarity": [
+        [
+          50,
+          0.16
+        ],
+        [
+          52,
+          0.11
+        ],
+        [
+          58,
+          0.19
+        ],
+        [
+          60,
+          0.38
+        ],
+        [
+          64,
+          0.19
+        ],
+        [
+          75,
+          0.1
+        ],
+        [
+          79,
+          0.26
+        ],
+        [
+          88,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "\"Chính là nói, đến Hành Chấp đường nhận nhiệm vụ, cùng loại làm tán sống.\"",
+      "dich": "\"Nói cách khác, đến Hành Chấp đường nhận nhiệm vụ giống như làm việc tự do.\"",
+      "suggest": "\"Đúng vậy, nói đến Hành Chấp đường nhận nhiệm vụ, cũng là loại bỏ mạng nhỏ.\"",
+      "similarity": [
+        [
+          59,
+          0.17
+        ],
+        [
+          61,
+          0.32
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh đánh cái ví von.",
+      "dich": "Viên Minh ví von.",
+      "suggest": "Viên Minh lấy ví dụ.",
+      "similarity": [
+        [
+          8,
+          0.15
+        ],
+        [
+          21,
+          0.15
+        ],
+        [
+          33,
+          0.11
+        ],
+        [
+          50,
+          0.18
+        ],
+        [
+          58,
+          0.21
+        ],
+        [
+          62,
+          0.21
+        ],
+        [
+          73,
+          0.19
+        ],
+        [
+          77,
+          0.18
+        ],
+        [
+          88,
+          0.12
+        ],
+        [
+          94,
+          0.18
+        ],
+        [
+          108,
+          0.15
+        ],
+        [
+          113,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "\"Cũng có thể nói như vậy.\"",
+      "dich": "\"Cũng có thể nói như vậy.\"",
+      "suggest": "\"Cũng có thể nói như vậy.\"",
+      "similarity": [
+        [
+          32,
+          0.11
+        ],
+        [
+          47,
+          0.1
+        ],
+        [
+          51,
+          0.1
+        ],
+        [
+          63,
+          1
+        ],
+        [
+          78,
+          0.11
+        ],
+        [
+          93,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Kỳ Kỳ Cách hơi hơi ngẩn ra, nói.",
+      "dich": "Kỳ Kỳ Cách hơi ngẩn ra rồi đáp.",
+      "suggest": "Kỳ Kỳ Cách hơi ngẩn ra, nói.",
+      "similarity": [
+        [
+          10,
+          0.18
+        ],
+        [
+          52,
+          0.11
+        ],
+        [
+          60,
+          0.23
+        ],
+        [
+          64,
+          0.61
+        ],
+        [
+          75,
+          0.12
+        ],
+        [
+          79,
+          0.2
+        ],
+        [
+          88,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh gật gật đầu, nhìn về phía bia đá.",
+      "dich": "Viên Minh gật gật đầu, nhìn về phía bia đá.",
+      "suggest": "Viên Minh gật gật đầu, nhìn về phía tấm bia đá.",
+      "similarity": [
+        [
+          65,
+          0.77
+        ]
+      ]
+    },
+    {
+      "convert": "Trên tấm bia đá nhiệm vụ đủ loại, đơn giản nhất chính là đưa tin chân chạy nhiệm vụ, căn bản là Bích La Động đệ tử viết cho người nhà thư nhà.",
+      "dich": "Trên bia đá có đủ loại nhiệm vụ, đơn giản nhất là nhiệm vụ chân chạy đưa tin, chủ yếu là thư của đệ tử Bích La Động viết cho người nhà.",
+      "suggest": "Trên tấm bia đá có đủ loại nhiệm vụ, đơn giản nhất là đưa tin tức, căn bản là đệ tử Bích La Động viết cho người nhà.",
+      "similarity": [
+        [
+          37,
+          0.12
+        ],
+        [
+          66,
+          0.6
+        ]
+      ]
+    },
+    {
+      "convert": "Loại nhiệm vụ này không có gặp nguy hiểm, nhưng thù lao ít đến thương cảm, chỉ có một hai điểm cống hiến giá trị",
+      "dich": "Tương ứng với thù lao cao hơn chút chính là một số nhiệm vụ thu thập, đi đến một số nơi nguy hiểm thu thập linh thảo linh tài, hoặc là săn giết hung thú, thu hoạch tài liệu từ hung thú ... vv..., số điểm cống hiến của phần thưởng dao động từ vài điểm đến mấy chục điểm.",
+      "suggest": "Loại nhiệm vụ này không có nguy hiểm, nhưng thù lao lại ít, chỉ có một hai điểm cống hiến",
+      "similarity": []
+    },
+    {
+      "convert": "Thù lao hơi cao chính là một chút thu thập nhiệm vụ, đi một chút hiểm địa thu thập linh thảo linh tài, hoặc là săn giết hung thú, thu hoạch hung thú vật liệu chờ một chút, ban thưởng điểm cống hiến là vài điểm đến mấy chục điểm không giống nhau.",
+      "dich": "Còn có nhiệm vụ thưởng điểm cống hiến cao hơn nữa, nhưng mức độ nguy hiểm của chúng thì mấy nhiệm vụ săn giết hung thú, thu thập linh tài không thể so sánh.",
+      "suggest": "Thù lao hơi cao một chút chính là làm nhiệm vụ thu thập nhiệm vụ, đi một chút hiểm địa thu thập linh thảo, hoặc săn giết hung thú, thu hoạch hung thú sau một chốc, điểm cống hiến ban thưởng sẽ là vài điểm đến vài chục điểm.",
+      "similarity": [
+        [
+          67,
+          0.26
+        ],
+        [
+          68,
+          0.14
+        ]
+      ]
+    },
+    {
+      "convert": "Điểm cống hiến cao hơn nhiệm vụ cũng có, nguy hiểm trình độ cũng không phải thu thập linh tài, săn giết hung thú có thể so sánh.",
+      "dich": "Ánh mắt Viên Minh rơi lên nhiệm vụ có thù lao cao nhất, đây là một nhiệm vụ tru sát, đối tượng tru sát không phải hung thú, mà là một tu sĩ tên là Mã Tinh Không.",
+      "suggest": "Độ nguy hiểm cao hơn nhiệm vụ cũng có, độ nguy hiểm cũng không phải như thu thập linh tài, săn giết hung thú có thể so sánh được.",
+      "similarity": [
+        [
+          68,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh ánh mắt rơi vào thù lao tối cao một cái nhiệm vụ bên trên, đây là cái tru sát nhiệm vụ, tru sát đối tượng không phải hung thú, mà là một cái tên là \"Mã Tinh Không\" tu sĩ.",
+      "dich": "Căn cứ vào phần giới thiệu nhiệm vụ đằng sau, người này là đệ tử Bích La Động đào tẩu, tu vi đã đạt tới Luyện Khí đỉnh phong, bản thân còn có một linh thú thực lực tương đương Trúc Cơ kỳ, Bích La Động treo thưởng một ngàn điểm cống hiến để lùng bắt người này, sống chết bất luận.",
+      "suggest": "Ánh mắt Viên Minh nhìn vào nhiệm vụ thù lao tối cao, đây là nhiệm vụ tru sát đối tượng, mà đối tượng tru sát không phải là hung thú, mà là một tu sĩ có tên gọi Mã Tinh Không.",
+      "similarity": [
+        [
+          69,
+          0.47
+        ]
+      ]
+    },
+    {
+      "convert": "Căn cứ nhiệm vụ đằng sau giới thiệu, người này là Bích La Động phản bội chạy trốn đệ tử, tu vi đã đạt tới luyện khí đỉnh phong, ủng có một đầu thực lực có thể so với Trúc Cơ kỳ Linh thú, Bích La Động treo thưởng một ngàn điểm cống hiến đuổi bắt, chết hay sống không cần lo.",
+      "dich": "\"Kỳ Kỳ Cách sư tỷ, ngươi biết tên Mã Tinh Không này không?",
+      "suggest": "Căn cứ theo nội dung nhiệm vụ được đề ra phía sau, đệ tử này là đệ tử phản bội chạy trốn, tu vi đã đạt tới cảnh giới luyện khí đỉnh phong, ủng có một đầu Linh thú Trúc Cơ Kỳ có thực lực không thể so sánh với Trúc Cơ Kỳ, Bích La Động treo thưởng một ngàn điểm cống hiến đuổi bắt, chết hay sống không cần lo.",
+      "similarity": [
+        [
+          70,
+          0.28
+        ]
+      ]
+    },
+    {
+      "convert": "\"Kỳ Kỳ Cách sư tỷ, ngươi nhưng biết cái này Mã Tinh Không?",
+      "dich": "Nghe tên họ hình như là người Trung Nguyên?\"",
+      "suggest": "\"Kỳ Cách sư tỷ, ngươi có biết Mã Tinh này không?",
+      "similarity": [
+        [
+          45,
+          0.15
+        ],
+        [
+          71,
+          0.45
+        ],
+        [
+          87,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Nghe danh tự tựa hồ là người Trung Nguyên?\"",
+      "dich": "Viên Minh hỏi dò.",
+      "suggest": "Nghe tên gọi cũng giống người Trung Nguyên nhỉ?\"",
+      "similarity": [
+        [
+          72,
+          0.21
+        ],
+        [
+          110,
+          0.14
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh dò hỏi.",
+      "dich": "\"Biết sơ sơ, tên này đúng là người Trung Nguyên, vốn là đệ tử Ngự Thú đường, nghe nói là xuất thân Phi Mao thú nô, được Mông Sơn trưởng lão đích thân dẫn vào tông môn, hơn một năm trước đột nhiên đào tẩu, đến giờ vẫn chưa bắt được.\"",
+      "suggest": "Viên Minh dò hỏi.",
+      "similarity": [
+        [
+          8,
+          0.19
+        ],
+        [
+          21,
+          0.15
+        ],
+        [
+          31,
+          0.25
+        ],
+        [
+          32,
+          0.11
+        ],
+        [
+          33,
+          0.11
+        ],
+        [
+          47,
+          0.12
+        ],
+        [
+          50,
+          0.18
+        ],
+        [
+          51,
+          0.12
+        ],
+        [
+          58,
+          0.28
+        ],
+        [
+          62,
+          0.24
+        ],
+        [
+          73,
+          0.27
+        ],
+        [
+          77,
+          0.23
+        ],
+        [
+          88,
+          0.12
+        ],
+        [
+          94,
+          0.18
+        ],
+        [
+          108,
+          0.19
+        ],
+        [
+          113,
+          0.24
+        ]
+      ]
+    },
+    {
+      "convert": "\"Biết một chút, người này đúng là người Trung Nguyên, nguyên lai là Ngự Thú đường đệ tử, nghe nói là Phi Mao thú nô xuất thân, bị Mông Sơn trưởng lão tự mình mang vào tông môn, hơn một năm trước đột nhiên phản bội chạy trốn, đến nay cũng không có bắt đến.\"",
+      "dich": "Kỳ Kỳ Cách không còn ngại ngùng như trước, nói chuyện cũng nhiều hơn.",
+      "suggest": "\"Tìm hiểu một chút, người này đúng là người Trung Nguyên, nguyên lai là đệ tử Ngự Thú đường, nghe nói là Phi Mao thú nô xuất thân từ Trung Nguyên, bị Mông Sơn trưởng lão tự mình dẫn vào tông môn, hơn một năm trước đột nhiên phản bội, đến nay vẫn chưa có bắt lại.\"",
+      "similarity": [
+        [
+          74,
+          0.48
+        ]
+      ]
+    },
+    {
+      "convert": "Kỳ Kỳ Cách không còn như vậy xấu hổ, nói chuyện nhiều hơn.",
+      "dich": "\"Mã Tinh Không có lợi hại thế nào thì cũng chỉ là tu sĩ Luyện Khí kỳ thôi, Bích La Động làm sao lại tốn một ngàn điểm cống hiến để tróc nã chứ?\"",
+      "suggest": "Kỳ Kỳ Cách không còn xấu hổ như trước nữa, nói chuyện với mọi người nhiều hơn.",
+      "similarity": [
+        [
+          75,
+          0.34
+        ]
+      ]
+    },
+    {
+      "convert": "\"Cái này Mã Tinh Không lợi hại hơn nữa cũng bất quá là Luyện Khí kỳ tu sĩ, Bích La Động vậy mà hoa một ngàn điểm cống hiến đuổi bắt?\"",
+      "dich": "Viên Minh khó hiểu hỏi.",
+      "suggest": "\"Cái Mã Tinh Không này lợi hại hơn nữa cũng là tu sĩ Luyện Khí kỳ, Bích La Động vì sao lại thu được hơn một ngàn điểm cống hiến như vậy?\"",
+      "similarity": [
+        [
+          70,
+          0.11
+        ],
+        [
+          76,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh không hiểu hỏi.",
+      "dich": "\"Cái này ta cũng không biết.\"",
+      "suggest": "Viên Minh không hiểu hỏi.",
+      "similarity": [
+        [
+          8,
+          0.19
+        ],
+        [
+          21,
+          0.15
+        ],
+        [
+          31,
+          0.19
+        ],
+        [
+          33,
+          0.11
+        ],
+        [
+          50,
+          0.18
+        ],
+        [
+          58,
+          0.21
+        ],
+        [
+          62,
+          0.19
+        ],
+        [
+          73,
+          0.21
+        ],
+        [
+          77,
+          0.38
+        ],
+        [
+          88,
+          0.12
+        ],
+        [
+          94,
+          0.18
+        ],
+        [
+          108,
+          0.19
+        ],
+        [
+          113,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "\"Cái này ta cũng không biết.\"",
+      "dich": "Kỳ Kỳ Cách lắc đầu đáp.",
+      "suggest": "\"Ta cũng không biết.\"",
+      "similarity": [
+        [
+          32,
+          0.16
+        ],
+        [
+          47,
+          0.17
+        ],
+        [
+          51,
+          0.17
+        ],
+        [
+          63,
+          0.11
+        ],
+        [
+          78,
+          0.47
+        ],
+        [
+          93,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Kỳ Kỳ Cách lắc đầu nói.",
+      "dich": "Viên Minh cũng chỉ là thuận miệng hỏi một câu, rất nhanh quẳng việc này ra sau đầu, tiếp tục xem xét nhiệm vụ trên bia đá.",
+      "suggest": "Kỳ Kỳ Cách lắc đầu nói.",
+      "similarity": [
+        [
+          5,
+          0.23
+        ],
+        [
+          50,
+          0.14
+        ],
+        [
+          52,
+          0.11
+        ],
+        [
+          58,
+          0.15
+        ],
+        [
+          60,
+          0.32
+        ],
+        [
+          64,
+          0.19
+        ],
+        [
+          75,
+          0.1
+        ],
+        [
+          79,
+          0.64
+        ],
+        [
+          88,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh cũng chỉ là thuận miệng hỏi một chút, rất mau đem chi không hề để tâm, tiếp tục xem xét bia đá nhiệm vụ.",
+      "dich": "Hắn hôm nay tới đây dĩ nhiên không phải chỉ để nhìn cho biết, nếu có nhiệm vụ phù hợp thì hắn cũng muốn thử một chút, tranh thủ kiếm thêm ít điểm cống hiến.",
+      "suggest": "Viên Minh cũng chỉ thuận miệng hỏi một chút, rất nhanh đã không thèm để tâm đến chuyện đó, tiếp tục quan sát nhiệm vụ trên bia đá.",
+      "similarity": [
+        [
+          80,
+          0.38
+        ],
+        [
+          83,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn hôm nay tới đây tự nhiên cũng không chỉ là vì nhìn xem, nếu có phù hợp nhiệm vụ, hắn muốn xem thử một chút, kiếm lấy một chút điểm cống hiến.",
+      "dich": "Nhiệm vụ chân chạy đưa tin thì không cần cân nhắc, điểm cống hiến quá ít, thêm nữa loại nhiệm vụ này còn tốn rất nhiều thời gian, chọn cái nào cũng phải mất dăm bữa nửa tháng, hắn còn phải làm việc ở Hỏa phường, không thể rời đi lâu như vậy.",
+      "suggest": "Hôm nay hắn tới đây cũng không chỉ để xem, nếu có nhiệm vụ phù hợp, hắn muốn xem qua một chút, kiếm chút điểm cống hiến.",
+      "similarity": [
+        [
+          81,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Chân chạy đưa tin nhiệm vụ không dùng cân nhắc, điểm cống hiến quá ít, mà lại loại nhiệm vụ này tốn hao thời gian rất nhiều, tùy tiện một cái đều muốn mười ngày nửa tháng, hắn còn muốn tại Hỏa phường làm việc, không có khả năng rời đi lâu như vậy.",
+      "dich": "Viên Minh tập trung vào những nhiệm vụ thu thập, rất nhanh đã nhìn trúng một nhiệm vụ trong đó.",
+      "suggest": "Nhiệm vụ đưa tin không cần suy nghĩ nhiều, điểm cống hiến quá ít, mà lại loại nhiệm vụ này tốn thời gian rất nhiều, tùy tiện một cái đều phải mất hơn nửa tháng, hắn còn phải đi làm việc ở Hỏa phường, không có khả năng rời đi lâu như vậy.",
+      "similarity": [
+        [
+          82,
+          0.44
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh đem mục tiêu khóa chặt tại những cái kia thu thập nhiệm vụ, rất mau nhìn bên trong một cái.",
+      "dich": "\"Thu thập Hỏa Phác ngọc: Tiến về núi lửa Tháp Lý thu thập Hỏa Phác ngọc, cứ năm khối đổi được một điểm cống hiến, có thể tổ đội hoàn thành.\"",
+      "suggest": "Viên Minh đặt mục tiêu phải thu thập nhiệm vụ, nhanh chóng nhìn vào bên trong một chút.",
+      "similarity": []
+    },
+    {
+      "convert": "\"Thu thập Hỏa Phác ngọc: Tiến về Tháp Lý núi lửa, thu thập Hỏa Phác ngọc, mỗi năm khối đổi lấy một điểm cống hiến giá trị, có thể tổ đội hoàn thành.\"",
+      "dich": "Sau khi tiến vào Bích La Động, Viên Minh tận lực nghe ngóng hoàn cảnh địa lý xung quanh, cũng từng nghe về núi lửa Tháp Lý, nó cách Bích La Động chỉ khoảng trăm dặm, tính cả đi lẫn về thì nửa ngày là đủ rồi.",
+      "suggest": "\"Thu thập Hỏa Phác Ngọc: Tiến về Vọng Hải Sơn, thu thập Hỏa Phác ngọc, mỗi năm đổi lấy một điểm cống hiến giá trị, có thể tổ đội hoàn thành.\"",
+      "similarity": [
+        [
+          84,
+          0.52
+        ],
+        [
+          90,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh tiến vào Bích La Động về sau, tận lực nghe qua phụ cận địa lý tình huống, nghe nói qua Tháp Lý núi lửa, khoảng cách Bích La Động sơn môn chỉ có chừng trăm dặm, vừa đến một lần nửa ngày đầy đủ.",
+      "dich": "Nhiệm vụ này có tổ đội hoàn thành, độ nguy hiểm không cao, rất phù hợp với hắn.",
+      "suggest": "Viên Minh sau khi tiến vào Bích La Động liền tận lực nghe tình hình địa lý xung quanh, nghe nói qua tình hình địa lý xung quanh, nghe nói qua núi lửa ở gần đó, khoảng cách tới Bích La Động chỉ chừng trăm dặm, vừa đến nơi đã mất nửa ngày.",
+      "similarity": [
+        [
+          85,
+          0.25
+        ]
+      ]
+    },
+    {
+      "convert": "Nhiệm vụ này có thể tổ đội hoàn thành, tính nguy hiểm không lớn, chính thích hợp hắn.",
+      "dich": "\"Kỳ Kỳ Cách sư tỷ cứ đi lo việc của mình đi, không cần phải để ý ta đâu.\"",
+      "suggest": "Nhiệm vụ này có thể hoàn thành, độ nguy hiểm không lớn, chính là thích hợp với hắn.",
+      "similarity": [
+        [
+          86,
+          0.52
+        ]
+      ]
+    },
+    {
+      "convert": "\"Kỳ Kỳ Cách sư tỷ, ngươi bận bịu ngươi đi, không cần phải để ý đến ta.\"",
+      "dich": "Viên Minh nói với Kỳ Kỳ Cách.",
+      "suggest": "\"Kỳ Kỳ Cách sư tỷ, ngươi bận rộn với ta quá, không cần phải để ý đến ta.\"",
+      "similarity": [
+        [
+          45,
+          0.24
+        ],
+        [
+          71,
+          0.29
+        ],
+        [
+          87,
+          0.44
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nói với Kỳ Kỳ Cách.",
+      "dich": "Kỳ Kỳ Cách gật gật đầu, quay người xem xét bia đá, chỉ sau chốc lát liền đi tới bệ đá dài kia nhận nhiệm vụ rồi tự mình rời đi.",
+      "suggest": "Viên Minh nói với Kỳ Cách của Kỳ Lân.",
+      "similarity": [
+        [
+          58,
+          0.14
+        ],
+        [
+          60,
+          0.1
+        ],
+        [
+          64,
+          0.1
+        ],
+        [
+          79,
+          0.1
+        ],
+        [
+          88,
+          0.48
+        ]
+      ]
+    },
+    {
+      "convert": "Kỳ Kỳ Cách gật gật đầu, quay đầu xem xét bia đá, rất nhanh đi hướng cái kia dài mảnh bệ đá đón lấy nhiệm vụ, tự động rời đi.",
+      "dich": "Viên Minh nhìn thấy Kỳ Kỳ Cách rời đi rồi, mới tới chỗ bệ đá, lấy minh bài thân phận(*) ra đưa cho một vị chấp sự áo đen: \"Ta muốn nhận nhiệm vụ số ba mươi lăm, thu thập Hỏa Phác ngọc.\"",
+      "suggest": "Kỳ Kỳ Cách gật gật đầu, quay đầu nhìn vào tấm bia đá, rất nhanh đã đi tới chỗ đặt nhiệm vụ dài một mảnh, tự động rời đi.",
+      "similarity": [
+        [
+          89,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nhìn thấy Kỳ Kỳ Cách rời đi, lúc này mới đến bệ đá nơi đó, lấy ra thân phận minh bài đưa cho một cái áo đen chấp sự: \"Ta nghĩ tiếp số ba mươi lăm, thu thập Hỏa Phác ngọc nhiệm vụ.\"",
+      "dich": "\"Nhiệm vụ Hỏa Phác ngọc đều là tổ đội đi làm, có một đội ngũ đang chờ người tham gia, người có muốn gia nhập không?\"",
+      "suggest": "Viên Minh thấy Kỳ Kỳ Cách rời đi, lúc này mới đến trước bệ đá, lấy ra minh bài của mình đưa cho một chấp sự áo đen: \"Ta sẽ đến số ba mươi lăm, thu thập nhiệm vụ của Hỏa Phác Ngọc.\"",
+      "similarity": [
+        [
+          90,
+          0.42
+        ]
+      ]
+    },
+    {
+      "convert": "\"Hỏa Phác ngọc nhiệm vụ đều là tổ đội đi làm, có một đội ngũ ngay tại nhận người, ngươi có thể muốn gia nhập vào?\"",
+      "dich": "Chấp sự áo đen lấy một tấm ngọc phù màu trắng ra, điểm một cái lên minh bài của Viên Minh, xong hờ hững nói.",
+      "suggest": "\"Nhiệm vụ Hỏa Phác Ngọc đều do tổ đội cử đi làm, có một đội ngũ sẵn sàng tiếp nhận ngươi, ngươi có muốn tham gia không?\"",
+      "similarity": [
+        [
+          91,
+          0.38
+        ]
+      ]
+    },
+    {
+      "convert": "Áo đen chấp sự lấy ra một cây màu trắng ngọc phù, tại thân phận của Viên Minh minh bài bên trên điểm một cái, mặt không biểu tình mà hỏi.",
+      "dich": "\"Ta đồng ý gia nhập.\"",
+      "suggest": "Chấp sự áo đen lấy ra một tấm Phù màu trắng, điểm nhẹ lên thân phận của Viên Minh, mặt không biểu tình hỏi.",
+      "similarity": [
+        [
+          92,
+          0.27
+        ],
+        [
+          96,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ta nguyện ý gia nhập.\"",
+      "dich": "Viên Minh lập tức đáp.",
+      "suggest": "\"Ta bằng lòng gia nhập.\"",
+      "similarity": [
+        [
+          32,
+          0.13
+        ],
+        [
+          47,
+          0.13
+        ],
+        [
+          51,
+          0.13
+        ],
+        [
+          63,
+          0.11
+        ],
+        [
+          78,
+          0.11
+        ],
+        [
+          93,
+          0.41
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh lập tức nói.",
+      "dich": "\"Rất tốt, đội ngũ ở bên kia, ngươi qua luôn bên đó đi.\"",
+      "suggest": "Viên Minh lập tức nói.",
+      "similarity": [
+        [
+          8,
+          0.15
+        ],
+        [
+          21,
+          0.15
+        ],
+        [
+          33,
+          0.11
+        ],
+        [
+          50,
+          0.23
+        ],
+        [
+          58,
+          0.27
+        ],
+        [
+          60,
+          0.16
+        ],
+        [
+          62,
+          0.19
+        ],
+        [
+          73,
+          0.19
+        ],
+        [
+          77,
+          0.18
+        ],
+        [
+          88,
+          0.13
+        ],
+        [
+          94,
+          0.54
+        ],
+        [
+          108,
+          0.15
+        ],
+        [
+          113,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "\"Rất tốt, đội ngũ ở bên kia, ngươi trực tiếp đi qua đi.\"",
+      "dich": "Chấp sự áo đen trả minh bài lại cho Viên Minh, rồi đưa tay chỉ vào một chỗ vắng trong đại sảnh.",
+      "suggest": "\"Rất tốt, đội ngũ ở bên kia, ngươi trực tiếp đi qua đó.\"",
+      "similarity": [
+        [
+          95,
+          0.64
+        ]
+      ]
+    },
+    {
+      "convert": "Áo đen chấp sự đem thân phận minh bài đưa trả lại, tay hướng đại sảnh nơi hẻo lánh một chỉ.",
+      "dich": "Viên Minh thuận theo tay y nhìn lại, thấy có bốn đệ tử Bích La Động đang đứng ở đó, tất cả đều là đệ tử ký danh, ở giữa còn bất ngờ có một người quen, chính là tên đầu trọc A Cổ Lạp kia.",
+      "suggest": "Chấp sự áo đen trả lại minh bài, tay điểm nhẹ vào không trung một cái.",
+      "similarity": [
+        [
+          92,
+          0.12
+        ],
+        [
+          96,
+          0.2
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh thuận nó ngón tay phương hướng nhìn lại, bốn cái Bích La Động đệ tử đứng ở nơi đó, đều là ký danh đệ tử, ở giữa vậy mà cũng có một người quen, lại là cái kia đầu trọc A Cổ Lạp.",
+      "dich": "Hắn thoáng nhíu mày xong rất nhanh giãn ra, cất bước đi tới.",
+      "suggest": "Viên Minh thuận ngón tay chỉ về phía bốn gã đệ tử Bích La Động đó, đều là đệ tử ký danh. Ở giữa bọn họ cũng có một người quen, chính là A Cổ Lạp.",
+      "similarity": [
+        [
+          37,
+          0.1
+        ],
+        [
+          56,
+          0.13
+        ],
+        [
+          66,
+          0.11
+        ],
+        [
+          97,
+          0.34
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn nhíu mày, rất nhanh lại giãn ra, đi tới.",
+      "dich": "Thấy có người tới gần, bốn người cùng đưa mắt nhìn lại.",
+      "suggest": "Hắn khẽ nhíu mày, nhưng rất nhanh giãn ra, đi tới.",
+      "similarity": [
+        [
+          23,
+          0.11
+        ],
+        [
+          98,
+          0.37
+        ]
+      ]
+    },
+    {
+      "convert": "Chú ý tới có người tới gần, bốn người đều nhìn lại.",
+      "dich": "A Cổ Lạp trông thấy Viên Minh, mặt mũi hơn ngẩn ra.",
+      "suggest": "Chú ý tới có người tới gần, bốn người đều nhìn lại.",
+      "similarity": [
+        [
+          99,
+          0.53
+        ]
+      ]
+    },
+    {
+      "convert": "A Cổ Lạp nhìn thấy Viên Minh, thần sắc khẽ giật mình.",
+      "dich": "\"Vị sư đệ này cũng tiếp nhận nhiệm vụ Hỏa Phác ngọc sao?",
+      "suggest": "A Cổ Lạp nhìn thấy Viên Minh, thần sắc khẽ giật mình.",
+      "similarity": [
+        [
+          100,
+          0.27
+        ],
+        [
+          110,
+          0.11
+        ],
+        [
+          111,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "\"Vị sư đệ này cũng tiếp Hỏa Phác ngọc nhiệm vụ?",
+      "dich": "Ha ha, trông mặt lạ nha, không biết là đệ tử đường nào đây?\"",
+      "suggest": "\"Vị sư đệ này cũng nhận nhiệm vụ tiếp nhận Hỏa Phác Ngọc ư?",
+      "similarity": [
+        [
+          43,
+          0.13
+        ],
+        [
+          101,
+          0.45
+        ]
+      ]
+    },
+    {
+      "convert": "Ha ha, gương mặt lạ a, không biết là một đường nào đệ tử nha?\"",
+      "dich": "Một thiếu phụ xinh đẹp đầu mang trang sức bạc quan sát Viên Minh mấy lượt rồi hỏi, thoạt nhìn có vẻ là nhân vật dẫn đầu nhóm bốn người.",
+      "suggest": "Ha ha, gương mặt lạ quá, không biết là đệ tử đường nào a?\"",
+      "similarity": [
+        [
+          102,
+          0.53
+        ]
+      ]
+    },
+    {
+      "convert": "Một cái đầu mang ngân sức mỹ mạo thiếu phụ quan sát Viên Minh vài lần sau hỏi, thoạt nhìn là trong bốn người nhân vật dẫn đầu.",
+      "dich": "Nàng này khoảng hơn ba mươi tuổi,, đường nét ngũ quan có vẻ hòa nhã, cổ tay đeo một chuỗi vòng tay tỏa ánh bạc ra khắp bốn phía, trông có vẻ không phải phàm vật, bên hông treo một cái túi linh thú màu xanh biếc.",
+      "suggest": "Một thiếu phụ xinh đẹp mang theo túi bạc nhìn Viên Minh vài lần, thoạt nhìn là nhân vật đứng đầu trong bốn người.",
+      "similarity": [
+        [
+          103,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Nàng này ngoài ba mươi, ngũ quan hình dáng có chút hiền lành, trên cổ tay mang theo một chuỗi ngân quang bắn ra bốn phía vòng tay, tựa hồ không phải là phàm vật, bên hông treo một con màu xanh biếc túi linh thú.",
+      "dich": "Đứng bên cạnh thiếu phụ là một đại hán da đen, trên người mặc một tấm da thú để lộ nửa khuôn ngực, bả vai xăm hình đầu hổ, tay cầm một cây gậy sắt đen bóng to bằng miệng chén, vừa nhìn liền biết là hạng người lực lớn.",
+      "suggest": "Nàng này ngoài ba mươi tuổi, ngũ quan có chút hiền lành, trên cổ tay đeo một chuỗi ngân quang bắn ra bốn phía xung quanh, tựa hồ không phải là phàm vật, bên hông treo một cái túi linh thú màu xanh biếc.",
+      "similarity": [
+        [
+          104,
+          0.44
+        ]
+      ]
+    },
+    {
+      "convert": "Thiếu phụ đứng bên cạnh lấy một cái da đen đại hán, trên người mặc một khối da thú, lộ ra nửa cái lồng ngực, bả vai khắc lấy một cái màu đỏ đầu hổ hình xăm, trong tay cầm một cây to cỡ miệng chén đen nhánh gậy sắt, xem xét liền biết là lực lớn hạng người.",
+      "dich": "Người cuối cùng là một thanh niên mắt xếch, đầu đội mũ nỉ, mặt mũi lạnh lùng, rặt một bộ người sống chớ gần.",
+      "suggest": "Thiếu phụ đứng bên cạnh cũng là một đại hán da đen, trên người mặc một miếng da thú màu đen, lộ ra nửa phần lồng ngực, bả vai khắc một hình xăm màu đỏ, trong tay cầm một cái gậy sắt đen nhánh to cỡ miệng chén, xem ra đúng là một tay đấm lớn.",
+      "similarity": [
+        [
+          105,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "Người cuối cùng là cái đầu mang mũ nỉ mắt tam giác thanh niên, thần sắc lạnh lùng, một bộ người sống chớ gần biểu lộ.",
+      "dich": "\"Tại hạ Viên Minh, đệ tử mới của Hỏa Luyện đường, xin chào các vị đồng môn.\"",
+      "suggest": "Người cuối cùng là thanh niên có mái tóc dài màu xanh, thần sắc lạnh lùng, bộ dáng như kẻ sống không bằng chết.",
+      "similarity": [
+        [
+          106,
+          0.15
+        ]
+      ]
+    },
+    {
+      "convert": "\"Tại hạ Viên Minh, Hỏa Luyện đường tân tấn đệ tử, gặp qua mấy vị đồng môn.\"",
+      "dich": "Viên Minh thi lễ chào hỏi.",
+      "suggest": "\"Tại hạ Viên Minh, đệ tử mới nhập môn Hỏa Luyện đường, đã gặp qua mấy vị đồng môn.\"",
+      "similarity": [
+        [
+          107,
+          0.58
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh thi lễ một cái.",
+      "dich": "\"Hỏa Luyện đường?",
+      "suggest": "Viên Minh thi lễ một cái.",
+      "similarity": [
+        [
+          8,
+          0.15
+        ],
+        [
+          21,
+          0.15
+        ],
+        [
+          33,
+          0.11
+        ],
+        [
+          50,
+          0.15
+        ],
+        [
+          58,
+          0.17
+        ],
+        [
+          62,
+          0.16
+        ],
+        [
+          73,
+          0.16
+        ],
+        [
+          77,
+          0.15
+        ],
+        [
+          88,
+          0.12
+        ],
+        [
+          94,
+          0.15
+        ],
+        [
+          108,
+          0.43
+        ],
+        [
+          113,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "\"Hỏa Luyện đường?",
+      "dich": "A Cổ Lạp, là chỗ ngươi nhỉ?\"",
+      "suggest": "\"Hỏa luyện đường?",
+      "similarity": [
+        [
+          0,
+          0.12
+        ],
+        [
+          32,
+          0.11
+        ],
+        [
+          47,
+          0.12
+        ],
+        [
+          51,
+          0.12
+        ],
+        [
+          109,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "A Cổ Lạp, là ngươi bên kia?\"",
+      "dich": "Thiếu phụ xinh đẹp nhìn sang phía A Cổ Lạp, hỏi.",
+      "suggest": "A Cổ Lạp, là người bên kia sao?\"",
+      "similarity": [
+        [
+          43,
+          0.11
+        ],
+        [
+          72,
+          0.11
+        ],
+        [
+          100,
+          0.11
+        ],
+        [
+          110,
+          0.41
+        ],
+        [
+          111,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Mỹ mạo thiếu phụ nhìn về phía A Cổ Lạp.",
+      "dich": "A Cổ Lạp gượng gạo cười cười với thiếu phụ, khi chuyển hướng về phía Viên Minh, sắc mặt gã lại trở nên âm trầm, đồng thời lạnh lùng nói: \"Viên Minh, ngươi vào Bích La Động mới nửa tháng, đường trong tông môn chỉ sợ còn chưa biết được ba cái, sốt sắng chạy tới nhận nhiệm vụ như vậy là muốn tìm chết sao?\"",
+      "suggest": "Thiếu phụ mỹ mạo nhìn về phía A Cổ Lạp.",
+      "similarity": [
+        [
+          65,
+          0.14
+        ],
+        [
+          100,
+          0.11
+        ],
+        [
+          110,
+          0.14
+        ],
+        [
+          111,
+          0.25
+        ]
+      ]
+    },
+    {
+      "convert": "A Cổ Lạp đối thiếu phụ miễn cưỡng cười cười, chuyển hướng Viên Minh lúc, sắc mặt trở nên âm trầm, âm thanh lạnh lùng nói: \"Viên Minh, ngươi tiến Bích La Động mới nửa tháng, tông môn đường chỉ sợ đều không nhận ra ba đầu, như thế vô cùng lo lắng chạy tới nhận chức vụ, muốn tìm cái chết sao?\"",
+      "dich": "Viên Minh cau mày.",
+      "suggest": "A Cổ Lạp đối với thiếu phụ miễn cưỡng cười cười, quay đầu nhìn về phía Viên Minh, sắc mặt trở nên âm trầm, lạnh lùng nói: \"Viên Minh, ngươi mới tiến Bích La động chưa tới nửa tháng, tông môn chỉ sợ đều không nhận ra ba đầu, vì sao lại chạy tới đây nhận chức vụ?\"",
+      "similarity": [
+        [
+          112,
+          0.34
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh mày nhăn lại, A Cổ Lạp lại tại nhằm vào hắn, hắn không nhớ rõ lúc nào đắc tội qua đối phương?",
+      "dich": "A Cổ Lạp lại nhắm vào hắn, trong khi hắn không nhớ nổi mình đã đắc tội với đối phương từ lúc nào?",
+      "suggest": "Viên Minh nhăn mày, A Cổ Lạp luôn nhắm vào hắn, hắn không nhớ đã đắc tội với đối phương khi nào?",
+      "similarity": [
+        [
+          114,
+          0.4
+        ]
+      ]
+    },
+    {
+      "dich": "Chú giải:"
+    },
+    {
+      "dich": "*. Minh bài: Thẻ (lệnh bài) có khắc thêm thông tin."
+    }
+  ]
+}

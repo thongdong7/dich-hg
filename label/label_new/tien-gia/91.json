@@ -1,0 +1,1823 @@
+{
+  "next": {
+    "id": 92,
+    "title": "Chương 92: Cơ hội"
+  },
+  "previous": {
+    "id": 90,
+    "title": "Chương 90: Không có ngốc đến mức đầu"
+  },
+  "title": {
+    "convert": "Chương 91",
+    "dich": "Chương 91"
+  },
+  "lines": [
+    {
+      "convert": "\"Theo như nhu cầu thôi.\"",
+      "dich": "Mèo bạc xoay đầu về, bước tới trước mấy bước, tiếng nó mới vang lên trong thức hải Viên Minh.",
+      "suggest": "\"Theo nhu cầu thì có thể.\"",
+      "similarity": [
+        [
+          24,
+          0.11
+        ],
+        [
+          82,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân Miêu đầu chuyển trở về, đi về phía trước mấy bước, thanh âm ở Viên Minh thức hải vang lên.",
+      "dich": "\"Lời này có ý gì?\"",
+      "suggest": "Đầu Ngân Miêu quay lại, đi về trước mấy bước, thanh âm ở trong thức hải vang lên.",
+      "similarity": [
+        [
+          1,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "\"Đây là ý gì?\"",
+      "dich": "Viên Minh khó hiểu hỏi.",
+      "suggest": "'Đây là ý gì?'",
+      "similarity": [
+        [
+          2,
+          0.21
+        ],
+        [
+          12,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh khó hiểu nói.",
+      "dich": "Nhưng mèo bạc không có ý tứ giải thích, tiếp tục đi về phía trước.",
+      "suggest": "Viên Minh khó hiểu nói.",
+      "similarity": [
+        [
+          3,
+          0.54
+        ],
+        [
+          7,
+          0.19
+        ],
+        [
+          9,
+          0.11
+        ],
+        [
+          15,
+          0.19
+        ],
+        [
+          23,
+          0.16
+        ],
+        [
+          30,
+          0.18
+        ],
+        [
+          38,
+          0.18
+        ],
+        [
+          45,
+          0.18
+        ],
+        [
+          55,
+          0.11
+        ],
+        [
+          78,
+          0.13
+        ],
+        [
+          107,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân Miêu nhưng không có giải thích ý tứ, tiếp tục đi về phía trước.",
+      "dich": "\"Mặc kệ các hạ có dụng ý gì, có thể giúp ta thêm một lần không?",
+      "suggest": "Ngân Miêu không có giải thích thêm điều gì, tiếp tục đi về phía trước.",
+      "similarity": [
+        [
+          4,
+          0.49
+        ]
+      ]
+    },
+    {
+      "convert": "\"Mặc kệ các hạ là dụng ý gì, có thể hay không sẽ giúp ta một lần?",
+      "dich": "Ta sẽ khắc ghi trong tâm khảm.\"",
+      "suggest": "\"Mặc kệ các hạ có dụng ý gì, có thể giúp ta một lần hay không?",
+      "similarity": [
+        [
+          5,
+          0.79
+        ]
+      ]
+    },
+    {
+      "convert": "Ta biết khắc trong tâm khảm.\"",
+      "dich": "Viên Minh vội nói thêm.",
+      "suggest": "Ta biết khắc sâu trong tâm khảm.\"",
+      "similarity": [
+        [
+          6,
+          0.49
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh lập tức mở miệng nói ra.",
+      "dich": "Mèo bạc nghe thế liền dừng chân, không rời đi ngay.",
+      "suggest": "Viên Minh lập tức mở miệng nói.",
+      "similarity": [
+        [
+          3,
+          0.13
+        ],
+        [
+          7,
+          0.14
+        ],
+        [
+          9,
+          0.11
+        ],
+        [
+          15,
+          0.13
+        ],
+        [
+          23,
+          0.12
+        ],
+        [
+          30,
+          0.13
+        ],
+        [
+          38,
+          0.13
+        ],
+        [
+          45,
+          0.13
+        ],
+        [
+          55,
+          0.11
+        ],
+        [
+          78,
+          0.11
+        ],
+        [
+          107,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân Miêu nghe vậy, bước chân dừng lại, cũng không lập tức rời đi.",
+      "dich": "Viên Minh thấy thế nhất thời mừng rỡ.",
+      "suggest": "Ngân Miêu nghe vậy, bước chân dừng lại, cũng không lập tức rời đi.",
+      "similarity": []
+    },
+    {
+      "convert": "Viên Minh thấy thế lập tức vui mừng, hắn nghĩ đến đối phương đã chủ động cho hắn cứu mạng công pháp, mới vừa rồi lại xuất thủ tương trợ, liền nhất định là đối hắn có thiện ý, mà thứ nhất thẳng đi theo bên cạnh mình, cũng hơn nửa là đối bản thân có chỗ cầu.",
+      "dich": "Hắn nghĩ tới việc đối phương đã chủ động cho hắn công pháp cứu mạng, vừa rồi lại xuất thủ tương trợ, nhất định là có thiện ý với hắn, hơn nữa nó luôn đi theo bên cạnh mình, quá nửa là có gì đó cần hắn.",
+      "suggest": "Viên Minh thấy thế lập tức vui mừng, hắn nghĩ đến đối phương chủ động giúp hắn cứu mạng, vừa rồi lại ra tay tương trợ, khẳng định là có thiện ý với mình, mà thứ nhất đi theo bên cạnh mình cũng hơn phân nửa là có chỗ cầu.",
+      "similarity": [
+        [
+          10,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "Cho nên hắn mới ôm thử một lần ý niệm trong đầu mở miệng, lại không nghĩ rằng vậy mà thật có cơ hội.",
+      "dich": "Thế nên, hắn mới mở miệng muốn thử một lần, không ngờ rằng vậy mà thực có cơ hội.",
+      "suggest": "Cho nên hắn mới ôm ý niệm trong đầu, nhưng không nghĩ rằng đây lại là cơ hội thật tốt.",
+      "similarity": []
+    },
+    {
+      "convert": "\"Ngươi muốn ta giúp ngươi cái gì?\"",
+      "dich": "\"Ngươi cần ta giúp gì?\"",
+      "suggest": "\"Ngươi muốn ta giúp ngươi cái gì?\"",
+      "similarity": [
+        [
+          2,
+          0.17
+        ],
+        [
+          12,
+          0.24
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân Miêu thanh âm, ở Viên Minh trong đầu vang lên.",
+      "dich": "Tiếng mèo bạc vang lên trong đầu Viên Minh.",
+      "suggest": "Thanh âm Ngân Miêu vang lên trong đầu Viên Minh.",
+      "similarity": [
+        [
+          1,
+          0.11
+        ],
+        [
+          13,
+          0.58
+        ],
+        [
+          17,
+          0.21
+        ],
+        [
+          33,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "\"Dạy ta tu tập Minh Nguyệt Quyết.\"",
+      "dich": "\"Dạy ta tu tập Minh Nguyệt quyết.\"",
+      "suggest": "\"Dạy ta tu tập Minh Nguyệt Quyết.\"",
+      "similarity": [
+        [
+          14,
+          0.71
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh lập tức nói.",
+      "dich": "Viên Minh đáp ngay.",
+      "suggest": "Viên Minh lập tức nói.",
+      "similarity": [
+        [
+          3,
+          0.18
+        ],
+        [
+          7,
+          0.19
+        ],
+        [
+          9,
+          0.11
+        ],
+        [
+          15,
+          0.19
+        ],
+        [
+          23,
+          0.16
+        ],
+        [
+          30,
+          0.18
+        ],
+        [
+          38,
+          0.18
+        ],
+        [
+          45,
+          0.18
+        ],
+        [
+          55,
+          0.11
+        ],
+        [
+          78,
+          0.13
+        ],
+        [
+          107,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "\"Thiên tư quá kém, học không được.\"",
+      "dich": "\"Thiên tư quá kém, học không được.\"",
+      "suggest": "\"Thiên tư quá kém, không học được.\"",
+      "similarity": [
+        [
+          16,
+          0.62
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân Miêu thanh âm ở Viên Minh não hải vang lên.",
+      "dich": "Tiếng mèo bạc lại vang lên trong não hải Viên Minh.",
+      "suggest": "Thanh âm Ngân Miêu ở trong đầu Viên Minh vang lên.",
+      "similarity": [
+        [
+          13,
+          0.27
+        ],
+        [
+          17,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nghe vậy trì trệ, nhưng chợt lại nói ra: \"Chỉ cần ngươi chịu dạy bảo, mặc kệ có thể hay không có học tạo thành, ta đều nguyện ý vì ngươi làm việc, tới làm hồi báo.\"",
+      "dich": "Viên Minh nghe thế hơi do dự một chút, rồi bỗng nói thêm: \"Chỉ cần người chịu dạy bảo, bất luận có thể học được hay không, ta đều nguyện ý làm việc giúp ngươi, coi như đền đáp.\"",
+      "suggest": "Viên Minh nghe vậy hơi trì hoãn, nhưng chợt nói: \"Chỉ cần ngươi chịu dạy bảo, mặc kệ có thể hay không có học, ta đều nguyện ý vì ngươi mà làm tất cả.\"",
+      "similarity": [
+        [
+          18,
+          0.24
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân Miêu sau khi nghe xong, tựa hồ có chút ý động, dò hỏi: \"Cho dù là biết nguy hiểm cho ngươi sinh mệnh sự tình  ngươi cũng chịu làm?\"",
+      "dich": "Mèo bạc nghe vậy dường như hơi động lòng, hỏi dò: \"Ngay cả những chuyện có thể đe dọa tính mạng ngươi, ngươi vẫn chịu làm sao?\"",
+      "suggest": "Ngân Miêu nghe xong, tâm động có chút, dò hỏi: \"Cho dù biết nguy hiểm cho tính mạng của ngươi, ngươi cũng chịu làm sao?\"",
+      "similarity": [
+        [
+          19,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "\"Tin tưởng ngươi sẽ không để cho ta làm chuyện như vậy, nếu không lúc trước liền sẽ không lên tiếng cứu ta.\"",
+      "dich": "\"Ta tin ngươi sẽ không để cho ta làm chuyện như vậy, nếu không lúc ngươi sẽ không lên tiếng cứu ta.\"",
+      "suggest": "\"Tin tưởng ngươi sẽ không để ta làm chuyện như vậy, nếu không lúc trước đã không lên tiếng cứu ta.\"",
+      "similarity": [
+        [
+          20,
+          0.63
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nghe vậy trì trệ, chợt mở miệng nói ra.",
+      "dich": "Viên Minh chần chờ một chút rồi chợt đáp.",
+      "suggest": "Viên Minh nghe vậy, hơi ngừng lại, chợt mở miệng nói.",
+      "similarity": [
+        [
+          55,
+          0.19
+        ],
+        [
+          60,
+          0.13
+        ],
+        [
+          101,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"Dưới mắt ta cũng thực sự có một số việc  không tiện bản thân đi làm  có lẽ có thể ngươi đi.\"",
+      "dich": "\"Đúng là trước mắt ta cũng có chút việc bản thân không tiện đi làm, có lẽ ngươi có thể đi.\"",
+      "suggest": "\"Trước mắt ta cũng có một số việc  không tiện cho bản thân đi làm  có lẽ có thể ngươi đi.\"",
+      "similarity": [
+        [
+          22,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân Miêu trầm ngâm nói.",
+      "dich": "Mèo bạc trầm ngâm nói.",
+      "suggest": "Ngân Miêu trầm ngâm nói.",
+      "similarity": [
+        [
+          23,
+          0.51
+        ],
+        [
+          78,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "\"Cứ nói đừng ngại.\"",
+      "dich": "\"Cứ nói đừng ngại.\"",
+      "suggest": "\"Cứ nói đừng ngại.\"",
+      "similarity": [
+        [
+          24,
+          1
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nói, trong lòng âm thầm cảm thấy, đối phương nói chuyện tựa hồ so trước đó càng thêm ăn khớp.",
+      "dich": "Viên Minh nói, trong lòng thầm cảm thấy đối phương nói chuyện tựa hồ lưu loát hơn trước không ít.",
+      "suggest": "Viên Minh nói, trong lòng âm thầm cảm thấy đối phương nói chuyện với mình càng thêm ăn khớp.",
+      "similarity": [
+        [
+          25,
+          0.48
+        ]
+      ]
+    },
+    {
+      "convert": "\"Bích La Động cơ hồ mỗi tháng, đều sẽ có thú nô đường hoặc là Hành Chấp Đường đồ đệ, bí mật ra ngoài săn giết dã nhân.",
+      "dich": "\"Bích La Động gần như tháng nào cũng sẽ có đệ tử Thú Nô đường, hoặc Hành Chấp đường bí mật ra ngoài săn giết dã nhân.",
+      "suggest": "\"Mỗi tháng ở Bích La Động đều có đồ đệ là đồ đệ của Hành Chấp Đường bí mật ra ngoài săn giết dã nhân.",
+      "similarity": [
+        [
+          26,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "Ta muốn ngươi điều tra rõ ràng, bọn hắn mục đích làm như vậy.\"",
+      "dich": "Ta cần ngươi điều tra rõ xem bọn họ làm thế là vì mục đích gì.\"",
+      "suggest": "Ta muốn ngươi điều tra rõ ràng, bọn chúng muốn làm như vậy.\"",
+      "similarity": [
+        [
+          27,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân Miêu suy nghĩ một lát, chậm rãi nói.",
+      "dich": "Mèo bạc suy nghĩ một lát, chậm rãi nói.",
+      "suggest": "Ngân Miêu suy nghĩ một lát, sau đó chậm rãi nói.",
+      "similarity": [
+        [
+          28,
+          0.49
+        ],
+        [
+          60,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"Không phải là vì bắt giữ phi mao thú nô không?\"",
+      "dich": "\"Không phải để bắt Phi Mao thú nô sao?\"",
+      "suggest": "\"Có phải là vì bắt cóc Phi Mao thú nô không?\"",
+      "similarity": [
+        [
+          29,
+          0.24
+        ],
+        [
+          32,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nhíu mày nói.",
+      "dich": "Viên Minh nhíu mày hỏi.",
+      "suggest": "Viên Minh nhíu mày nói.",
+      "similarity": [
+        [
+          3,
+          0.18
+        ],
+        [
+          7,
+          0.19
+        ],
+        [
+          9,
+          0.11
+        ],
+        [
+          15,
+          0.19
+        ],
+        [
+          23,
+          0.16
+        ],
+        [
+          30,
+          0.54
+        ],
+        [
+          38,
+          0.18
+        ],
+        [
+          45,
+          0.18
+        ],
+        [
+          55,
+          0.11
+        ],
+        [
+          60,
+          0.12
+        ],
+        [
+          78,
+          0.13
+        ],
+        [
+          80,
+          0.12
+        ],
+        [
+          107,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn lúc trước chính là cùng một nhóm dã nhân cùng một chỗ bị tóm, sàng chọn, cuối cùng trở thành phi mao thú nô.",
+      "dich": "Hắn lúc trước chính là bị bắt cùng một nhóm dã nhân, trải qua sàng lọc, cuối cùng trở thành Phi Mao thú nô.",
+      "suggest": "Hắn vốn là một tay săn dã nhân cùng một chỗ với nhóm dã nhân kia, sau đó chọn lựa cuối cùng trở thành Phi Mao thú nô.",
+      "similarity": [
+        [
+          31,
+          0.34
+        ]
+      ]
+    },
+    {
+      "convert": "\"Các ngươi những này có linh căn người, là bị bắt trở về làm phi mao thú nô, có thể những cái kia không có linh căn đây này?\"",
+      "dich": "\"Mấy người có linh căn các ngươi là bị bắt về làm Phi Mao thú nô, nhưng còn những kẻ không có linh căn thì sao?\"",
+      "suggest": "\"Các ngươi là người có linh căn, bị bắt trở về làm Phi Mao thú nô, có phải những người kia không có linh căn kia không?\"",
+      "similarity": [
+        [
+          32,
+          0.38
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân Miêu thanh lãnh thanh âm ở Viên Minh thức hải vang lên, hỏi.",
+      "dich": "Thanh âm lạnh lùng của mèo bạc vang lên trong thức hải Viên Minh.",
+      "suggest": "Thanh âm trầm thấp của Ngân Miêu vang lên ở trong thức hải Viên Minh, hỏi.",
+      "similarity": [
+        [
+          1,
+          0.19
+        ],
+        [
+          17,
+          0.1
+        ],
+        [
+          33,
+          0.27
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh một chút hồi ức, lông mày liền gấp nhíu lại.",
+      "dich": "Viên Minh nhớ lại một chút, lông mày liền nhíu chặt.",
+      "suggest": "Viên Minh vừa mới hồi tưởng một chút, hai hàng lông mày liền nhíu lại.",
+      "similarity": [
+        [
+          34,
+          0.24
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn còn nhớ rõ, ban đầu ở bên trong hang núi kia, trừ bỏ bị sàng chọn xuất hiện người, còn lại dã nhân tất cả đều bị giết.",
+      "dich": "Hắn còn nhớ rất rõ, lúc đầu ở trong hang núi kia, trừ những người được chọn ra, toàn bộ dã nhân còn lại đều bị giết.",
+      "suggest": "Hắn còn nhớ rõ, lúc ở trong hang núi kia, trừ những người được chọn ra để xuất hiện, những dã nhân còn lại đều bị giết.",
+      "similarity": [
+        [
+          35,
+          0.67
+        ]
+      ]
+    },
+    {
+      "convert": "Lúc ấy vẫn còn Bích La Động người, dùng một cái tấc hơn lớn nhỏ ngân bạch linh đang, sẽ bị giết dã nhân hồn phách, tất cả đều thu thập lại.",
+      "dich": "Khi đó còn thấy có người Bích La Động dùng một chuông lục lạc màu bạc cao hơn tấc, thu hết toàn bộ hồn phách của những dã nhân bị giết lại.",
+      "suggest": "Lúc ấy vẫn còn có người Bích La Động, dùng một cái chuông bạc lớn hơn thước để giết dã nhân, tất cả đều được thu thập lại.",
+      "similarity": [
+        [
+          36,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "\"Tốt, ta đi điều tra thử một chút.\"",
+      "dich": "\"Được, ta đi điều tra thử một phen.\"",
+      "suggest": "\"Được, ta sẽ kiểm tra thử một chút.\"",
+      "similarity": [
+        [
+          37,
+          0.34
+        ],
+        [
+          116,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh gật đầu nói.",
+      "dich": "Viên Minh gật đầu đáp.",
+      "suggest": "Viên Minh gật đầu nói.",
+      "similarity": [
+        [
+          3,
+          0.18
+        ],
+        [
+          7,
+          0.19
+        ],
+        [
+          9,
+          0.11
+        ],
+        [
+          15,
+          0.19
+        ],
+        [
+          23,
+          0.16
+        ],
+        [
+          30,
+          0.18
+        ],
+        [
+          38,
+          0.54
+        ],
+        [
+          45,
+          0.18
+        ],
+        [
+          55,
+          0.11
+        ],
+        [
+          78,
+          0.13
+        ],
+        [
+          107,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân Miêu nghe vậy, liền cũng không vội mà rời đi, chỉ điểm Viên Minh nói: \"Ngươi mới vừa rồi tu luyện Minh Nguyệt Quyết lúc, là nghĩ nhất cổ tác khí, phân tán thần niệm nhìn rõ sở hữu kinh mạch a?\"",
+      "dich": "Mèo bạc nghe xong cũng không vội rời đi, mà lên tiếng chỉ điểm cho Viên Minh: \"Vừa rồi khi tu luyện Minh Nguyệt quyết, ngươi muốn nhất cỗ tác khí, phân tán thần niệm xem rõ tất cả kinh mạch?\"",
+      "suggest": "Ngân Miêu nghe vậy, cũng không vội vàng rời đi, chỉ điểm Viên Minh nói: \"Lúc vừa rồi ngươi tu luyện Minh Nguyệt Quyết là nghĩ nhất cổ tác khí, phân tán thần niệm nhìn rõ kinh mạch của mình sao?\"",
+      "similarity": [
+        [
+          39,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh cũng chẳng suy nghĩ gì nữa Ngân Miêu có thể phát hiện bản thân tu hành tình trạng, nhẹ gật đầu.",
+      "dich": "Viên Minh cũng không bất ngờ chuyện mèo bạc có thể nhìn ra tình trạng tu luyện của mình, khẽ gật đầu.",
+      "suggest": "Viên Minh cũng chẳng suy nghĩ gì tới việc Ngân Miêu có thể phát hiện ra tình trạng tu hành của mình, khẽ gật đầu.",
+      "similarity": [
+        [
+          40,
+          0.37
+        ]
+      ]
+    },
+    {
+      "convert": "\"Thần hồn của ta chi lực không đủ, thần niệm từ đầu đến cuối chỉ có thể co đầu rút cổ vu trong thức hải, không cách nào nội thị kinh mạch cùng đan điền, vì có chỗ đột phá, ta chỉ có thể mạo hiểm cưỡng ép nội thị kinh mạch.\"",
+      "dich": "\"Thần hồn của ta không đủ lực lượng, thần niệm đó giờ chỉ có thể co đầu rút cổ trong thức hải, không cách nào nội thị kinh mạch và đan điền, để đột phát, ta chỉ đành mạo hiểm cưỡng ép nội thị kinh mạch.\"",
+      "suggest": "\"Thần hồn của ta không đủ, thần niệm từ đầu đến cuối chỉ có thể co đầu rụt cổ trong thức hải, không cách nào nội thị kinh mạch và đan điền, vì không có đột phá, ta chỉ có thể mạo hiểm cưỡng ép nội thị kinh mạch.\"",
+      "similarity": [
+        [
+          41,
+          0.63
+        ],
+        [
+          47,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh suy nghĩ một chút về sau, nói như thế.",
+      "dich": "Viên Minh ngẫm nghĩ xong liền thành thật đáp.",
+      "suggest": "Viên Minh suy nghĩ một chút, sau đó nói như thế.",
+      "similarity": [
+        [
+          28,
+          0.14
+        ],
+        [
+          34,
+          0.15
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ai nói cho ngươi, nội thị kinh mạch cần một lần thành hình?\"",
+      "dich": "\"Ai nói với ngươi, nội thị kinh mạch cần một lần thành hình?\"",
+      "suggest": "\"Ai nói cho ngươi biết, kinh mạch nội thị cần một lần thành hình?\"",
+      "similarity": [
+        [
+          43,
+          0.48
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân Miêu hỏi lại.",
+      "dich": "Mèo bạc hỏi lại.",
+      "suggest": "Ngân Miêu hỏi.",
+      "similarity": [
+        [
+          3,
+          0.16
+        ],
+        [
+          15,
+          0.11
+        ],
+        [
+          30,
+          0.16
+        ],
+        [
+          44,
+          0.13
+        ],
+        [
+          48,
+          0.16
+        ],
+        [
+          107,
+          0.11
+        ],
+        [
+          129,
+          0.18
+        ],
+        [
+          131,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh trì trệ, lúc này mới phát hiện bản thân đã rơi vào một cái lầm lẫn, coi là nội thị kinh mạch là cần thần niệm một lần quán thông, nội thị thể nội sở hữu kinh mạch tình trạng.",
+      "dich": "Viên Minh hơi ngẩn ra.",
+      "suggest": "Viên Minh trì trệ, lúc này mới phát hiện bản thân đã rơi vào một sai lầm, cho rằng nội thị kinh mạch là cần thần niệm quán thông, nội thị thể nội.",
+      "similarity": [
+        [
+          46,
+          0.28
+        ]
+      ]
+    },
+    {
+      "convert": "\"Như đúng như đây, kia công pháp nhập môn điều kiện, có thể nội thị thức hải, kinh mạch cùng đan điền ba khu quan ải, chẳng phải là cũng cần đồng thời làm được?\"",
+      "dich": "Hắn bây giờ mới phát hiện mình đã rơi vào một tư duy sai lầm, nghĩ rằng nội thị kinh mạch là cần đưa thần niệm đi thông suốt một lượt, nội thị tình trạng tất cả kinh mạch trong người.",
+      "suggest": "\"Nếu đã như vậy, điều kiện nhập môn của công pháp này, có thể nội thị thức hải, kinh mạch và ba khu quan ải, chẳng phải cũng cần phải đồng thời làm hay sao?\"",
+      "similarity": [
+        [
+          47,
+          0.41
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân Miêu hỏi lần nữa.",
+      "dich": "\"Nếu đúng như vậy, cái điều kiện nhập môn công pháp là có thể nội thị ba khu quan ải gồm thức hải, kinh mạch và đan điền, chẳng phải cũng là cần đồng thời làm được?\"",
+      "suggest": "Ngân Miêu hỏi lại lần nữa.",
+      "similarity": [
+        [
+          44,
+          0.16
+        ],
+        [
+          48,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "\"Nói như vậy, kinh mạch chỉ cần mỗi lần nội thị một đầu hoặc là mấy đầu là được?\"",
+      "dich": "Mèo bạc lần nữa hỏi.",
+      "suggest": "\"Nói như vậy, kinh mạch chỉ cần nội thị một đầu hoặc mấy đầu là được?\"",
+      "similarity": []
+    },
+    {
+      "convert": "Viên Minh hỏi.",
+      "dich": "\"Trọng điểm không ở số lượng, mà ở độ thông thuận.",
+      "suggest": "Viên Minh hỏi.",
+      "similarity": [
+        [
+          3,
+          0.23
+        ],
+        [
+          7,
+          0.18
+        ],
+        [
+          9,
+          0.11
+        ],
+        [
+          15,
+          0.24
+        ],
+        [
+          30,
+          0.23
+        ],
+        [
+          38,
+          0.18
+        ],
+        [
+          44,
+          0.13
+        ],
+        [
+          45,
+          0.18
+        ],
+        [
+          48,
+          0.16
+        ],
+        [
+          55,
+          0.11
+        ],
+        [
+          107,
+          0.24
+        ],
+        [
+          129,
+          0.18
+        ],
+        [
+          131,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "\"Trọng điểm không ở chỗ số lượng, mà ở chỗ thông thuận độ.",
+      "dich": "Thần niệm của người có thể thông thuận tuần hành nội cảnh quanh thân hay không, đó mới là chỗ mấu chốt.",
+      "suggest": "\"Trọng điểm không phải ở số lượng, mà ở chỗ thuận tiện.",
+      "similarity": [
+        [
+          49,
+          0.52
+        ]
+      ]
+    },
+    {
+      "convert": "Ngươi thần niệm có thể hay không thông thuận địa tuần hành quanh thân nội cảnh, mới là mấu chốt  thức hải cùng đan điền là hai tòa đô phủ, kinh mạch thì là từng đầu dịch lộ, thần niệm tới lui trong đó, như lái xe tuần hành thân người bản đồ, có thể mau lẹ thông thuận du tẩu tuần sát, thể hiện địa chính là đối thể nội Sơn Hà chưởng khống.\"",
+      "dich": "Thức hải và đan điền là hai tòa đô phủ, kinh mạch là những con đường qua lại, thần niệm tới lui trong đó như lái xe tuần hành bản đồ thân người.",
+      "suggest": "Thần niệm của ngươi có thể thông thuận tuần hoàn trong cảnh giới nội cảnh mới là mấu chốt  thức hải và đan điền là hai thành phố lớn, kinh mạch thì là một chuỗi cung ứng, thần niệm tới lui trong đó, có thể nhanh lẹ thông thuận tuần tra trong cơ thể, thể hiện địa chính là chưởng khống của Sơn Hà đối với thân thể.\"",
+      "similarity": [
+        [
+          51,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân Miêu lắc đầu, bắt đầu chậm rãi mà nói giải thích.",
+      "dich": "Việc có thể đi tuần sát khắp nơi một cách nhanh chóng thông thuận, chính là biểu hiện cho việc có thể nắm giữ điều khiển sơn hà trong người.\"",
+      "suggest": "Ngân Miêu lắc đầu, bắt đầu chậm rãi giải thích.",
+      "similarity": [
+        [
+          53,
+          0.42
+        ]
+      ]
+    },
+    {
+      "convert": "\"Như thế nói đến, ngược lại là ta tự bày nghi trận, bảo thủ.\"",
+      "dich": "Mèo bạc lắc đầu, bắt đầu từ tốn giải thích.",
+      "suggest": "\"Nói như thế, ngược lại ta tự bày nghi trận, bảo thủ.\"",
+      "similarity": [
+        [
+          54,
+          0.7
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nghe vậy, mới chợt hiểu ra.",
+      "dich": "\"Nói như thế, ta ngược lại là tự bày nghi trận, bảo thủ.\"",
+      "suggest": "Viên Minh nghe vậy, mới chợt hiểu ra.",
+      "similarity": [
+        [
+          45,
+          0.12
+        ],
+        [
+          55,
+          0.67
+        ],
+        [
+          60,
+          0.11
+        ],
+        [
+          63,
+          0.11
+        ],
+        [
+          101,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ngồi chiếu bên trong quan, là sở hữu Trúc Cơ kỳ tu sĩ cơ bản năng lực, cũng chỉ có hồn tu có thể nhanh người một bước, không cần trúc cơ, liền có thể bằng vào thần hồn ưu thế làm được, cái này nguyên bản cũng không khó khăn, đáng tiếc ngươi thiên tư thực tế ngu dốt.\"",
+      "dich": "Viên Minh nghe vậy mới chợt hiểu ra.",
+      "suggest": "\"Ngồi trong quan tài này, là năng lực cơ bản của tu sĩ Trúc Cơ kỳ, cũng chỉ có hồn tu là có thể nhanh người bước đi, không cần trúc cơ, có thể bằng vào ưu thế của thần hồn mà làm được, điều này căn bản không khó khăn, đáng tiếc, thiên tư của ngươi quá ngu dốt.\"",
+      "similarity": []
+    },
+    {
+      "convert": "Ngân Miêu tiếp tục truyền âm.",
+      "dich": "\"Tọa chiếu nội quan là năng lực cơ bản của mọi tu sĩ Trúc Cơ kỳ.",
+      "suggest": "Ngân Miêu tiếp tục truyền âm.",
+      "similarity": [
+        [
+          59,
+          0.61
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nghe vậy, âm thầm trầm ngâm một lát sau, cau mày nói:",
+      "dich": "Cũng chỉ Hồn tu mới có thể nhanh hơn người một bước, không cần trúc cơ đã có thể nhờ vào ưu thế thần hồn làm được điều đó.",
+      "suggest": "Viên Minh nghe vậy, âm thầm trầm ngâm trong chốc lát, sau đó cau mày nói:",
+      "similarity": [
+        [
+          60,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "\"Không đúng rồi, ta lúc trước đã từng thử qua một đầu kinh mạch một đầu trong kinh mạch quan thăm dò, nhưng cũng đều thất bại, cho nên mới tưởng lầm là cần đồng thời thăm dò, đây cũng là cớ gì?\"",
+      "dich": "Cái này vốn cũng không khó, đáng tiếc ngươi thiên tư thực sự ngu dốt.\"",
+      "suggest": "\"Không đúng rồi, lúc trước ta đã từng thử thăm dò một đầu kinh mạch, nhưng đều thất bại, cho nên mới tưởng rằng phải đồng thời thăm dò, đó cũng là cớ gì?\"",
+      "similarity": [
+        [
+          61,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "\"Thần hồn của ngươi chi lực vận chuyển đồng dạng có vấn đề, ngươi không nên ....\"",
+      "dich": "Mèo bạc tiếp tục truyền âm.",
+      "suggest": "\"Quyển lực của thần hồn ngươi cùng có vấn đề, ngươi không nên ....\"",
+      "similarity": [
+        [
+          62,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Ngân Miêu một phen dạy bảo xuống tới, Viên Minh rốt cục tự nhiên hiểu ra.",
+      "dich": "Viên Minh nghe thế liền trầm ngâm một lát, xong cau mày nói.",
+      "suggest": "Sau một phen dạy dỗ của Ngân Miêu, Viên Minh cuối cùng cũng hiểu ra.",
+      "similarity": [
+        [
+          63,
+          0.28
+        ]
+      ]
+    },
+    {
+      "convert": "\"Nói đến thế thôi, chính ngươi lĩnh hội đi.\"",
+      "dich": "\"Không đúng, ta lúc trước đã từng nội quan thăm dò từng đường kinh mạch một nhưng đều thất bại, thế nên mới tưởng nhầm là cần thăm dò cùng lúc, cái này nên giải thích thế nào nhỉ?\"",
+      "suggest": "\"Nói đến đây ngươi tự mình lĩnh hội đi.\"",
+      "similarity": [
+        [
+          64,
+          0.53
+        ]
+      ]
+    },
+    {
+      "convert": "Cuối cùng, Ngân Miêu để lại một câu nói, tự mình chạy ra ngoài cửa sổ, biến mất ở trong bóng tối.",
+      "dich": "\"Việc vận chuyển lực lượng thần hồn của người cũng có vấn đề, ngươi không nên ...\"",
+      "suggest": "Cuối cùng, Ngân Miêu để lại một câu nói, tự mình chạy ra ngoài cửa sổ, biến mất trong bóng tối.",
+      "similarity": [
+        [
+          65,
+          0.5
+        ]
+      ]
+    },
+    {
+      "convert": "Thật lâu, trên mặt đất đánh nửa ngày lăn mà nhỏ Hỏa Chồn, mới rốt cục tỉnh táo lại.",
+      "dich": "Dưới một phen dạy bảo của mèo bạc, Viên Minh cuối cũng đã hiểu ra.",
+      "suggest": "Thật lâu sau, ngồi trên mặt đất nửa ngày mới đánh một hồi lửa trại lên, lúc này mới hoàn toàn tỉnh táo lại.",
+      "similarity": [
+        [
+          66,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Nó nhìn thấy những cái kia gần ngay trước mắt Hỏa Tinh Thạch cùng Hỏa Phác Ngọc, đột nhiên tất cả đều biến mất không thấy gì nữa, trong lúc nhất thời có chút chịu không được đả kích, thân thể cứng ngắc hướng về sau khẽ đảo, lần nữa khóc lóc om sòm lăn lộn.",
+      "dich": "\"Nói đến đây thôi, ngươi tự lĩnh hội đi.\"",
+      "suggest": "Nó nhìn thấy những Hỏa Tinh Thạch và Hỏa Phác Ngọc ngay trước mắt, đột nhiên biến mất không thấy đâu nữa, trong lúc nhất thời có chút chịu không nổi, thân thể cứng ngắc quay cuồng một vòng, khóc lóc om sòm lăn lộn.",
+      "similarity": [
+        [
+          67,
+          0.25
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh móc ra một khối Hỏa Phác Ngọc ném tới, lập tức chữa khỏi nó bi thương, ôm lấy tinh thạch đắc ý mà bắt đầu gặm.",
+      "dich": "Cuối cùng, mèo để lại một câu rồi tự mình nhảy ra ngoài cửa sổ, biến mất trong bóng đêm.",
+      "suggest": "Viên Minh lấy ra một khối Hỏa Phác Ngọc ném tới, lập tức chữa khỏi bi thương cho nó, ôm lấy tinh thạch đắc ý bắt đầu gặm.",
+      "similarity": [
+        [
+          68,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Chính Viên Minh thì là hai mắt nhắm lại, ôm ấp lư hương, lần nữa tu luyện.",
+      "dich": "Rất lâu sau đó, chồn nhỏ sau cả buổi lăn lộn trên đất mới tỉnh táo lại.",
+      "suggest": "Viên Minh cũng nhắm hai mắt lại, ôm lư hương, bắt đầu tu luyện.",
+      "similarity": [
+        [
+          69,
+          0.47
+        ]
+      ]
+    },
+    {
+      "convert": "Có Ngân Miêu chỉ điểm, Viên Minh ít đi rất nhiều đường quanh co, Minh Nguyệt Quyết tốc độ tu luyện, rốt cục tăng nhanh tốc độ.",
+      "dich": "Nó chỉ thấy những viên Hỏa tinh thạch, Hỏa Phác ngọc trước mắt đột nhiên biến mất hết không còn gì nữa, trong lúc nhất thời không chịu nổi đả kích, đờ người lảo đảo lui về sau rồi lại lần nữa lăn lộn, khóc lóc om sòm.",
+      "suggest": "Được Ngân Miêu chỉ điểm, Viên Minh ít đi rất nhiều đường, tốc độ tu luyện Minh Nguyệt Quyết cũng tăng vọt lên.",
+      "similarity": [
+        [
+          70,
+          0.37
+        ]
+      ]
+    },
+    {
+      "convert": "Ngắn ngủi mấy ngày sau, hắn liền đã có thể thần thức thông suốt, ngồi chiếu bên trong quan, xem như nhập môn.",
+      "dich": "Viên Minh móc một khối Hỏa Phác ngọc ra rồi ném tới, lúc này nó mới hết bi thương, lập tức ôm viên tinh thạch ăn ngon lành.",
+      "suggest": "Chỉ sau mấy ngày ngắn ngủi, hắn đã có thể thần thức thông suốt, ngồi trong quan tài, xem như đã nhập môn.",
+      "similarity": [
+        [
+          71,
+          0.44
+        ]
+      ]
+    },
+    {
+      "convert": "Mà « Minh Nguyệt Quyết » công pháp tu luyện nhập môn về sau, thần thức của hắn chi lực cũng có tiến bộ rõ ràng, dựa theo lúc trước Ngân Miêu nói, đại khái đã đợi cùng với phổ thông Trúc Cơ kỳ pháp tu.",
+      "dich": "Bản thân Viên Minh thì nhắm hai mắt lại, ôm lư hương và tiếp tục tu luyện.",
+      "suggest": "Mà Minh Nguyệt Quyết  công pháp tu luyện nhập môn  sau khi nhập môn, lực lượng thần thức của hắn cũng có tiến bộ rõ rệt, dựa theo những gì Ngân Miêu nói lúc trước, đại khái đã đợi được tới khi kết hợp với pháp tu Trúc Cơ bình thường.",
+      "similarity": [
+        [
+          72,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "Bởi vì thần hồn chi lực tăng lên, hắn Khu vật thuật tu luyện cũng rốt cục có chỗ đột phá.",
+      "dich": "Có mèo bạc chỉ điểm, Viên Minh bớt đi được rất đường quanh, tốc độ tu luyện Minh Nguyệt quyết rốt cuộc đã tăng lên.",
+      "suggest": "Bởi vì lực lượng thần hồn tăng lên, thuật Khu Vật của hắn cũng bắt đầu có bước đột phá.",
+      "similarity": [
+        [
+          62,
+          0.13
+        ],
+        [
+          73,
+          0.52
+        ]
+      ]
+    },
+    {
+      "convert": "Giờ Mão ba khắc Hỏa Phường ở bên trong, hơn một trăm tám mươi cái ký danh đệ tử đã đều đến đông đủ, phần lớn người đều đang bận rộn lấy riêng phần mình công việc, chỉ có cùng Viên Minh quen biết mấy người, lúc này đều vây quanh ở một gian chế tạo ngoài phòng.",
+      "dich": "Ngắn ngủi mấy ngày sau, hắn đã có thể thần thức thông suốt, tọa chiếu nội quan, coi như nhập môn.",
+      "suggest": "Giờ Tý ba khắc, hơn một trăm tám mươi đệ tử ký danh đều đến đông đủ, phần lớn đều bận rộn với công việc riêng của mình, chỉ có quen biết mấy người Viên Minh, lúc này đều vây quanh một gian phòng nhỏ.",
+      "similarity": [
+        [
+          74,
+          0.19
+        ],
+        [
+          75,
+          0.2
+        ]
+      ]
+    },
+    {
+      "convert": "Trong phòng lúc này đang có một người, quơ Chú Tạo Chùy \"Đinh đương\" loạn hưởng địa đấm vào phôi sắt, thanh âm thanh thúy, tia lửa tung tóe.",
+      "dich": "Mà sau khi nhập môn công pháp Minh Nguyệt quyết này, lực lượng thần trí của hắn cũng có tiến bộ rõ ràng, dựa theo lời mèo bạc lúc trước, đại khái đã tương đương với Pháp tu Trúc Cơ kỳ bình thường.",
+      "suggest": "Lúc này trong phòng có một người đang quơ chú tạo chùy \"Đinh đương\" loạn xạ đấm vào phôi sắt, thanh âm thúy, tia lửa tóe ra.",
+      "similarity": [
+        [
+          76,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "\"Đã tám trăm năm mươi ba nhát nện, Viên Minh gia hỏa này thật đúng là có có chút tài năng a ...\"",
+      "dich": "Do lực lượng thần hồn tăng lên, việc tu luyện Khu Vật thuật của hắn cũng có bước đột phá.",
+      "suggest": "\"Đã tám trăm năm mươi ba lần nện, gia hỏa Viên Minh này thật đúng là có chút tài năng a.\"",
+      "similarity": [
+        [
+          77,
+          0.68
+        ]
+      ]
+    },
+    {
+      "convert": "Kỳ Kỳ Cách kinh ngạc nói.",
+      "dich": "Giờ Mão ba khắc, bên trong Hỏa phường, hơn một trăm tám mươi đệ tử ký danh đều đã đến đông đủ.",
+      "suggest": "Kỳ Kỳ Cách kinh ngạc nói.",
+      "similarity": [
+        [
+          23,
+          0.14
+        ],
+        [
+          78,
+          1
+        ],
+        [
+          93,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "\"Tiểu tử này khẳng định là vụng trộm luyện tập, không phải không có khả năng tiến bộ nhanh như vậy.\"",
+      "dich": "Đại bộ phận mọi người đều đang bận rộn lo việc của mình, chỉ có mấy người quen biết Viên Minh, giờ phút này đều đang đứng vây quanh một gian phòng rèn đúc.",
+      "suggest": "\"Tiểu tử này khẳng định là do vụng trộm luyện tập, không phải không có khả năng tiến bộ nhanh như vậy đâu.\"",
+      "similarity": [
+        [
+          79,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "A Cổ Lạp nhíu chặt lông mày nói.",
+      "dich": "Lúc này, trong phòng đang có một người vung búa gõ liên tục lên phôi sắt, kéo theo những tiếng đinh đương thanh thúy, kèm những tia lửa bắn tung tóe.",
+      "suggest": "A Cổ Lạp nhíu chặt lông mày nói.",
+      "similarity": [
+        [
+          80,
+          0.34
+        ]
+      ]
+    },
+    {
+      "convert": "\"Hắn sẽ không thật có thể nện gõ đến một ngàn lần a?\"",
+      "dich": "\"Đã tám trăm năm mươi búa, gia hỏa Viên Minh này thật đúng là có chút tài năng nha ...\"",
+      "suggest": "\"Hắn có thực sự có thể nện lên người ta một ngàn lần hay không?\"",
+      "similarity": [
+        [
+          81,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Lệ Nạp có chút khó có thể tin.",
+      "dich": "Kỳ Kỳ Cách kinh ngạc nói.",
+      "suggest": "Lệ Nạp có chút khó tin.",
+      "similarity": [
+        [
+          82,
+          0.51
+        ],
+        [
+          94,
+          0.11
+        ],
+        [
+          98,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Ô Nhật thì là không nói lời nào, trầm mặc quan sát.",
+      "dich": "\"Tiểu tử này chắc chắn là âm thầm tập luyện, nếu không thì không thể tiến bộ nhanh vậy được.\"",
+      "suggest": "Ô Nhật lại không nói gì, chỉ trầm mặc quan sát.",
+      "similarity": [
+        [
+          83,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh lại tới đây bất quá ngắn ngủi một tháng có thừa, trụ cột của hắn này chênh lệch tất cả mọi người rõ ràng, nhưng hắn tiến bộ cũng là tất cả mọi người rõ như ban ngày.",
+      "dich": "A Cổ Lạp nhíu mày bình phẩm.",
+      "suggest": "Viên Minh mới tới đây có một tháng, trụ cột của hắn chênh lệch với tất cả mọi người, nhưng tiến bộ của hắn thì ai cũng thấy rõ.",
+      "similarity": [
+        [
+          84,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Phương Cách sắc mặt nghiêm túc từ đằng xa đi tới, mấy người khác đối với hắn nhiều ít đều có chút e ngại, thấy thế lập tức liền muốn tan tác như chim muông.",
+      "dich": "\"Hắn sẽ không quai búa đủ một ngàn lần thật đấy chứ?\"",
+      "suggest": "Sắc mặt Phương Cách nghiêm túc đi tới, mấy người khác đều có chút e ngại đối với hắn, thấy thế lập tức tan tác như chim muông.",
+      "similarity": [
+        [
+          86,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Không ngờ, Phương Cách lại đưa tay ngăn trở bọn hắn: \"Nhìn cho thật kỹ ...\"",
+      "dich": "Lệ Nạp có chút khó có thể tin.",
+      "suggest": "Không ngờ Phương Cách lại đưa tay ngăn cản bọn hắn: \"Nhìn kỹ vào!\"",
+      "similarity": [
+        [
+          87,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn đã có chỗ dự cảm, Viên Minh lần này là thật sự có khả năng thành công, chỉ bất quá trong lòng hắn đồng dạng nghi hoặc, lúc này mới mấy ngày ngắn ngủi, Viên Minh tiến bộ như thế nào to lớn như thế?",
+      "dich": "Ô Nhật thì không nói lời nào, chỉ yên lặng quan sát.",
+      "suggest": "Hắn đã có dự cảm, Viên Minh lần này thật sự có thể thành công, chỉ có điều trong lòng cũng có chút nghi hoặc, chỉ là trong mấy ngày ngắn ngủi, Viên Minh đã tiến bộ được gì?",
+      "similarity": [
+        [
+          88,
+          0.36
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh đối với mấy người khác nhau tâm tình cũng không hiểu rõ, cũng không quan tâm, lúc này tâm thần tất cả đều hệ vu",
+      "dich": "Viên Minh tới đây mới chỉ vỏn vẹn hơn một tháng, rõ ràng là nền tảng của hắn kém tất cả mọi người, nhưng việc hắn tiến bộ cũng là chuyện mà mọi người đều thấy rõ như ban ngày.",
+      "suggest": "Viên Minh cũng không rõ tâm tình của những người khác nhau, hắn cũng không quan tâm, lúc này tâm thần tất cả đều có vấn đề",
+      "similarity": []
+    },
+    {
+      "convert": "Rèn đúc phía trên, cánh tay vung mạnh đến hô hô rung động, nện gõ thanh âm liên tục vang lên.",
+      "dich": "Phương Cách mặt mũi nghiêm túc từ đằng xa bước tới.",
+      "suggest": "Cánh tay gã vung lên mạnh mẽ, cánh tay lắc mạnh tới mức tiếng động phát ra liên tục vang lên.",
+      "similarity": []
+    },
+    {
+      "convert": "Theo thứ một ngàn chùy rơi đập, Viên Minh rốt cục dừng động tác lại, đứng ở một bên chậm rãi thở dốc.",
+      "dich": "Mấy người khác đều có chút e ngại y, thấy thế liền lập tức tính tản đi.",
+      "suggest": "Sau khi mấy cái búa rơi xuống, Viên Minh cuối cùng cũng dừng động tác lại, đứng ở một bên thở dốc.",
+      "similarity": [
+        [
+          63,
+          0.1
+        ],
+        [
+          90,
+          0.33
+        ]
+      ]
+    },
+    {
+      "convert": "Cái đe sắt bên trên phôi sắt y nguyên lóe lên ánh sáng màu đỏ, tốc độ chậm rãi hạ nhiệt độ biến sắc, cho đến hoàn toàn làm lạnh.",
+      "dich": "Chẳng ngờ, Phương Cách lại đưa tay ngăn bọn họ lại: \"Nhìn thật kỹ vào ...\"",
+      "suggest": "Trên thân đe sắt lóe lên ánh sáng màu đỏ, tốc độ chậm rãi hạ nhiệt độ xuống, cho đến khi hoàn toàn làm lạnh.",
+      "similarity": [
+        [
+          91,
+          0.27
+        ]
+      ]
+    },
+    {
+      "convert": "Đám người ngưng thần nhìn lại, chỉ gặp phôi sắt phía trên hiện ra đều đều rậm rạp đường vân, như nước chảy trùng điệp, hết sức xinh đẹp, không chút nào kém cỏi hơn Phương Cách sư huynh luyện.",
+      "dich": "Y có dự cảm lần này Viên Minh thực sự có khả năng thành công, chỉ có điều trong lòng y cũng thắc mắc, đó giờ mới chỉ có mấy ngày ngắn ngủi, Viên Minh sao lại tiến bộ lớn như vậy?",
+      "suggest": "Đám người ngưng thần nhìn lại, chỉ thấy khắp nơi trên phôi sắt đều có vân tay rất đẹp, như nước chảy trùng điệp, không chút kém cỏi Phương Cách sư huynh luyện.",
+      "similarity": [
+        [
+          92,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "\"Thành, thực thành .. \" Kỳ Kỳ Cách kinh hỉ kêu lên.",
+      "dich": "Viên Minh không biết, cũng không quan tâm những tâm tình khác nhau của mấy người này, toàn bộ tâm thần lúc này đều đặt lên việc rèn đúc, cánh tay hắn vung mạnh đến vù vù rung động, tiếng nện gõ theo đó liên tục vang lên.",
+      "suggest": "\"Thành, thực thành !\" Kỳ Kỳ Cách vui mừng kêu lên.",
+      "similarity": [
+        [
+          93,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "Lệ Nạp không khỏi giơ ngón tay cái lên.",
+      "dich": "Khi búa thứ một ngàn hạ xuống, Viên Minh rốt cuộc dừng động tác lại, đứng cạnh bệ đe chậm rãi thở dốc.",
+      "suggest": "Lệ Nạp không kìm được giơ ngón tay cái lên.",
+      "similarity": [
+        [
+          94,
+          0.27
+        ]
+      ]
+    },
+    {
+      "convert": "A Cổ Lạp đưa tay vuốt ve bản thân đầu trọc, một mặt khó có thể tin, nhưng lại không thể không tin thần sắc.",
+      "dich": "Phôi sắt trên đe vẫn đang lóe lên ánh sáng màu đỏ, theo thời gian từ từ hạ nhiệt đổi sắc cho tới khi hoàn toàn nguội đi.",
+      "suggest": "A Cổ Lạp đưa tay vuốt ve đầu trọc của mình, vẻ mặt khó có thể tin được, nhưng lại không thể không tin.",
+      "similarity": [
+        [
+          95,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "Ô Nhật thì là lại xích lại gần nhìn mấy lần, quay đầu lại hỏi nói: \"Viên Minh sư đệ, ngươi làm như thế nào?",
+      "dich": "Đám người tập trung tinh thần nhìn lại, chỉ thấy trên phôi sắt hiện ra những đường vân đều đặn tinh mịn, như nước chảy tầng tầng lớp lớp, vô cùng đẹp đẽ, không kém chút nào so với Phương Cách sư huynh luyện.",
+      "suggest": "Ô Nhật lại xích lại gần quan sát thêm mấy lần, quay đầu lại hỏi:",
+      "similarity": [
+        [
+          96,
+          0.2
+        ]
+      ]
+    },
+    {
+      "convert": "Ngươi mới nhập môn mấy ngày a?\"",
+      "dich": "\"Thành, thành thật rồi ...\" Kỳ Kỳ Cách kinh hỉ kêu lên.",
+      "suggest": "Ngươi mới nhập môn mấy ngày a?\"",
+      "similarity": [
+        [
+          12,
+          0.11
+        ],
+        [
+          97,
+          0.66
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn đã có chút hoài nghi nhân sinh.",
+      "dich": "Lệ Nạp không khỏi giơ ngón cái lên.",
+      "suggest": "Hắn đã có chút hoài nghi nhân sinh.",
+      "similarity": [
+        [
+          82,
+          0.11
+        ],
+        [
+          98,
+          0.86
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh cười cười, không có cho ra đáp án, ngược lại là bên cạnh Phương Cách, một mặt nghiêm túc nói ra: \"Dựa vào là từ đầu đến cuối không thay đổi sơ tâm, cùng một lấy quán này kiên trì.\"",
+      "dich": "A Cổ Lạp nhấc tay xoa xoa cái đầu trọc của mình, thần sắc vừa có vẻ khó tin, vừa có vẻ không thể không tin.",
+      "suggest": "Viên Minh cười cười, không đưa ra đáp án, trái lại quay sang Phương Cách bên cạnh, nghiêm túc nói: \"Dựa vào sự kiên trì từ đầu đến cuối, cùng với việc tập trung vào việc này.\"",
+      "similarity": [
+        [
+          99,
+          0.27
+        ]
+      ]
+    },
+    {
+      "convert": "\"Vẫn còn tập luyện Khu vật thuật phụ trợ.\"",
+      "dich": "Ô Nhật thì xích lại gần nhìn mấy lần, quay đầu qua hỏi: \"Viên Minh sư đệ, ngươi làm sao làm được vậy?",
+      "suggest": "\"Vẫn còn tập luyện Thuật Khu Vật.\"",
+      "similarity": [
+        [
+          100,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nghe vậy, vội vàng nói bổ sung.",
+      "dich": "Ngươi mới nhập môn có mấy ngày a?\"",
+      "suggest": "Viên Minh nghe vậy, vội vàng bổ sung.",
+      "similarity": [
+        [
+          55,
+          0.28
+        ],
+        [
+          60,
+          0.11
+        ],
+        [
+          101,
+          0.66
+        ]
+      ]
+    },
+    {
+      "convert": "Chính ở những người khác lao nhao lúc nói chuyện, Hỏa Phường ở bên trong bỗng nhiên truyền đến một hồi tiếng vang, la lên \"Tam động chủ\" thanh âm không ngừng truyền đến.",
+      "dich": "Gã đã có chút hoài nghi nhân sinh.",
+      "suggest": "Chính giữa những người khác đang lao nhao nói chuyện, bên trong Hỏa Phường bỗng nhiên truyền đến một tràng những tiếng vang lớn, những tiếng la lên \"Tam động chủ\" không ngừng truyền đến.",
+      "similarity": [
+        [
+          102,
+          0.26
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh mấy người cũng vội vàng đi ra chế tạo phòng, chợt liền thấy một bộ màu đỏ nhuyễn giáp Tam động chủ chính hướng bên này đi tới.",
+      "dich": "Viên Minh cười cười không đáp, trái lại Phương Cách ở bên cạnh nghiêm túc nói: \"Dựa vào sơ tâm thủy chung không đổi, cùng sự kiên trì nhất quán.\"",
+      "suggest": "Mấy người Viên Minh cũng vội vàng bước ra khỏi căn phòng, chợt thấy một tam động chủ màu đỏ đang đi tới.",
+      "similarity": [
+        [
+          103,
+          0.22
+        ]
+      ]
+    },
+    {
+      "convert": "Mấy người liền vội vàng hành lễ.",
+      "dich": "\"Còn có tập luyện Khu Vật thuật phụ trợ.\"",
+      "suggest": "Mấy người vội vàng hành lễ.",
+      "similarity": [
+        [
+          104,
+          1
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ trực tiếp đi vào Viên Minh trước người, trực tiếp hỏi: \"Hỏa Sàm Nhi đâu?\"",
+      "dich": "Viên Minh nghe thế, vội vàng bổ sung.",
+      "suggest": "Tam động chủ đi thẳng vào phòng, trực tiếp hỏi: \"Hỏa Sàm Nhi đâu?\"",
+      "similarity": [
+        [
+          105,
+          0.68
+        ]
+      ]
+    },
+    {
+      "convert": "\"Mới vừa rồi luyện phôi lúc, đưa nó thu nhập Linh Thú Đại.\"",
+      "dich": "Đúng vào lúc mấy người đang rôm rả trò chuyện, bên trong Hỏa phường bỗng có một một hồi thanh âm truyền tới, tiếng hô to \"Tam động chủ\" không ngừng vang lên.",
+      "suggest": "\"Mới vừa rồi lúc luyện phôi, nó đã thu nó trở thành Linh Thú Đại Thượng.\"",
+      "similarity": []
+    },
+    {
+      "convert": "Viên Minh trả lời.",
+      "dich": "Đám người Viên Minh cũng vội vàng ra khỏi phòng rèn đúc, bỗng thấy Tam động chủ vận một thân nhuyễn giáp đỏ lửa đang đi về phía này.",
+      "suggest": "Viên Minh trả lời.",
+      "similarity": [
+        [
+          3,
+          0.18
+        ],
+        [
+          7,
+          0.18
+        ],
+        [
+          9,
+          0.11
+        ],
+        [
+          15,
+          0.24
+        ],
+        [
+          30,
+          0.18
+        ],
+        [
+          38,
+          0.18
+        ],
+        [
+          44,
+          0.11
+        ],
+        [
+          45,
+          0.18
+        ],
+        [
+          55,
+          0.11
+        ],
+        [
+          107,
+          1
+        ],
+        [
+          129,
+          0.11
+        ],
+        [
+          131,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ đôi mi thanh tú nhẹ chau lại, nhìn về phía Phương Cách, mở miệng nói ra: \"Không phải đã thông báo, hắn không cần sàng lọc tài liệu luyện phôi, toàn tâm chiếu cố tốt Hỏa Sàm Nhi là được a?\"",
+      "dich": "Mấy người vội vàng hành lễ.",
+      "suggest": "Đôi mi thanh tú của tam động chủ nhíu lại, nhìn về phía Phương Cách, mở miệng nói: Không phải đã thông báo hắn không cần luyện phôi, toàn tâm chiếu cố Hỏa Sàm Nhi là được rồi.",
+      "similarity": [
+        [
+          108,
+          0.37
+        ]
+      ]
+    },
+    {
+      "convert": "Phương Cách thần sắc lập tức liền khẩn trương lên, há to miệng, trong lúc nhất thời không biết nên giải thích thế nào.",
+      "dich": "Tam động chủ đi thẳng tới trước người Viên Minh, trực tiếp hỏi: \"Hỏa Sàm Nhi đâu?\"",
+      "suggest": "Thần sắc Phương Cách lập tức khẩn trương lên, há to miệng, trong lúc nhất thời không biết nên giải thích như thế nào cho phải.",
+      "similarity": [
+        [
+          109,
+          0.53
+        ]
+      ]
+    },
+    {
+      "convert": "\"Chớ có trách cứ Phương Cách sư huynh, là đồ đệ bản thân muốn luyện phôi.\"",
+      "dich": "\"Vừa rồi khi rèn phôi, đệ tử thu nó vào trong túi linh thú.\"",
+      "suggest": "\"Chớ trách cứ Phương Cách sư huynh, đó là đồ đệ bản thân muốn luyện phôi.\"",
+      "similarity": [
+        [
+          110,
+          0.27
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh tranh thủ thời gian thế hắn giải vây.",
+      "dich": "Viên Minh trả lời.",
+      "suggest": "Viên Minh tranh thủ thời gian giải vây cho hắn.",
+      "similarity": [
+        [
+          111,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "\"Sư tôn, Viên sư đệ hắn ở luyện khí ...\"",
+      "dich": "Tam động chủ khẽ híp đôi mi thanh tú, nhìn về phía Phương Cách rồi chất vấn: \"Không phải đã thông báo, hắn không cần làm chuyện sàng liệu luyện phôi, toàn tâm chăm sóc tốt Hỏa Sàm Nhi là được sao?\"",
+      "suggest": "\"Sư tôn, Viên sư đệ hắn ở luyện khí ...\"",
+      "similarity": [
+        [
+          112,
+          0.5
+        ]
+      ]
+    },
+    {
+      "convert": "Phương Cách lời còn chưa nói hết, liền bị Tam động chủ ngắt lời: \"Ta chính là không muốn trói buộc Hỏa Sàm Nhi, không muốn đem nó vây ở Linh Thú Đại bên trong, mới đưa nó giao cho ngươi chiếu cố, ngươi sao có thể như thế lười biếng?\"",
+      "dich": "Thần sắc Phương Cách lập tức trở nên căng thẳng, miệng há to, trong lúc nhất thời không biết nên giải thích thế nào.",
+      "suggest": "Phương Cách còn chưa nói hết, tam động chủ đã ngắt lời: 'Ta không muốn trói buộc Hỏa Sàm Nhi, không muốn nó ở trong Linh Thú Đại, mới đưa nó cho ngươi chiếu cố, ngươi sao có thể lười biếng như thế?'",
+      "similarity": [
+        [
+          113,
+          0.43
+        ]
+      ]
+    },
+    {
+      "convert": "Chung quanh mấy người thấy thế, tất cả đều câm như hến, không dám phát ra nửa điểm tiếng vang.",
+      "dich": "\"Xin đừng trách Phương Cách sư huynh, là tự đệ tử muốn rèn phôi.\"",
+      "suggest": "Mấy người đứng xung quanh thấy thế, tất cả đều câm như hến, không dám phát ra nửa điểm tiếng động.",
+      "similarity": [
+        [
+          114,
+          0.32
+        ]
+      ]
+    },
+    {
+      "convert": "Phương Cách há hốc mồm, muốn thế Viên Minh nói tốt hơn lời nói, nhưng không chờ hắn mở miệng, Viên Minh nói chuyện trước.",
+      "dich": "Viên Minh vội lên tiếng giải vây cho y.",
+      "suggest": "Phương Cách há hốc mồm, muốn nhờ Viên Minh nói tốt hơn, nhưng không đợi hắn mở miệng, Viên Minh đã bắt đầu nói.",
+      "similarity": [
+        [
+          115,
+          0.37
+        ]
+      ]
+    },
+    {
+      "convert": "\"Là đồ đệ sai, ta sẽ đem Hỏa Sàm Nhi trả lại.\"",
+      "dich": "\"Sư tôn, Viên sư đệ hắn tại luyện khí ...\"",
+      "suggest": "\"Là đồ đệ sai, ta sẽ đem Hỏa Sàm Nhi trả lại.\"",
+      "similarity": [
+        [
+          116,
+          0.32
+        ]
+      ]
+    },
+    {
+      "convert": "Nói xong, Viên Minh vỗ bên hông Linh Thú Đại, một đạo hồng quang hiện lên, nhỏ Hỏa Chồn thân ảnh từ đó hiện ra, rơi xuống đất một nháy mắt, lập tức quay đầu, bò lên trên Viên Minh bả vai.",
+      "dich": "Phương Cách còn chưa nói hết lời, đã bị Tam động chủ cắt ngang: \"Chính vì ta không muốn trói buộc Hỏa Sàm Nhi, không muốn nhốt nó trong túi linh thú, mới giao nó cho ngươi trông nom, ngươi sao có thể lười biếng như vậy?\"",
+      "suggest": "Nói xong, Viên Minh vỗ vỗ Linh Thú bên hông, một đạo hồng quang hiện ra, thân ảnh Hỏa Chồn từ đó bay lên, rơi xuống mặt đất trong nháy mắt, lập tức quay đầu, nhảy lên bả vai Viên Minh.",
+      "similarity": [
+        [
+          118,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Nó thế mà không có chạy?",
+      "dich": "Mấy người xung quanh thấy vậy đều câm như hến, không dám động đậy chút nào.",
+      "suggest": "Nó thế mà không chạy chứ?",
+      "similarity": [
+        [
+          119,
+          0.28
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ thấy cảnh này, trong lúc nhất thời có chút ngây ngẩn cả người.",
+      "dich": "Phương Cách há hốc mồm, định nói đỡ cho Viên Minh mấy câu, nhưng không chờ y kịp mở miệng, Viên Minh đã lên tiếng trước:",
+      "suggest": "Tam động chủ thấy cảnh này, trong lúc nhất thời ngây ngẩn cả người.",
+      "similarity": [
+        [
+          109,
+          0.14
+        ],
+        [
+          120,
+          0.38
+        ]
+      ]
+    },
+    {
+      "convert": "Dựa theo Hỏa Sàm Nhi nước tiểu tính, thường ngày đưa nó quan trong Linh Thú Đại, nó xuất hiện chuyện thứ nhất không phải phát tiết bất mãn, chính là nổi điên đồng dạng đào tẩu, ra ngoài quậy một hồi, nơi nào sẽ giống như bây giờ?",
+      "dich": "\"Là đệ tử sai, ta sẽ trả Hỏa Sàm Nhi lại.\"",
+      "suggest": "Dựa theo nước tiểu của Hỏa Sàm Nhi, ngày nào cũng vậy, khi nó xuất hiện chuyện đầu tiên, chuyện đầu tiên nó xuất hiện không phải là nổi giận, mà là nổi điên chạy trốn, sau đó lại ra ngoài quậy một hồi, sao lại giống như bây giờ?",
+      "similarity": [
+        [
+          121,
+          0.24
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh thấy thế, thói quen từ trong Túi Trữ Vật lấy ra một viên Hỏa Tinh Thạch, đưa cho nó.",
+      "dich": "Nói xong, Viên Minh vỗ túi linh thú bên hông.",
+      "suggest": "Viên Minh thấy thế, liền lấy ra một viên Hỏa Tinh Thạch từ trong túi trữ vật đưa cho nó.",
+      "similarity": [
+        [
+          122,
+          0.48
+        ]
+      ]
+    },
+    {
+      "convert": "Hỏa Sàm Nhi hai cái tay nhỏ tiếp nhận tảng đá, ôm ở trong tay, \"Răng rắc răng rắc\" địa nhai.",
+      "dich": "Ngay tiếp đó, một quầng sáng đỏ hiện lên, thân ảnh chồn nhỏ từ trong đó hiện ra, vừa rớt xuống đất một cái liền lập tức quay đầu, leo lên đầu vai Viên Minh.",
+      "suggest": "Hỏa Sàm Nhi đưa hai tay nhỏ đón lấy tảng đá, ôm chặt trong tay, \"Răng rắc răng rắc\".",
+      "similarity": [
+        [
+          123,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh đưa nó từ trên bờ vai ôm xuống tới, hai tay dâng hướng phía Tam động chủ đưa tới.",
+      "dich": "Nó vậy mà không chạy đi?",
+      "suggest": "Viên Minh đưa nó từ trên vai xuống, hai tay dâng tới tam động chủ.",
+      "similarity": []
+    },
+    {
+      "convert": "Tam động chủ ánh mắt trên người Hỏa Sàm Nhi quét qua, lông mày lập tức nhăn sâu hơn, nghi hoặc hỏi: \"Những ngày qua, ngươi cực kỳ lượng cho nó ăn Hỏa Tinh Thạch rồi?\"",
+      "dich": "Tam động chủ thấy cảnh này xong, nhất thời sững người.",
+      "suggest": "Ánh mắt tam động chủ quét qua người Hỏa Sàm Nhi, hai hàng lông mày lập tức nhăn sâu hơn, nghi hoặc hỏi: \"Những ngày qua, ngươi đã cho nó ăn bao nhiêu Hỏa Tinh Thạch rồi?\"",
+      "similarity": [
+        [
+          124,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "\"Không đúng, ta đưa cho ngươi Hỏa Tinh Thạch cùng Hỏa Phác Ngọc là định lượng, cực kỳ lượng, hẳn là ăn không được hôm nay.\"",
+      "dich": "Dựa theo niệu tính của Hỏa Sàm Nhi, thường thường sau khi nhốt nó vào trong túi linh thú, khi thả nó ra, chuyện đầu tiên không phải là phát tiết bất mãn thì sẽ là nổi điên đào tẩu, ra ngoài quậy một trận đã đời, làm sao có chuyện giống như bây giờ?",
+      "suggest": "\"Không đúng, ta đưa cho ngươi Hỏa Tinh Thạch và Hỏa Phác Ngọc là định lượng, cực kỳ lớn, chắc chắn không thể thiếu ngày hôm nay.\"",
+      "similarity": [
+        [
+          126,
+          0.27
+        ]
+      ]
+    },
+    {
+      "convert": "Chỉ là sau khi nói qua, nàng lại tự mình lắc đầu nói.",
+      "dich": "Viên Minh thấy thế, theo thói quen lấy từ trong túi trữ vật ra một viên Hỏa tinh thạch, đưa cho nó.",
+      "suggest": "Chỉ là sau khi nói xong, nàng lại lắc đầu nói.",
+      "similarity": [
+        [
+          125,
+          0.49
+        ]
+      ]
+    },
+    {
+      "convert": "Hỏa Sàm Nhi vóc người biến hóa không lớn, có thể nàng rõ ràng cảm thấy, tiểu gia hỏa này tựa hồ trưởng thành chút?",
+      "dich": "Hỏa Sàm Nhi vươn hai cái tay nhỏ ra nhận viên tinh thạch, ôm trước ngực rồi gặm răng rắc.",
+      "suggest": "Thân hình Hỏa Sàm Nhi không lớn, nhưng nàng rõ ràng cảm giác được, tiểu tử này dường như trưởng thành hơn một chút?",
+      "similarity": [
+        [
+          127,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "(các đạo hữu, bốn canh tiếp tục cầu phiếu rồi ^)",
+      "dich": "Tam động chủ đưa tầm mắt quét trên người Hỏa Sàm Nhi, lông mày lập tức nhíu chặt, nghi hoặc hỏi: \"Nhưng ngày qua, ngươi cho nó ăn Hỏa tinh thạch quá định lượng sao?\"",
+      "suggest": "Các đạo hữu, bốn canh tiếp tục cầu phiếu.",
+      "similarity": []
+    },
+    {
+      "dich": "Có điều khi vừa nói xong, nàng lại lắc đầu tự nói."
+    },
+    {
+      "dich": "\"Không đúng, chỗ Hỏa tinh thạch và Hỏa Phác ngọc ta đưa cho ngươi là đúng định lượng, vượt định lượng thì hẳn là không đủ ăn tới hôm nay.\""
+    },
+    {
+      "dich": "Vóc dáng Hỏa Sàm Nhi không thay đổi gì mấy, nhưng nàng rõ ràng cảm thấy, tiểu gia hỏa này hình như dài hơn chút?"
+    },
+    {
+      "dich": "***Chú giải***"
+    },
+    {
+      "dich": "1."
+    },
+    {
+      "dich": "Nhất cỗ tác khí: Làm một lần hành động thật dứt khoát."
+    },
+    {
+      "dich": "2."
+    },
+    {
+      "dich": "Niệu tính: Niệu là nước tiểu, niệu tính là tính tình nóng nảy, dễ cáu bẳn, khó chịu."
+    }
+  ]
+}

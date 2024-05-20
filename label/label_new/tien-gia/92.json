@@ -1,0 +1,2343 @@
+{
+  "next": {
+    "id": 93,
+    "title": "Chương 93: A Mộc Hợp"
+  },
+  "previous": {
+    "id": 91,
+    "title": "Chương 91: Không chạy"
+  },
+  "title": {
+    "convert": "Chương 92",
+    "dich": "Chương 92"
+  },
+  "lines": [
+    {
+      "convert": "\"Đệ tử ghi nhớ Tam động chủ dạy bảo, quyết không dám quá lượng cho ăn.\"",
+      "dich": "\"Đệ tử ghi nhớ lời dạy của Tam động chủ, quyết không dám cho ăn quá định lượng.\"",
+      "suggest": "\"Đệ tử ghi nhớ lời tam động chủ dạy bảo, quyết không dám ăn nhiều quá mức.\"",
+      "similarity": [
+        [
+          0,
+          0.39
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh lắc lắc đầu nói ra, ngữ khí mười phần kiên định.",
+      "dich": "Viên Minh lắc đầu đáp với ngữ khí vô cùng chắc chắn.",
+      "suggest": "Viên Minh lắc lắc đầu nói, ngữ khí mười phần kiên định.",
+      "similarity": [
+        [
+          1,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Nói lấy, hắn lấy xuống bên hông treo khoác túi trữ vật, đưa cho Tam động chủ.",
+      "dich": "Nói xong, hắn lấy túi trữ vật treo bên hông xuống, đưa cho Tam động chủ.",
+      "suggest": "Nói xong, hắn lấy túi trữ vật bên hông đưa cho tam động chủ.",
+      "similarity": [
+        [
+          2,
+          0.5
+        ],
+        [
+          87,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Hậu giả mi mắt buông xuống, nhìn thoáng qua sau, cũng không có đi tiếp túi trữ vật, mà là mở miệng nói ra: \"Ngươi đi theo ta.\"",
+      "dich": "Tam động chủ sắc mặt dịu xuống, liếc mắt nhìn xong cũng không tiếp lấy túi trữ vật, chỉ mở miệng ra lệnh: \"Ngươi đi theo ta.\"",
+      "suggest": "Hậu giả rũ mi mắt xuống, nhìn thoáng qua một chút, cũng không tiếp tục đi tới cái túi, mà mở miệng nói: \"Ngươi đi theo ta.\"",
+      "similarity": [
+        [
+          3,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Nói xong, nàng liền quay người hướng hỏa phường ngoại đi đến.",
+      "dich": "Dứt lời, nàng liền quay người đi ra phía ngoài Hỏa phường.",
+      "suggest": "Nói xong, nàng liền quay người đi về phía phường thị phía Bắc.",
+      "similarity": [
+        [
+          4,
+          0.36
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh một chút chần chờ, đành phải cùng Phương Cách ôm quyền, quay người bước nhanh đi theo.",
+      "dich": "Viên Minh thoáng chần chừ, cuối cùng đánh ôm quyền cáo từ Phương Cách, đoạn quay người bước nhanh đi theo.",
+      "suggest": "Viên Minh hơi do dự, đành phải ôm quyền thi lễ, quay người bước đi.",
+      "similarity": []
+    },
+    {
+      "convert": "Đợi đến bọn hắn đi xa, cái khác đệ tử đối mặt nhìn nhau hạ, nhịn không được thấp giọng xì xào bàn tán.",
+      "dich": "Đợi tới khi bọn hắn đã đi xa, những đệ tử khác mới đưa mắt nhìn nhau, nhịn không được xì xào bàn tán.",
+      "suggest": "Đợi sau khi bọn hắn đi xa, những đệ tử khác nhìn nhau, không nhịn được thấp giọng xì xào bàn tán.",
+      "similarity": [
+        [
+          6,
+          0.46
+        ]
+      ]
+    },
+    {
+      "convert": "\"Đều như vậy nhàn rỗi lời, hôm nay làm gấp bội, thế nào?\"",
+      "dich": "\"Cứ như thế không hả, hôm nay làm việc gấp đôi, có ý kiến gì không?\"",
+      "suggest": "'Đều là người nhàn rỗi, hôm nay làm gấp đôi đi, thế nào?'",
+      "similarity": [
+        [
+          7,
+          0.15
+        ]
+      ]
+    },
+    {
+      "convert": "Phương Cách sắc mặt một trầm, quát tháo.",
+      "dich": "Phương Cách sầm mặt lại, quát lớn.",
+      "suggest": "Sắc mặt Phương Cách âm trầm, quát tháo.",
+      "similarity": [
+        [
+          8,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Mọi người nghe vậy, nhất thời giải tán lập tức.",
+      "dich": "Cả đám nghe vậy liền lập tức giải tán.",
+      "suggest": "Mọi người nghe vậy, lập tức giải tán.",
+      "similarity": [
+        [
+          9,
+          0.45
+        ],
+        [
+          43,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh trên vai ngồi xuống Hỏa Sàm Nhi, cùng theo Tam động chủ ly khai hỏa phường, hướng hậu sơn phương hướng đi đến.",
+      "dich": "Viên Minh mang theo Hỏa Sàm Nhi trên vai, đi theo Tam động chủ ra rời khỏi Hỏa phường, đi đến phía hậu sơn.",
+      "suggest": "Viên Minh đang ngồi xuống Hỏa Sàm Nhi, cùng Tam động chủ rời khỏi phường lửa, đi về phía hậu sơn.",
+      "similarity": [
+        [
+          10,
+          0.2
+        ]
+      ]
+    },
+    {
+      "convert": "\"Hỏa Sàm Nhi ưa thích đi theo bên cạnh ngươi, phải hay không có cái gì đặc biệt nguyên nhân?\"",
+      "dich": "\"Hỏa Sàm Nhi thích đi theo bên cạnh ngươi, có phải là có nguyên nhân đặc biệt gì không?\"",
+      "suggest": "\"Hỏa Sàm Nhi ưa thích đi theo bên cạnh ngươi phải không?\"",
+      "similarity": [
+        [
+          11,
+          0.37
+        ],
+        [
+          77,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ truy vấn.",
+      "dich": "Tam động chủ hỏi.",
+      "suggest": "Tam động chủ lại hỏi.",
+      "similarity": [
+        [
+          12,
+          0.41
+        ],
+        [
+          21,
+          0.1
+        ],
+        [
+          26,
+          0.41
+        ],
+        [
+          29,
+          0.12
+        ],
+        [
+          32,
+          0.35
+        ],
+        [
+          43,
+          0.11
+        ],
+        [
+          47,
+          0.32
+        ],
+        [
+          55,
+          0.32
+        ],
+        [
+          56,
+          0.22
+        ],
+        [
+          58,
+          0.11
+        ],
+        [
+          70,
+          0.35
+        ],
+        [
+          72,
+          0.16
+        ],
+        [
+          78,
+          0.26
+        ],
+        [
+          83,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "\"Có thể là chúng ta hợp ý a, ta cũng ưa thích Hỏa Sàm Nhi.\"",
+      "dich": "\"Có thể là vì chúng ta hợp ý chăng, ta cũng thích Hỏa Sàm Nhi.\"",
+      "suggest": "\"Có lẽ là chúng ta không hợp ý rồi, ta cũng rất thích Hỏa Sàm Nhi.\"",
+      "similarity": [
+        [
+          13,
+          0.38
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nhìn thoáng qua bả vai thượng tiểu tham ăn, nói ra.",
+      "dich": "Viên Minh liếc mắt nhìn tiểu ăn hàng trên bờ vai rồi đáp.",
+      "suggest": "Viên Minh nhìn thoáng qua bả vai đang chảy đầy thức ăn, nói.",
+      "similarity": []
+    },
+    {
+      "convert": "Hắn kỳ thực có qua suy đoán, cảm thấy rằng hẳn là cùng thần bí lư hương hoặc là Minh Nguyệt Quyết có liên quan.",
+      "dich": "Hắn kỳ thực đã từng suy đoán, luôn cảm thấy việc này hẳn là có liên quan tới Minh Nguyệt quyết hoặc là lư hương thần bí.",
+      "suggest": "Kỳ thật hắn có suy đoán, cảm giác được hẳn là có liên quan đến lư hương thần bí hoặc Minh Nguyệt Quyết.",
+      "similarity": [
+        [
+          15,
+          0.27
+        ]
+      ]
+    },
+    {
+      "convert": "Bởi vì mỗi lần hắn ôm lấy lư hương tu luyện Minh Nguyệt Quyết thời điểm, kia tiểu gia hỏa tổng có thể lạ thường an tĩnh, còn ưa thích tựa sát ở bên cạnh hắn.",
+      "dich": "Nguyên do là bởi, mỗi lần khi hắn ôm lư hương tu luyện Minh Nguyệt quyết, tiểu gia hỏa kia luôn yên tĩnh lạ thường, hơn nữa còn thích dựa sát vào người hắn.",
+      "suggest": "Bởi vì mỗi khi hắn ôm lư hương tu luyện Minh Nguyệt Quyết, tiểu tử kia lại có cảm giác vô cùng yên tĩnh, còn ưa thích dựa sát vào người hắn hơn.",
+      "similarity": [
+        [
+          16,
+          0.38
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ nghe vậy, chếch đầu nhìn thoáng qua Viên Minh, lại nhìn một chút kia đầu vai Hỏa Sàm Nhi, theo sau thu hồi mục quang, nhìn không ra hỉ nộ biến hóa.",
+      "dich": "\"Được rồi, mặc kệ là vì nguyên nhân gì, nửa tháng qua ngươi đã trông nom nó rất tốt, ta rất hài lòng.\"",
+      "suggest": "Tam động chủ nghe vậy, quay đầu nhìn thoáng qua Viên Minh, lại nhìn Hỏa Sàm Nhi trên đầu vai mình, sau đó thu hồi ánh mắt, nhìn không ra biến hóa hỉ nộ.",
+      "similarity": [
+        [
+          10,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "\"Mà thôi, không quản bởi vì sao nguyên nhân, này nửa tháng đến nay, ngươi đem nó chiếu cố rất khá, ta rất hài lòng.\"",
+      "dich": "\"Đây là bổn phận của đệ tử.\"",
+      "suggest": "\"Không quản vì sao, nửa tháng qua, ngươi chiếu cố nó rất tốt, ta rất hài lòng.\"",
+      "similarity": [
+        [
+          17,
+          0.42
+        ]
+      ]
+    },
+    {
+      "convert": "\"Là đệ tử trách nhiệm chi sự.\"",
+      "dich": "Viên Minh khiêm tốn đáp.",
+      "suggest": "\"Là trách nhiệm của đệ tử.\"",
+      "similarity": [
+        [
+          18,
+          0.41
+        ],
+        [
+          20,
+          0.11
+        ],
+        [
+          27,
+          0.11
+        ],
+        [
+          56,
+          0.11
+        ],
+        [
+          59,
+          0.11
+        ],
+        [
+          63,
+          0.11
+        ],
+        [
+          75,
+          0.1
+        ],
+        [
+          77,
+          0.11
+        ],
+        [
+          89,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh đáp ứng.",
+      "dich": "\"Đưa lệnh bài cho ta.\"",
+      "suggest": "Viên Minh đồng ý.",
+      "similarity": [
+        [
+          12,
+          0.11
+        ],
+        [
+          19,
+          0.18
+        ],
+        [
+          26,
+          0.11
+        ],
+        [
+          32,
+          0.11
+        ],
+        [
+          60,
+          0.24
+        ],
+        [
+          64,
+          0.28
+        ],
+        [
+          70,
+          0.11
+        ],
+        [
+          72,
+          0.18
+        ],
+        [
+          75,
+          0.12
+        ],
+        [
+          81,
+          0.18
+        ],
+        [
+          89,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"Yêu bài cho ta.\"",
+      "dich": "Tam động chủ tới trước một sườn núi nhỏ thì dừng bước lại rồi nói.",
+      "suggest": "\"Yêu bài cho ta.\"",
+      "similarity": [
+        [
+          20,
+          0.54
+        ],
+        [
+          27,
+          0.11
+        ],
+        [
+          56,
+          0.12
+        ],
+        [
+          59,
+          0.12
+        ],
+        [
+          63,
+          0.15
+        ],
+        [
+          75,
+          0.17
+        ],
+        [
+          77,
+          0.15
+        ],
+        [
+          89,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ tại một chỗ sườn núi nhỏ trước dừng bước lại, nói ra.",
+      "dich": "Viên Minh nghe thế, lập tức gỡ yêu bài của mình xuống, hai tay dâng lên.",
+      "suggest": "Tam động chủ đứng trước một sườn núi nhỏ, chậm rãi nói.",
+      "similarity": [
+        [
+          21,
+          0.34
+        ],
+        [
+          29,
+          0.12
+        ],
+        [
+          43,
+          0.11
+        ],
+        [
+          56,
+          0.1
+        ],
+        [
+          83,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nghe vậy, lập tức đem chính mình yêu bài lấy tới dưới, song thủ dâng lên.",
+      "dich": "Tam động chủ lật cổ tay một cái, trong lòng bàn tay cũng có thêm một tấm lệnh bài bằng ngọc được điêu khắc tinh xảo, đoạn đập nhẹ nó vào lệnh bài của Viên Minh.",
+      "suggest": "Viên Minh nghe vậy, lập tức lấy ra yêu bài của mình, hai tay dâng lên.",
+      "similarity": [
+        [
+          22,
+          0.51
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ thì cổ tay một chuyển, chưởng tâm trung cũng nhiều xuất ra một mai tinh xảo chạm ngọc lệnh bài, cùng Viên Minh lệnh bài nhẹ nhàng một đập.",
+      "dich": "\"Ba mươi điểm cống hiến ta đáp ứng cho ngươi đã được nhập đủ vào trong lệnh bài.",
+      "suggest": "Cổ tay tam động chủ lại chuyển động, trong tay cũng xuất hiện một trương ngọc bài tinh xảo chạm vào ngọc bài, vỗ mạnh về phía Viên Minh.",
+      "similarity": []
+    },
+    {
+      "convert": "\"Đáp ứng cấp ngươi ba mươi điểm điểm cống hiến, đã đủ số tồn nhập ngươi yêu bài.",
+      "dich": "Dựa theo ước định của chúng ta lúc trước, ta còn có thể truyền thụ cho ngươi một môn thuật pháp, ngươi đã nghĩ kỹ muốn học gì chưa?\"",
+      "suggest": "\"Đáp ứng cấp cho ngươi ba mươi điểm cống hiến, đã đủ số tồn tại trong Yêu bài của ngươi.",
+      "similarity": [
+        [
+          24,
+          0.15
+        ]
+      ]
+    },
+    {
+      "convert": "Dựa theo chúng ta lúc trước ước định, ta còn có thể truyền thụ cho ngươi một môn thuật pháp, ngươi còn có nghĩ kỹ học cái gì?\"",
+      "dich": "Tam động chủ hỏi.",
+      "suggest": "Dựa theo ước định lúc trước, ta có thể truyền thụ cho ngươi một môn thuật pháp, ngươi có nghĩ sẽ học không?\"",
+      "similarity": [
+        [
+          25,
+          0.51
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ truy vấn.",
+      "dich": "\"Ta muốn học Ngự Thú thuật.\"",
+      "suggest": "Tam động chủ lại hỏi.",
+      "similarity": [
+        [
+          12,
+          0.41
+        ],
+        [
+          21,
+          0.1
+        ],
+        [
+          26,
+          0.41
+        ],
+        [
+          29,
+          0.12
+        ],
+        [
+          32,
+          0.35
+        ],
+        [
+          43,
+          0.11
+        ],
+        [
+          47,
+          0.32
+        ],
+        [
+          55,
+          0.32
+        ],
+        [
+          56,
+          0.22
+        ],
+        [
+          58,
+          0.11
+        ],
+        [
+          70,
+          0.35
+        ],
+        [
+          72,
+          0.16
+        ],
+        [
+          78,
+          0.26
+        ],
+        [
+          83,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ta muốn học tập Ngự Thú Thuật.\"",
+      "dich": "Viên Minh lập tức đáp giống như đã chuẩn bị sẵn từ trước.",
+      "suggest": "\"Ta muốn học Ngự Thú Thuật.\"",
+      "similarity": [
+        [
+          20,
+          0.11
+        ],
+        [
+          27,
+          0.66
+        ],
+        [
+          56,
+          0.11
+        ],
+        [
+          59,
+          0.11
+        ],
+        [
+          63,
+          0.11
+        ],
+        [
+          75,
+          0.1
+        ],
+        [
+          77,
+          0.11
+        ],
+        [
+          89,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh như là sớm có chuẩn bị, lập tức đáp lấy.",
+      "dich": "Nghe lời đáp này, Tam động chủ không khỏi nhíu mày.",
+      "suggest": "Viên Minh đã chuẩn bị từ trước, lập tức đồng ý.",
+      "similarity": [
+        [
+          28,
+          0.18
+        ],
+        [
+          43,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Nghe được cái này đáp án, Tam động chủ không khỏi xoắn lên chân mày.",
+      "dich": "\"Ngự Thú thuật là bản lĩnh giữ nhà của Bích La Động chúng ta, ngoại trừ Ngự Thú đường sở trường về mặt này, đệ tử các đường khác muốn học cũng chỉ cần có trưởng lão đề cử, sau trả một số điểm cống hiến nhất định là có thể tới Ngự Thú đường học tập.",
+      "suggest": "Nghe được đáp án như vậy, tam động chủ không khỏi nhíu mày.",
+      "similarity": [
+        [
+          29,
+          0.44
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ngự Thú Thuật là chúng ta Bích La Động giữ nhà bản lĩnh, trừ Ngự Thú Đường chuyên môn bên ngoài, cái khác đường đệ tử ham muốn học tập, chỉ cần trưởng lão tiến cử, tịnh trả giá nhất định điểm cống hiến, liền có thể đi Ngự Thú Đường đi theo học tập.",
+      "dich": "Ngươi chớ lãng phí cơ hội lần này\"",
+      "suggest": "\"Ngự Thú Thuật là bản lĩnh của Bích La động chúng ta, ngoại trừ Ngự Thú Đường chuyên môn, những đệ tử khác muốn học, chỉ cần trưởng lão tiến cử, trả một giá nhất định, là có thể đến Ngự Thú đường học tập.",
+      "similarity": [
+        [
+          30,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "Ngươi không nên không công lãng phí cơ hội lần này.\"",
+      "dich": "Tam động chủ nói.",
+      "suggest": "Ngươi không nên lãng phí cơ hội lần này.\"",
+      "similarity": [
+        [
+          31,
+          0.51
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ nói ra.",
+      "dich": "Ý của nàng là, muốn có cơ hội học tập Ngự Thú thuật không khó, còn những thuật pháp khác lại không như vậy.",
+      "suggest": "Tam động chủ nói.",
+      "similarity": [
+        [
+          12,
+          0.43
+        ],
+        [
+          21,
+          0.11
+        ],
+        [
+          26,
+          0.43
+        ],
+        [
+          29,
+          0.12
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          43,
+          0.11
+        ],
+        [
+          47,
+          0.32
+        ],
+        [
+          55,
+          0.32
+        ],
+        [
+          56,
+          0.22
+        ],
+        [
+          60,
+          0.11
+        ],
+        [
+          64,
+          0.12
+        ],
+        [
+          67,
+          0.11
+        ],
+        [
+          70,
+          1
+        ],
+        [
+          75,
+          0.12
+        ],
+        [
+          78,
+          0.26
+        ],
+        [
+          81,
+          0.16
+        ],
+        [
+          83,
+          0.19
+        ],
+        [
+          89,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Nàng ngụ ý là, học tập Ngự Thú Thuật cơ hội rất dễ dàng liền có, cái khác thuật pháp có thể lại bất đồng.",
+      "dich": "Viên Minh cũng biết, các trưởng lão nội môn bản thân đều có tư tàng pháp thuật mà không bỏ vào Quy Tàng các.",
+      "suggest": "Nàng ngụ ý là, học Ngự Thú Thuật rất dễ dàng, những thuật pháp khác không thể giống nhau được.",
+      "similarity": [
+        [
+          33,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh cũng biết, từng cái nội môn trưởng lão tự mình đều có tư tàng thuật pháp, không lại tồn nhập Quy Tàng Các, là thông qua tự học không khả năng học được đấy, mà Tam động chủ chủng này cấp bậc tu sĩ tự nhiên cũng có.",
+      "dich": "Những thuật pháp này là thứ không thể có được thông qua cách tự học, và hiển nhiên, tu sĩ cấp bậc cao như Tam động cũng sẽ có.",
+      "suggest": "Viên Minh cũng biết, mỗi vị trưởng lão nội môn đều có thuật pháp tư tàng, nếu không thể xuất hiện trong Quy Tàng Các, là không có khả năng học được, mà tam động chủ tự nhiên cũng có.",
+      "similarity": [
+        [
+          34,
+          0.15
+        ]
+      ]
+    },
+    {
+      "convert": "Có thể trước mắt, Viên Minh muốn nhất học tựu là Ngự Thú Thuật, đây cũng khăng khăng là hắn tại Ngự Thú Đường học không đến đấy.",
+      "dich": "Nhưng hiện tại, thứ Viên Minh muốn học nhất chính là Ngự Thú thuật, chỉ có điều hắn mãi không thể học được từ Ngự Thú đường.",
+      "suggest": "Nhưng cái hắn muốn học trước mắt là Thuật Ngự Thú, cái này cũng khăng khăng hắn không đến Ngự Thú Đường để học.",
+      "similarity": []
+    },
+    {
+      "convert": "Chỉ dựa vào Quy Tàng Các trong tàng thư, chỉ có thể học tập một chút nuôi dưỡng cùng phân biệt rõ phương diện tri thức, mà Ngự Thú Thuật trung mấu chốt nhất, trọng yếu nhất nội dung đồng dạng cũng là học không đến đấy.",
+      "dich": "Nếu dựa vào thư tịch trong Quy Tàng các, hắn chỉ có thể học tập một ít tri thức về phương diện phân biệt và chăn nuôi, còn những nội dung mấu chốt, quan trọng nhất của Ngự Thú thuật lại không không học được.",
+      "suggest": "Chỉ dựa vào quyển Quy Tàng Các trong túi xách, chỉ có thể học một chút ít tri thức nuôi dưỡng và phân biệt rõ phương diện, mà trong Ngự Thú Thuật, nội dung chủ yếu nhất cũng không thể học đến mức này.",
+      "similarity": [
+        [
+          37,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Mà Viên Minh sở dĩ muốn học tập Ngự Thú Thuật, kỳ thực là là vì ngày sau phản hồi Trung Nguyên làm chuẩn bị.",
+      "dich": "Viên Minh sở dĩ muốn học Ngự Thú thuật, kỳ thật là để chuẩn bị cho việc trở về Trung Nguyên sau này.",
+      "suggest": "Mà sở dĩ Viên Minh muốn học Ngự Thú Thuật, kỳ thật là vì muốn chuẩn bị cho một cuộc phản hồi về Trung Nguyên sau.",
+      "similarity": [
+        [
+          36,
+          0.1
+        ],
+        [
+          38,
+          0.32
+        ]
+      ]
+    },
+    {
+      "convert": "Đường về vạn dặm, hắn không khả năng bằng vào chính mình hai cái chân chạy về đi, cho nên nắm vững Ngự Thú Thuật là thiết yếu kỹ năng một trong.",
+      "dich": "Đường về vạn dặm, hắn không thể chỉ dựa vào hai cái đùi để đi đường, vậy nên nắm giữ Ngự Thú thuật chính là một trong kỹ năng phải có.",
+      "suggest": "Đường về vạn dặm, hắn không thể bằng vào hai cái chân chạy một mạch, cho nên việc nắm vững thuật Ngự Thú là một kỹ năng rất thiết yếu.",
+      "similarity": [
+        [
+          39,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "\"Tam động chủ, ngài ý tứ đệ tử minh bạch, bất quá ta vẫn là ham muốn cùng ngài học tập Ngự Thú Thuật.\"",
+      "dich": "\"Tam động chủ, đệ tử hiểu rõ ý của người, nhưng ta vẫn muốn học tập Ngự Thú thuật từ người.\"",
+      "suggest": "\"Tam động chủ, đệ tử ý tứ minh bạch, nhưng ta vẫn muốn cùng ngài học Ngự Thú Thuật.\"",
+      "similarity": [
+        [
+          0,
+          0.13
+        ],
+        [
+          40,
+          0.41
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh không có làm giải thích, chỉ là rõ ràng thẳng thắn biểu đạt chính mình nhu cầu.",
+      "dich": "Viên Minh không giải thích, chỉ nói rõ ràng thẳng thắn nhu cầu của mình.",
+      "suggest": "Viên Minh không giải thích thêm, chỉ là thẳng thắn bày tỏ nhu cầu của mình.",
+      "similarity": [
+        [
+          41,
+          0.46
+        ]
+      ]
+    },
+    {
+      "convert": "\"Đã như vậy, ta liền dạy ngươi Ngự Thú Thuật.\"",
+      "dich": "\"Nếu đã vậy, ta sẽ dạy ngươi Ngự Thú thuật.\"",
+      "suggest": "\"Nếu đã như vậy, ta sẽ dạy cho ngươi Ngự Thú Thuật.\"",
+      "similarity": [
+        [
+          42,
+          0.41
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ vốn chính là lạnh lẽo tính tình, liền không muốn hỏi nhiều.",
+      "dich": "Tam động chủ vốn tính lạnh lùng, lập tức không hỏi thêm nữa.",
+      "suggest": "Tam động chủ vốn lạnh lùng, nhưng cũng không muốn hỏi nhiều.",
+      "similarity": [
+        [
+          29,
+          0.13
+        ],
+        [
+          43,
+          0.26
+        ],
+        [
+          56,
+          0.1
+        ],
+        [
+          65,
+          0.11
+        ],
+        [
+          83,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Nói xong, cổ tay nàng một chuyển, chưởng tâm trung nhiều ra một mai bạch sắc cốt giản.",
+      "dich": "Dứt lời, nàng xoay cổ tay, trong lòng bàn tay liền có thêm một tấm cốt giản màu trắng.",
+      "suggest": "Nói xong, cổ tay nàng khẽ chuyển động, trong tay bỗng nhiên xuất hiện một đoạn cốt giản màu trắng.",
+      "similarity": [
+        [
+          44,
+          0.22
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ngự Thú Thuật hạch tâm tại thuần thú, chính bằng vào người ý chí ma luyện linh thú ý chí, dùng chính mình ý niệm áp đảo linh thú dã tính, khiến cho thuần phục.",
+      "dich": "\"Cốt lõi của Ngự Thú thuật là thuần thú, tức bằng vào ý chí con người ma luyện ý chí linh thú, dùng ý niệm của mình áp đảo dã tính của linh thú, khiến nó thuần phục.",
+      "suggest": "\"Ngự Thú Thuật là hạch tâm của thuần thú, là ý chí ma luyện linh thú, dùng ý chí của mình áp đảo dã tính của linh thú, khiến cho thuần phục.",
+      "similarity": [
+        [
+          45,
+          0.43
+        ]
+      ]
+    },
+    {
+      "convert": "Sau đó, lại lấy đặc thù thủ đoạn, đem ngự thú phù văn khắc sâu tại linh thú thức hải.\"",
+      "dich": "Kế đó lại lấy thủ đoạn đặc thù, lạc ấn phù văn ngự thú tại thức hải của linh thú.\"",
+      "suggest": "Sau đó, lại dùng thủ đoạn đặc thù, khắc sâu ngự thú phù văn vào trong thức hải của Linh thú.\"",
+      "similarity": [
+        [
+          46,
+          0.27
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ nói như thế.",
+      "dich": "Tam động chủ giảng giải.",
+      "suggest": "Tam động chủ nói.",
+      "similarity": [
+        [
+          12,
+          0.43
+        ],
+        [
+          21,
+          0.11
+        ],
+        [
+          26,
+          0.43
+        ],
+        [
+          29,
+          0.12
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          43,
+          0.11
+        ],
+        [
+          47,
+          0.32
+        ],
+        [
+          55,
+          0.32
+        ],
+        [
+          56,
+          0.22
+        ],
+        [
+          60,
+          0.11
+        ],
+        [
+          64,
+          0.12
+        ],
+        [
+          67,
+          0.11
+        ],
+        [
+          70,
+          1
+        ],
+        [
+          75,
+          0.12
+        ],
+        [
+          78,
+          0.26
+        ],
+        [
+          81,
+          0.16
+        ],
+        [
+          83,
+          0.19
+        ],
+        [
+          89,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Những thứ này cơ bản tri thức, Viên Minh trước đó tại Quy Tàng Các đã hiểu rõ qua rồi.",
+      "dich": "Những kiến thức cơ bản này Viên Minh đã từng đọc trong Quy Tàng các.",
+      "suggest": "Những tri thức cơ bản này, Viên Minh trước đó đã biết hết, nhưng hắn cũng chưa từng biết qua ở Quy Tàng Các.",
+      "similarity": [
+        [
+          48,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Bị gieo lên ngự thú phù văn linh thú, giống như là bị thi hành nhất tầng thần phục huyễn thuật, trừ đi khắc sâu phù văn chi nhân ngoại, nắm vững ngự thú phù thạch chi nhân, cũng có thể thông qua phù thạch cùng ngự thú phù văn chính giữa cảm ứng liên hệ, thao khống linh thú.",
+      "dich": "Linh thú bị cấy phù văn ngự thú vào, sẽ như trúng một tầng huyễn thuật thần phục, ngoài người lạc ấn phù văn, người nắm giữ phù thạch ngự thú cũng có thể thông qua mối liên kết giữa phù thạch và phù văn ngự thú để điều điều khiển linh thú.",
+      "suggest": "Linh thú ngự thú phù văn giống như đang thi hành một tầng thần phục huyễn thuật, ngoại trừ có khắc sâu phù văn bên ngoài, còn có thể thông qua phù thạch và ngự thú phù văn cảm ứng liên hệ với nhau, thao túng linh thú.",
+      "similarity": [
+        [
+          49,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Bích La Động trong, trừ đi Ngự Thú Đường đại bộ phận đệ tử đều có được tự mình thuần hóa linh thú ngoại, kia các đệ tử linh thú, hơn phân nửa đều là ra ngoài làm nhiệm vụ lúc, tốn hao điểm cống hiến lâm thời đi Ngự Thú Đường thuê mướn đấy.",
+      "dich": "Trong Bích La Động, ngoài đại bộ phận đệ tử Ngự Thú đường có linh thú đã thuần hóa của riêng mình, linh thú của các đệ tử khác khi đi ra ngoài làm nhiệm vụ, có quá nửa là tốn điểm cống hiến đi thuê từ Ngự Thú đường.",
+      "suggest": "Trong Bích La động, ngoại trừ những đệ tử có Linh thú tự mình thuần hóa ra thì phần lớn đều là những đệ tử Linh thú do Ngự Thú Đường tự mình thuần hóa, hơn phân nửa đều là ra ngoài làm nhiệm vụ, tốn hao điểm cống hiến lâm thời để Ngự Thú Đường thuê mướn.",
+      "similarity": [
+        [
+          50,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Mà Thanh Phù Đường phụ trách linh thú mua bán cùng thuê mướn, cũng là Bích La Động hạng nhất trọng yếu thu nhập nguồn gốc",
+      "dich": "Cũng bởi vậy, Thanh Phù đường phụ trách bán và cho thuê linh thú mới trở thành một trong những nguồn thu quan trọng của Bích La Động.",
+      "suggest": "Mà Thanh Phù Đường phụ trách mua bán Linh thú và thuê mướn, cũng là nguồn thu nhập chủ yếu của Bích La Động",
+      "similarity": [
+        [
+          51,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ta cấp ngươi cốt giản trung, kỹ càng ghi lại thế nào áp chế hung thú thú hồn, cùng với thế nào ngưng luyện ngự thú phù văn, cùng với thế nào luyện chế ngự thú phù thạch.",
+      "dich": "\"Trong cốt giản ta cho ngươi có ghi chép kỹ càng làm thế nào để áp chế thú hồn hung thú, cô đọng phù văn ngự thú và luyện chế phù thạch ngự thú.",
+      "suggest": "\"Ta ghi chép trong đầu ngươi thật chi tiết, kỹ càng ghi chép các loại hung thú, cũng như thế nào là ngưng luyện ngự thú phù văn, cùng với thế nào là luyện chế ngự thú phù thạch.",
+      "similarity": []
+    },
+    {
+      "convert": "Ngươi trước mang trở về hảo hảo tham tường, sau đó nếu có nghi vấn, có thể tới hậu sơn tìm ta, ta sẽ chỉ đạo ngươi ba lần.",
+      "dich": "Ngươi trước cầm về nghiên cứu cẩn thận, sau nếu có thắc mắc thì có thể đến hậu sơn tìm ta, ta sẽ giải đáp giúp ngươi ba lần.",
+      "suggest": "Trước tiên ngươi hãy đem những thứ này về tự an bài, sau đó nếu có nghi vấn, có thể tới hậu sơn tìm ta, ta sẽ chỉ đạo ba lần.",
+      "similarity": [
+        [
+          53,
+          0.25
+        ]
+      ]
+    },
+    {
+      "convert": "Ba lần sau đó, nếu như ngươi còn vô pháp nắm vững, chính là tư chất ngươi chưa đủ, khả dĩ buông tha rồi.\"",
+      "dich": "Hết ba lần mà người vẫn không thể nắm vững, đó là do tư chất ngươi không đủ, nên từ bỏ.\"",
+      "suggest": "Ba lần sau, nếu ngươi vẫn không cách nào nắm giữ được, chính là tư chất của ngươi chưa đủ, không thể buông tha.\"",
+      "similarity": []
+    },
+    {
+      "convert": "Tam động chủ nói ra.",
+      "dich": "Tam động chủ căn dặn.",
+      "suggest": "Tam động chủ nói.",
+      "similarity": [
+        [
+          12,
+          0.43
+        ],
+        [
+          21,
+          0.11
+        ],
+        [
+          26,
+          0.43
+        ],
+        [
+          29,
+          0.12
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          43,
+          0.11
+        ],
+        [
+          47,
+          0.32
+        ],
+        [
+          55,
+          0.32
+        ],
+        [
+          56,
+          0.22
+        ],
+        [
+          60,
+          0.11
+        ],
+        [
+          64,
+          0.12
+        ],
+        [
+          67,
+          0.11
+        ],
+        [
+          70,
+          1
+        ],
+        [
+          75,
+          0.12
+        ],
+        [
+          78,
+          0.26
+        ],
+        [
+          81,
+          0.16
+        ],
+        [
+          83,
+          0.19
+        ],
+        [
+          89,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"Đa tạ Tam động chủ.\"",
+      "dich": "\"Đa tạ Tam động chủ.\"",
+      "suggest": "\"Đa tạ Tam động chủ.\"",
+      "similarity": [
+        [
+          2,
+          0.13
+        ],
+        [
+          12,
+          0.23
+        ],
+        [
+          20,
+          0.12
+        ],
+        [
+          26,
+          0.23
+        ],
+        [
+          27,
+          0.11
+        ],
+        [
+          29,
+          0.12
+        ],
+        [
+          32,
+          0.23
+        ],
+        [
+          43,
+          0.11
+        ],
+        [
+          47,
+          0.23
+        ],
+        [
+          55,
+          0.23
+        ],
+        [
+          56,
+          1
+        ],
+        [
+          59,
+          0.12
+        ],
+        [
+          63,
+          0.13
+        ],
+        [
+          70,
+          0.23
+        ],
+        [
+          75,
+          0.13
+        ],
+        [
+          77,
+          0.13
+        ],
+        [
+          78,
+          0.23
+        ],
+        [
+          83,
+          0.19
+        ],
+        [
+          89,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh ngoài miệng nói tạ, trong lòng lại đối chính mình rất có tự tin, dù sao hắn thần hồn chi lực mạnh hơn phổ thông đệ tử, này liền tại áp chế thú hồn một chuyện thượng, có được tiên thiên ưu thế.",
+      "dich": "Viên Minh ngoài miệng nói đa tạ, nhưng trong lòng lại khá tự tin vào bản thân, dù sao lực lượng thần hồn của hắn mạnh hơn đệ tử bình thường, đây là ưu thế trong việc áp chế thú hồn.",
+      "suggest": "Viên Minh ngoài miệng nói tạ, trong lòng lại có chút tự tin với chính mình, dù sao thần hồn lực của hắn mạnh hơn đệ tử bình thường, hơn nữa trong việc áp chế thú hồn còn có ưu thế hơn nhiều.",
+      "similarity": [
+        [
+          57,
+          0.44
+        ]
+      ]
+    },
+    {
+      "convert": "Bàn giao xong chuyện này sau, Tam động chủ mở miệng truy vấn: \"Vừa mới gặp ngươi tại hỏa phường bên kia, là hoàn thành luyện phôi rồi?\"",
+      "dich": "Sau khi dặn dò xong, Tam động chủ lại hỏi: \"Vừa rồi thấy ngươi ở Hỏa phường bên kia, đã rèn phôi thành công rồi sao?\"",
+      "suggest": "Sau khi bàn giao xong chuyện này, tam động chủ mở miệng hỏi: \"Vừa rồi ngươi ở phường thị Hỏa phường, có phải đã luyện phôi thành công không?\"",
+      "similarity": [
+        [
+          58,
+          0.2
+        ]
+      ]
+    },
+    {
+      "convert": "\"Lần thứ nhất thành công.\"",
+      "dich": "\"Lần đầu tiên thành công.\"",
+      "suggest": "\"Lần đầu thành công.\"",
+      "similarity": [
+        [
+          20,
+          0.12
+        ],
+        [
+          27,
+          0.11
+        ],
+        [
+          56,
+          0.12
+        ],
+        [
+          59,
+          0.5
+        ],
+        [
+          63,
+          0.15
+        ],
+        [
+          75,
+          0.17
+        ],
+        [
+          77,
+          0.15
+        ],
+        [
+          89,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh trả lời.",
+      "dich": "Viên Minh trả lời.",
+      "suggest": "Viên Minh trả lời.",
+      "similarity": [
+        [
+          12,
+          0.11
+        ],
+        [
+          19,
+          0.18
+        ],
+        [
+          26,
+          0.11
+        ],
+        [
+          32,
+          0.11
+        ],
+        [
+          60,
+          1
+        ],
+        [
+          64,
+          0.28
+        ],
+        [
+          70,
+          0.11
+        ],
+        [
+          72,
+          0.18
+        ],
+        [
+          75,
+          0.12
+        ],
+        [
+          81,
+          0.18
+        ],
+        [
+          89,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"Bao nhiêu chùy?\"",
+      "dich": "\"Bao nhiêu búa?\"",
+      "suggest": "\"Bao nhiêu chùy?\"",
+      "similarity": [
+        [
+          61,
+          0.38
+        ],
+        [
+          71,
+          0.18
+        ],
+        [
+          75,
+          0.12
+        ],
+        [
+          89,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ xem qua kia luyện thành phôi thiết, kỳ thực tâm lý liền đã có đáp án rồi, nhưng vẫn là truy vấn.",
+      "dich": "Tam động chủ kỳ thực đã có đáp án khi nhìn qua khối phôi sắt kia, nhưng vẫn hỏi.",
+      "suggest": "Tam động chủ xem qua quá trình luyện thành phôi thiết, kỳ thật trong lòng đã có đáp án, nhưng vẫn tiếp tục truy hỏi.",
+      "similarity": [
+        [
+          62,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "\"Một nghìn chùy.\"",
+      "dich": "\"Một ngàn búa.\"",
+      "suggest": "\"Một nghìn chùy.\"",
+      "similarity": [
+        [
+          20,
+          0.12
+        ],
+        [
+          27,
+          0.11
+        ],
+        [
+          56,
+          0.12
+        ],
+        [
+          59,
+          0.12
+        ],
+        [
+          63,
+          0.23
+        ],
+        [
+          75,
+          0.21
+        ],
+        [
+          77,
+          0.18
+        ],
+        [
+          89,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh đáp lấy.",
+      "dich": "Viên Minh đáp.",
+      "suggest": "Viên Minh đáp ứng.",
+      "similarity": [
+        [
+          12,
+          0.11
+        ],
+        [
+          19,
+          0.19
+        ],
+        [
+          26,
+          0.11
+        ],
+        [
+          32,
+          0.11
+        ],
+        [
+          60,
+          0.24
+        ],
+        [
+          64,
+          0.5
+        ],
+        [
+          70,
+          0.11
+        ],
+        [
+          72,
+          0.18
+        ],
+        [
+          75,
+          0.12
+        ],
+        [
+          76,
+          0.12
+        ],
+        [
+          81,
+          0.18
+        ],
+        [
+          89,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ mục quang chớp lên, nhưng thần tình cũng không có quá lớn biến hóa.",
+      "dich": "Ánh mắt Tam động chủ khẽ chớp, nhưng sắc mặt không có thay đổi gì lớn.",
+      "suggest": "Ánh mắt tam động chủ lóe lên, nhưng thần tình cũng không có quá lớn biến hóa.",
+      "similarity": []
+    },
+    {
+      "convert": "\"Lúc trước đảo chưa từng nhìn ra, ngươi còn có luyện khí phương diện tư chất.\"",
+      "dich": "\"Khi trước đúng là chưa từng nhìn ra ngươi còn có tư chất ở phương diện luyện khí.\"",
+      "suggest": "\"Lúc trước đảo chưa từng nhìn ra, ngươi còn có tư chất luyện khí.\"",
+      "similarity": [
+        [
+          66,
+          0.41
+        ]
+      ]
+    },
+    {
+      "convert": "Nàng một chút trầm ngâm, nói ra.",
+      "dich": "Nàng suy nghĩ một chút rồi nói.",
+      "suggest": "Nàng trầm ngâm một chút, nói.",
+      "similarity": [
+        [
+          32,
+          0.12
+        ],
+        [
+          67,
+          0.17
+        ],
+        [
+          70,
+          0.12
+        ],
+        [
+          81,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh cười cười, không có nói tiếp.",
+      "dich": "Viên Minh chỉ cười cười không nói gì thêm.",
+      "suggest": "Viên Minh cười cười, không tiếp tục nói.",
+      "similarity": [
+        [
+          68,
+          0.14
+        ],
+        [
+          81,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"Nếu như đã có thể luyện phôi nghìn chùy rồi, sau đó còn muốn tiến một bước học tập luyện khí lời nói, tựu đi tìm A Mộc Hợp a.\"",
+      "dich": "\"Một khi đã có thể rèn phôi ngàn búa, về sau nếu còn muốn việc học tập luyện khí tiến thêm một bước thì đi tìm A Mộc Hợp đi.\"",
+      "suggest": "\"Nếu như đã có thể luyện phôi nghìn chùy rồi, sau này còn muốn tiến một bước học tập luyện khí, tựu đi tìm A Mộc Hợp đi.\"",
+      "similarity": [
+        [
+          69,
+          0.36
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ nói ra.",
+      "dich": "Tam động chủ nói.",
+      "suggest": "Tam động chủ nói.",
+      "similarity": [
+        [
+          12,
+          0.43
+        ],
+        [
+          21,
+          0.11
+        ],
+        [
+          26,
+          0.43
+        ],
+        [
+          29,
+          0.12
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          43,
+          0.11
+        ],
+        [
+          47,
+          0.32
+        ],
+        [
+          55,
+          0.32
+        ],
+        [
+          56,
+          0.22
+        ],
+        [
+          60,
+          0.11
+        ],
+        [
+          64,
+          0.12
+        ],
+        [
+          67,
+          0.11
+        ],
+        [
+          70,
+          1
+        ],
+        [
+          75,
+          0.12
+        ],
+        [
+          78,
+          0.26
+        ],
+        [
+          81,
+          0.16
+        ],
+        [
+          83,
+          0.19
+        ],
+        [
+          89,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"A Mộc Hợp?\"",
+      "dich": "\"A Mộc Hợp?\"",
+      "suggest": "\"A Mộc Hợp?\"",
+      "similarity": [
+        [
+          61,
+          0.18
+        ],
+        [
+          71,
+          1
+        ],
+        [
+          75,
+          0.12
+        ],
+        [
+          89,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh kinh ngạc nói.",
+      "dich": "Viên Minh kinh ngạc hỏi.",
+      "suggest": "Viên Minh kinh ngạc nói.",
+      "similarity": [
+        [
+          19,
+          0.18
+        ],
+        [
+          32,
+          0.17
+        ],
+        [
+          60,
+          0.19
+        ],
+        [
+          64,
+          0.21
+        ],
+        [
+          67,
+          0.11
+        ],
+        [
+          70,
+          0.17
+        ],
+        [
+          72,
+          0.54
+        ],
+        [
+          81,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "\"Hắn là Trần Uyển cùng Phương Cách sư huynh, ngày thường đều tại hỏa phường sau khí lư trong.\"",
+      "dich": "\"Hắn là sư huynh của Trần Uyển và Phương Cách, bình thường đều ở trong Khí Lư phía sau Hỏa phường.\"",
+      "suggest": "\"Hắn là Trần Uyển và Phương Cách sư huynh, ngày thường đều ở trong phường lửa sau.\"",
+      "similarity": [
+        [
+          73,
+          0.33
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ nói ra.",
+      "dich": "Hóa ra là vị đại sư huynh tình cách cố quái trong truyền thuyết.",
+      "suggest": "Tam động chủ nói.",
+      "similarity": [
+        [
+          12,
+          0.43
+        ],
+        [
+          21,
+          0.11
+        ],
+        [
+          26,
+          0.43
+        ],
+        [
+          29,
+          0.12
+        ],
+        [
+          32,
+          1
+        ],
+        [
+          43,
+          0.11
+        ],
+        [
+          47,
+          0.32
+        ],
+        [
+          55,
+          0.32
+        ],
+        [
+          56,
+          0.22
+        ],
+        [
+          60,
+          0.11
+        ],
+        [
+          64,
+          0.12
+        ],
+        [
+          67,
+          0.11
+        ],
+        [
+          70,
+          1
+        ],
+        [
+          75,
+          0.12
+        ],
+        [
+          78,
+          0.26
+        ],
+        [
+          81,
+          0.16
+        ],
+        [
+          83,
+          0.19
+        ],
+        [
+          89,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Nguyên lai là vị kia tin đồn trung, tính cách cổ quái Đại sư huynh.",
+      "dich": "\"Vâng.\"",
+      "suggest": "Thì ra là vị Đại sư huynh có tính cách cổ quái kia.",
+      "similarity": [
+        [
+          74,
+          0.14
+        ]
+      ]
+    },
+    {
+      "convert": "\"Hảo.\"",
+      "dich": "Viên Minh vừa thầm nghĩ trong lòng, vừa vội lên tiếng đáp ứng.",
+      "suggest": "\"Hảo.\"",
+      "similarity": [
+        [
+          12,
+          0.11
+        ],
+        [
+          20,
+          0.12
+        ],
+        [
+          26,
+          0.11
+        ],
+        [
+          27,
+          0.11
+        ],
+        [
+          32,
+          0.11
+        ],
+        [
+          56,
+          0.12
+        ],
+        [
+          59,
+          0.12
+        ],
+        [
+          60,
+          0.11
+        ],
+        [
+          63,
+          0.18
+        ],
+        [
+          64,
+          0.16
+        ],
+        [
+          70,
+          0.11
+        ],
+        [
+          75,
+          0.35
+        ],
+        [
+          77,
+          0.18
+        ],
+        [
+          89,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh trong lòng một bên nghĩ lấy, vội vàng ứng tới dưới.",
+      "dich": "\"Hỏa Sàm Nhi.\"",
+      "suggest": "Viên Minh vừa nghĩ tới đây, vội vàng ứng trước.",
+      "similarity": [
+        [
+          76,
+          0.13
+        ],
+        [
+          90,
+          0.15
+        ]
+      ]
+    },
+    {
+      "convert": "\"Hỏa Sàm Nhi.\"",
+      "dich": "Tam động chủ mở miệng gọi.",
+      "suggest": "\"Hỏa Sàm Nhi.\"",
+      "similarity": [
+        [
+          11,
+          0.11
+        ],
+        [
+          13,
+          0.2
+        ],
+        [
+          20,
+          0.12
+        ],
+        [
+          27,
+          0.11
+        ],
+        [
+          56,
+          0.12
+        ],
+        [
+          59,
+          0.12
+        ],
+        [
+          63,
+          0.18
+        ],
+        [
+          75,
+          0.21
+        ],
+        [
+          77,
+          1
+        ],
+        [
+          89,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ mở miệng hô hoán.",
+      "dich": "Chồn nhỏ vừa ăn xong một viên Hỏa tinh thạch, ngẩng đầu lên rồi trừng đôi mắt như hai hạt đậu đen nhìn chằm chằm nàng, rồi lại quay đầu liếc mắt nhìn Viên Minh.",
+      "suggest": "Tam động chủ mở miệng hô hoán.",
+      "similarity": [
+        [
+          12,
+          0.23
+        ],
+        [
+          26,
+          0.23
+        ],
+        [
+          29,
+          0.12
+        ],
+        [
+          32,
+          0.23
+        ],
+        [
+          43,
+          0.11
+        ],
+        [
+          47,
+          0.23
+        ],
+        [
+          55,
+          0.23
+        ],
+        [
+          56,
+          0.22
+        ],
+        [
+          70,
+          0.23
+        ],
+        [
+          78,
+          0.56
+        ],
+        [
+          83,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Vừa mới ăn xong một khỏa Hỏa Tinh Thạch tiểu hỏa chồn, nâng lên não đại, trừng trừng hạt đậu đen một dạng ánh mắt nhìn chằm chằm nàng, lại quay đầu nhìn thoáng qua Viên Minh.",
+      "dich": "\"Nhìn ta làm gì, còn không trở về?\"",
+      "suggest": "Vừa mới ăn xong một khỏa Hỏa Tinh Thạch, con chồn nhỏ nâng cao đầu, trừng mắt nhìn chằm chằm vào Viên Minh, sau đó quay đầu nhìn Viên Minh.",
+      "similarity": [
+        [
+          79,
+          0.14
+        ]
+      ]
+    },
+    {
+      "convert": "\"Nhìn ta làm cái gì, còn không quay về?\"",
+      "dich": "Viên Minh thì thầm nói.",
+      "suggest": "'Nhìn ta làm cái gì, còn không quay về?'",
+      "similarity": [
+        [
+          80,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh im lặng nói.",
+      "dich": "Hỏa Sàm Nhi nghe thế, có vẻ không tình nguyện lắm, chậm rãi bò từ trên cánh tay Viên Minh xuống rồi nhảy lên hướng Tam động chủ.",
+      "suggest": "Viên Minh im lặng nói.",
+      "similarity": [
+        [
+          19,
+          0.18
+        ],
+        [
+          32,
+          0.17
+        ],
+        [
+          60,
+          0.19
+        ],
+        [
+          64,
+          0.21
+        ],
+        [
+          67,
+          0.11
+        ],
+        [
+          70,
+          0.17
+        ],
+        [
+          72,
+          0.18
+        ],
+        [
+          81,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Hỏa Sàm Nhi nghe vậy, tựa hồ có chút không tình nguyện, chậm rù rì mà từ Viên Minh cánh tay thượng bò lên tới dưới, nhảy hướng tới Tam động chủ.",
+      "dich": "Tam động chủ ôm nó vào trong lòng.",
+      "suggest": "Hỏa Sàm Nhi nghe vậy, tựa hồ có chút không tình nguyện, chậm rãi từ trên cánh tay Viên Minh bò xuống, nhảy tới vị trí tam động chủ.",
+      "similarity": [
+        [
+          82,
+          0.33
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ đem nó ôm vào trong ngực, kia một khỏa hỏa hồng bóng loáng lông xồm xàm não đại, từ hai tòa tròn trịa núi non trung gian nặn đi ra, hơi hơi có chút biến hình, như cũ không rời mà nhìn Viên Minh.",
+      "dich": "Một cái đầu nhỏ đầy lông đỏ rực, bóng mượt ló ra từ khoảng giữa hai tòa núi non tròn trịa, hơi biến dạng một chút nhưng vẫn như trước không ngừng nhìn về phía Viên Minh.",
+      "suggest": "Tam động chủ đem nó ôm vào trong ngực, một bộ lông xồm xàm, từ trong hai ngọn núi tròn trịa nặn ra, có chút biến hóa ở trung gian, vẫn không rời mắt nhìn Viên Minh.",
+      "similarity": [
+        [
+          111,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Một màn này, khiến cho Viên Minh đều có chút không có ý tứ rồi, lo sợ Tam động chủ hiểu lầm, hoài nghi phải hay không chính mình cấp tiểu gia hỏa này rót cái gì thuốc mê?",
+      "dich": "Cảnh này làm Viên Minh cũng có chút xấu hổ, sợ Tam động chủ hiểu lầm, hoài nghi mình có phải đã cho tiểu gia hỏa kia uống thuốc mê gì không?",
+      "suggest": "Một màn này làm cho Viên Minh đều có chút không hiểu nổi, lo sợ tam động chủ hiểu lầm, hoài nghi có phải mình đã tự mình cấp cho tiểu tử này thuốc mê sao?",
+      "similarity": [
+        [
+          85,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Cũng may Tam động chủ cũng không tính toán, nói chỉ là một câu \"Ngươi có thể trở về đi\", theo sau liền xoay người ly khai.",
+      "dich": "May là Tam động chủ cũng không so đo, chỉ nói một câu \"Ngươi có thể trở về.\", sau đó liền xoay người rời đi.",
+      "suggest": "Cũng may tam động chủ cũng không có ý xấu, nói chỉ một câu: \"Ngươi có thể trở về đi\", sau đó xoay người rời đi.",
+      "similarity": [
+        [
+          86,
+          0.43
+        ]
+      ]
+    },
+    {
+      "convert": "Lúc này, Viên Minh nhớ lại một sự kiện, vội vàng từ hông giữa lấy xuống túi linh thú cùng túi trữ vật, lấy ra bên trong chứa lấy chính mình vật kiện, muốn trả lại cho Tam động chủ.",
+      "dich": "Lúc này, Viên Minh nhớ ra một chuyện, vội gỡ túi linh thú và túi trữ vật bên hông xuống, lấy đồ mình cất bên trong ra, toan trả lại cho Tam động chủ.",
+      "suggest": "Lúc này, Viên Minh chợt nhớ tới một chuyện, vội vàng từ trong túi linh thú lấy ra vật phẩm chứa linh thú và túi trữ vật, lấy ra vật kiện bên trong chứa vật kiện của mình, định trả lại cho tam động chủ.",
+      "similarity": [
+        [
+          87,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ nhìn hắn một mắt, nói ra: \"Ngươi trước giữ đi, chờ ta lần sau bế quan luyện khí thời điểm, Hỏa Sàm Nhi vẫn là muốn giao cho ngươi chiếu cố.\"",
+      "dich": "Tam động chủ nhìn hắn một cái rồi nói: \"Ngươi trước cứ giữ lấy, đợi lần sau khi ta bế quan luyện khí, Hỏa Sàm Nhi vẫn phải cho ngươi chăm sóc.\"",
+      "suggest": "Tam động chủ liếc mắt nhìn hắn một cái, nói: \"Ngươi cứ giữ đi, chờ sau khi ta bế quan luyện khí lần sau, Hỏa Sàm Nhi vẫn phải để cho ngươi chiếu cố.\"",
+      "similarity": [
+        [
+          88,
+          0.44
+        ]
+      ]
+    },
+    {
+      "convert": "\"Hảo.\"",
+      "dich": "\"Vâng.\"",
+      "suggest": "\"Hảo.\"",
+      "similarity": [
+        [
+          12,
+          0.11
+        ],
+        [
+          20,
+          0.12
+        ],
+        [
+          26,
+          0.11
+        ],
+        [
+          27,
+          0.11
+        ],
+        [
+          32,
+          0.11
+        ],
+        [
+          56,
+          0.12
+        ],
+        [
+          59,
+          0.12
+        ],
+        [
+          60,
+          0.11
+        ],
+        [
+          63,
+          0.18
+        ],
+        [
+          64,
+          0.16
+        ],
+        [
+          70,
+          0.11
+        ],
+        [
+          75,
+          0.35
+        ],
+        [
+          77,
+          0.18
+        ],
+        [
+          89,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh tự nhiên vui vẻ, vội vàng nói.",
+      "dich": "Viên Minh nghe thế đương nhiên vui mừng, vội vàng nói.",
+      "suggest": "Viên Minh đương nhiên rất vui vẻ, vội vàng nói.",
+      "similarity": [
+        [
+          90,
+          0.38
+        ]
+      ]
+    },
+    {
+      "convert": "Tam động chủ kèm lấy Hỏa Sàm Nhi ly khai sau, Viên Minh không có lại về hỏa phường, cũng không có lại về chỗ ở, mà là đi giữa sườn núi cây rừng tươi tốt khu vực, tiếp tục tu luyện Cửu Nguyên Quyết.",
+      "dich": "Sau khi Tam động chủ mang Hỏa Sàm Nhi rời đi, Viên Minh không quay lại Hỏa phường, cũng không trở về chỗ ở của mình, mà đi tới một chỗ cây cối tươi tốt giữa lưng chừng núi, tiếp tục tu luyện Cửu Nguyên quyết.",
+      "suggest": "Tam động chủ dẫn theo Hỏa Sàm Nhi rời đi, Viên Minh cũng không về phường thị mà đi bộ vào khu rừng nguyên sinh tươi tốt, tiếp tục tu luyện Cửu Nguyên Quyết.",
+      "similarity": [
+        [
+          10,
+          0.11
+        ],
+        [
+          91,
+          0.31
+        ],
+        [
+          111,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Gần đây không biết phải hay không Minh Nguyệt Quyết tu luyện nhập môn duyên cớ, hắn cảm giác Cửu Nguyên Quyết tốc độ tu luyện đều có chỗ tăng nhanh, trong lúc mơ hồ khoảng cách cách đột phá tới dưới nhất tầng thời gian, đã không xa rồi.",
+      "dich": "Gần đây không biết có phải do tu luyện Minh Nguyệt quyết nhập môn hay không, hắn cảm giác tốc độ tu luyện Cửu Nguyên quyết cũng tăng lên, mơ hồ cảm thấy thời gian tới lúc đột phá lên tầng tiếp theo đã không còn xa.",
+      "suggest": "Gần đây không biết có phải vì Minh Nguyệt Quyết tu luyện nhập môn hay không mà tốc độ tu luyện Cửu Nguyên Quyết đều tăng nhanh, trong lúc mơ hồ khoảng cách đột phá tới tầng thứ nhất đã không còn xa nữa.",
+      "similarity": [
+        [
+          92,
+          0.33
+        ]
+      ]
+    },
+    {
+      "convert": "Tối nay ô vân che đậy quần tinh, ánh trăng cũng không thấy tung tích.",
+      "dich": "Đêm nay mây đen che khuất ánh sao, mặt trăng cũng không thấy bóng dáng.",
+      "suggest": "Đêm nay ô vân che dấu quần áo, ánh trăng cũng không thấy đâu nữa.",
+      "similarity": [
+        [
+          93,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh không có như thường ngày một dạng tu luyện < Minh Nguyệt Quyết >, mà là nhắm mắt khoanh chân ngồi tại giường hẹp thượng, đan thủ kẹp lấy một mai bạch sắc cốt phiến thiếp tại chính mình chỗ mi tâm.",
+      "dich": "Viên Minh không tu luyện Minh Nguyệt quyết như thường ngày, mà nhắm mắt khoanh chân ngồi trên giường, một tay kẹp một mảnh xương màu trắng dán lên chỗ mi tâm của mình.",
+      "suggest": "Viên Minh không giống như bình thường tu luyện Minh Nguyệt Quyết, mà là nhắm mắt khoanh chân ngồi tại giường hẹp, hai tay đan vào nhau, một mai bằng xương bằng thịt dán lên mi tâm của mình.",
+      "similarity": [
+        [
+          94,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Cốt phiến nội ghi chép đấy, chính là Bích La Động Ngự Thú Thuật.",
+      "dich": "Nội dung ghi chép trong mảnh xương chính là Ngự Thú thuật của Bích La Động.",
+      "suggest": "Trong đó ghi chép lại chính là Thuật Ngự Thú của Bích La Động.",
+      "similarity": [
+        [
+          51,
+          0.12
+        ],
+        [
+          95,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "Không quá nửa khắc chuông thời gian, Viên Minh đem bên trong sở thuật toàn bộ ghi nhớ sau, chậm rãi lấy xuống cốt giản.",
+      "dich": "Chưa tới thời gian nửa khắc, Viên Minh đã ghi nhớ toàn bộ nội dung bên trong, chậm rãi gỡ cốt giản xuống.",
+      "suggest": "Không quá nửa khắc, Viên Minh ghi nhớ toàn bộ những điều cơ bản trong sở thuật, sau đó chậm rãi mở cốt giản ra.",
+      "similarity": [
+        [
+          96,
+          0.26
+        ]
+      ]
+    },
+    {
+      "convert": "Thông qua trước đó tại Quy Tàng Các hiểu biết, Viên Minh đã đối Ngự Thú Thuật nguyên lý tương đối quen thuộc rồi, nhưng xem qua cốt giản nội dung sau, mới xem như chân chính có tương đối rõ ràng lại toàn diện nhận thức.",
+      "dich": "Thông qua những kiến thức có được từ Quy Tàng các khi trước, Viên Minh đã có khá quen thuộc với nguyên lý của Ngự Thú thuật, nhưng sau khi xem qua nội dung trong cốt giản, mới coi như thực sự có nhận thức tương đối toàn diện và rõ ràng.",
+      "suggest": "Thông qua những hiểu biết trước đó của Viên Minh đối với Ngự Thú Thuật tương đối quen thuộc, nhưng sau khi xem qua nội dung cốt lõi mới thấy rõ ràng được toàn diện.",
+      "similarity": [
+        [
+          97,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Chỉ riêng thuần thú một chuyện mà nói, linh thú phần lớn dã tính khó thuần, mặc dù là tông môn từ nhỏ nuôi dưỡng đấy, tận xương tủy cũng là không muốn thần phục đấy, ham muốn bằng vào người thần hồn áp chế, độ khó cũng đều không nhỏ.",
+      "dich": "Chỉ nói riêng vấn đề thuần thú, đa số linh thú dã tính khó thuần, dù được tông môn nuôi dưỡng từ nhỏ, thực chất bên trong chúng vẫn không muốn thần phục, muốn dựa vào thần hồn của con người để áp chế, độ khó cũng không nhỏ.",
+      "suggest": "Chỉ riêng một chuyện về Linh Thú mà thôi, phần lớn dã tính của Linh thú đều khó thuần, cho dù được tông môn nuôi dưỡng từ nhỏ, tận xương tủy cũng không muốn thần phục, muốn bằng vào thần hồn áp chế cũng rất khó.",
+      "similarity": [
+        [
+          98,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "Quá trình này cùng thế tục hoàn khố ngao ưng cực kỳ tương tự, là phải dựa vào người tới nghị lực, mài hết linh thú nhuệ khí, lệ khí cùng phản kháng dũng khí, chỉ có chân chính từ linh hồn phương diện ngăn chặn chúng nó, tiếp sau khắc sâu ngự thú phù văn mới có thể thuận lợi đạt thành.",
+      "dich": "Quá trình này cực kỳ giống với việc hoàn khố ngao ưng, tức phải dựa vào nghị lực của con người, mài mòn nhuệ khí, lệ khí và dũng khí phản kháng của linh thú, chỉ khi đã chân chính áp chế bọn chúng từ phương diện linh hồn, việc lạc ấn phù văn ngự thú sau đó mới có thể thuận lợi đạt thành.",
+      "suggest": "Quá trình này giống như hoàn khố ngao ưng trong thế tục, phải hao hết tinh thần lực, mài hết nhuệ khí, lệ khí và dũng khí phản kháng, chỉ có thể thành công trên phương diện ngăn cản chúng, sau đó khắc sâu vào trong linh hồn mới có thể thuận lợi đạt được thành tựu.",
+      "similarity": [
+        [
+          99,
+          0.28
+        ]
+      ]
+    },
+    {
+      "convert": "Này không chỉ là đối linh thú một trận tra hỏi, đồng dạng là đối ngự thú sư một trận tra hỏi.",
+      "dich": "Cái này không chỉ là một kỳ khảo vấn với linh thú, mà cũng là khảo vấn chính ngự thú sư.",
+      "suggest": "Đây không chỉ là một trận hỏi Linh Thú, mà còn là một trận tra hỏi của ngự thú sư.",
+      "similarity": [
+        [
+          100,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Còn tại thần hồn cường đại, tự nhiên là chiếm cứ ưu thế, nhưng cũng không phải có thể chăng thành công quyết định nhân tố, sau đó liên tiếp ngự thú phù văn khắc sâu trình độ chắc chắn cùng ngự thú phù thạch khống chế độ nhạy bén, đồng dạng cũng là đối ngự thú sư trọng yếu khảo hạch.",
+      "dich": "Về phần thần hồn cường đại, đây dĩ nhiên là ưu thế nhưng cũng không phải là nhân tố quyết định thành bại, còn phải xem sau đó trình độ lạc ấn phù văn ngự thú có đủ chắc chắn, khả năng khống chế phù thạch có đủ nhạy hay không, cái nào cũng là thử thách kiểm tra năng lực của ngự thú sư.",
+      "suggest": "Còn về phần thần hồn cường đại, đương nhiên là chiếm ưu thế, nhưng cũng không phải hoàn toàn có thể quyết định được nhân tố thành công hay thất bại. Tiếp theo những dấu ấn của ngự thú phù văn khắc sâu chắc chắn sẽ được điều khiển bởi độ nhạy bén của ngự thú phù thạch, đồng dạng cũng là khảo hạch trọng yếu đối với ngự thú sư.",
+      "similarity": [
+        [
+          101,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Cho nên, Viên Minh muốn học đông tây còn có rất nhiều.",
+      "dich": "Thế nên, Viên Minh còn phải học rất nhiều thứ.",
+      "suggest": "Cho nên, muốn học Đông Y còn có rất nhiều.",
+      "similarity": [
+        [
+          102,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Bất quá tại này trước đó, hắn muốn trước đi một chuyến khí lư, tìm vị kia A Mộc Hợp sư huynh học tập hội chế phù văn.",
+      "dich": "Nhưng trước trước, hắn phải tới Khí Lư, tìm vị A Mộc Hợp kia để học vẽ phù văn đã.",
+      "suggest": "Nhưng trước đó mấy hôm, hắn phải đi một chuyến tới Thổ Sơn, tìm vị A Mộc Hợp sư huynh học tập Phù văn.",
+      "similarity": [
+        [
+          103,
+          0.25
+        ]
+      ]
+    },
+    {
+      "convert": "Nguyên nhân sâu xa, học tập luyện khí cần thiết các chủng phù văn, đối hắn đến lúc đó khắc sâu linh thú ngự thú phù văn có trợ giúp, trước mắt học tập chính là nhất cử lưỡng tiện chuyện tốt.",
+      "dich": "Nguyên nhân không có gì khác, học tập các loại phù văn cần thiết cho luyện khí, cũng sẽ hỗ trợ hắn trong việc lạc ấn phù văn linh thú, đây là chuyện tốt, có thể nhất cử lưỡng tiện.",
+      "suggest": "Nguyên nhân sâu xa là do việc học tập các loại phù văn cần thiết cho việc luyện khí, đối với hắn lúc đó có khắc sâu linh thú, phù văn của ngự thú sẽ trợ giúp rất nhiều. Lúc đó học tập chính là chuyện tốt nhất.",
+      "similarity": [
+        [
+          104,
+          0.25
+        ]
+      ]
+    },
+    {
+      "convert": "Mà tại pháp khí luyện chế trung, Viên Minh như nay luyện phôi giai đoạn chỉ là hoàn thành một bộ phận, kế tiếp còn muốn tiếp tục học tập, tại luyện phôi quá trình trung đem phôi thiết rèn luyện thành cần thiết khí hình.",
+      "dich": "Trong quá trình luyện chế pháp khí, Viên Minh mới chỉ hoàn thành được một phần của giai đoạn rèn phôi, tiếp đó còn phải tiếp tục học hỏi, hoàn thành nốt công đoạn gõ nện phôi sắt thành khí hình cần thiết.",
+      "suggest": "Mà trong quá trình luyện chế pháp khí, Viên Minh hiện giờ chỉ hoàn thành một phần nhỏ, tiếp theo còn phải tiếp tục học tập, trong quá trình luyện phôi luyện thành khí hình cần thiết.",
+      "similarity": [
+        [
+          105,
+          0.39
+        ]
+      ]
+    },
+    {
+      "convert": "Điểm này đảo không tính quá khó, dù sao tại lúc trước luyện phôi quá trình trung, luyện khí sư đối chế tạo chùy sử dụng đã đạt tới vô bì đơn thuần tình trạng, nện đập ra đao thương kiếm kích, phủ việt câu xoa loại binh khí khí hình, cũng chỉ là thủ thượng công phu dọc thân.",
+      "dich": "Điểm này cũng không tính là quá khó, dù sao lúc trước trong quá trình rèn phôi, các luyện khí sư đã sử dụng búa rèn đạt tới tình trạng vô cùng thuần thục, rèn ra các loại khí hình như đao thương kiếm kích, búa rìu cũng chỉ là chuyện thêm thời gian mà thôi.",
+      "suggest": "Điều này cũng không tính là khó khăn, dù sao trong quá trình luyện phôi, luyện khí sư đối với việc sử dụng trùy khí đã đạt tới tình trạng vô cùng đơn thuần, đập phá đao thương kiếm kích, phủ việt câu xoa... cũng chỉ là công phu dọc thân mà thôi.",
+      "similarity": [
+        [
+          106,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "Chỉ có hậu diện khắc phù cùng khai linh, thì tựu là cùng luyện phôi bất đồng một chủng khác khó khăn rồi.",
+      "dich": "Chỉ có hai bước khắc phù và khai linh đằng sau bước rèn phôi mới là thử thách thực sự.",
+      "suggest": "Chỉ có khắc phù sau lưng và khai linh, mới giống như luyện phôi bình thường mà thôi.",
+      "similarity": [
+        [
+          107,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Lấy Viên Minh trước mắt liền muốn đối mặt khắc phù một chuyện mà nói, khó khăn một trong là tại phù văn lĩnh ngộ một chuyện, thứ hai thì là tại phù văn minh khắc một chuyện.",
+      "dich": "Bằng vào Viên Minh hiện tại nếu đối mặt với việc khắc phù thì sẽ gặp phải hai điều khó khăn.",
+      "suggest": "Với tình huống Viên Minh phải đối mặt với sự khắc phù trước mắt, khó khăn một trong là lĩnh ngộ được phù văn, thứ hai là minh khắc một chuyện.",
+      "similarity": [
+        [
+          109,
+          0.14
+        ]
+      ]
+    },
+    {
+      "convert": "Còn tại thế nào cái khó khăn pháp, Hắc Mộc trưởng lão chép tay trung cũng không có nói tỉ mỉ, chỉ có chờ đến cụ thể nếm thử lúc, Viên Minh mới có sâu sắc thể hội.",
+      "dich": "Thứ nhất là chuyện lĩnh ngộ phù văn, thứ hai là việc khắc họa phù văn.",
+      "suggest": "Còn về khó khăn pháp lý như thế nào, Hắc Mộc trưởng lão cũng không nói tỉ mỉ, chỉ có đến khi cụ thể trải qua mới có thể hiểu rõ được.",
+      "similarity": []
+    },
+    {
+      "convert": "Suy xét một lát sau, Viên Minh dần dần thu hồi hỗn tạp tâm tư, lấy ra lư hương ôm vào trong ngực, bắt đầu đả tọa vận công, tu luyện khởi < Minh Nguyệt Quyết > tới.",
+      "dich": "Về phần chúng khó khăn thế nào thì trong bản chép tay của Hắc Mộc đại sư cũng không nói kỹ, chỉ đợi đến khi trực tiếp làm thử, Viên Minh mới có được trải nghiệm sâu sắc.",
+      "suggest": "Suy nghĩ một lát, Viên Minh dần dần thu bớt tâm tư hỗn tạp, lấy ra lư hương ôm vào trong ngực, bắt đầu đả tọa vận công, tu luyện Minh Nguyệt Quyết.",
+      "similarity": [
+        [
+          111,
+          0.57
+        ]
+      ]
+    },
+    {
+      "convert": "Tối nay không trăng, tuy rằng tốc độ tu luyện lại chậm một chút, nhưng tu hành quý tại kiên trì, một ngày cũng không thể bãi bỏ.",
+      "dich": "Sau khi suy nghĩ một lát, Viên Minh dần dần thu hồi tâm tư hỗn loạn, lấy lư hương ra ôm vào trong ngực, bắt đầu đả tọa vận công, tiếp tục tu luyện Minh Nguyệt quyết.",
+      "suggest": "Đêm nay không trăng, tuy tốc độ tu luyện có chậm hơn một chút, nhưng kiên trì với tinh thần kiên trì, một ngày cũng không thể bãi bỏ được.",
+      "similarity": [
+        [
+          112,
+          0.4
+        ]
+      ]
+    },
+    {
+      "dich": "Đêm nay không trăng, dù tốc độ tu luyện sẽ chậm một chút nhưng tu hành quý ở kiên trì, một ngày cũng không thể bỏ."
+    }
+  ]
+}

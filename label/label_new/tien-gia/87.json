@@ -1,0 +1,972 @@
+{
+  "next": {
+    "id": 88,
+    "title": "Chương 88: Xin giúp đỡ"
+  },
+  "previous": {
+    "id": 86,
+    "title": "Chương 86: Thần bí hành trình"
+  },
+  "title": {
+    "convert": "Chương 87",
+    "dich": "Chương 87"
+  },
+  "lines": [
+    {
+      "convert": "Viên Minh tinh tế đánh giá trước mắt vách đá, khi thì đưa tay chạm đến gõ gõ.",
+      "dich": "Viên Minh tỉ mỉ quan sát vách đá trước mắt, chốc chốc lại đưa tay gõ lên đó.",
+      "suggest": "Viên Minh tinh tế đánh giá vách đá trước mắt, khi thì đưa tay lên gõ nhẹ vào.",
+      "similarity": [
+        [
+          0,
+          0.25
+        ]
+      ]
+    },
+    {
+      "convert": "Đi qua hắn một phen điều tra, rất nhanh phát hiện chỗ kỳ hoặc, núi này trên vách có một vùng gõ thời điểm, phát ra rõ ràng hồi âm, tựa hồ bên trong là trống không.",
+      "dich": "Trải qua một hồi điều tra, hắn nhanh chóng phát hiện ra chỗ bất thường, có một chỗ trên vách đá này khi gõ lên có tiếng vọng lại rõ ràng, giống bên trong là khoảng rỗng.",
+      "suggest": "Sau khi đi qua một phen điều tra, rất nhanh hắn phát hiện ra chỗ kỳ lạ, trên vách núi có một vùng gõ, nhưng không có hồi âm nào rõ ràng cả, dường như bên trong là trống không.",
+      "similarity": [
+        [
+          1,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "\"Không phải là có người ở chỗ này ẩn giấu bảo vật gì?\"",
+      "dich": "\"Không lẽ là có người giấu bảo vật gì ở đây?\"",
+      "suggest": "\"Không phải là có người ẩn giấu bảo vật ở chỗ này sao?\"",
+      "similarity": [
+        [
+          2,
+          0.2
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh trong lòng hơi động, lật tay lấy ra Thanh Ngư kiếm, đâm vào nơi đó.",
+      "dich": "Viên Minh trong lòng hơi động, lật tay lấy tnk ra đâm vào chỗ đó.",
+      "suggest": "Viên Minh trong lòng hơi xao động, lật tay lấy ra thanh Ngư kiếm, đâm vào chỗ đó.",
+      "similarity": [
+        [
+          3,
+          0.52
+        ]
+      ]
+    },
+    {
+      "convert": "\"Phốc phốc\" một tiếng vang nhỏ, Thanh Ngư kiếm dễ dàng đâm đi vào, cơ hồ không có cảm giác nhiều ít lực cản, bên trong đúng là trống rỗng, vách đá chỉ có ba tấc dày.",
+      "dich": "Một tiếng \"phập\" nhỏ vang lên, tnk dễ dàng xuyên vào trong, cảm giác gần như không gặp lực cản, quả nhiên bên trong rỗng, vách đá này chỉ dày có ba tấc.",
+      "suggest": "\"Phốc phốc\" một tiếng, thanh Thanh Ngư dễ dàng đâm vào, cơ hồ không có chút lực cản nào, bên trong đúng là trống không, vách đá chỉ dày có ba tấc.",
+      "similarity": [
+        [
+          4,
+          0.2
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh rút ra Thanh Ngư kiếm, ngay cả đâm mấy lần, vách đá triệt để vỡ vụn, hiển lộ ra một cái cao năm thước nửa vòng tròn cửa hang, bên trong là một cái thạch thất không gian.",
+      "dich": "Viên Minh rút tnk kiếm ra rồi tiếp tục đâm thêm mấy lần, vách đá hoàn toàn vỡ vụn, để lộ ra một cái cửa hang hình bán nguyệt cao chừng năm trước, bên trong là một khoảng không gian giống như thạch thất (gian phòng bằng đá).",
+      "suggest": "Viên Minh rút ra thanh Ngư kiếm, chém liên tiếp mấy lần, vách đá cũng hoàn toàn vỡ vụn, hiện ra một cửa hang cao năm thước, bên trong là một không gian thạch thất.",
+      "similarity": [
+        [
+          5,
+          0.26
+        ]
+      ]
+    },
+    {
+      "convert": "Hỏa Sàm Nhi reo hò một tiếng, thân hình phi thoan đi vào.",
+      "dich": "Hỏa Sàm Nhi hò reo một tiếng rồi tung người bay vọt vào.",
+      "suggest": "Hỏa Sàm Nhi reo hò một tiếng, thân hình thong thả bước vào trong.",
+      "similarity": [
+        [
+          6,
+          0.13
+        ],
+        [
+          47,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh lo lắng bên trong có trá, biết lệnh Hỏa Sàm Nhi có chỗ thương tổn, vội vàng đuổi vào trong đó.",
+      "dich": "Viên Minh sợ bên trong có bẫy khiến Hỏa Sàm Nhi bị thương tổn, vội vàng đuổi theo vào bên trong.",
+      "suggest": "Viên Minh lo lắng trong lòng có chuyện xấu xảy ra, biết được Hỏa Sàm Nhi có chỗ thương tổn, vội vàng chạy vào trong.",
+      "similarity": [
+        [
+          7,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Trong động khẩu đúng là cái thạch thất, chừng bảy tám trượng phương viên, thoạt nhìn là một người chỗ ở, giường đá, bàn đá, băng ghế đá, mọi thứ không thiếu, dựa vào tường địa phương vẫn còn một cái giá sách, bày mười mấy bản da xanh thư tịch.",
+      "dich": "Phía sau cửa hang đúng là một gian thạch thất, phương viên chừng bảy, tám trượng, nhìn qua là chỗ ở một người, giường đá, bàn đá, băng ghế đá, đầy đủ mọi thứ, chỗ sát tường còn thấy dựng một cái giá sách, trên đó đặt mười mấy quyển sách bìa xanh.",
+      "suggest": "Trong động là một gian thạch thất chừng bảy tám trượng, bên ngoài thoạt nhìn giống như một gian phòng dành cho người thường, giường đá, bàn đá, băng ghế đá, tất cả đều không thiếu, ở sát vách còn một giá sách da xanh, trên đó có treo mười mấy quyển sách da xanh.",
+      "similarity": [
+        [
+          8,
+          0.33
+        ]
+      ]
+    },
+    {
+      "convert": "Những vật này bên trên rơi đầy thật dày tro bụi, hiển nhiên thật lâu không người ở qua.",
+      "dich": "Những vật này đều bị phủ một lớp bụi dày, hiển nhiên là rất lâu rồi không có người ở.",
+      "suggest": "Những mảnh vỡ trên đó rơi đầy những mảnh vỡ, hiển nhiên đã lâu không có người tới đây.",
+      "similarity": [
+        [
+          9,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh bốn phía xem xét, không có phát hiện cơ quan loại hình nguy hiểm, yên lòng, đi đến giá sách bên cạnh gỡ xuống bên phải nhất một quyển sách, bìa viết \"Kỳ Thạch lục\" ba chữ to, trang bìa dưới góc phải vẫn còn hai cái \"Cuốn một\" chữ nhỏ.",
+      "dich": "Viên Minh xem xét bốn phía không phát hiện cái gì nguy hiểm như kiểu cơ quan, bẫy rập, liền an tâm đi đến cạnh giá sách, cầm một cuốn chỗ ngoài cùng bên phải xuống xem, chỉ thấy trên bìa sách ghi ba chữ to 'Kỳ Thạch Lục', góc dưới phải bìa sách còn có hai chữ nhỏ 'Quyển Một'.",
+      "suggest": "Viên Minh nhìn bốn phía xung quanh không có phát hiện loại nguy hiểm nào, yên lòng, đi tới giá sách bên cạnh lấy ra một quyển sách, bìa viết ba chữ \"Kỳ Thạch lục\" rất to, phía dưới vẫn còn hai chữ \"Cuốn một\".",
+      "similarity": []
+    },
+    {
+      "convert": "Hắn mơ hồ mở ra, nội dung bên trong chính như sách danh tự, ở giới thiệu các loại khoáng thạch, mỗi một loại khoáng thạch đều ghi lại phi thường chi tiết, ở xa Quy Tàng các bên trong một chút khoáng thạch trên điển tịch.",
+      "dich": "Hắn lật xem sơ qua, phát hiện nội dung bên trong đúng như tên sách, giới thiệu các loại khoáng thạch, có điều ghi chép về mỗi loại đều vô cùng kỹ càng chi tiết, hơn xa mấy cuốn điển tịch về khoáng thạch ở trong Quy Tàng các.",
+      "suggest": "Hắn mơ hồ mở ra, bên trong giống hệt một quyển điển tịch, giới thiệu tất cả các loại khoáng thạch, mỗi một loại đều ghi lại chi tiết, ở một vài điển tịch về khoáng thạch ở xa.",
+      "similarity": [
+        [
+          11,
+          0.22
+        ]
+      ]
+    },
+    {
+      "convert": "Bởi vì ở hỏa phường làm việc, Viên Minh tự cho là đối các loại khoáng thạch đã tương đối quen thuộc, phần ngoại lệ bên trên nội dung so với hắn biết đến chi tiết mấy lần, rất nhiều nội dung càng là hắn chưa bao giờ nghe.",
+      "dich": "Vì làm việc ở Hỏa Phường nên Viên Minh tự cho rằng mình đã khá quen thuộc với các loại khoáng thạch, nhưng nội dung trên sách này lại chi tiết hơn gấp mấy lần hiểu biết của hắn, hơn nữa còn có rất nhiều nội dung mà hắn chưa từng nghe qua.",
+      "suggest": "Bởi vì ở trên phường lửa phường, Viên Minh tự cho rằng đối với các loại khoáng thạch đã tương đối quen thuộc với hắn, những nội dung không bao giờ hắn nghe đến.",
+      "similarity": [
+        [
+          12,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn cầm qua sách khác sách, toàn bộ đều là « Kỳ Thạch lục », từ cuốn vừa đến quyển 10 sáu, vơ vét thế gian mấy ngàn chủng khoáng thạch tính chất, nơi sản sinh, công dụng các loại, chu đáo, tường tận chi cực, đơn giản chính là một bộ thiên hạ khoáng thạch bách khoa toàn thư.",
+      "dich": "Hắn lần lượt cầm mấy cuốn khác lên xem qua, phát hiện tất cả đều là 'Kỳ Thạch Lục', từ quyển một đến quyển mười sáu, sưu tập đủ tính chất, nơi sản sinh, công dụng ... vv... của mấy ngàn loại khoáng thạch trên thế gian, hơn nữa còn vô cùng tường tận, quả đúng là một bộ bách khoa toàn thư về khoáng thạch trong thiên hạ.",
+      "suggest": "Hắn cầm lấy quyển sách khác, toàn bộ đều là Kỳ Thạch lục , vơ vét thế gian mấy ngàn chủng khoáng thạch, tính chất, công dụng, các loại, chu đáo, tường tận, chi tiết, chỉ cần là một quyển bách khoa toàn thư khoáng thạch thiên hạ.",
+      "similarity": [
+        [
+          13,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "Cùng hắn so sánh, hắn trước kia đạt được « Bách Thảo Tập », cùng hỏa phường « Luyện Khí Cơ Yếu », thô lậu để cho người ta đỏ mặt.",
+      "dich": "So với nó, Bách Thảo Tập mà hắn đổi được khi trước hay Luyện Khí Cơ Yếu trong Hỏa phường thực sự là thô lậu đến mức xấu hổ.",
+      "suggest": "So sánh với hắn, quyển Bách Thảo Tập trước kia hắn có được, cùng với Hỏa phường  Luyện Khí cơ yếu , thật khiến cho người ta đỏ mặt.",
+      "similarity": []
+    },
+    {
+      "convert": "\"Tốt, quá tốt rồi.\"",
+      "dich": "\"Tốt, quá tốt rồi!\"",
+      "suggest": "\"Tốt, quá tốt rồi.\"",
+      "similarity": [
+        [
+          15,
+          0.71
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nắm chặt quyển sách trên tay sách.",
+      "dich": "Viên Minh nắm chặt quyển sách trên tay.",
+      "suggest": "Viên Minh nắm chặt cuốn sách trong tay.",
+      "similarity": [
+        [
+          16,
+          0.37
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn mới vào Tu Tiên Giới, chính cần loại này chuyên lấy điển tịch, bổ sung cho đủ kiến thức của mình.",
+      "dich": "Hắn mới vào tu tiên giới, đang cần nhất loại điển tịch làm phong phú kiến thức của bản thân như này.",
+      "suggest": "Hắn vừa mới nhập tu, chính là cần loại điển tịch này để bổ sung kiến thức cho mình.",
+      "similarity": []
+    },
+    {
+      "convert": "Chỉ là cái này mười mấy bản « Kỳ Thạch lục » nội dung quá nhiều, hắn nhất thời bán hội cũng không nhìn xong, lúc này đem sở hữu thư tịch toàn bộ đều thu vào túi trữ vật.",
+      "dich": "Chỉ có điều nội dung mười mấy cuốn Kỳ Thạch Lục này quá nhiều, hắn trong một lúc một nhát không thể xem hết được, thế là liền thu toàn bộ thư tịch vào trong túi trữ vật.",
+      "suggest": "Chỉ có điều mười mấy quyển bí tịch này nội dung quá nhiều, hắn nhất thời không nhìn được, lúc này mới cất tất cả những thứ cần thiết vào trong túi trữ vật.",
+      "similarity": [
+        [
+          18,
+          0.24
+        ],
+        [
+          64,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "\"Cũng không biết nơi này trước kia ở là cái gì người?",
+      "dich": "\"Không biết nơi này trước kia là ai ở?",
+      "suggest": "\"Không biết người trước đây ở đây là ai?",
+      "similarity": [
+        [
+          19,
+          0.2
+        ]
+      ]
+    },
+    {
+      "convert": "Vậy mà có giấu như thế một bộ khoáng thạch điển tịch.\"",
+      "dich": "Vậy mà lại cất giấu một bộ điển tịch khoáng thạch như vậy.\"",
+      "suggest": "Mà trên đó còn cất giấu một bộ điển tịch bằng đá sao?\"",
+      "similarity": [
+        [
+          20,
+          0.34
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh hướng chung quanh nhìn lại, đối đã ở nơi này người sinh ra một tia hiếu kì.",
+      "dich": "Viên Minh nhìn xung quanh, trong lòng sinh ra chút hiếu kỳ về người đã từng sống ở nơi này.",
+      "suggest": "Viên Minh nhìn xung quanh, đối với những người ở đây sinh ra sự hiếu kì.",
+      "similarity": [
+        [
+          21,
+          0.26
+        ]
+      ]
+    },
+    {
+      "convert": "Từ tình huống nơi này xem, đối phương đã rời đi đã lâu, cũng không biết là tạm thời rời đi hay là triệt để bỏ phế nơi đây, tóm lại không mang đi những này trân quý điển tịch, ngược lại là tiện nghi chính mình.",
+      "dich": "Từ tình trạng nơi này có thể nhìn ra, đối phương rời đi đã lâu, cũng không biết là tạm rời đi hay là hoàn toàn vứt bỏ chỗ này, tóm lại không mang đi những cuốn điển tịch quý giá kia đi, trái lại là tiện nghi cho hắn.",
+      "suggest": "Từ tình huống này mà xem, đối phương đã rời đi khá lâu, cũng không biết là tạm thời rời đi hay là hoàn toàn bỏ phế nơi đây, tóm lại là không mang theo những điển tịch trân quý này đi, tóm lại là không tiện nghi cho mình.",
+      "similarity": [
+        [
+          22,
+          0.32
+        ]
+      ]
+    },
+    {
+      "convert": "Vào thời khắc này, \"Xoẹt\" \"Xoẹt\" thanh âm truyền tới từ phía bên cạnh, còn kèm theo Hỏa Sàm Nhi dồn dập tiếng kêu.",
+      "dich": "Ngay lúc này, tiếng ken két pha lẫn tiếng Hỏa Sàm Nhi cuống quýt kêu từ phía bên cạnh truyền tới.",
+      "suggest": "Đúng lúc này, \"Xoẹt\", \"Xoẹt\" mấy tiếng vang lên bên cạnh, kèm theo tiếng kêu của Hỏa Sàm Nhi.",
+      "similarity": [
+        [
+          23,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nhìn sang, lại là Hỏa Sàm Nhi chính ghé vào thạch thất chỗ sâu nhất một mặt trên vách đá, đối nơi đó vừa cào vừa cấu.",
+      "dich": "Viên Minh nhìn sang, thấy hsm lại đang nằm sấp trên vách đá ở chỗ sâu nhất trong thạch thất, ra sức dùng móng vuốt cào cấu nơi đó.",
+      "suggest": "Viên Minh nhìn thấy là Hỏa Sàm Nhi đang đứng ở trên một vách đá sâu nhất, vừa cào vừa cấu.",
+      "similarity": []
+    },
+    {
+      "convert": "\"A, nơi này cũng là trống rỗng?\"",
+      "dich": "\"A, nơi này cũng rỗng sao?\"",
+      "suggest": "\"A, nơi này cũng trống không sao?\"",
+      "similarity": [
+        [
+          25,
+          0.6
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn đi tới, gõ gõ vách đá, quả nhiên có hồi âm truyền đến.",
+      "dich": "Hắn bước tới, gõ gõ vách đá, quả nhiên có tiếng vọng lại.",
+      "suggest": "Hắn đi tới, gõ gõ vào vách đá, quả nhiên có hồi âm báo lại.",
+      "similarity": [
+        [
+          26,
+          0.44
+        ]
+      ]
+    },
+    {
+      "convert": "Chỉ là lần này hồi âm rất yếu, hiển nhiên trước mắt vách đá có phần dày, không thể hướng trước đó khinh địch như vậy phá vỡ.",
+      "dich": "Chỉ khác là lần này tiếng vọng rất nhỏ, hiển nhiên vách đá trước mắt tương đối dày, không thể dễ dàng phá vỡ như trước đó được.",
+      "suggest": "Chỉ là hồi âm lần này rất yếu, hiển nhiên vách đá trước mắt có phần dày, không thể phá vỡ được lực lượng phòng ngự của đối phương.",
+      "similarity": [
+        [
+          27,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "\"Xem ra trong này là một chỗ phòng tối, bình thường tới nói, phòng tối đại môn đều là dùng cơ quan mở ra.\"",
+      "dich": "\"Xem ra bên trong là một phòng bí mật, thông thường mà nói, cửa phòng bí mật đều dùng cơ quan để mở.\"",
+      "suggest": "\"Xem ra trong này là một căn phòng tối, bình thường tới nói chuyện trong phòng tối đều phải dùng cơ quan mở ra.\"",
+      "similarity": [
+        [
+          28,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn ở phụ cận tìm kiếm, rất nhanh ở cách đó không xa vách đá nơi hẻo lánh xuất phát hiện một khối cũng không thu hút nhô lên tảng đá.",
+      "dich": "Hắn tìm kiếm quanh đó, rất nhanh phát hiện ở chỗ hẻo lánh cách vách đá không xa có một tảng đá không bắt mắt lắm hơi nhô ra.",
+      "suggest": "Hắn ở gần đó tìm kiếm, rất nhanh ở một chỗ hẻo lánh cách đó không xa xuất hiện một tảng đá không lớn lắm.",
+      "similarity": [
+        [
+          29,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nắm chặt tảng đá kia, tả hữu hoạt động, \"Răng rắc\" một tiếng vang nhỏ, tảng đá vậy mà chuyển động nửa vòng.",
+      "dich": "Viên Minh nắm chặt tảng đá kia rồi xoay trái vặn phải, tức thì một tiếng \"răng rắc\" nhỏ vang lên, tảng đá thình lình xoay nửa vòng.",
+      "suggest": "Viên Minh năm chăt tảng đá, tả hữu hoạt động, \"Răng rắc\" một tiếng động nhỏ, tảng đá chẳng ngờ lại chuyển động nửa vòng.",
+      "similarity": [
+        [
+          30,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Vách đá chậm rãi hướng bên cạnh dời, lộ ra một đầu đen nhánh thông đạo.",
+      "dich": "Cùng lúc đó, vách đá chậm rãi dịch chuyển sang một bệ, để lộ ra một thông đạo tối om.",
+      "suggest": "Vách đá chậm rãi chuyển động, lộ ra một thông đạo đen nhánh.",
+      "similarity": [
+        [
+          31,
+          0.22
+        ]
+      ]
+    },
+    {
+      "convert": "Hỏa Sàm Nhi mặt lộ vẻ vẻ hưng phấn, lập tức bay vút đi vào, bị Viên Minh từ phía sau lưng một phát bắt được.",
+      "dich": "Hsm lộ vẻ hưng phấn, lập tức bay nhảo vào, lại bị Viên Minh từ phía sau tóm lại.",
+      "suggest": "Mặt mũi Hỏa Sàm Nhi lộ vẻ hưng phấn, lập tức bay vút ra phía sau, bị Viên Minh nhanh chóng tóm lấy.",
+      "similarity": [
+        [
+          32,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "\"Nơi này cổ quái, không được chủ quan.\"",
+      "dich": "\"Nơi này cổ quái, không được chủ quan.\"",
+      "suggest": "\"Nơi này cổ quái, không được chủ quan.\"",
+      "similarity": [
+        [
+          33,
+          1
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn chậm rãi nói, một cái tay khác lấy ra vượn trắng này da khoác lên người, hóa thành vượn trắng hình thái về sau, lúc này mới cẩn thận tiến vào bên trong.",
+      "dich": "Hắn chậm rãi nói, đồng thời tay kia lấy tấm da vượn khoác lên người, sau khi hóa thành hình thái vượn trắng, mới cẩn thận tiến vào bên trong.",
+      "suggest": "Hắn chậm rãi nói, một tay khác lấy ra da của con vượn trắng khoác lên người, hóa thành hình dạng của con vượn trắng, lúc này mới cẩn thận tiến vào bên trong.",
+      "similarity": [
+        [
+          34,
+          0.41
+        ]
+      ]
+    },
+    {
+      "convert": "Thông đạo độ cao có hạn, hắn hơi cúi đầu mới có thể thông qua, một đường đi rất cẩn thận, một hồi lâu mới đến phần cuối.",
+      "dich": "Chiều cao của thông đạo có hạn, hắn phải hơi cúi đầu mới có thể đi vào, một đường đi vô cùng cẩn thận nên phải mất một lúc lâu mới tới được phần cuối.",
+      "suggest": "Độ cao của thông đạo có hạn, hắn chỉ cúi đầu mới có thể đi qua, một đường rất cẩn thận, một hồi lâu sau mới đến phần cuối.",
+      "similarity": [
+        [
+          35,
+          0.39
+        ]
+      ]
+    },
+    {
+      "convert": "Nơi này cũng là một gian thạch thất, lớn nhỏ cũng kém không nhiều, cùng bên ngoài khác biệt, nơi này trưng bày một tòa chế tạo lò, bên trong hỏa diễm tự nhiên sớm đã dập tắt.",
+      "dich": "Nơi này cũng là một gian thạch thất, diện tích không nhỏ hơn bao nhiêu, nhưng khác với gian ngoài, nơi này bày một lò rèn đúc, bên trong hiển nhiên lửa đã tắt từ lâu.",
+      "suggest": "Nơi này cũng là một gian thạch thất, diện tích không lớn lắm, cùng với bên ngoài khác biệt, nơi này trưng bày một cái lò luyện đan, ngọn lửa bên trong đương nhiên đã tắt hết.",
+      "similarity": [
+        [
+          36,
+          0.36
+        ]
+      ]
+    },
+    {
+      "convert": "Cái này chế tạo lò so với hỏa trong phường lớn hơn rất nhiều, phía trên khắc ghi rất nhiều thần bí hoa văn, tựa hồ không phải bình thường chế tạo lò.",
+      "dich": "Lò rèn này lớn hơn nhiều so với những cái trong Hỏa phường, phía trên còn khắc rất nhiều hoa văn thần bí, tựa hồ không phải lò rèn bình thường.",
+      "suggest": "Lò này lớn hơn nhiều so với phường hỏa trong phường, bên trên khắc rất nhiều hoa văn thần bí, dường như không phải lò bình thường chế tạo.",
+      "similarity": [
+        [
+          37,
+          0.42
+        ]
+      ]
+    },
+    {
+      "convert": "Bên cạnh lò lửa bên cạnh vẫn còn rèn đúc dùng cái đe sắt đài, đưa vật đỡ các loại, nghiễm nhiên một chỗ hoàn thiện Luyện Khí Thất.",
+      "dich": "Bên cạnh lò lửa còn có bệ đỡ đe sắt dùng để rèn đúc, giá để đồ ... vv..., nghiễm nhiên là một phòng luyện khí hoàn chỉnh.",
+      "suggest": "Bên cạnh lò lửa vẫn đang dùng những kiện Phù Khí như đe sắt, đỡ vật đỡ, nghiễm nhiên là một chỗ hoàn thiện Luyện Khí Thất.",
+      "similarity": [
+        [
+          38,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Hỏa Sàm Nhi đối đưa vật đỡ kêu la không ngừng, trên kệ trưng bày bốn năm khối màu đỏ ngọc thạch, ngoại hình nhìn cùng Hỏa Phác Ngọc rất giống, tản ra linh lực thuộc tính \"Hỏa\" ba động lại cực kì kinh người, xa không phải Hỏa Phác Ngọc có thể so sánh.",
+      "dich": "Hỏa Sàm Nhi không ngừng hướng giá để đồ kêu la, nhìn lại thấy trên kệ bày bốn, năm khối ngọc thạch màu đỏ, nhìn bề ngoại rất giống Hỏa Phác ngọc nhưng lại tỏa ra ba động linh lực Hỏa thuộc tính cực kỳ kinh người, điểm này thì Hỏa Phác ngọc còn xa mới có thể so sánh.",
+      "suggest": "Hỏa Sàm Nhi kêu la không ngừng, trên kệ trưng bày bốn năm viên ngọc thạch màu đỏ, ngoại hình giống Hỏa Phác Ngọc, ba động cực kì kinh người, không phải Hỏa Phác Ngọc có thể so sánh được.",
+      "similarity": [
+        [
+          39,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh đồng dạng đối cảnh vật chung quanh cẩn thận dò xét một phen, xác nhận không có nguy hiểm mới đi tới, cầm lấy một khối màu đỏ ngọc thạch.",
+      "dich": "Viên Minh vẫn cẩn thận dò xét cảnh vật xung quanh một hồi, sau khi xác nhận không thấy có gì nguy hiểm mới bước tới, cầm một khối ngọc thạch màu đỏ lên.",
+      "suggest": "Viên Minh cũng cẩn thận quan sát cảnh vật chung quanh một phen, sau khi xác nhận không có nguy hiểm mới đi tới cầm một khối ngọc thạch màu đỏ.",
+      "similarity": [
+        [
+          40,
+          0.38
+        ]
+      ]
+    },
+    {
+      "convert": "\"Cái này ngọc thạch  không phải là hỏa ngọc tủy!\"",
+      "dich": "\"Ngọc thạch này chẳng phải là Hỏa Ngọc tủy sao!\"",
+      "suggest": "\"Vật này không phải là Hỏa ngọc tủy!\"",
+      "similarity": [
+        [
+          41,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn trong mắt vui mừng.",
+      "dich": "Vẻ vui mừng hiện lên trong mắt hắn.",
+      "suggest": "Mắt hắn vui mừng.",
+      "similarity": [
+        [
+          42,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Hỏa Phác Ngọc là dung nham núi lửa bên trong viêm hỏa chi lực dung hợp lòng đất khoáng thạch, từ đó sinh ra, nếu là hoàn cảnh phù hợp, hỏa lực dồi dào, Hỏa Phác Ngọc có thể tiếp tục thu nạp Hỏa Linh chi lực tiến hóa, hơn trăm năm sau liền có khả năng chuyển hóa thành một loại hoàn toàn mới khoáng thạch, hỏa ngọc tủy.",
+      "dich": "Hỏa Phác ngọc là sản phẩm từ sự dung hợp của lực lượng viêm hỏa trong lòng núi lửa với khoáng thạch dưới lòng đất, nếu hoàn cảnh phù hợp, hỏa lực dồi dào, Hỏa Phác ngọc có thể tiếp tục hấp thụ lực lượng hỏa linh, sau hơn trăm năm liền có khả năng chuyển hóa thành một một loại khoáng thạch hoàn toàn mới, Hỏa Ngọc tủy.",
+      "suggest": "Hỏa Phác Ngọc là một loại hỏa linh lực dung hợp với khoáng thạch trong lòng đất từ đó sinh ra, nếu như hoàn cảnh phù hợp, hỏa lực dồi dào, Hỏa Phác Ngọc có thể tiếp tục thu nạp Hỏa Linh lực tiến hóa, hơn trăm năm sau có thể chuyển hóa thành một loại khoáng thạch, hỏa ngọc tủy.",
+      "similarity": [
+        [
+          43,
+          0.34
+        ]
+      ]
+    },
+    {
+      "convert": "Hỏa Sàm Nhi phát ra chi chi thét lên, con mắt gắt gao nhìn chằm chằm hỏa ngọc tủy, nước bọt rơi xuống.",
+      "dich": "Hỏa Sàm Nhi chi chi thét lên, mắt gắt gào nhìn chằm chằm vào Hỏa Ngọc tủy, nước bọt nhễu ra.",
+      "suggest": "Hỏa Sàm Nhi kêu lên một tiếng, hai mắt gắt gao nhìn chằm chằm vào ngọc tủy, nước bọt rơi xuống.",
+      "similarity": [
+        [
+          44,
+          0.27
+        ]
+      ]
+    },
+    {
+      "convert": "\"Chú mèo ham ăn.\"",
+      "dich": "\"Đồ ham ăn!\"",
+      "suggest": "\"Chú mèo ham ăn.\"",
+      "similarity": [
+        [
+          45,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh mỉm cười, đem trong tay ngọc thạch kín đáo đưa cho Hỏa Sàm Nhi, xem như ban thưởng.",
+      "dich": "Viên Minh mỉm cười, đút ngọc thạch trong tay cho Hỏa Sàm Nhi xem như phần thưởng khích lệ.",
+      "suggest": "Viên Minh mỉm cười, cất ngọc thạch trong tay đưa cho Hỏa Sàm Nhi, coi như là ban thưởng.",
+      "similarity": [
+        [
+          46,
+          0.4
+        ]
+      ]
+    },
+    {
+      "convert": "Hỏa Sàm Nhi một phát bắt được, ôm vào trong ngực vui sướng gặm cắn.",
+      "dich": "Hỏa Sàm Nhi chộp lấy, ôm vào trong lòng rồi vui vẻ gặm ăn.",
+      "suggest": "Hỏa Sàm Nhi tóm lấy, ôm vào trong ngực vui sướng gặm cắn.",
+      "similarity": [
+        [
+          6,
+          0.11
+        ],
+        [
+          47,
+          0.33
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh thì thừa cơ đem còn lại bốn khối hỏa ngọc tủy toàn bộ thu vào.",
+      "dich": "Viên Minh thì tranh thủ thu hết bốn khối Hỏa Ngọc tủy còn dư lại.",
+      "suggest": "Viên Minh nhanh chóng thu lại toàn bộ số ngọc tủy còn lại của mình.",
+      "similarity": []
+    },
+    {
+      "convert": "Hỏa ngọc tủy ẩn chứa linh lực thuộc tính \"Hỏa\" là Hỏa Phác Ngọc hơn gấp mười lần, đã coi như là trung đẳng linh tài, có giá trị không nhỏ.",
+      "dich": "Hỏa Ngọc tủy ẩn chưa linh lực Hỏa thuộc tính gấp mười lần Hỏa Phác ngọc, được tính là linh tài bậc trung, có giá trị không nhỏ.",
+      "suggest": "Hỏa ngọc tủy ẩn chứa Linh lực còn lớn hơn Hỏa Phác Ngọc gấp mười lần, đã coi như là linh tài trung đẳng, có giá trị không nhỏ.",
+      "similarity": [
+        [
+          49,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "Bích La Động bên trong hữu dụng linh tài trực tiếp hối đoái điểm cống hiến địa phương, tên là thanh phù đường, một khối hỏa ngọc tủy trọn vẹn có thể đổi mười điểm điểm cống hiến, tương đương với thu thập một trăm khối nước xanh thạch lượng, cũng không thể cứ như vậy để Hỏa Sàm Nhi toàn bộ ăn.",
+      "dich": "Nơi dùng để trực tiếp đổi linh tài lấy điểm cống hiên trong Bích La Động là Thanh Phù đường, một khối Hỏa Ngọc tủy trọn vẹn có thể đổi được mười điểm cống hiến, tương đương thu thập một trăm khối Bích Thủy thạch, thế nên không thể để Hỏa Sàm Nhi cứ thế ăn hết được.",
+      "suggest": "Bích La động bên trong có một địa điểm có thể hối đoái điểm cống hiến hữu dụng, tên là Thanh Phù Đường, một khối ngọc tủy trọn vẹn có thể đổi được mười điểm cống hiến, tương đương với thu thập được một trăm viên nước xanh, cũng không thể cứ để cho Hỏa Sàm Nhi ăn toàn bộ.",
+      "similarity": [
+        [
+          50,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh tâm tình thật tốt, có cái này mấy khối hỏa ngọc tủy, trận này hiểm liền không tính phí công bốc lên.",
+      "dich": "Viên Minh vô cùng vui vẻ, có mấy khối Hỏa Ngọc tủy này, mạo hiểm một chuyến cũng đáng.",
+      "suggest": "Viên Minh tâm tình thật tốt, có mấy khối ngọc tủy này, trận nguy hiểm này không tính là phí công.",
+      "similarity": [
+        [
+          51,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn ở thạch thất bên trong dạo qua một vòng, tới rèn đúc lò một bên khác, bước chân dừng lại.",
+      "dich": "Hắn dạo qua một vòng trong thạch thất, đến một phía khác của lò rèn, bước chân chợt ngừng lại.",
+      "suggest": "Hắn đi dạo quanh thạch thất một vòng, tới một chỗ khác của bồn lò, bước chân hơi dừng lại.",
+      "similarity": [
+        [
+          52,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Chỉ gặp một bộ thi hài lẳng lặng nằm ở chỗ này, bởi vì có chế tạo lò che chắn, lúc này mới không nhìn thấy.",
+      "dich": "Chỉ thấy một bộ thi hài lẳng lặng nằm đó, do có lò rèn che đi nên ban nãy mới không nhìn thấy.",
+      "suggest": "Chỉ thấy một thi hài lẳng lặng nằm ở đó, bởi vì có tấm lưới được chế tạo đặc biệt che chắn nên lúc này mới không nhìn thấy.",
+      "similarity": [
+        [
+          53,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Thi hài tay phải cầm một thanh màu đỏ sậm thiết chùy, chùy chuôi là một cây màu đồng cổ gỗ, không biết là cái gì chất gỗ, đầu búa đen nhánh tỏa sáng, phía trên khắc rõ lít nha lít nhít hỏa diễm đồ án, nhìn cùng hỏa trong phường đá vụn chùy đồ án có chút tương tự, chỉ là số lượng nhiều ra gấp mười.",
+      "dich": "Tay phải thi hài nắm một cây búa màu đỏ sậm, cán búa là một khúc gỗ màu đồng cổ, không biết là chất gỗ gì, đầu búa đen nhánh tỏa sáng, trên đó khắc chi chít đồ án hỏa diễm(hoa văn ngọn lửa), nhìn qua có phần giống đồ án tên cây búa đập khoáng thạch ở Hỏa phưởng, chỉ là số lượng đồ án nhiều gấp hơn mười lần.",
+      "suggest": "Tay phải thi hài cầm một thiết trùy màu đỏ sậm, chuôi là một thanh gỗ màu đồng cổ, không biết là gỗ gì, đầu búa đen nhánh tỏa sáng, phía trên khắc rõ đồ án hỏa diễm, đồ án có màu tương tự như đồ án trong phường đá vụn, chỉ là số lượng nhiều hơn gấp đôi mà thôi.",
+      "similarity": [
+        [
+          54,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh ý đồ cầm lấy chùy, vật này vậy mà kỳ trùng vô cùng, so với hỏa phường Chú Tạo Chùy còn nặng gấp năm lần có thừa, may mắn hắn hiện tại là vượn trắng biến thân, nếu là lấy hình người trạng thái, đoán chừng cho dù có thể giơ lên, cũng vô pháp dễ dàng huy động.",
+      "dich": "Viên Minh định cầm cây búa lên, không ngờ vật này lại cực kỳ nặng, so với búa rèn ở Hỏa phường phải nặng hơn hơn năm lần, may là hắn bây giờ đang ở dạng vượn trắng, nếu lấy trạng thái hình người, phỏng chừng dù có thể giơ lên thì cũng không cách nào huy động dễ dàng.",
+      "suggest": "Viên Minh ý đồ cầm lấy thanh trùy, vật này thật kỳ lạ, nặng hơn gấp năm lần thanh Hỏa phường chú. May mắn hiện giờ hắn là vượn trắng biến thân, nếu như cầm trên tay, cho dù có thể nhấc lên cũng không thể nào dễ dàng huy động được.",
+      "similarity": []
+    },
+    {
+      "convert": "Hắn vận khởi pháp lực rót vào trong đó, \"Ầm ầm\" một tiếng vang trầm, chùy bên trên bỗng nhiên dâng lên một cỗ hỏa diễm hồng quang, một cỗ mãnh liệt dị thường pháp lực ba động bộc phát ra, phụ cận không khí ong ong chiến minh.",
+      "dich": "Hắn vận khởi pháp lực rót vào trong cây búa, tức thì một tiếng 'ầm ầm' trầm đục vang lên, đồng thời một vầng sáng đỏ như ngọn lửa chợt bừng lên trên cây búa, theo đó một đợt ba động linh lực mãnh liệt dị thường bộc phát khiến không khí xung quanh ông ông chấn động.",
+      "suggest": "Hắn vận khởi pháp lực rót vào trong đó, \"Ầm ầm\" một tiếng, trên thanh trùy bỗng nhiên xuất hiện một luồng sáng hồng quang mãnh liệt, ba động pháp lực mãnh liệt phóng ra, không khí xung quanh ong ong chiến minh.",
+      "similarity": [
+        [
+          56,
+          0.2
+        ],
+        [
+          70,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "\"Thật là lợi hại chùy, không phải là một kiện pháp khí?\"",
+      "dich": "\"Thực sự là một cây búa lợi hại, chẳng lẽ là một kiện pháp khí?\"",
+      "suggest": "\"Thật là lợi hại, không phải là một kiện pháp khí?\"",
+      "similarity": [
+        [
+          57,
+          0.4
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh sắc mặt vui mừng, vội vàng thi triển Khu vật thuật nếm thử điều khiển.",
+      "dich": "Viên Minh thần sắc vui mừng, vội vàng thi triển Khu Vật thuật thử điều khiển.",
+      "suggest": "Viên Minh vui mừng, vội vàng thi triển Thuật Khu Vật kiểm tra.",
+      "similarity": [
+        [
+          58,
+          0.4
+        ]
+      ]
+    },
+    {
+      "convert": "Đỏ sậm chùy bên trên quang mang chớp động không thôi, đối Khu vật thuật phản ứng có chút mãnh liệt, nhưng cũng vẻn vẹn như thế, cũng không thể giống lư hương như thế, lập tức liền có thể bị khu động.",
+      "dich": "Hào quang đỏ sậm trên cây búa không ngừng chớp động, phản ứng với Khu Vật thuật khá mạnh, nhưng chung quy cũng chỉ có vậy, chứ không thể điều khiển được ngay được như lư hương.",
+      "suggest": "Quang mang màu đỏ sậm chớp động không ngừng đối với phản ứng của Thuật Khu Vật, phản ứng cũng có chút mãnh liệt. Nhưng cũng chỉ như lư hương mà thôi, không thể giống như lư hương, lập tức sẽ bị khu động.",
+      "similarity": []
+    },
+    {
+      "convert": "Viên Minh không có để ý cái này, khẽ quát một tiếng, huy động chùy đánh tới hướng phụ cận một mặt vách đá.",
+      "dich": "Viên Minh không để ý chuyện này, quát khẽ một tiếng, huy động cây búa đánh vào một mặt vách tường đá gần đó.",
+      "suggest": "Viên Minh không để ý tới lời này, khẽ quát một tiếng, huy động lôi chùy đánh tới một vách đá cạnh đó.",
+      "similarity": [
+        [
+          60,
+          0.33
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ầm ầm\" một tiếng vang thật lớn, lại có loại Lôi Hỏa bắn ra thanh âm, dày đặc vách đá đổ sụp mảng lớn, thạch thất mặt khác vài lần vách tường cũng xuất hiện vết rạn.",
+      "dich": "Một tiếng \"rầm rầm\" thật lớn vang lên, trong đó còn pha lẫn thanh âm lôi hỏa bắn ra, nhìn tới chỉ thấy vách đá dày đặc sụp hẳn một mảng lớn, đồng thời mấy mặt vách tường đá khác của gian thạch thất cũng xuất hiện vết rạn.",
+      "suggest": "\"Ầm ầm\", một tiếng nổ lớn vang lên, là một mảng lớn của vách đá bị sụp đổ, hơn nữa trên nhiều vách đá xung quanh cũng xuất hiện vết nứt.",
+      "similarity": [
+        [
+          61,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Toà này nhìn như kiên cố thạch thất, kém chút bị hắn một chùy đập sập.",
+      "dich": "Viên Minh vừa mừng vừa sợ, không nghĩ tới cây búa này lại có lực công kích kinh người như vậy, cứ coi như không phải pháp khí thì cũng không chênh bao nhiêu.",
+      "suggest": "Căn nhà đá này nhìn rất kiên cố, nhưng đã bị hắn đập sập một cái.",
+      "similarity": []
+    },
+    {
+      "convert": "Viên Minh trong lòng là vừa mừng vừa sợ, không nghĩ tới cái này chùy lực công kích kinh người như thế, coi như không phải pháp khí, cũng chênh lệch không xa.",
+      "dich": "Điểm đáng tiếc duy nhất chính là nó quá nặng, dù có biến thân vượn trắng để tăng cường lực lượng thì huy động vẫn không được linh hoạt lắm, sử dụng trong chiến đấu hiển nhiên sẽ rất bất tiện.",
+      "suggest": "Viên Minh trong lòng vừa mừng vừa sợ, không nghĩ tới công kích kinh người của cây chùy này, cho dù không phải là pháp khí cũng chênh lệch không ít.",
+      "similarity": [
+        [
+          62,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "Đáng tiếc duy nhất chính là, này chùy quá mức nặng nề, cho dù lấy ngày nay vượn trắng biến thân gia trì sau lực lượng, huy động cũng không lắm linh hoạt, trong chiến đấu vận dụng còn có rất nhiều không tiện.",
+      "dich": "Hắn nuối tiếc lắc đầu, thu cây búa đỏ sẩm vào trong túi trữ vật, lúc này mới quan sát thi hài trước mắt.",
+      "suggest": "Điều đáng tiếc duy nhất chính là, thanh trùy này quá nặng, cho dù có thể dùng để gia trì lực lượng, huy động cũng không mấy linh hoạt, trong chiến đấu cũng có rất nhiều bất tiện.",
+      "similarity": [
+        [
+          63,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn tiếc nuối lắc đầu, đem đỏ sậm đại chùy thu vào trữ vật đại, lúc này mới dò xét trước mắt thi hài.",
+      "dich": "Thân thể thi hài khá cao lớn, xem ra chắc là người Nam Cương, phục sức trên người cũng mang phong cách Nam Cương, trông chưa mục nát lắm nên có thể suy đoán, thời gian người này qua đời hẳn là mới chỉ một, hai năm.",
+      "suggest": "Hắn tiếc nuối lắc đầu, cất cái búa màu đỏ sậm vào trong trữ vật, lúc này mới quan sát thi hài trước mắt.",
+      "similarity": [
+        [
+          64,
+          0.56
+        ]
+      ]
+    },
+    {
+      "convert": "Thi hài thân thể có chút cao lớn, nhìn hẳn là Nam Cương người, trên người phục sức cũng là Nam Cương phong cách, còn không có mục nát nhiều ít, bởi vậy có thể suy tính, người này qua đời thời gian hẳn là cái này một hai năm.",
+      "dich": "Viên Minh cẩn thận di chuyển thi hài, chợt một tiếng \"lạch cạch\" nhỏ vang lên, một cái túi nhỏ rớt xuống, để ý thấy có một cỗ khí tức cấm chế quẩn quanh bên trên túi.",
+      "suggest": "Thân thể thi hài có chút cao lớn, nhìn hẳn là người Nam Cương, trên người phục sức cũng là kiểu Nam Cương, không có mục nát gì, bởi vậy có thể suy đoán, người này qua đời trước một hai năm, theo như lời đồn thổi thì thời gian người này qua đời là khoảng một hai năm.",
+      "similarity": [
+        [
+          65,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh cẩn thận xoay chuyển thi hài, \"Lạch cạch\" một tiếng vang nhỏ, một cái màu đen túi nhỏ rớt xuống, một cỗ nhàn nhạt cấm chế khí tức quanh quẩn trên đó.",
+      "dich": "Hắn với khí tức này cũng xa lạ gì, bởi vì hắn cũng có một vật tương tự.",
+      "suggest": "Viên Minh cẩn thận xoay người thi hài, \"lạch cạch\" một tiếng, một cái túi nhỏ màu đen rớt xuống, một luồng khí tức cấm chế nhàn nhạt lượn lờ trên đó.",
+      "similarity": [
+        [
+          66,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn đối cỗ khí tức này cũng không lạ lẫm, bởi vì hắn cũng có một cái vật tương tự, cái này cái túi nhỏ chính là một cái túi đựng đồ.",
+      "dich": "Cái túi nhỏ kia chính là một túi trữ vật.",
+      "suggest": "Hắn cũng không xa lạ với cỗ khí tức này, bởi vì hắn cũng có một vật tương tự, đó chính là một cái túi nhỏ.",
+      "similarity": [
+        [
+          67,
+          0.38
+        ]
+      ]
+    },
+    {
+      "convert": "\"Có túi trữ vật, xem ra người này cũng là một vị tu sĩ, mà lại tu vi không thấp!\"",
+      "dich": "\"Có túi trữ vật, xem ra người này cũng là một tu sĩ, hơn nữa tu vì còn không thấp!\"",
+      "suggest": "\"Có túi trữ vật, xem ra người này cũng là một tu sĩ, mà tu vi lại không thấp!\"",
+      "similarity": [
+        [
+          69,
+          0.73
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh lông mày giương lên, cẩn thận cầm qua cái túi, vận khởi pháp lực rót vào trong đó, dựa theo Tam động chủ truyền thụ cho luyện vật pháp quyết vận chuyển.",
+      "dich": "Viên Minh nhướng mày, cẩn thận cầm túi tới, vận khởi pháp lực rót vào trong đó, tiếp đấy dựa theo pháp quyết mà Tam động chủ truyền thụ, vận chuyển pháp lực luyện hóa vật này.",
+      "suggest": "Viên Minh khẽ nhíu mày, cẩn thận cầm lấy cái túi, vận khởi Pháp lực rót vào trong đó, dựa theo pháp quyết mà tam động chủ truyền thụ.",
+      "similarity": [
+        [
+          70,
+          0.38
+        ]
+      ]
+    },
+    {
+      "convert": "Màu đen túi nhỏ rất nhanh liền bị luyện hóa, hiện ra bên trong không gian.",
+      "dich": "Túi nhỏ màu đen nhanh chóng bị luyện hóa, để lộ ra không gian bên trong.",
+      "suggest": "Túi nhỏ màu đen rất nhanh đã được luyện hóa, hiện ra bên trong không gian.",
+      "similarity": [
+        [
+          71,
+          0.25
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn mặt lộ vẻ kinh hãi, màu đen túi nhỏ bên trong không gian vậy mà phi thường lớn, Tam động chủ ban cho hắn túi trữ vật không gian chỉ có năm sáu thước vuông, cùng loại một cái tủ quần áo lớn nhỏ, cái này màu đen túi nhỏ lại chừng nửa gian phòng lớn.",
+      "dich": "Mặt hắn lộ vẻ kinh hãi, không ngờ không gian bên trong túi này lại cực kỳ lớn, túi trữ vật mà Tam động chủ ban cho hắn chỉ có không gian năm sáu thước vuông, ngang với một cái tủ đựng quần áo, trong khi cái túi nhỏ màu đen này lại lớn bằng khoảng nửa gian phòng.",
+      "suggest": "Mặt hắn lộ vẻ kinh hãi, không gian màu đen bên trong không gian rất lớn, không gian bên trong không gian màu đen chỉ có năm sáu thước vuông, cùng loại tủ quần áo, cái túi màu đen này lớn hơn nửa gian phòng nhỏ.",
+      "similarity": [
+        [
+          72,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Căn cứ hắn hiểu rõ đến tin tức, ở Nam Cương vùng này Tu Tiên Giới, trữ vật loại pháp khí vốn là trân quý, bên trong không gian càng là lớn, giá trị tự nhiên cũng càng cao, cái này màu đen túi nhỏ bên trong không gian to lớn như thế, cầm đi bán chỉ sợ có thể trực tiếp đổi lấy mấy kiện pháp khí công kích đi.",
+      "dich": "Căn cứ vào những điều mà hắn biết, trong giới tu tiên Nam Cương, pháp khí trữ vật vốn rất trân quý, không gian bên trong càng lớn thì giá trị càng cao, túi nhỏ màu đen này có không gian bên trong lớn như vậy, cầm đi bán chỉ sợ có thể trực tiếp đổi được mấy kiện pháp khí công kích.",
+      "suggest": "Căn cứ theo những gì hắn biết được, ở Tu Tiên Giới, các loại pháp khí trữ vật bên trong không gian càng lớn, giá trị đương nhiên cũng càng cao, cái túi nhỏ màu đen này trong không gian này càng lớn, chỉ sợ có thể trực tiếp đổi lấy mấy kiện pháp khí công kích.",
+      "similarity": [
+        [
+          72,
+          0.12
+        ],
+        [
+          73,
+          0.33
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh trong lòng phanh phanh trực nhảy, nắm chặt này túi, quay người hướng chung quanh nhìn lại, một bộ sinh sợ bị người nhìn đến bộ dáng.",
+      "dich": "Viên Minh tim đập thình thịch, nắm chặt túi nhỏ, quay người nhìn khắp xung quanh, bộ dáng y như đang sợ bị người khác nhìn thấy.",
+      "suggest": "Viên Minh nhảy dựng lên, nắm chặt cái túi, quay người nhìn xung quanh, dáng vẻ nơm nớp sợ bị người ta nhìn thấy.",
+      "similarity": [
+        [
+          21,
+          0.11
+        ],
+        [
+          74,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Nhưng sau một khắc hắn ý thức được đây là một tòa không người hoang đảo, trừ hắn ra, chỉ sợ ở trên đảo căn bản không có những người khác, không khỏi có chút nhịn không được cười lên.",
+      "dich": "Nhưng sau một khắc hắn ý thức được nơi đây là một hoang đảo không người, trừ hắn ra, e là trên đảo cơ bản chẳng có người nào khác, nhất thời không khỏi bật cười tự giễu.",
+      "suggest": "Nhưng sau một khắc hắn ý thức được đây là một hoang đảo không người, ngoại trừ hắn ra, căn bản không có bất kỳ ai trên hòn đảo này, không nhịn được mà bật cười thành tiếng.",
+      "similarity": [
+        [
+          75,
+          0.42
+        ]
+      ]
+    },
+    {
+      "convert": "Màu đen túi nhỏ bên trong cũng không phải là trống không, nơi hẻo lánh ở bên trong trưng bày một bản cục gạch dày màu trắng thư tịch, cùng mười mấy khối trứng bồ câu lớn nhỏ màu đỏ đá tròn.",
+      "dich": "Bên trong túi nhỏ cũng không phải trống không, ở chỗ hẻo lánh bên trong có bày một cuốn sách màu trắng dày như cục gạch và mười mấy khối đá tròn màu đỏ to bằng quả trứng bồ câu.",
+      "suggest": "Bên trong túi nhỏ màu đen cũng không phải là không có gì, ở bên trong treo một quyển sách màu trắng dày cộp, cùng với mười mấy viên bi màu đỏ lớn cỡ quả trứng bồ câu.",
+      "similarity": [
+        [
+          76,
+          0.27
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh lấy ra một khối màu đỏ đá tròn, bên trong ẩn hiện hỏa hồng quang mang, một cỗ linh lực ba động từ đó lộ ra, mặc dù chẳng mạnh mẽ lắm, lại phi thường thuần túy.",
+      "dich": "Viên Minh lấy một khối đá tròn màu đỏ ra, chỉ thấy bên trong có tia sáng đỏ lửa chớp động, đồng thời một cỗ ba động linh lực từ đó hiện ra, dù không mạnh mẽ lắm nhưng lại vô cùng thuần khiết.",
+      "suggest": "Viên Minh lấy ra một khối đá màu đỏ, bên trong ẩn hiện ánh lửa hồng, một cỗ linh lực ba động từ trong đó tuôn ra, mặc dù không mạnh mẽ lắm, nhưng lại phi thường thuần túy.",
+      "similarity": [
+        [
+          77,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "\"Vật này, hẳn là chính là linh thạch!\"",
+      "dich": "\"Thứ này, hẳn chính là linh thạch!\"",
+      "suggest": "\"Vật này, hẳn là Linh Thạch!\"",
+      "similarity": [
+        [
+          15,
+          0.1
+        ],
+        [
+          78,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn nhẹ giọng tự nói.",
+      "dich": "Hắn thì thào tự nói.",
+      "suggest": "Hắn khẽ thì thào.",
+      "similarity": [
+        [
+          79,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Cái gọi là linh thạch, tên như ý nghĩa, chính là ẩn chứa thiên địa linh khí tảng đá, là Tu Tiên Giới thường thấy nhất, cũng là trọng yếu nhất một loại tài nguyên.",
+      "dich": "Cái gọi là linh thạch, đúng như tên gọi, chính là khối đá ẩn chứa linh khí thiên địa, là loại tài nguyên phổ biến và quan trọng nhất trong tu tiên giới.",
+      "suggest": "Linh Thạch, theo nghĩa đen thì đó chính là một loại tài nguyên trọng yếu nhất của Tu Tiên Giới, cũng là một loại tài nguyên trọng yếu nhất.",
+      "similarity": []
+    },
+    {
+      "convert": "Thế gian ngàn vạn tu sĩ tu luyện, cơ bản yếu nghĩa chính là thu nạp giữa thiên địa tán loạn linh lực, thông qua đủ loại công pháp, chuyển hóa thành bản thân có thể chưởng khống pháp lực.",
+      "dich": "Điểm cơ bản và quan trọng nhất trong việc tu luyện của ngàn vạn tu sĩ trên thế gian, chính là thu nạp linh lực tán loạn trong thiên địa, sau đó thông qua đủ loại công pháp, chuyển hóa thành pháp lực mà bản thân có thể khống chế, điều khiển.",
+      "suggest": "Tu sĩ trên thế gian này, cơ bản chính là thu nạp Linh lực tán loạn giữa trời đất, thông qua đủ loại công pháp, chuyển hóa thành Pháp lực có thể khống chế.",
+      "similarity": [
+        [
+          81,
+          0.32
+        ]
+      ]
+    },
+    {
+      "convert": "Chỉ là giữa thiên địa linh lực tán loạn, càng lẫn nhau hỗn tạp, muốn rút ra đưa ra bên trong một loại luyện hóa, tốn thời gian càng phí sức, đây cũng là ngăn cản tu sĩ nhanh chóng tinh tiến tu vi lớn nhất chướng ngại.",
+      "dich": "Chỉ là linh lực giữa thiên địa tán loạn, hơn nữa pha trộn hỗn tạp, muốn rút một loại từ trong đó ra để luyện hóa vừa tốn thời gian vừa tốn sức, đây cũng là chướng ngại lớn nhất ngăn cản tu sĩ nhanh chóng tăng cao tu vi.",
+      "suggest": "Chỉ là trong Thiên Địa Linh lực tán loạn, càng lúc càng hỗn loạn, muốn rút ra một phương pháp luyện hóa thì mất rất nhiều thời gian, đây cũng là chướng ngại lớn nhất ngăn cản tu sĩ nhanh chóng tinh tiến tu vi.",
+      "similarity": [
+        [
+          82,
+          0.36
+        ]
+      ]
+    },
+    {
+      "convert": "Thế gian có chút động thiên phúc địa trời sinh linh khí tràn đầy, hình thành linh mạch, năm này tháng nọ dưới, linh mạch phụ cận liền có khả năng sinh ra linh thạch.",
+      "dich": "Thế gian có một số động thiên phúc địa linh khí tràn đây, hình thạch linh mạch, qua năm này tháng nọ, quanh linh mạch đó có thể sản sinh ra linh thạch.",
+      "suggest": "Thế gian có chút phúc địa trời sinh, linh khí dồi dào, hình thành linh mạch, vào năm này tháng nọ, linh mạch phụ cận có khả năng sinh ra Linh Thạch.",
+      "similarity": [
+        [
+          83,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Linh thạch bên trong ẩn chứa linh mạch linh lực, dị thường tinh thuần, không cần công pháp tinh luyện, trực tiếp liền có thể đặt vào pháp lực bên trong, tốc độ tu luyện so với bình thường vận công ngồi xuống sắp rồi không biết bao nhiêu.",
+      "dich": "Bên trong linh thạch ẩn chứa linh lực linh mạch, thuần khiết dị thường, không cần công pháp tinh luyện, có thể trực tiếp đặt vào trong pháp lực, từ đó có thể khiến tốc độ tu luyện nhanh hơn không biết bao nhiêu lần so với đả tọa vận công bình thường.",
+      "suggest": "Linh lực trong Linh Thạch ẩn chứa linh lực, dị thường tinh thuần, không cần công pháp tinh luyện, trực tiếp có thể đặt vào trong Pháp lực, tốc độ tu luyện so với bình thường không biết là bao nhiêu.",
+      "similarity": [
+        [
+          84,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Có này một hạng công hiệu, linh thạch liền có thể xưng Tu Tiên Giới đệ nhất bảo vật, thậm chí đem nó xem như giao dịch đồng tiền mạnh sử dụng.",
+      "dich": "Có loại công hiệu này nên linh thạch có thể xưng là bảo vật số một tu tiên giới, thậm chí người ta còn dùng nó như một loại tiền tệ mạnh để giao dịch.",
+      "suggest": "Với công hiệu này, linh thạch có thể gọi là bảo vật tu tiên nhất, thậm chí nó còn được sử dụng như một loại giao dịch tiền tệ mạnh.",
+      "similarity": [
+        [
+          85,
+          0.2
+        ]
+      ]
+    },
+    {
+      "convert": "Bất quá linh thạch tác dụng không chỉ có thể phụ trợ tu luyện, ở lịch đại tu Tiên Giả môn nghiên cứu một chút, đã xem này vận dụng cho luyện khí, luyện đan, bố trí pháp trận các loại phía trên, có thể phát huy ra kỳ lạ hơn Đặc diệu dụng, có thể nói chỉ cần là cần linh lực sự tình, linh thạch đều có thể phát huy tác dụng cực lớn.",
+      "dich": "Có điều tác dụng của linh thạch không chỉ giới hạn ở việc hỗ trợ tu luyện, qua sự nghiên cứu của nhiều thế hệ tu tiên giả, nó còn được dùng vào luyện khí, luyện đan, bố trí pháp trận ... vv..., cái nào cũng có thể đặc biệt phát huy ra hiệu quả kỳ diệu, có thể nói chỉ cần là việc cần tới linh lực thì linh thạch đều có thể phát huy tác dụng cực lớn.",
+      "suggest": "Tuy nhiên tác dụng của Linh Thạch không chỉ dừng lại ở việc hỗ trợ tu luyện, ở trong giới tu tiên giả đã nghiên cứu qua một lần, đã xem xét cách vận dụng Linh Thạch trong luyện khí, luyện đan, bố trí pháp trận, có thể phát huy được tác dụng cực lớn. Có thể nói chỉ cần là chuyện cần Linh lực, linh thạch đều có thể phát huy được tác dụng cực lớn.",
+      "similarity": [
+        [
+          86,
+          0.38
+        ]
+      ]
+    },
+    {
+      "convert": "Nhiều như vậy công dụng, để linh thạch trở nên quý hiếm, các môn các phái đều tại tranh đoạt loại này hiếm thấy tài nguyên, địa phương khác như thế nào Viên Minh không biết, bất quá nghe nói Bích La Động duy nhất - chỗ mỏ linh thạch bị xem như tông môn trọng địa, điều động đại lượng tu sĩ bảo hộ, Hành Chấp Đường bên trong sốt dẻo nhất nhiệm vụ một trong, chính là mỏ linh thạch tọa trấn nhiệm vụ.",
+      "dich": "Nhiều công dụng như vậy khiến linh thạch trở nên quý hiếm, các môn các phái đều ra sức tranh đoạt loại tài nguyên hiếm thấy này, chỗ khác thế nào Viên Minh không biết, nhưng nghe nói mỏ linh thạch duy nhất của Bích La Động bị xem như trọng địa tông môn, điều động một lượng lớn tu sĩ bảo vệ, mà một trong những nhiệm vụ hàng đầu trong Hành Chấp đường, chính là nhiệm vụ tọa trấn mỏ linh thạch.",
+      "suggest": "Công dụng lớn như vậy, để cho Linh Thạch trở nên quý hiếm, các môn các phái đều tranh đoạt loại tài nguyên hiếm thấy này, địa phương khác như Bích La động, được xem là trọng địa của tông môn, một trong những nhiệm vụ sốt dẻo nhất của Tông môn chính là tọa trấn mỏ Linh Thạch.",
+      "similarity": [
+        [
+          87,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "(hôm nay tiếp tục bốn canh cầu phiếu vé a ^)",
+      "suggest": "Hôm nay tiếp tục với bốn canh cầu phiếu.'",
+      "similarity": []
+    }
+  ]
+}
