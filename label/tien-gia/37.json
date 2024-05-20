@@ -1,0 +1,1438 @@
+{
+  "currentLine": 100,
+  "next": {
+    "id": 38,
+    "title": "Chương 38: Vây kín"
+  },
+  "previous": {
+    "id": 36,
+    "title": "Chương 36: Tránh đầu sóng ngọn gió"
+  },
+  "title": {
+    "convert": "Chương 37",
+    "dich": "Chương 37"
+  },
+  "lines": [
+    {
+      "convert": "Ngay tại Viên Minh hết sức chuyên chú tu luyện bộ pháp thời điểm, Cáp Mô Cốc bên trong vẫn như cũ người đến người đi, có chút náo nhiệt.",
+      "dich": "Vào lúc Viên Minh ra sức tập trung tu luyện bộ pháp, trong Cáp Mô Cốc vẫn như cũ, người đến kẻ đi, tương đối náo nhiệt.",
+      "suggest": "Thời điểm Viên Minh hết sức chuyên chú tu luyện bộ pháp quyết, trong cốc vẫn tấp nập người ra vào, có chút náo nhiệt.",
+      "similarity": [
+        [
+          0,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Khoảng cách Cáp Mô Cốc hơn ngoài mười dặm một chỗ bóng rừng đất trống, Thanh Lang Bang chủ Ô Bảo ngồi xếp bằng, nhắm mắt hô hấp thổ nạp.",
+      "dich": "Trên một khoảng đất trống trong rừng rậm cách Cáp Mô Cốc hơn mười dặm, bang chủ Thanh Lang Bang, Ô Bảo ngồi xếp bằng, nhắm mắt hô hấp thổ nạp.",
+      "suggest": "Khoảng cách đến Cáp Mô Cốc hơn mười dặm, bang chủ Ô Bảo của bang chủ Ô Bảo ngồi xếp bằng, nhắm mắt hô hấp thổ nạp.",
+      "similarity": [
+        [
+          1,
+          0.5
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đột nhiên, một hồi gấp rút tiếng bước chân vang lên, một thân ảnh bước nhanh chạy vào.",
+      "dich": "Đột nhiên, một hồi tiếng bước chân dồn dập vang lên, rồi một một bóng người chạy nhanh tới.",
+      "suggest": "Đột nhiên, một hồi tiếng bước chân gấp rút vang lên, một bóng người xuất hiện chạy nhanh vào.",
+      "similarity": [
+        [
+          2,
+          0.46
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Tán Bái, sự tình thăm dò được như thế nào?\"",
+      "dich": "\"Tán Bái, chuyện thăm dò làm tới đâu rồi?\"",
+      "suggest": "\"Tán Bái, sự tình thăm dò được như thế nào?\"",
+      "similarity": [
+        [
+          3,
+          0.24
+        ],
+        [
+          10,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Bảo không có mở mắt, mở miệng hỏi.",
+      "dich": "Ô Bảo vẫn nhắm mới, mở miệng hỏi.",
+      "suggest": "Ô Bảo không mở mắt, mở miệng hỏi.",
+      "similarity": [
+        [
+          4,
+          0.45
+        ],
+        [
+          7,
+          0.11
+        ],
+        [
+          49,
+          0.1
+        ],
+        [
+          54,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bang chủ, như ngươi sở liệu, kia Viên Minh trước đó không lâu quả nhiên đi Cáp Mô Cốc, đáng tiếc chúng ta muộn đi một bước, để tiểu tử này trượt.\"",
+      "dich": "\"Bang chủ, đúng như ngươi dự liệu, Viên Minh trước đây không lâu quả nhiên tới Cáp Mô Cốc, đáng tiếc chúng ta tới chậm một bước, để tiểu tử này chuồn mất.\"",
+      "suggest": "\"Bang chủ, theo như ngươi dự đoán, Viên Minh trước đó không lâu đã đi Cáp Mô Cốc, đáng tiếc chúng ta chậm một bước, để tiểu tử này trượt.\"",
+      "similarity": [
+        [
+          5,
+          0.44
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tán Bái khom người nói.",
+      "dich": "Tán Bái khom người đáp.",
+      "suggest": "Tán Bái khom người nói.",
+      "similarity": [
+        [
+          6,
+          0.54
+        ],
+        [
+          9,
+          0.19
+        ],
+        [
+          13,
+          0.13
+        ],
+        [
+          61,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Hừ, ngay cả Ba Âm đều bị kỳ độc tay, ngươi cho rằng chỉ bằng mấy người các ngươi, đi sớm có thể lưu lại hắn?\"",
+      "dich": "\"Hừ, ngay cả Ba Âm cũng trúng độc thủ của hắn, người cho rằng chỉ bằng mấy người các ngươi, tới sớm thì có thể giữ hắn lại?\"",
+      "suggest": "\"Hừ, ngay cả Ba Âm cũng bị kỳ độc, ngươi cho rằng chỉ bằng mấy người các ngươi đi sớm thì có thể lưu lại hắn sao?\"",
+      "similarity": [
+        [
+          7,
+          0.5
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Bảo bỗng nhiên mở mắt, lạnh lùng nói.",
+      "dich": "Ô Bảo mở lớn hai mắt, lạnh lùng chất vấn.",
+      "suggest": "Ô Bảo bỗng nhiên mở mắt, lạnh lùng nói.",
+      "similarity": [
+        [
+          8,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bang chủ bớt giận, ta cũng không phải hoàn toàn không có thu hoạch, kia Viên Minh nhập cốc, cùng hai người từng có giao dịch.\"",
+      "dich": "\"Bang chủ bớt giận, ta cũng không phải không thu hoạch được gì, tên Viên Minh kia sau khi vào cốc, từng có giao dịch với hai người.\"",
+      "suggest": "\"Bang chủ bớt giận, ta cũng không phải hoàn toàn không thu hoạch được gì, Viên Minh nhập cốc của ta, cùng hai người đã từng có giao dịch.\"",
+      "similarity": [
+        [
+          9,
+          0.51
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tán Bái nói gấp.",
+      "dich": "Tán Bái vội nói thêm.",
+      "suggest": "Tán Bái nói.",
+      "similarity": [
+        [
+          6,
+          0.18
+        ],
+        [
+          10,
+          0.19
+        ],
+        [
+          13,
+          0.13
+        ],
+        [
+          61,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Bảo chỉ là nhìn xem Tán Bái, không nói gì.",
+      "dich": "Ô Bảo chỉ nhìn Tán Bái, không nói gì.",
+      "suggest": "Ô Bảo chỉ nhìn Tán Bái, không nói gì.",
+      "similarity": [
+        [
+          3,
+          0.11
+        ],
+        [
+          11,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Trong đó một cái là ký danh đệ tử Triệu Đồng, có chút tham tài, lấp chút chỗ tốt về sau, nghe nói chỉ là bán cho Viên Minh một môn bộ pháp.",
+      "dich": "\"Một trong hai người là đệ tử ký danh Triệu Đồng, có phần tham tài, sau khi nhét cho chút chỗ tốt, nghe nói là chỉ bán cho Viên Minh một môn bộ pháp.",
+      "suggest": "\"Trong đó có một tên đệ tử ký danh đệ tử Triệu Đồng, có chút tham tài, sau khi được một chút lợi ích, nghe nói chỉ bán cho Viên Minh một bộ pháp quyết.",
+      "similarity": [
+        [
+          12,
+          0.37
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một người khác gọi Thổ Lặc, là cái kia chuyên môn lén lút bán tin tức Thổ Hùng sẽ người, ta xem chừng, Viên Minh khả năng đã từ hắn nào biết, chúng ta đuổi giết hắn sự tình.\"",
+      "dich": "Một người khác gọi là Thổ Lặc, là người của Thổ Hùng hội, chuyên lén lút bán tin tức, ta đoán chừng, rất có thể Viên Minh đã từ tên này mà biết được việc chúng ta truy sát hắn.\"",
+      "suggest": "Một người khác tên là Thổ Lặc, là người chuyên lén lút bán tin tức Thổ Hùng cho người khác, ta xem chừng, Viên Minh không phải người nào biết được chúng ta sẽ đuổi giết hắn.\"",
+      "similarity": [
+        [
+          13,
+          0.31
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tán Bái gượng cười hai tiếng, tiếp tục nói.",
+      "dich": "Tán Bái gượng cười, nói tiếp.",
+      "suggest": "Tán Bái cười gượng hai tiếng, tiếp tục nói.",
+      "similarity": [
+        [
+          14,
+          0.11
+        ],
+        [
+          61,
+          0.22
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Biết, nghĩ hết tất cả biện pháp tìm tới Viên Minh điểm dừng chân, ta muốn đích thân chiếu cố hắn.",
+      "dich": "\"Hiểu rồi, nghĩ hết mọi cách tìm chỗ Viên Minh dừng chân, ta muốn đích thân chăm sóc hắn.",
+      "suggest": "\"Tốt! Nghĩ hết tất cả các biện pháp tìm một điểm dừng chân, ta sẽ đích thân chiếu cố hắn.",
+      "similarity": [
+        [
+          15,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mặt khác, cùng thế lực này, nhất là linh cẩu đường cường điệu một lần nữa, bắt lấy Viên Minh không được giết hắn, ta muốn người sống.\"",
+      "dich": "Mặt khác, với các thế lực khác, nhất là Liệp Cẩu Đường, nhấn mạnh một lần nữa là bắt Viên Minh chứ không được giết hắn, ta cần người sống.\"",
+      "suggest": "Mặt khác, cũng phải dùng lực lượng Linh cẩu, cường điệu một lần nữa, bắt Viên Minh không được giết hắn, ta phải sống.\"",
+      "similarity": [
+        [
+          16,
+          0.26
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Bảo nói xong, lại nhắm mắt lại.",
+      "dich": "Ô Bảo dặn dò xong liền nhắm mắt lại.",
+      "suggest": "Ô Bảo nói xong, lại nhắm mắt lại.",
+      "similarity": [
+        [
+          4,
+          0.11
+        ],
+        [
+          17,
+          0.32
+        ],
+        [
+          99,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Minh bạch, thuộc hạ cáo từ.\"",
+      "dich": "\"Đã rõ, thuộc hạ cáo từ.\"",
+      "suggest": "\"Minh bạch, thuộc hạ cáo từ.\"",
+      "similarity": [
+        [
+          18,
+          0.66
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tán Bái lên tiếng, lui ra ngoài.",
+      "dich": "Tán Bái lên tiếng đáp, xong liền lui ra ngoài.",
+      "suggest": "Tán Bái lên tiếng, lui ra ngoài.",
+      "similarity": [
+        [
+          6,
+          0.11
+        ],
+        [
+          10,
+          0.11
+        ],
+        [
+          14,
+          0.12
+        ],
+        [
+          19,
+          0.44
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Viên Minh... Ngươi có thể lấy sức một mình tru sát Ba Âm, chỉ sợ đã không dưới luyện khí tầng hai, trên người ngươi tất có bí mật gì!",
+      "dich": "\"Viên Minh ... Ngươi có thể dùng sức một mình tru sát Ba Âm, chỉ sợ đã không dưới Luyện Khí tầng hai, trên người ngươi rốt cuộc có bí mật gì?!",
+      "suggest": "\"Viên Minh ... Ngươi có thể một mình tru sát ba Âm, chỉ sợ không dưới tầng hai luyện khí, trên người ngươi chắc có bí mật gì!",
+      "similarity": [
+        [
+          20,
+          0.32
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ta ngược lại muốn xem xem, đến tột cùng là cái gì tạo hóa, có thể để ngươi tu vi tăng lên nhanh như vậy!\"",
+      "dich": "Ta trái lại muốn xem xem, đến cùng là tạo hóa gì, lại có thể để tu vi ngươi tăng nhanh như vậy.\"",
+      "suggest": "Ta muốn xem xem, đến tột cùng là tạo hóa gì mà có thể khiến cho tu vi của ngươi tăng lên nhanh như vậy!\"",
+      "similarity": [
+        [
+          21,
+          0.35
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Bảo lần nữa mở ra hai mắt, ánh mắt sáng ngời....",
+      "dich": "Ô Bảo lần nữa mở mắt ra, ánh mắt lập lòe...",
+      "suggest": "Ô Bảo một lần nữa mở hai mắt, ánh mắt sáng ngời.",
+      "similarity": [
+        [
+          8,
+          0.15
+        ],
+        [
+          22,
+          0.22
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh động quật chỗ ở phụ cận sơn lâm.",
+      "dich": "Trong mảnh rừng cạnh động quật trú chân của Viên Minh.",
+      "suggest": "Động quật Viên Minh gần động quật.",
+      "similarity": [
+        [
+          23,
+          0.1
+        ],
+        [
+          39,
+          0.14
+        ],
+        [
+          43,
+          0.13
+        ],
+        [
+          54,
+          0.12
+        ],
+        [
+          63,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một đạo quỷ dị bóng người giữa khu rừng lóe ra, khi thì ở bên trái, trong nháy mắt liền đến bên phải, trong rừng bụi cây bụi cỏ không có đối hắn sinh ra bất kỳ ảnh hưởng gì, quỷ dị bóng người cũng không có đụng phải bất luận cái gì một ngọn cỏ lá cây, phảng phất cũng không phải là huyết nhục chi khu.",
+      "dich": "Một bóng người quỷ dị thoắt ẩn thoát hiện giữa khu rừng, khi thì ở bên trái, chỉ chớp mắt sau đã qua bên phải, lùm cây bụi cỏ trong rừng không có bất kỳ ảnh hưởng gì tới hắn, bóng người quỷ dị cũng không chạm tới bất kỳ lá cây ngọn cỏ nào, tựa hồ như đó không phải thân thể máu thịt vậy.",
+      "suggest": "Một bóng người quỷ dị xuất hiện giữa khu rừng, khi thì ở bên trái, trong nháy mắt đến bên phải, bụi cây bụi cỏ trong rừng không có bất kỳ ảnh hưởng nào đối với hắn, bóng người quỷ dị cũng không đụng bất cứ thứ gì vào, phảng phất như không phải là bản thể.",
+      "similarity": [
+        [
+          24,
+          0.42
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bóng người đột nhiên đình chỉ, rơi vào một tảng đá lớn bên trên, hiện ra Viên Minh thân ảnh, miệng lớn thở dốc, trong mắt lại mang theo vui mừng.",
+      "dich": "Bóng người đột nhiên dừng lại, đáp trên một tảng đá lớn, hiện ra bóng dáng Viên Minh đang há miệng thở dốc, trong mắt lộ vẻ mừng vui.",
+      "suggest": "Bóng người đột ngột dừng lại, rơi xuống một tảng đá lớn, hiện ra thân ảnh Viên Minh đang thở dốc, trong mắt lại tràn đầy vẻ vui mừng.",
+      "similarity": [
+        [
+          25,
+          0.4
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn về tới đây đã ba ngày.",
+      "dich": "Hắn về tới đây đã được ba ngày.",
+      "suggest": "Hắn về tới đây đã ba ngày.",
+      "similarity": [
+        [
+          26,
+          0.6
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trong ba ngày này, Viên Minh không có tu luyện Cửu Nguyên Quyết, tất cả thời gian cùng tinh lực đều dùng tại Vô Ảnh Bộ luyện tập bên trên.",
+      "dich": "Trong ba ngày này, Viên Minh không tu luyện Cửu Nguyên Quyết, dành tất cả thời và tinh lực vào việc luyện tập Vô Ảnh Bộ.",
+      "suggest": "Trong ba ngày này, Viên Minh không tu luyện Cửu Nguyên Quyết, tất cả thời gian và tinh lực đều dành cho luyện tập trên Vô Ảnh Bộ.",
+      "similarity": [
+        [
+          27,
+          0.55
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nơi đây mặc dù bí mật, nhưng thiên hạ không có tường nào gió không lọt qua được, khó đảm bảo Thanh Lang Bang người sẽ không tìm đến, nhất định phải tận khả năng tăng thực lực lên.",
+      "dich": "Nơi đây dù kín đáo, nhưng thiên hạ nào có tường nào không lọt gió, khó đảm bảo người Thanh Lang Bang sẽ không tìm tới, nhất định phải tận khả năng tăng thực lực lên.",
+      "suggest": "Mặc dù nơi đây rất bí mật, nhưng thiên hạ không có lối thoát nào có thể lọt qua được, khó đảm bảo người của bang Thanh Lang Bang không tìm đến, nhất định phải tận lực gia tăng thực lực.",
+      "similarity": [
+        [
+          28,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn phát hiện bản thân tại bộ pháp bên trên rất có thiên phú, chỉ dùng ngắn ngủi mấy ngày, Vô Ảnh Bộ cũng đã nhập môn.",
+      "dich": "Hắn phát hiện bản thân rất có thiên phú tu luyện bộ pháp, chỉ dùng mấy ngày ngắn ngủi đã nhập môn Vô Ảnh Bộ.",
+      "suggest": "Hắn phát hiện bản thân ở trên bộ pháp thuật này rất có thiên phú, chỉ dùng trong mấy ngày ngắn ngủi mà Vô Ảnh Bộ đã nhập môn.",
+      "similarity": [
+        [
+          29,
+          0.39
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Càng là tu luyện, hắn càng là có thể trải nghiệm Vô Ảnh Bộ pháp huyền diệu, một khi thi triển ra, thân hình nhanh như gió, quả thật có thể làm được \"Vô ảnh\" hai chữ.",
+      "dich": "Càng tu luyện, hắn càng trải nghiệm được sự huyền diệu của Vô Ảnh bộ pháp, một khi thi triển ra, người nhanh như gió, quả thực không hổ hai chữ 'Vô Ảnh'.",
+      "suggest": "Càng tu luyện, hắn càng có thể trải nghiệm bộ pháp quyết vô ảnh huyền diệu, một khi thi triển ra, thân hình nhanh như gió, quả thật có thể làm được hai chữ 'Vô ảnh'.",
+      "similarity": [
+        [
+          30,
+          0.41
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mà lại môn này bộ pháp giỏi về tại chật hẹp, phức tạp hoàn cảnh hạ linh hoạt xê dịch, cùng vượn trắng biến thân có chút xứng đôi.",
+      "dich": "Hơn nữa bộ pháp này sở trường về di chuyển linh hoạt trong hoàn cảnh phức tạp, phức tạp, rất phù hợp với biến thân vượn trắng.",
+      "suggest": "Mà bộ pháp quyết này lại rất linh hoạt, linh hoạt biến hóa, so với biến thân của vượn trắng có chút xứng đôi.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Chỉ là Vô Ảnh Bộ thi triển ra đối thân thể gánh vác rất lớn, cũng phi thường tiêu hao pháp lực, lấy hắn ngày nay luyện khí ba tầng pháp lực tổng lượng, cho dù không thôi động pháp thuật khác, tối đa cũng chỉ có thể kiên trì một khắc đồng hồ, muốn càng vận may hơn dùng môn này bộ pháp, còn cần phải tiếp tục tăng cao tu vi, rèn luyện nhục thân.",
+      "dich": "Có điều việc thi triển Vô Ảnh Bộ, không chỉ gây áp lực rất lớn lên người, hơn nữa còn rất tốn pháp lực, lấy toàn bộ pháp lực Luyện Khí tầng ba của hắn hiện tại, dù cho không thôi động pháp thuật khác, cũng chỉ có thể kiên trì được mười lăm phút đồng hồ, muốn sử dụng bộ pháp này trong thời gian dài hơn, còn cần phải tiếp tục nâng cao tu vi, rèn luyện thân thể.",
+      "suggest": "Chỉ là bộ Vô Ảnh Bộ này thi triển ra đối với thân thể cũng phi thường tiêu hao Pháp lực, với tổng lượng Pháp lực của hắn ngày nay, cho dù không ngừng động pháp thuật khác, tối đa cũng chỉ có thể kiên trì trong một khắc, muốn tiếp tục dùng bộ pháp thuật này thì trước tiên phải tiếp tục tăng cao tu vi, rèn luyện nhục thân.",
+      "similarity": [
+        [
+          32,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Phi mao thú nô liền có thể có cơ hội lấy được bực này bộ pháp thần diệu, không biết Bích La Động những đệ tử kia pháp thuật thần thông, cái kia có cỡ nào lợi hại!\"",
+      "dich": "\"Phi Mao thú nô đã có thể có cơ hội lấy được bộ pháp thần diệu thế này, không biết pháp thuật thần thông của những đệ tử Bích La Động kia sẽ còn lợi hại thế nào!\"",
+      "suggest": "\"Phi mao thú nô đã có thể có được bộ pháp thuật thần diệu này, không biết những đệ tử Bích La Động kia thông qua thần thông gì, điều này có lợi hại đến mức nào!\"",
+      "similarity": [
+        [
+          33,
+          0.42
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nhìn về phía Bích La Động sơn môn phương hướng, chưa phát giác sinh lòng mấy phần hướng tới.",
+      "dich": "Viên Minh nhìn về phía sơn môn Bích La Động, trong lòng bất giác sinh ra chút chờ mong.",
+      "suggest": "Viên Minh nhìn về phía sơn môn Bích La động, không nén được mà sinh lòng vài phần.",
+      "similarity": [
+        [
+          34,
+          0.42
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh lấy lại tinh thần, khoanh chân ngồi xuống, bắt đầu vận chuyển Cửu Nguyên Quyết.",
+      "dich": "Viên Minh lấy lại tinh thần, khoanh chân ngồi xuống, bắt đầu vận chuyển Cửu Nguyên Quyết.",
+      "suggest": "Viên Minh lấy lại tinh thần, khoanh chân ngồi xuống, bắt đầu vận chuyển Cửu Nguyên Quyết.",
+      "similarity": [
+        [
+          35,
+          0.76
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tu luyện nhiều ngày như vậy, hắn phát hiện Cửu Nguyên Quyết chẳng những có thể nhanh chóng tiếp dẫn thiên địa linh khí nhập thể, tinh tiến pháp lực, chỉ cần vận chuyển môn công pháp này, thể lực cũng có thể khôi phục nhanh chóng.",
+      "dich": "Tu luyện nhiều ngày như vậy, hắn phát hiện ra Cửu Nguyên Quyết chẳng những có thể nhanh chóng tiếp dẫn linh khí thiên địa nhập thể, tinh tiến pháp lực, hơn nữa, chỉ cần vận chuyển môn công pháp này, lại có thể mau chóng khôi phục thể lực.",
+      "suggest": "Hắn tu luyện nhiều ngày như vậy, hắn phát hiện Cửu Nguyên Quyết chẳng những có thể nhanh chóng hấp thụ Linh Khí vào cơ thể, tinh tiến Pháp lực, chỉ cần vận chuyển môn công pháp này là thể lực cũng có thể khôi phục lại nhanh chóng.",
+      "similarity": [
+        [
+          36,
+          0.45
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn có thể tại như thế trong thời gian ngắn tu thành Vô Ảnh Bộ, cũng may mà Cửu Nguyên Quyết năng lực khôi phục.",
+      "dich": "Hắn có thể tu thành Vô Ảnh Bộ trong thời gian ngắn như vậy, cũng là nhờ vào năng lực khôi phục của Cửu Nguyên Quyết.",
+      "suggest": "Hắn có thể trong thời gian ngắn tu thành Vô Ảnh Bộ, cũng may mà có năng lực khôi phục Cửu Nguyên Quyết.",
+      "similarity": [
+        [
+          37,
+          0.37
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh thể lực cùng pháp lực rất nhanh đều khôi phục, về tới động quật.",
+      "dich": "Viên Minh rất nhanh đã khôi phục lại thể lực và pháp lực, xong liền trở lại động quật.",
+      "suggest": "Thể lực Viên Minh nhanh chóng khôi phục, nhanh chóng quay trở lại động quật.",
+      "similarity": [
+        [
+          38,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Động quật nơi hẻo lánh chỗ, Cáp Cống chính ngồi xếp bằng.",
+      "dich": "Cáp Cống đang ngồi xếp bằng trong góc động quật.",
+      "suggest": "Trong động quật vắng vẻ, Cáp Cống đang ngồi xếp bằng trước một chiếc ghế.",
+      "similarity": [
+        [
+          39,
+          0.31
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trải qua mấy ngày nay an dưỡng, Cáp Cống trước ngực vết thương đã vảy, thường ngày hành động đã không ngại, nhưng muốn triệt để khỏi hẳn, còn phải cần một khoảng thời gian.",
+      "dich": "Trải qua mấy ngày an dưỡng, vết thương trên bụng Cáp Cống đã liền miệng, đóng vảy, hoạt động hàng ngày đã không còn gặp trở ngại, nhưng muốn khỏi hẳn thì còn cần một khoảng thời gian nữa.",
+      "suggest": "Trải qua mấy ngày dưỡng thương, vết thương trước ngực Cáp Cống đã lành, ngày ngày vận động cũng không ngại, nhưng muốn hoàn toàn khỏi hẳn thì cần một khoảng thời gian dài.",
+      "similarity": [
+        [
+          40,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn hai tay dâng bản thân Thanh Lang da lông, miệng lẩm bẩm, tựa hồ đang thi triển cái nào đó pháp thuật, lại không phải Phi Mao Thuật, bàn tay cùng Thanh Lang da thú tiếp xúc địa phương có quang mang lấp lóe.",
+      "dich": "Y đưa hai tay nâng tấm da sói xanh lên, miệng lẩm bẩm, vẻ như đang thi triển thuật pháp nào đó không phải Phi Mao Thuật, chỗ bàn tay tiếp xúc với da sói xanh còn thế những tia sáng xanh lấp lóe.",
+      "suggest": "Hai tay lão dâng lên da lông của con sói, miệng lẩm bẩm, tựa hồ đang thi triển một pháp thuật nào đó, nhưng không phải là Thuật Phi Mao, bàn tay lão chạm vào da thú có ánh sáng lấp lóe.",
+      "similarity": [
+        [
+          41,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ngươi đang làm cái gì?\"",
+      "dich": "\"Đang làm gì đấy?\"",
+      "suggest": "\"Ngươi đang làm gì đó?\"",
+      "similarity": [
+        [
+          42,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh tò mò hỏi.",
+      "dich": "Viên Minh tò mò hỏi.",
+      "suggest": "Viên Minh tò mò hỏi.",
+      "similarity": [
+        [
+          43,
+          1
+        ],
+        [
+          54,
+          0.16
+        ],
+        [
+          63,
+          0.18
+        ],
+        [
+          67,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cáp Cống không có trả lời Viên Minh, tiếp tục tụng niệm có từ, trọn vẹn một bữa cơm sau mới mở to mắt, trên bàn tay quang mang tùy theo biến mất.",
+      "dich": "Cáp Cống không trả lời hắn, mà tiếp tục tụng niệm nhịp nhàng, sau thời gian trọn một bữa cơm mới mở mắt ra, theo đó ánh sáng trên bàn tay cũng biến mất.",
+      "suggest": "Cáp Cống không trả lời Viên Minh, tiếp tục tụng niệm pháp quyết, suốt cả bữa cơm hắn mới mở to mắt ra, quang mang trên bàn tay tùy thời biến mất.",
+      "similarity": [
+        [
+          44,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Thật có lỗi, ta vừa rồi tại thai nghén phi mao da thú, quá trình này không thể gián đoạn.\"",
+      "dich": "\"Xin lỗi, ta mới rồi đang dựng dưỡng Phi Mao thú bì, quá trình này không thể gián đoạn.\"",
+      "suggest": "\"Thật xấu hổ, vừa rồi ta mang thai ngoài ý muốn, quá trình này không thể gián đoạn.\"",
+      "similarity": [
+        [
+          45,
+          0.41
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cáp Cống mang chút áy náy nói.",
+      "dich": "Cáp Cống áy náy đáp.",
+      "suggest": "Cáp Cống mang chút áy náy nói.",
+      "similarity": [
+        [
+          46,
+          0.17
+        ],
+        [
+          61,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Không sao, bất quá thai nghén phi mao da thú là cái gì?",
+      "dich": "\"Không sao, nhưng dựng dưỡng Phi Mao thú bì là cái gì?",
+      "suggest": "\"Không sao, bất quá da thú mang thai nghén là cái gì?",
+      "similarity": [
+        [
+          47,
+          0.34
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ta thế nào chưa từng nghe nói qua.\"",
+      "dich": "Sao ta chưa từng nghe qua.\"",
+      "suggest": "Ta sao chưa từng nghe qua chuyện này?\"",
+      "similarity": [
+        [
+          48,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đã tọa hạ tu luyện, mở mắt hỏi.",
+      "dich": "Viên Minh cũng đã ngồi xuống tu luyện, mở mắt hỏi.",
+      "suggest": "Viên Minh đang tu luyện, mở mắt hỏi.",
+      "similarity": [
+        [
+          4,
+          0.12
+        ],
+        [
+          44,
+          0.12
+        ],
+        [
+          49,
+          0.52
+        ],
+        [
+          54,
+          0.13
+        ],
+        [
+          67,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Việc này nói đến có chút phức tạp, còn muốn từ những này phi mao da thú phương pháp luyện chế nói đến.\"",
+      "dich": "\"Việc này nói tới có hơi phức tạp, phải bắt đầu nói từ phương pháp luyện chế những Phi Mao thú bì này.\"",
+      "suggest": "\"Việc này có chút phức tạp, còn phải từ phương pháp luyện chế Phi Mao da thú này nói đến.\"",
+      "similarity": [
+        [
+          50,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cáp Cống tựa hồ tại kiếm từ ngữ, im lặng sau khi mới mở miệng nói ra.",
+      "dich": "Cáp Cống tựa như đang lựa chọn câu từ, im lặng một lúc mới mở miệng nói.",
+      "suggest": "Cáp Cống tựa hồ đang dùng từ ngữ để hình dung, sau đó mới mở miệng nói.",
+      "similarity": [
+        [
+          51,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ngươi biết phi mao da thú quá trình luyện chế?",
+      "dich": "\"Ngươi biết quá trình luyện chế Phi Mao thú bì?",
+      "suggest": "\"Ngươi có biết quy trình luyện chế Phi Mao da thú?",
+      "similarity": [
+        [
+          52,
+          0.37
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Xin lắng tai nghe.\"",
+      "dich": "Xin rửa tai lắng nghe.\"",
+      "suggest": "Xin lắng tai nghe.\"",
+      "similarity": [
+        [
+          49,
+          0.12
+        ],
+        [
+          53,
+          0.29
+        ],
+        [
+          62,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nhãn tình sáng lên nói.",
+      "dich": "Viên Minh mắt sáng lên, hỏi.",
+      "suggest": "Ánh mắt Viên Minh sáng lên, nói.",
+      "similarity": [
+        [
+          14,
+          0.11
+        ],
+        [
+          44,
+          0.11
+        ],
+        [
+          54,
+          0.25
+        ],
+        [
+          63,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ta cũng là nghe Cáp Mô Cốc bên trong một vị bày quầy bán hàng Bích La Động đệ tử nói qua, Bích La Động đem sống sờ sờ hung thú đầu nhập một tòa bí trong trận, theo pháp trận vận chuyển, hung thú huyết nhục, hài cốt, thú hồn những vật này sẽ đều hóa thành nguyên khí, luyện vào da thú bên trong, như quá trình không có phạm sai lầm, một trương phi mao da thú liền sẽ sinh ra.",
+      "dich": "\"Ta cũng chỉ là nghe từ miệng một đệ tử Bích La Động bày quầy bán hàng trong Cáp Mô Cốc, Bích La Động đưa hung thú sống nguyên vào trong một tòa bí trận, theo sự vận chuyển của pháp trận, tất cả xương cốt, máu thịt của hung thú sẽ đều hóa thành nguyên khí, luyện vào trong da thú, nếu như quá trình không xảy ra lỗi, sẽ lập tức cho ra một tấm Phi Mao thú bì.",
+      "suggest": "\"Ta cũng nghe một vị đệ tử bán hàng bên trong Cáp Mô Cốc nói qua, Bích La Động đem hung thú còn sống vào trong một gian bí mật. Theo pháp trận vận chuyển, toàn bộ máu thịt hung thú sẽ được chuyển vào trong một kiện Phi Mao da thú. Nếu quá trình không có sai lầm, một miếng da thú sẽ thành hình.",
+      "similarity": [
+        [
+          55,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trong tay chúng ta phi mao da thú, nhìn như là một khối da, kỳ thật ẩn chứa một con hung thú sở hữu sinh mệnh tinh hoa.\"",
+      "dich": "Phi Mao thú bì trong tay chúng ta, trông như một tấm da, kỳ thật lại ẩn chứa toàn bộ tinh hoa sinh mệnh mà hung thú sở hữu.\"",
+      "suggest": "Phi Mao da thú trong tay chúng ta nhìn như là một miếng da, kỳ thật ẩn chứa tinh hoa sở hữu sinh mệnh của hung thú.\"",
+      "similarity": [
+        [
+          56,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Thú hồn...\"",
+      "dich": "\"Thú hồn ...\"",
+      "suggest": "\"Thú Hồn ...\"",
+      "similarity": [
+        [
+          49,
+          0.11
+        ],
+        [
+          54,
+          0.13
+        ],
+        [
+          62,
+          0.15
+        ],
+        [
+          89,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nghe nói lời này, hồi tưởng lại lư hương cường hóa hai tấm da thú lúc tình hình.",
+      "dich": "Viên Minh nghe những lời này, nhớ lại tình cảnh khi lư hương cường hóa hai tấm da thú.",
+      "suggest": "Viên Minh nghe nói vậy, hồi tưởng tình hình lư hương cường hóa hai tấm da thú lúc bấy giờ.",
+      "similarity": [
+        [
+          58,
+          0.35
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc trước hắn liền hoài nghi phi mao da thú bên trong ẩn chứa thú hồn, hiện tại xem ra, quả là thế.",
+      "dich": "Hắn lúc trước đã hoài nghi trong Phi Mao thú bì có ẩn chưa thú hồn, bây giờ xem ra quả là thế thật.",
+      "suggest": "Lúc trước hắn còn hoài nghi trong da thú có ẩn chứa thú hồn, hiện giờ xem ra đúng là thế.",
+      "similarity": [
+        [
+          59,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên huynh ngươi dùng lâu như vậy Phi Mao Thuật, hẳn là hoặc nhiều hoặc ít có thể cảm nhận được trong đó thú hồn a?\"",
+      "dich": "Viên huynh dùng Phi Mao Thuật lâu như vậy, hẳn là cũng ít nhiều cảm nhận được thú hồn bên trong nhỉ?\"",
+      "suggest": "Viên huynh dùng Thuật Phi Mao lâu như vậy, hẳn là cảm nhận được thú hồn trong đó nhiều hơn một chút chứ?\"",
+      "similarity": [
+        [
+          61,
+          0.41
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cáp Cống tiếp tục nói.",
+      "dich": "Cáp Cống tiếp tục nói.",
+      "suggest": "Cáp Cống tiếp tục nói.",
+      "similarity": [
+        [
+          47,
+          0.18
+        ],
+        [
+          62,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Hơi có phát giác.\"",
+      "dich": "\"Phát giác một chút.\"",
+      "suggest": "\"Hơi có phát hiện.\"",
+      "similarity": [
+        [
+          49,
+          0.11
+        ],
+        [
+          54,
+          0.13
+        ],
+        [
+          63,
+          0.15
+        ],
+        [
+          89,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh ừ một tiếng.",
+      "dich": "Viên Minh ậm ừ đáp.",
+      "suggest": "Viên Minh ừ một tiếng.",
+      "similarity": [
+        [
+          44,
+          0.18
+        ],
+        [
+          55,
+          0.12
+        ],
+        [
+          64,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Những này phi mao da thú đã là tử vật, bên trong thú hồn một mực tại chậm rãi suy yếu, kỳ thật cái gọi là thai nghén phi mao da thú, là lấy pháp lực ôn dưỡng da thú, ổn định trong đó thú hồn.\"",
+      "dich": "\"Nhưng những tấm Phi Mao thú bì này đã là vật chết, thú hồn bên trong cũng liên tục từ từ suy yếu, thế nên cái gọi là dựng dưỡng Phi Mao thú bì, thực chất là dùng pháp lực ôn dưỡng da thú, ổn định thú hồn trong đó.\"",
+      "suggest": "\"Những con Phi Mao da thú này đã là thú cưng, thú hồn bên trong vẫn đang chậm rãi suy yếu. Kỳ thật cái gọi là Phi Mao da thú, là để dưỡng chất nuôi dưỡng da thú, ổn định lại thú hồn trong đó.\"",
+      "similarity": [
+        [
+          65,
+          0.3
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cáp Cống lúc này mới nói đến chủ đề.",
+      "dich": "Cáp Cống bây giờ mới đi vào chuyện chính.",
+      "suggest": "Lúc này Cáp Cống mới nói đến chủ đề.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Thú hồn suy yếu chi thế không cách nào nghịch chuyển đi, kia ổn định trong đó thú hồn đến tột cùng ra sao mục đích?\"",
+      "dich": "\"Thú hồn suy yếu là xu thế không thể nào nghịch chuyển, vậy việc ổn định thú hồn bên trong rốt cuộc là có mục đích gì?\"",
+      "suggest": "\"Thú hồn suy yếu thế không thể nghịch chuyển, mục đích ổn định thú hồn trong đó rốt cuộc là gì?\"",
+      "similarity": [
+        [
+          65,
+          0.1
+        ],
+        [
+          67,
+          0.34
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh trước gật gật đầu, sau đó hỏi.",
+      "dich": "Viên Minh trước gật gật đầu, sau lại hỏi.",
+      "suggest": "Viên Minh gật gật đầu, sau đó hỏi.",
+      "similarity": [
+        [
+          44,
+          0.12
+        ],
+        [
+          55,
+          0.13
+        ],
+        [
+          68,
+          0.45
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Thai nghén da thú không chỉ có thể chậm lại thú hồn suy yếu chi thế, còn có thể sử tự thân cùng Phi Mao Thuật càng thêm phù hợp, lấy tốt hơn điều khiển Phi Mao Thuật biến thân.",
+      "dich": "\"Dựng dưỡng da thú không chỉ có thể làm chậm lại việc thú hồn suy yếu, còn có thể khiến bản thân và Phi Mao Thuật càng phù hợp hơn, từ đó điều khiển Phi Mao Thuật biến thân càng tốt hơn.",
+      "suggest": "\"Bình dưỡng da thú không chỉ có thể làm chậm lại tình trạng tê liệt của thú hồn, mà còn có thể sử dụng tự thân và Phi Mao Thuật càng thêm phù hợp. Giúp nó điều khiển Phi Mao Thuật tốt hơn.",
+      "similarity": [
+        [
+          69,
+          0.37
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Vận khí tốt, còn có thể kích phát thú hồn tiềm năng, thức tỉnh một hai cái năng lực, đương nhiên đây là có thể ngộ nhưng không thể cầu sự tình, lại cần tốn hao mười phần thời gian dài dằng dặc.\"",
+      "dich": "Vận khí tốt, còn có thể kích phát tiềm năng của thú hồn, thức tính một hai loại năng lực, đương nhiên đây chỉ là chuyện có thể gặp chứ không thể cầu, hơn nữa cần phải hao phí thời gian rất dài.\"",
+      "suggest": "Vận khí tốt, còn có thể kích phát tiềm năng của thú hồn, thức tỉnh một hai loại năng lực đương nhiên chuyện này có thể gặp nhưng không thể cầu, lại càng không thể cầu nổi. Thời gian mười phần là không thể thiếu.\"",
+      "similarity": [
+        [
+          70,
+          0.47
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cáp Cống nói, trong mắt lướt qua vẻ chờ mong.",
+      "dich": "Cáp Cống giải thích, trong mắt thoáng hiện lên vẻ ước ao.",
+      "suggest": "Cáp Cống nói, trong mắt lướt qua vẻ chờ mong.",
+      "similarity": [
+        [
+          71,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Kích phát thú hồn tiềm năng, thức tỉnh năng lực mới!\"",
+      "dich": "\"Kích phát tiềm năng thú hồn, thức tỉnh năng lực mới!\"",
+      "suggest": "\"Kích phát tiềm năng thú hồn, thức tỉnh năng lực mới!\"",
+      "similarity": [
+        [
+          72,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh trong lòng mặc niệm một câu, liếc nhìn cánh tay phải.",
+      "dich": "Viên Minh thầm nói trong lòng một câu, đưa mắt nhìn qua cánh tay phải.",
+      "suggest": "Viên Minh thầm nghĩ một câu, sau đó liếc mắt nhìn cánh tay phải.",
+      "similarity": [
+        [
+          73,
+          0.29
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Từ thần bí lư hương trước đây chữa trị da thú cùng kích phát năng lực biểu hiện đến xem, cũng là tới một mức độ nào đó thai nghén thú hồn, lại hiệu quả hơn xa Cáp Cống cái gọi là thai nghén bí thuật.",
+      "dich": "Nhìn từ việc lư hương thần bí chữa trị và kích phát năng lực da thú trước đây mà nói, theo một khía cạnh nào đó thì cũng là dựng dưỡng thú hồn, hơn nữa hiệu quả còn vượt xa cái bí thuật dựng dưỡng trong lời Cáp Cống.",
+      "suggest": "Từ biểu hiện của lư hương thần bí trước kia khi chữa trị da thú và năng lực kích phát năng lực của nó, xem ra đây là một loại bí thuật thai nghén thú hồn đến một trình độ nào đó, hiệu quả còn hơn xa bí thuật thai nghén thú hồn mà Cáp Cống gọi là Thai nghén bí thuật.",
+      "similarity": [
+        [
+          74,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ngươi thế nhưng là đối thai nghén da thú bí pháp cảm thấy hứng thú?",
+      "dich": "\"Ngươi cảm thấy hứng thú với bí pháp dựng dưỡng da thú sao?",
+      "suggest": "\"Huynh có cảm thấy hứng thú với bí pháp thai nghén da thú?",
+      "similarity": [
+        [
+          75,
+          0.47
+        ],
+        [
+          76,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Này thuật ta cũng là ngoài ý muốn được đến, liền tặng ngươi một phần đi.\"",
+      "dich": "Thuật này ta cũng là ngẫu nhiên có được, tặng người một bản này.\"",
+      "suggest": "Ta cũng là ngoài ý muốn được đến đây, vậy ngươi hãy tặng ta một phần.\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Cáp Cống gặp Viên Minh sững sờ xuất thần, coi là hắn đối thai nghén bí pháp cảm thấy hứng thú, lấy ra một khối tràn ngập chữ nhỏ da thú đưa tới.",
+      "dich": "Cáp Cống thấy Viên Minh xuất thần tới ngây người, nghĩ rằng hắn cảm thấy hứng thú với bí pháp này, liền lấy một tấm da thú với chi chít chữ bên trên, đưa tới.",
+      "suggest": "Cáp Cống thấy Viên Minh sửng sốt, cho rằng hắn đối với bí pháp thai nghén cảm thấy hứng thú, lấy ra một miếng da thú đầy chữ nhỏ đưa tới.",
+      "similarity": [
+        [
+          77,
+          0.24
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Vậy liền đa tạ Cáp Cống huynh.\"",
+      "dich": "\"Vậy thì đa tạ Cáp Cống huynh.\"",
+      "suggest": "\"Đa tạ Cáp Cống huynh.\"",
+      "similarity": [
+        [
+          47,
+          0.13
+        ],
+        [
+          49,
+          0.11
+        ],
+        [
+          54,
+          0.11
+        ],
+        [
+          62,
+          0.13
+        ],
+        [
+          63,
+          0.13
+        ],
+        [
+          78,
+          0.54
+        ],
+        [
+          89,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đối thai nghén chi thuật xác thực cảm thấy hứng thú, cũng không có khách khí.",
+      "dich": "Viên Minh quả thực có hứng thú nới thuật dựng dưỡng nên cũng không khách khí.",
+      "suggest": "Viên Minh xác thực cảm thấy hứng thú với thuật thai nghén, cũng không có khách khí.",
+      "similarity": [
+        [
+          75,
+          0.19
+        ],
+        [
+          77,
+          0.11
+        ],
+        [
+          79,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Viên huynh cứu ta một mạng, nho nhỏ bí thuật, cần gì tiếc nuối.\"",
+      "dich": "\"Viên huynh cứu ta một mạng, bí thuật cỏn con, còn chưa có đủ.\"",
+      "suggest": "\"Viên huynh cứu ta một mạng, bí thuật nho nhỏ cần gì phải tiếc nuối.\"",
+      "similarity": [
+        [
+          80,
+          0.52
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cáp Cống cười ha ha một tiếng, sau đó chỉ điểm Viên Minh vài câu thai nghén bí thuật tâm đắc, liền tiếp theo nhắm mắt vận công.",
+      "dich": "Cáp Cống cười ha ha, chỉ điểm cho Viên Minh mấy câu tâm đắc về bí thuật dựng dưỡng này, xong liền tiếp tục nhắm mắt vận công.",
+      "suggest": "Cáp Cống cười ha hả một tiếng, sau đó liền chỉ điểm Viên Minh vài câu tâm đắc khi thụ tinh bí thuật, tiếp đó nhắm mắt vận công.",
+      "similarity": [
+        [
+          81,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh phát hiện cái này thai nghén chi thuật, nội dung cũng không phức tạp, hắn nguyên lý đại khái là thông qua đem trong cơ thể mình pháp lực chuyển hóa làm một loại nào đó có thể ôn dưỡng thần hồn năng lượng, lại lấy thủ đoạn đặc thù rót vào da thú bên trong lấy ôn dưỡng thú hồn, mà phi mao da thú mạnh yếu thì cùng ẩn chứa trong đó thú hồn mạnh yếu vui buồn tương quan.",
+      "dich": "Viên Minh phát hiện nội dung thuật dựng dưỡng này cũng không phức tạp, nguyên lý cơ bản của nó là thông qua việc chuyển hóa pháp lực trong người mình thành một loại năng lượng nào đó có tác dụng ôn dưỡng thần hồn, sau đó lại dùng thủ đoạn đặc thù rót vào trong da thú để ôn dưỡng thú hồn, cái nữa là việc Phi Mao thú bì mạnh yếu thế nào có liên quan mật thiết với việc thú hồn mạnh yếu, vui buồn ra sao.",
+      "suggest": "Viên Minh phát hiện thuật thai nghén này nội dung cũng không phức tạp, nguyên lý cơ bản là thông qua việc Pháp lực trong cơ thể mình chuyển hóa thành một loại năng lượng ôn dưỡng thần hồn, còn thủ đoạn đặc thù rót vào trong da thú để ôn dưỡng thần hồn, mà thủ đoạn đặc thù rót vào trong da thú để ôn dưỡng thú hồn, mà mạnh yếu ở chỗ nào cũng có sự vui buồn xen lẫn nhau.",
+      "similarity": [
+        [
+          82,
+          0.39
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn đại khái lĩnh hội minh bạch về sau, liền không ngừng không nghỉ địa vận chuyển Cửu Nguyên Quyết, chậm rãi đem pháp lực rót vào vượn trắng chi da bên trong, dựa theo thai nghén bí thuật phương thức vận chuyển lại, bàn tay cùng vượn da tiếp xúc địa phương nổi lên từng tia từng tia bạch quang, cùng Cáp Cống vừa rồi thi pháp lúc đồng dạng.",
+      "dich": "Sau khi đã tìm hiểu được sơ bộ nội dung, hắn lập tức vận chuyển Cửu Nguyên Quyết, chậm rãi rót pháp lực vào trong da vượn, vận chuyển theo phương pháp ghi trong bí thuật, tức thì chỗ da tay tiếp xúc với tấm da vượn nổi lên từng tia sáng trắng, y như Cáp Cống thi pháp lúc nãy.",
+      "suggest": "Sau khi hắn hiểu rõ được phương pháp vận chuyển Cửu Nguyên Quyết, không ngừng không ngừng nghỉ đem pháp lực rót vào trong da vượn trắng, dựa theo phương thức thai nghén bí thuật, bàn tay và da vượn chạm nhau phát ra ánh sáng trắng, giống hệt như lúc thi pháp với Cáp Cống.",
+      "similarity": [
+        [
+          83,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh gặp này âm thầm gật đầu, tiếp tục vận chuyển pháp lực.",
+      "dich": "Viên Minh thấy vậy, thầm hài lòng, tiếp tục vận chuyển pháp lực.",
+      "suggest": "Viên Minh thấy vậy âm thầm gật đầu, tiếp tục vận chuyển Pháp lực.",
+      "similarity": [
+        [
+          68,
+          0.12
+        ],
+        [
+          84,
+          0.43
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thời gian từng giờ trôi qua, đảo mắt qua gần nửa ngày, hắn phát hiện bản thân cùng vượn trắng da ở giữa cảm ứng xác thực có chỗ tăng cường.",
+      "dich": "Thời gian từng giờ trôi đi, nhoáng cái đã qua nửa ngày, hắn phát hiện cảm ứng giữa bản thân và tấm da vượn đúng là có tăng lên.",
+      "suggest": "Thời gian từng giờ trôi qua, hắn phát hiện cảm ứng giữa bản thân và vượn trắng có chỗ tăng lên.",
+      "similarity": [
+        [
+          85,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chỉ là tăng cường mức độ thực sự là có hạn, muốn mượn này tăng lên Phi Mao Thuật uy lực, không phải năm này tháng nọ khổ tu mới được, mà cử động lần này không chỉ có đối pháp lực tiêu hao không nhỏ, lại sẽ ảnh hưởng thường ngày tu luyện.",
+      "dich": "Có điều mức độ tăng cường này thực sự rất có hạn, muốn dựa vào cái này để đề thăng uy lực của Phi Mao Thuật phải khổ tu hết năm này tới tháng nọ mới được, hơn nữa việc này không chỉ tiêu hao không ít pháp lực, mà còn ảnh hưởng đến việc tu luyện hàng ngày nữa.",
+      "suggest": "Chỉ là mức độ tăng lên thực sự là có hạn, muốn mượn lực lượng Phi Mao Thuật này phải mất mấy năm mới có thể tu luyện được. Mà cử động này của hắn không chỉ tiêu hao Pháp lực không nhỏ, mà còn ảnh hưởng đến sinh hoạt thường ngày của hắn.",
+      "similarity": [
+        [
+          85,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Trước đó dùng lư hương cường hóa da thú, đều là xem da thú bản thân phải chăng hấp thu, ngày nay có cái này thai nghén bí thuật, nếu dùng này thuật thôi động lư hương bên trong kia cỗ nhiệt lưu dung nhập vượn trắng da, không thông báo sẽ không càng hữu hiệu?\"",
+      "dich": "\"Lúc trước dùng lu hương cường hóa da thú, đều là để da thú tự động hấp thu, hiện tại có thuật dựng dưỡng này, nếu dùng thuật này thôi động luồng nhiệt lưu từ lư hương dung nhập vào trong da vượn trắng, có lẽ sẽ càng thêm hữu hiệu?\"",
+      "suggest": "\"Trước đó dùng lư hương cường hóa da thú đều là do bản thân hấp thu hay không mà thôi. Ngày nay có bí thuật thai nghén bí thuật, nếu dùng lư hương này tác động lên da thú, không thông báo cho chúng ta biết có còn hiệu quả không?\"",
+      "similarity": [
+        [
+          86,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nói làm liền làm, Viên Minh lặng yên đi vào ngoài hang động mặt một chỗ chỗ ẩn núp, lấy ra lư hương nâng ở trong tay.",
+      "dich": "Nói là làm ngay, Viên Minh lặng yên đi đến một chỗ kín đáo bên ngoài động quật, lấy lư hương ra nâng trên tay.",
+      "suggest": "Nói xong lời này, Viên Minh lặng yên đi vào một chỗ bí mật trong hang động, lấy ra lư hương đặt trong tay.",
+      "similarity": [
+        [
+          88,
+          0.25
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một dòng nước nóng từ lư hương bên trong chảy ra, Viên Minh vội vàng vận chuyển thai nghén chi thuật, ý đồ dẫn dắt cỗ nhiệt lưu này, cẩn thận từng li từng tí hội tụ đến trên tay phải của hắn.",
+      "dich": "Một dòng nhiệt lưu từ trong lư hương chảy ra, Viên Minh vội vàng vận chuyển thuật dựng dưỡng nhằm dẫn dắt luồng nhiệt lưu này, cẩn thận từng chút tụ vào cánh tay phải của hắn.",
+      "suggest": "Một dòng nước nóng từ lư hương chảy ra, Viên Minh vội vàng vận chuyển thuật thai nghén, ý đồ dẫn dắt dòng khí nóng này, cẩn thận từng li từng tí hội tụ lên trên tay phải của hắn.",
+      "similarity": [
+        [
+          89,
+          0.44
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Hi vọng này thuật hữu dụng.\"",
+      "dich": "\"Hy vọng thuật này hữu dụng.\"",
+      "suggest": "\"Hi vọng thuật này có tác dụng.\"",
+      "similarity": [
+        [
+          90,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn âm thầm cầu nguyện, bấm tay điểm ra, đem lư hương nhiệt lưu rót vào vượn trắng da bên trong.",
+      "dich": "Hắn thầm cầu nguyện, bấm đốt điểm tới, rót luồng nhiệt lưu của lư hương vào trong tấm da vượn.",
+      "suggest": "Hắn âm thầm cầu khẩn, bấm tay điểm nhẹ một cái, rót ra một giọt tinh dầu nóng rót vào da con vượn trắng.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Vượn trắng da giống như bọt biển đem cỗ nhiệt lưu này hấp thu, cả trương da thú không gió mà bay, sau đó tự hành thi triển ra Phi Mao Thuật, bám vào Viên Minh trên thân, hóa thành vượn trắng hình thái.",
+      "dich": "Da vượn trắng như bọt biển thấm nước, hấp thu toàn bộ luồng nhiệt lưu, tiếp đó không gió mà bay, rồi tự động thi triển Phi Mao Thuật, bám lên người Viên Minh, hóa thành hình thái vượn trắng.",
+      "suggest": "Da thú này giống như bong bóng nước hấp thu luồng nhiệt lưu lại, sau đó tự động thi triển Thuật Phi Mao, bám vào người Viên Minh rồi hóa thành hình dạng con vượn trắng.",
+      "similarity": [
+        [
+          92,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Vượn trắng thân thể nổi lên hiện ra từng đạo màu trắng đường vân, lóe ra sáng tỏ bạch quang, cái kia đạo vượn hồn hư ảnh lại lần nữa hiển hiện ra, so với lúc trước dày đặc không ít.",
+      "dich": "Bên trên thân thể vượn trắng hiện ra từng đường vân màu trắng tỏa sáng chớp động, mà ảo ảnh hồn vượn kia cũng lần nữa hiện ra, có điều ngưng thực hơn trước khá nhiều.",
+      "suggest": "Thân thể vượn trắng hiện lên từng đám vân màu trắng, lóe lên ánh sáng trắng, hư ảnh vượn hồn kia lại lần nữa hiện ra, dày đặc hơn trước không ít.",
+      "similarity": [
+        [
+          93,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngoài ra, Viên Minh phát hiện, bản thân cùng vượn da liên hệ sâu hơn một chút, phỏng đoán cẩn thận, bù đắp được tu luyện thai nghén chi thuật hai tháng thành quả.",
+      "dich": "Bên cạnh đó, Viên Minh phát hiện liên hệ giữa hắn và da vượn càng sâu sắc hơn, tỉ mỉ tính toán thì hiệu quả một lần này thôi đủ bằng hai tháng tu luyện thuật dựng dưỡng.",
+      "suggest": "Ngoài ra, Viên Minh phát hiện, bản thân và vượn da có quan hệ mật thiết hơn một chút, dựa vào phán đoán cẩn thận, bù đắp được hai tháng thành quả tu luyện thuật thai nghén hai tháng.",
+      "similarity": [
+        [
+          94,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn nhẹ nhàng thở ra, sau đó tiếp tục thôi động lư hương bên trong nhiệt lưu, rót vào vượn da bên trong, vượn trên da màu trắng đường vân càng phát ra sáng tỏ.",
+      "dich": "Hắn nhẹ nhàng thở ra, sau đó lại tiếp tục thôi động nhiệt lưu trong lư hương, rót vào tấm da vượn, đường vân trên da vượn theo đó càng lúc càng phát sáng rực rỡ.",
+      "suggest": "Hắn nhẹ nhàng thở ra, sau đó tiếp tục thúc giục lư hương rót vào da vượn, vân trên da vượn càng sáng bóng hơn.",
+      "similarity": [
+        [
+          95,
+          0.31
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liên tục rót vào vài chục lần nhiệt lưu về sau, mặc dù có thai nghén chi thuật gia trì, vượn trắng chi da cũng không có lại thu nạp lư hương nhiệt lưu.",
+      "dich": "Sau mấy chục lần liên tục nhận nhiệt lưu rót vào, cho dù có thuật dựng dưỡng hỗ trợ, tấm da vượn cũng không tiếp tục hấp thu nhiệt lưu nữa.",
+      "suggest": "Liên tục rót vào vài chục lần nhiệt lưu, cho dù có thuật thai nghén, da vượn trắng cũng không thu nạp lại lư hương nhiệt lưu.",
+      "similarity": [
+        [
+          96,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này, vượn trên da đường vân thô lớn hơn rất nhiều, lóng lánh hào quang sáng tỏ, cái kia đạo vượn trắng hư ảnh cũng biến thành nửa hư nửa thực, phát ra từng đợt hưng phấn rống rít gào.",
+      "dich": "Lúc này, đường vân trên da dượn trở nên thô to hơn rất nhiều, tỏa ánh sáng lấp lánh, đồng thời ảo ảnh vượn trắng cũng biến thành nửa hư nửa thực, phát ra từng tràng những tiếng gào rống hưng phấn.",
+      "suggest": "Lúc này da vượn trên người to hơn rất nhiều, hào quang lấp lánh, hư ảnh vượn trắng kia cũng biến thành nửa thực nửa thực, phát ra từng đợt hưng phấn, rống lên mấy tiếng hưng phấn.",
+      "similarity": [
+        [
+          97,
+          0.32
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh cùng trên thân vượn da liên hệ thật to làm sâu sắc, rõ ràng cảm giác được vượn da bên trong yêu lực lưu động, thậm chí có thể phát giác được yêu lực duy trì Phi Mao Thuật đồng thời, như thủy ngân chảy không ngừng xâm nhập kinh mạch của hắn, nội phủ, đan điền, thậm chí não hải.",
+      "dich": "Mối liên hệ giữa Viên Minh với tấm da vượn trên người sâu sắc hơn rất nhiều, hắn có thể cảm nhận rõ ràng được yêu lực lưu động trong da vượn, thậm chỉ còn có thể phát giác yêu lực duy trì Phi Mao Thuật đang như thủy ngân, không ngừng xâm nhập kinh mạch, lục phủ ngũ tạng, đan điền, thậm chí cả đầu óc hắn.",
+      "suggest": "Viên Minh và da vượn có mối liên hệ rất sâu đậm, hắn rõ ràng cảm giác được yêu lực trong cơ thể vượn da lưu động, thậm chí còn có thể cảm giác được sự lưu động của yêu lực duy trì Thuật Phi Mao, như dòng nước lũ chảy không ngừng xâm nhập vào nội phủ, đan điền, thậm chí cả đầu hải.",
+      "similarity": [
+        [
+          98,
+          0.25
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Phi Mao Thuật ăn mòn nguyên lai là như vậy.\"",
+      "dich": "\"Phi Mao Thuật xâm thực hóa ra là thế này.\"",
+      "suggest": "\"Phi Mao thuật ăn mòn nguyên lai là như vậy.\"",
+      "similarity": [
+        [
+          99,
+          0.24
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn thu hồi lư hương, híp mắt lại.",
+      "dich": "Hắn thu hồi lư hương, híp mắt lại.",
+      "suggest": "Hắn thu lại lư hương, híp mắt lại.",
+      "similarity": [
+        [
+          17,
+          0.16
+        ],
+        [
+          100,
+          0.71
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Biết yêu lực phản phệ tự thân đường tắt, về sau ngăn cản tự nhiên cũng sẽ nhiều mấy phần tự tin.",
+      "dich": "Biết cách mà yêu lực cắn trả bản thân, sau này tự nhiên cũng sẽ có thêm tự tin để ngăn cản.",
+      "suggest": "Biết rõ đường tắt của yêu lực, trước sau gì cũng phải có chút tự tin.",
+      "similarity": [],
+      "approved": true
+    }
+  ],
+  "currentWorkingLine": 101,
+  "changed": true
+}

@@ -1,0 +1,2029 @@
+{
+  "next": {
+    "id": 50,
+    "title": "Chương 50: Đừng"
+  },
+  "previous": {
+    "id": 48,
+    "title": "Chương 48: Kỳ giông chúa"
+  },
+  "title": {
+    "convert": "Chương 49",
+    "dich": "Chương 49"
+  },
+  "lines": [
+    {
+      "convert": "Viên Minh lúc này không rảnh suy nghĩ nhiều, chỉ có thể ra sức du động, tranh thủ ở Trần Uyển khí tức hao hết trước đó, đến chỗ tiếp theo có thể lấy hơi chỗ.",
+      "dich": "Viên Minh hiện tại không rảnh để nghĩ nhiều, chỉ có thể ra sức bơi lặn, tranh thủ trước khi Trần Uyển hết dưỡng khí, kịp tới được chỗ lấy hơi tiếp theo.",
+      "suggest": "Viên Minh hiện tại không rảnh để suy nghĩ, chỉ có thể ra sức du động, tranh thủ khí tức đã hao hết ở chỗ Trần Uyển, tiếp đó tìm một chỗ để nghỉ ngơi.",
+      "similarity": [
+        [
+          0,
+          0.33
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển cũng huy động cánh tay vẩy nước, hỗ trợ nhanh chóng tiến lên.",
+      "dich": "Trần Uyển cũng huy động cánh tay quạt nước, hỗ trợ nhanh chóng tiến lên.",
+      "suggest": "Trần Uyển huy động cánh tay vẩy nước giúp đỡ, hỗ trợ nhanh chóng tiến lên.",
+      "similarity": [
+        [
+          1,
+          0.58
+        ]
+      ]
+    },
+    {
+      "convert": "Nàng lần này mạo hiểm tham gia thí luyện, chính là vì có thể tiến thêm một bước trở thành nội môn đệ tử, tất nhiên là không muốn cứ như vậy chết ở chỗ này.",
+      "dich": "Nàng lần này mạo hiểm tham gia thí luyện, chính là để có thể tiến thêm một bước, trở thành đệ tử nội môn nên tất nhiên không muốn cứ thế chết ở nơi này.",
+      "suggest": "Lần này nàng mạo hiểm tham gia thí luyện, chính là vì có thể tiến thêm một bước trở thành đệ tử nội môn, đương nhiên nàng không muốn cứ như vậy mà chết ở đây.",
+      "similarity": [
+        [
+          2,
+          0.5
+        ]
+      ]
+    },
+    {
+      "convert": "Thời gian như từng giọt từng giọt nước trôi qua, nàng tồn lưu ngực trong phổi kia một điểm khí tức cũng đã sắp thấy đáy, trong lồng ngực từ lúc mới bắt đầu bị đè nén cảm giác, trở nên giống như là muốn nổ tung đồng dạng đau đớn.",
+      "dich": "Thời gian từng chút, từng chút trôi đi, chút dưỡng khí còn lại trong phổi nàng cũng sắp cạn hết, cảm giác tức ngực ban đầu bắt đầu trở thành đau đớn như sắp nổ tung.",
+      "suggest": "Thời gian cứ từng giọt từng giọt trôi qua, một chút khí tức còn lại trong lồng ngực nàng cũng đã sắp hết, cảm giác đau đớn trong lồng ngực từ lúc mới bắt đầu bị đè nén đến mức giống như muốn nổ tung ra vậy.",
+      "similarity": [
+        [
+          3,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Đã phải đến cực hạn, nàng không chịu đựng nổi.",
+      "dich": "Đã tới giới hạn của bản thần, nàng không chịu nổi nữa.",
+      "suggest": "Đã đến giới hạn, nàng không thể chịu đựng nổi nữa rồi.",
+      "similarity": [
+        [
+          4,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "Ngay tại Trần Uyển thân thể đã bắt đầu không bị khống chế muốn co giật thời điểm, lại phát hiện Viên Minh chính mang theo nàng nhanh chóng nổi lên, chợt một lần, xông ra mặt nước.",
+      "dich": "Ngay vào lúc thân thể bắt đầu co giật mất kiểm soát, nàng lại phát hiện Viên Minh đang đưa nàng nhanh chóng nổi lên, nhoáng cái đã xông ra khỏi mặt nước.",
+      "suggest": "Ngay khi thân thể Trần Uyển bắt đầu không còn khống chế được muốn co giật, lại phát hiện Viên Minh đang bế nàng lên, rồi đột ngột chìm xuống nước.",
+      "similarity": [
+        [
+          5,
+          0.2
+        ]
+      ]
+    },
+    {
+      "convert": "\"Hô...\"",
+      "dich": "\"Phù ...\"",
+      "suggest": "\"Hô...\"",
+      "similarity": [
+        [
+          6,
+          0.13
+        ],
+        [
+          28,
+          0.11
+        ],
+        [
+          33,
+          0.1
+        ],
+        [
+          51,
+          0.1
+        ],
+        [
+          65,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển ở nổi lên mặt nước một nháy mắt, trong lồng ngực trọc khí phun một cái hết sạch, ngay sau đó liền cảm thấy phổi truyền đến đau như bị kim châm đau nhức, để nàng nhịn không được phát ra một tiếng thở nhẹ.",
+      "dich": "Trần Uyển vừa nổi lên khỏi mặt nước, tức thì phun hết trọc khí trong ngực ra, sau đó liền cảm thấy một cơn đau như kim châm trong phổi, khiến nàng không thể không nhẹ nhàng thở ra.",
+      "suggest": "Trần Uyển ở dưới nước trong nháy mắt phun hết trọc khí, ngay sau đó cảm thấy lồng ngực đau nhức như bị kim châm chích, làm cho nàng nhịn không được thở nhẹ một hơi.",
+      "similarity": [
+        [
+          7,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "Nhưng ngay sau đó, nàng liền vội gấp rút mà tham lam miệng lớn hô hấp khởi không khí mới mẻ tới.",
+      "dich": "Nhưng ngay sau đó, nàng liền gấp gáp mà tham lam há miệng hít sâu một hơi.",
+      "suggest": "Nhưng ngay sau đó, nàng liền vội vàng mở to miệng, nghênh đón luồng khí mới mẻ này.",
+      "similarity": [
+        [
+          8,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "Đợi đến rốt cục khôi phục một chút về sau, nàng mới hướng bốn phía dò xét đi tới, đã thấy bản thân như cũ thân ở trong động quật, hướng trên đỉnh đầu khoảng cách cách đó không xa, chính là một mảnh đen như mực mái vòm.",
+      "dich": "Đợi sau khi đã khôi phục lại một chút, nàng mới đưa mắt quan sát bốn phía xung quanh, lại thấy mình vẫn ở trong động quật như cũ, nhìn chỗ cách đỉnh đầu không xa, chỉ thấy một mảng mái vòm tối đen như mực.",
+      "suggest": "Đợi đến khi khôi phục lại chút ít sức lực, nàng mới quan sát bốn phía một chút, lúc này nàng mới tiến tới gần hơn, thấy đỉnh đầu mình ở trên đỉnh đầu cách đó không xa, chính là một mái vòm đen như mực.",
+      "similarity": [
+        [
+          9,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "\"Khoảng cách ngươi nói khang động, vẫn còn rất xa?\"",
+      "dich": "\"Khoang động mà ngươi nói còn cách bao xa nữa?\"",
+      "suggest": "\"Hôm nay khoảng cách giữa ngươi và ta vẫn còn rất xa?\"",
+      "similarity": []
+    },
+    {
+      "convert": "Trần Uyển hít sâu một hơi, hỏi.",
+      "dich": "Trần Uyển hít sâu một hơi, hỏi.",
+      "suggest": "Trần Uyển hít sâu một hơi, hỏi.",
+      "similarity": [
+        [
+          8,
+          0.14
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          34,
+          0.13
+        ],
+        [
+          37,
+          0.11
+        ],
+        [
+          44,
+          0.13
+        ],
+        [
+          52,
+          0.18
+        ],
+        [
+          77,
+          0.11
+        ],
+        [
+          84,
+          0.11
+        ],
+        [
+          87,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh ánh mắt ngưng trọng, đáp: \"Chúng ta đã đến.\"",
+      "dich": "Viên Minh ánh mắt ngưng trọng, đáp: \"Chúng ta đã đến rồi.\"",
+      "suggest": "Ánh mắt Viên Minh ngưng trọng, đáp: \"Chúng ta đã đến.\"",
+      "similarity": [
+        [
+          12,
+          0.63
+        ]
+      ]
+    },
+    {
+      "convert": "\"Đã đến?\"",
+      "dich": "\"Đã đến rồi?\"",
+      "suggest": "\"Đến rồi?\"",
+      "similarity": [
+        [
+          6,
+          0.18
+        ],
+        [
+          13,
+          0.32
+        ],
+        [
+          33,
+          0.43
+        ],
+        [
+          43,
+          0.18
+        ],
+        [
+          51,
+          0.43
+        ],
+        [
+          65,
+          0.13
+        ],
+        [
+          74,
+          0.12
+        ],
+        [
+          81,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Nghe nói lời ấy, Trần Uyển như bị sét đánh.",
+      "dich": "Nghe lời này, Trần Uyển như bị sét đánh.",
+      "suggest": "Nghe được lời ấy, Trần Uyển như bị sét đánh.",
+      "similarity": [
+        [
+          14,
+          0.66
+        ]
+      ]
+    },
+    {
+      "convert": "\"Sông ngầm dưới lòng đất nước lên quá hung, bên này cũng phải bị hoàn toàn che mất.\"",
+      "dich": "\"Nước sông ngầm dưới lòng đất dâng lên quá dữ dội, bên này chắc chắn cũng sẽ bị nhấn chìm hết.\"",
+      "suggest": "\"Tàu ngầm dưới lòng đất quá hung, bên này chắc chắn sẽ bị hoàn toàn che dấu.\"",
+      "similarity": [
+        [
+          15,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh thở dài, nói.",
+      "dich": "Viên Minh thở dài đáp.",
+      "suggest": "Viên Minh thở dài nói.",
+      "similarity": [
+        [
+          16,
+          0.54
+        ],
+        [
+          29,
+          0.27
+        ],
+        [
+          37,
+          0.16
+        ],
+        [
+          47,
+          0.18
+        ],
+        [
+          75,
+          0.18
+        ],
+        [
+          82,
+          0.18
+        ],
+        [
+          84,
+          0.16
+        ],
+        [
+          103,
+          0.19
+        ],
+        [
+          107,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Trong bóng tối, ánh mắt của hắn rơi trên người Trần Uyển, cái sau quần áo kề sát ở linh lung trên người, được nước sông ướt nhẹp sợi tóc cũng dính tại tuyết trắng trên gương mặt, nhìn có chút chật vật, lại không tổn hao gì xinh đẹp, phản làm cho lòng người sinh thương tiếc.",
+      "dich": "Trong bóng tối, ánh mắt của hắn rơi lên trên người Trần Uyển, thấy quần áo dán sát vào thân thể tuyệt mỹ của nang, những sợi tóc ướt nhẹp nước sông dính trên gò má như tuyết trắng, trông có phần chật vật nhưng không làm giảm đi sự xinh đẹp, trái lại còn khiến người ta sinh lòng thương cảm.",
+      "suggest": "Trong bóng tối, ánh mắt hắn dừng trên người Trần Uyển, bộ quần áo sau lưng bó sát, những sợi tóc ướt nhẹp dính trên gương mặt, nhìn có vẻ chật vật, lại không tổn hại gì xinh đẹp, trái lại còn làm cho lòng người sinh thương tiếc.",
+      "similarity": [
+        [
+          17,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Có thể lúc này, Viên Minh lại không để ý tới thương tiếc, suy nghĩ trong lòng chính là, việc quan hệ bản thân sinh tử, muốn hay không như vậy vứt xuống nàng?",
+      "dich": "Có điều giờ phút này, Viên Minh lại không để ý tới chuyện thương cảm gì, trong lòng hắn nghĩ chính là, chuyện liên quan tới sống chết của bản thân, có nên vứt bỏ nàng lại hay không?",
+      "suggest": "Nhưng lúc này, Viên Minh lại không để ý đến thương tiếc, suy nghĩ trong lòng chính là, việc quan hệ sinh tử của bản thân có thể buông tha cho nàng hay không?",
+      "similarity": [
+        [
+          18,
+          0.26
+        ]
+      ]
+    },
+    {
+      "convert": "Dù sao nếu chỉ là hắn một người, tất nhiên có thể du lịch được càng nhanh, khí tức tồn tại càng dài, có lẽ có thể chống đến tìm tới sông ngầm lối ra.",
+      "dich": "Dù sao nếu chỉ có mình hắn, dĩ nhiên có thể di chuyển nhanh hơn nhiều, hơi thở cũng có thể duy trì lâu hơn, có lẽ có thể gắng gượng được tới lúc tìm được lối ra sông ngầm.",
+      "suggest": "Dù sao nếu chỉ có một mình hắn, tất nhiên có thể đi được càng nhanh, khí tức tồn tại càng lâu, có lẽ có thể chống lại được tới khi tìm được lối ra.",
+      "similarity": [
+        [
+          19,
+          0.28
+        ]
+      ]
+    },
+    {
+      "convert": "Đúng lúc này, Trần Uyển bàn tay đột nhiên giơ lên cao cao, trong lòng bàn tay bỗng nhiên sáng lên một ánh lửa, tiếp theo bắn ra, bay thẳng hướng động quật mái vòm.",
+      "dich": "Đúng lúc này, Trần Uyển đột nhiên giơ bàn tay lên cao, một quả cầu lửa thình lình sáng lên trong lòng bàn tay nàng, lao thẳng đến vòm động.",
+      "suggest": "Đúng lúc này, bàn tay Trần Uyển đột nhiên giơ lên cao, trong lòng bàn tay bỗng nhiên sáng lên một ngọn lửa, tiếp đó lập tức bắn ra, bay thẳng tới mái vòm động.",
+      "similarity": [
+        [
+          20,
+          0.29
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh vừa định chất vấn, chợt thấy đoàn kia hỏa cầu vậy mà càng lên càng cao, một đường chui vào mái vòm ở bên trong.",
+      "dich": "Viên Minh vừa định hỏi, chợt thấy quả cầu lửa kia càng lúc càng lên cao, một đường chui vào bên trong mái vòm.",
+      "suggest": "Viên Minh vừa định chất vấn, chợt thấy quả cầu lửa kia càng lúc càng cao, một đường chui vào bên trong mái vòm.",
+      "similarity": [
+        [
+          21,
+          0.79
+        ]
+      ]
+    },
+    {
+      "convert": "Tiếp theo một cái chớp mắt, hắn đôi mắt lóe lên, trên mặt không khỏi hiện ra sợ hãi lẫn vui mừng.",
+      "dich": "Chớp mắt tiếp theo, ánh mắt hắn lóe lên, trên mặt không khỏi lộ vẻ vừa sợ hãi xen lẫn vui mừng.",
+      "suggest": "Chỉ nháy mắt sau đó, hai mắt hắn lóe lên, trên mặt không kìm được mà hiện lên vẻ sợ hãi lẫn vui mừng.",
+      "similarity": [
+        [
+          22,
+          0.38
+        ]
+      ]
+    },
+    {
+      "convert": "\"Mái vòm ở bên trong có đầu dựng thẳng động.\"",
+      "dich": "\"Bên trong mái còm có một hang thẳng đứng.\"",
+      "suggest": "\"Trong mái vòm có một cái đầu thẳng.\"",
+      "similarity": [
+        [
+          23,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển kêu lên, trong giọng nói tràn đầy kinh hỉ.",
+      "dich": "Trần Uyển kêu lên, giọng điệu tràn ngập sự kinh hỉ.",
+      "suggest": "Trần Uyển kêu lên, trong giọng nói tràn đầy vui mừng.",
+      "similarity": [
+        [
+          24,
+          0.33
+        ]
+      ]
+    },
+    {
+      "convert": "Lúc này, đã phi thăng ra xa bảy tám trượng hỏa cầu giống như là đụng phải thứ gì, kịch liệt thiêu đốt một hồi, chợt dập tắt.",
+      "dich": "Lúc này, quả cầu lửa sau khi bay lên cao được bảy, tám trượng lại như đụng phải thứ gì đó, bốc cháy dữ dội một hồi rồi nhanh chóng tắt vụt đi.",
+      "suggest": "Lúc này, quả cầu lửa cách xa bảy tám trượng giống như va phải thứ gì đó, kịch liệt thiêu đốt một hồi rồi chợt dập tắt.",
+      "similarity": [
+        [
+          25,
+          0.28
+        ]
+      ]
+    },
+    {
+      "convert": "\"Không phải là tử lộ a?\"",
+      "dich": "\"Sẽ không phải là đường cụt chứ?\"",
+      "suggest": "\"Không phải là đường chết sao?\"",
+      "similarity": [
+        [
+          13,
+          0.11
+        ],
+        [
+          26,
+          0.21
+        ],
+        [
+          33,
+          0.11
+        ],
+        [
+          43,
+          0.12
+        ],
+        [
+          48,
+          0.14
+        ],
+        [
+          50,
+          0.14
+        ],
+        [
+          51,
+          0.11
+        ],
+        [
+          74,
+          0.11
+        ],
+        [
+          81,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh hai người thấy thế, trong lòng đều là trầm xuống.",
+      "dich": "Hai người Viên Minh thấy thế, nội tâm cùng trùng xuống.",
+      "suggest": "Hai người Viên Minh thấy thế, trong lòng đều trầm xuống.",
+      "similarity": [
+        [
+          27,
+          0.52
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ta đi lên xem một chút.\"",
+      "dich": "\"Ta đi lên xem một chút.\"",
+      "suggest": "\"Ta đi lên xem qua một chút.\"",
+      "similarity": [
+        [
+          28,
+          0.67
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nói.",
+      "dich": "Viên Minh nói.",
+      "suggest": "Viên Minh nói.",
+      "similarity": [
+        [
+          16,
+          0.18
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          37,
+          0.16
+        ],
+        [
+          47,
+          0.18
+        ],
+        [
+          75,
+          0.18
+        ],
+        [
+          82,
+          0.18
+        ],
+        [
+          84,
+          0.16
+        ],
+        [
+          87,
+          0.16
+        ],
+        [
+          103,
+          0.24
+        ],
+        [
+          107,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Dứt lời, hắn hai đầu cóc chân đột nhiên dùng sức kẹp lấy, một cỗ dòng nước từ hắn giữa hai chân xa lánh mà ra, lên cao lực lượng lập tức đề cử lấy thân thể của hắn, bay thẳng ra mặt nước, đánh tới phía trên mái vòm.",
+      "dich": "Dứt lời, hai cái chân cóc của hắn thình lình ra sức kẹp chặt lại, tức thì một dòng nước từ giữa hai chân bị ép ra, phản lực lập tức đẩy thân thể hắn lao ra khỏi nước, vọt tới mái vòm phía trên.",
+      "suggest": "Dứt lời, hai đầu cóc chân hắn đột nhiên dùng sức kẹp lấy, một dòng nước từ hai chân hắn xa lánh đi ra, lực lượng tăng trưởng lập tức đề cử thân thể hắn lên trên, bay thẳng lên mái vòm phía trên.",
+      "similarity": [
+        [
+          30,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Xông vào dựng thẳng động thời điểm, Viên Minh hai tay tả hữu khẽ chống, vững vàng cắm ở trên vách động.",
+      "dich": "Lúc vừa xông vào cái hang dựng đứng, hai tay Viên Minh khẽ chống qua hai bên trái phải, cơ thể theo đó vững vàng kẹt lại trên vách hang.",
+      "suggest": "Thời điểm xông vào trong động, hai tay Viên Minh chống nạnh, vững vàng cắm trên vách động.",
+      "similarity": [
+        [
+          31,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Sau đó, hắn dùng cả tay chân lấy chèo chống leo lên, rất nhanh liền đến đến dựng thẳng động cuối cùng, nơi đó còn lưu lại Hỏa Cầu Thuật dư ôn.",
+      "dich": "Sau đó, hắn dùng cả tay lẫn chân bám, đạp leo lên, rất nhanh đã tới được phần cuối hang, nơi đó còn lưu lại hơi nóng của Hỏa Cầu thuật.",
+      "suggest": "Sau đó hắn dùng cả chân lẫn tay bám theo, rất nhanh đã tới được chỗ cuối cùng còn lưu lại Hỏa Cầu Thuật.",
+      "similarity": [
+        [
+          32,
+          0.24
+        ]
+      ]
+    },
+    {
+      "convert": "\"Thế nào?\"",
+      "dich": "\"Sao rồi?\"",
+      "suggest": "\"Thế nào?\"",
+      "similarity": [
+        [
+          6,
+          0.18
+        ],
+        [
+          13,
+          0.18
+        ],
+        [
+          33,
+          0.24
+        ],
+        [
+          43,
+          0.18
+        ],
+        [
+          51,
+          0.24
+        ],
+        [
+          65,
+          0.13
+        ],
+        [
+          74,
+          0.22
+        ],
+        [
+          81,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển ở phía dưới lo lắng hỏi.",
+      "dich": "Trần Uyển ở dưới sốt ruột vội hỏi.",
+      "suggest": "Trần Uyển ở phía dưới lo lắng hỏi.",
+      "similarity": [
+        [
+          11,
+          0.13
+        ],
+        [
+          34,
+          0.23
+        ],
+        [
+          37,
+          0.11
+        ],
+        [
+          44,
+          0.12
+        ],
+        [
+          52,
+          0.11
+        ],
+        [
+          77,
+          0.11
+        ],
+        [
+          84,
+          0.11
+        ],
+        [
+          87,
+          0.1
+        ],
+        [
+          90,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Trong bóng tối trầm mặc thật lâu, mới truyền ra Viên Minh có chút ồm ồm thanh âm: \"Có đầu nghiêng động liên thông, không biết thông hướng nào?\"",
+      "dich": "Trong bóng tối trầm mặc hồi lâu, mới có tiếng Viên Minh hơi ồm ồm truyền tới: \"Có một hang chéo nối liền vào, không biến thông tới nơi nào.\"",
+      "suggest": "Trong bóng tối trầm mặc thật lâu, mới truyền ra giọng nói của Viên Minh: \"Có đầu nghiêng động liên thông, không biết hướng nào?\"",
+      "similarity": [
+        [
+          35,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "\"Trước kéo ta đi lên, mực nước trướng đến rất nhanh, thủy thế cũng càng gấp.\"",
+      "dich": "\"Trước kéo ta lên đã, nước dâng lên nhanh quá, thế nước cũng càng lúc càng nhanh.\"",
+      "suggest": "\"Trước dẫn ta đi lên, nước ở đây rất nhanh sẽ dâng lên, thủy thế càng lúc càng gấp.\"",
+      "similarity": [
+        [
+          36,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển vội vàng nói.",
+      "dich": "Trần Uyển vội vàng nói.",
+      "suggest": "Trần Uyển vội vàng nói.",
+      "similarity": [
+        [
+          11,
+          0.11
+        ],
+        [
+          29,
+          0.19
+        ],
+        [
+          34,
+          0.11
+        ],
+        [
+          37,
+          1
+        ],
+        [
+          77,
+          0.11
+        ],
+        [
+          84,
+          0.23
+        ],
+        [
+          87,
+          0.21
+        ],
+        [
+          90,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Lúc này mực nước đã tăng lên quá nhiều, nàng khoảng cách mái vòm bất quá ba thước tới xa.",
+      "dich": "Lúc này mực nước xung quanh đã dâng cao thêm rất nhiều, khoảng cách từ nàng tới mái vòm chỉ còn chưa tới ba thước.",
+      "suggest": "Lúc này mực nước đã tăng lên quá nhiều, nàng chỉ còn cách mái vòm chừng ba thước.",
+      "similarity": [
+        [
+          38,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "Chờ giây lát, phía trên dựng thẳng trong động một tay nắm ló ra, đưa nàng kéo vào trong động.",
+      "dich": "Chờ giây lát, một cánh tay từ hang dựng đứng phía trên thò ra, kéo nàng vào trong hang.",
+      "suggest": "Đợi giây lát, một tay nắm lấy cánh cửa động rồi kéo nàng vào trong.",
+      "similarity": [
+        [
+          39,
+          0.23
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh ở phía trước cẩn thận bò, đến nơi cuối cùng, ngoặt vào nghiêng trong động, tiếp tục tiến lên, Trần Uyển im lặng cùng sau lưng hắn, trong lòng bùi ngùi mãi thôi.",
+      "dich": "Viên Minh cẩn thận bò ở phía trước, tới cuối hang, hắn ngoặt vào trong một hang dốc khác rồi tiếp tục tiến lên, Trần Uyển thì im lặng theo sau hắn, trong lòng cảm khái muôn phần.",
+      "suggest": "Viên Minh cẩn thận bò về trước, đến nơi cuối cùng, hắn liền rẽ vào trong động, rồi tiếp tục tiến lên, Trần Uyển im lặng và sau lưng hắn, trong lòng bùi ngùi mãi.",
+      "similarity": [
+        [
+          40,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "Nàng thế nào cũng không nghĩ tới, sẽ cùng một cái mới mới vừa quen không bao lâu phi mao thú nô trải qua cái này một lần.",
+      "dich": "Nàng thế nào cũng không thể nghĩ tới, mình lại cùng một Phi Mao thú nô chưa quen biết được bao lâu trải qua một hành trình như thế này.",
+      "suggest": "Nàng thế nào cũng không nghĩ tới, lại cùng một Phi Mao thú nô mới quen biết chưa được bao lâu đã trải qua chuyện này.",
+      "similarity": [
+        [
+          41,
+          0.41
+        ]
+      ]
+    },
+    {
+      "convert": "Cũng không biết ở hắc ám lại chật chội trong động quật phủ phục bò bao lâu, trước mặt Viên Minh bỗng nhiên ngừng lại.",
+      "dich": "Cũng không biết phủ phục bò bao lâu trong cái hang chật chội, tăm tối này, Viên Minh ở đằng trước bỗng dừng lại.",
+      "suggest": "Cũng không biết hắn đã phủ phục trong động quật chật chội bao lâu, Viên Minh trước mặt bỗng nhiên ngừng lại.",
+      "similarity": [
+        [
+          42,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "\"Thế nào?\"",
+      "dich": "\"Làm sao thế?\"",
+      "suggest": "\"Thế nào?\"",
+      "similarity": [
+        [
+          6,
+          0.18
+        ],
+        [
+          13,
+          0.18
+        ],
+        [
+          33,
+          0.24
+        ],
+        [
+          43,
+          0.18
+        ],
+        [
+          51,
+          0.24
+        ],
+        [
+          65,
+          0.13
+        ],
+        [
+          74,
+          0.22
+        ],
+        [
+          81,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển trong lòng xiết chặt, liền vội vàng hỏi.",
+      "dich": "Trần Uyển trong lòng căng thẳng, vội hỏi.",
+      "suggest": "Trong lòng Trần Uyển xiết chặt, lập tức vội vàng hỏi.",
+      "similarity": [
+        [
+          44,
+          0.1
+        ]
+      ]
+    },
+    {
+      "convert": "Nàng sợ đạt được một cái là tử lộ đáp án.",
+      "dich": "Nàng sợ đáp án mà mình nhận được là một ngõ cụt.",
+      "suggest": "Nàng sợ tìm được một đáp án từ một đáp án là không có đường sống.",
+      "similarity": []
+    },
+    {
+      "convert": "\"Phía trước giống như có âm thanh.\"",
+      "dich": "\"Phía trước hình như có âm thanh.\"",
+      "suggest": "\"Phía trước dường như có âm thanh gì đó.\"",
+      "similarity": [
+        [
+          46,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh thấp giọng nói.",
+      "dich": "Viên Minh nhỏ giọng đáp.",
+      "suggest": "Viên Minh thấp giọng nói.",
+      "similarity": [
+        [
+          16,
+          0.18
+        ],
+        [
+          29,
+          0.27
+        ],
+        [
+          37,
+          0.16
+        ],
+        [
+          47,
+          0.19
+        ],
+        [
+          75,
+          0.18
+        ],
+        [
+          82,
+          0.18
+        ],
+        [
+          84,
+          0.16
+        ],
+        [
+          103,
+          0.19
+        ],
+        [
+          107,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"Có âm thanh... Đây không phải là nhanh sắp đi ra ngoài sao?\"",
+      "dich": "\"Có âm thanh ... Thế không phải là sắp thoát ra ngoài sao?\"",
+      "suggest": "\"Có tiếng vang ... Đây không phải là đi ra ngoài sao?\"",
+      "similarity": [
+        [
+          26,
+          0.1
+        ],
+        [
+          48,
+          0.32
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển trong lòng lập tức vui mừng, nhưng rất nhanh phát hiện trước mặt Viên Minh, thân thể có chút căng cứng, lập tức ý thức được không thích hợp.",
+      "dich": "Trần Uyển trong lòng lập tức vui mừng, nhưng rất nhanh, nàng phát hiện thân thể Viên Minh ở phía trước hơi căng cứng, lập tức ý thức được có điểm bất thường.",
+      "suggest": "Trong lòng Trần Uyển lập tức vui mừng, nhưng rất nhanh khi thấy Viên Minh đang đứng trước mặt, thân thể có chút căng cứng, lập tức ý thức được sự bất thường.",
+      "similarity": [
+        [
+          49,
+          0.46
+        ]
+      ]
+    },
+    {
+      "convert": "Không phải lại gặp được nguy hiểm gì a?",
+      "dich": "Không phải là lại đụng trúng thứ gì nguy hiểm chứ?",
+      "suggest": "Chẳng lẽ lại gặp nguy hiểm sao?",
+      "similarity": []
+    },
+    {
+      "convert": "\"Sao... Thế nào?\"",
+      "dich": "\"Sao ... sao rồi?\"",
+      "suggest": "\"Sao ... thế nào?\"",
+      "similarity": [
+        [
+          13,
+          0.11
+        ],
+        [
+          33,
+          0.14
+        ],
+        [
+          43,
+          0.12
+        ],
+        [
+          51,
+          0.11
+        ],
+        [
+          74,
+          0.19
+        ],
+        [
+          77,
+          0.11
+        ],
+        [
+          81,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển cũng không khỏi thấp giọng.",
+      "dich": "Trần Uyển cũng không hỏi nhỏ giọng lại, hỏi.",
+      "suggest": "Trần Uyển không kìm được thấp giọng nói.",
+      "similarity": [
+        [
+          11,
+          0.11
+        ],
+        [
+          34,
+          0.11
+        ],
+        [
+          37,
+          0.14
+        ],
+        [
+          77,
+          0.11
+        ],
+        [
+          84,
+          0.14
+        ],
+        [
+          87,
+          0.1
+        ],
+        [
+          90,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"Thanh âm kia cảm giác không giống như là người phát ra, có chút không thích hợp, ta tới trước phía trước đi xem một chút, ngươi đừng vội lấy theo tới.\"",
+      "dich": "\"Cảm giác âm thanh kia không giống như con người phát ra, có chút bất thường, ta đi tới trước nhìn một chút, ngươi đừng vội theo tới.\"",
+      "suggest": "\"Thanh âm kia hình như không giống người phát ra, có chút không thích hợp, ta tới trước xem qua một chút, ngươi đừng vội đi theo.\"",
+      "similarity": [
+        [
+          53,
+          0.35
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nói xong, lui xuống cóc da thú thu vào, một lần nữa phủ thêm vượn trắng da thú.",
+      "dich": "Viên Minh nói, đoạn tháo lớp da cóc ra, lần nữa khoác tấm da vượn trắng lên.",
+      "suggest": "Viên Minh nói xong, bỏ cái túi xuống, một lần nữa phủ lên da thú vượn trắng.",
+      "similarity": [
+        [
+          54,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn không có thi triển phi mao chi thuật, thấp nằm rạp người hình, hướng phía phía trước tiếp tục bò mà đi.",
+      "dich": "Hắn không thi triển Phi Mao Thuật, chỉ nằm rạp người xuống, rồi tiếp tục bò tới phía trước.",
+      "suggest": "Hắn không thi triển thuật Phi Mao, chỉ nằm rạp người xuống đất, tiếp tục bò về phía trước.",
+      "similarity": [
+        [
+          55,
+          0.47
+        ]
+      ]
+    },
+    {
+      "convert": "Qua một hồi lâu, phía trước trong bóng tối, rốt cục xuất hiện một điểm ánh sáng nhạt, cửa hang cũng đến.",
+      "dich": "Qua một hồi lâu, trong khoảng tối trước mắt xuất hiện một điểm sáng mờ.",
+      "suggest": "Qua một hồi lâu, trong bóng tối phía trước rốt cuộc xuất hiện một cái hang tối, cửa hang cũng đã đến.",
+      "similarity": [
+        [
+          56,
+          0.24
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh leo đến chỗ cửa hang, không có vội vã ra ngoài.",
+      "dich": "rốt cuộc đã tới cửa hang.",
+      "suggest": "Viên Minh leo tới trước cửa hang, cũng không vội vã bước ra ngoài.",
+      "similarity": [
+        [
+          58,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn cẩn thận tra xét một phen về sau, phát hiện cái cửa ra này rõ ràng là ở một chỗ khác đáy động quật trên vách tường, phía trước vừa vặn có một cây treo lủng lẳng thạch nhũ, che lại cửa hang, khiến cho hắn vị trí này trở nên mười phần bí mật.",
+      "dich": "Viên Minh bò tới chỗ cửa hang nhưng không vội đi ra ngoài.",
+      "suggest": "Hắn cẩn thận kiểm tra một phen, phát hiện cửa ra này nằm ở trên một vách tường khác, phía trước vừa vặn có một thạch nhũ treo lủng lẳng ở phía trước, làm cho vị trí này trở nên cực kỳ bí mật.",
+      "similarity": [
+        [
+          59,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh lặng yên đem đầu dò xét ra ngoài, vòng qua cây kia treo lủng lẳng xuống tới thạch nhũ măng, hướng xa hơn một chút địa phương nhìn lại.",
+      "dich": "Hắn sau khi cẩn thận xem xét một hồi, phát hiện cửa hang này rõ ràng nằm trên vách một của một động quật khác, phía trước vừa vặn có một cây thạch nhũ rủ xuống, che kín cửa hang khiến vị trí hiện tại của hắn trở nên vô cùng kín đáo.",
+      "suggest": "Viên Minh lặng yên nhìn ra ngoài, vòng qua cái cây bị treo lủng lẳng ở đó, nhìn một chút về phía xa hơn một chút.",
+      "similarity": [
+        [
+          60,
+          0.22
+        ]
+      ]
+    },
+    {
+      "convert": "Cái này xem xét, cặp mắt của hắn trong nháy mắt liền trừng lớn.",
+      "dich": "Viên Minh lặng lẽ ló đầu ra ngoài, vòng qua thạch nhũ treo ngược phía trước, nhìn về phía xa.",
+      "suggest": "Xem ra hai mắt của hắn lập tức trợn lớn lên.",
+      "similarity": [
+        [
+          61,
+          0.4
+        ]
+      ]
+    },
+    {
+      "convert": "Chỉ gặp trong động quật một cái góc, một điểm sắc trời từ bên trên lỗ thủng chỗ chiếu xuống tới, đem bên trong chiếu rọi ra một mảnh coi như sáng tỏ khu vực.",
+      "dich": "Vừa nhìn tới, cặp mắt của hắn lập tức trợn trừng.",
+      "suggest": "Chỉ thấy trong động quật có một góc khuất, một tia sáng màu xám tro từ bên trên lỗ thủng chiếu xuống, soi sáng cả khu vực.",
+      "similarity": [
+        [
+          62,
+          0.24
+        ]
+      ]
+    },
+    {
+      "convert": "Một khu vực như vậy bên trên, lúc này đang đứng ở một đoàn toàn thân mọc đầy màu trắng lông dài, hai tay khô gầy, mọc lên màu đen lợi trảo, giống người mà không phải người quái vật.",
+      "dich": "Chỉ thấy trong một góc của động quật, một tia sáng từ lỗ thủng phía trên chiếu xuống, soi tỏ một khoảng không gian bên trong.",
+      "suggest": "Trên một khu vực như vậy, lúc này đang đứng ở một đám lông dài toàn thân mọc đầy lông trắng, hai tay khô gầy, mọc lên lợi trảo màu đen, trông như là quái vật chứ không phải quái vật.",
+      "similarity": [
+        [
+          64,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "\"Nhân Tiêu!\"",
+      "dich": "Trên khu vực kia, lúc này đang có một đám quái vật giống người mà không phải người đứng đó.",
+      "suggest": "\"Nhân Tiêu!\"",
+      "similarity": [
+        [
+          6,
+          0.18
+        ],
+        [
+          33,
+          0.13
+        ],
+        [
+          51,
+          0.13
+        ],
+        [
+          65,
+          1
+        ],
+        [
+          88,
+          0.14
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh cơ hồ trong nháy mắt, trong đầu liền tung ra hai chữ này.",
+      "dich": "Đám này toàn thân mọc đầy lông trắng, hai tay khô gầy mọc ra móng vuốt sắc nhọn màu đen.",
+      "suggest": "Viên Minh hầu như trong nháy mắt đã nghĩ ra hai chữ này.",
+      "similarity": [
+        [
+          66,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn im lặng đếm kỹ phía dưới, phát hiện số lượng lại có mười bảy cái nhiều.",
+      "dich": "\"Nhân Tiêu!\"",
+      "suggest": "Hắn im lặng quan sát, phát hiện số lượng còn lại là mười bảy.",
+      "similarity": [
+        [
+          67,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "Bất quá, làm hắn cảm thấy không hiểu là, những này Nhân Tiêu lúc này tất cả đều tụ tập cùng một chỗ, từng cái đứng xuôi tay, thân thể có chút lay động, tựa như là một đám uống say tên lỗ mãng, nhìn xem hình thái mười phần quái dị.",
+      "dich": "Hai chữ này gần như chỉ trong nháy mắt liền hiện lên trong đầu hắn.",
+      "suggest": "Tuy nhiên, điều hắn cảm thấy không hiểu là tất cả những con Nhân Tiêu này đều tập trung ở một chỗ, từng người đứng xuôi tay, thân thể có chút run rẩy, trông giống như một tên trộm vặt, nhìn qua có phần quái dị.",
+      "similarity": []
+    },
+    {
+      "convert": "Đối thứ này, hắn biết rất ít, tất nhiên là không dám hành động thiếu suy nghĩ, chỉ có thể lui về, lại đem Trần Uyển kêu tới.",
+      "dich": "Hắn im lặng đếm kỹ, phát hiện số lượng phía dưới có tới mười bảy con.",
+      "suggest": "Hắn biết rõ về thứ này, tất nhiên là không dám làm gì thiếu suy nghĩ, chỉ có thể lui về, gọi Trần Uyển.",
+      "similarity": [
+        [
+          69,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Hai người khó khăn lắm chen ở chỗ cửa hang, nhìn xung quanh đi tới.",
+      "dich": "Chỉ là, chuyện khiến hắn không hiểu chính là, những Nhân Tiêu kia lúc này lại đang cùng tụ lại một chỗ, mỗi con đứng thả xuôi tay, khẽ lắc lư thân mình, tựa như một đám mãng hán uống say, trông bộ dáng vô cùng quái dị.",
+      "suggest": "Hai người phải chen chúc trong một gian hang, nhìn xung quanh một chút.",
+      "similarity": [
+        [
+          70,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Thấy cảnh này thời điểm, Trần Uyển trên mặt cũng rõ ràng hiện lên chấn kinh chi sắc, tiếp theo là không hiểu chút nào mê mang.",
+      "dich": "Hắn biết rất ít về thứ này nên tất nhiên không dám hành động bừa bãi, chỉ đành lui lại, gọi Trần Uyển tới.",
+      "suggest": "Khi thấy cảnh này, trên mặt Trần Uyển cũng hiện rõ vẻ chấn kinh, tiếp theo là mê mang không thôi.",
+      "similarity": [
+        [
+          71,
+          0.5
+        ]
+      ]
+    },
+    {
+      "convert": "\"Không có khả năng nha, đây không có khả năng...\"",
+      "dich": "Hai người chen chúc ở chỗ cửa hang, đưa mắt nhìn xung quanh.",
+      "suggest": "\"Không có khả năng a, đây không phải là ...\"",
+      "similarity": [
+        [
+          26,
+          0.11
+        ],
+        [
+          48,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Nàng nhẹ giọng nỉ non.",
+      "dich": "Thời điểm thấy cảnh này, trên mặt Trần Uyển cũng lộ rõ vẻ chấn kinh, sau đó là hoang mang không hiểu.",
+      "suggest": "Nàng nhẹ giọng nỉ non.",
+      "similarity": [
+        [
+          73,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "\"Cái đó không có khả năng?\"",
+      "dich": "\"Không thể nào, chuyện này không thể nào ...\"",
+      "suggest": "\"Điều đó là không thể?\"",
+      "similarity": [
+        [
+          13,
+          0.13
+        ],
+        [
+          26,
+          0.11
+        ],
+        [
+          33,
+          0.13
+        ],
+        [
+          43,
+          0.13
+        ],
+        [
+          51,
+          0.13
+        ],
+        [
+          74,
+          0.17
+        ],
+        [
+          81,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh lập tức hỏi.",
+      "dich": "Nàng nhỏ giọng thì thầm.",
+      "suggest": "Viên Minh lập tức hỏi.",
+      "similarity": [
+        [
+          16,
+          0.18
+        ],
+        [
+          29,
+          0.21
+        ],
+        [
+          47,
+          0.18
+        ],
+        [
+          75,
+          1
+        ],
+        [
+          82,
+          0.23
+        ],
+        [
+          103,
+          0.25
+        ],
+        [
+          107,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"Từ vẻ ngoài bộ dáng xem, bọn gia hỏa này nhất định là Nhân Tiêu không sai, có thể... Có thể Nhân Tiêu đều là không có linh trí, không có cảm giác đau, chỉ biết chém giết thôn phệ quái vật a, cho dù là đối đãi đồng loại cũng không ngoại lệ, bọn chúng căn bản không có khả năng như thế bình an vô sự địa tụ tập cùng một chỗ.\"",
+      "dich": "\"Cái gì không thể nào?\"",
+      "suggest": "\"Từ hình dáng bên ngoài mà đoán, bọn gia hỏa này nhất định là Nhân Tiêu, có thê là vì không có linh trí, không có cảm giác đau đớn, chỉ biết chém giết quái vật mà thôi, cho dù là đối đãi với đồng loại cũng không ngoại lệ, bọn chúng căn bản không có khả năng bình an vô sự tụ tập cùng một chỗ.\"",
+      "similarity": [
+        [
+          76,
+          0.49
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển thế nào đều không nghĩ ra.",
+      "dich": "Viên Minh lập tức hỏi.",
+      "suggest": "Trần Uyển nghĩ mãi vẫn không ra.",
+      "similarity": [
+        [
+          11,
+          0.11
+        ],
+        [
+          34,
+          0.11
+        ],
+        [
+          37,
+          0.13
+        ],
+        [
+          77,
+          0.23
+        ],
+        [
+          84,
+          0.13
+        ],
+        [
+          87,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "\"Bọn chúng đều tụ tập ở chỗ này, chúng ta thế nào ra ngoài nha?\"",
+      "dich": "\"Nhìn từ vẻ ngoài, đám gia hỏa này nhất định là Nhân Tiêu không sai, có điều, có điều Nhân Tiêu đều không có linh trí, không có cảm giác đau, là quái vật chỉ biết giết chóc, cắn nuốt, dù là với đồng loại cũng không ngoại lệ, bọn chúng cơ bản không có khả năng lại bình an vô sự tụ tập cùng một chỗ như vậy.\"",
+      "suggest": "\"Toàn bộ bọn chúng đều tập trung ở đây, chúng ta sao có thể ra ngoài được?\"",
+      "similarity": [
+        [
+          78,
+          0.24
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh lại là đang lo lắng cái này.",
+      "dich": "Trần Uyển thế nào cũng nghĩ không ra.",
+      "suggest": "Viên Minh lại đang lo lắng chuyện đó.",
+      "similarity": [
+        [
+          16,
+          0.11
+        ],
+        [
+          29,
+          0.1
+        ],
+        [
+          47,
+          0.11
+        ],
+        [
+          75,
+          0.11
+        ],
+        [
+          79,
+          0.21
+        ],
+        [
+          82,
+          0.11
+        ],
+        [
+          103,
+          0.11
+        ],
+        [
+          107,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Đúng lúc này, Trần Uyển thần sắc lần nữa biến đổi, giống là nghĩ đến cái gì đáng sợ sự tình, miệng cũng không khỏi có chút trương ra.",
+      "dich": "\"Bọn chúng cùng tụ tập ở đây, chúng ta làm sao để ra ngoài?\"",
+      "suggest": "Đúng lúc này, thần sắc Trần Uyển lại lần nữa biến đổi, giống như đang nghĩ đến chuyện gì đó đáng sợ, miệng không khỏi có chút nhếch lên.",
+      "similarity": [
+        [
+          80,
+          0.64
+        ]
+      ]
+    },
+    {
+      "convert": "\"Thế nào?\"",
+      "dich": "Viên Minh lại chỉ lo lắng vấn đề này.",
+      "suggest": "\"Thế nào?\"",
+      "similarity": [
+        [
+          6,
+          0.18
+        ],
+        [
+          13,
+          0.18
+        ],
+        [
+          33,
+          0.24
+        ],
+        [
+          43,
+          0.18
+        ],
+        [
+          51,
+          0.24
+        ],
+        [
+          65,
+          0.13
+        ],
+        [
+          74,
+          0.22
+        ],
+        [
+          81,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh cau mày nói.",
+      "dich": "Đúng lúc này, thần sắc Trần Uyển lại lần nữa biến đổi, giống như nhìn thấy chuyện gì đó đáng sợ, miệng cũng bất giác hơi há ra.",
+      "suggest": "Viên Minh cau mày nói.",
+      "similarity": [
+        [
+          16,
+          0.18
+        ],
+        [
+          29,
+          0.27
+        ],
+        [
+          37,
+          0.16
+        ],
+        [
+          47,
+          0.18
+        ],
+        [
+          75,
+          0.18
+        ],
+        [
+          82,
+          0.54
+        ],
+        [
+          84,
+          0.16
+        ],
+        [
+          103,
+          0.19
+        ],
+        [
+          107,
+          0.13
+        ]
+      ]
+    },
+    {
+      "convert": "\"Có thể để cho Nhân Tiêu quần tụ mà không chém giết nguyên nhân, chỉ có một cái...\"",
+      "dich": "\"Làm sao thế?\"",
+      "suggest": "\"Có thể khiến cho quần chúng Nhân Tiêu tụ tập mà không chém giết, chỉ có một ...\"",
+      "similarity": [
+        [
+          83,
+          0.19
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển có chút run vừa nói nói.",
+      "dich": "Viên Minh cau mày hỏi.",
+      "suggest": "Trần Uyển run giọng nói.",
+      "similarity": [
+        [
+          11,
+          0.11
+        ],
+        [
+          29,
+          0.19
+        ],
+        [
+          34,
+          0.11
+        ],
+        [
+          37,
+          0.23
+        ],
+        [
+          77,
+          0.11
+        ],
+        [
+          84,
+          0.38
+        ],
+        [
+          87,
+          0.21
+        ],
+        [
+          90,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh nghe vậy, ánh mắt ngưng tụ, cũng suy đoán ra một đáp án: \"Bọn chúng được cái đó khống chế rồi?\"",
+      "dich": "\"\"Có thể khiến đám Nhân Tiêu kia tụ tập lại mà không xảy ra chém giết, nguyên nhân chỉ có một ...\"",
+      "suggest": "Viên Minh nghe vậy, hai mắt nheo lại, cũng suy đoán ra một đáp án: \"Bọn chúng có thể bị khống chế hay không?\"",
+      "similarity": [
+        [
+          85,
+          0.27
+        ]
+      ]
+    },
+    {
+      "convert": "\"Là Vương, quần tụ Nhân Tiêu ở bên trong ra đời Vương, chỉ có Nhân Tiêu Vương có thể khống chế lại những quái vật này.\"",
+      "dich": "Trần Uyển run run nói.",
+      "suggest": "\"Là Vương, từ khi mới sinh ra Nhân Tiêu, Vương chỉ có thể khống chế những quái vật này mà thôi.\"",
+      "similarity": [
+        [
+          86,
+          0.37
+        ],
+        [
+          104,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển nói.",
+      "dich": "Viên Minh nghe thế, ánh mắt ngưng lại, đồng thời cũng đã suy đoán ra được đáp án: \"Bọn chúng bị thứ gì đó khống chế?\"",
+      "suggest": "Trần Uyển nói.",
+      "similarity": [
+        [
+          11,
+          0.11
+        ],
+        [
+          29,
+          0.32
+        ],
+        [
+          34,
+          0.11
+        ],
+        [
+          37,
+          0.23
+        ],
+        [
+          77,
+          0.11
+        ],
+        [
+          84,
+          0.23
+        ],
+        [
+          87,
+          0.35
+        ],
+        [
+          90,
+          0.12
+        ],
+        [
+          103,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "\"Nhân Tiêu Vương...\"",
+      "dich": "\"Là Vương, bên trong đám Nhân Tiêu quần tu sinh ra Vương, chỉ có Nhân Tiêu Vương mới có thể khống chế những quái vật này.\"",
+      "suggest": "\"Nhân Tiêu Vương ...\"",
+      "similarity": [
+        [
+          28,
+          0.11
+        ],
+        [
+          65,
+          0.23
+        ],
+        [
+          88,
+          0.14
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh trầm ngâm nói.",
+      "dich": "Trần Uyển đáp.",
+      "suggest": "Viên Minh trầm ngâm nói.",
+      "similarity": [
+        [
+          16,
+          0.18
+        ],
+        [
+          29,
+          0.27
+        ],
+        [
+          37,
+          0.16
+        ],
+        [
+          47,
+          0.18
+        ],
+        [
+          75,
+          0.18
+        ],
+        [
+          82,
+          0.18
+        ],
+        [
+          84,
+          0.16
+        ],
+        [
+          88,
+          0.25
+        ],
+        [
+          103,
+          0.19
+        ],
+        [
+          107,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"Nguy rồi, nguy rồi, ta phải tranh thủ thời gian về tông môn báo cáo.\"",
+      "dich": "\"Nhân Tiêu Vương ...\" Viên Minh trầm ngâm tự nói.",
+      "suggest": "\"Nguy rồi, nguy rồi, ta phải tranh thủ thời gian về tông môn báo cáo.\"",
+      "similarity": [
+        [
+          89,
+          0.38
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển mặt lộ vẻ vẻ lo lắng, nói.",
+      "dich": "\"Không được, không được, ta phải trở về tông môn báo cáo.\"",
+      "suggest": "Trần Uyển lộ vẻ lo lắng, nói.",
+      "similarity": [
+        [
+          11,
+          0.11
+        ],
+        [
+          34,
+          0.11
+        ],
+        [
+          37,
+          0.14
+        ],
+        [
+          77,
+          0.11
+        ],
+        [
+          84,
+          0.14
+        ],
+        [
+          87,
+          0.1
+        ],
+        [
+          90,
+          0.66
+        ]
+      ]
+    },
+    {
+      "convert": "Nói xong, nàng liền muốn từ cửa hang lao ra.",
+      "dich": "Trần Uyển lộ rõ vẻ lo lắng, nói.",
+      "suggest": "Nói xong, nàng muốn lao ra khỏi cửa hang.",
+      "similarity": [
+        [
+          57,
+          0.14
+        ],
+        [
+          91,
+          0.52
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh vội vàng một cái ngăn cản nàng, thấp giọng trách mắng: \"Ngươi muốn đưa tử ta không ngăn, nhưng là chớ liên lụy ta.",
+      "dich": "Dứt lời, nàng lập tức muốn lao ra khỏi cửa hang.",
+      "suggest": "Viên Minh vội vàng đưa tay ra ngăn nàng, thấp giọng trách mắng: \"Ngươi muốn đưa ta đi không cần ta ngăn, nhưng chớ liên lụy đến ta.",
+      "similarity": [
+        [
+          92,
+          0.33
+        ]
+      ]
+    },
+    {
+      "convert": "Bộ dáng như hiện tại lao ra, là nghĩ cho ăn no những quái vật kia sao?\"",
+      "dich": "Viên Minh vội vàng đè nàng lại, nhỏ giọng trách mắng: \"Ngươi muốn tìm chết ta không ngăn, nhưng đừng liên lụy tới ta.",
+      "suggest": "Dáng vẻ hiện giờ của hắn là muốn ăn no rồi sao?\"",
+      "similarity": [
+        [
+          48,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ngươi không hiểu, nếu như Nhân Tiêu ở bên trong ra đời Vương, vậy lần này thí luyện liền xảy ra vấn đề, làm không tốt sẽ chết rất nhiều người.\"",
+      "dich": "Tình hình bây giờ mà lao ra, muốn làm cho đám quái vật kia à?\"",
+      "suggest": "\"Ngươi không hiểu, nếu như Vương Nhân Tiêu sinh ra đời thì lần thí luyện này có vấn đề, làm không tốt sẽ giết rất nhiều người.\"",
+      "similarity": [
+        [
+          94,
+          0.4
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển sắc mặt trắng bệch, giãy dụa nói.",
+      "dich": "\"Ngươi không hiểu, nếu như bên trong đám Nhân Tiêu sinh ra Vương, vậy lần thí luyện này cũng sẽ xảy ra chuyện, xử lý không tốt sẽ chết rất nhiều người.\"",
+      "suggest": "Sắc mặt Trần Uyển trắng bệch, giãy dụa nói.",
+      "similarity": [
+        [
+          90,
+          0.11
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ngươi nói rõ một chút, đến cùng chuyện gì xảy ra?\"",
+      "dich": "Trần Uyển mặt mũi tái nhợt, cự cãi.",
+      "suggest": "\"Ngươi nói rõ một chút, đến tột cùng là chuyện gì xảy ra?\"",
+      "similarity": [
+        [
+          96,
+          0.23
+        ],
+        [
+          102,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh bắt lấy bờ vai của nàng, trách mắng.",
+      "dich": "\"Ngươi nói rõ chút đi, rốt cuộc xảy ra chuyện gì?\"",
+      "suggest": "Viên Minh nắm lấy bờ vai nàng, trách mắng.",
+      "similarity": [
+        [
+          97,
+          0.74
+        ]
+      ]
+    },
+    {
+      "convert": "Trước mắt cái này Bích La Động ký danh đệ tử, hiển nhiên là rất ít đối mặt nguy hiểm, giờ phút này chủng rối loạn tấc lòng bối rối hành vi, không thể nghi ngờ nói rõ nàng kinh nghiệm khiếm khuyết, không khỏi làm Viên Minh lòng sinh ra coi thường.",
+      "dich": "Viên Minh bắt lấy bờ vai nàng, trách mắng.",
+      "suggest": "Tên ký danh Bích La Động này hiển nhiên rất ít khi đối mặt với nguy hiểm, giờ phút này hành động rối loạn trong lòng, không thể nghi ngờ nói rõ kinh nghiệm của nàng có khiếm khuyết, không thể nghi ngờ nói rõ kinh nghiệm của nàng có khiếm khuyết, không thể trách Viên Minh được.",
+      "similarity": [
+        [
+          98,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "\"Lần này thí luyện, là chúng ta ký danh đệ tử một lần nhập môn khảo hạch, nội dung chính là điều tra cũng đánh giết Nhân Tiêu, biểu hiện tốt đồ đệ, nói không chừng sẽ bị các đường trưởng lão lựa chọn sử dụng thu làm nội môn đệ tử.\"",
+      "dich": "Vị đệ tử ký danh Bích La Động trước mắt này hiển nhiên là rất ít đối mặt với nguy hiểm, loại hành vi bối rối lúc này hiển nhiên cho thấy sự thiếu kinh nghiệm của nàng, không khỏi khiến Viên Minh sinh lòng coi thường.",
+      "suggest": "\"Lần này là lần thứ hai ký danh đệ tử nhập môn, nội dung chính là điều tra giết Nhân Tiêu, biểu hiện tốt, nói không chừng sẽ được các đường trưởng lão lựa chọn sử dụng thu làm đệ tử nội môn.\"",
+      "similarity": [
+        [
+          99,
+          0.17
+        ],
+        [
+          100,
+          0.2
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển được Viên Minh như thế một trảo, mới đứng vững tâm thần, giải thích nói.",
+      "dich": "\"Lần thí luyện này vốn là một lần khảo hạch nhập môn của đệ tử ký danh bọn ta, nội dung chính là điều tra và săn giết Nhân Tiêu.",
+      "suggest": "Trần Uyển được Viên Minh nắm chặt tay, mới đứng vững tinh thần, giải thích.",
+      "similarity": [
+        [
+          101,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "\"Ngươi nói nếu mà có được Nhân Tiêu Vương, liền sẽ xảy ra vấn đề, là chuyện gì xảy ra?\"",
+      "dich": "Đệ tử biểu hiện tốt, nói không chừng sẽ được trưởng lão các đường chọn là đệ tử nội môn.\"",
+      "suggest": "\"Ngươi nói nếu có được Nhân Tiêu Vương, sẽ xảy ra vấn đề gì, là chuyện gì xảy ra?\"",
+      "similarity": [
+        [
+          102,
+          0.31
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh truy vấn.",
+      "dich": "Trần Uyển bị Viên Minh chộp vai một cái, mới định thần lại, giải thích.",
+      "suggest": "Viên Minh hỏi.",
+      "similarity": [
+        [
+          16,
+          0.18
+        ],
+        [
+          29,
+          0.35
+        ],
+        [
+          47,
+          0.18
+        ],
+        [
+          75,
+          0.23
+        ],
+        [
+          82,
+          0.23
+        ],
+        [
+          87,
+          0.16
+        ],
+        [
+          103,
+          0.3
+        ],
+        [
+          107,
+          0.12
+        ]
+      ]
+    },
+    {
+      "convert": "\"Nhân Tiêu Vương, thể nội ra đời Hồn Châu, cho nên có thể đủ khống chế Nhân Tiêu cùng một chỗ hành động, hắn thực lực xa không phải bình thường Nhân Tiêu có thể so sánh, sở hữu tham gia thí luyện ký danh đệ tử, nhiều nhất nhiều lắm là luyện khí sáu bảy tầng, lại phần lớn là phân tán hành động, một khi tao ngộ Nhân Tiêu Vương mang theo số lớn Nhân Tiêu ẩn hiện, nhất định phải chết.\"",
+      "dich": "\"Ngươi nói nếu có Nhân Tiêu Vương thì sẽ xảy ra chuyện, là xảy ra chuyện gì?\"",
+      "suggest": "\"Nhân Tiêu Vương, trong cơ thể ra đời Hồn Châu đã tạo ra một loại năng lực khống chế Nhân Tiêu, cho nên có thể điều khiển được Nhân Tiêu cùng một chỗ, thực lực của hắn không phải bình thường Nhân Tiêu có thể so sánh được. Sở hữu đệ tử tham gia thí luyện nhiều nhất là sáu bảy tầng luyện khí, phần lớn là phân tán hành động, một khi gặp phải Nhân Tiêu Vương mang theo số lớn Nhân Tiêu, nhất định sẽ chết.\"",
+      "similarity": []
+    },
+    {
+      "convert": "Trần Uyển ngữ khí gấp rút, mang theo một tia không cách nào ức chế run rẩy.",
+      "dich": "Viên Minh truy hỏi.",
+      "suggest": "Giọng nói của Trần Uyển gấp gáp, mang theo một chút không cách nào khống chế.",
+      "similarity": []
+    },
+    {
+      "convert": "Viên Minh nghe vậy, cũng là nhướng mày.",
+      "dich": "\"Nhân Tiêu Vương, trong người sinh ra Hồn châu, từ đó có thể khống chế Nhân Tiêu tụ tập hành động, thực lực nó vượt xa Nhân Tiêu bình thường.",
+      "suggest": "Viên Minh nghe vậy cũng nhíu mày.",
+      "similarity": [
+        [
+          16,
+          0.13
+        ],
+        [
+          29,
+          0.13
+        ],
+        [
+          47,
+          0.13
+        ],
+        [
+          75,
+          0.13
+        ],
+        [
+          82,
+          0.14
+        ],
+        [
+          103,
+          0.13
+        ],
+        [
+          107,
+          0.27
+        ]
+      ]
+    },
+    {
+      "convert": "Trách không được Trần Uyển như thế kinh hoảng, làm không tốt bọn hắn ký danh đệ tử lần luyện tập này, lại bởi vì Nhân Tiêu Vương xuất hiện, mà xuất hiện đại quy mô thương vong.",
+      "dich": "Tất cả đệ tử ký danh tham gia thí luyện, tu vi cao nhất cũng chỉ là Luyện Khí tầng sáu, bảy, nếu như đụng phải Nhân Tiêu Vương kéo theo một số lượng lớn Nhân Tiêu phục kích sẽ chết chắc.\"",
+      "suggest": "Trách không được Trần Uyển kinh hoảng như thế, làm không tốt việc ký danh đệ tử bọn họ luyện tập, lại bởi vì Nhân Tiêu Vương xuất hiện mà dẫn đến thương vong lớn.",
+      "similarity": [
+        [
+          108,
+          0.18
+        ]
+      ]
+    },
+    {
+      "convert": "\"Giả sử chỉ là lẻ tẻ xuất hiện một cái Nhân Tiêu, tông môn căn bản sẽ không để ý, chỉ cần hắn không xuất hiện siêu phạm vi hoạt động, liền không làm xử lý.",
+      "dich": "Trần Uyển giải thích với giọng điệu gấp gáp, mơ hồ còn có chút run sợ khó đè nén.",
+      "suggest": "\"Giả sử chỉ là xuất hiện một cái Tiêu, tông môn căn bản sẽ không để ý đến, chỉ cần hắn không xuất hiện trong phạm vi hẹp thì sẽ không xử lý được.",
+      "similarity": [
+        [
+          109,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "Nếu là xuất hiện nhiều cái Nhân Tiêu siêu phạm vi hoạt động, tông môn liền sẽ hợp thời tham gia, tổ chức cùng loại dạng này thí luyện.",
+      "dich": "Viên Minh nghe thế cũng nhướng mày.",
+      "suggest": "Nếu xuất hiện nhiều hoạt động trong phạm vi Nhân Tiêu, tông môn sẽ hợp thời tham gia, tổ chức các loại thí luyện giống như vậy.",
+      "similarity": [
+        [
+          110,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "Nhưng nếu là xuất hiện Nhân Tiêu Vương, nguy hại đẳng cấp tăng gấp bội, đã thuộc về vượt qua thí luyện cái kia có phong hiểm, nếu là trễ để mọi người biết được, hậu quả khó mà lường được, tốt nhất phương thức xử lý, là để tông môn phái trưởng lão tới xử lý.\"",
+      "dich": "Trách không được Trần Uyển lại kinh hoảng như vậy, nếu xử lý không tốt thì đám đệ tử ký danh tham gia lần thí luyện này sẽ vì sự xuất hiện của Nhân Tiêu Vương mà xảy ra thương vong quy mô lớn.",
+      "suggest": "Nhưng nếu xuất hiện Nhân Tiêu Vương, nguy hại đẳng cấp tăng gấp bội, đã thuộc về môn phái vượt qua thí luyện. Nếu để cho mọi người biết sớm thì hậu quả khó lường. Tốt nhất cách xử lý là báo cho trưởng lão tông môn biết. Nếu chậm trễ thì để trưởng lão tông môn tới xử lý.\"",
+      "similarity": [
+        [
+          111,
+          0.15
+        ]
+      ]
+    },
+    {
+      "convert": "Trần Uyển ngữ tốc cực nhanh tiếp tục nói.",
+      "dich": "\"Nếu như chỉ là từng Nhân Tiêu xuất hiện lẻ tẻ thì tông môn cơ bản sẽ không để ý, chỉ cần nó không hoạt động vượt phạm vi thì tông môn cũng sẽ mặc kệ.",
+      "suggest": "Trần Uyển dùng giọng điệu cực nhanh tiếp tục nói.",
+      "similarity": [
+        [
+          90,
+          0.11
+        ],
+        [
+          112,
+          0.21
+        ]
+      ]
+    },
+    {
+      "convert": "Viên Minh đang muốn nói chuyện, chợt nghe một hồi \"Phần phật\" dị hưởng.",
+      "dich": "Nếu có nhiều Nhân Tiêu hoạt động ngoài phạm vi, tông môn sẽ kịp thời can thiệp, tổ chức hoạt động như thí luyện này.",
+      "suggest": "Viên Minh đang muốn nói chuyện, chợt nghe một hồi dị hưởng \"Phần phật\".",
+      "similarity": [
+        [
+          113,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn vội vàng đưa tay lăng không ấn xuống, để Trần Uyển yên tĩnh, chợt lặng lẽ hướng Nhân Tiêu bên kia dò xét đi tới, liền thấy một cái vóc người cao lớn lông trắng Nhân Tiêu đang từ phía trên hang động sót xuống sắc trời địa phương, nhảy rơi xuống.",
+      "dich": "Nhưng nếu Nhân Tiêu Vương xuất hiện, mức độ nguy hại sẽ gia tăng gấp bội, vượt quá mức độ rủi ro vốn có của thí luyện, nếu để mọi người biết quá muộn, hậu quá khó mà lường được, cách xử lý tốt nhất là để tông môn phái trưởng lão đến xử lý.\"",
+      "suggest": "Lão vội vàng đưa tay ấn xuống, để Trần Uyển yên tĩnh, chợt lặng lẽ quan sát qua khe cửa động Nhân Tiêu, liền thấy một bóng người cao lớn có bộ lông trắng trắng đang nhảy từ trên núi xuống.",
+      "similarity": [
+        [
+          114,
+          0.14
+        ]
+      ]
+    },
+    {
+      "convert": "Chỉ gặp hắn hình thể bề ngoài cùng cái khác Nhân Tiêu khác biệt không lớn, nhưng hắn trên mặt lông tóc lại càng thưa thớt ngắn hơn, mơ hồ còn có thể nhìn thấy ngũ quan hình dáng, vậy mà cùng phổ thông nhân tộc giống nhau đến bảy phần.",
+      "dich": "Trần Uyển tiếp tục nói với tốc độ cực nhanh.",
+      "suggest": "Chỉ thấy hình dáng bề ngoài của hắn so với những người khác không khác là bao, nhưng lông tóc trên mặt hắn lại thưa thớt ngắn hơn, lờ mờ có thể nhìn thấy ngũ quan, vì vây mà giống hệt những người bình thường đến bảy phần.",
+      "similarity": [
+        [
+          115,
+          0.16
+        ]
+      ]
+    },
+    {
+      "convert": "Khác biệt chính là, hắn hai nơi thái dương bên trên, đều có một cái màu trắng cốt chất nổi lên, không đủ nửa tấc, nhìn tựa như là lớn hai cái nhô lên sừng nhọn đồng dạng.",
+      "dich": "Viên Minh đang muốn tiếp lời, đột nhiên nghe được một hồi những tiếng \"phần phật\" kỳ dị.",
+      "suggest": "Khác biệt duy nhất là trên hai thái dương của hắn đều có một khối xương trắng mỏng manh, không đủ nửa tấc, nhìn giống như hai cái sừng nhọn nhô lên vậy.",
+      "similarity": [
+        [
+          116,
+          0.17
+        ]
+      ]
+    },
+    {
+      "convert": "Hắn bộ dáng mặc dù xấu xí, nhưng thân thể thẳng tắp, lại không hiểu có loại oai hùng bá giả chi khí.",
+      "dich": "Hắn vội vàng đưa tay ấn nhẹ, ra dấu bảo Trần Uyển im lặng, đồng thời lặng lẽ đưa mắt nhìn qua chỗ đám Nhân Tiêu kia, tức thì thấy một Nhân Tiêu lông trắng, vóc người cao lớn từ lỗ trời phía trên hang động nhảy xuống.",
+      "suggest": "Dáng vẻ của hắn mặc dù xấu xí, nhưng thân thể thẳng tắp, không hiểu tại sao lại có loại khí chất oai hùng bá giả.",
+      "similarity": [
+        [
+          117,
+          0.3
+        ]
+      ]
+    },
+    {
+      "convert": "Mà trên tay của hắn, lại còn mang theo một người mặc màu đỏ ngắn bào thanh niên nam tử.",
+      "dich": "Chỉ thấy hình thể nó không khác mấy so với những Nhân Tiêu khác, có điều lông tóc trên mặt nó ngắn, thưa hơn, còn có thể lờ mờ thấy được hình dạng ngũ quan, không lại giống người bình thường tới bảy phần.",
+      "suggest": "Mà trên tay hắn còn mang theo một nam tử mặc áo xanh ngắn tay.",
+      "similarity": [
+        [
+          118,
+          0.25
+        ]
+      ]
+    },
+    {
+      "convert": "Nam tử kia phục sức chỗ ngực, thêu lên một cái hỏa diễm đường vân, nhìn tựa hồ cùng Trần Uyển, cùng xuất từ với Hỏa Luyện Đường.",
+      "dich": "Điểm khác chính là, trên hai bên thái dương của nó cùng có một cục xương trắng nhô ra, dài chưa tới nửa tấc, trông tựa như hai cái sừng nhú lên vậy.",
+      "suggest": "Nam tử mặc phục sức kia có thêu một đường vân đỏ như máu, trông tựa hồ giống Trần Uyển, cũng đến từ Hỏa Luyện Đường.",
+      "similarity": []
+    },
+    {
+      "dich": "Bộ dáng nó tuy xấu xí nhưng thân thể thẳng tắp, toát ra khí chất oai hùng bá đạo khó tả."
+    },
+    {
+      "dich": "Hơn nữa trên tay nó còn mang theo một nam thanh niên mặc đoản bào màu đỏ."
+    },
+    {
+      "dich": "Phần ngực áo của thanh niên kia thêu họa tiết ngọn lửa, thoạt nhìn có vẻ cũng là người đi ra từ Hỏa Luyện đường giống như Trần Uyển.,."
+    }
+  ]
+}

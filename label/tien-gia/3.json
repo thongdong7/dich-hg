@@ -1,0 +1,3907 @@
+{
+  "currentLine": 83,
+  "next": {
+    "id": 4,
+    "title": "Chương 04: Duy nhất đường sống"
+  },
+  "title": {
+    "convert": "Chương 3",
+    "dich": "Chương 3"
+  },
+  "previous": {
+    "id": 2,
+    "title": "Chương 2: Sinh tử bằng thiên ý"
+  },
+  "currentWorkingLine": 83,
+  "changed": true,
+  "lines": [
+    {
+      "convert": "Khảo thí xong linh căn về sau, cái kia tự xưng \"Y Quả\" hai linh căn \"Thiên tài\" thiếu niên, bị Tát Nhân trưởng lão tự mình mang theo, đi quảng trường hậu phương toà kia là hùng vĩ nhất đại điện.",
+      "dich": "Sau khi việc kiểm tra linh căn kết thúc, thiếu niên thiên tài có Song linh căn tự xưng 'Y Quả' kia được đích thân Tát Nhân trưởng lão đưa tới tòa đại điện hùng vĩ nhất ở phía sau quảng trường.",
+      "suggest": "Sau khi khảo thí xong Linh căn, thiếu niên có hai Linh căn xưng là \"Y Quả\" và \"Thiên tài\" được trưởng lão Tát Nhân đích thân dẫn theo, đi tới hậu phương của đại điện hùng vĩ nhất.",
+      "similarity": [
+        [
+          0,
+          0.99
+        ],
+        [
+          1,
+          0.98
+        ],
+        [
+          2,
+          0.96
+        ],
+        [
+          3,
+          0.95
+        ],
+        [
+          6,
+          0.96
+        ],
+        [
+          9,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Về sau, mặt khác hai cái có được tam linh căn dã nhân cũng bị người mang đi, chỉ còn lại bao quát Viên Minh ở bên trong bảy cái tứ linh căn, y nguyên bị cái kia thân trần đại hán Hồ Trát mang theo, rời đi nến linh điện.",
+      "dich": "Kế đó, hai tên dã nhân có Tam linh căn cũng được người đưa đi, chỉ còn lại bảy tên có Tứ linh căn bao gồm Viên Minh vẫn như cũ, bị đại hán ở trần Hồ Trát đưa ra khỏi Chúc Linh điện.",
+      "suggest": "Về sau, hai con dã nhân có được bảy Linh căn cũng bị người mang đi, chỉ còn lại bảy Linh căn bao quát cả người Viên Minh, y nguyên bị đại hán thân trần mang đi, rời khỏi nến linh điện.",
+      "similarity": [
+        [
+          0,
+          0.97
+        ],
+        [
+          1,
+          0.99
+        ],
+        [
+          2,
+          0.96
+        ],
+        [
+          3,
+          0.95
+        ],
+        [
+          4,
+          0.95
+        ],
+        [
+          6,
+          0.97
+        ],
+        [
+          9,
+          0.96
+        ],
+        [
+          10,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cách xa phiến khu vực này về sau, Hồ Trát đột nhiên chủ động nói với bọn hắn khởi nói tới:",
+      "dich": "Rời đại điện được một khoảng xa, Hồ Trát đột nhiên chủ động trò chuyện với bọn họ:",
+      "suggest": "Sau khi cách xa khu vực này một quãng, Hồ Trát đột nhiên chủ động nói với bọn họ:",
+      "similarity": [
+        [
+          0,
+          0.96
+        ],
+        [
+          1,
+          0.97
+        ],
+        [
+          2,
+          0.99
+        ],
+        [
+          3,
+          0.96
+        ],
+        [
+          6,
+          0.96
+        ],
+        [
+          7,
+          0.96
+        ],
+        [
+          8,
+          0.97
+        ],
+        [
+          10,
+          0.95
+        ],
+        [
+          11,
+          0.96
+        ],
+        [
+          12,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ta biết hiện tại các ngươi đều ghi hận ta, nhưng tương lai có một ngày, các ngươi quay đầu lại nhìn những ngày này chuyện phát sinh, các ngươi biết cảm thấy may mắn.\"",
+      "dich": "\"Ta biết rõ hiện tại các ngươi đều ghi hận ta, nhưng một ngày trong tương lai, khi quay đầu nhìn lại chuyện xảy ra ngày hôm nay, các ngươi sẽ lại cảm thấy vui mừng.\"",
+      "suggest": "\"Ta biết hiện tại các ngươi đều hận ta, nhưng một ngày nào đó, các ngươi quay lại nhìn những chuyện đã phát sinh, các ngươi sẽ cảm thấy may mắn.\"",
+      "similarity": [
+        [
+          3,
+          0.99
+        ],
+        [
+          9,
+          0.95
+        ],
+        [
+          10,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mấy cái dã nhân chưa tỉnh hồn, từng cái trông mong nhìn qua hắn, mặc dù nghe hiểu được hắn, lại không người dám nói tiếp gốc rạ.",
+      "dich": "Mấy tên dã nhân còn chưa hoàn hồn, ai nấy đưa mắt nhìn gã, dù nghe hiểu lời của gã nhưng không ai dám tiếp lời.",
+      "suggest": "Mấy tên dã nhân còn sống, từng cái nhìn qua hắn, mặc dù nghe hiểu hắn, nhưng lại không ai dám nói ra gốc rạ.",
+      "similarity": [
+        [
+          0,
+          0.95
+        ],
+        [
+          1,
+          0.96
+        ],
+        [
+          2,
+          0.96
+        ],
+        [
+          3,
+          0.96
+        ],
+        [
+          4,
+          0.97
+        ],
+        [
+          6,
+          0.97
+        ],
+        [
+          7,
+          0.96
+        ],
+        [
+          10,
+          0.96
+        ],
+        [
+          12,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Là bởi vì vừa rồi khảo thí sao?\"",
+      "dich": "\"Là vì cuộc kiểm tra vừa rồi sao?\"",
+      "suggest": "\"Là vì khảo thí lần này sao?\"",
+      "similarity": [
+        [
+          5,
+          0.98
+        ],
+        [
+          7,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh những ngày này lần thứ nhất mở miệng, nói ra chính là Nam Cương man thoại, lại nửa điểm không sinh sơ.",
+      "dich": "Viên Minh, sau mấy ngày im lặng, lần đầu tiên mở miệng, nói ra lại chính là tiếng Nam Man, hơn nữa không vấp váp ngọng nghịu gì.",
+      "suggest": "Những ngày này, lần đầu tiên Viên Minh mở miệng, nói chính là chuyện về man thoại Nam Cương, nhưng đến bây giờ vẫn chưa có tin tức gì mới.",
+      "similarity": [
+        [
+          0,
+          0.96
+        ],
+        [
+          1,
+          0.97
+        ],
+        [
+          2,
+          0.96
+        ],
+        [
+          3,
+          0.95
+        ],
+        [
+          4,
+          0.95
+        ],
+        [
+          6,
+          0.98
+        ],
+        [
+          7,
+          0.96
+        ],
+        [
+          8,
+          0.95
+        ],
+        [
+          10,
+          0.96
+        ],
+        [
+          12,
+          0.96
+        ],
+        [
+          13,
+          0.95
+        ],
+        [
+          14,
+          0.95
+        ],
+        [
+          16,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Nguyên lai ngươi biết chúng ta Nam Cương ngôn ngữ, này cũng cũng khó được.\"",
+      "dich": "\"Hóa ra ngươi lại biết tiếng Nam Man chúng ta, cái này cũng hiếm có.\"",
+      "suggest": "\"Thì ra ngươi biết ngôn ngữ của chúng ta cũng khó nói.\"",
+      "similarity": [
+        [
+          0,
+          0.95
+        ],
+        [
+          1,
+          0.95
+        ],
+        [
+          2,
+          0.95
+        ],
+        [
+          3,
+          0.96
+        ],
+        [
+          5,
+          0.95
+        ],
+        [
+          6,
+          0.96
+        ],
+        [
+          7,
+          0.98
+        ],
+        [
+          12,
+          0.95
+        ],
+        [
+          14,
+          0.96
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          17,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hồ Trát có chút ngoài ý muốn, quan sát lần nữa một chút Viên Minh, nhưng lại tiếp tục phối hợp nói ra:",
+      "dich": "Hồ Trát hơi ngạc nhiên, đưa mắt đánh giá Viên Minh lần nữa rồi nói tiếp:",
+      "suggest": "Hồ Trát có chút bất ngờ, quan sát Viên Minh thêm lần nữa, nhưng vẫn tiếp tục nói:",
+      "similarity": [
+        [
+          0,
+          0.96
+        ],
+        [
+          1,
+          0.96
+        ],
+        [
+          2,
+          0.97
+        ],
+        [
+          6,
+          0.96
+        ],
+        [
+          7,
+          0.96
+        ],
+        [
+          8,
+          0.98
+        ],
+        [
+          11,
+          0.95
+        ],
+        [
+          12,
+          0.96
+        ],
+        [
+          15,
+          0.96
+        ],
+        [
+          16,
+          0.97
+        ],
+        [
+          17,
+          0.95
+        ],
+        [
+          18,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Nhiều ít phàm nhân tha thiết ước mơ, muốn bước lên tu tiên kiếm con đường trường sinh, đều khổ vì không có chút nào đường tắt, các ngươi tuy là bị ép bắt tới, nhưng có thể gia nhập chúng ta bích la động, cũng coi là các ngươi thiên đại tạo hóa.",
+      "dich": "\"Bao nhiêu phàm nhân thiết tha mơ ước được bước lên con đường tu tiên cầu trường sinh, ngặt nỗi chẳng thấy đường nào, còn các ngươi tuy bị bắt ép đến đây, nhưng có thể gia nhập Bích La động chúng ta xem như thiên đại tạo hóa của các ngươi.",
+      "suggest": "\"Nhiều phàm nhân tha thiết mong muốn bước lên con đường tu tiên, muốn bước lên con đường trường sinh trường tồn, đều đau khổ vì không có một con đường tắt nào, mặc dù các ngươi bị ép buộc phải đi, nhưng vẫn có thể gia nhập bích động chúng ta, cũng coi như là tạo hóa các ngươi.",
+      "similarity": [
+        [
+          3,
+          0.95
+        ],
+        [
+          9,
+          0.98
+        ],
+        [
+          13,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Như một ngày kia, di sơn đảo hải, hô phong hoán vũ thời điểm, nhưng chớ có quên ta người dẫn đường này.\"",
+      "dich": "Nếu một ngày kia có thể dời non lấp biển, hô mưa gọi gió, lúc ấy đừng có quên kẻ dẫn đường ta đây.\"",
+      "suggest": "Một ngày kia, trên biển khơi Di Sơn, hô phong hoán vũ, nhưng chớ quên ta đã chỉ dẫn.\"",
+      "similarity": [
+        [
+          1,
+          0.95
+        ],
+        [
+          6,
+          0.95
+        ],
+        [
+          9,
+          0.95
+        ],
+        [
+          10,
+          0.97
+        ],
+        [
+          18,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hồ Trát nhếch miệng cười, dùng ngón tay cái chỉ chỉ chính mình.",
+      "dich": "Hồ Trát nhếch miệng cười, đưa ngón tay cái chỉ vào bản thân.",
+      "suggest": "Hồ Trát nhếch miệng cười, dùng ngón tay cái chỉ về phía mình.",
+      "similarity": [
+        [
+          1,
+          0.95
+        ],
+        [
+          2,
+          0.96
+        ],
+        [
+          8,
+          0.96
+        ],
+        [
+          11,
+          0.99
+        ],
+        [
+          12,
+          0.96
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          19,
+          0.95
+        ],
+        [
+          20,
+          0.95
+        ],
+        [
+          21,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nghe nói như thế, những cái kia dã người đưa mắt nhìn nhau, nhưng thật là có người hướng Hồ Trát cảm ơn.",
+      "dich": "Nghe nói vậy, mấy tên dã nhân kia chỉ biết đưa mắt nhìn nhau, có tên còn cảm ơn Hồ Trát thật.",
+      "suggest": "Nghe nói như thế, những tên dã người kia đưa mắt nhìn nhau, nhưng thật ra có người lại cảm ơn Hồ Trát.",
+      "similarity": [
+        [
+          1,
+          0.97
+        ],
+        [
+          2,
+          0.97
+        ],
+        [
+          3,
+          0.96
+        ],
+        [
+          4,
+          0.97
+        ],
+        [
+          6,
+          0.96
+        ],
+        [
+          7,
+          0.97
+        ],
+        [
+          8,
+          0.96
+        ],
+        [
+          10,
+          0.96
+        ],
+        [
+          11,
+          0.96
+        ],
+        [
+          12,
+          0.99
+        ],
+        [
+          15,
+          0.95
+        ],
+        [
+          16,
+          0.98
+        ],
+        [
+          17,
+          0.97
+        ],
+        [
+          18,
+          0.96
+        ],
+        [
+          20,
+          0.97
+        ],
+        [
+          21,
+          0.98
+        ],
+        [
+          22,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nam Cương vốn là tôn trọng lực lượng, lấy thực lực tuyệt đối vi tôn, nếu có một cái bước lên con đường cường giả cơ hội, thật đúng là vạn phần khó được.",
+      "dich": "Nam Cương vốn sùng bái sức mạnh, thực lực vi tôn, vậy nên nếu có cơ hội bước lên con đường của cường giả thì đúng là chuyện cực kỳ quý báu.",
+      "suggest": "Nam Cương vốn tôn trọng lực lượng, lấy thực lực tuyệt đối vi tôn, nếu có một cơ hội tiến lên con đường cường giả, thật đúng là vạn phần khó khăn.",
+      "similarity": [
+        [
+          6,
+          0.96
+        ],
+        [
+          9,
+          0.96
+        ],
+        [
+          10,
+          0.95
+        ],
+        [
+          13,
+          0.98
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          17,
+          0.95
+        ],
+        [
+          21,
+          0.96
+        ],
+        [
+          22,
+          0.96
+        ],
+        [
+          23,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Các ngươi lúc trước nói phi mao thú nô là có ý gì?\"",
+      "dich": "\"Phi Mao thú nô lúc trước các ngươi nói là có ý gì?\"",
+      "suggest": "\"Các ngươi lúc trước nói Phi mao thú nô là có ý gì?\"",
+      "similarity": [
+        [
+          5,
+          0.95
+        ],
+        [
+          6,
+          0.96
+        ],
+        [
+          7,
+          0.97
+        ],
+        [
+          12,
+          0.95
+        ],
+        [
+          14,
+          0.98
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          17,
+          0.96
+        ],
+        [
+          18,
+          0.96
+        ],
+        [
+          22,
+          0.96
+        ],
+        [
+          23,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh lại tại lúc này lại hỏi một câu.",
+      "dich": "Viên Minh lúc này lại hỏi thêm một câu.",
+      "suggest": "Viên Minh đúng lúc này lại hỏi một câu.",
+      "similarity": [
+        [
+          8,
+          0.96
+        ],
+        [
+          15,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nghe được lời này, Hồ Trát lại là sững sờ, tựa hồ không ngờ tới, trước mắt cái này người Trung Nguyên, dĩ nhiên thẳng đến có lưu ý hắn cùng Tát Nhân trưởng lão đối thoại.",
+      "dich": "Nghe câu hỏi này, Hồ Trát lần nữa sửng sốt, tựa như không ngờ tới tên người Trung Nguyên trước mắt này lại còn để ý cả đoạn hội thoại của gã và Tát Nhân trưởng lão.",
+      "suggest": "Nghe được lời này, Hồ Trát lại sững sờ, tựa hồ không ngờ tới, trước mắt mình lại có người Trung Nguyên như vậy, lại chính là người đang lưu ý hắn và trưởng lão Tát Nhân nói chuyện.",
+      "similarity": [
+        [
+          6,
+          0.98
+        ],
+        [
+          7,
+          0.97
+        ],
+        [
+          8,
+          0.96
+        ],
+        [
+          10,
+          0.96
+        ],
+        [
+          12,
+          0.97
+        ],
+        [
+          13,
+          0.96
+        ],
+        [
+          16,
+          0.99
+        ],
+        [
+          17,
+          0.97
+        ],
+        [
+          18,
+          0.97
+        ],
+        [
+          20,
+          0.97
+        ],
+        [
+          21,
+          0.98
+        ],
+        [
+          22,
+          0.98
+        ],
+        [
+          23,
+          0.98
+        ],
+        [
+          26,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đã sớm nghe nói người Trung Nguyên xảo trá, hiện tại xem xét, là so với chúng ta Nam Cương lòng người con mắt nhiều.",
+      "dich": "\"Từ lâu đã nghe nói người Trung Nguyên xảo trá, bây giờ mới thấy, quả thực âm trầm hơn người Nam Man chúng ta nhiều.",
+      "suggest": "\"Ta đã sớm nghe nói người Trung Nguyên xảo trá, hiện giờ xem ra còn hơn nhiều so với con mắt của người Nam Cương chúng ta.",
+      "similarity": [
+        [
+          6,
+          0.97
+        ],
+        [
+          7,
+          0.97
+        ],
+        [
+          8,
+          0.95
+        ],
+        [
+          10,
+          0.96
+        ],
+        [
+          12,
+          0.97
+        ],
+        [
+          13,
+          0.96
+        ],
+        [
+          14,
+          0.96
+        ],
+        [
+          16,
+          0.97
+        ],
+        [
+          17,
+          0.99
+        ],
+        [
+          18,
+          0.97
+        ],
+        [
+          20,
+          0.96
+        ],
+        [
+          21,
+          0.97
+        ],
+        [
+          22,
+          0.97
+        ],
+        [
+          23,
+          0.97
+        ],
+        [
+          26,
+          0.96
+        ],
+        [
+          26,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá, ta nhắc nhở ngươi một câu, ở chỗ này quá thông minh, có thể chưa chắc là chuyện gì tốt.\"",
+      "dich": "Nhưng mà ta nhắc nhở ngươi một câu, ở nơi này quá thông minh chưa chắc đã là chuyện tốt.\"",
+      "suggest": "Tuy nhiên, ta nhắc nhở ngươi một câu, ở đây quá thông minh, có thê không chắc có chuyện gì tốt.\"",
+      "similarity": [
+        [
+          7,
+          0.96
+        ],
+        [
+          10,
+          0.96
+        ],
+        [
+          12,
+          0.96
+        ],
+        [
+          14,
+          0.96
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          17,
+          0.96
+        ],
+        [
+          18,
+          0.98
+        ],
+        [
+          21,
+          0.96
+        ],
+        [
+          22,
+          0.97
+        ],
+        [
+          23,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hồ Trát sắc mặt lạnh lẽo, trách mắng.",
+      "dich": "Hồ Trát nghiêm mặt, lạnh lùng quát mắng.",
+      "suggest": "Sắc mặt Hồ Trát lạnh lùng, mắng chửi.",
+      "similarity": [
+        [
+          11,
+          0.95
+        ],
+        [
+          16,
+          0.95
+        ],
+        [
+          19,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Dứt lời, hắn tựa hồ cũng đã mất đi cùng Viên Minh bọn người tiếp tục trả lời hứng thú, mang theo bọn hắn một đường hướng đi về phía tây đi.",
+      "dich": "Dứt lời, gã có vẻ cũng hết hứng nói chuyện với đám người Viên Minh, tiếp tục dẫn bọn hắn một đường đi về phía Tây.",
+      "suggest": "Dứt lời, hắn dường như cũng đã mất đi hứng thú với những người Viên Minh tiếp tục trò chuyện, dẫn theo bọn họ đi về phía tây.",
+      "similarity": [
+        [
+          10,
+          0.95
+        ],
+        [
+          12,
+          0.97
+        ],
+        [
+          16,
+          0.97
+        ],
+        [
+          17,
+          0.96
+        ],
+        [
+          18,
+          0.96
+        ],
+        [
+          20,
+          0.99
+        ],
+        [
+          21,
+          0.97
+        ],
+        [
+          22,
+          0.97
+        ],
+        [
+          23,
+          0.97
+        ],
+        [
+          26,
+          0.97
+        ],
+        [
+          28,
+          0.97
+        ],
+        [
+          28,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trên đường, Viên Minh đối còn lại người thỉnh thoảng quăng tới hoặc là bất thiện hoặc là ánh mắt nghi hoặc nhìn như không thấy, nhưng trong lòng đang yên lặng suy nghĩ lúc trước Hồ Trát trong miệng toát ra tin tức.",
+      "dich": "Trên đường, Viên Minh đối với ánh mắt hoặc nghi ngờ, hoặc bất thiện của những người khác coi như không thấy, nhưng trong lòng lại âm thầm suy nghĩ về những tin tức có được từ trong miệng Hồ Trát.",
+      "suggest": "Trên đường, Viên Minh thỉnh thoảng nhìn về phía những người còn lại, ánh mắt nghi hoặc nhìn như không thấy, nhưng trong lòng vẫn đang yên lặng suy nghĩ tin tức trong miệng Hồ Trát phát ra.",
+      "similarity": [
+        [
+          10,
+          0.96
+        ],
+        [
+          11,
+          0.96
+        ],
+        [
+          12,
+          0.97
+        ],
+        [
+          15,
+          0.96
+        ],
+        [
+          16,
+          0.98
+        ],
+        [
+          17,
+          0.97
+        ],
+        [
+          18,
+          0.96
+        ],
+        [
+          20,
+          0.96
+        ],
+        [
+          21,
+          0.99
+        ],
+        [
+          22,
+          0.97
+        ],
+        [
+          23,
+          0.97
+        ],
+        [
+          26,
+          0.96
+        ],
+        [
+          27,
+          0.95
+        ],
+        [
+          28,
+          0.97
+        ],
+        [
+          28,
+          0.97
+        ],
+        [
+          29,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trở thành phi mao thú nô nghe liền không giống như là chuyện gì tốt, nếu không cái này Hồ Trát cũng không trở thành không muốn nhiều lời, bất quá xem ra trong thời gian ngắn hẳn không có cái gì tính mệnh mà lo lắng.",
+      "dich": "Trở thành Phi Mao thú nô nghe đã thấy không giống chuyện tốt gì, nếu không gã Hồ Trát này cũng không mất hứng nói chuyện như vậy, có điều xem ra trong nhất thời không phải lo về tính mạng.",
+      "suggest": "Nghe xong chuyện trở thành Phi mao thú nô cũng không có gì xấu cả. Nếu không Hồ Trát này cũng không trở thành người không muốn nói nhiều lời. Nhưng xem ra trong thời gian ngắn cũng không cần lo lắng đến tính mạng.",
+      "similarity": [
+        [
+          12,
+          0.96
+        ],
+        [
+          13,
+          0.96
+        ],
+        [
+          16,
+          0.97
+        ],
+        [
+          17,
+          0.97
+        ],
+        [
+          18,
+          0.97
+        ],
+        [
+          20,
+          0.96
+        ],
+        [
+          21,
+          0.97
+        ],
+        [
+          22,
+          0.99
+        ],
+        [
+          23,
+          0.98
+        ],
+        [
+          25,
+          0.95
+        ],
+        [
+          26,
+          0.96
+        ],
+        [
+          28,
+          0.96
+        ],
+        [
+          29,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Về phần kia cái gọi là cái gì bước lên con đường tu tiên, cũng không biết có phải hay không cái này Hồ Trát dọa người ngôn từ.",
+      "dich": "Về phần cái gì mà bước lên con đường tu tiên, cái này chẳng biết có phải gã Hồ Trát kia chém gió dọa người hay không.",
+      "suggest": "Về phần cái gọi là tu tiên hay là tu tiên, cũng không biết có phải câu nói dọa người này hay không mà Hồ Trát lại dùng đến.",
+      "similarity": [
+        [
+          12,
+          0.97
+        ],
+        [
+          14,
+          0.96
+        ],
+        [
+          15,
+          0.95
+        ],
+        [
+          16,
+          0.97
+        ],
+        [
+          17,
+          0.97
+        ],
+        [
+          18,
+          0.96
+        ],
+        [
+          20,
+          0.95
+        ],
+        [
+          21,
+          0.97
+        ],
+        [
+          22,
+          0.97
+        ],
+        [
+          23,
+          0.98
+        ],
+        [
+          26,
+          0.96
+        ],
+        [
+          27,
+          0.96
+        ],
+        [
+          28,
+          0.96
+        ],
+        [
+          28,
+          0.97
+        ],
+        [
+          29,
+          0.96
+        ],
+        [
+          30,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mặc dù hắn rất nhiều chuyện đều không nhớ nổi, nhưng vẫn là minh bạch thành tiên ý vị như thế nào.",
+      "dich": "Bởi dù hắn không nhớ nổi rất nhiều việc nhưng vẫn rất rõ ý nghĩa việc thành tiên là như thế nào.",
+      "suggest": "Mặc dù hắn có rất nhiều chuyện không nhớ nổi, nhưng vẫn hiểu rõ ý nghĩa của việc thành tiên.",
+      "similarity": [
+        [
+          13,
+          0.95
+        ],
+        [
+          15,
+          0.95
+        ],
+        [
+          16,
+          0.96
+        ],
+        [
+          17,
+          0.96
+        ],
+        [
+          18,
+          0.96
+        ],
+        [
+          20,
+          0.96
+        ],
+        [
+          21,
+          0.97
+        ],
+        [
+          22,
+          0.97
+        ],
+        [
+          23,
+          0.98
+        ],
+        [
+          27,
+          0.95
+        ],
+        [
+          28,
+          0.96
+        ],
+        [
+          28,
+          0.96
+        ],
+        [
+          29,
+          0.96
+        ],
+        [
+          30,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn hiện tại chỉ có thể đi được tới đâu hay tới đó, trước tiếp tục bảo trụ mạng nhỏ, lại nói chuyện rồi khác.",
+      "dich": "Hắn bây giờ chỉ có thể tới đâu hay tới đó, trước ưu tiên giữ cái mạng nhỏ, những việc khác tính sau.",
+      "suggest": "Hiện tại hắn chỉ có thể đi được tới đâu hay tới đó, trước tiên cứ bảo trụ cái mạng nhỏ rồi tính tiếp.",
+      "similarity": [
+        [
+          16,
+          0.95
+        ],
+        [
+          20,
+          0.96
+        ],
+        [
+          22,
+          0.96
+        ],
+        [
+          23,
+          0.96
+        ],
+        [
+          25,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ước chừng sau gần nửa canh giờ, Viên Minh bảy người tại Hồ Trát dẫn đầu xuống tới đến một chỗ xa xôi khu vực, xa xa liền thấy một tòa liên miên hơn mười dặm cao lớn tường đá, tường đá đại môn toàn thân thanh đồng chất liệu, nhìn nặng nề vô cùng.",
+      "dich": "Khoảng nửa canh giờ sau đó, Viên Minh và bảy người dưới sự dẫn dắt của Hồ Trát đi tới một khu vực xa xôi. Từ đằng xa đã thấy một bức tường đá cao lớn kéo dài liên miên mấy chục dặm. Cửa lớn của tường đá được chế tạo hoàn toàn từ đồng xanh, nhìn qua cảm giác vô cùng dày dạn, nặng nề.",
+      "suggest": "Ước chừng sau gần nửa canh giờ, bảy người Viên Minh dẫn đầu xuống khu vực xa xôi, xa xa đã thấy một bức tường đá cao hơn mười dặm, toàn thân bức tường đá là những thanh đồng màu xanh cao hơn mười dặm, chất liệu đá đồng trên tường đá trông vô cùng nặng nề.",
+      "similarity": [
+        [
+          26,
+          0.96
+        ],
+        [
+          26,
+          0.96
+        ],
+        [
+          31,
+          0.96
+        ],
+        [
+          33,
+          0.96
+        ],
+        [
+          34,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tại trong môn bên cạnh trên đất trống, xây dựng vài toà thành lũy kiến trúc.",
+      "dich": "Nhìn thêm còn thấy trong cửa lớn có mấy toàn kiến trúc dạng thành lũy được xây trên một khoảng đất trống.",
+      "suggest": "Bên trong sân, xây dựng vài toà kiến trúc thành lũy.",
+      "similarity": [
+        [
+          27,
+          0.98
+        ],
+        [
+          30,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hồ Trát mang theo đám người trải qua lúc, thành lũy bên trong đột nhiên đi tới một cái cùng Hồ Trát ăn mặc tương tự người, cùng Hồ Trát nói chuyện với nhau vài câu về sau, liền thả bọn họ thông qua.",
+      "dich": "Hồ Trát dẫn cả bọn đi vào trong cổng được một đoạn thì đột nhiên có một người ăn vận tương tự gã từ trong thành lũy đi ra. Người này sau khi nói chuyện mấy câu với Hồ Trát liền để bọn họ thông qua.",
+      "suggest": "Khi Hồ Trát dẫn đám người đi qua, trong thành lũy đột nhiên xuất hiện một người mặc trang phục giống hệt Hồ Trát, sau khi nói chuyện với hắn vài câu liền để bọn họ tự do.",
+      "similarity": [
+        [
+          17,
+          0.96
+        ],
+        [
+          18,
+          0.95
+        ],
+        [
+          20,
+          0.98
+        ],
+        [
+          21,
+          0.97
+        ],
+        [
+          22,
+          0.97
+        ],
+        [
+          23,
+          0.97
+        ],
+        [
+          26,
+          0.97
+        ],
+        [
+          26,
+          0.95
+        ],
+        [
+          27,
+          0.96
+        ],
+        [
+          28,
+          0.98
+        ],
+        [
+          28,
+          0.97
+        ],
+        [
+          29,
+          0.96
+        ],
+        [
+          30,
+          0.96
+        ],
+        [
+          31,
+          0.96
+        ],
+        [
+          33,
+          0.97
+        ],
+        [
+          34,
+          0.97
+        ],
+        [
+          35,
+          0.96
+        ],
+        [
+          36,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chẳng biết tại sao, Viên Minh luôn cảm thấy người kia nhìn về phía trong ánh mắt của bọn hắn, tựa hồ mang theo vài phần thương hại cùng mỉa mai hỗn hợp tâm tình rất phức tạp.",
+      "dich": "Không biết vì sao, Viên Minh cảm giác trong ánh mắt của người này khi nhìn bọn hắn tựa như mang theo chút tâm tình thương cảm pha lẫn mỉa mai.",
+      "suggest": "Chẳng biết tại sao, Viên Minh luôn cảm thấy ánh mắt của những người kia trong ánh mắt của bọn hắn dường như mang theo vài phần thương hại và mỉa mai.",
+      "similarity": [
+        [
+          18,
+          0.96
+        ],
+        [
+          20,
+          0.96
+        ],
+        [
+          21,
+          0.98
+        ],
+        [
+          22,
+          0.97
+        ],
+        [
+          23,
+          0.97
+        ],
+        [
+          26,
+          0.95
+        ],
+        [
+          28,
+          0.96
+        ],
+        [
+          28,
+          0.95
+        ],
+        [
+          29,
+          0.99
+        ],
+        [
+          30,
+          0.95
+        ],
+        [
+          31,
+          0.95
+        ],
+        [
+          33,
+          0.96
+        ],
+        [
+          34,
+          0.96
+        ],
+        [
+          35,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ra thanh đồng miệng cống, bên ngoài tận lực bồi tiếp một mảnh rậm rạp núi rừng nguyên thủy.",
+      "dich": "Ra khỏi cánh cổng dạng nắp cống bằng đồng, chỉ thấy bên ngoài là một khoảng núi rừng nguyên thủy bao la, rậm rạp.",
+      "suggest": "Miệng cống đồng hiện ra, bên ngoài như đang bồi đắp một mảnh rừng nguyên thủy rậm rạp.",
+      "similarity": [
+        [
+          21,
+          0.96
+        ],
+        [
+          22,
+          0.95
+        ],
+        [
+          23,
+          0.96
+        ],
+        [
+          26,
+          0.96
+        ],
+        [
+          26,
+          0.95
+        ],
+        [
+          26,
+          0.96
+        ],
+        [
+          27,
+          0.96
+        ],
+        [
+          28,
+          0.96
+        ],
+        [
+          29,
+          0.95
+        ],
+        [
+          30,
+          0.98
+        ],
+        [
+          31,
+          0.96
+        ],
+        [
+          32,
+          0.96
+        ],
+        [
+          33,
+          0.97
+        ],
+        [
+          34,
+          0.96
+        ],
+        [
+          35,
+          0.95
+        ],
+        [
+          36,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "To lớn cao ngất cây cao dày đặc phân bố, mỗi một khỏa đều là hai ba người ôm hết cự mộc, to lớn tán cây đan xen, ngẫu nhiên có có thể lộ hạ ánh nắng khe hở, phía dưới mặt đất mọc đầy thấp bé lùm cây.",
+      "dich": "Những cây lớn cao vút mọc san sát, thân gốc có kích thước phải hai ba người lớn mới ôm hết, tán cây rộng lớn đan xen nhau, thỉnh thoảng có ánh nắng xuyên qua kẽ lá chiếu xuống, lờ mờ soi ra những lùm cây thấp bé ở tầng dưới.",
+      "suggest": "Cao lớn cao ngất được phân bố rất dày đặc, mỗi một cây đều được ba người ôm hết cự mộc, tán cây to lớn đan xen, ngẫu nhiên có thể lộ ra những khe hở để ánh sáng lọt vào, phía dưới mặt đất mọc đầy lùm cây thấp bé.",
+      "similarity": [
+        [
+          20,
+          0.95
+        ],
+        [
+          21,
+          0.96
+        ],
+        [
+          22,
+          0.96
+        ],
+        [
+          23,
+          0.96
+        ],
+        [
+          26,
+          0.96
+        ],
+        [
+          26,
+          0.95
+        ],
+        [
+          26,
+          0.96
+        ],
+        [
+          27,
+          0.96
+        ],
+        [
+          28,
+          0.96
+        ],
+        [
+          29,
+          0.95
+        ],
+        [
+          30,
+          0.97
+        ],
+        [
+          31,
+          0.99
+        ],
+        [
+          32,
+          0.96
+        ],
+        [
+          33,
+          0.97
+        ],
+        [
+          34,
+          0.96
+        ],
+        [
+          35,
+          0.95
+        ],
+        [
+          36,
+          0.97
+        ],
+        [
+          39,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trong núi rừng, sương mù mịt mờ, một đầu đường nhỏ xuyên thẳng qua tại trong bụi cỏ, kéo dài đến tầm mắt cuối cùng.",
+      "dich": "Giữa núi rừng sương mù mờ mịt, một con đường nhỏ nằm giữa những bụi cỏ, kéo dài hết tầm mắt.",
+      "suggest": "Trong rừng sương mù, một con đường nhỏ xuyên qua bụi cỏ, kéo dài đến tận tầm mắt cuối cùng.",
+      "similarity": [
+        [
+          21,
+          0.96
+        ],
+        [
+          23,
+          0.95
+        ],
+        [
+          26,
+          0.95
+        ],
+        [
+          26,
+          0.95
+        ],
+        [
+          30,
+          0.96
+        ],
+        [
+          31,
+          0.97
+        ],
+        [
+          32,
+          0.98
+        ],
+        [
+          33,
+          0.96
+        ],
+        [
+          34,
+          0.95
+        ],
+        [
+          36,
+          0.95
+        ],
+        [
+          40,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đi vào trong rừng, liền cảm giác bốn phía nhiệt độ có chút thấp xuống một chút, quanh mình truyền đến từng cơn điểu gọi tiếng côn trùng kêu vang, trong lỗ mũi cũng tràn ngập ẩm ướt bùn đất cùng thực vật đặc thù mùi.",
+      "dich": "Viên Minh khi đi vào trong rừng liền cảm thấy nhiệt độ xung quanh hạ xuống một chút, không gian bốn bề có từng hồi thanh âm chim hót trùng kêu, đồng thời nơi mũi tràn ngập mùi vị đặc trưng của cây cối pha mùi bùn đất ẩm ướt.",
+      "suggest": "Viên Minh đi vào trong rừng, cảm giác bốn phía nhiệt độ xuống thấp một chút, quanh mình truyền đến từng hồi tiếng chim kêu, trong lỗ mũi cũng tràn ngập mùi bùn đất và các loại thực vật đặc thù.",
+      "similarity": [
+        [
+          22,
+          0.96
+        ],
+        [
+          23,
+          0.97
+        ],
+        [
+          26,
+          0.96
+        ],
+        [
+          26,
+          0.96
+        ],
+        [
+          27,
+          0.95
+        ],
+        [
+          28,
+          0.97
+        ],
+        [
+          29,
+          0.97
+        ],
+        [
+          30,
+          0.96
+        ],
+        [
+          31,
+          0.97
+        ],
+        [
+          32,
+          0.96
+        ],
+        [
+          33,
+          0.99
+        ],
+        [
+          34,
+          0.98
+        ],
+        [
+          35,
+          0.96
+        ],
+        [
+          36,
+          0.96
+        ],
+        [
+          39,
+          0.96
+        ],
+        [
+          40,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bên cạnh mấy cái dã nhân khi tiến vào rừng rậm về sau, thần sắc ngược lại là trở nên dễ dàng chút, giống như là về tới gia viên của mình, trái lại dẫn đầu Hồ Trát, trên mặt ngược lại nhiều hơn mấy phần khẩn trương.",
+      "dich": "Mấy dã nhân bên cạnh sau khi tiến vào rừng rậm lại trở nên thoải mái hơn, cảm giác như được về nhà mình, trong khi đó trên mặt Hồ Trát lại lộ ra chút căng thẳng.",
+      "suggest": "Mấy tên dã nhân bên cạnh sau khi tiến vào khu rừng, thần sắc trái lại trở nên dễ dàng hơn, giống như trở về gia viên của mình, trái lại dẫn đầu Hồ Trát, trên mặt lại có vài phần khẩn trương.",
+      "similarity": [
+        [
+          23,
+          0.96
+        ],
+        [
+          26,
+          0.96
+        ],
+        [
+          26,
+          0.95
+        ],
+        [
+          28,
+          0.96
+        ],
+        [
+          29,
+          0.96
+        ],
+        [
+          31,
+          0.95
+        ],
+        [
+          33,
+          0.97
+        ],
+        [
+          34,
+          0.98
+        ],
+        [
+          36,
+          0.96
+        ],
+        [
+          40,
+          0.96
+        ],
+        [
+          42,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nơi xa thỉnh thoảng truyền đến tiếng thú gào, kiểu gì cũng sẽ dẫn tới hắn nhanh chóng quay đầu quan sát.",
+      "dich": "Xa xa thỉnh thoảng có tiếng dã thú gào rú truyền lại khiến gã luôn phải xoay đầu quan sát.",
+      "suggest": "Thỉnh thoảng ở đằng xa truyền đến tiếng 'chát', chắc chắn sẽ khiến hắn nhanh chóng quay đầu lại quan sát.",
+      "similarity": [
+        [
+          26,
+          0.95
+        ],
+        [
+          28,
+          0.95
+        ],
+        [
+          31,
+          0.95
+        ],
+        [
+          33,
+          0.95
+        ],
+        [
+          34,
+          0.95
+        ],
+        [
+          35,
+          0.97
+        ],
+        [
+          39,
+          0.96
+        ],
+        [
+          40,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Dọc theo trong rừng đường nhỏ, một đường đi nửa canh giờ, phía trước xuất hiện một mảnh khoáng đạt đất trống, trung ương đứng lặng lấy một khối cao mấy trượng xanh đen cự thạch, thô lệ hoa văn bên trên tuyên khắc lấy một hàng màu đỏ sậm Nam Cương văn tự.",
+      "dich": "Đi dọc theo con đường mòn trong rừng hơn nửa canh giờ, phía trước hiện ra một mảnh đất trống rộng lớn, ở chỗ giữa có một khối đá lớn màu xanh đen, cao mấy trượng đứng sừng sững, trên khối đá thấy có khắc nguệch ngoạc mấy văn tự Nam Cương thô to.",
+      "suggest": "Con đường nhỏ trong rừng đi được nửa canh giờ, phía trước xuất hiện một mảnh đất trống trải, trung ương là một khối cự thạch xanh đen cao mấy trượng, trên khối cự thạch này khắc rõ một hàng văn tự Nam Cương màu đỏ sậm.",
+      "similarity": [
+        [
+          26,
+          0.96
+        ],
+        [
+          28,
+          0.95
+        ],
+        [
+          30,
+          0.96
+        ],
+        [
+          31,
+          0.97
+        ],
+        [
+          32,
+          0.95
+        ],
+        [
+          33,
+          0.97
+        ],
+        [
+          34,
+          0.96
+        ],
+        [
+          36,
+          0.99
+        ],
+        [
+          39,
+          0.96
+        ],
+        [
+          40,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Thập Vạn Đại Sơn giới nhất.\"",
+      "dich": "\"Thập Vạn Đại Sơn Giới Nhất.\"",
+      "suggest": "\"Thập Vạn Đại Sơn giới nhất.\"",
+      "similarity": [
+        [
+          37,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh ở trong lòng mặc đọc một lần.",
+      "dich": "Viên Minh thầm đọc một lần.",
+      "suggest": "Viên Minh thầm đánh giá tình hình của mình một chút.",
+      "similarity": [
+        [
+          28,
+          0.96
+        ],
+        [
+          38,
+          0.95
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          46,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này, hắn chú ý tới, khối kia xanh đen cự thạch bên cạnh, một cái vóc người cao lớn áo bào xám nam tử đưa lưng về phía bọn hắn đứng chắp tay.",
+      "dich": "Lúc này, hắn chú ý tới một nam tử cao lớn vận áo bào xám đang đứng cạnh khối đá, đưa lưng về phía họ.",
+      "suggest": "Lúc này hắn chú ý đến bên cạnh khối cự thạch màu xanh kia, một nam tử áo bào xám cao lớn, lưng đeo Huyết Sáo đứng phía sau bọn hắn.",
+      "similarity": [
+        [
+          28,
+          0.97
+        ],
+        [
+          28,
+          0.95
+        ],
+        [
+          29,
+          0.96
+        ],
+        [
+          30,
+          0.96
+        ],
+        [
+          31,
+          0.96
+        ],
+        [
+          33,
+          0.96
+        ],
+        [
+          34,
+          0.96
+        ],
+        [
+          35,
+          0.96
+        ],
+        [
+          36,
+          0.96
+        ],
+        [
+          39,
+          0.98
+        ],
+        [
+          40,
+          0.97
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          44,
+          0.95
+        ],
+        [
+          47,
+          0.96
+        ],
+        [
+          48,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nghe đến bên này động tĩnh, kia nam tử cao lớn chậm rãi xoay người lại, là một cái sắc mặt nghiêm túc, ngũ quan ngay ngắn trung niên nhân, thô mà nồng lông mày có chút nhíu lên, ánh mắt có chút lạnh lẽo.",
+      "dich": "Nghe thấy động tĩnh bên này, nam tử cao lớn kia chậm rãi xoay người lại, nhìn kỹ thì là một người đàn ông trung niên mang thần sắc nghiêm túc, ngũ quan đoan chính, hàng mi to rậm hơi cong lên, ánh mắt có phần lạnh lùng.",
+      "suggest": "Nghe được tiếng động bên này, nam tử cao lớn chậm rãi xoay người, là một người trung niên có sắc mặt nghiêm túc, ngũ quan ngay ngắn, lông mày thô có chút nhíu lại, ánh mắt có chút lạnh lẽo.",
+      "similarity": [
+        [
+          29,
+          0.96
+        ],
+        [
+          30,
+          0.96
+        ],
+        [
+          31,
+          0.97
+        ],
+        [
+          32,
+          0.95
+        ],
+        [
+          33,
+          0.97
+        ],
+        [
+          34,
+          0.97
+        ],
+        [
+          35,
+          0.96
+        ],
+        [
+          36,
+          0.96
+        ],
+        [
+          39,
+          0.97
+        ],
+        [
+          40,
+          0.99
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          44,
+          0.95
+        ],
+        [
+          46,
+          0.95
+        ],
+        [
+          47,
+          0.97
+        ],
+        [
+          48,
+          0.97
+        ],
+        [
+          49,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Hô Hỏa trưởng lão, đây là mới một nhóm phi mao thú nô, ta cho ngươi mang tới.\"",
+      "dich": "\"Hô Hỏa trưởng lão, đây là đám Phi Mao thú nô mới, ta mang tới cho ngươi.\"",
+      "suggest": "\"Hô Hỏa trưởng lão, đây là một nhóm thú nô mới được một nhóm người mang tới đây.\"",
+      "similarity": [
+        [
+          29,
+          0.95
+        ],
+        [
+          30,
+          0.95
+        ],
+        [
+          33,
+          0.96
+        ],
+        [
+          39,
+          0.95
+        ],
+        [
+          40,
+          0.95
+        ],
+        [
+          41,
+          0.98
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          44,
+          0.96
+        ],
+        [
+          47,
+          0.95
+        ],
+        [
+          48,
+          0.95
+        ],
+        [
+          49,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hồ Trát nhìn người nọ về sau, thần sắc cũng hơi có chút khẩn trương, mở miệng nói ra.",
+      "dich": "Hồ Trát sau khi thấy người này thì thần sắc có phần căng thẳng, mở miệng nói.",
+      "suggest": "Hồ Trát nhìn người nọ, thần sắc cũng hơi có chút khẩn trương, mở miệng nói.",
+      "similarity": [
+        [
+          33,
+          0.96
+        ],
+        [
+          34,
+          0.96
+        ],
+        [
+          39,
+          0.95
+        ],
+        [
+          40,
+          0.96
+        ],
+        [
+          41,
+          0.95
+        ],
+        [
+          42,
+          0.98
+        ],
+        [
+          44,
+          0.96
+        ],
+        [
+          46,
+          0.96
+        ],
+        [
+          47,
+          0.96
+        ],
+        [
+          48,
+          0.96
+        ],
+        [
+          49,
+          0.96
+        ],
+        [
+          50,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Được.\"",
+      "dich": "\"Tốt.\"",
+      "suggest": "\"Được.\"",
+      "similarity": [
+        [
+          43,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Được xưng Hô Hỏa trưởng lão nam tử trung niên nhẹ gật đầu.",
+      "dich": "Nam tử trung niên gọi là Hô Hỏa trưởng lão khẽ gật đầu, đáp.",
+      "suggest": "Nam tử trung niên xưng hô Hỏa trưởng lão nhẹ gật đầu.",
+      "similarity": [
+        [
+          39,
+          0.95
+        ],
+        [
+          41,
+          0.95
+        ],
+        [
+          44,
+          0.98
+        ],
+        [
+          49,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Vậy ta về trước đi phục mệnh.\"",
+      "dich": "\"Ta đi về phục mệnh trước.\"",
+      "suggest": "\"Vậy ta lập tức trở về.\"",
+      "similarity": [
+        [
+          45,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hồ Trát trả lời một tiếng, liền quay người rời đi.",
+      "dich": "Hồ Trát đáp lại một câu rồi lập tức xoay người rời đi.",
+      "suggest": "Hồ Trát trả lời một tiếng liền quay người rời đi.",
+      "similarity": [
+        [
+          42,
+          0.95
+        ],
+        [
+          46,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chờ bọn hắn sau khi đi, Hô Hỏa trưởng lão tùy ý quét Viên Minh mấy người một chút, thần sắc đạm mạc, ánh mắt kia tựa như là đang nhìn mấy gốc cây, hoặc là mấy khối tảng đá, không mang theo mảy may cảm xúc.",
+      "dich": "Chờ gã đi rồi, Hô Hỏa trưởng lão mới thuận thế đưa mắt liếc qua đám Viên Minh, vẻ mặt lão hờ hững, ánh mắt kia trông như đang nhìn mấy bụi cây, tảng đá, không mang theo chút cảm xúc nào.",
+      "suggest": "Sau khi bọn họ đi khuất, Hô Hỏa trưởng lão tùy ý quét qua đám người Viên Minh một lượt, thần sắc đạm mạc, ánh mắt lão nhìn mấy gốc cây, hoặc tảng đá, không mang theo chút cảm xúc.",
+      "similarity": [
+        [
+          36,
+          0.96
+        ],
+        [
+          39,
+          0.96
+        ],
+        [
+          40,
+          0.98
+        ],
+        [
+          41,
+          0.95
+        ],
+        [
+          42,
+          0.97
+        ],
+        [
+          44,
+          0.95
+        ],
+        [
+          47,
+          0.99
+        ],
+        [
+          48,
+          0.97
+        ],
+        [
+          49,
+          0.97
+        ],
+        [
+          51,
+          0.96
+        ],
+        [
+          52,
+          0.96
+        ],
+        [
+          53,
+          0.97
+        ],
+        [
+          54,
+          0.96
+        ],
+        [
+          54,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Sau khi xem, chỉ gặp nó đưa tay tại bên hông mình treo một cái lớn chừng bàn tay tử sắc túi vỗ một cái, một đạo không chút nào thu hút ánh sáng nhạt từ cái túi bên trên tản ra.",
+      "dich": "Nhìn xong, chỉ thấy lão đưa tay vỗ một cái lên cái túi màu tím lớn bằng bàn tay bên hông, tức thì, một vầng sáng nhạt không chút bắt mắt từ trên túi tỏa ra.",
+      "suggest": "Sau khi xem qua, chỉ thấy nó đưa tay vỗ vào túi màu xanh to cỡ bàn tay bên hông, một luồng ánh sáng nhạt không chút thu hút từ trong túi tản ra.",
+      "similarity": [
+        [
+          36,
+          0.96
+        ],
+        [
+          39,
+          0.97
+        ],
+        [
+          40,
+          0.97
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          47,
+          0.97
+        ],
+        [
+          48,
+          0.99
+        ],
+        [
+          49,
+          0.97
+        ],
+        [
+          51,
+          0.96
+        ],
+        [
+          52,
+          0.96
+        ],
+        [
+          53,
+          0.97
+        ],
+        [
+          54,
+          0.95
+        ],
+        [
+          54,
+          0.97
+        ],
+        [
+          55,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngay sau đó, Hô Hỏa trưởng lão trong tay bỗng hiện ra từng trương hình thái khác nhau cổ quái da thú.",
+      "dich": "Ngay sau đó, trong tay Hô Hỏa trưởng lão thình lình xuất hiện từng miếng, từng miếng da thú cổ quái hình dạng bất đồng.",
+      "suggest": "Ngay sau đó, trong tay trưởng lão Hô Hỏa bỗng nhiên xuất hiện từng cái da thú cổ quái với đủ hình dạng khác nhau.",
+      "similarity": [
+        [
+          39,
+          0.97
+        ],
+        [
+          40,
+          0.97
+        ],
+        [
+          41,
+          0.96
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          44,
+          0.96
+        ],
+        [
+          46,
+          0.95
+        ],
+        [
+          47,
+          0.96
+        ],
+        [
+          48,
+          0.96
+        ],
+        [
+          49,
+          0.99
+        ],
+        [
+          50,
+          0.96
+        ],
+        [
+          51,
+          0.96
+        ],
+        [
+          53,
+          0.96
+        ],
+        [
+          54,
+          0.96
+        ],
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.97
+        ],
+        [
+          56,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh dụi dụi con mắt, căn bản không có thấy rõ ràng, những vật này là thế nào biến ra.",
+      "dich": "Viên Minh dụi dụi mắt. Hắn cơ bản không nhìn rõ được những thứ này xuất hiện như thế nào.",
+      "suggest": "Viên Minh dụi dụi mắt, căn bản không thấy rõ những vật này biến ra sao.",
+      "similarity": [
+        [
+          40,
+          0.96
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          47,
+          0.96
+        ],
+        [
+          48,
+          0.95
+        ],
+        [
+          49,
+          0.95
+        ],
+        [
+          50,
+          0.95
+        ],
+        [
+          51,
+          0.96
+        ],
+        [
+          53,
+          0.96
+        ],
+        [
+          55,
+          0.96
+        ],
+        [
+          56,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Những cái kia dã nhân càng là từng cái trợn mắt hốc mồm, coi là thần tích.",
+      "dich": "Những dã nhân càng ngạc nhiên đến trợn mắt há mồm, cho rằng đó là phép màu.",
+      "suggest": "Những con dã nhân kia lại trợn mắt há mồm, xem như thần tích.",
+      "similarity": [
+        [
+          39,
+          0.95
+        ],
+        [
+          40,
+          0.95
+        ],
+        [
+          42,
+          0.96
+        ],
+        [
+          46,
+          0.95
+        ],
+        [
+          47,
+          0.95
+        ],
+        [
+          48,
+          0.96
+        ],
+        [
+          49,
+          0.96
+        ],
+        [
+          50,
+          0.96
+        ],
+        [
+          51,
+          0.97
+        ],
+        [
+          53,
+          0.95
+        ],
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.96
+        ],
+        [
+          57,
+          0.96
+        ],
+        [
+          58,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh thu hồi suy nghĩ, cẩn thận ngưng mắt xem xét, liền phát hiện những cái kia da thú bên trong, có màu lông tối tăm báo săn, hiện ra thanh sắc sói hoang, lông bờm tạp sắc lợn rừng, màu sắc xám trắng vượn già, sắc tông mà tạp Hùng Bi, da lông lộng lẫy mãnh hổ, thậm chí còn có một Trương Thanh sắc không lông tê giác da.",
+      "dich": "Viên Minh thu hồi suy nghĩ, cẩn thận tập trung nhìn qua, kết quả phát hiện trong số những miếng da thú kia có miếng mang lông đen xì của báo đen, có xanh nhạt của sói hoang, có lông lá lởm chởm của lợn lòi, có lông trắng xám của vượn già, có màu sắc hỗn tạp của gấu nâu, màu sặc sỡ của mãnh hổ, còn có một mảng da màu xanh không lông của tê giác.",
+      "suggest": "Viên Minh thu hồi suy nghĩ, cẩn thận ngưng mắt quan sát, liền phát hiện trong những da thú kia có rất nhiều lông thú, có lông báo săn màu đen, lông bờm tạp sắc sói hoang, lông bờm tạp sắc hổ báo, màu xám trắng vượn già, màu xám trắng vượn già, màu xám trắng vượn già, da lông lộng lẫy mãnh hổ, thậm chí còn có một sừng tê giác trắng không lông.",
+      "similarity": [
+        [
+          40,
+          0.96
+        ],
+        [
+          47,
+          0.96
+        ],
+        [
+          48,
+          0.95
+        ],
+        [
+          49,
+          0.95
+        ],
+        [
+          52,
+          0.99
+        ],
+        [
+          53,
+          0.97
+        ],
+        [
+          55,
+          0.96
+        ],
+        [
+          56,
+          0.97
+        ],
+        [
+          58,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn sở dĩ có thể một chút nhận ra những này da lông, là bởi vì những này da lông mặc dù chỉ có nửa người, nhưng tất cả đều là liên quan thủ cấp da mặt cùng một chỗ bóc xuống, trong đó lợn rừng cùng tê giác răng nanh cùng độc giác, đều bị hoàn chỉnh giữ lại.",
+      "dich": "Hắn sở dĩ có thể liếc mắt đã nhận ra những thứ da lông này bởi mấy thứ này dù không hoàn chỉnh nhưng tất cả đều là phần da được lột từ phần đầu, mặt, trong đó răng nanh lợn lòi và sừng của tê giác còn được giữ lại nguyên vẹn.",
+      "suggest": "Sở dĩ hắn có thể dễ dàng nhận ra những da lông này, là bởi vì chúng đều được lột xuống từ trên mặt đất, trong đó móng vuốt và độc giác của chúng đều được bảo vệ nghiêm ngặt.",
+      "similarity": [
+        [
+          42,
+          0.95
+        ],
+        [
+          47,
+          0.95
+        ],
+        [
+          48,
+          0.97
+        ],
+        [
+          49,
+          0.96
+        ],
+        [
+          50,
+          0.95
+        ],
+        [
+          51,
+          0.96
+        ],
+        [
+          52,
+          0.96
+        ],
+        [
+          53,
+          0.98
+        ],
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.97
+        ],
+        [
+          56,
+          0.96
+        ],
+        [
+          57,
+          0.96
+        ],
+        [
+          58,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hô Hỏa trưởng lão đi đến mấy người sau lưng, đem những này da thú từng cái bọc tại trên đầu của bọn hắn, hé mở da lông liền đều từ phía sau bọn hắn rủ xuống, giống như là phủ thêm một kiện mang theo mũ túi ngắn áo choàng.",
+      "dich": "Hô Hỏa trưởng lão đi tới đằng sau lưng mấy người rồi lần lượt đeo từng miếng da lên trên đầu bọn hắn. Mỗi tấm da trên đầu bọn họ còn dư một phần rủ qua đầu vai khiến bọn hắn trông như đang đội một cái nón kèm áo choàng ngắn.",
+      "suggest": "Trưởng lão Hô Hỏa đi đến sau lưng mấy người, lấy từng cái da thú này bọc quanh đầu bọn họ, sau đó da lông cũng từ từ cụp xuống phía sau bọn hắn, trông như đang khoác thêm một cái áo choàng ngắn tay.",
+      "similarity": [
+        [
+          42,
+          0.96
+        ],
+        [
+          44,
+          0.95
+        ],
+        [
+          46,
+          0.96
+        ],
+        [
+          47,
+          0.97
+        ],
+        [
+          48,
+          0.97
+        ],
+        [
+          49,
+          0.97
+        ],
+        [
+          50,
+          0.95
+        ],
+        [
+          51,
+          0.96
+        ],
+        [
+          53,
+          0.97
+        ],
+        [
+          54,
+          0.97
+        ],
+        [
+          54,
+          0.98
+        ],
+        [
+          55,
+          0.97
+        ],
+        [
+          56,
+          0.97
+        ],
+        [
+          57,
+          0.97
+        ],
+        [
+          58,
+          0.96
+        ],
+        [
+          60,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh trên đầu bị tròng lên tấm kia xám trắng vượn già da lông, trên mặt làn da cùng vượn trắng da thịt thiếp hợp lại cùng nhau, hơi có chút ngứa, trong lỗ mũi cũng có thể ngửi được một cỗ mùi tanh nhàn nhạt, cũng không thối, nhưng cũng không dễ ngửi.",
+      "dich": "Đầu Viên Minh bị phủ một miếng da có lông xám trắng của vượn già để da mặt hắn dán sát vào da con vượn trắng, có cảm giác ngưa ngứa đồng thời mũi có thể ngửi thấy tanh nhạt nhưng không thối, thực sự rất khó tả.",
+      "suggest": "Trên đầu Viên Minh được phủ một lớp lông xám trắng, da thịt trên mặt và da thịt của vượn già đều hợp lại với nhau, có chút ngứa ngáy, trong lỗ mũi có thể ngửi thấy một mùi tanh tưởi nhàn nhạt, cũng không thối, nhưng cũng không dễ ngửi.",
+      "similarity": [
+        [
+          47,
+          0.97
+        ],
+        [
+          48,
+          0.97
+        ],
+        [
+          49,
+          0.96
+        ],
+        [
+          51,
+          0.96
+        ],
+        [
+          52,
+          0.97
+        ],
+        [
+          53,
+          0.98
+        ],
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.99
+        ],
+        [
+          56,
+          0.97
+        ],
+        [
+          57,
+          0.96
+        ],
+        [
+          58,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Sau đó, kia Hô Hỏa trưởng lão lại là vỗ bên hông túi, trong tay bỗng nhiều hơn bảy cái màu nâu da chế túi túi, phía trên vẽ lấy một cái huyết hồng sắc cổ quái đồ văn.",
+      "dich": "Tiếp đó, Hô Hỏa trưởng lão lại vỗ túi bên hông, trên tay bỗng có thêm hơn bảy cái túi lớn bằng da màu nâu, trên túi có vẽ một đồ văn cổ quái màu đỏ như máu.",
+      "suggest": "Sau đó, trưởng lão Hô Hỏa lại vỗ vỗ túi da màu nâu bên hông, trong tay bỗng nhiên xuất hiện thêm bảy cái túi da màu nâu da chế, phía trên vẽ một đồ văn màu đỏ cổ quái.",
+      "similarity": [
+        [
+          47,
+          0.97
+        ],
+        [
+          48,
+          0.97
+        ],
+        [
+          49,
+          0.97
+        ],
+        [
+          51,
+          0.95
+        ],
+        [
+          52,
+          0.97
+        ],
+        [
+          53,
+          0.97
+        ],
+        [
+          54,
+          0.95
+        ],
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.97
+        ],
+        [
+          56,
+          0.99
+        ],
+        [
+          57,
+          0.95
+        ],
+        [
+          58,
+          0.96
+        ],
+        [
+          63,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Thời gian tới ba ngày, các ngươi muốn vượt qua chỗ này cột mốc biên giới, ở phía sau trong rừng rậm vượt qua.",
+      "dich": "\"Ba ngày tới đây, các ngươi phải vượt qua mốc giới này, xông vào rừng rậm phía sau.",
+      "suggest": "\"Thời gian tới ba ngày, các ngươi phải vượt qua cột mốc này phải đi qua khu rừng rậm phía sau.",
+      "similarity": [
+        [
+          46,
+          0.95
+        ],
+        [
+          48,
+          0.95
+        ],
+        [
+          49,
+          0.95
+        ],
+        [
+          50,
+          0.95
+        ],
+        [
+          51,
+          0.95
+        ],
+        [
+          53,
+          0.96
+        ],
+        [
+          54,
+          0.95
+        ],
+        [
+          54,
+          0.97
+        ],
+        [
+          55,
+          0.96
+        ],
+        [
+          57,
+          0.99
+        ],
+        [
+          58,
+          0.96
+        ],
+        [
+          60,
+          0.95
+        ],
+        [
+          61,
+          0.96
+        ],
+        [
+          64,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tại trong lúc này, các ngươi nhất định phải một mình săn giết một con sài lang hổ báo loại hình dã thú, cũng đem thú huyết rót vào cái này túi da thú trong túi mang về.\"",
+      "dich": "Trong thời gian này, các ngươi nhất định phải một mình săn giết một dã thú như sài, lang, hổ, báo, đồng thời mang thú huyết rót vào trong túi da thú này rồi mang về.\"",
+      "suggest": "Trong thời gian này, các ngươi nhất định phải một mình săn giết một con Dã thú thuộc loại sài lang, hổ báo và một túi da thú. Đem Thú Huyết rót vào trong túi da thú này.\"",
+      "similarity": [
+        [
+          47,
+          0.96
+        ],
+        [
+          48,
+          0.95
+        ],
+        [
+          49,
+          0.97
+        ],
+        [
+          51,
+          0.95
+        ],
+        [
+          52,
+          0.96
+        ],
+        [
+          53,
+          0.97
+        ],
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.97
+        ],
+        [
+          56,
+          0.97
+        ],
+        [
+          57,
+          0.96
+        ],
+        [
+          58,
+          0.99
+        ],
+        [
+          64,
+          0.97
+        ],
+        [
+          65,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hô Hỏa trưởng lão mở miệng nói ra.",
+      "dich": "Hô Hỏa trưởng lão mở miệng nói.",
+      "suggest": "Hô Hỏa trưởng lão mở miệng nói.",
+      "similarity": [
+        [
+          59,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nói xong liền đem túi da thú túi, nhét vào trước người bọn họ.",
+      "dich": "Nói xong, lão liền cầm túi da thú nhét vào trước người bọn họ.",
+      "suggest": "Nói xong liền móc túi da thú nhét vào trước người bọn họ.",
+      "similarity": [
+        [
+          54,
+          0.96
+        ],
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.95
+        ],
+        [
+          60,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đây coi như là trở thành phi mao thú nô khảo nghiệm?\"",
+      "dich": "\"Đây xem như bài kiểm tra tư cách trở thành Phi Mao thú nô sao?\"",
+      "suggest": "'Có thể coi là trắc nghiệm trở thành Thú nô sao?'",
+      "similarity": [
+        [
+          61,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh trong lòng oán thầm.",
+      "dich": "Viên Minh thầm oán thán.",
+      "suggest": "Trong lòng Viên Minh oán thầm.",
+      "similarity": [
+        [
+          62,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này, hắn chú ý tới còn lại mấy cái dã nhân sắc mặt đều xảy ra biến hóa, tựa hồ có chút không tình nguyện, có chút khó khăn, lại tựa hồ có chút e ngại dáng vẻ.",
+      "dich": "Lúc này, hắn để ý thấy sắc mặt mấy dã nhân kia đều có biến hóa, trông như có chút không tình nguyện, có chút bất đắc dĩ, lại có chút sợ hãi.",
+      "suggest": "Lúc này hắn mới chú ý đến sắc mặt mấy tên dã nhân còn lại, tựa hồ có chút không tình nguyện, có chút khó khăn, lại tựa hồ có chút e sợ.",
+      "similarity": [
+        [
+          52,
+          0.95
+        ],
+        [
+          53,
+          0.95
+        ],
+        [
+          56,
+          0.95
+        ],
+        [
+          63,
+          0.98
+        ],
+        [
+          65,
+          0.96
+        ],
+        [
+          66,
+          0.95
+        ],
+        [
+          70,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ba ngày sau, chỉ cần các ngươi có thể thuận lợi hoàn thành, liền có thể đạt được một môn cơ sở tu luyện công pháp, Huyết Khí pháp.\"",
+      "dich": "\"Sau ba ngày, chỉ cần các ngươi có thể thuận lợi hoàn thành nhiệm vụ là có thể nhận được một bản công pháp tu luyện cơ sở, Huyết Khí pháp.\"",
+      "suggest": "\"Ba ngày sau, chỉ cần các ngươi thuận lợi hoàn thành nhiệm vụ, liền có thể có được một môn công pháp tu luyện cơ sở, Huyết Khí pháp.\"",
+      "similarity": [
+        [
+          53,
+          0.96
+        ],
+        [
+          55,
+          0.96
+        ],
+        [
+          56,
+          0.96
+        ],
+        [
+          57,
+          0.97
+        ],
+        [
+          58,
+          0.96
+        ],
+        [
+          61,
+          0.95
+        ],
+        [
+          64,
+          1
+        ],
+        [
+          65,
+          0.96
+        ],
+        [
+          66,
+          0.96
+        ],
+        [
+          70,
+          0.96
+        ],
+        [
+          71,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này, một gã dã nhân nơm nớp lo sợ mở miệng: \"Trưởng lão, có thể hay không cho chúng ta một chút công cụ, cho dù là một cái búa đá, hoặc là một cái thạch đao đều được.\"",
+      "dich": "Đúng lúc này, một dã nhân mặt nơm nớp lo sợ, mở miệng hỏi: \"Trưởng lão, có thể cho ta chút công cụ được không, dù là vài cái búa đá hay đao đá cũng được.\"",
+      "suggest": "Lúc này, một tên dã nhân nơm nớp lo sợ mở miệng: \"Trưởng lão, có thể cấp cho chúng ta một ít công cụ, cho dù là một cái búa đá, hoặc là một thanh đao bằng đá?\"",
+      "similarity": [
+        [
+          53,
+          0.98
+        ],
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.97
+        ],
+        [
+          56,
+          0.96
+        ],
+        [
+          57,
+          0.97
+        ],
+        [
+          58,
+          0.97
+        ],
+        [
+          63,
+          0.96
+        ],
+        [
+          64,
+          0.97
+        ],
+        [
+          65,
+          0.99
+        ],
+        [
+          66,
+          0.97
+        ],
+        [
+          70,
+          0.97
+        ],
+        [
+          71,
+          0.96
+        ],
+        [
+          71,
+          0.95
+        ],
+        [
+          72,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lấy bọn hắn phàm nhân thân thể, không tá trợ ngoại vật, muốn tại cái này mênh mông trong rừng rậm sinh tồn quá khó khăn, chớ nói chi là còn muốn săn giết dã thú, thu thập thú huyết, sơ sót một cái, chỉ sợ cũng muốn táng thân thú bụng.",
+      "dich": "Dùng thân thể phàm nhân của bọn họ nếu không mượn nhờ ngoại vật mà muốn sống sót nơi rừng hoang núi thẳm này đã đủ gian nan, đừng nói chi tới việc phải săn giết dã thú, thu thập thú huyết, chỉ sơ sểnh một chút thôi, e là sẽ chôn thân nơi miệng thú.",
+      "suggest": "Với thân thể phàm nhân của bọn họ, không có sự giúp đỡ của ngoại vật, muốn sinh tồn trong khu rừng mênh mông này quá khó khăn, chớ nói đến săn giết dã thú, thu thập thú huyết, chỉ sợ cũng phải táng thân thú bụng.",
+      "similarity": [
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.96
+        ],
+        [
+          56,
+          0.96
+        ],
+        [
+          57,
+          0.96
+        ],
+        [
+          58,
+          0.97
+        ],
+        [
+          63,
+          0.95
+        ],
+        [
+          64,
+          0.96
+        ],
+        [
+          65,
+          0.96
+        ],
+        [
+          66,
+          0.99
+        ],
+        [
+          70,
+          0.96
+        ],
+        [
+          71,
+          0.96
+        ],
+        [
+          71,
+          0.96
+        ],
+        [
+          72,
+          0.97
+        ],
+        [
+          73,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Công cụ?",
+      "dich": "\"Công cụ?",
+      "suggest": "\"Công cụ?",
+      "similarity": [
+        [
+          67,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hừ... Các ngươi không dùng được.\"",
+      "dich": "Hừ ... Các ngươi không dùng được.\"",
+      "suggest": "Hừ ... các ngươi không dùng được.\"",
+      "similarity": [
+        [
+          68,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hô Hỏa trưởng lão khẽ cười một tiếng, nói.",
+      "dich": "Hô Hỏa trưởng lão cười nhạt một tiếng, đáp.",
+      "suggest": "Trưởng lão Hô Hỏa khẽ cười một tiếng, nói.",
+      "similarity": [
+        [
+          59,
+          0.96
+        ],
+        [
+          69,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Còn không đợi đám người minh bạch đây là ý gì, thân ảnh của hắn liền đột ngột lóe lên, đi tới trước người bọn họ, đưa tay đặt tại một người trong đó trên thân.",
+      "dich": "Còn không đợi mọi người hiểu rõ lời này có ý gì, lão bất ngờ nhoáng người một cái vọt tới trước mặt bọn họ, đưa tay đặt lên một người trong số bọn họ.",
+      "suggest": "Còn chưa đợi đám người hiểu rõ đây là ý gì, thân ảnh của hắn đã đột ngột lóe lên, đi tới trước người bọn họ, đưa tay đặt lên trên thân thể một người trong đó.",
+      "similarity": [
+        [
+          57,
+          0.96
+        ],
+        [
+          58,
+          0.96
+        ],
+        [
+          60,
+          0.96
+        ],
+        [
+          63,
+          0.96
+        ],
+        [
+          64,
+          0.96
+        ],
+        [
+          65,
+          0.96
+        ],
+        [
+          66,
+          0.97
+        ],
+        [
+          70,
+          0.99
+        ],
+        [
+          71,
+          0.97
+        ],
+        [
+          71,
+          0.97
+        ],
+        [
+          72,
+          0.97
+        ],
+        [
+          73,
+          0.97
+        ],
+        [
+          74,
+          0.97
+        ],
+        [
+          75,
+          0.97
+        ],
+        [
+          76,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chỉ gặp bị Hô Hỏa trưởng lão đè lại người kia, trên thân chỗ khoác báo đen da thú bên trên sáng lên ô quang, từng cây lông thú đột ngột nhô lên, nguyên bản chỉ có nửa người dài da thú, vậy mà như là sống lại, không ngừng kéo dài dài ra, đồng thời hướng phía người kia trên thân bao trùm bao khỏa đi tới.",
+      "dich": "Chỉ thấy người này bị Hô Hỏa trưởng lão đè lại, tiếp đó miếng da báo đen trên người y bỗng sáng lên ánh sáng đen, kế đó từng sợi, từng sợi lông thú thình lình nhô lên. Miếng da thú vốn mang hình dạng nửa thân bỗng như sống lại, không ngừng biến hóa dài ra, trùm lên người y.",
+      "suggest": "Chỉ thấy trên người trưởng lão hô hỏa đang đè người kia, ánh sáng màu đen trên người từng cái lông thú trên người lóe lên, từng cái lông thú nguyên bản chỉ có nửa người, vậy mà đột ngột nhô cao, trông như vật sống, không ngừng kéo dài ra, đồng thời hướng về phía những người đang bị đè nặng trên người hắn đi tới.",
+      "similarity": [
+        [
+          63,
+          0.96
+        ],
+        [
+          64,
+          0.96
+        ],
+        [
+          65,
+          0.96
+        ],
+        [
+          66,
+          0.97
+        ],
+        [
+          70,
+          0.97
+        ],
+        [
+          71,
+          0.98
+        ],
+        [
+          71,
+          0.97
+        ],
+        [
+          72,
+          0.98
+        ],
+        [
+          73,
+          0.97
+        ],
+        [
+          74,
+          0.98
+        ],
+        [
+          75,
+          0.97
+        ],
+        [
+          76,
+          0.96
+        ],
+        [
+          79,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh hướng nó nhìn lại, chỉ thấy người kia hai mắt một mảnh huyết hồng, bên trong có thể nhìn thấy dày đặc tơ máu, miệng của hắn đại trương, khóe miệng nước bọt không bị khống chế chảy xuôi, trong cổ họng phát ra thanh âm cũng tại dần dần phát sinh biến hóa, càng ngày càng không giống tiếng người, ngược lại tiếp cận dã thú gào thét.",
+      "dich": "Viên Minh đưa mắt nhìn về phía người này, chỉ thấy mắt y đỏ ngầu, trong mắt hiện đầy tơ máu, còn miệng y thì há hốc để nước miếng mất kiểm soát từ khóe miệng chảy xuống, chưa hết, âm thanh từ cổ họng y phát ra cũng từ từ có biến hóa, càng lúc càng không giống tiếng người mà ngược lại, càng ngày càng giống tiếng dã thú.",
+      "suggest": "Viên Minh nhìn kỹ nó, chỉ thấy hai mắt người kia một màu đỏ hồng, bên trong có thể thấy rõ những tơ máu màu đỏ, trong đó có thể thấy được những nếp nhăn chằng chịt, nước bọt của hắn không bị khống chế chảy ngược ra, thanh âm phát ra càng ngày càng không giống tiếng người, ngược lại càng ngày càng không giống tiếng người, ngược lại còn tiếp cận với dã thú.",
+      "similarity": [
+        [
+          63,
+          0.97
+        ],
+        [
+          64,
+          0.96
+        ],
+        [
+          65,
+          0.97
+        ],
+        [
+          66,
+          0.97
+        ],
+        [
+          70,
+          0.97
+        ],
+        [
+          71,
+          0.97
+        ],
+        [
+          71,
+          0.96
+        ],
+        [
+          72,
+          0.99
+        ],
+        [
+          73,
+          0.97
+        ],
+        [
+          74,
+          0.98
+        ],
+        [
+          75,
+          0.98
+        ],
+        [
+          76,
+          0.97
+        ],
+        [
+          79,
+          0.96
+        ],
+        [
+          80,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Quá trình này kéo dài mười mấy hơi thở, đợi đến người kia gào thét thanh âm dừng lại, tấm kia báo đen da thú đã đem hắn chặt chẽ bao khỏa, tựa như sinh trưởng ở trên người hắn đồng dạng.",
+      "dich": "Cả quá trình này kéo dài bằng thời gian thở mười mấy hơi, đợi tới khi âm thanh gào rú của người này ngưng lại thì miếng da báo đen kia cũng đã bọc chặt lấy y, trông y như nó mọc trên người y vậy.",
+      "suggest": "Quá trình này kéo dài mười mấy hơi, đợi đến khi tiếng gào thét của người kia ngừng lại, tấm da thú màu đen kia đã được bao bọc lấy hắn, trông như nó đang ở trên người hắn vậy.",
+      "similarity": [
+        [
+          63,
+          0.96
+        ],
+        [
+          64,
+          0.96
+        ],
+        [
+          65,
+          0.96
+        ],
+        [
+          66,
+          0.97
+        ],
+        [
+          70,
+          0.97
+        ],
+        [
+          71,
+          0.96
+        ],
+        [
+          71,
+          0.97
+        ],
+        [
+          72,
+          0.97
+        ],
+        [
+          73,
+          0.99
+        ],
+        [
+          74,
+          0.97
+        ],
+        [
+          75,
+          0.97
+        ],
+        [
+          76,
+          0.96
+        ],
+        [
+          78,
+          0.96
+        ],
+        [
+          79,
+          0.96
+        ],
+        [
+          80,
+          0.96
+        ],
+        [
+          81,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mà người kia mặt cũng thay đổi thành báo đen bộ dáng, chỉ là cả người thân thể còn duy trì bộ xương người, nhìn qua thì là một bộ báo thủ thân người, nửa người nửa thú cổ quái bộ dáng.",
+      "dich": "Không chỉ có vậy, khuôn mặt y cũng biến thành mặt báo đen, chỉ có thân mình vẫn giữ được khung xương con người, nhìn qua hệt như một con báo hình ngươi, bộ dạng nửa người nửa thú vô cùng kỳ quái.",
+      "suggest": "Mà khuôn mặt người kia cũng thay đổi thành một con báo đen, chỉ là toàn thân vẫn còn duy trì bộ xương người, nhìn qua thì giống như là một con báo thủ, nửa người nửa thú.",
+      "similarity": [
+        [
+          63,
+          0.95
+        ],
+        [
+          64,
+          0.96
+        ],
+        [
+          65,
+          0.96
+        ],
+        [
+          66,
+          0.97
+        ],
+        [
+          70,
+          0.96
+        ],
+        [
+          71,
+          0.96
+        ],
+        [
+          71,
+          0.96
+        ],
+        [
+          72,
+          0.97
+        ],
+        [
+          73,
+          0.97
+        ],
+        [
+          74,
+          0.99
+        ],
+        [
+          75,
+          0.97
+        ],
+        [
+          76,
+          0.97
+        ],
+        [
+          79,
+          0.96
+        ],
+        [
+          80,
+          0.97
+        ],
+        [
+          81,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nó biến thân sau khi hoàn thành, thân thể lập tức thấp nằm trên mặt đất, tựa hồ ngay cả tính tình cũng biến thành tới gần với dã thú, ngược lại là một đôi tròng mắt cũng không hóa thú, huyết hồng chi sắc lui đi mấy phần, nhiều hơn mấy phần nhân tính.",
+      "dich": "Đợi quá trình biến thân kết thúc, cơ thể y lập tức hạ thấp xuống mặt đất, tựa như ngay cả tâm tính của y cũng giống với dã thú, thế nhưng đôi mắt lại không hóa thú, trái lại tơ máu đỏ ngầu trong mắt rút đi không ít, trông kỹ có lại đôi phần nhân tính.",
+      "suggest": "Sau khi nó biến thân thành một con vượn người, thân thể lập tức thấp xuống, tựa hồ ngay cả tính tình cũng biến thành dã thú, trái lại đôi mắt màu máu cũng không hóa thú, sắc mặt đỏ như máu cũng giảm đi vài phần, nhiều hơn mấy phần nhân tính.",
+      "similarity": [
+        [
+          63,
+          0.97
+        ],
+        [
+          64,
+          0.95
+        ],
+        [
+          65,
+          0.96
+        ],
+        [
+          66,
+          0.97
+        ],
+        [
+          70,
+          0.96
+        ],
+        [
+          71,
+          0.96
+        ],
+        [
+          71,
+          0.96
+        ],
+        [
+          72,
+          0.98
+        ],
+        [
+          73,
+          0.97
+        ],
+        [
+          74,
+          0.98
+        ],
+        [
+          75,
+          0.99
+        ],
+        [
+          76,
+          0.96
+        ],
+        [
+          79,
+          0.96
+        ],
+        [
+          80,
+          0.97
+        ],
+        [
+          81,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Không cần lo lắng, đây cũng là phi mao chi thuật, cũng là thời gian tới ba ngày các ngươi có thể còn sống, đồng thời săn bắt dã thú ỷ vào.\"",
+      "dich": "\"Không cần lo lắng, đây là Phi Mao chi thuật, cũng là chỗ dựa để các ngươi sống sót và săn giết dã thú trong ba ngày tới.\"",
+      "suggest": "\"Không cần lo lắng, đây cũng là thuật Phi mao, cũng là thời gian tới ba ngày các ngươi có thể sống sót trở về, đồng thời săn bắt dã thú.\"",
+      "similarity": [
+        [
+          64,
+          0.98
+        ],
+        [
+          65,
+          0.97
+        ],
+        [
+          66,
+          0.97
+        ],
+        [
+          70,
+          0.96
+        ],
+        [
+          71,
+          0.96
+        ],
+        [
+          71,
+          0.95
+        ],
+        [
+          72,
+          0.96
+        ],
+        [
+          73,
+          0.96
+        ],
+        [
+          74,
+          0.96
+        ],
+        [
+          75,
+          0.97
+        ],
+        [
+          76,
+          0.99
+        ],
+        [
+          79,
+          0.95
+        ],
+        [
+          80,
+          0.97
+        ],
+        [
+          81,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hô Hỏa trưởng lão dứt lời, lại đi hướng người thứ hai.",
+      "dich": "Hô Hỏa giải thích một câu rồi tiếp tục với người thứ hai.",
+      "suggest": "Hô Hỏa trưởng lão nói xong, lại quay lại phía người thứ hai.",
+      "similarity": [
+        [
+          69,
+          0.97
+        ],
+        [
+          71,
+          0.95
+        ],
+        [
+          77,
+          0.97
+        ],
+        [
+          78,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Theo bàn tay của hắn rơi vào người kia trên thân, một tiếng thê lương gào thét lần nữa vang vọng sơn lâm.",
+      "dich": "Theo bàn tay lão đặt lên trên người này, một tiếng gào rú thế lại vang lên vọng khắp núi rừng.",
+      "suggest": "Từ bàn tay của hắn chạm nhẹ lên trên người người nọ, một tiếng gào thét thê lương vang vọng sơn lâm.",
+      "similarity": [
+        [
+          66,
+          0.96
+        ],
+        [
+          70,
+          0.95
+        ],
+        [
+          71,
+          0.96
+        ],
+        [
+          71,
+          0.96
+        ],
+        [
+          74,
+          0.95
+        ],
+        [
+          76,
+          0.95
+        ],
+        [
+          78,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mười mấy hơi thở về sau, một cái đầu sói thân người, toàn thân thanh sắc lông dài quái vật, xuất hiện ở trước mắt mọi người.",
+      "dich": "Sau thời gian mười mấy nhịp thở, một quái vật đầu sói mình người, khắp thân mọc lông dài màu xanh hiện ra trước mắt mọi người.",
+      "suggest": "Mười mấy hơi thở sau, một thân người đầu sói, toàn thân lông dài, xuất hiện trước mắt mọi người.",
+      "similarity": [
+        [
+          70,
+          0.96
+        ],
+        [
+          71,
+          0.97
+        ],
+        [
+          71,
+          0.96
+        ],
+        [
+          72,
+          0.96
+        ],
+        [
+          73,
+          0.96
+        ],
+        [
+          74,
+          0.96
+        ],
+        [
+          75,
+          0.96
+        ],
+        [
+          76,
+          0.96
+        ],
+        [
+          78,
+          0.95
+        ],
+        [
+          79,
+          0.98
+        ],
+        [
+          80,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cứ việc phía trước đã nhìn qua một lần, Viên Minh trong lòng vẫn là cảm thấy nhận lấy sự đả kích không nhỏ, chỉ là choàng một trương da thú, liền có thể biến thành khủng bố như vậy quái vật, thực sự không thể tưởng tượng nổi.",
+      "dich": "Cho dù đã chứng kiến một lần, trong lòng Viên Minh vẫn bị đả kích không nhỏ, chỉ là choàng lên một miếng da thú đã có thể biến thành quái vật khủng bố như thế, thực sự không thể tưởng tượng nổi.",
+      "suggest": "Cứ như đã nhìn qua một lần, trong lòng Viên Minh vẫn cảm thấy bị đả kích không nhỏ, chỉ là một cái túi da thú mà có thể biến thành quái vật khủng bố như vậy, thực sự không thể tưởng tượng nổi.",
+      "similarity": [
+        [
+          70,
+          0.96
+        ],
+        [
+          71,
+          0.95
+        ],
+        [
+          72,
+          0.97
+        ],
+        [
+          73,
+          0.96
+        ],
+        [
+          74,
+          0.97
+        ],
+        [
+          75,
+          0.97
+        ],
+        [
+          76,
+          0.97
+        ],
+        [
+          80,
+          0.99
+        ],
+        [
+          81,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trong lòng của hắn mặc dù cực không tình nguyện, nhưng tình thế bắt buộc, nếu là hắn dám có chút chống cự, tin tưởng vị này Hô Hỏa trưởng lão tuyệt sẽ không nhân từ nương tay, chỉ sợ trực tiếp liền sẽ một chưởng vỗ tử chính mình.",
+      "dich": "Trong tâm hắn dù rất không tình nguyện nhưng tình thế bắt buộc, nếu hắn dám kháng cự dù chỉ một chút, tin rằng bị Hô Hỏa trưởng lão kia sẽ không nhân từ nương tay mà e là sẽ một chưởng chưởng chụp chết hắn.",
+      "suggest": "Mặc dù trong lòng hắn rất không cam lòng, nhưng tình thế bắt buộc, nếu hắn dám chống cự, tin tưởng trưởng lão Hô Hỏa tuyệt sẽ không nương tay, chỉ sợ trực tiếp một chưởng đánh chết hắn.",
+      "similarity": [
+        [
+          70,
+          0.96
+        ],
+        [
+          71,
+          0.95
+        ],
+        [
+          72,
+          0.96
+        ],
+        [
+          73,
+          0.95
+        ],
+        [
+          74,
+          0.95
+        ],
+        [
+          75,
+          0.96
+        ],
+        [
+          76,
+          0.96
+        ],
+        [
+          80,
+          0.97
+        ],
+        [
+          81,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đang cân nhắc, Hô Hỏa trưởng lão một bước đi vào trước người hắn, bàn tay tùy theo liền rơi vào trên vai của hắn.",
+      "dich": "Trong khi còn đang suy nghĩ, Hô Hỏa trưởng lão đã bước một bước tới trước người hắn, tiếp đó thuận thế đưa bàn tay lên trên vai hắn.",
+      "suggest": "Đang cân nhắc, Hô Hỏa trưởng lão một bước đi tới trước người hắn, bàn tay đặt lên trên vai hắn.",
+      "similarity": [
+        [
+          70,
+          0.96
+        ],
+        [
+          71,
+          0.96
+        ],
+        [
+          71,
+          0.95
+        ],
+        [
+          76,
+          0.95
+        ],
+        [
+          77,
+          0.96
+        ],
+        [
+          78,
+          0.95
+        ],
+        [
+          81,
+          0.96
+        ]
+      ],
+      "approved": true
+    }
+  ]
+}

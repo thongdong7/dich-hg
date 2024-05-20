@@ -1,0 +1,878 @@
+{
+  "currentLine": 79,
+  "next": {
+    "id": 6,
+    "title": "Chương 06: Ta đến cùng là ai"
+  },
+  "title": {
+    "convert": "Chương 5",
+    "dich": "Chương 5"
+  },
+  "previous": {
+    "id": 4,
+    "title": "Chương 04: Duy nhất đường sống"
+  },
+  "currentWorkingLine": 80,
+  "changed": true,
+  "approved": true,
+  "lines": [
+    {
+      "convert": "Viên Minh vừa buông xuống tâm lập tức lại treo lên, vội vàng bò dậy hướng phía phía dưới nhìn lại.",
+      "dich": "Viên Minh vừa mới thả lỏng tinh thần một chút đã lập tức căng thẳng trở lại, tức tốc bò dậy nhìn xuống phía dưới.",
+      "suggest": "Viên Minh vừa buông xuống tâm tư lập tức hoảng hốt, vội vàng bò dậy, vội vàng bò dậy nhìn xuống phía dưới.",
+      "similarity": [
+        [
+          0,
+          0.29
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chỉ gặp đầu kia gấu đen đang từ nơi xa bốn chân như bay băng băng mà tới, thân thể cao lớn vọt tới phụ cận, bỗng nhiên một cái chuyển hướng, dùng bản thân dày đặc vô cùng lưng đột nhiên đụng vào cây dong bên trên.",
+      "dich": "Chỉ thấy con gấu đen kia đang dùng cả bốn chân từ phía xa chạy như điên tới, khi thân thể to lớn của nó tới gần thì đột nhiên đổi hướng, dùng tấm lưng siêu dày của mình đụng thẳng lên thân cây đa.",
+      "suggest": "Chỉ thấy đầu gấu đen kia đang bay băng băng ở cách đó không xa, thân hình cao lớn đột nhiên chuyển hướng, dùng sức mạnh vô cùng đột ngột chạm lên thân cây dong.",
+      "similarity": [
+        [
+          1,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Oanh\" một tiếng vang trầm!",
+      "dich": "Một tiếng \"rầm\" trầm đục vang lên.",
+      "suggest": "\"Oanh\", một tiếng trầm đục vang lên!",
+      "similarity": [
+        [
+          2,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cây dong già kịch liệt chấn động, vốn là hơi khô héo trên cành cây lập tức vỡ ra một cái khe.",
+      "dich": "Cây đa già chấn động kịch liệt, thân cây vốn hơi khô héo thình lình nứt ra một kẽ hở.",
+      "suggest": "Sự chấn động kịch liệt của thân cây dong già khiến cho thân cành vốn đã khô héo lập tức vỡ vụn ra.",
+      "similarity": [
+        [
+          3,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh bởi vì sớm phát hiện, đã liều mạng ôm lấy thân cây, mới không có bị đập xuống thụ, nhưng nhìn đến thân cây bên trên vỡ ra lỗ hổng kia, không khỏi lo lắng.",
+      "dich": "Viên Minh nhờ sớm phát hiện nên liều chết ôm lấy thân cây mới không bị lắc cho rơi xuống, nhưng nhìn thấy vết nứt to trên thân cây thì không khỏi lo lắng.",
+      "suggest": "Bởi vì phát hiện sớm nên Viên Minh đã liều mạng ôm lấy thân cây, mới không bị ngã xuống. Nhưng nhìn thấy lỗ hổng trên thân cây đã vỡ, hắn không khỏi có chút lo lắng.",
+      "similarity": [
+        [
+          4,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Gấu đen một kích qua đi, lại chạy nhanh kéo dài khoảng cách, hướng phía cây dong già phát khởi công kích.",
+      "dich": "Con gấu đụng xong một phát, lại chạy ra xa một đoạn rồi tiếp tục nhắm cây đa, chuẩn bị tấn công lần nữa.",
+      "suggest": "Một kích của gấu đen vừa qua đi, nó lại chạy nhanh về phía cây dong già, phát động công kích về phía cây dong già.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Két \"",
+      "dich": "\"Két.\"",
+      "suggest": "\"Chém!\"",
+      "similarity": [
+        [
+          6,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Còn không đợi nó va chạm đi lên, thân cây vết rách lại lần nữa mở rộng.",
+      "dich": "Không đợi nó đụng vào, vết nứt trên thân cây lại lần nữa mở rộng.",
+      "suggest": "Còn chưa đợi nó va chạm, vết rách trên thân cây lại một lần nữa mở rộng.",
+      "similarity": [
+        [
+          7,
+          0.37
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Không chịu nổi.\"",
+      "dich": "\"Không chịu nổi nữa.\"",
+      "suggest": "\"Không chịu nổi.\"",
+      "similarity": [
+        [
+          6,
+          0.21
+        ],
+        [
+          8,
+          0.49
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh chau mày, mắt thấy gấu đen sắp lần nữa va chạm đi lên trong nháy mắt, thân hình nhất chuyển, tại cây già hoành trên cành chạy chậm hai bước, hai chân ra sức vọt lên, hướng phía bảy tám trượng bên ngoài một gốc cổ thụ nhảy vọt mà đi.",
+      "dich": "Viên Minh nhíu mày, mắt thấy con gấu sắp tiếp tục xông tới, hắn liền chuyển thân, chạy chậm hai bước trên cành cây mọc ngang rồi ra sức dùng hai chân dậm mạnh, nhắm một gốc cây cổ thụ cách đó chừng bảy, tám trượng mà nhảy tới.",
+      "suggest": "Viên Minh chau mày, mắt thấy gấu đen sắp va chạm với mình trong nháy mắt, thân hình nhanh chóng chuyển động, nhảy lên cành một cái, hai chân ra sức nhảy lên một cây cổ thụ cao bảy tám trượng.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Khoảng cách như vậy, Viên Minh từ trên mặt đất căn bản không có khả năng nhảy qua, nhưng lúc này lại nhiều nhánh cây bắn lên lực lượng tăng thêm, thân thể của hắn tựa như lăng không bay lên, vọt hướng về phía đối diện.",
+      "dich": "Khoảng cách này nếu Viên Minh ở trên mặt đất cơ bản không thể nhảy tới, nhưng ở trên này nhờ lực đàn hồi của cành cây hỗ trợ, thân thể hắn tựa như lăng không bay lên, nhảy về phía đối diện.",
+      "suggest": "Với khoảng cách như vậy, căn bản Viên Minh không có khả năng nhảy qua, nhưng vào lúc này lại có nhiều nhánh cây bắn lên, thân thể hắn như một chiếc lăng bay lên, lao thẳng về phía đối diện.",
+      "similarity": [
+        [
+          10,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tại sau lưng cây dong già sụp đổ tiếng vang bên trong, thân thể của hắn nhảy vọt đến cao điểm, lại bắt đầu hạ lạc, khoảng cách gốc cây kia lại còn có chút ít khoảng cách.",
+      "dich": "Trong tiếng gãy đổ của cây đa già, cơ thể hắn sau khi lên điểm cao nhất, bắt đầu hạ xuống, nhưng khoảng cách với cái cây kia vẫn còn thiếu một chút.",
+      "suggest": "Sau mấy tiếng vang vọng từ sau lưng cây dong già, thân thể hắn nhảy vọt lên cao điểm, lại bắt đầu hạ xuống, cách gốc cây kia còn có chút ít.",
+      "similarity": [
+        [
+          11,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chỉ gặp Viên Minh cánh tay giãn ra, coi là thật như viên hầu hái đào, hướng phía phía trước bắt lấy mà đi.",
+      "dich": "Chỉ thấy Viên Minh duỗi cánh tay ra, tạo thế như khỉ hái đào, chụp tới trước.",
+      "suggest": "Chỉ thấy cánh tay Viên Minh giãn ra, trông giống như một cành đào, đang hướng về phía trước vẫy vẫy.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Ngay tại rơi xuống trước một cái chớp mắt, bàn tay của hắn bắt lấy đối diện cổ thụ kéo dài hoành nhánh, ở giữa không trung rung động, lần nữa bay vọt lên, hướng phía thân cây bên trên rơi xuống đi tới.",
+      "dich": "Ngay khoảnh khắc sắp rớt xuống, bàn tay của hắn bắt được cánh ngang mọc dài của cây cổ thủ đối diện, thân mình lắc lưa một hồi giữa không trung, rồi một lần nữa nhảy vọt lên được rồi rơi xuống phía thân cây.",
+      "suggest": "Ngay sau khi rơi xuống một cái chớp mắt, bàn tay của hắn bắt lấy cành cổ thụ kéo dài ở giữa không trung, rung động một cái rồi bay vọt lên phía trên, hạ xuống thân cây.",
+      "similarity": [
+        [
+          13,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mắt thấy là phải rơi vào thân cây bên trên lúc, Viên Minh nhưng không có để cho mình trực tiếp hạ xuống, mà là duỗi ra cánh tay kia, lần nữa bắt lấy nhánh cây, lại một lần lắc lư đãng xuất, thẳng nhảy ra xa bảy tám trượng.",
+      "dich": "Nhìn thấy sắp đáp xuống thân cây, Viên Minh lại không để mình rơi thẳng xuống mà tiếp tục vươn một cánh tay khác ra, lần nữa bám vào cành cây, rồi lại lắc lư, nhảy thẳng ra thêm một khoảng xa chừng bảy, tám trượng.",
+      "suggest": "Mắt thấy mình đã rơi thẳng xuống đất, nhưng hắn lại không để cho mình trực tiếp hạ xuống, mà lại duỗi một cánh tay ra, lần nữa bắt lấy nhánh cây, lắc lư một hồi, rồi lại lắc lư bay loạn lên, nhảy cao hơn bảy tám trượng.",
+      "similarity": [
+        [
+          14,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tận đến giờ phút này, Viên Minh mới cảm giác bản thân chân chính nắm trong tay bộ thân thể này.",
+      "dich": "Đến tận bây giờ, Viên Minh mới cảm thấy mình thực sự khống chế được bộ thân thể này.",
+      "suggest": "Đến tận giờ phút này, Viên Minh mới cảm giác được bản thân thật sự đang nắm giữ cơ thể này.",
+      "similarity": [
+        [
+          15,
+          0.25
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn một chút lại một chút địa bày cánh tay đãng xuất, thẳng đến cảm giác cánh tay mình ê ẩm sưng, không có khí lực, mới đứng tại trên một thân cây.",
+      "dich": "Hắn cứ đu từng đợt, từng đợt như thế liên tục cho tới khi cảm thấy cánh tay mỏi như, không còn sức lực mới dùng trên một cái cây.",
+      "suggest": "Hắn đưa tay lên che đi những chỗ da thịt trên cánh tay, đến khi cảm thấy cánh tay mình ê ẩm, không còn chút sức lực nào mới đứng vững trên một thân cây.",
+      "similarity": [
+        [
+          16,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Quay đầu nhìn lại lúc, đã sớm không có gấu đen bóng dáng.",
+      "dich": "Khi nhìn lại, bóng dáng gấu đen đã sớm biến mất.",
+      "suggest": "Quay đầu nhìn lại, đã sớm không thấy bóng dáng con gấu.",
+      "similarity": [
+        [
+          17,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh chậm rãi thở dài một hơi, cảm giác có chút thoát lực, dựa vào thân cây ngồi xuống.",
+      "dich": "Viên Minh chậm rãi thở phào nhẹ nhõm, thân thể cảm giác có chút thoát lực, dựa vào thân cây ngồi xuống.",
+      "suggest": "Viên Minh chậm rãi thở dài một hơi, cảm giác được có chút thoát lực, dựa vào thân cây ngồi xuống.",
+      "similarity": [
+        [
+          18,
+          0.62
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn toàn thân đã sớm bị ướt đẫm mồ hôi, loại cảm giác này hết sức kỳ lạ, liền phảng phất trên người vượn da thật là từ huyết nhục của mình bên trên mọc ra, ngay cả mồ hôi cũng có thể từ da lông bên trong thẩm thấu.",
+      "dich": "Cả người hắn sớm đã ướt đẫm mồ hồi, cảm giác này hết sức kỳ lạ, giống như lớp da vượn trên người hắn thực sự sinh ra từ huyết nhục của hắn, ngay cả mồ hôi cũng có thể từ da lông bên trong thẩm thấu ra.",
+      "suggest": "Toàn thân hắn đã sớm ướt đẫm mồ hôi, loại cảm giác này hết sức kỳ lạ, phảng phất như da của con vượn người được sinh ra từ máu thịt của mình, ngay cả mồ hôi cũng có thể từ trong da chui ra.",
+      "similarity": [
+        [
+          19,
+          0.37
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Theo nỗi lòng dần dần yên lặng, Viên Minh hai mắt nhắm lại, ngón tay trước người trong hư không im lặng phác hoạ, bắt đầu ở trong trí nhớ phục hồi như cũ bản thân một đường thoát đi tới con đường.",
+      "dich": "Theo tâm trạng dần bình tĩnh, Viên Minh nhắm hai mắt lại, đưa ngón tay ra khoảng không trước người yên lặng phác thảo, bắt đầu từ trí nhớ trong đầu khôi phục lại con đường mà hắn chạy trốn tới đây.",
+      "suggest": "Trong lòng dần dần yên lặng, hai mắt Viên Minh nhắm lại, ngón tay cái phác hoạ trong không trung, bắt đầu từ trí nhớ phục hồi lại con đường mình đã đi qua.",
+      "similarity": [
+        [
+          20,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cứ việc lúc trước cuống quít không thôi, hắn cũng không quên ở mỗi một cái biến hóa phương hướng địa phương lưu lại ký hiệu, hiện tại một trương hắn một đường thoát đi tới tuyến lộ đồ, rất nhanh liền trong đầu tạo dựng hoàn tất.",
+      "dich": "Dù lúc trước liên tục trong trạng thái vội vã cuống cuồng, hắn lại không hề quên lưu lại dấu vết ở những điểm chuyển hướng, nhờ thế hiện tại một lộ tuyến chạy trốn của hắn nhanh chóng được vẽ ra trong đầu.",
+      "suggest": "Cứ việc lúc trước hắn cuống quít không thôi, hắn cũng không quên lưu lại ký hiệu ở mỗi lần biến hóa phương hướng, hiện tại một trương lộ đồ thoát khỏi sự khống chế của bản thân, rất nhanh đã hoàn thành.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh chậm rãi mở mắt ra, trong bụng truyền đến \"Cô\" một thanh âm vang lên.",
+      "dich": "Viên Minh từ từ mở mắt ra, bỗng trong bụng có tiếng 'ọc ọc' truyền ra.",
+      "suggest": "Viên Minh chậm rãi mở mắt ra, từ trong bụng truyền đến một giọng nói quen thuộc.",
+      "similarity": [
+        [
+          18,
+          0.1
+        ],
+        [
+          22,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Từ khi hắn đến bích la động về sau, vẫn lại chưa ăn, trải qua phía trước một phen kịch liệt đuổi trốn về sau, cơn đói bụng cồn cào cảm rốt cục áp chế không nổi.",
+      "dich": "Hắn từ lúc tới Bích La động tới nay vẫn chưa ăn gì, mới rồi lại phải trải qua một hồi rượt đuổi kịch liệt, cảm giác đói khát mãnh liệt trong người cuối cùng không áp chế được nữa.",
+      "suggest": "Từ khi hắn tới bích la động, vẫn chưa ăn gì cả, trải qua một phen kịch liệt đuổi theo, cảm giác đói khát cồn cào cuối cùng cũng không thể chịu nổi.",
+      "similarity": [
+        [
+          23,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nhìn thoáng qua đã bắt đầu ngã về tây thái dương, hắn biết đến ban đêm, mảnh này rừng rậm nguyên thủy sẽ chỉ càng thêm nguy hiểm, nếu là không trước lúc trời tối tìm tới đồ ăn cùng cư trú địa phương, hắn rất có thể chịu không đến ngày mai.",
+      "dich": "Viên Minh thoáng nhìn mặt trời đã ngả về Tây, biết rằng sắp tới buổi đêm, lúc ấy mảnh rừng rậm này chắc chắn càng nguy hiểm hơn, nếu không tìm được đồ ăn và chỗ trú ẩn trước khi trời tối, rất có thể hắn sẽ không trụ được tới ngày mai.",
+      "suggest": "Viên Minh nhìn đồng hồ cát trên mặt đã bắt đầu ngả về tây, hắn biết ban đêm, rừng rậm nguyên thủy này sẽ càng thêm nguy hiểm, nếu không trước lúc trời tối tìm được nơi ở và chỗ ở hợp lý, hắn rất có thể sẽ không sống đến ngày mai.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Nghĩ đến đây, Viên Minh chỉ có thể trọng chấn tinh thần, đứng lên.",
+      "dich": "Nghĩ tới đây, Viên Minh chỉ có thể trọng chấn tinh thần, đứng dậy.",
+      "suggest": "Nghĩ đến đây, Viên Minh chỉ có thể trọng chấn tinh thần, đứng lên.",
+      "similarity": [
+        [
+          25,
+          0.77
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn nghiêng người sang hướng nơi xa nhìn ra xa, cẩn thận quan sát bốn phía, trong tầm mắt nhìn như yên tĩnh sơn lâm, lại có rất nhiều nhỏ xíu động tĩnh.",
+      "dich": "Hắn nghiêng mình nhìn phía xa xa, cẩn thận quan sát bốn phía, thấy mảnh núi rừng yên tĩnh trong tầm mắt lại có vô số động tĩnh nhỏ bé.",
+      "suggest": "Hắn nghiêng người nhìn ra xa, cẩn thận quan sát bốn phía, trong tầm mắt nhìn như tĩnh lặng, lại có rất nhiều động tĩnh nhỏ.",
+      "similarity": [
+        [
+          26,
+          0.36
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn nhìn thấy một đầu màu xám tro mãng xà, quấn quanh lấy một gốc màu nâu xám cây già chậm chạp nhúc nhích, trên da hoa văn cùng thân cây bên trên ban ngấn cơ hồ hoàn toàn tương tự, là gần như hoàn mỹ ngụy trang.",
+      "dich": "Hắn nhìn thấy một con trăn xám quấn quanh một gốc cây già vỏ nâu xám đang chậm chạp nhúc nhích, những đường vân trên da nó so với những vết sẹo trên thân cây trông chẳng khác gì nhau, đúng là một kiểu ngụy trang gần như hoàn mỹ.",
+      "suggest": "Hắn nhìn thấy một con rắn lớn màu xám tro quấn quanh một gốc cây già màu nâu xám, chậm rãi nhúc nhích trên thân cây già màu nâu xám, hoa văn trên da cơ hồ hoàn toàn giống hệt nhau, trông giống hệt một cái bóng.",
+      "similarity": [
+        [
+          27,
+          0.22
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một bên khác mô đất dưới, một con mọc lên cá sấu giáp da thú nhỏ, từ trong cửa hang thò đầu ra, trái phải nhìn quanh một chút, đắp lên vừa mới chỉ bay qua đại điểu kinh đến, lập tức rút về trong động.",
+      "dich": "Dưới gò đất ở một bên khác, một con thú nhỏ có da như da cá sấu, ló đầu từ trong hang ra, lia mắt ngó trái nhìn phải một chút, kết quả bị một con chim lớn bay qua dọa cho hết hồn, tức tốc thụt vào trong hang.",
+      "suggest": "Dưới một mô đất khác, một con cá sấu lớn lông xanh thò đầu ra từ trong hang, nhìn trái nhìn phải, lập tức chui vào trong động.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Cùng nó cách xa nhau không xa một lùm cỏ hoang run run, một con to mọng lông xám con thỏ từ bên trong nhảy ra ngoài, phác sóc lấy hướng nơi xa chạy tới.",
+      "dich": "Ở một bụi cỏ hoang cách đó tương đối gần, một con thỏ lông xám mập mạp nhảy ra rồi lao về phía xa.",
+      "suggest": "Cách đó không xa một lùm cỏ hoang, một con thỏ lông xám to bằng một cái đầu người run rẩy nhảy từ trong lùm cỏ ra, chăm chú chạy về phía xa.",
+      "similarity": [
+        [
+          29,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh thấy thế, lập tức thả người nhảy một cái, hướng phía thỏ phương hướng nhào tới.",
+      "dich": "Viên Minh thấy thế, lập tức tung người nhảy dựng lên, nhào về phía con thỏ.",
+      "suggest": "Viên Minh thấy thế, lập tức thả người nhảy lên, hướng về phía con thỏ đang nhào tới.",
+      "similarity": [
+        [
+          30,
+          0.46
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Giữa không trung, hắn một cánh tay bắt lấy một cây cây già dây leo, thân thể thấp ép xuống đi, một cánh tay khác lấy đáy biển mò kim chi thế, dò xét cánh tay hướng phía con kia lông xám con thỏ bắt tới.",
+      "dich": "Giữa không trung, một tay hắn tóm lấy một cây dây leo già, tay kia nhắm thẳng về hướng con thỏ, bàn tay lên sẵn tư thế chuẩn bị chụp bắt.",
+      "suggest": "Trong không trung, hắn một cánh tay bắt lấy một cây dây leo, thân thể ép xuống, một cánh tay khác thò xuống dưới biển bắt lấy con thỏ lông xám kia.",
+      "similarity": [
+        [
+          31,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh bàn tay đã chạm đến con thỏ cái đuôi mềm mại lông tóc, một đạo mãnh liệt kình phong lại mang theo băng khởi cát đá đập vào trên bàn tay của hắn.",
+      "dich": "Bàn tay Viên Minh vừa chạm tới phần lông đuôi mềm mại của con thỏ thì thình lình một luồng kình phong mãnh liệt cuốn theo đất đá nện vào bàn tay hắn.",
+      "suggest": "Bàn tay Viên Minh đã chạm vào sợi lông mềm mại của con thỏ, một luồng kình phong mãnh liệt mang theo cát đá đập lên bàn tay hắn.",
+      "similarity": [
+        [
+          32,
+          0.35
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chỉ gặp kia con thỏ thân thể bật lên mà lên, như là mũi tên rời cung, trực tiếp nhảy ra xa ba, bốn trượng, rơi xuống đất trong nháy mắt phương hướng nhất chuyển, chui vào trong bụi cỏ, mất tung ảnh.",
+      "dich": "Chỉ thấy thân thể con thỏ nhảy vọt lên như một mũi tên rời cung, trực tiếp nhảy ra xa ba, bốn trượng. Vừa tiếp đất, nó lập tức chuyển hướng, chui vào bụi cỏ rồi mất tăm mất tích.",
+      "suggest": "Chỉ thấy thân thể con thỏ kia nhảy lên một cái như mũi tên rời cung, nhảy lên cao ba bốn trượng, rơi thẳng xuống mặt đất trong nháy mắt đã biến mất, chui vào trong bụi cỏ, biến mất không thấy bóng dáng.",
+      "similarity": [
+        [
+          33,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh còn duy trì lơ lửng giữa trời tư thế, động tác có chút cứng ngắc, trong lòng tràn đầy đắng chát.",
+      "dich": "Viên Minh vẫn giữ tư thế treo trên không trung, chân tay cứng ngắc mà lòng đầy cay đắng.",
+      "suggest": "Viên Minh vẫn duy trì tư thế như lúc đầu, động tác có chút cứng ngắc, trong lòng tràn đầy chua xót.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Hắn phát hiện, trong cánh rừng rậm này lũ dã thú, liền không một cái là bình thường.",
+      "dich": "Hắn phát hiện, thì ra lũ dã thú trong cánh rừng này chẳng có con nào bình thường cả.",
+      "suggest": "Hắn phát hiện, lũ dã thú trong rừng rậm này, không phải là bình thường.",
+      "similarity": [
+        [
+          34,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn chậm rãi rơi xuống mặt đất, đang định tìm tiếp mục tiêu khác lúc, sau lưng truyền đến một hồi nhỏ bé tiếng vang.",
+      "dich": "Hắn chậm rãi đáp xuống đất, khi đang định tìm mục tiêu mới thì chợt có một tràng âm thanh rất nhỏ từ phía sau lưng truyền tới.",
+      "suggest": "Hắn chậm rãi hạ xuống mặt đất, đang định tìm một mục khác thì sau lưng truyền đến một tiếng động nhỏ.",
+      "similarity": [
+        [
+          36,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh vô ý thức muốn quay đầu nhìn lại, khóe mắt liếc qua bỗng nhiên thoáng nhìn bản thân bên trái tiếp cận ánh mắt điểm mù địa phương, có một đạo thanh sắc cái bóng chui ra.",
+      "dich": "Viên Minh vô thức toan quay đầu nhìn lại, nhưng khía khóe mắt liếc qua vùng vốn là điểm mù trong tầm nhìn lại phát hiện có bóng dáng màu xanh xuất hiện.",
+      "suggest": "Viên Minh đang vô thức quay đầu nhìn lại, khóe mắt đột nhiên thoáng nhìn qua chỗ ánh mắt nhìn chằm chằm vào mình, là một cái bóng màu xanh chui ra từ trong đó.",
+      "similarity": [
+        [
+          37,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn vội vàng ngừng lại quay đầu chi thế, bỗng nhiên hướng phía phía trước nằm sấp xuống dưới.",
+      "dich": "Hắn tức tốc ngưng quay đầu, mạnh mẽ úp người nằm sắp xuống.",
+      "suggest": "Hắn vội vàng ngừng lại, quay đầu về phía trước, bỗng nhiên ngã sấp xuống đất.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Cơ hồ cùng một thời gian, một con chiều cao gần tám thước Thanh Lang, từ trên lưng của hắn bay nhào tới, nếu không phải hắn tránh được kịp lúc, mới vừa rồi quay đầu trong nháy mắt, chỉ sợ cũng muốn bị phía bổ nhào, cắn một cái bên trong cổ họng.",
+      "dich": "Gần như cùng lúc đó, một con sói xanh thân cao chừng tám thước nhào qua lưng hắn, nếu không phải hắn kịp thời tránh né, mới rồi mà quay đầu thì chỉ trong tích tắc sẽ bị nó đánh ngã rồi cắn một phát trúng ngay cổ họng.",
+      "suggest": "Cơ hồ cùng một lúc, một con Thanh Lang có chiều cao gần tám thước từ trên lưng hắn lao nhào tới, nếu không phải hắn tránh kịp, chỉ sợ cũng bị bổ nhào vào trong cổ họng, một cái cổ họng bị nghẹn lại.",
+      "similarity": [
+        [
+          39,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh không để ý tới nghĩ mà sợ, dùng cả tay chân lấy hướng phía trước chạy, sau lưng lập tức liền có vang lên tiếng gió.",
+      "dich": "Viên Minh chẳng có thời gian để sợ, lập tức dùng cả chân lẫn tay, nhắm phía trước chạy trốn, tức thì sau lưng có có tiếng gió rít vang lên.",
+      "suggest": "Viên Minh không để ý đến nghĩ ngợi gì cả, nhanh chóng dùng cả tay chân chạy về phía trước, sau lưng lập tức vang lên tiếng gió.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Đột nhiên hắn khí thế lao tới trước một dừng, đột nhiên thay đổi thân hình, cánh tay dài trở lại hướng phía sau đấm thẳng hướng đập tới, tư thế kia thật giống như tay cầm trường mâu, sử xuất một cái hồi mã thương.",
+      "dich": "Đột nhiên thế lao về trước chạy của hắn ngưng lại, thân hình bất ngờ xoay chuyển, kế đó một cánh tay hướng về sau đánh ra một quyền, tư thế này thật giống như tay cầm trường mâu đánh ra đòn hồi mã thương.",
+      "suggest": "Đột nhiên khí thế của hắn tăng vọt lên, đột nhiên thay đổi thân hình, cánh tay dài quay về phía sau bổ thẳng về phía sau, tư thế lúc này giống như tay cầm trường mâu, sử dụng một lưỡi dao hồi mã thương.",
+      "similarity": [
+        [
+          41,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nắm đấm của hắn bên trên vậy mà cũng vang lên tiếng xé gió, phát ra \"Ba\" một thanh âm vang lên, chợt liền đập vào một con hướng phía hắn há miệng cắn xé tới Thanh Lang trên miệng.",
+      "dich": "Trên nắm đấm của hắn không ngờ cũng nghe thấy tiếng xé gió vang lên, tiếp đó là một tiếng 'bốp', thì ra nắm đấm của hắn đã đấm trúng cái mồm đang ngoác ra chực cắn xé của con sói.",
+      "suggest": "Trên nắm đấm của hắn vậy mà lại phát ra tiếng xé gió, \"Ba\" một tiếng vang lên, chợt đập vào một con dao về phía hắn, cắn xé tới trên miệng Thanh Lang.",
+      "similarity": [
+        [
+          42,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Phanh\" một tiếng vang trầm truyền đến.",
+      "dich": "Một tiếng 'rầm' truyền tới nối liền chuỗi thanh âm.",
+      "suggest": "\"Phanh\", một tiếng trầm trầm truyền đến.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh chỉ cảm thấy trên nắm tay truyền đến đau đớn một hồi, đầu kia hình thể to lớn Thanh Lang cũng ứng thanh bay ngược ra ngoài, trực tiếp đâm vào một gốc tráng kiện trên cây, ngã xuống.",
+      "dich": "Một cảm giác đau nhức dữ dội từ nắm tay Viên Minh truyền lên đầu, trong khi đó, con sói xanh to lớn kia sau tiếng bốp đã bị đánh văng ra ngoài, đập vào một gốc cây thô to rồi ngã xuống.",
+      "suggest": "Viên Minh chỉ cảm thấy một hồi đau đớn từ trên nắm tay truyền đến, đầu Thanh Lang hình đầu người to lớn kia cũng bay ngược ra phía sau, trực tiếp đâm vào một thân cây tráng kiện rồi ngã xuống.",
+      "similarity": [
+        [
+          44,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thanh Lang xoay người mà lên, khóe miệng máu thịt be bét, một viên răng sói đều bị đánh gãy, trong miệng phát ra một hồi nghẹn ngào gầm nhẹ, hung tính không mảy may giảm, lại không có lập tức lại nhào lên.",
+      "dich": "Sói xanh xoay mình đứng lên, miệng nó giờ máu thịt lẫn rồi, một cái răng bị đánh gãy, miệng gầm nhẹ mấy tiếng, bộ dáng hung ác không giảm chút nào nhưng không lập tức lao lên.",
+      "suggest": "Thanh Lang xoay người, khóe miệng máu thịt be bét, một cái răng sói bị đánh gãy, trong miệng phát ra tiếng gầm nhẹ, hung tính không chút giảm, lại không lập tức chạy lên.",
+      "similarity": [
+        [
+          45,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh lúc này trong lòng cũng là hết sức kinh ngạc, trong óc của hắn mơ hồ có chút mơ hồ ký ức hiển hiện, giật mình xuất hiện bản thân tại một mảnh khoáng đạt trên quảng trường tay cầm thương bổng diễn võ hình tượng.",
+      "dich": "Viên Minh hiện tại cũng vô cùng kinh ngạc, trong đầu hắn mơ hồ có chút ký ức mờ ảo xuất hiện, thấy mình thấy mình tay cầm thương diễn võ thuật trên một quảng trường rộng lớn.",
+      "suggest": "Lúc này trong lòng Viên Minh cũng hết sức kinh ngạc, trong đầu hắn mơ hồ xuất hiện một chút ký ức mơ hồ, giật mình xuất hiện hình tượng một tay cầm thương bổng trên quảng trường.",
+      "similarity": [
+        [
+          46,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cùng những hình ảnh này nương theo mà đến, vẫn còn trong ý nghĩ vung đi không được u ám.",
+      "dich": "Cùng xuất hiện với những hình ảnh này còn có ý niệm từ đại não điều khiển cơ thể quyết không được ngất đi.",
+      "suggest": "Những hình ảnh này nương theo đó mà đến, trong lòng vẫn còn suy nghĩ không yên.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh trong lòng biết bây giờ không phải là lúc nghĩ những thứ này, vội vàng lắc lắc đầu, đem những cái kia ý niệm trong đầu tất cả đều đè xuống, ngưng thần hướng phía phía trước nhìn lại.",
+      "dich": "Viên Minh tự biết hiện tại không phải là lúc nghĩ những chuyện này, vội vàng lắc đầu, đè tất cả những suy nghĩ kia lại, tập trung tinh thần nhìn về trước.",
+      "suggest": "Trong lòng Viên Minh biết bây giờ không phải lúc nghĩ những chuyện này, vội vàng lắc lắc đầu, đè tất cả những ý niệm còn lại xuống, ngưng thần nhìn về phía trước.",
+      "similarity": [
+        [
+          48,
+          0.44
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chỉ gặp đầu kia Thanh Lang bên cạnh thân, lại có một con hình thể lớn hơn một chút Thanh Lang chẳng biết lúc nào theo sau.",
+      "dich": "Chỉ thấy bên cạnh con sói kia lại có thêm một con sói xanh hình thể còn lớn hơn con trước một chút, không biết xuất hiện từ lúc nào.",
+      "suggest": "Chỉ thấy bên cạnh đầu Thanh Lang kia lại có một con Thanh Lang hình thể lớn hơn một chút, chẳng biết từ lúc nào đã có theo sau.",
+      "similarity": [
+        [
+          49,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hai tên gia hỏa tách ra tả hữu, từ cánh hướng phía Viên Minh bao xông tới.",
+      "dich": "Hai tên gia hỏa chia nhau hai hướng trái phải, bước tới bên hông Viên Minh, tiến hành vây công.",
+      "suggest": "Hai tên gia hỏa tách ra, từ cánh xông về phía Viên Minh Bao.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Hắn lúc trước một quyền kia xác thực ra ngoài ý định, phát ra lực lượng là hắn nguyên cho là mình có khả năng dùng ra gấp hai, dù là lực lượng như vậy, vẫn như cũ không cách nào trọng thương Thanh Lang.",
+      "dich": "Một đấm vừa rồi của hắn thực sự bất ngờ, lực đấm theo hắn tính cũng phải gấp đôi so với khi trước, nhưng dù lực lượng như thế vẫn y nguyên không cách nào khiến con sói trọng thương.",
+      "suggest": "Lần trước hắn ra tay quả thực là ngoài ý định, lực lượng phát ra lúc trước chính là do hắn tưởng rằng mình có thể dùng tới gấp hai, cho dù lực lượng có mạnh như vậy, cũng không thể làm thương vong Thanh Lang.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Đánh không lại, chỉ có thể chạy.\"",
+      "dich": "\"Đánh không lại, chỉ có thể chạy.\"",
+      "suggest": "\"Đánh không lại, chỉ có thể chạy.\"",
+      "similarity": [
+        [
+          52,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh trong lòng lập tức có quyết đoán.",
+      "dich": "Trong lòng Viên Minh lập tức đã có quyết định.",
+      "suggest": "Trong lòng Viên Minh lập tức có quyết định.",
+      "similarity": [
+        [
+          53,
+          0.7
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này, hai đầu Thanh Lang bỗng nhiên đồng thời gia tốc, một trái một phải hướng phía hắn vọt lên.",
+      "dich": "Ngay lúc này, hai con sói ở hai phía đột nhiên cùng tăng tốc, từ hai bên trái phải lao vọt tới người hắn.",
+      "suggest": "Lúc này, hai đầu Thanh Lang bỗng nhiên đồng thời gia tốc, một trái một phải lao về phía hắn.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh vội vàng hướng phía trước chạy ra ngoài, nhanh chóng liếc mắt nhìn hai phía, lại phát hiện hai đầu Thanh Lang vậy mà duy trì đồng dạng tốc độ, không có tuần tự phân chia, hiển nhiên là dự định đồng thời tiến công, để hắn chỉ có thể được cái này mất cái khác.",
+      "dich": "Viên Minh vội vàng chạy về trước, đồng thời tức tốc đưa mắt nhìn quanh, lại phát hiện hai con sói ở hai phía thế mà giữ tốc độ ngang nhau, không chia trước sau, hiển nhiên là chúng tính tấn công cùng lúc để hắn rơi vào tình cảnh lo trái mất phải.",
+      "suggest": "Viên Minh vội vàng chạy ra ngoài, nhanh chóng liếc mắt nhìn hai phía, lại phát hiện hai đầu Thanh Lang vẫn duy trì tốc độ như lúc đầu, không có tuần tự phân chia, hiển nhiên là đang định cùng tiến công, để cho hắn có được thứ này.",
+      "similarity": [
+        [
+          55,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tốc độ của hắn vốn cũng không cùng Thanh Lang, hai bên con đường cũng đều đã bị phong tỏa, lúc này liền xem như muốn một lần nữa leo lên cây, cũng đã không còn kịp rồi.",
+      "dich": "Tốc độ hắn vốn kém hơn sói xanh, hai hướng trốn chạy cũng đều bị phong tỏa, giờ đâu muốn lần nữa leo lên cây cũng đã trễ rồi.",
+      "suggest": "Tốc độ của hắn vốn không bằng Thanh Lang, hai bên đường đều đã bị phong tỏa, lúc này nếu muốn trèo lên cây lớn một lần nữa cũng không kịp nữa rồi.",
+      "similarity": [
+        [
+          56,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này, Viên Minh hai bên bên tai, phong thanh bỗng nhiên vang lên, hai đầu Thanh Lang đồng thời đánh tới.",
+      "dich": "Lúc này, hai bên tai Viên Minh có tiếng xé gió vang lên, hai con sói xanh từ hai phía cùng lúc vọt tới.",
+      "suggest": "Lúc này, hai bên tai Viên Minh, tiếng gió bỗng nhiên nổi lên, hai đầu Thanh Lang đồng thời đánh tới.",
+      "similarity": [
+        [
+          57,
+          0.33
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn không chần chờ chút nào, lại là một cái đột nhiên ngừng, thân eo trực tiếp vặn chuyển hướng có phía bên phải, làm bộ liền muốn huy quyền đánh tới hướng đầu kia thụ thương Thanh Lang.",
+      "dich": "Hắn không chần chừ nửa giây, lại lần nữa bất ngờ ngưng mình, xoay phắt sang phải, làm bộ muốn tấn công con sói xanh bị thương kia.",
+      "suggest": "Hắn không chần chờ chút nào, đột nhiên ngừng lại, eo trực tiếp vặn vẹo về phía bên phải, làm bộ muốn huy quyền đánh tới đầu Thanh Lang thụ thương kia.",
+      "similarity": [
+        [
+          58,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cái sau thấy thế, ra ngoài e ngại, bản năng rụt lại.",
+      "dich": "Con sói này thấy thế thì sợ hãi, theo bản năng rụt lại một cái.",
+      "suggest": "Sau đó gã thấy thế, ngoài ý muốn rụt rè nói.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Chính là này nháy mắt chậm chạp, cho Viên Minh cơ hội, hắn thay đổi thân hình lần nữa quay lại, nguyên bản đánh tới hướng thụ thương Thanh Lang nắm đấm biến thành khuỷu tay kích, hung hăng đánh tới hướng bên trái Thanh Lang.",
+      "dich": "Chính là một thoáng chậm trễ này đã cho Viên Minh cơ hội, hắn một lần nữa xoay người, cánh tay vốn đang vung nắm đấm đánh về hướng con sói bị thương lại đổi qua thế giật cùi chỏ, hung hăng đánh tới con sói xanh bên trái.",
+      "suggest": "Chính là trong nháy mắt đã cho Viên Minh cơ hội thay đổi thân hình. Hắn thay đổi thân hình lần nữa, từ nắm đấm hướng về phía Thanh Lang đang thụ thương, hung hăng đánh về phía Thanh Lang đang thụ thương.",
+      "similarity": [
+        [
+          60,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Phanh\" một thanh âm vang lên, đầu kia Thanh Lang bị Viên Minh khuỷu tay hung hăng đập trúng, quẳng bay ra ngoài.",
+      "dich": "\"Bốp\" một tiếng, con sói xanh này bị cùi trỏ Viên Minh hung hăng đập trúng, ngã văng ra ngoài.",
+      "suggest": "\"Phanh\", một tiếng đập tay vang lên, đầu Thanh Lang kia bị Viên Minh dùng khuỷu tay đập trúng, ném văng ra ngoài.",
+      "similarity": [
+        [
+          61,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhưng cũng gần như đồng thời, phía bên phải Thanh Lang cắn một cái tại Viên Minh trên bờ vai.",
+      "dich": "Nhưng gần như cùng lúc đó, con sói bên phải cũng cắn một cái lên bả vai Viên Minh.",
+      "suggest": "Nhưng gần như cùng lúc đó, Thanh Lang bên phải cũng cắn mạnh một cái lên bờ vai Viên Minh.",
+      "similarity": [
+        [
+          62,
+          0.54
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bén nhọn răng sói đâm xuyên da thịt, mang tới kịch liệt đau đớn, để Viên Minh hít vào một ngụm khí lạnh, hắn một cái kéo lấy Thanh Lang lưng bên trên lông tóc, ra sức hướng phía trước một ném.",
+      "dich": "Hàm răng sắc nhọn đâm thủng da thịt mang tới cảm giác đau đớn dữ dội, khiến Viên Minh không khỏi hít ngụm khí lạnh. Hắn túm phần lông trên sống lưng con sói, đoạn ra sức ném nó về phía trước.",
+      "suggest": "Cái răng sói bén nhọn đâm xuyên da thịt, mang tới đau đớn kịch liệt, để cho Viên Minh hít vào một ngụm khí lạnh, hắn một tay túm lấy sợi tóc của Thanh Lang, dùng sức ném về phía trước.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Thanh Lang bởi vì đoạn rụng một cái răng răng, không cách nào toàn lực cắn vào, bị hắn một cái ném qua vai, từ trên bờ vai quăng bay đi xuống dưới, hung hăng nện xuống đất.",
+      "dich": "Con sói này vì gãy răng, không thể cắn quá sâu, bị hắn ném văng qua vai, giãy dụa một chút trên không rồi nặng nề đập xuống đất.",
+      "suggest": "Thanh Lang bởi vì đoạn gãy một cái răng cửa nên không thể nào toàn lực cắn vào, bị hắn đá một cái qua vai, từ trên bờ vai ngã chúi xuống, hung hăng nện xuống mặt đất.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Thừa dịp cái này đứng không, Viên Minh nhanh chóng chạy về phía một gốc cao lớn cổ thụ, dùng cả tay chân, hai ba lần liền bò lên.",
+      "dich": "Tranh thủ khoảng thời gian trống này, Viên Minh nhanh chóng chạy về phía một gốc cây cổ thụ cao lớn, tới nơi liền dùng cả chân lẫn tay, cuống quýt leo lên.",
+      "suggest": "Thừa dịp nó đang đứng không, Viên Minh nhanh chóng chạy về phía một cây cổ thụ cao lớn, dùng hết sức bò lên.",
+      "similarity": [
+        [
+          65,
+          0.35
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh một mực leo đến tới gần ngọn cây hoành trên cành, mới ngừng lại được, cúi đầu nhìn lại lúc, liền thấy hai đầu Thanh Lang đều đã vây ở dưới cây.",
+      "dich": "Viên Minh leo một mạch tới một cành mọc ngang gần ngọn cây mới dừng lại, lúc này cúi đầu nhìn xuống, thấy ngay hai con sói xanh đang đứng chực chờ dưới tàng cây.",
+      "suggest": "Viên Minh leo tới gần ngọn cây to, mới ngừng lại được, ngẩng đầu nhìn lên, đã thấy hai đầu Thanh Lang đều đang ở dưới gốc cây.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Đầu kia bị hắn ngắt lời răng lại vẩy một hồi Thanh Lang, khóe miệng chảy máu, nhìn có chút chật vật, mà đầu kia chống cự hắn một cái khuỷu tay kích gia hỏa, lại căn bản không có nửa điểm tổn thương, một đôi phiếm hồng con ngươi gắt gao nhìn chằm chằm hắn.",
+      "dich": "Con sói xanh bị hắn đánh gãy răng xong lại bị ném ngã đau một cú kia khóe miệng rỉ máu, nhìn qua khá chật vật, còn con ăn một cùi chỏ của hắn thì cơ bản chẳng thấy bị thương chút nào, lại còn đang đưa đôi mắt đỏ ngòm nhìn hắn chằm chằm.",
+      "suggest": "Cái đầu kia bị hắn ngắt lời, răng rắc một ít Thanh Lang, khóe miệng chảy máu, nhìn có vẻ chật vật, nhưng đầu kia chống cự lại một tên gia hỏa có cánh tay hơi thô, căn bản không có một điểm tổn thương, một đôi mắt màu hồng gắt gao nhìn chằm chằm vào hắn.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh gặp cái này hai đầu sói không hề biến thái đến có thể leo cây, lúc này mới yên tâm chút, rảnh rỗi nhìn thoáng qua bờ vai của mình, phát hiện nơi đó đang có ba cái lỗ máu, cốt cốt bốc lên máu tươi.",
+      "dich": "Viên Minh thấy hai con sói này không biến thái tới độ có thể leo cây nên tạm yên tâm một chút, rảnh rỗi nhìn qua bờ vai, phát hiện bờ vai mình có ba lỗ thủng, máu tươi đang từ đó trào ra.",
+      "suggest": "Viên Minh thấy hai đầu sói này không hề biến thái đến mức có thể leo cây, lúc này mới yên tâm, rảnh rỗi nhìn thoáng qua bờ vai của mình, phát hiện nơi đó đang có ba cái lỗ máu, cốt nhục bốc lên máu tươi.",
+      "similarity": [
+        [
+          68,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn hơi dắt bỗng nhúc nhích đầu vai cơ bắp, lập tức liền đau đến hắn nhe răng trợn mắt.",
+      "dich": "Hắn khẽ vận động cơ bắp đầu vai một chút, lập tức đau tới mức muốn nhe răng há hàm.",
+      "suggest": "Cơ bắp ở cổ tay hắn hơi nhúc nhích, lập tức khiến cho hắn phải nhe răng trợn mắt.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Phía dưới đầu kia Thanh Lang vờn quanh thụ nhìn chằm chằm một hồi lâu, bỗng nhiên ngóc đầu lên, trong miệng phát ra \"Ô ô\" tiếng sói tru.",
+      "dich": "Con sói xanh dưới tàng cây sau khi nhằm chằm chằm một chốc, bỗng hiển ngẩng đầu, miệng tru lên mấy tiếng 'Àaaa úuuuu'.",
+      "suggest": "Đầu Thanh Lang phía dưới nhìn chằm chằm vào thân cây cổ thụ một hồi lâu, bỗng nhiên ngóc đầu lên, trong miệng phát ra tiếng sói tru.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh lập tức ý thức được, gia hỏa này là tại kêu gọi tăng viện, xem ra cho dù là tại cái này Thập Vạn Đại Sơn cổ quái trong núi rừng, sói loại này dã thú, cũng vẫn như cũ duy trì quần cư thói quen.",
+      "dich": "Viên Minh lập tức ý thức ra con sói này đang gọi thêm quân, xem ra cả trong rừng núi Thập Vạn Đại sơn này, loài dã thú như sói vẫn duy trì tập tính sống như trước.",
+      "suggest": "Viên Minh lập tức ý thức được, gia hỏa này đang kêu gọi tăng viện. Xem ra cho dù là ở trong núi rừng cổ quái này, loại dã thú này vẫn như cũ tồn tại.",
+      "similarity": [
+        [
+          71,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Không thể ngừng ở lại chỗ này, một khi bị đàn sói vây quanh, thì càng trốn không thoát.\"",
+      "dich": "\"Không thể dừng lại ở đây lâu, một khi bị bầy sói vây lại thì càng không thể thoát được.\"",
+      "suggest": "\"Không thể ở lại chỗ này lâu, một khi đã bị bầy sói vây quanh, thì càng trốn không thoát.\"",
+      "similarity": [
+        [
+          72,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Vừa nghĩ đến đây, Viên Minh từ một bên trên nhánh cây giật xuống một cây cây mây, đem đầu vai của mình qua loa quấn hai vòng, lần nữa thi triển trời cao đãng cánh tay kỹ năng, tại cổ thụ ở giữa bay vọt.",
+      "dich": "Vừa nghĩ tới đây, Viên Minh liền kéo một sợi dây leo lên, quấn đại khái hai vòng quanh đầu vai mình, xong lại lần nữa thi triển kỹ năng tung mình đu cành, nhảy nhót giữa những cây cổ thụ.",
+      "suggest": "Vừa nghĩ đến đây, Viên Minh lấy một đám mây từ trên nhánh cây một vòng quanh đầu vai, lại một lần nữa thi triển kỹ năng bay lượn trên không trung cổ thụ.",
+      "similarity": [
+        [
+          73,
+          0.25
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Kia hai đầu Thanh Lang thấy thế, không buông tha đất ở dưới phương theo sau.",
+      "dich": "Hai con sói thấy thế, không chịu buông bỏ mà tiếp tục ở dưới đất bám theo.",
+      "suggest": "Hai đầu Thanh Lang thấy thế, không chịu bỏ chạy theo sau, chậm rãi bước xuống phía dưới.",
+      "similarity": [
+        [
+          74,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cùng hình thể cồng kềnh gấu đen khác biệt, Thanh Lang kiên nhẫn cùng tính nhẫn nại đều càng cường đại, tất nhiên là sẽ không bỏ mặc Viên Minh cái này đến miệng ăn thịt đào tẩu.",
+      "dich": "Khác với gấu đen thân thể cồng kềnh, sự kiên trì, nhẫn nại của sói xanh mạnh hơn nhiều nên dĩ nhiên chúng sẽ không mặc kệ cho miếng thịt sắp tới mồm – Viên Minh chạy trốn.",
+      "suggest": "Cùng hình dáng gấu đen cồng kềnh và dáng vẻ xù xì, sự kiên nhẫn và tính nhẫn nại của Thanh Lang lại càng thêm mạnh mẽ, tất nhiên sẽ không để mặc cho Bạch Cốt Hạt kia đào tẩu.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Vô luận Viên Minh thế nào bay vọt chạy trốn, bọn chúng đều có thể vững vàng đuổi theo, còn thỉnh thoảng phát ra sói tru, cho đồng bạn báo cáo vị trí.",
+      "dich": "Bất luận Viên Minh bay nhảy ra sao, chạy trốn kiểu nào, chúng đều có thể bám theo sát gót, thỉnh thoảng còn tru lên để báo cho đồng bạn biết vị trí.",
+      "suggest": "Vô luận Viên Minh chạy trốn như thế nào, bọn chúng đều có thể vững vàng đuổi theo, thỉnh thoảng lại kêu lên mấy tiếng sói tru, báo cáo cho đồng bạn.",
+      "similarity": [
+        [
+          76,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh không dám dừng lại nghỉ, hắn đã thấy sơn lâm các nơi có bóng dáng chớp động, có thể thụ thương đổ máu cùng lâu dài chưa thể ăn, đã để hắn bộ thân thể này sắp đến cực hạn.",
+      "dich": "Viên Minh không dám dừng lại nghỉ ngơi, dù đã thấy khắp núi rừng có bóng dáng chớp động, nhưng thân bị thương mất máu lại nhịn đói đã lâu khiến thân thể hắn sắp tới giới hạn rồi.",
+      "suggest": "Viên Minh không dám dừng lại, hắn đã thấy khắp nơi trên núi có bóng người chớp động, có thể bị thương nặng, lâu dài không thể ăn, đã làm cho thân thể hắn sắp chạm đến cực hạn.",
+      "similarity": [
+        [
+          77,
+          0.24
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn ánh mắt bắt đầu có chút hoảng hốt, cho dù là trên vai đau đớn cũng vô pháp kích thích hắn, để hắn bảo trì thanh tỉnh.",
+      "dich": "Ánh mắt của hắn bắt đầu có chút hoảng hốt, dù những đau đớn trên vai kia cũng không thể nào kích thích bản thân, giúp hắn giữ vững sự tỉnh táo.",
+      "suggest": "Ánh mắt hắn bắt đầu hoảng hốt, cho dù là đau đớn trên vai cũng không thể kích thích hắn, để hắn bảo trì thanh tỉnh.",
+      "similarity": [
+        [
+          78,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Phía trước bóng cây bắt đầu trở tối, cánh tay của hắn ê ẩm sưng khó nhịn, bắt lấy cây mây lúc luôn luôn khống chế không nổi dưới mặt đất trượt, có lẽ lần tiếp theo nhảy vọt, hắn liền muốn rơi xuống.",
+      "dich": "Bóng râm phía trước bắt đầu tối sầm lại, trong khi cánh tay hắn đã mỏi rã rời, khi tóm lấy dây leo luôn bị tuột một quãng, cứ thế có lẽ tới lần nhảy tiếp theo, hắn sẽ bị rớt xuống.",
+      "suggest": "Bóng cây phía trước bắt đầu trở nên tối sầm lại, cánh tay hắn đau ê ẩm, không thể khống chế được cảm giác đau đớn đang bám chặt vào đám mây phía dưới, có lẽ lần nhảy vọt tiếp theo, hắn sẽ rơi xuống.",
+      "similarity": [
+        [
+          79,
+          0.22
+        ]
+      ],
+      "approved": true
+    }
+  ]
+}
