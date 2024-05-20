@@ -1,4 +1,5 @@
 {
+  "currentLine": 89,
   "next": {
     "id": 47,
     "title": "Chương 47: Chữa thương"
@@ -14,14 +15,15 @@
   "lines": [
     {
       "convert": "Khôn Đồ không rõ ràng cho lắm, không dám tùy tiện cứng rắn cản, chỉ có thể nhảy lên nhảy ra, đi tới Ương Thiền bên người.",
-      "dich": "Khôn Đồ chưa rõ tình hình, không dám tùy tiện đối cứng, chỉ có thể tung người nhảy ra, đáp xuống chỗ cạnh Ương Thiên.",
+      "dich": "Khôn Đồ chưa rõ tình hình, không dám tùy tiện đối cứng, chỉ có thể tung người nhảy ra, đáp xuống chỗ cạnh Ương Thiền.",
       "suggest": "Khôn Đồ không rõ lắm, không dám tùy tiện cứng rắn ngăn cản, chỉ có thể nhảy lên nhảy xuống, đi tới bên người Ương Thiền.",
       "similarity": [
         [
           0,
           0.24
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Thân ảnh màu trắng nện ở trên giường ngà, trực tiếp đem giường chiếu giẫm sập, nghiêng đầu sang chỗ khác, hướng phía sát lại gần nhất Ba Đạt, mở ra cái miệng lớn như chậu máu phát ra một tiếng cuồng bạo gào thét.",
@@ -32,7 +34,8 @@
           1,
           0.33
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Rống...\"",
@@ -44,62 +47,66 @@
           0.13
         ],
         [
-          24,
+          22,
           0.12
         ],
         [
-          33,
+          31,
           0.13
         ],
         [
-          75,
+          73,
           0.12
         ],
         [
-          79,
+          77,
           0.1
         ],
         [
-          83,
+          81,
           0.13
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Ba Đạt con ngươi trong nháy mắt phóng đại, thấy rõ thân ảnh kia đại khái bộ dáng, toàn thân tuyết trắng lông dài, ngoại hình giống người mà không phải người, ngũ quan mơ hồ không rõ.",
-      "dich": "Ba Đạt trợn trừng mắt, thấy được hình dạng đại khái của bóng trắng kia.",
+      "dich": "Ba Đạt trợn trừng mắt, thấy được hình dạng đại khái của bóng trắng kia. Đó là một thứ có vẻ ngoài giống người nhưng không phải người, cả người mọc đầy lông trắng, ngũ quan mơ hồ nhìn không rõ.",
       "suggest": "Con ngươi ba Đạt trong nháy mắt nhìn rõ hình dáng của bóng người, toàn thân phủ đầy lông dài trắng xóa, ngũ quan không rõ ràng.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "\"Nhân Tiêu, là Nhân Tiêu...\"",
-      "dich": "Đó là một thứ có vẻ ngoài giống người nhưng không phải người, cả người mọc đầy lông trắng, ngũ quan mơ hồ nhìn không rõ.",
+      "dich": "\"Nhân Tiêu, là Nhân Tiêu ...\"",
       "suggest": "\"Nhân Tiêu, là Nhân Tiêu...\"",
       "similarity": [
         [
-          5,
+          4,
           0.3
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn lập tức phát ra một tiếng hoảng sợ tru lên.",
-      "dich": "\"Nhân Tiêu, là Nhân Tiêu ...\" Gã lập tức hoảng sợ la toáng lên.",
+      "dich": "Gã lập tức hoảng sợ la toáng lên.",
       "suggest": "Hắn lập tức phát hoảng lên.",
       "similarity": [
         [
-          15,
+          13,
           0.11
         ],
         [
-          44,
+          42,
           0.11
         ],
         [
-          51,
+          49,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Tiếng nói còn không có rơi, hắn liền liên tục không ngừng địa từ Khôn Đồ cùng Ương Thiền bên người chạy ra ngoài.",
@@ -110,18 +117,8 @@
           6,
           0.16
         ]
-      ]
-    },
-    {
-      "convert": "Ương Thiền vốn đang không có cảm thấy có bao nhiêu sợ hãi, được hắn như thế vừa trốn, lập tức cũng manh động thoái ý, chỉ là còn chưa kịp đi, liền được Khôn Đồ bắt lại cánh tay.",
-      "dich": "Ương Thiền vốn không cảm thấy sợ lắm, thấy gã vừa la vừa trốn như vậy, lập tức cũng manh nha xuất hiện thoái ý, có điều còn chưa kịp đi đã bị Khôn Đồ tóm cánh tay giữ lại.",
-      "suggest": "Ương Thiền vốn không cảm thấy sợ hãi gì cả, nhưng thấy đối phương trốn nhanh như thế, lập tức chủ động từ chối, chỉ là còn chưa kịp đi, Khôn Đồ đã nắm lấy cánh tay hắn.",
-      "similarity": [
-        [
-          7,
-          0.25
-        ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Sợ cái gì?",
@@ -133,26 +130,27 @@
           0.14
         ],
         [
-          8,
+          7,
           1
         ],
         [
-          33,
+          31,
           0.14
         ],
         [
-          75,
+          73,
           0.12
         ],
         [
-          79,
+          77,
           0.14
         ],
         [
-          83,
+          81,
           0.14
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Đừng quên chúng ta là tới làm gì?\"",
@@ -160,10 +158,11 @@
       "suggest": "Đừng quên chúng ta tới để làm gì?",
       "similarity": [
         [
-          9,
+          8,
           0.47
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Khôn Đồ hướng về phía nàng gầm lên giận dữ.",
@@ -171,22 +170,23 @@
       "suggest": "Khôn Đồ gầm lên giận dữ.",
       "similarity": [
         [
-          10,
+          9,
           0.17
         ],
         [
-          28,
+          26,
           0.12
         ],
         [
-          30,
+          28,
           0.17
         ],
         [
-          61,
+          59,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Ương Thiền cái này mới phản ứng được, bọn hắn vốn là đến tìm kiếm Nhân Tiêu, chém giết Nhân Tiêu.",
@@ -194,10 +194,11 @@
       "suggest": "Ương Thiền lúc này mới phản ứng lại, bọn hắn vốn đang tìm kiếm Nhân Tiêu, chém giết Nhân Tiêu.",
       "similarity": [
         [
-          11,
+          10,
           0.34
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Hừ, đều do Ba Đạt cái kia thứ hèn nhát, hại ta cũng giật nảy mình.\"",
@@ -205,10 +206,11 @@
       "suggest": "\"Hừ, đều tại tên Ba Đạt kia mà làm cho ta giật nảy cả mình.\"",
       "similarity": [
         [
-          12,
+          11,
           0.22
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Ương Thiền xì mắng một tiếng, ổn định tâm thần.",
@@ -216,10 +218,11 @@
       "suggest": "Ương Thiền quát mắng một tiếng, ổn định tâm thần.",
       "similarity": [
         [
-          13,
+          12,
           0.32
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Thi triển phi mao chi thuật hóa thành vượn trắng Viên Minh, mắt thấy bọn hắn không có được dọa lùi, trong lòng thở dài một tiếng, lại không có chút nào lùi bước, lần nữa nhảy lên một cái, hai tay nắm lấy nện đánh tới hướng mặt đất.",
@@ -227,10 +230,11 @@
       "suggest": "Phi Mao chi thuật hóa thành vượn trắng, mắt thấy bọn hắn không dọa lùi, trong lòng thở dài một tiếng, lại không lùi bước chút nào, một lần nữa nhảy lên, hai tay nắm lấy nên đánh tới mặt đất.",
       "similarity": [
         [
-          14,
+          13,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Oanh\" một thanh âm vang lên.",
@@ -238,22 +242,23 @@
       "suggest": "\"Oanh\", một tiếng vang lên.",
       "similarity": [
         [
-          15,
+          14,
           0.22
         ],
         [
-          44,
+          42,
           0.22
         ],
         [
-          51,
+          49,
           0.19
         ],
         [
-          71,
+          69,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Thần miếu mặt đất kịch liệt chấn động, Ương Thiền cùng Khôn Đồ dưới chân mặt đất lập tức băng liệt, bay lên vô số mảnh vỡ.",
@@ -261,10 +266,11 @@
       "suggest": "Mặt đất dưới chân thần miếu chấn động, Ương Thiền cùng Khôn Đồ dưới chân lập tức run rẩy, vô số mảnh vỡ văng ra.",
       "similarity": [
         [
-          16,
+          15,
           0.16
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Tới gần hai người phụ cận một cây tổn hại trên trụ đá vết rạn mở rộng, \"Oanh\" nhưng vỡ vụn ra, liên đới lấy nửa mảnh nóc nhà cũng đi theo đổ sụp, đại lượng mảnh ngói cùng bụi đất nhao nhao trút xuống.",
@@ -272,10 +278,11 @@
       "suggest": "Ở gần chỗ hai người phụ cận một vết nứt lớn xuất hiện, \"Oanh\" một tiếng, tấm ngói cùng bụi đất cũng theo đó mà vỡ vụn ra, hàng đống mảnh ngói cùng bụi đất cũng đổ rạp xuống.",
       "similarity": [
         [
-          17,
+          16,
           0.16
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Ương Thiền hai người vội vàng tránh về phía sau, một mực thối lui đã xuất thần ngoài miếu.",
@@ -283,10 +290,11 @@
       "suggest": "Hai người Ương Thiền vội vàng tránh né, một mực thối lui ra khỏi thần miếu.",
       "similarity": [
         [
-          18,
+          17,
           0.36
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Trong bụi mù, Viên Minh ôm lấy ngọc thể đang nằm Trần Uyển, thô sơ giản lược địa giúp nàng cả sửa lại một chút quần áo, thân hình nhảy lên, liền hướng phía trên nóc nhà nhảy lên.",
@@ -294,64 +302,63 @@
       "suggest": "Trong bụi mù, Viên Minh ôm chặt lấy ngọc thể của Trần Uyển, cẩn thận chỉnh trang quần áo cho nàng, thân hình nhảy lên, nhảy lên nóc nhà.",
       "similarity": [
         [
-          19,
+          18,
           0.18
         ]
-      ]
-    },
-    {
-      "convert": "Mới vừa rồi một quyền kia, cũng không phải là hắn lực lượng cường hoành, thật có thể một quyền chùy bạo nửa toà thần miếu, mà là sử dụng Mộc Thứ Thuật, phối hợp với đánh sâu vào vậy căn bản liền mục nát cột đá, mới có cái này dọa người một màn.",
-      "dich": "Mắt thấy có cơ hội chạy trốn, Viên Minh dĩ nhiên không dám trì hoãn.",
-      "suggest": "Vừa rồi một quyền vừa rồi không phải do hắn có sức mạnh cường hoành, có thể một quyền đánh nát thần miếu, mà là sử dụng thuật Mộc Thứ, phối hợp với đánh sâu vào trong cột đá căn bản đã mục nát, mới có thể tạo ra một màn dọa người như thế.",
-      "similarity": []
+      ],
+      "approved": true
     },
     {
       "convert": "Mắt thấy có cơ hội đào tẩu, Viên Minh tất nhiên là không dám trì hoãn.",
-      "dich": "Nhưng khi hắn vừa xông qua nóc nhà, cảm nhận được nước mưa rớt lên người, bỗng phát hiện trên đỉnh đầu có một bóng đen xuất hiện, che nước mưa rơi xuống.",
+      "dich": "Mắt thấy có cơ hội chạy trốn, Viên Minh dĩ nhiên không dám trì hoãn.",
       "suggest": "Mắt thấy có cơ hội chạy trốn, Viên Minh đương nhiên không dám chậm trễ.",
       "similarity": [
         [
-          20,
+          19,
           0.64
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Thân hình của hắn vừa mới xông ra nóc nhà, vừa mới cảm nhận được nước mưa lâm ở trên người xúc cảm, bỗng nhiên liền phát giác hướng trên đỉnh đầu có một mảnh bóng râm che đậy tới, chặn rơi xuống nước mưa.",
-      "dich": "Viên Minh ngửa đầu nhìn lên, gặp ngay một cặp 'đèn lồng' màu xanh đen tỏa sáng giữa trời đêm, ở phần rìa quầng sáng yếu ớt màu xanh lục kia còn thấy có từng miếng vảy hình thoi màu đỏ thẫm.",
+      "dich": "Nhưng khi hắn vừa xông qua nóc nhà, cảm nhận được nước mưa rớt lên người, bỗng phát hiện trên đỉnh đầu có một bóng đen xuất hiện, che nước mưa rơi xuống.",
       "suggest": "Thân hình hắn vừa mới xông lên tới nóc nhà, vừa mới cảm nhận được cảm giác có một cái bóng râm che khuất tầm nhìn, bỗng nhiên phát giác trên đỉnh đầu có một bóng râm che chắn, ngăn không cho nước mưa rơi xuống.",
       "similarity": [
         [
-          21,
+          20,
           0.23
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh ngửa đầu nhìn lại, chỉ thấy một đôi u lục sắc \"Đèn lồng\" ở trong màn đêm phát sáng lên, kia yếu ớt lục quang khu vực bên ngoài, lại hiện ra từng khối hình thoi đỏ sậm lân phiến.",
-      "dich": "Không chờ hắn nhìn cho rõ, một tràng những tiếng 'xì xì' vang lên, đồng thời mảng bóng đen kia nhanh chóng hạ xuống, để lộ ra một cái đầu rắn cực lớn đang há cái miệng to như chậu máu, cắn thẳng xuống phía Viên Minh.",
+      "dich": "Viên Minh ngửa đầu nhìn lên, gặp ngay một cặp 'đèn lồng' màu xanh đen tỏa sáng giữa trời đêm, ở phần rìa quầng sáng yếu ớt màu xanh lục kia còn thấy có từng miếng vảy hình thoi màu đỏ thẫm.",
       "suggest": "Viên Minh ngửa đầu nhìn lại, chỉ thấy một đôi đèn lồng màu đen trong màn đêm phát sáng, khu vực bên ngoài khu vực màn đêm u ám kia lại hiện ra từng khối lân phiến màu đỏ sẫm.",
       "similarity": [
         [
-          22,
+          21,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Không đợi hắn thấy rõ ràng, một hồi \"Tê tê\" tiếng vang truyền đến, kia phiến bóng tối nhanh chóng rơi xuống, hiện ra một viên to lớn mãng xà thủ cấp, mở ra cái miệng lớn như chậu máu, hướng phía Viên Minh cắn xuống tới.",
-      "dich": "\"Linh thú của Ương Thiền.\"",
+      "dich": "Không chờ hắn nhìn cho rõ, một tràng những tiếng 'xì xì' vang lên, đồng thời mảng bóng đen kia nhanh chóng hạ xuống, để lộ ra một cái đầu rắn cực lớn đang há cái miệng to như chậu máu, cắn thẳng xuống phía Viên Minh.",
       "suggest": "Không đợi hắn kịp nhìn rõ, một hồi tiếng 'tê tê' vang lên, bóng tối nhanh chóng chìm xuống, một thủ cấp to lớn của mãng xà nhanh chóng mở cái miệng lớn như chậu máu, hướng Viên Minh cắn xuống.",
       "similarity": [
         [
-          23,
+          22,
           0.12
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Ương Thiền Linh thú.\"",
-      "dich": "Viên Minh ngưng người, vung tay đấm lên một quyền.",
+      "dich": "\"Linh thú của Ương Thiền.\"",
       "suggest": "\"Thiên Linh Thú.\"",
       "similarity": [
         [
@@ -359,116 +366,125 @@
           0.13
         ],
         [
-          24,
+          23,
           0.13
         ],
         [
-          33,
+          31,
           0.13
         ],
         [
-          75,
+          73,
           0.12
         ],
         [
-          79,
+          77,
           0.1
         ],
         [
-          83,
+          81,
           0.13
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh thân hình dừng lại, một quyền hướng phía phía trên đập tới.",
-      "dich": "Một tiếng \"bốp\" trầm đục vang lên, con đại mãng màu đỏ lửa bị đấm cho thụt đầu lại, đồng thời thân ảnh Viên Minh cũng rơi từ trên không xuống.",
+      "dich": "Viên Minh ngưng người, vung tay đấm lên một quyền.",
       "suggest": "Thân hình Viên Minh ngừng lại, một quyền đánh mạnh xuống mặt đất.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "\"Phanh\" một tiếng vang trầm, hỏa hồng đại mãng bị nện được thủ cấp ngược lại co lại, Viên Minh thân ảnh cũng từ trên không trung rơi rơi xuống.",
-      "dich": "Hai ngươi vừa mới rơi xuống đất, từ chỗ xa xa trong màn mưa bên ngoài chợt có tiếng gào của Ba Đạt vang lên: \"Khôn Đồ đội trưởng, ob chết rồi, không thấy thú nô tên Viên Minh kia đâu.\"",
+      "dich": "Một tiếng \"bốp\" trầm đục vang lên, con đại mãng màu đỏ lửa bị đấm cho thụt đầu lại, đồng thời thân ảnh Viên Minh cũng rơi từ trên không xuống.",
       "suggest": "\"Bốp\" một tiếng trầm, thanh đoản kiếm màu đỏ bị nện xuống, trọng lượng của mãng xà cũng bị đẩy văng lên không trung.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Hai người vừa mới rơi xuống đất, bên ngoài màn mưa bên trong liền xa xa truyền đến Ba Đạt tiếng gào: \"Khôn Đồ đội trưởng, Ô Bảo chết rồi, cái kia gọi Viên Minh thú nô không thấy!\"",
-      "dich": "Khôn Đồ nghe thế liền bừng tỉnh.",
+      "dich": "Hai ngươi vừa mới rơi xuống đất, từ chỗ xa xa trong màn mưa bên ngoài chợt có tiếng gào của Ba Đạt vang lên: \"Khôn Đồ đội trưởng, Ô Bảo chết rồi, không thấy thú nô tên Viên Minh kia đâu.\"",
       "suggest": "Hai người vừa mới rơi xuống đất, bên ngoài màn mưa liền truyền tới tiếng gào của ba Đạt: \"Khôn Đồ đội trưởng, Ô Bảo chết rồi, thú nô gọi Viên Minh kia đâu rồi!\"",
       "similarity": [
         [
-          27,
+          26,
           0.35
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Khôn Đồ nghe vậy, lập tức tỉnh ngộ lại.",
-      "dich": "\"Mắc lừa rồi, bên trong không phải Nhân Tiêu gì cả, là tên Phi Mao thú nô kia.\"",
+      "dich": "Khôn Đồ nghe thế liền bừng tỉnh.",
       "suggest": "Khôn Đồ nghe vậy, lập tức tỉnh ngộ.",
       "similarity": [
         [
-          28,
+          27,
           0.18
         ],
         [
-          30,
+          28,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Bị lừa rồi, bên trong không là cái gì Nhân Tiêu, là cái kia phi mao thú nô.\"",
-      "dich": "Gã gầm lên giận dữ, lập tức vỗ túi linh thú bên hông.",
+      "dich": "\"Mắc lừa rồi, bên trong không phải Nhân Tiêu gì cả, là tên Phi Mao thú nô kia.\"",
       "suggest": "\"Bị lừa rồi, bên trong không phải là Nhân Tiêu, mà là Phi Mao thú nô kia.\"",
       "similarity": [
         [
-          29,
+          28,
           0.55
         ],
         [
-          39,
+          37,
           0.14
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn gầm lên giận dữ, lúc này vỗ bên hông Linh Thú Đại.",
-      "dich": "Một luồng sáng xanh từ trong túi bay ra, theo đó, một con sói xanh cao to, mình dài hai trượng thình lình xuất hiện.",
+      "dich": "Gã gầm lên giận dữ, lập tức vỗ túi linh thú bên hông.",
       "suggest": "Hắn gầm lên giận dữ, lúc này vỗ vào lưng Linh Thú Đại bên hông.",
       "similarity": [
         [
-          30,
+          29,
           0.3
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Một đạo thanh quang từ đó bay ra, một con dài khoảng hai trượng cao lớn Thanh Lang hiện ra thân hình.",
-      "dich": "Không chờ Khôn Đồ ra lệnh, sói xanh đã lắc lắc đám lông bờm, gồng cơ bắp toàn thân nổi lên, đồng thời cặp mắt đỏ sậm của nó lóe lên ánh sáng mờ mờ, há miệng hướng phía thần miếu gào một tiếng vang trời.",
+      "dich": "Một luồng sáng xanh từ trong túi bay ra, theo đó, một con sói xanh cao to, mình dài hai trượng thình lình xuất hiện.",
       "suggest": "Một đạo ánh sáng từ trong đó bay ra, một con sói xanh cao khoảng hai trượng hiện ra thân hình.",
       "similarity": [
         [
-          31,
+          30,
           0.25
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Không cần Khôn Đồ phân phó, kia Thanh Lang trên cổ lông bờm run run, bắp thịt cả người rụt lại một hồi, một đôi đỏ sậm con ngươi lóe ra ánh sáng nhạt, hướng phía đã rách mướp thần miếu há miệng phát ra một tiếng chấn thiên gào thét.",
-      "dich": "\"Gào ...\"",
+      "dich": "Không chờ Khôn Đồ ra lệnh, sói xanh đã lắc lắc đám lông bờm, gồng cơ bắp toàn thân nổi lên, đồng thời cặp mắt đỏ sậm của nó lóe lên ánh sáng mờ mờ, há miệng hướng phía thần miếu gào một tiếng vang trời.",
       "suggest": "Không cần Khôn Đồ ra lệnh, bờm con sói trên cổ con sói run rẩy, bắp thịt cả người co rút lại, đôi mắt đỏ sậm ánh lên ánh sáng nhạt, hướng về phía thần miếu đã rách mướp hét lên một tiếng chấn thiên.",
       "similarity": [
         [
-          32,
+          31,
           0.16
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Rống...\"",
-      "dich": "Theo tiếng gào điên cuồng này, một đợt cuồng phong từ trong miệng sói điên cuồng phóng tới, tạo ra vô số phong nhận tỏa ánh sáng xanh cắt nát màn mưa, hình thành những luồng khí xoáy mà mắt thường cũng có thể thấy được, đập thẳng vào ngôi miếu đổ nát.",
+      "dich": "\"Gào ...\"",
       "suggest": "\"Gàoooo...\"",
       "similarity": [
         [
@@ -480,66 +496,72 @@
           0.12
         ],
         [
-          33,
+          32,
           0.13
         ],
         [
-          75,
+          73,
           0.12
         ],
         [
-          79,
+          77,
           0.1
         ],
         [
-          83,
+          81,
           0.13
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Nương theo lấy cuồng hống thanh âm vang lên, Thanh Lang trong miệng cuồng phong dâng trào, vô số đạo tản ra thanh quang phong nhận thái nhỏ màn mưa, hình thành từng đạo mắt trần có thể thấy luồng khí xoáy, đụng vào miếu hoang.",
-      "dich": "Trong tiếng \"ầm ầm\", đá vụn cùng mảnh ngói bay tứ tung, vọt vào trong thần miếu.",
+      "dich": "Theo tiếng gào điên cuồng này, một đợt cuồng phong từ trong miệng sói điên cuồng phóng tới, tạo ra vô số phong nhận tỏa ánh sáng xanh cắt nát màn mưa, hình thành những luồng khí xoáy mà mắt thường cũng có thể thấy được, đập thẳng vào ngôi miếu đổ nát.",
       "suggest": "Nương theo tiếng gào rú của bầy sói, cơn cuồng phong trong miệng sói lang nổi lên, vô số màn mưa ánh sáng tỏa ra như những hạt mưa, tạo thành từng đạo ánh sáng màu xanh mờ mắt, đụng phải miếu hoang.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "\"Ầm ầm\" tiếng vang ở bên trong, đá vụn cùng mảnh ngói bốn phía bắn bay, vọt tới trong miếu.",
-      "dich": "Viên Minh cảm nhận được cỗ lực lượng cuồng bạo kia, chỉ có thể vội vàng lách người, lao qua núp sau bức tượng thần kỳ quái ở bên cạnh để tránh né.",
+      "dich": "Trong tiếng \"ầm ầm\", đá vụn cùng mảnh ngói bay tứ tung, vọt vào trong thần miếu.",
       "suggest": "\"Ầm ầm\", tiếng xé gió vang lên, đá vụn và mảnh ngói bốn phía bắn tung lên, vọt tới trong miếu.",
       "similarity": [
         [
-          35,
+          34,
           0.12
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh cảm nhận được kia cỗ cuồng bạo lực lượng, chỉ có thể vội vàng lách mình, hướng phía kia cổ quái tượng thần bên cạnh tránh né.",
-      "dich": "Chuỗi phong nhận cuồng bạo kia càn quét thổi qua, đập thẳng lên vách tường còn chưa đổ phía sau miếu, đục ra một lổ hổng lớn trên bức tường lung lay sắp đổ.",
+      "dich": "Viên Minh cảm nhận được cỗ lực lượng cuồng bạo kia, chỉ có thể vội vàng lách người, lao qua núp sau bức tượng thần kỳ quái ở bên cạnh để tránh né.",
       "suggest": "Viên Minh cảm nhận được luồng lực lượng cuồng bạo kia, chỉ có thể vội vàng lách mình tránh sang một bên, tránh sang bên cạnh một pho tượng đá cổ quái.",
       "similarity": [
         [
-          36,
+          35,
           0.44
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Kia cuồng bạo phong nhận quét sạch mà qua, trực tiếp đụng vào hậu phương chưa đổ sụp trên vách tường, đem lung lay sắp đổ tường đá phá tan một cái lỗ thủng to lớn.",
-      "dich": "Viên Minh nhìn lỗ hổng trên vách tường phía sau, khoảnh khắc vừa định trốn đi, lại thấy ngay một quầng sáng màu xanh đen đang cấp tốc từ trong màn đêm bên ngoài lao về phía bên này.",
+      "dich": "Chuỗi phong nhận cuồng bạo kia càn quét thổi qua, đập thẳng lên vách tường còn chưa đổ phía sau miếu, đục ra một lổ hổng lớn trên bức tường lung lay sắp đổ.",
       "suggest": "Phong nhận cuồng bạo quét qua, trực tiếp đập vào vách tường chưa đổ sụp của đối phương, phá tan một lỗ thủng to lớn.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Viên Minh nhìn về phía sau lưng vách tường khe, đang muốn trốn đi thời khắc, liền thấy phía ngoài trong bóng tối, hai đạo lục sắc u quang đã hướng phía bên này cấp tốc lao đến.",
-      "dich": "Sau khi biết được trong miếu không phải Nhân Tiêu, mà chỉ chỉ là một Phi Mao thú nô, Ba Đạt tức thì không còn sợ hãi nữa, cũng gọi linh thú của mình ra.",
+      "dich": "Viên Minh nhìn lỗ hổng trên vách tường phía sau, khoảnh khắc vừa định trốn đi, lại thấy ngay một quầng sáng màu xanh đen đang cấp tốc từ trong màn đêm bên ngoài lao về phía bên này.",
       "suggest": "Viên Minh nhìn vách tường khe hở sau lưng, đang muốn trốn đi thì chợt thấy trong bóng tối phía ngoài cửa sổ xuất hiện hai luồng ánh sáng màu xanh lục đang nhanh chóng chạy tới.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Biết được bên trong không phải Nhân Tiêu, mà chỉ là một cái phi mao thú nô về sau, Ba Đạt cũng lập tức không có sợ hãi, gọi ra bản thân Linh thú.",
-      "dich": "Con lợn rừng với đám lông đen dày cứng rợn người kia cả người tỏa ánh sáng đen, tung bốn chân lao như điên về phía Viên Minh, trên hai cái nanh sắc nhọn của nó còn tỏa ánh sáng óng ánh, trông như có bôi độc.",
+      "dich": "Sau khi biết được trong miếu không phải Nhân Tiêu, mà chỉ chỉ là một Phi Mao thú nô, Ba Đạt tức thì không còn sợ hãi nữa, cũng gọi linh thú của mình ra.",
       "suggest": "Biết được bên trong không phải là Nhân Tiêu, mà chỉ là một Phi Mao thú nô, Ba Đạt cũng lập tức không sợ hãi nữa, gọi ra Linh thú bản thân.",
       "similarity": [
         [
@@ -547,57 +569,62 @@
           0.14
         ],
         [
-          39,
+          38,
           0.42
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Đầu kia lông tóc rợn da gà lông đen lợn rừng trên thân che đậy một tầng ô quang, bốn vó phi nước đại lấy hướng Viên Minh mạnh mẽ đâm tới mà đến, hai cái bén nhọn răng nhọn bên trên hiện ra ung dung quang trạch, tựa hồ còn có tẩm thuốc độc.",
-      "dich": "Viên Minh thấy thế, tức thì áp một bàn tay lên trên mặt đất, đồng thời pháp lực trong đan điền phun trào, truyền thẳng xuống dưới mặt đất.",
+      "dich": "Con lợn rừng với đám lông đen dày cứng rợn người kia cả người tỏa ánh sáng đen, tung bốn chân lao như điên về phía Viên Minh, trên hai cái nanh sắc nhọn của nó còn tỏa ánh sáng óng ánh, trông như có bôi độc.",
       "suggest": "Trên người đầu Lợn rừng lông xù kia che đậy một tầng ô quang đen, bốn vó ngựa phi nước đại hướng Viên Minh đâm tới, hai cái răng nhọn hoắt trên đó hiện lên quang trạch ung dung, dường như có tẩm thuốc độc.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Viên Minh thấy thế, một tay nắm đột nhiên theo trên mặt đất, đan điền pháp lực dũng động, hướng phía dưới mặt đất quán chú mà đi.",
-      "dich": "Mộc Thứ Thuật bất ngờ phát động.",
+      "dich": "Viên Minh thấy thế, tức thì áp một bàn tay lên trên mặt đất, đồng thời pháp lực trong đan điền phun trào, truyền thẳng xuống dưới mặt đất.",
       "suggest": "Viên Minh thấy thế, một tay nắm chặt lại, pháp lực trong đan điền dũng mãnh chuyển động, tập trung nhìn xuống mặt đất phía dưới.",
       "similarity": [
         [
-          41,
+          40,
           0.25
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Mộc Thứ Thuật chợt phát động.",
-      "dich": "Chỉ thấy ở chỗ mặt đất cách hắn hơn hai trượng, đất đá đột nhiên nứt tung ra, đồng thời ba cây gai gỗ màu xanh to cỡ đùi bò trồi lên, rồi như ba cây cọc buộc ngựa đâm xéo tới nghênh đón lợn rừng lông đen.",
+      "dich": "Mộc Thứ Thuật bất ngờ phát động.",
       "suggest": "Thuật Mộc Thứ chợt khởi động.",
       "similarity": [
         [
-          42,
+          41,
           0.16
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Chỉ gặp hắn trước người hai trượng có hơn, mặt đất đất đá băng lên, ba cây đùi bò phẩm chất thanh sắc gai gỗ nghiêng lấy phá đất mà lên, như là cự cọc buộc ngựa đồng dạng đâm nghiêng hướng va chạm mà đến lông đen lợn rừng.",
-      "dich": "Một tiếng \"Rầm\" vang lên.",
+      "dich": "Chỉ thấy ở chỗ mặt đất cách hắn hơn hai trượng, đất đá đột nhiên nứt tung ra, đồng thời ba cây gai gỗ màu xanh to cỡ đùi bò trồi lên, rồi như ba cây cọc buộc ngựa đâm xéo tới nghênh đón lợn rừng lông đen.",
       "suggest": "Chỉ thấy trước người hắn hơn hai trượng, mặt đất đá băng, ba cây gai gỗ màu xanh lục to bằng bắp đùi nghiêng ngả phá đất, trông như là một cái cọc gỗ màu xanh lá cọ va chạm với lông đen lợn rừng.",
       "similarity": [
         [
-          43,
+          42,
           0.21
         ],
         [
-          45,
+          43,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Phanh\" một thanh âm vang lên.",
-      "dich": "Lợn rừng lông đen húc thẳng lên gai gỗ màu xanh, tức thì một vòi máu tươi từ trên người nó bắn tóe lên, nhưng ba cây gai gỗ cũng bị húc cho hoàn toàn vỡ nát.",
+      "dich": "Một tiếng \"Rầm\" vang lên.",
       "suggest": "\"Phanh\", một tiếng vang lên.",
       "similarity": [
         [
@@ -605,83 +632,90 @@
           0.22
         ],
         [
-          44,
+          43,
           0.22
         ],
         [
-          51,
+          49,
           0.19
         ],
         [
-          71,
+          69,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Lông đen lợn rừng đánh thẳng ở tráng kiện thanh sắc gai gỗ bên trên, trên thân bắn tung toé khởi một vòi máu tươi đồng thời, cũng đem gai gỗ đâm đến vỡ nát, hoàn toàn tán loạn.",
-      "dich": "Mà tốc độ của nó cũng chỉ chậm lại một chút, không hề ngừng thế đánh tới.",
+      "dich": "Lợn rừng lông đen húc thẳng lên gai gỗ màu xanh, tức thì một vòi máu tươi từ trên người nó bắn tóe lên, nhưng ba cây gai gỗ cũng bị húc cho hoàn toàn vỡ nát.",
       "suggest": "Lông đen lợn rừng đánh thẳng lên thân cây gai gỗ tráng kiện, trên thân nó bắn ra từng ngụm máu tươi, đồng thời máu tươi cũng làm cho cây gỗ bị gãy làm đôi, hoàn toàn tán loạn.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Mà tốc độ kia chỉ là thoáng chậm lại, vẫn như cũ hướng đánh tới.",
-      "dich": "Viên Minh cảm thấy nội tâm trùng xuống, vội vàng lăn người qua bên cạnh sườn tránh né.",
+      "dich": "Mà tốc độ của nó cũng chỉ chậm lại một chút, không hề ngừng thế đánh tới.",
       "suggest": "Mà tốc độ hắn chỉ chậm lại một chút, vẫn tiếp tục nhắm về phía đối phương.",
       "similarity": [
         [
-          46,
+          45,
           0.33
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh trong lòng cảm giác nặng nề, vội vàng hướng bên hông lăn mình một cái tránh thoát.",
-      "dich": "Mấy linh thú của đám đệ tử ký danh này trông không khác mấy so với hung thú mà hắn săn giết hàng ngày, thực tế chiến lực lại cách nhau trời vực, cơ bản không phải thứ hắn có thể dễ dàng đối phó.",
+      "dich": "Viên Minh cảm thấy nội tâm trùng xuống, vội vàng lăn người qua bên cạnh sườn tránh né.",
       "suggest": "Viên Minh trong lòng có cảm giác nặng nề, vội vàng nghiêng người tránh đi.",
       "similarity": [
         [
-          47,
+          46,
           0.1
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Những này đám ký danh đệ tử bọn họ Linh thú nhìn như cùng mình ngày thường săn giết hung thú không sai biệt lắm, thực tế chiến lực lại là ngày đêm khác biệt, căn bản không phải hắn có thể tuỳ tiện đối phó.",
-      "dich": "Chưa nói còn chủ nhân của bọn chúng, mỗi kẻ đều đường đường chính chính là đệ tử Bích La Động, có thể học tập các loại bí thuật, công pháp của tông môn.",
+      "dich": "Mấy linh thú của đám đệ tử ký danh này trông không khác mấy so với hung thú mà hắn săn giết hàng ngày, thực tế chiến lực lại cách nhau trời vực, cơ bản không phải thứ hắn có thể dễ dàng đối phó.",
       "suggest": "Những Linh thú này nhìn như cùng một dạng với hung thú bình thường săn giết, nhưng thực tế chiến lực lại khác nhau ngày đêm, căn bản không phải hắn có thể tùy tiện đối phó.",
       "similarity": [
         [
-          48,
+          47,
           0.18
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Chớ nói chi là vẫn còn chủ nhân của bọn hắn, từng cái đều là đường đường chính chính Bích La Động đồ đệ, là có thể học tập các loại tông môn công pháp bí thuật.",
-      "dich": "Trong lòng Viên Minh chợt cảm thấy có chút hối hận, không nên nóng đầu xuất thủ vội vã để bản thân cơ hồ rơi vào tuyệt cảnh, ít nhất cũng nên tìm thời cơ thích hợp hơn.",
+      "dich": "Chưa nói còn chủ nhân của bọn chúng, mỗi kẻ đều đường đường chính chính là đệ tử Bích La Động, có thể học tập các loại bí thuật, công pháp của tông môn.",
       "suggest": "Chớ nói chi đến chủ nhân của bọn họ, từng người đều là đồ đệ chính thức của Bích La Động, là người có thể học các loại công pháp bí thuật của các tông môn.",
       "similarity": [
         [
-          49,
+          48,
           0.22
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh trong lòng chợt cảm thấy có chút hối hận, không nên đầu não nóng lên liền xuất thủ, dẫn đến bản thân cơ hồ lâm vào tuyệt cảnh, chí ít hẳn là tìm thích hợp hơn thời cơ.",
-      "dich": "Một tiếng 'ầm' thật lớn vang lên.",
+      "dich": "Trong lòng Viên Minh chợt cảm thấy có chút hối hận, không nên nóng đầu xuất thủ vội vã để bản thân cơ hồ rơi vào tuyệt cảnh, ít nhất cũng nên tìm thời cơ thích hợp hơn.",
       "suggest": "Viên Minh chợt cảm thấy hối hận, không nên nóng vội vàng vàng ra tay, khiến cho bản thân cơ hồ lâm vào tuyệt cảnh, chí ít thì nên tìm một thời cơ thích hợp hơn.",
       "similarity": [
         [
-          50,
+          49,
           0.44
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Oanh\" một tiếng vang thật lớn.",
-      "dich": "Con lợn rừng ngang ngược húc tới kia vừa đâm thẳng lên bức tượng hung thần hình dáng cổ quái kia, khiến cho bức tượng đất sét đổ sụp, vỡ ra tung tóe, đến ngay cả cái bệ đỡ tượng cũng bị kéo văng ra ngoài.",
+      "dich": "Một tiếng 'ầm' thật lớn vang lên.",
       "suggest": "\"Oanh\", một tiếng nổ thật lớn vang lên.",
       "similarity": [
         [
@@ -693,194 +727,205 @@
           0.15
         ],
         [
-          51,
+          50,
           0.33
         ],
         [
-          71,
+          69,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Kia ngang ngược vọt tới lông đen lợn rừng, lập tức đâm vào toà kia hình dạng cổ quái hung thần tượng nặn bên trên, đánh thẳng được tượng bùn tượng thần sụp đổ, tán loạn ra, liền ngay cả tượng thần hạ cái bệ đều đi theo hất bay ra ngoài.",
-      "dich": "Va chạm kịch liệt khiến lợn lòi cũng thấy hơi choáng, nó lắc lắc đầu, phân biệt phương hướng một rồi lại bất thình lình lao đến chỗ Viên Minh.",
+      "dich": "Con lợn rừng ngang ngược húc tới kia vừa đâm thẳng lên bức tượng hung thần hình dáng cổ quái kia, khiến cho bức tượng đất sét đổ sụp, vỡ ra tung tóe, đến ngay cả cái bệ đỡ tượng cũng bị kéo văng ra ngoài.",
       "suggest": "Đầu trâu rừng kia điên cuồng húc thẳng lên người tượng thần tượng cổ quái kia, lập tức đánh thẳng lên tượng đá cổ quái kia, khiến cho tượng đá tương thân sụp đổ hoàn toàn, ngay cả bệ đá cũng bị hất văng ra ngoài.",
       "similarity": [
         [
-          52,
+          51,
           0.19
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Kịch liệt va chạm, để lông đen lợn rừng đều có chút choáng đầu, lung lay đầu, phân biệt một lần phương hướng, chợt lại hướng phía Viên Minh lao đến.",
-      "dich": "Còn mãng xà màu đỏ lửa ở phía trên cũng há miệng ra, bổ xuống phía hắn.",
+      "dich": "Va chạm kịch liệt khiến lợn lòi cũng thấy hơi choáng, nó lắc lắc đầu, phân biệt phương hướng một rồi lại bất thình lình lao đến chỗ Viên Minh.",
       "suggest": "Sự va chạm kịch liệt của con dao nhọn khiến cho cả đám lông đen đều có chút choáng váng, lay lay đầu, phân biệt phương hướng một lần nữa rồi lao về phía Viên Minh.",
       "similarity": [
         [
-          53,
+          52,
           0.22
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Phía trên màu đỏ hỏa mãng cũng mở ra miệng máu, hướng phía hắn đáp xuống.",
-      "dich": "Thân bị hãm ở giữa vòng vây, Viên Minh tức tốc đảo mắt nhìn quanh hòng tìm ra một lối thoát, đúng lúc này, hắn phát hiện ở phía dưới bức tượng thần mới bị con lợn lòi húc đổ kia, thình lình xuất hiện một cái cửa động tối om.",
+      "dich": "Còn mãng xà màu đỏ lửa ở phía trên cũng há miệng ra, bổ xuống phía hắn.",
       "suggest": "Tên lửa đỏ phía trên cũng mở ra, hướng hắn đáp xuống.",
+      "similarity": [
+        [
+          53,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thân hãm đang bao vây Viên Minh, ánh mắt nhanh quay ngược trở lại, muốn tìm một cái đường ra, lúc này chợt phát hiện, được lông đen lợn rừng va sụp tượng thần phía dưới, vậy mà xuất hiện một cái đen như mực cửa hang.",
+      "dich": "Thân bị hãm ở giữa vòng vây, Viên Minh tức tốc đảo mắt nhìn quanh hòng tìm ra một lối thoát, đúng lúc này, hắn phát hiện ở phía dưới bức tượng thần mới bị con lợn lòi húc đổ kia, thình lình xuất hiện một cái cửa động tối om.",
+      "suggest": "Viên Minh đang bị vây khốn, ánh mắt quay ngược lại, muốn tìm một con đường, lúc này chợt phát hiện, dưới lớp lông đen sì của con lợn rừng, không ngờ lại xuất hiện một cái cửa hang đen như mực.",
       "similarity": [
         [
           54,
           0.11
         ]
-      ]
-    },
-    {
-      "convert": "Thân hãm đang bao vây Viên Minh, ánh mắt nhanh quay ngược trở lại, muốn tìm một cái đường ra, lúc này chợt phát hiện, được lông đen lợn rừng va sụp tượng thần phía dưới, vậy mà xuất hiện một cái đen như mực cửa hang.",
-      "dich": "Tâm trí hắn quay cuồng suy tính chốc lát, rồi lập tức đưa ra quyết định.",
-      "suggest": "Viên Minh đang bị vây khốn, ánh mắt quay ngược lại, muốn tìm một con đường, lúc này chợt phát hiện, dưới lớp lông đen sì của con lợn rừng, không ngờ lại xuất hiện một cái cửa hang đen như mực.",
-      "similarity": [
-        [
-          55,
-          0.11
-        ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Tâm hắn nghĩ nhanh quay ngược trở lại, lập tức làm ra quyết đoán.",
-      "dich": "Chỉ thấy hắn triệt hồi Phi Mao Thuật, đưa hai tay ôm ngang người Trần Uyển, vọt người tới trước, tránh thoát đòn tấn công của đại mãng rồi lao thẳng về phía con lợn lòi.",
+      "dich": "Tâm trí hắn quay cuồng suy tính chốc lát, rồi lập tức đưa ra quyết định.",
       "suggest": "Ý nghĩ trong đầu hắn nhanh chóng quay trở lại, lập tức ra quyết định.",
       "similarity": [
         [
-          56,
+          55,
           0.18
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Chỉ gặp hắn triệt hồi phi mao chi thuật, hai tay ôm ngang Trần Uyển, thân hình vọt tới trước, tránh thoát hỏa mãng trùng kích, đối mặt lông đen lợn rừng chạy tới.",
-      "dich": "Ngay khi song phương sắp va chạm, hắn bỗng hạ thấp trọng tâm, lợi dụng ưu thế hình thể, đổ người trượt qua khoảng trống dưới bụng con lợn lòi, lao tới cửa động phía bên kia.",
+      "dich": "Chỉ thấy hắn triệt hồi Phi Mao Thuật, đưa hai tay ôm ngang người Trần Uyển, vọt người tới trước, tránh thoát đòn tấn công của đại mãng rồi lao thẳng về phía con lợn lòi.",
       "suggest": "Chỉ thấy hắn hoàn toàn phục hồi thuật Phi Mao, hai tay ôm ngang Trần Uyển, thân hình vọt tới trước, tránh khỏi trùng kích của hỏa mãng, đối mặt với lợn rừng lông đen chạy tới.",
       "similarity": [
         [
-          57,
+          56,
           0.19
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Mắt thấy là phải lắp đặt thời điểm, thân hình của hắn bỗng nhiên trùn xuống, mượn nhờ hình thể ưu thế, từ lông đen lợn rừng dưới thân trượt đi, trực tiếp chui đi tới, đi tới cái kia cửa hang bàng.",
-      "dich": "Viên Minh đưa mắt nhìn sâu vào không gian đằng sau cửa động, chỉ thấy bên trong tối như hũ nút, có một cơn gió lạnh lẽo từ bên trong thổi ra, còn lại cơ bản nhìn không ra là sâu bao nhiêu.",
+      "dich": "Ngay khi song phương sắp va chạm, hắn bỗng hạ thấp trọng tâm, lợi dụng ưu thế hình thể, đổ người trượt qua khoảng trống dưới bụng con lợn lòi, lao tới cửa động phía bên kia.",
       "suggest": "Mắt thấy phải lắp đặt xong, thân hình hắn bỗng nhiên trùn xuống, nhờ vào ưu thế về hình thể, từ dưới chân lông đen lợn rừng trượt xuống, trực tiếp chui vào trong hang bàng kia.",
-      "similarity": []
-    },
-    {
-      "convert": "1",
-      "dich": "\"Cẩu nô bộc, còn không khoanh tay chịu trói?\"",
-      "suggest": "1",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Viên Minh thăm dò hướng phía trong động khẩu nhìn một cái, chỉ gặp bên trong tối như mực một mảnh, một cỗ âm lãnh gió từ bên trong thổi ra, căn bản nhìn không ra sâu bao nhiêu.",
-      "dich": "Tiếng Khôn Đồ chợt truyền đến.",
+      "dich": "Viên Minh đưa mắt nhìn sâu vào không gian đằng sau cửa động, chỉ thấy bên trong tối như hũ nút, có một cơn gió lạnh lẽo từ bên trong thổi ra, còn lại cơ bản nhìn không ra là sâu bao nhiêu.",
       "suggest": "Viên Minh dò xét bên trong động, chỉ thấy bên trong tối đen như mực, một luồng gió lạnh từ bên trong thổi ra, căn bản nhìn không ra sâu trong là bao.",
       "similarity": [
         [
-          59,
+          58,
           0.31
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Cẩu nô bộc, còn không thúc thủ chịu trói?\"",
-      "dich": "Gã cũng đã dẫn theo linh thú sói xanh vọt vào.",
+      "dich": "\"Cẩu nô bộc, còn không khoanh tay chịu trói?\"",
       "suggest": "\"Cẩu nô bộc, còn không thúc thủ chịu trói?\"",
       "similarity": [
         [
-          60,
+          59,
           0.67
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Lúc này, Khôn Đồ thanh âm truyền đến.",
-      "dich": "Viên Minh không còn thời gian suy nghĩ, lập tức ôm Trần uyển, thả người nhảy xuống cửa động.",
+      "dich": "Tiếng Khôn Đồ chợt truyền đến.",
       "suggest": "Đúng lúc này, giọng nói của Khôn Đồ truyền đến.",
       "similarity": [
         [
-          61,
+          60,
           0.15
         ],
         [
-          71,
+          69,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn mang theo bản thân Thanh Lang Linh thú, cũng đã vọt vào.",
-      "dich": "Sau khi rơi được khoảng ba, bốn trượng, hắn đáp người lên trên một bờ dốc, tiếp đó không tự chủ phi tốc trượt nghiêng xuống phía dưới.",
+      "dich": "Gã cũng đã dẫn theo linh thú sói xanh vọt vào.",
       "suggest": "Hắn mang theo con sói xanh mà mình thu thập được cũng đã vọt vào trong.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Viên Minh không rảnh lại đi suy nghĩ, trực tiếp ôm lấy Trần Uyển, hướng phía cửa hang thả người nhảy xuống.",
-      "dich": "Khôn Đồ thấy thế liền vội vàng lao qua, sau khi tới rồi kiểm tra kích thước cửa động một hồi, gã liền quay qua gọi Ương Thiền: \"Mau!",
+      "dich": "Viên Minh không còn thời gian suy nghĩ, lập tức ôm Trần uyển, thả người nhảy xuống cửa động.",
       "suggest": "Viên Minh không rảnh suy nghĩ, trực tiếp ôm Trần Uyển, rồi chạy về phía cửa hang thả người nhảy xuống.",
       "similarity": [
         [
-          63,
+          62,
           0.21
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Rơi xuống ba bốn trượng về sau, hắn rơi vào một cái sườn dốc bên trên, bắt đầu hướng phía nghiêng xuống phương phi tốc tuột xuống.",
-      "dich": "Sai hỏa mãng của ngươi đi vào, hôm nay nhất định phải giết bọn chúng, nếu không đợi khi quay lại tông môn, chúng ta sẽ rất thảm.\"",
+      "dich": "Sau khi rơi được khoảng ba, bốn trượng, hắn đáp người lên trên một bờ dốc, tiếp đó không tự chủ phi tốc trượt nghiêng xuống phía dưới.",
       "suggest": "Sau khi rơi xuống ba bốn trượng, hắn rơi xuống một sườn dốc, bắt đầu dùng sức lắc lư, di chuyển về phía sau.",
       "similarity": [
         [
-          64,
+          63,
           0.13
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Khôn Đồ thấy thế, lập tức đuổi theo, đi tới cửa động chỗ kiểm tra một hồi lớn nhỏ, lúc này đối Ương Thiền hô: \"Nhanh!",
-      "dich": "Ương Thiền mặt mũi căng thẳng, không chút do dự, lập tức điều khiển hỏa mãng chui vào trong động quật.",
+      "dich": "Khôn Đồ thấy thế liền vội vàng lao qua, sau khi tới rồi kiểm tra kích thước cửa động một hồi, gã liền quay qua gọi Ương Thiền: \"Mau!",
       "suggest": "Khôn Đồ thấy thế, lập tức đuổi theo, đi tới trước cửa động kiểm tra một vòng lớn nhỏ, lúc này mới hô lớn: 'Nhanh!",
       "similarity": [
         [
-          65,
+          64,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Để ngươi hỏa mãng đi vào, hôm nay nhất định phải giết bọn hắn, không phải chờ trở lại tông môn, chúng ta liền thảm rồi.\"",
-      "dich": "Trừ khi bọn họ mạo hiểm đích thân đuổi theo, nếu không thì linh thú duy nhất có thể chui vào động này cũng chỉ có con hỏa mãng kia mà thôi.",
+      "dich": "Sai hỏa mãng của ngươi đi vào, hôm nay nhất định phải giết bọn chúng, nếu không đợi khi quay lại tông môn, chúng ta sẽ rất thảm.\"",
       "suggest": "Ngươi dẫn ngươi vào trong, hôm nay nhất định phải giết bọn hắn, không phải chờ trở lại tông môn, chúng ta sẽ thảm lắm.\"",
       "similarity": [
         [
-          66,
+          65,
           0.42
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Ương Thiền gương mặt căng cứng, cũng không dài dòng, lập tức chỉ huy hỏa mãng hướng phía trong động quật chui vào.",
-      "dich": "Bên trong động quật cũng không bằng phẳng, khắp nơi đều có đá nhô ra, Viên Minh ở trong va đập tứ phía, cả người đầy những vết thương chồng chất nhưng không dám dừng lại nửa khắc.",
+      "dich": "Ương Thiền mặt mũi căng thẳng, không chút do dự, lập tức điều khiển hỏa mãng chui vào trong động quật.",
       "suggest": "Gương mặt Ương Thiền căng cứng, cũng không dài dòng, lập tức chỉ huy đám mây đen nhánh chui vào trong động.",
       "similarity": [
         [
-          67,
+          66,
           0.17
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Trừ phi là mấy người bọn hắn tự mình mạo hiểm đuổi theo, nếu không có thể chui vào cái này trong động quật Linh thú, cũng chỉ có hỏa mãng một cái.",
-      "dich": "Lúc này, hắn chọt nghe sau lưng có tiếng động truyền đến, lập tức cảm thấy không ổn.",
+      "dich": "Trừ khi bọn họ mạo hiểm đích thân đuổi theo, nếu không thì linh thú duy nhất có thể chui vào động này cũng chỉ có con hỏa mãng kia mà thôi.",
       "suggest": "Trừ khi là mấy người bọn hắn tự mình mạo hiểm đuổi theo, nếu không có thể chui vào trong động quật này, cũng chỉ có Hỏa Mãng mà thôi.",
       "similarity": [
         [
@@ -888,65 +933,65 @@
           0.12
         ],
         [
-          68,
+          67,
           0.27
         ]
-      ]
-    },
-    {
-      "convert": "Hỏa mãng đâm đầu thẳng vào trong động quật, lúc này phun ra nuốt vào lấy lưỡi rắn, thân hình nhúc nhích, nhanh chóng hướng phía phía dưới truy kích mà đi.",
-      "dich": "Ngay sau đó, một tiếng gào thét từ phía sau truyền đến.",
-      "suggest": "Hỏa mãng đâm thẳng vào trong động quật, lúc này phun ra một ngụm máu tươi nuốt vào lưỡi rắn, thân hình nhúc nhích, nhanh chóng lao xuống phía dưới.",
-      "similarity": []
+      ],
+      "approved": true
     },
     {
       "convert": "Động quật bên trong cũng không bằng phẳng, khắp nơi đều có nham thạch nổi lên, Viên Minh ở bên trong bốn phía va chạm, toàn thân đã là vết thương chồng chất, cũng không dám có chút trì trệ.",
-      "dich": "Chỉ thấy con hỏa mãng kia đã đuổi theo, hơn nữa còn đột nhiên há miệng máu phun ra một luồng lửa, tạo thành một đợt sóng lửa lan tràn khắp động quật.",
+      "dich": "Bên trong động quật cũng không bằng phẳng, khắp nơi đều có đá nhô ra, Viên Minh ở trong va đập tứ phía, cả người đầy những vết thương chồng chất nhưng không dám dừng lại nửa khắc.",
       "suggest": "Bên trong động quật không bằng phẳng, khắp nơi đều có nham thạch nổi lên, Viên Minh ở bốn phía va chạm, toàn thân đều là vết thương chông chât, cũng không dám chậm trễ.",
       "similarity": [
         [
-          69,
+          68,
           0.32
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Lúc này, hắn chợt nghe sau lưng truyền đến tiếng vang, lập tức cảm thấy không ổn.",
-      "dich": "Viên Minh chỉ cảm thấy nhiệt đột bốn phía bỗng tăng cao, thầm rùng mình, chỉ có thể nhanh chóng thôi động Mộc Thứ Thuật, tạo ra ba cây gai gỗ to lớn ở phía sau hòng ngăn cản sóng lửa.",
+      "dich": "Lúc này, hắn chọt nghe sau lưng có tiếng động truyền đến, lập tức cảm thấy không ổn.",
       "suggest": "Lúc này, hắn chợt nghe phía sau lưng truyền đến tiếng vang, lập tức cảm thấy không ổn.",
       "similarity": [
         [
-          70,
+          69,
           0.52
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Ngay sau đó, sau lưng liền truyền đến một tiếng gào thét, đầu kia hỏa mãng đã đuổi theo, một trương miệng máu đột nhiên mở ra, ở trong lại có một đầu hỏa tuyến phun ra ngoài, hóa thành một đoàn tràn ngập toàn bộ động quật sóng lửa lao qua.",
-      "dich": "Lửa đỏ hừng hực len qua khe hở cạnh gãi gỗ, ào ạt phóng tới, ngọn lửa liếm lên lưng, thiêu đốt dữ dội khiến hắn đau rát tới độ muốn ngưng thở.",
+      "dich": "Ngay sau đó, một tiếng gào thét từ phía sau truyền đến. Chỉ thấy con hỏa mãng kia đã đuổi theo, hơn nữa còn đột nhiên há miệng máu phun ra một luồng lửa, tạo thành một đợt sóng lửa lan tràn khắp động quật.",
       "suggest": "Ngay sau đó, sau lưng truyền đến một tiếng gào thét, đầu hỏa mãng kia đuổi theo, một cái miệng máu đột nhiên mở ra, một đường sáng trắng phun ra ngoài, hóa thành một cơn sóng lửa tràn ngập toàn bộ động quật.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Viên Minh chỉ cảm thấy bốn phía nhiệt độ bỗng nhiên lên cao, trong lòng run lên, chỉ có thể lập tức thôi động Mộc Thứ Thuật, để sau lưng mặt đất dâng lên ba cây tráng kiện gai gỗ, ý đồ ngăn trở hỏa diễm.",
-      "dich": "\"Phành!\"",
+      "dich": "Viên Minh chỉ cảm thấy nhiệt đột bốn phía bỗng tăng cao, thầm rùng mình, chỉ có thể nhanh chóng thôi động Mộc Thứ Thuật, tạo ra ba cây gai gỗ to lớn ở phía sau hòng ngăn cản sóng lửa.",
       "suggest": "Viên Minh chỉ cảm thấy nhiệt độ bốn phía bỗng nhiên cao hơn, trong lòng run lên, chỉ có thể lập tức thi triển Thuật Mộc Thứ, dựng trên mặt đất ba cây gai gỗ tráng kiện, ý đồ ngăn cản ngọn lửa lan tràn.",
       "similarity": [
         [
-          73,
+          72,
           0.23
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hừng hực Xích Hỏa xuyên qua gai gỗ khe hở, hung mãnh phun ra, hỏa diễm vẫn là cháy ở phía sau lưng của hắn bên trên, kịch liệt thiêu đốt làm cho hắn đau đến cơ hồ ngừng lại hô hấp.",
-      "dich": "Tiếng cành cây bị đụng gãy từ sau lưng truyền đến, đồng nghĩa con hỏa mãng vẫn đang tiếp tục truy đuổi hắn, chỉ sau chốc lát, cái miệng to như chậu máu của nó đã tới sát ngay sau lưng Viên Minh.",
+      "dich": "Lửa đỏ hừng hực len qua khe hở cạnh gãi gỗ, ào ạt phóng tới, ngọn lửa liếm lên lưng, thiêu đốt dữ dội khiến hắn đau rát tới độ muốn ngưng thở.",
       "suggest": "Xích Hỏa đỏ ngầu xuyên qua khe hở, hung hăng phun ra, ngọn lửa vẫn cháy ở sau lưng hắn, mãnh liệt thiêu đốt làm cho hắn đau đến mức ngừng hô hấp.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "\"Phanh \"",
-      "dich": "Cảm giác được nhiệt độ cực cao từ trong miệng nó tỏa ra, Viên Minh dùng một tay nắm thật chặt trường kiếm, dự định làm hành động chống cự cuối cùng.",
+      "dich": "\"Phành!\"",
       "suggest": "\"Phanh!\"",
       "similarity": [
         [
@@ -962,39 +1007,42 @@
           0.25
         ],
         [
-          75,
+          74,
           0.35
         ],
         [
-          79,
+          77,
           0.25
         ],
         [
-          83,
+          81,
           0.25
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Sau lưng truyền đến cành cây đâm bị đụng gãy thanh âm, hỏa mãng vẫn như cũ không chút nào dừng lại hướng hắn đuổi theo, qua trong giây lát, tấm kia cái miệng lớn như chậu máu, liền đã gần trong gang tấc.",
-      "dich": "Đúng lúc này, hắn bỗng nhiên cảm nhận được thân thể mềm mại trong ngực khẽ động, tựa như Trần Uyển sắp tỉnh lại.",
+      "dich": "Tiếng cành cây bị đụng gãy từ sau lưng truyền đến, đồng nghĩa con hỏa mãng vẫn đang tiếp tục truy đuổi hắn, chỉ sau chốc lát, cái miệng to như chậu máu của nó đã tới sát ngay sau lưng.",
       "suggest": "Sau lưng truyền đến tiếng xé gió do cành cây đâm phải, cột lửa vẫn tiếp tục bay về phía hắn, chỉ trong chốc lát, cái miệng lớn như chậu máu kia đã gần như bị hút vào trong gang tấc.",
       "similarity": [
         [
-          76,
+          75,
           0.17
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Cảm thụ được bên trong truyền đến nóng rực nhiệt độ, Viên Minh một tay cầm thật chặt trường kiếm, dự định làm sau cùng chống cự.",
-      "dich": "\"Này!",
+      "dich": "Cảm giác được nhiệt độ cực cao từ trong miệng nó tỏa ra, Viên Minh dùng một tay nắm thật chặt trường kiếm, dự định làm hành động chống cự cuối cùng.",
       "suggest": "Cảm thụ được luồng khí nóng rực kia, Viên Minh một tay cầm trường kiếm, toan dùng nó để đối kháng lại.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Lúc này, hắn bỗng nhiên cảm giác được trong ngực thân thể mềm mại khẽ động, Trần Uyển tựa hồ chuyển tỉnh lại.",
-      "dich": "Không muốn chết thì mau mau nghĩ cách đi!\"",
+      "dich": "Đúng lúc này, hắn bỗng nhiên cảm nhận được thân thể mềm mại trong ngực khẽ động, tựa như Trần Uyển sắp tỉnh lại.",
       "suggest": "Lúc này, hắn bỗng nhiên cảm thấy một phần cơ thể mềm mại trong ngực khẽ động, Trần Uyển tựa hồ đã tỉnh lại.",
       "similarity": [
         [
@@ -1002,14 +1050,15 @@
           0.11
         ],
         [
-          78,
+          77,
           0.5
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Uy!",
-      "dich": "Viên Minh lớn tiếng gọi.",
+      "dich": "\"Này!",
       "suggest": "\"Uy!",
       "similarity": [
         [
@@ -1029,41 +1078,45 @@
           0.19
         ],
         [
-          79,
+          78,
           0.35
         ],
         [
-          83,
+          81,
           0.28
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Không muốn chết, liền tranh thủ thời gian nghĩ một chút biện pháp.\"",
-      "dich": "Trần Uyển lúc này đầu óc mê man, đồng tử mờ mịt mơ mang, có điều khi thấy tình cảnh phía sau thì con ngươi khẽ co lại, vô thức đưa tay sờ trong tay áo, xong ném thứ gì đó về phía cái miệng máu ở đằng sau.",
+      "dich": "Không muốn chết thì mau mau nghĩ cách đi!\"",
       "suggest": "Nếu không muốn chết, vậy tranh thủ thời gian nghĩ biện pháp.\"",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Viên Minh lớn tiếng kêu gọi nói.",
-      "dich": "\"Viu\"",
+      "dich": "Viên Minh lớn tiếng gọi.",
       "suggest": "Viên Minh lớn tiếng kêu gọi.",
       "similarity": [
         [
-          81,
+          80,
           0.51
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Lúc này Trần Uyển đầu não u ám, hai con ngươi mờ mịt mà mê ly, khi nhìn đến sau lưng một màn lúc, con ngươi có chút co vào, vô ý thức ở trong tay áo sờ một cái, hướng phía sau lưng trương miệng máu kia ném vào.",
-      "dich": "Chỉ thấy một viên đạn kim loại lớn bằng hạt đào bay ra, đồng thời đường vân trên vỏ đạn thình lình có ánh lửa sáng lên, bên trong nhìn như có vô số chấm lửa chớp động, nhoáng cái đã chui vào trong miệng hỏa mãng.",
+      "dich": "Trần Uyển lúc này đầu óc mê man, đồng tử mờ mịt mơ mang, có điều khi thấy tình cảnh phía sau thì con ngươi khẽ co lại, vô thức đưa tay sờ trong tay áo, xong ném thứ gì đó về phía cái miệng máu ở đằng sau.",
       "suggest": "Lúc này đầu óc Trần Uyển rất u ám, hai con ngươi mờ mịt, khi nhìn thấy một màn trước lưng, hai con ngươi có chút co giật, vô thức thò tay vào trong tay áo sờ một cái, sau đó ném cái máu ra phía sau lưng.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "\"Sưu \"",
-      "dich": "Chớp mắt tiếp theo, Trần Uyển co cả người lại, rúc vào trong ngực Viên Minh.",
+      "dich": "\"Viu\"",
       "suggest": "\"Sưu!\"",
       "similarity": [
         [
@@ -1087,107 +1140,109 @@
           0.25
         ],
         [
-          83,
+          82,
           0.25
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Chỉ gặp một cái lớn chừng hột đào kim loại viên đạn bay ra, trên đó khắc họa chạm rỗng hỏa diễm đường vân hơi sáng lên, bên trong tựa hồ có điểm điểm hỏa tinh chớp động, lóe lên một cái rồi biến mất bay vào hỏa mãng trong miệng.",
-      "dich": "Viên Minh còn chưa kịp phản ứng, sau lưng đã nghe có tiếng nổ ầm ầm vang lên.",
+      "dich": "Chỉ thấy một viên đạn kim loại lớn bằng hạt đào bay ra, đồng thời đường vân trên vỏ đạn thình lình có ánh lửa sáng lên, bên trong nhìn như có vô số chấm lửa chớp động, nhoáng cái đã chui vào trong miệng hỏa mãng.",
       "suggest": "Chỉ thấy một quả cầu lửa nhỏ cỡ hạt đào bay ra, trên đó khắc rõ từng đường vân sáng màu đỏ như có điểm sáng lóe lên, lóe lên một cái lập tức biến mất vào trong miệng hỏa mãng.",
       "similarity": [
         [
-          84,
+          83,
           0.22
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Tiếp theo một cái chớp mắt, Trần Uyển cả người rút vào Viên Minh trong ngực.",
-      "dich": "Một đoàn lửa cháy hừng hừng sau lưng hắn đột nhiên vỡ tung, xé cái đầu con hỏa mãng thành bảy, tám phần, đồng thời sóng lửa nóng rẫy thoáng xung kích lên lưng Viên Minh, đẩy hắn trượt như tên bắn xuống dưới.",
+      "dich": "Chớp mắt tiếp theo, Trần Uyển co cả người lại, rúc vào trong ngực Viên Minh.",
       "suggest": "Chỉ nháy mắt sau đó, cả người Trần Uyển liền nhập vào trong ngực Viên Minh.",
       "similarity": [
         [
-          85,
+          84,
           0.32
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh còn không có kịp phản ứng, sau lưng liền truyền đến \"Ầm ầm\" một tiếng nổ đùng.",
-      "dich": "Sóng lửa bạo tạc phía sau nhanh chóng tuôn tới cả hai đầu trên dưới hang động, lực trùng kích cường đại không ngừng tác động khiến động quật trong nháy mắt liên tiếp sụp đổ.",
+      "dich": "Viên Minh còn chưa kịp phản ứng, sau lưng đã nghe có tiếng nổ ầm ầm vang lên.",
       "suggest": "Viên Minh còn chưa kịp phản ứng, sau lưng đã nổ đùng một tiếng.",
       "similarity": [
         [
-          86,
+          85,
           0.54
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Một đoàn hừng hực hỏa diễm sau lưng hắn đột nhiên vỡ ra, đem hỏa mãng thủ cấp nổ chia năm xẻ bảy, nóng rực sóng lửa một lần trùng kích ở Viên Minh trên lưng, đẩy hắn hướng phía phía dưới giống như bay tuột xuống.",
-      "dich": "Đất đá rơi xuống phủ kín động quật, những miếng đất, mảnh đá vụn hóa thành dòng lũ cuồn cuộn chảy xuống, truy kích hai người Viên Minh.",
+      "dich": "Một đoàn lửa cháy hừng hừng sau lưng hắn đột nhiên vỡ tung, xé cái đầu con hỏa mãng thành bảy, tám phần, đồng thời sóng lửa nóng rẫy thoáng xung kích lên lưng Viên Minh, đẩy hắn trượt như tên bắn xuống dưới.",
       "suggest": "Một ngọn lửa hừng hực sau lưng hắn đột nhiên vỡ ra, một luồng lửa nóng rực bắn ra xung quanh Viên Minh, tiếp đó ngọn lửa nóng rực kia một lần nữa đánh lên lưng Viên Minh, đẩy hắn bay tuột xuống phía dưới.",
       "similarity": [
         [
-          87,
+          86,
           0.25
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Sau lưng bạo tạc sóng lửa hướng phía trên hang động hạ hai đầu tuôn ra, cường đại lực trùng kích chấn động không ngớt, động quật trong nháy mắt liên tiếp sụp đổ.",
-      "dich": "Hỗn hợp lực trùng kích cường đại và tiếng nổ lớn ở trong không gian đóng kín phát huy ra dao động cộng hưởng mạnh nhất, sóng xung kích từ đó vừa tác động tới Viên Minh liền khiến thức hải của hắn chấn động, mặt mũi tối sầm, lập tức ngất đi.",
+      "dich": "Sóng lửa bạo tạc phía sau nhanh chóng tuôn tới cả hai đầu trên dưới hang động, lực trùng kích cường đại không ngừng tác động khiến động quật trong nháy mắt liên tiếp sụp đổ.",
       "suggest": "Sóng lửa sau lưng nổi lên cuồn cuộn, mãnh liệt chấn động hang động phía dưới, động quật trong nháy mắt liên tiếp sụp đổ.",
       "similarity": [
         [
-          88,
+          87,
           0.29
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Rơi xuống đất đá phủ kín động quật, đất đá miếng đất hóa thành cuồn cuộn dòng lũ, hướng phía Viên Minh hai người truy kích mà tới.",
-      "dich": "Trần Uyển trong ngực hắn cũng không khá hơn chút nào, dưới tác động của sóng xung kích, lại lần nữa rơi vào hôn mê ...",
+      "dich": "Đất đá rơi xuống phủ kín động quật, những miếng đất, mảnh đá vụn hóa thành dòng lũ cuồn cuộn chảy xuống, truy kích hai người Viên Minh.",
       "suggest": "Dưới lớp đất đá che kín động quật, từng miếng đất tạo thành dòng chảy lũ, cuồn cuộn hướng về phía hai người Viên Minh truy kích.",
       "similarity": [
         [
-          89,
+          88,
           0.21
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Cường đại lực trùng kích hỗn hợp có bạo tạc oanh minh, ở phong bế không gian bên trong phát huy ra mạnh nhất dao động cộng hưởng, cỗ lực lượng kia va chạm Viên Minh trong nháy mắt, liền để hắn thức hải chấn động, mắt tối sầm lại, ngất đi.",
-      "dich": "________________________________________________",
+      "dich": "Hỗn hợp lực trùng kích cường đại và tiếng nổ lớn ở trong không gian đóng kín phát huy ra dao động cộng hưởng mạnh nhất, sóng xung kích từ đó vừa tác động tới Viên Minh liền khiến thức hải của hắn chấn động, mặt mũi tối sầm, lập tức ngất đi.",
       "suggest": "Lực lượng oanh tạc oanh tạc cùng với tiếng nổ lớn trùng kích không gian ở trong không gian phong bế phát ra những tiếng động cộng hưởng mạnh mẽ. Luồng lực lượng kia va chạm vào Viên Minh trong nháy mắt khiến hắn thức tỉnh, hai mắt tối sầm lại, ngất đi.",
       "similarity": [
         [
-          90,
+          89,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Trong ngực hắn Trần Uyển, cũng không có tốt hơn chỗ nào, đồng dạng đang trùng kích chấn động bên trong, lâm vào hôn mê...",
-      "dich": "Chú giải:",
+      "dich": "Trần Uyển trong ngực hắn cũng không khá hơn chút nào, dưới tác động của sóng xung kích, lại lần nữa rơi vào hôn mê ...",
       "suggest": "Trần Uyển ở trong ngực hắn cũng không tốt hơn chút nào, toàn thân cũng bị chấn động kịch liệt, sau đó hôn mê bất tỉnh.",
       "similarity": [
         [
-          91,
+          90,
           0.23
         ]
-      ]
-    },
-    {
-      "convert": "(Minh trâu bò quá, khoan thành động luon, hắc hắc)",
-      "dich": "Tên chương là toản động (钻洞), trong đó Toản (钻) là một từ có thể hiểu là một thứ đi xuyên qua một thứ khác, cách dùng phổ biến nhất của nó là để tả việc khoan tường, khoan gỗ... Mũi khoan sẽ đi vào vật liệu cần khoan, kéo ra 1 đống thứ và tạo thành một cái lỗ thẳng, sâu nữa.",
-      "suggest": "(Minh trâu bò quá, không thành công động đậy chút nào, ha ha)",
-      "similarity": []
-    },
-    {
-      "dich": "Ở chương này Vong Ngữ không dùng Nhập động (vào động) và dùng Toản động bởi Toản nó thể hiện hết được nội dung chương, vào động, trượt qua, không quên phá động bung bét, hơn thế nữa động này là dạng ống xuyên thẳng xuống, rất giống lỗ khoan."
+      ],
+      "approved": true
     }
-  ]
+  ],
+  "currentWorkingLine": 90,
+  "changed": true
 }
