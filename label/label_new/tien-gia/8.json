@@ -1,0 +1,969 @@
+{
+  "currentLine": 80,
+  "next": {
+    "id": 9,
+    "title": "Chương 9: Huyết Khí Pháp"
+  },
+  "previous": {
+    "id": 7,
+    "title": "Chương 7: No bụng"
+  },
+  "title": {
+    "convert": "Chương 8",
+    "dich": "Chương 8"
+  },
+  "lines": [
+    {
+      "convert": "Ngày thứ ba, sáng sớm. Một con vượn trắng trên vai khiêng một bó trắng hếu xương thú, trên thân xoải bước lấy một con túi da thú túi, thân hình như gió, tại núi rừng bên trong bay đãng mà đi, nhảy lên liền đem gần mười trượng.",
+      "dich": "Sáng sớm ngày thứ ba, một con vượn trắng khiêng một bó xương thú trắng hếu trên vai, treo một cái túi da thú lớn bên người, thân hình như gió, bay lượn giữa rừng núi, mỗi lần tung mình nhảy xa gần mười trượng.",
+      "suggest": "Sáng sớm. Một con vượn trắng cõng một bó xương thú trắng hếu, trên thân quấn một cái túi da thú, thân hình như gió, bay đãng trong núi rừng, nhảy lên liền gần mười trượng.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh dựa theo bản thân lúc đến tuyến đường, bắt đầu chạy trở về.",
+      "dich": "Viên Minh chiếu theo tuyến đường mình đã đi tới đây, bắt đầu hành trình trở về.",
+      "suggest": "Viên Minh dựa theo tuyến đường mình đến, bắt đầu chạy trở về.",
+      "similarity": [
+        [
+          1,
+          0.25
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tới gần buổi trưa, hắn liền trở về lúc trước bị đầu kia gấu đen tập kích địa phương.",
+      "dich": "Gần đến buổi trưa, hắn đã trở về chỗ bị con gấu đen tập kích lúc trước.",
+      "suggest": "Đến gần trưa, hắn trở về chỗ bị đầu gấu đen kia tập kích.",
+      "similarity": [
+        [
+          2,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Gấu đen loại này dã thú, lãnh địa ý thức rất mạnh, bình thường hiếm khi rời khỏi nguyên bản sinh hoạt sinh sôi địa phương, mà Viên Minh sở dĩ muốn về tới đây, là bởi vì hắn muốn săn giết mục tiêu, chính là đầu kia gấu đen.",
+      "dich": "Loại dã thú như gấu đen này có ý thức lãnh thổ rất mạnh, bình thường rất ít khi rời khỏi khu vực sinh sống. Viên Minh muốn quay lại nơi này bởi mục tiêu săn giết của hắn chính là con gấu kia.",
+      "suggest": "Loại dã thú này, ý thức lãnh địa rất mạnh, bình thường hiếm khi rời khỏi nơi sinh sống nguyên sơ, sinh sống, mà Viên Minh muốn trở về tới đây, là bởi vì hắn muốn săn giết mục tiêu chính là đầu gấu đen kia.",
+      "similarity": [
+        [
+          3,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đến lúc đó về sau, Viên Minh từ trên thân cởi xuống bó kia Thanh Lang xương thú, từ bên trong lấy ra một cây tráng kiện xương ống chân, hai tay nắm chặt, bắt đầu ở một chỗ sườn dốc phía dưới đào hố.",
+      "dich": "Sau khi tới nơi, Viên Minh tháo bó xương trên ngươi xuống, lấy một khúc xương ống chân lớn ra rồi dùng hai tay nắm chắc, bắt đầu đào một cái hố ở chỗ sườn dốc.",
+      "suggest": "Đến lúc đó, Viên Minh mới cởi bỏ bộ xương thú còn sót lại kia ra, lấy ra một cái chân bê tông cốt thép, hai tay nắm chặt, bắt đầu đào một cái hố phía dưới.",
+      "similarity": [
+        [
+          4,
+          0.22
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cứ việc Viên Minh lực lượng đã khôi phục không ít, đối bộ thân thể này cũng đã cơ bản thích ứng, nhưng hắn như cũ không có muốn cùng gấu đen chính diện chém giết dự định, mà là định dùng cạm bẫy loại này càng thêm biện pháp ổn thỏa.",
+      "dich": "Dù Viên Minh đã khôi phục được không ít sức lực, lại đã cơ bản thích ứng với bộ dạng thân thể này, nhưng hắn không có ý định đánh trực diện với con gấu, mà tính dùng phương pháp an toàn hơn là dùng cạm bẫy.",
+      "suggest": "Cứ việc lực lượng Viên Minh đã khôi phục không ít, đối với thân thể này cũng đã tương đối thích ứng với việc chém giết của gấu đen, nhưng hắn vẫn như cũ không định dùng biện pháp phòng bị thêm nữa.",
+      "similarity": [
+        [
+          5,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trong núi rừng thổ chất xốp, chỉ chốc lát sau, Viên Minh liền đào ra một cái đến hai trượng sâu, phương viên bất quá sáu thước hố lõm.",
+      "dich": "Đất rừng này có kết cấu tơi xốp nên chỉ một lúc này, Viên Minh đã đào được một cái hố bẫy sâu hai trượng, dài rộng chỉ sáu thước.",
+      "suggest": "Đất đai trong núi rừng khá xốp, chỉ chốc lát sau, Viên Minh đã đào được một hố sâu hai trượng, phương viên chỉ khoảng sáu thước.",
+      "similarity": [
+        [
+          6,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn tại đáy hố lại đào ra rất nhiều hố nhỏ, đem những cái kia Thanh Lang xương sườn, một cây một cây ngược lại cắm vào, đem thổ nện vững chắc.",
+      "dich": "Hắn đào thêm nhiều lỗ nhỏ ở đáy hố, tiếp đó cắm từng cái, từng cái xương sườn sói xám xuống, xong lại lèn đất cho chắc chắn.",
+      "suggest": "Đáy hố lại đào ra rất nhiều hố nhỏ, đục đẽo những xương sườn của Thanh Lang, một cây ngược lại cắm vào, làm cho nền đất nện rất chắc chắn.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Những cái kia cắm ngược lấy xương sườn, đỉnh đã để Viên Minh mài đến lanh lảnh, sắc bén tựa như mũi đao.",
+      "dich": "Những cái xương sườn này cái nào cũng đã được Viên Minh mài kỹ, đầu bén nhọn như mũi đao.",
+      "suggest": "Những khúc xương sườn bị Viên Minh gọt ngược, đỉnh đã khiến Viên Minh mài cho lanh lảnh, sắc bén như mũi đao vậy.",
+      "similarity": [
+        [
+          8,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Sau đó, hắn lại tìm đến mấy cây cành cây khô, đan xen hoành khoác lên hố lõm phía trên, từ chung quanh sưu tập chút lá cây khô ôm lấy, đều đều địa rơi tại phía trên, đem cửa hang che đậy chặt chẽ.",
+      "dich": "Tiếp đó, hắn lại tìm lấy mấy cành cây khô, đem đan thành vỉ rồi đậy lên miệng hố bẫy, xong lại đi vơ thêm một đống lá khô, đất vụn đem rắc lên trên để che kín hoàn toàn miệng hố.",
+      "suggest": "Sau đó, hắn tìm đến mấy cành cây khô, đan xen vào nhau, đem chung quanh lấy ra vài cành khô, đem ra quấn quanh cái lỗ lõm, che dấu hành tung của cửa hang.",
+      "similarity": [
+        [
+          9,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Làm tốt những này về sau, Viên Minh lại đem một khối Thanh Lang xương bả vai, dùng cây mây cột vào trước ngực mình, giống như là hộ tâm kính đồng dạng bảo vệ tim, lập tức nhặt lên kia hai cây bị hắn mài đến giống đoản thương đồng dạng xương ống chân, nắm ở trong tay.",
+      "dich": "Cẩn thận làm xong mấy thứ này, Viên Minh lấy một miếng xương vai sói, dùng dây leo cột nó trước ngực mình, dùng như miếng hộ tâm bảo vệ phần ngực, ngay tiếp đó nhặt hai khúc xương ống đã được hắn mài nhìn như đoản thương lên, nắm chắc trong tay.",
+      "suggest": "Làm tốt những việc này, Viên Minh lại lấy một khối xương vai nhỏ của Thanh Lang cột vào trước ngực, giống như là hộ tâm kính đồng dạng bảo vệ tim, lập tức nhặt hai ống chân bị hắn mài đi như những vết thương cũ nát, cầm lấy trong tay.",
+      "similarity": [
+        [
+          10,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đợi đã lâu, Viên Minh đều không đợi được gấu đen xuất hiện.",
+      "dich": "Đợi một lúc lâu, Viên Minh vẫn chưa thấy gấu đen xuất hiện.",
+      "suggest": "Đợi đã lâu, Viên Minh không đợi được gấu đen xuất hiện.",
+      "similarity": [
+        [
+          11,
+          0.42
+        ],
+        [
+          62,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn sau một phen suy tính, lập tức dùng một cây màu trắng Cốt Thương, hướng tay mình tâm một đâm.",
+      "dich": "Hắn tính toán một chút, xong lập tức lấy một cây cốt thương cứa một đường lên gan bàn tay.",
+      "suggest": "Sau một phen suy tính, lập tức dùng một cây Cốt Thương màu trắng đâm vào lòng bàn tay mình.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Nhìn thấy lòng bàn tay có máu tươi toát ra về sau, Viên Minh lập tức đem máu tươi hướng phía cạm bẫy bốn phía trên cây, đều lau một chút, để mùi máu tươi tận khả năng địa khuếch tán ra tới.",
+      "dich": "Thấy máu tươi từ lòng bàn tay tứa ra, Viên Minh lập tức đi bôi máu tươi lên trên những cái cây bốn xung quanh hố bẫy, cây nào cũng bôi một ít, tận lực để mùi máu tươi tỏa ra hết cỡ.",
+      "suggest": "Thấy trong lòng bàn tay có máu tươi, Viên Minh lập tức lau sạch sẽ những vết máu đọng lại trên cây khô ở xung quanh, để mùi máu tươi tận khả năng khuếch tán ra xung quanh.",
+      "similarity": [
+        [
+          13,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Sau đó, hắn mới từ trên mặt đất bắt chút bùn đất, lung tung bôi lên vết thương một chút, sau đó nắm chặt bạch cốt đoản thương, yên lặng chờ lấy gấu đen mắc câu.",
+      "dich": "Xong xuôi, hắn mới bốc ít đất lên, xoa qua loa chỗ rách ở lòng bàn tay rồi cầm lấy cây cốt thương, yên lặng chờ gấu đen tới.",
+      "suggest": "Sau đó, hắn nhặt một ít bùn đất trên mặt đất, cẩn thận bôi lên các vết thương, sau đó mới cầm lấy cái câu, khóa chặt miệng vết thương, yên lặng chờ đợi con gấu đen mắc câu.",
+      "similarity": [
+        [
+          14,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh leo lên một gốc cây già, đợi không bao lâu, trong núi rừng liền truyền đến một hồi cỏ cây run run thanh âm, tới kèm theo, vẫn còn một hồi nặng nề tiếng thở dốc.",
+      "dich": "Viên Minh trèo lên một cây cổ thụ, chờ chưa được bao lâu, một hồi âm thanh cây rừng rung động truyền tới, kèm theo đó còn có một hồi những tiếng thở dốc nặng nề.",
+      "suggest": "Viên Minh trèo lên một gốc cây già, đợi không bao lâu trong núi rừng truyền đến từng hồi cỏ cây run rẩy, đi kèm theo đó là tiếng thở dốc nặng nề.",
+      "similarity": [
+        [
+          15,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn lần theo thanh âm nhìn lại, rất nhanh liền thấy đầu kia gấu đen thân ảnh.",
+      "dich": "Hắn nương theo tiếng động nhìn lại, lập tức thấy bóng dáng con gấu kia.",
+      "suggest": "Hắn quay đầu lại nhìn, rất nhanh đã thấy thân ảnh đầu gấu đen kia.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Chỉ gặp một chỗ lùm cây bị gấu đen thân thể cao lớn xông mở, bước chân lảo đảo hướng lấy bên này lao đến.",
+      "dich": "Chỉ thấy con gấu to lớn rẽ đôi một lùm cây, lảo đảo bước về phía bên này.",
+      "suggest": "Chỉ thấy một thân thể to lớn của gấu đen xông lên, bước chân lảo đảo hướng về phía này.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"A, nó giống như thụ thương rồi?\"",
+      "dich": "\"Ồ, hình như nó bị thương?\"",
+      "suggest": "\"A, hình như nó bị thụ thương rồi?\"",
+      "similarity": [
+        [
+          18,
+          0.39
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh thấy thế, lông mày không khỏi vi túc.",
+      "dich": "Viên Minh thấy cảnh này, khẽ nhíu mày.",
+      "suggest": "Viên Minh thấy thế, hai hàng lông mày không khỏi nhíu chặt lại.",
+      "similarity": [
+        [
+          19,
+          0.12
+        ],
+        [
+          21,
+          0.2
+        ],
+        [
+          47,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn quan sát tỉ mỉ gấu đen một lát, lại không nhìn thấy phía trên người có cái gì rõ ràng vết thương, nhưng từ gấu đen chạy trạng thái đến xem, lại rõ ràng hơi khác thường.",
+      "dich": "Hắn cẩn thận đánh giá con gấu một lát nhưng không phát hiện vết thương nào rõ ràng trên người nó, nhưng nhìn tình trạng chạy trốn của nó thì rõ ràng có điều bất thường.",
+      "suggest": "Hắn quan sát cẩn thận gấu đen một lát, lại không nhìn thấy trên người có vết thương nào rõ ràng, nhưng từ trạng thái gấu đen chạy đến xem thì rõ ràng có chút khác thường.",
+      "similarity": [
+        [
+          20,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Không phải là trúng độc?\"",
+      "dich": "\"Không lẽ là trúng độc?\"",
+      "suggest": "- Không phải là trúng độc?",
+      "similarity": [
+        [
+          21,
+          0.37
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh trong lòng nghi hoặc.",
+      "dich": "Viên Minh thầm nghi hoặc.",
+      "suggest": "Trong lòng Viên Minh nghi hoặc.",
+      "similarity": [
+        [
+          22,
+          0.32
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nếu thật sự là như thế, vậy thật đúng là trời ban cơ hội tốt.",
+      "dich": "Nếu đúng là như thế thì đây thực là cơ hội trời ban.",
+      "suggest": "Nếu thực sự là như thế, vậy thật đúng là cơ hội trơi ban cho hắn.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh không xác thực thư bản thân có như thế tốt vận khí, không có tùy tiện xuất thủ công kích, chỉ là yên lặng chờ lấy gấu đen rơi vào cạm bẫy.",
+      "dich": "Nhưng Viên Minh không tin mình tốt số như vậy nên không có tùy tiện ra tay tấn công, chỉ yên lặng chờ con gấu rơi vào cạm bẫy.",
+      "suggest": "Viên Minh không xác thực là có vận khí tốt như thế, không tùy tiện ra tay công kích, chỉ yên lặng chờ đợi con gấu đen rơi vào bẫy.",
+      "similarity": [
+        [
+          24,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chỉ gặp gấu đen kia đi vào bên này, đối trên cây vết máu từng cái ngửi đi, bỗng nhiên ngửa đầu phát ra một tiếng nổi giận gầm rú, trong hai mắt của nó hiện ra chút không quá bình thường màu đỏ, phảng phất bịt kín một tầng che lấp.",
+      "dich": "Chỉ thấy con gấu kia đi qua bên này, ngửi từng vết máu trên cây rồi đột nhiên ngửa đầu gầm rú giận dữ, trong đôi mắt nó đỏ ngầu của nó lộ ra chút bất bình thường, tựa như bên trên có một lớp phủ mờ.",
+      "suggest": "Chỉ thấy khi gã gấu đen kia đi vào bên này, ngửi qua từng cái vết máu trên cây, bỗng nhiên ngửa đầu gầm lên một tiếng giận dữ, hai mắt trong hai mắt nó hiện lên một màu đỏ không quá bình thường, dường như đã được bịt kín một tầng.",
+      "similarity": [
+        [
+          25,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Gấu đen tả hữu tìm một vòng, không có phát hiện con mồi, bước chân một mực dán cạm bẫy biên giới, có thể hết lần này tới lần khác liền tổng chênh lệch như vậy một chút, từ đầu đến cuối không có rơi xuống.",
+      "dich": "Gấu đen tìm khắp bốn phương tám hướng một vòng mà không phát hiện con mồi, bước chân đảo quanh rìa hố bẫy nhưng hết lần này tới lần khác đều thiếu một xíu, thủy chung không bị lọt xuống.",
+      "suggest": "Đầu Gấu đen tìm quanh một vòng, không phát hiện được con mồi, bước chân vẫn giẫm mạnh vào vách tường sương mù, có thê hết lần này tới lần khác vẫn không tìm được tung tích.",
+      "similarity": [
+        [
+          26,
+          0.26
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh trên tàng cây thấy lo lắng suông, chờ giây lát về sau, rốt cục quyết định động thủ.",
+      "dich": "Viên Minh trên cây thấy mình đã lo thừa, chờ thêm giây lát, cuối cùng quyết định động thủ.",
+      "suggest": "Viên Minh thấy lo lắng suông sẽ không có chuyện gì, sau giây lát cuối cùng mới quyết định động thủ.",
+      "similarity": [
+        [
+          27,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một cái tay của hắn trên cánh tay quấn lấy một đầu từ trên cây rủ xuống cây mây, một cái tay khác nắm chặt một cây bạch cốt đoản thương, thân hình nhảy xuống cây già, tiếp lấy cây mây dẫn dắt, hướng phía gấu đen đu qua.",
+      "dich": "Một tay hắn tóm một dây leo rủ xuống dọc thân cây, tay kia nắm chặt cốt thương, tung mình nhảy xuống dưới, đu dây lướt về phía con gấu.",
+      "suggest": "Một tay hắn quấn một cây mây rủ xuống từ trên cây, tay kia cầm một cây đoản thương từ trên cây xuống, thân hình nhảy xuống khỏi cây mây, tiếp đó thân hình nhảy xuống khỏi cây mây, tiếp đó hướng về phía gấu đen đu qua.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Đi xuống cho ta.\"",
+      "dich": "\"Xuống cho ta.\"",
+      "suggest": "\"Đi xuống cho ta.\"",
+      "similarity": [
+        [
+          29,
+          0.45
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh ở trong lòng quát to một tiếng, hai chân như là hai cây xô cửa trụ, va chạm hướng về phía gấu đen.",
+      "dich": "Viên Minh thầm nói một tiếng quyết tâm, hai chân như hai cây tông cửa, đánh về phía gấu đen.",
+      "suggest": "Viên Minh quát to một tiếng, hai chân như hai cái xô, va chạm với gấu đen.",
+      "similarity": [
+        [
+          30,
+          0.25
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đúng lúc này, gấu đen cũng nhạy cảm đã nhận ra đến từ sau lưng nguy hiểm, thân hình đột nhiên thay đổi, khi nhìn đến Viên Minh trong nháy mắt, hung tính đại phát, hai con tay gấu hướng phía Viên Minh liền mãnh vỗ tới.",
+      "dich": "Đúng lúc này, con gấu cũng nhạy cảm phát hiện nguy hiểm sau lưng, lập tức xoay phắt người, mắt vừa thấy Viên Minh, hung tính đại phát, hai chân trước mãnh liệt vồ về phía Viên Minh.",
+      "suggest": "Đúng lúc này, gấu đen cũng nhận ra nguy hiểm từ sau lưng, thân hình đột nhiên thay đổi, trong nháy mắt đã thấy nguy hiểm đến từ sau lưng, thân hình đột nhiên thay đổi, trong nháy mắt đã hung dữ đại phát, hai con gấu vỗ mạnh về phía Viên Minh.",
+      "similarity": [
+        [
+          31,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Phanh\" một thanh âm vang lên.",
+      "dich": "Một tiếng \"rầm\" vang lên.",
+      "suggest": "\"Bịch!\"",
+      "similarity": [
+        [
+          37,
+          0.25
+        ],
+        [
+          41,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh hai chân đạp ở gấu đen trên song chưởng, hai cổ lực lượng cường đại phản xung, đầu tiên là đem Viên Minh đâm đến bay ngược trở về, sau cũng đem gấu đen đâm đến một cái lảo đảo.",
+      "dich": "Hai chân Viên Minh đạp lên song chưởng con gấu, hai luồng phản lực to lớn xuất hiện, trước khiến Viên Minh bay ngược trở lại, sau khiến gấu đen lảo đảo một cái.",
+      "suggest": "Hai chân Viên Minh giẫm mạnh lên song chưởng của gấu đen, hai luồng sức mạnh phản chấn mạnh mẽ phản xung, đầu tiên là đánh cho Viên Minh bay ngược trở về, sau đó lại đánh cho gấu đen lăn mấy vòng.",
+      "similarity": [
+        [
+          33,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Gấu đen lui lại một bước, phần sau cái gót chân đã giẫm tại Viên Minh làm cạm bẫy trên nhánh cây, nhưng lại liền ngừng lại lui ra phía sau chi thế, quả thực là không có rơi xuống.",
+      "dich": "Con gấu lui lại một bước, gót chân dẫm nát cành khô mà Viên Minh dùng làm cạm bẫy nhưng nó mạnh mẽ dừng thế lui lại, rốt cuộc vẫn chưa rớt xuống.",
+      "suggest": "Đầu Gấu đen lui lại một bước, phần sau dẫm mạnh lên nhánh cây Viên Minh làm nhiệm vụ, nhưng lại ngừng lại ở phía sau, quả thực không rơi xuống.",
+      "similarity": [
+        [
+          34,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngược lại là Viên Minh tựa như nhảy dây, bị đụng bay mở về sau, lại lần nữa đãng trở về.",
+      "dich": "Mà Viên Minh như đu xích, sau khi bị đánh bay ra, lại tiếp tục đu trở lại.",
+      "suggest": "Ngược lại Viên Minh giống như nhảy dây, bị quăng ra ngoài, lại một lần nữa chìm vào trong biển lửa.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Gấu đen nhìn xem Viên Minh lại xông về bản thân, lần này nhưng không có lại đi đập hắn, mà là chủ động tiến về phía trước một bước, hai trảo vung lên hướng phía hai chân của hắn bắt đi lên.",
+      "dich": "Gấu đen thấy Viên Minh xông về phía mình, lần này nó không tiếp tục tính chộp lấy hắn, mà chủ động tiến về trước một bước, đưa hai bộ móng vuốt ra toan tóm hai chân hắn.",
+      "suggest": "Con gấu đen nhìn Viên Minh xông về phía mình, lần này không có đập phá, mà chủ động tiến lên phía trước một bước, hai nắm đấm vung lên rồi bắt lấy hai chân hắn.",
+      "similarity": [
+        [
+          36,
+          0.4
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh sao có thể như ước nguyện của hắn, trong tay cây kia bạch cốt đoản thương, lập tức tụ lực hướng phía ném ném ra ngoài.",
+      "dich": "Viên Minh sao có thể để nó được như ý, tức tốc tụ lực, ném mạnh cây cây cốt thương trong tay ra.",
+      "suggest": "Viên Minh sao có thể làm như ý nguyện của hắn, đoản thương màu trắng trong tay gã lập tức tập trung ném ra ngoài.",
+      "similarity": [
+        [
+          37,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Gấu đen gặp kia đoản thương hướng phía bản thân mặt mà đến, lúc này vung trảo đi đón đỡ, lại không có thể ngăn cản, để phía dán cánh tay của mình trượt đi tới.",
+      "dich": "Con gấu thấy cây đoản thương lao về thẳng về phía mặt mình, lập tức vung trảo lên đỡ nhưng không kịp, để nó trượt mất qua cánh tay.",
+      "suggest": "Con gấu đen thấy đoản thương của mình bay về phía mình, lúc này liền vung trảo lên đón đỡ, nhưng không thể ngăn cản được, để cho cánh tay đang dán lên cánh tay mình trượt đi.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Phốc\" một thanh âm vang lên.",
+      "dich": "\"Phập\" một tiếng.",
+      "suggest": "\"Bịch!\" một âm thanh vang lên.",
+      "similarity": [
+        [
+          33,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đoản thương trực tiếp đâm vào gấu đen hốc mắt, phun tung toé khởi một đoàn huyết hoa.",
+      "dich": "Cây đoản thương của Viên Minh đâm thẳng vào hốc mắt con gấu, tóe ra một đoàn hoa máu.",
+      "suggest": "Đoản thương Viên Minh đâm thẳng vào hốc mắt đen của gã, bắn ra một đoàn huyết hoa.",
+      "similarity": [
+        [
+          40,
+          0.38
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Rống...\"",
+      "dich": "\"Rống ...\"",
+      "suggest": "\"Rống ...\"",
+      "similarity": [
+        [
+          30,
+          0.18
+        ],
+        [
+          40,
+          0.11
+        ],
+        [
+          41,
+          0.13
+        ],
+        [
+          41,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Gấu đen bị đau, trong miệng phát ra gầm lên giận dữ.",
+      "dich": "Gấu đen bị đòn đau, giận dữ gầm lên.",
+      "suggest": "Gấu đen bị đau, miệng gầm lên giận dữ.",
+      "similarity": [
+        [
+          42,
+          0.24
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này, Viên Minh cũng đã lần nữa vọt tới phụ cận, hai chân hung hăng đạp ở bộ ngực của nó.",
+      "dich": "Viên Minh lúc này đã một lần nữa vọt tới, đưa hai chân hung hăng đạp mạnh lên ngực nó.",
+      "suggest": "Lúc này, Viên Minh cũng đã vọt tới gần, hai chân hung hăng đạp lên ngực của nó.",
+      "similarity": [
+        [
+          43,
+          0.26
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Gấu đen vẫn không có thể từ con mắt kịch liệt đau nhức bên trong kịp phản ứng, liền đã mất đi cân bằng, hướng về sau ngã chổng vó xuống.",
+      "dich": "Gấu đen còn chưa kịp thoát khỏi con đau nơi hốc mắt, không kịp phản ứng đã bị đạp mất thăng bằng, ngã ngửa về sau.",
+      "suggest": "Con gấu đen vẫn không kịp phản ứng kịp thời, đã mất đi sự cân bằng, ngã chổng vó xuống đất.",
+      "similarity": [
+        [
+          44,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Răng rắc \"",
+      "dich": "\"Rắc rắc ...\"",
+      "suggest": "\"Răng rắc!\"",
+      "similarity": [
+        [
+          42,
+          0.18
+        ],
+        [
+          45,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cạm bẫy nhánh cây đứt gãy thanh âm vang lên, gấu đen nện mặc vào phía trên đất mặt cùng lá khô, rơi rơi xuống.",
+      "dich": "Tiếng cành cây gãy vang lên, gấu đen ngã xuyên qua đám đất phủ trộn lẫn lá khô, rớt xuống hố.",
+      "suggest": "Thanh âm đứt gãy của nhánh cây vang lên, nó đập mặt vào mặt đất và lá khô rơi xuống.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Ngay sau đó, liền lại là một tiếng chấn thiên gào thét, thanh âm lại trở nên vô cùng thê lương, tựa như kêu rên.",
+      "dich": "Ngay tiếp đó là một một tiếng gào rú vang trời, thanh âm lại trở nên vô cùng thê lượng, nghe tựa như kêu rên.",
+      "suggest": "Ngay tiếp đó, lại là một tiếng thét kinh thiên, thanh âm lại trở nên thê lương, giống như đang kêu rên.",
+      "similarity": [
+        [
+          47,
+          0.29
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nhảy xuống mặt đất, vội vàng đi vào hố lõm bên cạnh xem xét, chỉ thấy gấu đen kia chính ngửa mặt nằm đổ vào bên trong, hai đầu mu bàn tay cùng một đầu đùi, đều đáy chăn hạ chôn lấy bạch cốt gai nhọn xuyên thấu.",
+      "dich": "Viên Minh nhảy xuống đất, tức tốc đi tới cạnh hố kiểm tra, chỉ thấy con gấu đang ngửa mặt nằm trong hố, hai bàn tay và một đùi cùng bị xương trắng nhọn hoắt xuyên qua.",
+      "suggest": "Viên Minh nhảy xuống mặt đất, vội vàng đi tới bên cạnh hố lõm quan sát, chỉ thấy con gấu đen kia đang nằm ở trên mặt đất, hai bàn tay và một đùi đều được giấu kín dưới lớp chăn.",
+      "similarity": [
+        [
+          48,
+          0.3
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Phía ngực cùng nơi bụng, thì đều có một chỗ vết thương, chỉ lộ ra một chút xíu màu trắng xương trắng.",
+      "dich": "Ngực và bụng dưới của nó mỗi chỗ có một vết thương để lộ ra chút xương trắng.",
+      "suggest": "Phía trước ngực và phía sau đều có một vết thương, chỉ lộ ra một chút xương trắng.",
+      "similarity": [
+        [
+          49,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Gấu đen miệng mũi tràn ra máu tươi, còn tại mãnh liệt giãy dụa, trong miệng gầm nhẹ không ngừng.",
+      "dich": "Gấu đen lúc này miệng mũi tràn ra máu tươi nhưng nó vẫn mãnh liệt giãy dụa, miệng không ngừng gầm nhẹ.",
+      "suggest": "Miệng gấu đen tràn đầy máu tươi, đang giãy dụa mãnh liệt, miệng gầm nhẹ không ngừng.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh thấy thế, quay người trở lại trên cây, lấy một căn khác bạch cốt đoản thương, dự định lập tức kết thúc gấu đen thống khổ.",
+      "dich": "Viên Minh thấy thế, quay người trở lại trên cây, lấy một cây đoản thương bằng xương khác xuống, tính lập tức kết thúc sự thống khổ cho nó.",
+      "suggest": "Viên Minh thấy thế, quay người trở lại trên cây, lấy ra một căn cốt đoản thương màu trắng, dự định lập tức chấm dứt thống khổ của gấu đen.",
+      "similarity": [
+        [
+          51,
+          0.43
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Có thể chờ hắn trở lại hố lõm biên giới lúc, lại đột nhiên mắt choáng váng.",
+      "dich": "Nhưng khi hắn tới rìa hố bẫy lại đột nhiên trợn tròn mắt.",
+      "suggest": "Nhưng khi hắn trở lại bên bờ hố lõm, đột nhiên mắt choáng váng.",
+      "similarity": [
+        [
+          52,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Địa đáy hố hạ lộn xộn không chịu nổi, từng cây bạch cốt gai nhọn ngã trái ngã phải tản một chỗ, phía trên rõ ràng vẫn còn đỏ thắm vết máu, có thể hết lần này tới lần khác đầu kia gấu đen, nhưng không thấy tung tích.",
+      "dich": "Tình cảnh dưới hố vô cùng lộn xộn, từng cây xương trắng nghiêng trái đổ phải, trên nền đất rõ ràng còn vết máu đỏ thẫm, nhưng con gấu kia lại không thấy đâu nữa.",
+      "suggest": "Dưới hố hỗn tạp không chịu nổi, từng cái gai nhọn màu trắng đâm phải ngã phải, mặt trên rõ ràng vẫn còn vết máu, có thể hết lần này tới lần khác đầu gấu đen kia vẫn không thấy đâu.",
+      "similarity": [
+        [
+          27,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Không đợi Viên Minh hiểu rõ là chuyện gì xảy ra, phía sau hắn liền bỗng nhiên gió táp đại tác.",
+      "dich": "Không đợi Viên Minh kịp hiểu chuyện gì đã xảy ra, sau lưng hắn bỗng có tiếng gió thổi mạnh.",
+      "suggest": "Không đợi Viên Minh hiểu rõ là chuyện gì xảy ra, phía sau gã bỗng nhiên có một cơn gió lốc xoáy tới.",
+      "similarity": [
+        [
+          54,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh thầm nghĩ trong lòng một tiếng \"Không tốt\", chợt sau lưng liền lọt vào một cái trọng kích, cả người giống như là bị thứ gì trọng chùy một quyền, cho nện đến hướng phía trước nhào bay ra ngoài.",
+      "dich": "Viên Minh thầm kêu một tiếng 'Không ổn', thắt lưng thình lình bị trúng một đòn nặng, cả người như bị thứ gì đó đấm mạnh một cú, đánh văng hắn về phía trước.",
+      "suggest": "Viên Minh thầm nghĩ trong lòng một tiếng \"Không tốt\", sau đó lưng bỗng nhiên bị một trọng kích, cả người giống như bị một quyền nặng nề gì đó đánh cho văng ra ngoài.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Thân hình của hắn vượt qua hố lõm, đâm vào đối diện xa ba, bốn trượng trên một thân cây, mới rớt xuống.",
+      "dich": "Thân hình hắn lướt qua hố bẫy, đụng vào một thân cây cách đó ba, bốn trượng mới dừng lại.",
+      "suggest": "Thân hình của hắn vượt qua một hố lõm, đâm vào một thân cây cách đó ba bốn trượng, sau đó mới rớt xuống.",
+      "similarity": [
+        [
+          56,
+          0.29
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh cố nén đau đớn, giãy dụa lấy bò lên quay người, còn không có thấy rõ sau lưng tình trạng, trước mắt liền có một đạo hắc ảnh \"Ba\" địa một lần hiện lên, trên gương mặt lập tức truyền đến một hồi nóng bỏng cảm giác đau.",
+      "dich": "Viên Minh cố nén đau đớn, lồm cồm xoay người đứng dậy, nhưng khi còn chưa kịp nhìn rõ tình hình, trước mắt đã có một bóng đen vụt hiện, ngay tiếp đó, một cảm giác đau rát từ gương mặt truyền tới.",
+      "suggest": "Viên Minh cố nén đau đớn, cố gắng gượng đứng dậy, quay người lại, lúc này hắn không còn thấy rõ tình trạng của lưng mình nữa, trước mắt bỗng nhiên xuất hiện một bóng người \"ba\" hiện lên, trên gương mặt lập tức truyền đến cảm giác đau nhức nóng bỏng.",
+      "similarity": [
+        [
+          57,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn giơ tay gạt một cái, trên mặt máu me đầm đìa, lại hướng phía trước nhìn lại lúc, không khỏi ngây dại.",
+      "dich": "Hắn đưa tay lau máu tươi đầm đìa trên mặt, đưa mắt nhìn về phía trước, tức thì không khỏi ngây dại.",
+      "suggest": "Hắn vung tay gạt một cái, máu me đầm đìa, muốn nhìn kỹ phía trước một chút, nhưng lúc này lại không kìm được mà ngây dại ra.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Chỉ gặp tại trước người hắn bảy tám trượng bên ngoài trên cây, thình lình rủ xuống lấy một cái... Một cái khó mà hình dung quái vật.",
+      "dich": "Chỉ thấy trên một gốc cây cách hắn khoảng bảy tám trượng, rõ ràng có treo một cái ... một con quái vật với bộ dạng khó mà miêu tả.",
+      "suggest": "Chỉ thấy trên một thân cây to trước người hắn, bỗng nhiên từ trên đó mọc xuống một quái vật... Một quái vật rất khó hình dung.",
+      "similarity": [
+        [
+          59,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Sở dĩ nói vật kia khó mà hình dung, là bởi vì nó chủ thể chính là đầu kia gấu đen, có thể nó vết thương trên người bên trong, lúc này lại có từng đầu trưởng thành lớn bằng cánh tay xanh đen dây leo sinh trưởng mà ra.",
+      "dich": "Sở dĩ nói khó mà hình dung, mô tả thứ kia bởi chủ thể của nó đúng là con gấu đen, nhưng bây giờ, trong miệng vết thương trên người nó lại đang có từng dây leo màu xanh to bằng cánh tay người lớn mọc ra.",
+      "suggest": "Sở dĩ nói vật kia khó mà hình dung được, là bởi vì chủ thể của nó chính là đầu gấu đen kia, trong những vết thương trên người nó lúc này lại có từng sợi dây leo xanh đen to bằng nắm tay sinh trưởng ra.",
+      "similarity": [
+        [
+          60,
+          0.24
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trong đó từ phía chỗ ngực mọc ra hai cây nhất là thô hình, một con kéo dài đến phía trên trên nhánh cây, đem gấu đen thân thể treo lên, treo tại trong giữa không trung.",
+      "dich": "Trong số này, hai dây leo mọc từ ngực con gấu là to nhất. Một trong hai dây này mọc dài bám lên nhánh cây bên trên, treo thân thể con gấu lơ lửng giữa không trung.",
+      "suggest": "Trong đó phía ngực treo hai cây thô sơ, một con kéo dài đến phía trên thân cây, treo thân thể gấu đen ở trên không trung.",
+      "similarity": [
+        [
+          61,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mà càng thêm quỷ dị, là gấu đen kia bị Viên Minh đâm thủng qua mắt trái bên trên, lúc này chính thình lình mọc ra một đóa tràn ngập chất thịt sáu cánh Hồng Liên, trong đó trưởng phòng lấy dày đặc màu trắng nhụy hoa, ngay tại điên cuồng ngọ nguậy, giống từng vòng từng vòng màu trắng rậm rạp răng, nhìn thấy người sau sống lưng một hồi phát lạnh.",
+      "dich": "Mà quỷ dị nhất là con mắt trái bị Viên Minh đâm thủng của con gấu, giờ phút này rõ ràng đang mọc ra một đóa sen đỏ sáu cánh núc ních thịt. Ở giữa đóa hoa, phần nhụy màu trắng dày đặc đang điên cuồng nhúc nhích, trông như một mảng toàn răng trắng mọc chi chít, khiến người nhìn cảm thấy lạnh toát cả lưng.",
+      "suggest": "Mà càng quỷ dị hơn, chính là trên mắt phải của gấu đen đã bị Viên Minh đâm thủng, lúc này bỗng nhiên mọc ra một đóa hồng liên đầy lông màu trắng, trong đó có trưởng phòng lấy ra một chùm hoa màu trắng điên cuồng ngọ nguậy, giống như ma quỷ cắn nuốt, nhìn thấy sống lưng người sau lưng phát lạnh.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Đây rốt cuộc là cái thứ quỷ gì?\"",
+      "dich": "\"Đây rốt cuộc là quỷ vật gì?\"",
+      "suggest": "'Đây rốt cuộc là thứ gì vậy?'",
+      "similarity": [
+        [
+          63,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh không khỏi nuốt ngụm nước bọt.",
+      "dich": "Viên Minh không khỏi nuốt khan một cái, tự hỏi.",
+      "suggest": "Viên Minh không kìm được mà nuốt nước bọt xuống.",
+      "similarity": [
+        [
+          64,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Từ gấu đen thời khắc này cổ quái trạng thái đến xem, nó tựa hồ là bị thứ gì ký sinh.",
+      "dich": "Từ trạng thái kỳ quái của con gấu từ đó tới giờ mà đoán, hình như có thứ gì đó ký sinh trên người nó.",
+      "suggest": "Từ trạng thái cổ quái của con gấu đen này, dường như nó đã bị ký sinh vào thứ gì đó.",
+      "similarity": [
+        [
+          65,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đúng lúc này, quái vật kia lại lần nữa bắt đầu chuyển động, phía từ gấu đen thể nội dọc theo người ra ngoài dây leo lần nữa lăng không hất lên, quất hướng Viên Minh.",
+      "dich": "Đúng lúc này, quái vật kia lại động đậy, dây leo mọc từ cơ thể con gấu thình lình vung lên, quất xuống phía Viên Minh.",
+      "suggest": "Đúng lúc này, quái vật kia lại băt đàu chuyên đông, nó từ trong cơ thể gấu đen bay ra ngoài dây leo, lao về phía Viên Minh.",
+      "similarity": [
+        [
+          32,
+          0.14
+        ],
+        [
+          66,
+          0.34
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh vội vàng xoay người hướng phía trước lăn mình một cái, ý đồ tránh né.",
+      "dich": "Viên Minh vội vàng khom lưng quay người, lồm cồm lao về trước cố gắng né tránh.",
+      "suggest": "Viên Minh vội vàng xoay người tránh đi một cái, ý đồ tránh né.",
+      "similarity": [
+        [
+          67,
+          0.12
+        ],
+        [
+          67,
+          0.16
+        ],
+        [
+          74,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Có thể kia dây leo lại dường như mọc thêm con mắt giữa không trung thay đổi phương hướng, vẫn là quất vào lưng của hắn bên trên, trực tiếp xé mở một đạo hỏa cay vết máu.",
+      "dich": "Nhưng dây leo như mọc mắt vậy, nó thay đổi phương hướng giữa không trung, cuối cùng vẫn quất lên sống lưng hắn, tạo ra ra một vết rách dài chảy máu bỏng rát.",
+      "suggest": "Nhưng sợi dây leo kia dường như đã thay đổi phương hướng, bổ mạnh vào lưng hắn, trực tiếp chém thẳng vào vết máu.",
+      "similarity": [
+        [
+          68,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nhịn đau đứng dậy, dự định đi đầu thoát đi.",
+      "dich": "Viên Minh nén đau đứng dậy toan chạy trốn trước.",
+      "suggest": "Viên Minh nhịn đau đứng dậy, định bước đầu thoát khỏi tay hắn.",
+      "similarity": [
+        [
+          69,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nếu là đối mặt đầu kia gấu đen, hắn coi như hiểu rõ, có một trận chiến lực lượng, nhưng trước mắt này vật cổ quái, lại là hắn nửa điểm đều không hiểu rõ, thậm chí cũng không biết thế nào mới có thể giết chết, này làm sao đánh?",
+      "dich": "Nếu đối mặt với con gấu kia, hắn coi như hiểu rõ, có tự tin đánh một trận, nhưng thứ quái dị trước mắt này, hắn lại chẳng biết tí gì, thậm chí càng không biết làm sao mới giết được nó, vậy thì đánh thế nào?",
+      "suggest": "Nếu như đối mặt với đầu gấu đen kia, hắn cũng coi như hiểu rõ, có một trận chiến ý nghĩa, nhưng vật cổ quái trước mắt, lại là hắn không hiểu hết, thậm chí cũng không biết cách nào để giết nó, làm sao mà đánh nổi.",
+      "similarity": [
+        [
+          70,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mắt thấy hắn quay người chạy trốn, kia ký sinh quái vật lại không dự định thả hắn đi, hai cây dây leo một trái một phải bắn ra, đồng thời hướng hắn đánh tới.",
+      "dich": "Trông thấy hắn quay người chạy trốn, quái vật ký sinh kia không định thả hắn đi. Nó đồng thời phóng hai dây leo, một trái, một phải về phía hắn.",
+      "suggest": "Mắt thấy hắn quay người chạy trốn, quái vật ký sinh kia cũng không định thả hắn đi, hai cây dây leo một trái một phải bắn ra, đồng thời đánh về phía hắn.",
+      "similarity": [
+        [
+          71,
+          0.3
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lần này, Viên Minh ngay cả cuối cùng cơ hội phản kích cũng bị mất.",
+      "dich": "Lần này thì ngay cả cơ hội phản kích Viên Minh cũng không có.",
+      "suggest": "Lúc này, cơ hội phản kích cuối cùng cũng bị mất.",
+      "similarity": [
+        [
+          74,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cứ như vậy, hắn bị kia dây leo một mực nắm kéo đi tới \"Gấu đen\" trước mặt.",
+      "dich": "Cứ như thế, hắn bị dây leo kia kéo xềnh xệch tới trước mặt 'gấu đen'.",
+      "suggest": "Cứ như vậy, hắn bị sợi dây leo kia kéo đi trước mặt gã.",
+      "similarity": [
+        [
+          75,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đến trước mặt, Viên Minh mới kinh ngạc phát hiện, đầu kia gấu đen vậy mà còn chưa chết, nó một cái khác huyết con ngươi màu đỏ còn tại nhấp nhô, miệng há ra hợp lại, phát ra nặng nề tiếng thở dốc vang.",
+      "dich": "Đến trước mặt, Viên Minh mới kinh ngạc phát hiện, con gấu đen này vẫn chưa chết, con mắt đỏ như máu còn lại của nó vẫn còn chuyển động, miệng thì khẽ mở khẽ khép, phát ra những tiếng thở nặng nề.",
+      "suggest": "Trước mặt Viên Minh, hắn mới kinh ngạc phát hiện, đầu gấu đen kia còn chưa chết, một con ngươi màu đỏ thẫm khác màu đỏ nhấp nhô, miệng há ra đồng thời phát ra tiếng thở dốc nặng nề.",
+      "similarity": [
+        [
+          16,
+          0.13
+        ],
+        [
+          76,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh con ngươi đảo một vòng, lập tức giống như nghĩ tới điều gì.",
+      "dich": "Mắt Viên Minh đảo một vòng, lập tức giống như nghĩ tới điều gì.",
+      "suggest": "Hai mắt Viên Minh đảo một vòng, lập tức giống như nghĩ tới điều gì.",
+      "similarity": [
+        [
+          77,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thứ này nếu là ký sinh thể, như vậy chỉ cần triệt để giết chết nó chỗ ký sinh vật sống, sẽ cùng với đoạn mất nó sinh cơ, chỉ cần triệt để giết chết gấu đen, nó cũng liền sống không được.",
+      "dich": "Thứ này là thân ký sinh, như vậy chỉ cần triệt để giết chết vật sống mà nó ký sinh, vậy nó cũng sẽ bị đứt gãy sinh cơ, chỉ cần khiến gấu đen chết hẳn thì nó cũng hết sống nổi.",
+      "suggest": "Nếu là ký sinh thể, chỉ cần triệt để giết chết ký sinh vật sống, sẽ cùng với đoạn mất sinh cơ của nó, chỉ cần triệt để giết chết gấu đen, nó cũng sẽ không còn đường sống nữa.",
+      "similarity": [
+        [
+          78,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đáng tiếc, dưới mắt đã muộn.",
+      "dich": "Đáng tiếc, giờ muộn mất rồi.",
+      "suggest": "Đáng tiếc, bây giờ đã muộn.",
+      "similarity": [
+        [
+          79,
+          0.24
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chỉ gặp gấu đen lồng ngực chỗ, bỗng nhiên phân liệt ra một đường vết rách, bên trong từng chiếc xương sườn tựa như là hai hàng đan xen cốt trảo, hướng về hai bên phân liệt ra đến, bên trong lộ ra một viên đỏ tươi trái tim, còn tại \"Phù phù, phù phù\" địa nhảy lên.",
+      "dich": "Viên Minh liếc mắt một cái liền thấy trên trái tim có một khối u thịt màu đen, trên khối u mọc ra mấy sợi tơ đen đâm vào trong trái tim, phảng phấp như nó đang hút máu từ đó để cung cấp cho mình.",
+      "suggest": "Chỉ thấy ở trong ngực gấu đen bỗng nhiên xuất hiện một vết rách, bên trong từng cái xương sườn giống như hai hàng xương trảo đan xen, hướng hai bên phân liệt, bên trong lộ ra một quả tim đỏ tươi, còn đang thì thào \"Phù phù\", một tiếng kêu cứu vang lên.",
+      "similarity": [
+        [
+          80,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngay tại Viên Minh cho là mình muốn bị ăn hết thời điểm, bó kia trói buộc hắn dây leo đột nhiên từng vòng từng vòng buông ra, đem bộ ngực của hắn bộ vị đản lộ ra.",
+      "dich": "Ngay lúc Viên Minh tưởng mình sắp bị ăn tươi nuốt sống, đám dây leo trói hắn đột nhiên buông lỏng, để lộ phần ngực của hắn ra.",
+      "suggest": "Ngay khi Viên Minh tưởng rằng mình sắp bị ăn hết, sợi dây leo trói buộc hắn đột nhiên buông lỏng, lộ ra bộ vị lõa lồ của hắn.",
+      "similarity": [
+        [
+          82,
+          0.32
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh lập tức hiểu được, gấu đen thân thể đã bị thương nặng tàn phá, chỉ có đổi mới túc chủ, thứ này mới có thể tiếp tục sống sót, nó không phải muốn ăn bản thân, mà là muốn đem hắn với tư cách mới túc chủ ký sinh.",
+      "dich": "Viên Minh lập tức hiểu ra, thân thể con gấu đã tàn tạ, chỉ có đổi ký chủ mới thì thứ này mới có thể tiếp tục tồn tại, nó không phải muốn ăn hắn, mà là dùng hắn làm ký chủ mới cho nó ký sinh.",
+      "suggest": "Viên Minh lập tức hiểu được, thân thể gấu đen đã bị tàn phá nặng nề, chỉ có đổi mới túc chủ mới có thể sống sót, nó không phải muốn ăn bản thân, mà là muốn ký sinh với chính thức bổn môn.",
+      "similarity": [
+        [
+          83,
+          0.29
+        ]
+      ],
+      "approved": true
+    }
+  ],
+  "currentWorkingLine": 81,
+  "changed": true
+}

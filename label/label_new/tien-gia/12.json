@@ -1,0 +1,2138 @@
+{
+  "currentLine": 115,
+  "next": {
+    "id": 13,
+    "title": "Chương 13: Đốt hương"
+  },
+  "previous": {
+    "id": 11,
+    "title": "Chương 11: Lư hương"
+  },
+  "title": {
+    "convert": "Chương 12",
+    "dich": "Chương 12"
+  },
+  "lines": [
+    {
+      "convert": "Viên Minh lắc đầu, lại mở ra một bản tấu chương, bên trong thì là công bộ một gã thị lang liên quan tới tu sửa Trường Xuân quan Thiên Tôn điện công việc tấu, đồng dạng là thao thao bất tuyệt, thấy Viên Minh hứng thú tẻ nhạt.",
+      "dich": "Viên Minh lắc đầu, lại mở một bản tấu chương khác ra xem. Nội dung bên trong là phần tấu về công việc liên quan tu sửa Thiên Tôn điện của Trường Xuân quan, vẫn là kiểu thao thao bất tuyệt, Viên Minh xem mà cảm thấy tẻ ngắt.",
+      "suggest": "Viên Minh lắc đầu, lại mở một bản tấu chương khác, bên trong là một tên thị lang có liên quan tới việc tu sửa Trường Xuân quan, bọn họ đều nói thao thao bất tuyệt, Viên Minh thấy hứng thú quá ít.",
+      "similarity": [
+        [
+          0,
+          0.22
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Còn chưa xem xong, hắn liền vội vàng khép lại tấu chương ném tới một bên.",
+      "dich": "Còn chưa xem xong, hắn đã nhanh chóng khép tấu chương lại, ném qua một bên.",
+      "suggest": "Còn chưa xem xong, hắn vội vàng gấp tấu chương ném sang một bên.",
+      "similarity": [
+        [
+          1,
+          0.35
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Xem ra làm hoàng đế cũng không dễ dàng, nếu là ta, nhất định đem những này nói nhảm quan viên lôi ra đến, hảo hảo đánh một trận đánh gậy mới được.\"",
+      "dich": "\"Xem ra làm hoàng đế cũng không dễ dàng, nếu là ta, nhất định kéo mấy tên quan viên thích nói nhảm này ra, đánh cho mấy chục hèo nhớ đời mới được.\"",
+      "suggest": "\"Xem ra làm hoàng đế cũng không dễ dàng, nếu như ta, nhất định phải lôi hết những quan viên nói nhảm này ra ngoài, hảo hảo đánh một trận mới được.\"",
+      "similarity": [
+        [
+          2,
+          0.49
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh lẩm bẩm trong miệng.",
+      "dich": "Viên Minh thầm nói.",
+      "suggest": "Viên Minh thì thào.",
+      "similarity": [
+        [
+          3,
+          0.24
+        ],
+        [
+          28,
+          0.24
+        ],
+        [
+          36,
+          0.18
+        ],
+        [
+          41,
+          0.18
+        ],
+        [
+          51,
+          0.12
+        ],
+        [
+          88,
+          0.24
+        ],
+        [
+          92,
+          0.12
+        ],
+        [
+          113,
+          0.12
+        ],
+        [
+          118,
+          0.11
+        ],
+        [
+          120,
+          0.11
+        ],
+        [
+          122,
+          0.11
+        ],
+        [
+          124,
+          0.11
+        ],
+        [
+          126,
+          0.11
+        ],
+        [
+          128,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn xoa mi tâm, chấn phấn một lần tinh thần, lại mở ra cuốn thứ ba tấu chương.",
+      "dich": "Hắn xoa xoa mi tâm, làm tinh thần phấn chấn lại một chút rồi mở bản tấu chương thứ ba.",
+      "suggest": "Hắn xoa xoa mi tâm, chấn chỉnh tinh thần một lần nữa, lại mở ra cuốn tấu chương thứ ba.",
+      "similarity": [
+        [
+          4,
+          0.41
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cái này tấu chương ngược lại là cùng trước mặt khác biệt, nhìn trả lời mười phần ngắn gọn già dặn, vừa mở đầu liền dùng ngắn gọn mấy câu hướng Hoàng đế bẩm tấu bản bang điều động tiến về Nam Cương sứ đoàn bị tập kích sự tình.",
+      "dich": "Tấu chương thứ ba này không ngờ lại trái ngược hai cái trước, viết vô cùng đơn giản gọn gàng, mào đầu bằng mấy câu ngắn gọn đã hướng hoàng đế bẩm tấu chuyện sứ đoàn của bản bang trên đường đi tới Nam Cương bị tập kích.",
+      "suggest": "Bọt chương này so với những chương trước khác hoàn toàn, thoạt nhìn trả lời mười phần ngắn gọn, ngay sau đó liền dùng vài câu ngắn gọn nói về chuyện sứ đoàn Nam Cương bị tập kích.",
+      "similarity": [
+        [
+          5,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Nguyên lai là tên võ tướng, quả nhiên cùng khoe chữ văn thần khác nhau rất lớn.\"",
+      "dich": "\"Thì ra là một võ tướng, quả nhiên khác biệt so với với đám văn thần ưa khoe chữ nghĩa.\"",
+      "suggest": "\"Thì ra là tên võ tướng, quả nhiên khác biệt rất lớn với khoe chữ\".",
+      "similarity": [
+        [
+          6,
+          0.38
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh xem xét cuối cùng kí tên, Trấn Nam tướng quân Viên Tộ Trùng.",
+      "dich": "Viên Minh nhìn phần ký tên ở cuối là Trấn Nam tướng quân Viên Tộ Trùng.",
+      "suggest": "Viên Minh xem xét cái tên cuối cùng, ký tên vào chỗ trống của Trấn Nam tướng quân.",
+      "similarity": [
+        [
+          7,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Viên Tộ Trùng?",
+      "dich": "\"Viên Tộ Trùng?",
+      "suggest": "\"Viên Tộ Trùng?",
+      "similarity": [
+        [
+          5,
+          0.11
+        ],
+        [
+          8,
+          0.76
+        ],
+        [
+          28,
+          0.11
+        ],
+        [
+          49,
+          0.13
+        ],
+        [
+          86,
+          0.15
+        ],
+        [
+          88,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cái tên này có chút quen thuộc, giống như ở đâu nghe qua?\"",
+      "dich": "Cái tên này hơi quen, hình như đã nghe ở đâu rồi?\"",
+      "suggest": "Cái tên này nghe có chút quen thuộc, dường như đã nghe qua ở đâu rồi?\"",
+      "similarity": [
+        [
+          9,
+          0.32
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn tự lẩm bẩm, đang định tinh tế đọc qua một lần tấu chương, nhìn xem có thể hay không tìm tới càng nhiều manh mối thời điểm, bên ngoài đột nhiên truyền đến cái kia âm nhu nam tử bẩm báo âm thanh:",
+      "dich": "Hắn lẩm bẩm tự nói, khi đang định lật xem lại cho kỹ coi có thể tìm được thêm manh mối nào không, bên ngoài đột nhiên có tiếng bẩm báo của nam tử âm như truyền vào:",
+      "suggest": "Hắn tự lẩm bẩm, đang tinh tế đọc tấu chương một lần, xem có thể tìm ra càng nhiều manh mối thì đột nhiên có giọng nói của nam tử âm nhu:",
+      "similarity": [
+        [
+          10,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bệ hạ, quốc sư Ngọc Hồ tiên trưởng cầu kiến.\"",
+      "dich": "\"Bệ hạ, quốc sư Ngọc Hồ tiên trưởng cầu kiến.\"",
+      "suggest": "\"Bệ hạ, quốc sư Ngọc Hồ tiên trưởng cầu kiến.\"",
+      "similarity": [
+        [
+          11,
+          1
+        ],
+        [
+          11,
+          0.18
+        ],
+        [
+          24,
+          0.14
+        ],
+        [
+          37,
+          0.11
+        ],
+        [
+          42,
+          0.12
+        ],
+        [
+          73,
+          0.11
+        ],
+        [
+          85,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ngọc Hồ tiên trưởng, nghe danh tự tựa hồ là người tu tiên!\"",
+      "dich": "\"Ngọc Hồ tiên trưởng, nghe tên giống như là người tu tiên!\"",
+      "suggest": "\"Ngọc Hồ tiên trưởng, nghe danh tự tựa hồ là người tu tiên!\"",
+      "similarity": [
+        [
+          12,
+          0.17
+        ],
+        [
+          12,
+          0.63
+        ],
+        [
+          32,
+          0.29
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nheo mắt, vô ý thức liền muốn mở miệng cự tuyệt.",
+      "dich": "Viên Minh nheo mắt, vô thức toan mở miệng từ chối.",
+      "suggest": "Viên Minh nheo mắt, vô thức định mở miệng cự tuyệt.",
+      "similarity": [
+        [
+          13,
+          0.53
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Có thể hắn nghĩ lại, bản thân hoàn toàn không hiểu rõ thiếu niên này Hoàng đế cùng Ngọc Hồ tiên trưởng quan hệ, tùy tiện cự tuyệt tựa hồ không ổn.",
+      "dich": "Nhưng hắn nghĩ lại, bản thân mình hoàn toàn không biết hoàng đế thiếu niên này với Ngọc Hồ tiên trưởng kia có quan hệ thế nào, tùy tiện từ chối có vẻ không ổn.",
+      "suggest": "Nhưng hắn nghĩ lại, bản thân hoàn toàn không hiểu rõ quan hệ của Hoàng đế và Ngọc Hồ tiên trưởng, tùy tiện cự tuyệt dường như không ổn.",
+      "similarity": [
+        [
+          14,
+          0.32
+        ],
+        [
+          29,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Huống chi thần hồn phụ thể thiếu niên Hoàng đế, quá mức không thể tưởng tượng, vị tiên trưởng này hẳn là không phát hiện được.",
+      "dich": "Huống chi việc thần hồn phụ thể hoàng đế thiếu niên này quá sức tưởng tượng, vị tiên trưởng kia hắn là không phát giác được.",
+      "suggest": "Huống chi, Hoàng đế thần hồn phụ thể của thiếu niên này, thật sự là không thể tưởng tượng nổi. Vị tiên trưởng này chắc chắn không phát hiện được.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Mời tiến đến.\"",
+      "dich": "\"Mời tiến vào.\"",
+      "suggest": "\"Mời tiến vào.\"",
+      "similarity": [
+        [
+          16,
+          0.38
+        ],
+        [
+          17,
+          0.11
+        ],
+        [
+          81,
+          0.18
+        ],
+        [
+          91,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trong nháy mắt cân nhắc qua đi, Viên Minh thả ra trong tay tấu chương, nói.",
+      "dich": "Thoáng cân nhắc xong, Viên Minh bỏ tấu chương trong tay xuống, ra lệnh.",
+      "suggest": "Trong nháy mắt, Viên Minh mở bản tấu chương trong tay ra, nói.",
+      "similarity": [
+        [
+          1,
+          0.13
+        ],
+        [
+          6,
+          0.12
+        ],
+        [
+          17,
+          0.23
+        ],
+        [
+          25,
+          0.11
+        ],
+        [
+          39,
+          0.16
+        ],
+        [
+          59,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Kia âm nhu nam tử đáp ứng một tiếng, cửa điện lập tức bị đẩy ra.",
+      "dich": "Nam tử âm nhu kia vâng một tiếng, cửa điện lập tức được mở ra.",
+      "suggest": "Nam tử âm nhu đáp ứng một tiếng, cửa điện lập tức bị đẩy ra.",
+      "similarity": [
+        [
+          18,
+          0.53
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một gã người mặc đạo bào tím bầm già trên 80 tuổi lão giả cất bước tiến đến, hướng về hắn đánh một cái đạo môn chắp tay, trong miệng tụng nói:",
+      "dich": "Một lão giả mặc tử kim đạo bào, tuổi hơn tám mươi cất bước tiến vào, chắp tay theo kiểu Đạo môn hướng về phía hắn, miệng tụng:",
+      "suggest": "Một lão giả mặc áo bào tím bầm trên 80 tuổi, bước đến trước cửa một đạo môn, chắp tay trước ngực, miệng thì thào:",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Phúc sinh Vô Lượng Thiên Tôn.\"",
+      "dich": "\"Phúc sinh vô lượng thiên tôn.\"",
+      "suggest": "\"Phúc sinh Vô Lượng Thiên Tôn.\"",
+      "similarity": [
+        [
+          18,
+          0.11
+        ],
+        [
+          20,
+          0.22
+        ],
+        [
+          81,
+          0.11
+        ],
+        [
+          91,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh ánh mắt dò xét đi tới, chỉ thấy lão đạo trưởng tướng mạo gầy gò, khuôn mặt mặc dù khô gầy, trên mặt làn da lại có dung quang, ba sợi râu dài rũ xuống trước ngực, rất có tiên phong đạo cốt.",
+      "dich": "Viên Minh đảo mắt quan sát, chỉ thấy lão đạo này tướng mạo mảnh khảnh, khuôn mặt dù gày đét nhưng da mặt lại có dung quang, ba chòm râu dài rủ xuống trước ngực, phong thái rất tiên phong đạo cốt.",
+      "suggest": "Ánh mắt Viên Minh nhìn về phía lão đạo trưởng, chỉ thấy khuôn mặt lão có khuôn mặt gầy gò, làn da trên mặt tuy khô gầy nhưng trên mặt lại có 3 sợi râu dài rủ xuống trước ngực, dáng vẻ rất có tiên phong đạo cốt.",
+      "similarity": [
+        [
+          21,
+          0.26
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thêm nữa người mặc có thêu Bát Quái vân văn đạo bào tím bầm, đầu đội tơ vàng tích lũy đám hoa sen bảo quan, cả người nhìn càng bằng thêm mấy phần Hoàng gia quý khí, để cho người ta nhìn đến không khỏi sinh lòng kính sợ.",
+      "dich": "Thêm thân vận tử kim đạo bào thêu hoa văn bát quái, đầu mang liên hoa bảo quan chế từ tơ vàng, khiến cả người lão lại có thêm mấy phấn quý khí hoàng gia, để người ta nhìn qua không khỏi sinh lòng kính sợ.",
+      "suggest": "Hơn nữa người mặc áo bào xanh biếc thêu ba chấm, trên đầu đội tơ vàng tích lũy bảo quan, khiến cho người ta nhìn vào không khỏi sinh lòng kính sợ.",
+      "similarity": [
+        [
+          22,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Quốc sư không cần đa lễ, lần này đến đây, cần làm chuyện gì?\"",
+      "dich": "\"Quốc sư không cần đa lễ, lần này đến đây là vì chuyện gì?\"",
+      "suggest": "\"Quốc sư không cần đa lễ, lần này đến đây cần làm chuyện gì?\"",
+      "similarity": [
+        [
+          23,
+          0.78
+        ],
+        [
+          45,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh bàn tay hư giơ lên một lần, cân nhắc một chút tìm từ, nói.",
+      "dich": "Viên Minh khẽ nhấc tay lên một chút, cân nhắc từ ngữ một chút rồi nói.",
+      "suggest": "Viên Minh lật một trang giấy, cân nhắc một chút, nói.",
+      "similarity": [
+        [
+          24,
+          0.17
+        ],
+        [
+          25,
+          0.14
+        ],
+        [
+          39,
+          0.1
+        ],
+        [
+          59,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Vừa mới nghe nói Lý công công nói nói bệ hạ long thể khiếm an, bần đạo chuyên tới để thăm viếng.\"",
+      "dich": "\"Vừa nghe Lý công công nói bệ hạ long thể bất an, bần đạo đặc biệt tới thăm.\"",
+      "suggest": "\"Vừa rồi nghe nói Lý công công nói bệ hạ long thể bệ hạ bất an, bần đạo thường xuyên tới thăm viếng.\"",
+      "similarity": [
+        [
+          25,
+          0.45
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngọc Hồ đạo trưởng hất lên phất trần, trả lời.",
+      "dich": "Ngọc Hồ đạo trưởng phất cây phất trần một cái, đáp.",
+      "suggest": "Đạo trưởng Ngọc Hồ phất phất trần, trả lời.",
+      "similarity": [
+        [
+          26,
+          0.1
+        ],
+        [
+          44,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Trẫm không có gì đáng ngại, quốc sư có lòng.\"",
+      "dich": "\"Trẫm không có gì đáng ngại, quốc sư có lòng.\"",
+      "suggest": "\"Trẫm không có gì đáng ngại, quốc sư có lòng.\"",
+      "similarity": [
+        [
+          13,
+          0.14
+        ],
+        [
+          27,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh cầm chắc lấy giọng điệu, nói.",
+      "dich": "Viên Minh ngữ điệu có chút chần chừ, nói.",
+      "suggest": "Viên Minh cầm chắc giọng nói, nói.",
+      "similarity": [
+        [
+          5,
+          0.14
+        ],
+        [
+          28,
+          0.18
+        ],
+        [
+          28,
+          0.11
+        ],
+        [
+          36,
+          0.11
+        ],
+        [
+          39,
+          0.16
+        ],
+        [
+          41,
+          0.11
+        ],
+        [
+          51,
+          0.12
+        ],
+        [
+          59,
+          0.12
+        ],
+        [
+          78,
+          0.11
+        ],
+        [
+          88,
+          0.11
+        ],
+        [
+          92,
+          0.11
+        ],
+        [
+          113,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bệ hạ long thể liên quan đến thế giới hưng suy, không được khinh thường, vẫn là để bần đạo cho ngài hào số một mạch đi.\"",
+      "dich": "\"Long thể của bệ hạ liên quan tới thiên hạ hưng suy, không thể sơ suất, tốt hơn là cứ để bần đạo chẩn mạch cho người.\"",
+      "suggest": "\"Vật ở bệ hạ có liên quan đến hưng suy thế giới, không được coi thường, hay là bần đạo cho người làm hào số một mạch đi.\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Ngọc Hồ đạo trưởng lại là không nói lời gì, đi lên phía trước.",
+      "dich": "Ngọc Hồ đạo trưởng lại có vẻ không quan tâm, cất bước tiến tới.",
+      "suggest": "Đạo trưởng Trần không nói lời nào, nhanh chóng đi về phía trước.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh hơi nheo mắt lại, người này hảo hảo ngang ngược, có thể hắn bây giờ không có hiểu rõ ràng hai quan hệ, cưỡng ép cự tuyệt không tốt kết thúc, đưa tay ra cổ tay.",
+      "dich": "Viên Minh nhíu mày. Người này thực rất ngang ngược, nhưng hiện tại hắn không hiểu rõ quan hệ của hai người, mạnh mẽ từ chối sẽ rất khó kết thúc vấn đề, nên hắn liền đưa cổ tay ra.",
+      "suggest": "Viên Minh nheo mắt lại, kẻ này thật sự ngang ngược, nhưng bây giò hắn không hiểu rõ hai quan hệ, cưỡng ép từ chối không được, liền đưa tay ra nắm lấy cổ tay.",
+      "similarity": [
+        [
+          31,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngọc Hồ đạo trưởng quét bàn một góc rỗng tuếch đồ sứ nâng hộp một chút, rất nhanh thu tầm mắt lại, ngón tay nhón lấy, khoác lên Viên Minh chỗ cổ tay.",
+      "dich": "Ngọc Hồ đạo trưởng quét mắt qua cái hộp sứ trống không trên bàn, nhanh chóng thu hồi tầm mắt, đưa ngón tay chạm vào cổ tay Viên Minh.",
+      "suggest": "Đạo trưởng Ngọc Hồ quét một cái hộp đồ sứ trong góc bàn, nhanh chóng thu ánh mắt lại, ngón tay nhón lại đưa lên cổ tay Viên Minh.",
+      "similarity": [
+        [
+          32,
+          0.29
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một tia hơi lạnh khí tức chảy vào, nhanh chóng chảy khắp toàn thân hắn các nơi.",
+      "dich": "Một tia khí tức lành lạnh thâm nhập vào trong rồi nhanh chóng chạy khắp thân thể hắn.",
+      "suggest": "Một luồng khí lạnh nhanh chóng chảy vào các nơi trên người hắn.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Lão đạo này quả nhiên là cái người tu tiên!\"",
+      "dich": "\"Lão đạo này quả nhiên là người tu tiên!\"",
+      "suggest": "\"Lão đạo này quả nhiên là người tu tiên!\"",
+      "similarity": [
+        [
+          14,
+          0.31
+        ],
+        [
+          34,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh con ngươi có chút co vào, khí quyển không dám thở một lần, trong lòng có chút hối hận để người này cho mình xem mạch, hi vọng phía đừng tra ra mánh khóe mới tốt.",
+      "dich": "Viên Minh hơi nheo mắt lại, mũi không dám thở mạnh, trong lòng có không khỏi có chút hối hận việc để cho người này xem mạch cho mình, chỉ hy vọng lão không tra ra manh mối gì mới tốt.",
+      "suggest": "Con ngươi Viên Minh co giật, khí quyển không dám thở mạnh, trong lòng có chút hối hận vì để người này xem mạch, hi vọng phía bên đừng tìm ra mánh khóe mới tốt.",
+      "similarity": [
+        [
+          35,
+          0.3
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lão đạo nhắm mắt ngưng thần, sau một lát thần sắc thay đổi một lần.",
+      "dich": "Lão đạo nhắm mắt ngưng thần, sau một lát lại thay đổi sắc mặt.",
+      "suggest": "Lão đạo nhắm mắt lại, sau một lát thần sắc thay đổi.",
+      "similarity": [
+        [
+          36,
+          0.37
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Quốc sư, như thế nào?\"",
+      "dich": "\"Quốc sư, thế nào?\"",
+      "suggest": "\"Quốc sư, như thế nào?\"",
+      "similarity": [
+        [
+          26,
+          0.11
+        ],
+        [
+          37,
+          0.61
+        ],
+        [
+          45,
+          0.22
+        ],
+        [
+          54,
+          0.17
+        ],
+        [
+          80,
+          0.11
+        ],
+        [
+          89,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh kiên trì hỏi.",
+      "dich": "Viên Minh kiên trì hỏi.",
+      "suggest": "Viên Minh kiên trì hỏi.",
+      "similarity": [
+        [
+          5,
+          0.19
+        ],
+        [
+          34,
+          0.19
+        ],
+        [
+          38,
+          1
+        ],
+        [
+          41,
+          0.18
+        ],
+        [
+          51,
+          0.13
+        ],
+        [
+          55,
+          0.11
+        ],
+        [
+          88,
+          0.19
+        ],
+        [
+          90,
+          0.11
+        ],
+        [
+          92,
+          0.12
+        ],
+        [
+          99,
+          0.11
+        ],
+        [
+          113,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bệ hạ gần đây phải chăng nghỉ ngơi không tốt?",
+      "dich": "\"Bệ hạ gần đây có nghỉ ngơi tốt không?",
+      "suggest": "\"Bệ hạ gần đây có phải đã nghỉ ngơi không tốt không?",
+      "similarity": [
+        [
+          13,
+          0.11
+        ],
+        [
+          39,
+          0.49
+        ],
+        [
+          42,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mạch tượng biểu hiện huyết khí còn tốt, nhưng thần hồn hình như có bất an.\"",
+      "dich": "Mạch tượng cho thấy khí huyết vẫn tốt nhưng thần hồn có vẻ bất an.\"",
+      "suggest": "Huyết khí trên người Mạch Tượng còn tốt, nhưng thần hồn có chút bất an.\"",
+      "similarity": [
+        [
+          40,
+          0.29
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngọc Hồ đạo trưởng mở hai mắt ra, nói.",
+      "dich": "Ngọc Hồ đạo trưởng mở mắt ra, nói.",
+      "suggest": "Đạo trưởng Ngọc Hồ mở hai mắt ra, nói.",
+      "similarity": [
+        [
+          31,
+          0.14
+        ],
+        [
+          41,
+          0.44
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Trẫm gần đây xác thực giấc ngủ không tốt, ngẫu nhiên vẫn còn kinh mộng, không có trở ngại a?\"",
+      "dich": "\"Trẫm gần đây quả thực ngủ không ngon, thỉnh thoảng còn gặp ác mộng, không có vấn đề gì chứ?\"",
+      "suggest": "\"Thời gian gần đây xác thực giấc ngủ của trẫm không tốt, ngẫu nhiên vẫn còn kinh mộng, không có trở ngại gì?\"",
+      "similarity": [
+        [
+          42,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh hàm hồ nói.",
+      "dich": "Viên Minh hàm hồ đáp.",
+      "suggest": "Viên Minh hàm hồ nói.",
+      "similarity": [
+        [
+          5,
+          0.25
+        ],
+        [
+          31,
+          0.11
+        ],
+        [
+          34,
+          0.19
+        ],
+        [
+          42,
+          0.18
+        ],
+        [
+          43,
+          0.54
+        ],
+        [
+          51,
+          0.12
+        ],
+        [
+          78,
+          0.11
+        ],
+        [
+          88,
+          0.19
+        ],
+        [
+          92,
+          0.12
+        ],
+        [
+          113,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bệ hạ không cần quá sầu lo, những này chỉ là việc nhỏ.",
+      "dich": "\"Bệ hạ không cần quá lo, đây chỉ là chuyện nhỏ.",
+      "suggest": "\"Bệ hạ không cần quá lo lắng, những chuyện này chỉ là việc nhỏ.",
+      "similarity": [
+        [
+          44,
+          0.44
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nếu là bệ hạ chịu nghe bần đạo một tiếng, sớm ngày tu luyện « Cửu Nguyên Quyết », có pháp lực bàng thân, tất nhiên là không có những vấn đề này.\"",
+      "dich": "Nếu bệ hạ chịu nghe bần đạo một tiếng, sớm ngày tu luyện Cửu Nguyên Quyết, có pháp lực rồi tất nhiên sẽ không có những vấn đề này.\"",
+      "suggest": "Nếu bệ hạ chịu nghe bần đạo một tiếng, sớm ngày tu luyện  Cửu Nguyên Quyết , có pháp lực bàng thân, tất nhiên không có vấn đề gì.\"",
+      "similarity": [
+        [
+          45,
+          0.12
+        ],
+        [
+          45,
+          0.61
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngọc Hồ đạo trưởng vuốt râu nói.",
+      "dich": "Ngọc Hồ đạo trưởng vuốt râu tiếp lời.",
+      "suggest": "Đạo trưởng Ngọc Hồ vuốt râu nói.",
+      "similarity": [
+        [
+          5,
+          0.12
+        ],
+        [
+          45,
+          0.13
+        ],
+        [
+          46,
+          0.15
+        ],
+        [
+          71,
+          0.14
+        ],
+        [
+          90,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Quốc sư ngươi vừa nói cái gì?\"",
+      "dich": "\"Quốc sư vừa mới nói gì?\"",
+      "suggest": "\"Quốc sư ngươi vừa nói cái gì?\"",
+      "similarity": [
+        [
+          26,
+          0.13
+        ],
+        [
+          41,
+          0.2
+        ],
+        [
+          47,
+          0.29
+        ],
+        [
+          86,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nháy mắt, lại hỏi một lần.",
+      "dich": "Viên Minh chớp chớp mắt, hỏi lại lần nữa.",
+      "suggest": "Viên Minh nháy mắt, lại hỏi thêm một câu.",
+      "similarity": [
+        [
+          48,
+          0.12
+        ],
+        [
+          51,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Cửu Nguyên Quyết chính là ta Trường Xuân quan công pháp bí truyền, không phải đệ tử tinh anh không truyền, tu luyện không có bất kỳ cái gì phong hiểm, vẫn còn cường thân kiện thể công hiệu, bệ hạ ngài cớ gì nhiều lần chối từ.\"",
+      "dich": "\"Cửu Nguyên Quyết chính là công pháp bí truyền của Trường Xuân quan ta, không phải đệ tử tinh anh không truyền, tu luyện không có bất kỳ nguy hiểm gì, hơn nữa còn có hiệu quả cường thân kiện thể, bệ hạ vì cớ gì cứ mãi chối từ?\"",
+      "suggest": "\"Cửu Nguyên Quyết chính là công pháp bí truyền của Trường Xuân Quan ta, không phải đệ tử tinh anh không truyền, tu luyện không có bất kỳ phong hiểm nào, vẫn mạnh mẽ kiện thể, bệ hạ cớ gì phải chối từ nhiều lần!\"",
+      "similarity": [
+        [
+          49,
+          0.53
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngọc Hồ đạo trưởng than nhẹ một tiếng, nói.",
+      "dich": "Ngọc Hồ đạo trưởng than nhẹ một tiếng, hỏi ngược lại.",
+      "suggest": "Đạo trưởng Ngọc Hồ than nhẹ một tiếng, nói.",
+      "similarity": [
+        [
+          31,
+          0.14
+        ],
+        [
+          45,
+          0.19
+        ],
+        [
+          50,
+          0.35
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Cửu Nguyên Quyết?",
+      "dich": "\"Cửu Nguyên Quyết?",
+      "suggest": "\"Cửu Nguyên quyết?",
+      "similarity": [
+        [
+          51,
+          1
+        ],
+        [
+          86,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Công pháp này coi là thật có ngươi nói như vậy thần kỳ?\"",
+      "dich": "Công pháp này có thực sự thần kỳ như ngươi nói không?\"",
+      "suggest": "Công pháp này có phải là thần kỳ không vậy?\"",
+      "similarity": [
+        [
+          52,
+          0.25
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh con mắt chuyển động, hỏi dò.",
+      "dich": "Viên Minh đảo mắt, hỏi dò.",
+      "suggest": "Con ngươi Viên Minh chuyển động, hỏi.",
+      "similarity": [
+        [
+          5,
+          0.11
+        ],
+        [
+          34,
+          0.11
+        ],
+        [
+          42,
+          0.14
+        ],
+        [
+          47,
+          0.11
+        ],
+        [
+          52,
+          0.11
+        ],
+        [
+          53,
+          0.15
+        ],
+        [
+          55,
+          0.11
+        ],
+        [
+          88,
+          0.11
+        ],
+        [
+          92,
+          0.11
+        ],
+        [
+          99,
+          0.11
+        ],
+        [
+          113,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đương nhiên, Cửu Nguyên Quyết là đạo môn bí truyền, ta Trường Xuân quan lịch đại tổ sư càng hao tốn vô số tâm lực cải tiến hoàn thiện, không phải là bần đạo nói ngoa, nếu bàn về củng cố kinh mạch, điều trị khí huyết cùng các công hiệu, thế giới bất kỳ cái gì công pháp cũng không thể cùng Cửu Nguyên Quyết so sánh.\"",
+      "dich": "\"Đương nhiên, Cửu Nguyên Quyết là Đạo môn bí truyền, lại được lịch đại tổ sư của Trường Xuân quan ta hao tốn rất nhiều tâm lực cải tiến hoàn thiện. Không phải bần đạo nói quá, nếu bàn về hiệu quả củng cố kinh mạch, điều dưỡng khí huyết, thiên hạ bất luận công pháp nào cũng không thể so sánh với Cửu Nguyên Quyết.\"",
+      "suggest": "\"Đương nhiên, Cửu Nguyên Quyết là đạo môn bí truyền, ta Trường Xuân quan lịch đại tổ sư càng hao tốn vô số tâm lực cải tiến hoàn thiện. Không phải bần đạo nói ngoa, bàn về kinh mạch, điều trị khí huyết và các công hiệu khác, không có công pháp nào có thể so sánh với Cửu Nguyên Quyết được.\"",
+      "similarity": [
+        [
+          54,
+          0.18
+        ],
+        [
+          54,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Công pháp này tích lũy pháp lực tốc độ như thế nào?\"",
+      "dich": "\"Tốc độ tích lũy pháp lực của công pháp này thế nào?\"",
+      "suggest": "\"Công pháp này tốc độ tích lũy Pháp lực như thế nào?\"",
+      "similarity": [
+        [
+          41,
+          0.15
+        ],
+        [
+          55,
+          0.13
+        ],
+        [
+          55,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh hô hấp hơi gấp rút, truy vấn.",
+      "dich": "Viên Minh hô hấp thoáng dồn dập, truy hỏi.",
+      "suggest": "Viên Minh hô hấp dồn dập, hỏi.",
+      "similarity": [
+        [
+          5,
+          0.11
+        ],
+        [
+          34,
+          0.11
+        ],
+        [
+          42,
+          0.14
+        ],
+        [
+          47,
+          0.11
+        ],
+        [
+          52,
+          0.11
+        ],
+        [
+          56,
+          0.15
+        ],
+        [
+          56,
+          0.38
+        ],
+        [
+          88,
+          0.11
+        ],
+        [
+          92,
+          0.11
+        ],
+        [
+          99,
+          0.11
+        ],
+        [
+          113,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đạo môn công pháp giảng cứu tiến hành theo chất lượng, Cửu Nguyên Quyết nguyên bản xác thực không lấy tốc độ tu luyện tăng trưởng, chỉ bất quá ta Trường Xuân quan đời thứ chín chưởng giáo vô phương tử tốn hao tuyệt đại tâm lực, đem một môn tụ linh thuật dung nhập Cửu Nguyên Quyết bên trong, công pháp này tích lũy pháp lực tốc độ đề cao rất nhiều, so với một chút công pháp ma đạo cũng không kém cỏi, mà lại mấu chốt nhất là, không có chút nào tai hoạ ngầm.\"",
+      "dich": "\"Công pháp Đạo môn chú ý tiến hành theo chất lượng, Cửu Nguyên Quyết nguyên bản đúng là không mạnh về tốc độ tu luyện, nhưng Vô Phương Tử, chưởng giáo đời thứ chín của Trường Xuân quan chúng ta đã dốc hết tâm lực một đời, đem một môn Tụ Linh thuật sáp nhập vào trong Cửu Nguyên Quyết, nâng cao tốc độ tích lũy pháp lực của công pháp lên rất nhiều, so với một số công pháp Ma đạo cũng không kém, hơn nữa quan trọng nhất là không có chút tai họa ngầm nào.\"",
+      "suggest": "\"Công pháp đạo môn tiến hành theo chất lượng. Cửu Nguyên Quyết căn bản không có tốc độ tu luyện tăng trưởng. Chỉ có điều chưởng môn Trường Xuân Quan đời thứ chín hao tốn đại tâm lực. Dung nhập một môn công pháp tụ linh thuật vào Cửu Nguyên Quyết, tốc độ tích lũy Pháp lực so với một môn công pháp ma đạo khác cũng không kém. Mà mấu chốt nhất là, không có tai họa ngầm.\"",
+      "similarity": [
+        [
+          57,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngọc Hồ đạo trưởng cười cười, có chút tự đắc nói.",
+      "dich": "Ngọc Hồ đạo trưởng cười cười, nói với giọng có chút tự đắc.",
+      "suggest": "Đạo trưởng Ngọc Hồ cười cười, có chút tự đắc nói.",
+      "similarity": [
+        [
+          58,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đã quốc sư như thế hết lòng, cái này Cửu Nguyên Quyết ta tu luyện chính là, còn xin quốc sư chỉ giáo.\"",
+      "dich": "\"Nếu như quốc sư đã hết lòng như vậy, Cửu Nguyên Quyết này ta tu luyện là được, kính xin quốc sư chỉ giáo.\"",
+      "suggest": "\"Đã quốc sư quan tâm như thế, vậy Cửu Nguyên Quyết này ta tu luyện chính là nhờ quốc sư chỉ giáo.\"",
+      "similarity": [
+        [
+          59,
+          0.3
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đứng dậy, đối lão đạo khom người cúi đầu.",
+      "dich": "Viên Minh đứng lên, khom người cúi đàu hướng lão đạo, nói.",
+      "suggest": "Viên Minh đứng dậy, cúi người thi lễ với lão giả.",
+      "similarity": [
+        [
+          60,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngọc Hồ đạo trưởng nghe vậy cũng bị chậm lại, nhìn chằm chằm thiếu niên Hoàng đế trên dưới đánh giá hai lần, trong mắt lóe lên vẻ kinh ngạc, chỉ là rất nhanh, hắn khóa chặt lông mày liền bỗng nhiên thư giãn ra, trên mặt lộ ra già nghi ngờ an ủi chi sắc.",
+      "dich": "Ngọc Hồ đạo trưởng nghe thế cũng thoáng ngớ ra, nhìn chằm chằm vị hoàng đế thiếu niên này, đánh giá trên dưới hai lần, trong mắt hiện lên vẻ kinh ngạc, nhưng rất nhanh tiếp đó, lông mày đang nhíu chặt của lão chợt giãn ra, mặt lộ vẻ lão hoài an ủi.",
+      "suggest": "Đạo trưởng Ngọc Hồ nghe vậy cũng chậm lại, nhìn chằm chằm vào biểu tình của Hoàng đế, trong mắt lóe lên vẻ kinh ngạc, chỉ là rất nhanh, lông mày của hắn bỗng nhiên giãn ra, trên mặt lộ ra vẻ an ủi không cần thiết.",
+      "similarity": [
+        [
+          61,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Tốt tốt tốt, bệ hạ hôm nay rốt cục mở tâm hồn, quả thật thuận theo thiên đạo tiến hành, bần đạo tự nhiên dụng tâm thi dạy.\"",
+      "dich": "\"Tốt tốt tốt, bệ hạ hôm nay rốt cuộc mở rộng tâm hồn, cử chỉ quả thật thuận theo Thiên đạo, bần đạo tự nhiên dốc lòng chỉ dạy.\"",
+      "suggest": "\"Tốt tốt! Bệ hạ hôm nay rốt cuộc đã mở lòng, quả thật đã thuận theo thiên đạo, bần đạo đương nhiên dụng tâm thi hành.\"",
+      "similarity": [
+        [
+          62,
+          0.25
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngọc Hồ đạo trưởng nói liên tục ba cái \"Tốt\" chữ, khó nén vui sướng trong lòng.",
+      "dich": "Ngọc Hồ đạo trưởng liên tiếp nói ba chữ \"tốt\", khó nén được sự vui sướng trong lòng.",
+      "suggest": "Đạo trưởng Ngọc Hồ nói liên tục ba chữ tốt, trong lòng không nén được vui mừng.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Nói xong, hắn từ trong tay áo lấy ra một bản viết « Cửu Nguyên Quyết - thượng thiên » tử sắc vân lục sách, đưa cho \"Viên Minh\".",
+      "dich": "Nói xong, lão lấy từ tay áo ra một quyển vân lục thư sách màu tím, chính là Cửu Nguyên Quyết - quyển thượng, đưa cho Viên Minh.",
+      "suggest": "Nói xong, hắn lấy ra một quyển sách màu xanh lục  Cửu Nguyên Quyết  trên trời  gửi cho \"Viên Minh\".",
+      "similarity": [
+        [
+          64,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh vội vàng hai tay đón lấy, không kịp chờ đợi mở ra đọc.",
+      "dich": "Viên Minh vội vàng đưa hai tay ra tiếp, gấp gáp mở đọc.",
+      "suggest": "Viên Minh vội vàng đưa hai tay ra đón, không kịp chờ đợi mở ra đọc.",
+      "similarity": [
+        [
+          65,
+          0.45
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cùng kia Huyết Khí pháp khẩu quyết khác biệt chính là, bộ này Cửu Nguyên Quyết thượng thiên nội dung rất nhiều, lưu loát có gần hơn ngàn chữ, trong câu chữ cổ phác khí quyển, xem xét liền biết so Huyết Khí pháp tinh diệu được nhiều.",
+      "dich": "Khác với khẩu quyết Huyết Khí pháp, nội dung phần trước bộ Cửu Nguyên Quyết này rất nhiều, từ đầu tới cuối hơn một ngàn chữ, không khí, phong cách cổ xưa len giữa những dòng chữ, nhìn qua liền biết tinh diệu hơn nhiều so với Huyết Khí pháp kia.",
+      "suggest": "Nội dung bộ Cửu Nguyên Quyết này khác với khẩu quyết Huyết Khí pháp kia chính là nội dung quyển Cửu Nguyên Quyết này rất phong phú, dễ hiểu, hơn nữa câu chữ trong câu chữ được chắp bút, xem ra tinh diệu hơn Huyết Khí pháp rất nhiều.",
+      "similarity": [
+        [
+          66,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Căn cứ sách bên trong thuật, bộ công pháp kia thượng thiên hết thảy tầng mười ba, cùng Luyện Khí kỳ pháp lực tu vi từng cái đối ứng.",
+      "dich": "Căn cứ nội dung ghi lại trên sách, phần trước bộ công pháp này có tổng cộng mười ba tầng, cùng tu vi, pháp lực của giai đoạn Luyện Khí nhất nhất tương ứng.",
+      "suggest": "Căn cứ theo những gì ghi trong sách, tầng mười ba của bộ công pháp kia, tu vi hơn xa tầng mười ba của Luyện Khí kỳ.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nhanh chóng đọc, mừng rỡ trong lòng không thôi.",
+      "dich": "Viên Minh đọc nhanh, lòng mừng rỡ không thôi.",
+      "suggest": "Viên Minh nhanh chóng đọc, trong lòng căng thẳng không thôi.",
+      "similarity": [
+        [
+          68,
+          0.17
+        ],
+        [
+          97,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bệ hạ, tu hành một chuyện cùng đọc sách dưỡng khí không khác nhiều, chỉ có chăm học khổ luyện mà thôi.",
+      "dich": "\"Bệ hạ, chuyện tu hành cùng đọc sách, dưỡng khí cũng không khác nhau mấy, chỉ cần chăm chỉ khổ luyện mà thôi.",
+      "suggest": "\"Bệ hạ, việc tu hành cùng việc đọc sách không khác gì nhau, chỉ có chăm chăm tu luyện mà thôi.",
+      "similarity": [
+        [
+          69,
+          0.26
+        ],
+        [
+          73,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cái này Cửu Nguyên Quyết chính là Trường Xuân quan tổ truyền bảo điển, không phải tông môn đích truyền cùng Đại Tấn quốc phúc người thừa kế không thể nhẹ thụ.",
+      "dich": "Cửu Nguyên Quyết này chính là bảo điển tổ truyền của Trường Xuân quan, không phải người thừa kế của Đại Tấn quốc tộc và tông môn chính thống thì không thể tùy tiện truyền thụ.",
+      "suggest": "Cửu Nguyên Quyết này chính là bảo điển của Trường Xuân Quan, không phải là di sản tông môn mà tông môn đích truyền cùng đại phú ông đại phú.",
+      "similarity": [
+        [
+          70,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hôm nay truyền thượng thiên với bệ hạ, còn xin cẩn thủ đạo tắc, không thể ngoại truyện.\"",
+      "dich": "Ngày hôm này truyền phần trước cho bệ hạ, kinh xin cẩn thủ Đạo tắc, không được truyền ra ngoài.\"",
+      "suggest": "Hôm nay truyền lên trên thiên với bệ hạ, đương nhiên phải tuân thủ đạo tắc, không thể ngoại truyện.\"",
+      "similarity": [
+        [
+          71,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngọc Hồ đạo trưởng dặn dò.",
+      "dich": "Ngọc Hồ đạo trưởng dặn dò.",
+      "suggest": "Đạo trưởng Ngọc Hồ dặn dò.",
+      "similarity": [
+        [
+          50,
+          0.11
+        ],
+        [
+          57,
+          0.11
+        ],
+        [
+          72,
+          0.32
+        ],
+        [
+          90,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh một lòng đắm chìm trong « Cửu Nguyên Quyết » bên trong, không có trả lời.",
+      "dich": "Viên Minh một lòng đắm chìm trong Cửu Nguyên Quyết, không có trả lời.",
+      "suggest": "Viên Minh chìm đắm trong pháp quyết  Cửu Nguyên Quyết , không trả lời.",
+      "similarity": [
+        [
+          73,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bệ hạ, đạo pháp tu hành không kiêu không ngạo, cũng không thể quá nóng vội.",
+      "dich": "\"Bệ hạ, Đạo pháp tu hành không kiêu ngạo, không nóng nảy, cũng không được quá vội vàng.",
+      "suggest": "\"Bệ hạ, đạo pháp tu hành không kiêu không ngạo, cũng không thể quá nóng vội.",
+      "similarity": [
+        [
+          13,
+          0.12
+        ],
+        [
+          74,
+          0.12
+        ],
+        [
+          74,
+          0.35
+        ],
+        [
+          85,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hôm nay được pháp quyết, trước tạm quen thuộc đọc thuộc lòng, cùng các sở hữu khẩu quyết nhớ cho kỹ, bần đạo lại đến cho bệ hạ giải hoặc.\"",
+      "dich": "Hôm nay được pháp quyết rồi, trước tạm đọc thuộc lòng, đợi khi người nhớ kỹ tất cả pháp quyết, bần đạo lại tới giải thích nghi vấn giúp bệ hạ.\"",
+      "suggest": "Hôm nay nhận được pháp quyết, trước tiên các ngươi hãy đọc thuộc lòng, sau đó ghi nhớ tất cả khẩu quyết và các sở hữu khẩu quyết, bần đạo sẽ giải thích với bệ hạ.\"",
+      "similarity": [
+        [
+          75,
+          0.24
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhìn thấy Hoàng đế như thế chuyên tâm, Ngọc Hồ đạo trưởng một vuốt râu dài, trong lòng có chút trấn an, nhắc nhở một câu về sau, đứng dậy liền muốn rời đi.",
+      "dich": "Thấy hoàng đế chuyên tâm như vậy, Ngọc Hồ đạo trưởng vuốt vuốt bộ râu, lòng có phần an tâm, sau khi nhắc nhở một câu liền đứng dậy tính rời đi.",
+      "suggest": "Chứng kiến hoàng đế hành động như vậy, Ngọc Hồ đạo trưởng vuốt vuốt chòm râu dài, trong lòng có chút trấn an, nhắc nhở một câu, sau đó đứng dậy rời đi.",
+      "similarity": [
+        [
+          76,
+          0.37
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Vào thời khắc này, liền nghe \"Ba\" một tiếng vang nhỏ, Viên Minh đã khép lại quyển kia tử sắc sách.",
+      "dich": "Đúng lúc này, một tiếng 'bộp' nhỏ vang lên, Viên Minh đã khép cuốn sách màu tím kia lại.",
+      "suggest": "Vào lúc này, liền nghe \"Ba\" một tiếng vang nhỏ, Viên Minh đã khép cuốn sách lại.",
+      "similarity": [
+        [
+          77,
+          0.38
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Quốc sư, Cửu Nguyên Quyết nội dung ta đã nhớ kỹ, chỉ là có chút địa phương còn không rõ, còn xin quốc sư giải hoặc.\"",
+      "dich": "\"Quốc sư, ta đã thuộc lòng nội dung Cửu Nguyên Quyết, chỉ là có vài chỗ không rõ, kính xin quốc sư giải đáp nghi hoặc.\"",
+      "suggest": "\"Quốc sư, ta đã nhớ kỹ nội dung Cửu Nguyên Quyết, chỉ có một vài chỗ còn chưa rõ, còn có chỗ chưa rõ, mong quốc sư giải thích.\"",
+      "similarity": [
+        [
+          78,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh một mặt trịnh trọng, mở miệng nói ra.",
+      "dich": "Viên Minh tỏ vẻ trịnh trọng, mở miệng nói.",
+      "suggest": "Viên Minh vẻ mặt trịnh trọng, mở miệng nói.",
+      "similarity": [
+        [
+          31,
+          0.11
+        ],
+        [
+          79,
+          0.65
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lão đạo trưởng tay vuốt râu dài động tác lập tức cứng đờ, có chút khó có thể tin nhìn về phía Hoàng đế.",
+      "dich": "Cánh tay đang vuốt râu của lão đạo bỗng cứng đờ lại, mắt nhìn vị hoàng đế thiếu niên với vẻ không thể tin nổi.",
+      "suggest": "Động tác lão đạo trưởng lập tức cứng đơ, ánh mắt khó có thể tin được nhìn về phía Hoàng đế.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Bệ hạ... Đều nhớ kỹ?\"",
+      "dich": "\"Bệ hạ ... đã thuộc hết?\"",
+      "suggest": "\"Bệ hạ còn nhớ rõ không?\"",
+      "similarity": [
+        [
+          13,
+          0.11
+        ],
+        [
+          41,
+          0.11
+        ],
+        [
+          43,
+          0.18
+        ],
+        [
+          48,
+          0.11
+        ],
+        [
+          51,
+          0.11
+        ],
+        [
+          56,
+          0.11
+        ],
+        [
+          81,
+          0.14
+        ],
+        [
+          89,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Nhớ kỹ.\"",
+      "dich": "\"Đã thuộc hết.\"",
+      "suggest": "\"Nhớ kỹ.\"",
+      "similarity": [
+        [
+          5,
+          0.11
+        ],
+        [
+          18,
+          0.18
+        ],
+        [
+          23,
+          0.11
+        ],
+        [
+          34,
+          0.11
+        ],
+        [
+          55,
+          0.11
+        ],
+        [
+          82,
+          0.18
+        ],
+        [
+          86,
+          0.12
+        ],
+        [
+          88,
+          0.11
+        ],
+        [
+          91,
+          0.12
+        ],
+        [
+          118,
+          0.11
+        ],
+        [
+          120,
+          0.11
+        ],
+        [
+          122,
+          0.11
+        ],
+        [
+          124,
+          0.11
+        ],
+        [
+          126,
+          0.11
+        ],
+        [
+          128,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Sau khi nói xong, hắn cũng mới phản ứng được, trí nhớ của mình tựa hồ có chút không hề tầm thường.",
+      "dich": "Nói xong rồi, hắn mới kịp phản ứng, nhớ ra chuyện trí nhớ của bản thân hình như có phần khác thường.",
+      "suggest": "Sau khi nói xong, hắn cũng mới phản ứng, trí nhớ của mình dường như có chút không bình thường.",
+      "similarity": [
+        [
+          83,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc trước học tập Huyết Khí pháp thời điểm, cũng là chỉ nghe qua một bên, liền có thể lập tức nhớ kỹ, chỉ bất quá khi đó chỉ có chỉ là hai trăm chữ, chính Viên Minh cũng không có coi ra gì.",
+      "dich": "Lúc trước, khi học Huyết Khí pháp, hắn cũng chỉ nghe qua một lượt là có thể lập tức thuộc hết, chỉ có điều khi đó nội dung chỉ tầm hai trăm chữ nên Viên Minh cũng không quá để tâm chuyện này.",
+      "suggest": "Thời điểm học Huyết Khí pháp, hắn cũng chỉ nghe qua một chút là có thể nhớ ngay, chỉ có điều khi đó chỉ có hai trăm chữ mà thôi, Viên Minh cũng không coi ra gì.",
+      "similarity": [
+        [
+          84,
+          0.42
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhưng bây giờ đến xem, hắn là có thể làm được đã gặp qua là không quên được.",
+      "dich": "Nhưng hiện tại mà xem, hắn đúng là có thể làm được chuyện chỉ nhìn một lần là không quên.",
+      "suggest": "Nhưng bây giờ đến xem, hắn có thể làm được điều mà mình đã gặp qua không thể quên được.",
+      "similarity": [
+        [
+          85,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bệ hạ, Thiên phủ giấu vân môn, liệt khuyết nhập Thái Uyên câu tiếp theo là cái gì?\"",
+      "dich": "\"Bệ hạ, câu tiếp theo của 'Thiên Phủ tàng Vân Môn, Liệt Khuyết nhập Thái Uyên' là gì?\"",
+      "suggest": "\"Bệ hạ, Thiên phủ ẩn vân môn, câu tiếp theo bị liệt vào top mười là cái gì?\"",
+      "similarity": [
+        [
+          79,
+          0.11
+        ],
+        [
+          86,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ngư tế hành kinh mương, không quay lại vượt Long Môn.\"",
+      "dich": "\"Ngư tế hành kinh cừ, bất phản dược long môn.\"",
+      "suggest": "\"Ngư tế hành kinh, không quay lại Long Môn nữa.\"",
+      "similarity": [
+        [
+          88,
+          0.32
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh lập tức đáp.",
+      "dich": "Viên Minh đáp ngay.",
+      "suggest": "Viên Minh lập tức đồng ý.",
+      "similarity": [
+        [
+          5,
+          0.16
+        ],
+        [
+          34,
+          0.16
+        ],
+        [
+          42,
+          0.15
+        ],
+        [
+          47,
+          0.15
+        ],
+        [
+          57,
+          0.12
+        ],
+        [
+          89,
+          0.16
+        ],
+        [
+          92,
+          0.12
+        ],
+        [
+          113,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Thần hướng thái hư uyển?\"",
+      "dich": "\"Thần trùng Thái Hư uyển?\"",
+      "suggest": "\"Thần hướng thái hư uyển?\"",
+      "similarity": [
+        [
+          41,
+          0.12
+        ],
+        [
+          51,
+          0.11
+        ],
+        [
+          86,
+          0.13
+        ],
+        [
+          90,
+          0.12
+        ],
+        [
+          90,
+          0.26
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngọc Hồ đạo trưởng tiếp tục hỏi.",
+      "dich": "Ngọc Hồ đạo trưởng tiếp tục hỏi.",
+      "suggest": "Đạo trưởng Ngọc Hồ tiếp tục hỏi.",
+      "similarity": [
+        [
+          42,
+          0.12
+        ],
+        [
+          50,
+          0.12
+        ],
+        [
+          77,
+          0.14
+        ],
+        [
+          91,
+          0.43
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ý thủ đan điền cung.\"",
+      "dich": "\"Ý thủ Đan Điền cung.\"",
+      "suggest": "\"Ý thủ đan điền cung.\"",
+      "similarity": [
+        [
+          18,
+          0.13
+        ],
+        [
+          23,
+          0.11
+        ],
+        [
+          87,
+          0.13
+        ],
+        [
+          92,
+          0.35
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh thái độ nhẹ nhõm đáp.",
+      "dich": "Viên Minh vô cùng thoải mái đáp.",
+      "suggest": "Viên Minh thái độ nhẹ nhõm đáp.",
+      "similarity": [
+        [
+          5,
+          0.13
+        ],
+        [
+          34,
+          0.13
+        ],
+        [
+          42,
+          0.13
+        ],
+        [
+          47,
+          0.16
+        ],
+        [
+          57,
+          0.12
+        ],
+        [
+          92,
+          0.14
+        ],
+        [
+          93,
+          0.16
+        ],
+        [
+          113,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bá dương không đổi nghề dư âm?\"",
+      "dich": "\"Bá dương bất chuyển hành dư âm?\"",
+      "suggest": "\"Bá dương không đổi nghề ư?\"",
+      "similarity": [
+        [
+          41,
+          0.11
+        ],
+        [
+          51,
+          0.11
+        ],
+        [
+          86,
+          0.11
+        ],
+        [
+          93,
+          0.11
+        ],
+        [
+          94,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Thiên càn có thừa thông địa càn.\"",
+      "dich": "\"Thiên kiền hữu dư thông địa kiền.\"",
+      "suggest": "\"Thiên càn có thừa thông địa càn.\"",
+      "similarity": [
+        [
+          95,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một phen vấn đáp qua đi, Ngọc Hồ đạo trưởng trên mặt sợ hãi lẫn vui mừng càng phát ra dày đặc, nhịn không được chậc chậc tán dương: \"Quá khứ chỉ nói bệ hạ còn tuổi nhỏ sa vào vui đùa, hôm nay mới biết chính là giấu dốt tiến hành, bệ hạ có này đã gặp qua là không quên được chi năng, nghĩ đến tu hành cũng nhất định thuận nước đẩy thuyền, tiến triển cực nhanh.\"",
+      "dich": "Sau một hồi hỏi đáp, nét vui mừng trên mặt Ngọc Hồ đạo trưởng càng dày thêm, lão nhịn không được tấm tắc tán dương: \"Trước đó chỉ nghe bệ hạ tuổi còn nhỏ nên mải chơi, hôm nay mới biết đó chỉ là hành động giấu tài, bệ hạ có khả năng nhìn qua là không quên được, nghĩ tới tu hành cũng nhất định sẽ vô cùng thuận lợi, ngày tiến ngàn dặm.\"",
+      "suggest": "Một phen hỏi đáp đã trôi qua, vẻ sợ hãi lẫn vui mừng trên mặt Ngọc Hồ đạo trưởng càng dày đặc, không nhịn được mà chậc chậc tán dương: \"Quá khứ chỉ nói bệ hạ còn nhỏ tuổi mà đã ham vui đùa nhiều, hôm nay mới biết là đã tu hành đúng là thuận nước đẩy thuyền, tiến triển cực nhanh.\"",
+      "similarity": [
+        [
+          97,
+          0.22
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nghe vậy, thầm nghĩ trong lòng: \"Cái này coi như không nhất định.\"",
+      "dich": "Viên Minh nghe vậy, trong lòng thầm nghĩ: \"Cái này cũng không chắc nha.\"",
+      "suggest": "Viên Minh nghe vậy, thầm nghĩ trong lòng: \"Cái này cũng không nhất định.\"",
+      "similarity": [
+        [
+          98,
+          0.53
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đạo trưởng, cuốn sách này phía trước lời nói Thiên phủ, vân môn, liệt khuyết, Thái Uyên loại hình, ta đều biết, chính là nhân chi chư thân khiếu huyệt, có thể cái này thái hư uyển cùng đan điền cung lại là cái gì?\"",
+      "dich": "\"Đạo trưởng, phần trước sách này có nói Thiên Phủ, Vân Môn, Liệt Khuyết, Thái Uyên ... vv..., ta cũng biết đó là các khiếu huyệt trên người, vậy nhưng Thái Hư uyển và Đan Điền cung là gì?\"",
+      "suggest": "\"Đạo trưởng, những địa điểm trong cuốn sách này, ta đều biết, đó chính là khiếu huyệt của chư thân, còn những địa điểm như Thái Hư uyển và đan điền cung này thì là cái gì?\"",
+      "similarity": [
+        [
+          99,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nắm chặt cơ hội, mở miệng hỏi.",
+      "dich": "Viên Minh tranh thủ cơ hội, cất lời hỏi.",
+      "suggest": "Viên Minh nắm chặt cơ hội, mở miệng hỏi.",
+      "similarity": [
+        [
+          61,
+          0.11
+        ],
+        [
+          84,
+          0.18
+        ],
+        [
+          100,
+          0.21
+        ],
+        [
+          105,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Khó được gặp Hoàng đế bệ hạ học giỏi như vậy, lão đạo cũng không nghi ngờ gì, lúc này giải đáp nói:",
+      "dich": "Hiếm khi thấy hoàng đế ham học hỏi như vậy, nhưng lão đạo cũng không nghi ngờ gì mà lập tức đáp:",
+      "suggest": "Lão đạo thấy bệ hạ học giỏi như vậy cũng không nghi ngờ gì, lúc này liền giải thích:",
+      "similarity": [
+        [
+          101,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bệ hạ biết khiếu huyệt cùng tu hành tương quan khiếu huyệt căn bản là nhất trí, chỉ bất quá tu hành khiếu huyệt vị trí càng sâu một chút, chờ ngươi tu hành ra pháp lực lúc, tự nhiên sẽ có chỗ phát giác.",
+      "dich": "\"Khiếu huyệt mà bệ hạ biết và khiếu huyệt liên quan tu hành cơ bản là giống nhau, chỉ có điều vị trí khiếu huyệt tu hành nằm sâu hơn một chút, chờ lúc người tu hành ra pháp lực, tự nhiên sẽ có phát hiện.",
+      "suggest": "\"Bệ hạ biết Khiếu huyệt cùng tu hành căn bản là nhất trí, chỉ có điều vị trí khiếu huyệt khi tu hành lại tương đối sâu, đợi khi ngươi tu hành ra Pháp lực, đương nhiên sẽ phát giác ra.",
+      "similarity": [
+        [
+          102,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Còn thái hư uyển, nói chính là nhân chi thức hải, cũng chính là giấu thần hồn, nạp tâm ý địa phương.",
+      "dich": "Về phần Thái Hư uyển, chính là nói Thức hải của con người, cũng chính là nơi tàng thần hồn, nạp tâm ý.",
+      "suggest": "Còn thái hư uyển, nói chính là tri thức, cũng là nơi giấu thần hồn, ý tứ.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Đan điền cung cũng gọi đan điền, thì là ngày sau cất giữ pháp lực chi địa, tại nhân chi dưới bụng.\"",
+      "dich": "Đan Điền cung hay còn lại là đan điền, là nơi cất giữ pháp lực sau này, nằm ở bụng dưới của con người.\"",
+      "suggest": "Đan điền cũng gọi là đan điền, thì là nơi cất giữ Pháp lực, dưới bụng người ta.\"",
+      "similarity": [
+        [
+          104,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Thì ra là thế...\"",
+      "dich": "\"Thì ra là thế ...\"",
+      "suggest": "\"Thì ra là thế...\"",
+      "similarity": [
+        [
+          8,
+          0.12
+        ],
+        [
+          18,
+          0.11
+        ],
+        [
+          23,
+          0.11
+        ],
+        [
+          87,
+          0.11
+        ],
+        [
+          97,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh tại trên bụng mình khoa tay một lần, phát hiện cơ bản cùng tu luyện Huyết Khí pháp lúc, kia cỗ nhiệt lưu hội tụ địa phương đồng dạng.",
+      "dich": "Viên Minh đưa tay hết sờ rồi đo trên bên mình một chút, phát hiện cơ bản giống điểm hội tụ của luồng nhiệt lưu khi tu luyện Huyết Khí pháp kia.",
+      "suggest": "Viên Minh sờ sờ một lần trên bụng mình, phát hiện cơ bản cùng lúc tu luyện Huyết Khí pháp, chỗ đó có một dòng khí nóng tụ tập lại.",
+      "similarity": [
+        [
+          106,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nắm chặt cơ hội, tranh thủ thời gian lại đem trong lòng nghi hoặc, từng cái hỏi ra.",
+      "dich": "Viên Minh tận dụng cơ hội, nhanh chóng đem từng vấn đề thắc mắc trong lòng ra hỏi.",
+      "suggest": "Viên Minh nắm chặt cơ hội, tranh thủ thời gian đem những nghi hoặc trong lòng ra hỏi.",
+      "similarity": [
+        [
+          105,
+          0.1
+        ],
+        [
+          107,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Rất nhanh, Viên Minh sở hữu nghi hoặc đều đã được đến giải đáp, đối Cửu Nguyên Quyết lại không nghi hoặc, ngay tại trên long ỷ ngồi xếp bằng, liền muốn nếm thử tu luyện.",
+      "dich": "Rất nhanh, mọi nghi vấn trong lòng Viên Minh đều được giải đáp, không còn thắc mắc, khó hiểu gì với Cửu Nguyên Quyết, hắn lập tức muốn khoanh chân trên long ỷ thử nghiệm tu luyện.",
+      "suggest": "Rất nhanh, những nghi hoặc của Viên Minh đã được giải đáp, đối với Cửu Nguyên Quyết lại không hề nghi ngờ, ngồi xếp bằng trên long ỷ, chuẩn bị thử tu luyện.",
+      "similarity": [
+        [
+          109,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Vào thời khắc này, hắn trên cánh tay phải ấn ký đột nhiên nhảy một cái, bên trong nhiệt lưu nhanh chóng biến mất.",
+      "dich": "Nhưng đúng lúc này, ấn ký trên cánh tay phải hắn chợt động, đồng thời luồng nhiệt lưu bên trong nó cũng nhanh chóng tan biến.",
+      "suggest": "Vào lúc này, ấn ký trên cánh tay hắn đột nhiên nhảy lên, dòng khí nóng nhanh chóng biến mất.",
+      "similarity": [
+        [
+          110,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đang muốn xem xét, đột nhiên cảm giác được một hồi khó nói lên lời mệt mỏi cảm giác đánh tới, mí mắt nặng nề đến không cách nào nâng lên, mắt tối sầm lại, lại lần nữa đã mất đi ý thức.",
+      "dich": "Viên Minh đang muốn xem xét thì thình lình, một cảm giác mệt mỏi khó tả kéo tới, khiến mí mắt hắn nặng nề díp lại không cách nào mở ra, rồi khung cảnh trước mắt tối sầm lại, đầu óc lần nữa mất đi ý thức.",
+      "suggest": "Viên Minh đang muốn xem xét, đột nhiên cảm giác mệt mỏi không nói nên lời đánh tới, hai mắt nặng nề không cách nào nâng lên, mắt tối sầm lại, lần nữa mất đi ý thức.",
+      "similarity": [
+        [
+          111,
+          0.36
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một mảnh ảm đạm bên trong, Viên Minh chỉ cảm thấy mình giống như làm một cái thật dài mộng, không biết bao lâu sau mới chậm rãi thức tỉnh.",
+      "dich": "Giữa khoảng mê man, Viên Minh chỉ cảm thấy mình như trải qua một giấc mơ dài, không biết bao lâu sau mới từ từ tỉnh lại.",
+      "suggest": "Trong một bầu không khí ảm đạm, Viên Minh chỉ cảm thấy mình giống như đang làm một giấc thật dài, không biết bao lâu sau mới chậm rãi tỉnh dậy.",
+      "similarity": [
+        [
+          112,
+          0.4
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn xoa nhẹ một cái con mắt, mới phát hiện bản thân về tới u ám địa động, thân thể cũng thay đổi thành bản thân cỗ kia.",
+      "dich": "Hắn xoa xoa nhẹ hai mắt, phát hiện mình đã trở lại huyệt động tăm tối, cơ thể cũng đã trở lại là của chính mình.",
+      "suggest": "Hắn xoa xoa hai mắt, mới phát hiện bản thân đã về tới địa động u ám, thân thể cũng thay đổi như chính mình.",
+      "similarity": [
+        [
+          113,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ta đây là... Trở về!\"",
+      "dich": "\"Ta đây là ... quay về rồi!\"",
+      "suggest": "\"Ta là ... Trở về!\"",
+      "similarity": [
+        [
+          0,
+          0.1
+        ],
+        [
+          114,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh trong lòng buông lỏng.",
+      "dich": "Viên Minh thầm thở ra một hơi.",
+      "suggest": "Viên Minh thả lỏng tinh thần.",
+      "similarity": [
+        [
+          5,
+          0.16
+        ],
+        [
+          34,
+          0.16
+        ],
+        [
+          42,
+          0.15
+        ],
+        [
+          47,
+          0.15
+        ],
+        [
+          57,
+          0.12
+        ],
+        [
+          94,
+          0.16
+        ],
+        [
+          98,
+          0.12
+        ],
+        [
+          115,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Con kia hình dạng và cấu tạo cổ phác thanh gốm lư hương lúc này chính bày ra tại trước người hắn, phía trên cắm hai cây tinh tế hắc hương, cái thứ ba hương hỏa đốt hết, chỉ còn lại cuối cùng một chút xíu hoả tinh còn chưa ngừng diệt.",
+      "dich": "Cái lư hương gốm xanh phong cách cổ xưa giờ phút này đang đặt trước người hắn, trên đó cắm hai cây hương đen rất nhỏ, còn cây thứ ba giờ đã cháy gần hết, chỉ còn lại một điểm hỏa tinh chưa tắt.",
+      "suggest": "Lúc này lư hương có hình dạng và cấu tạo giống như bình sứ được khắc trên thân bình sứ, trên đó có cắm hai cây hắc hương tinh tế, cây thứ ba đốt cháy, chỉ còn lại một chút hỏa tinh còn sót lại vẫn chưa ngừng sinh ra.",
+      "similarity": [
+        [
+          116,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn lúc trước dùng để giờ hương bố sợi thô cũng thiêu đốt hầu như không còn, chỉ còn một điểm nắm trong tay, bóp bày hai ngón tay biến thành màu đen, phát ra trận trận thiêu đốt đâm nhói, hiển nhiên là bị bố sợi thô phát hỏa mầm thiêu đốt bố trí.",
+      "dich": "Mà vắt vải thô hắn dùng châm hương khi trước giờ cũng sắp cháy hết, chỉ còn một phần rất nhỏ ở trong tay, đồng thời hai ngón tay từ lúc nào đã bị đốt đen thui, không ngừng truyền ra cảm giác bỏng rát, hiển nhiên là kết quả do lửa từ vắt vải cháy kia tạo ra.",
+      "suggest": "Mà sợi dây thừng mà hắn dùng để đốt hương đã bị đốt cháy hết rồi, chỉ còn một sợi nắm trong tay, bóp chặt hai ngón tay thành một đường màu đen, phát ra tiếng rít gào chói tai, hiển nhiên là bị sợi dây thừng phát hỏa thiêu đốt.",
+      "similarity": [
+        [
+          117,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh lắc lắc ngón tay, xem ra ý thức của hắn giáng lâm đến thiếu niên Hoàng đế trên người thời điểm, thân thể của mình duy trì không nhúc nhích trạng thái, vô tri vô giác, bị hỏa thiêu đến cũng không phản ứng chút nào.",
+      "dich": "Viên Minh lắc lắc ngón tay, xem ra thời điểm ý thức của hắn phủ lên người thiếu niên hoàng đề kia, thân thể hắn vẫn giữ nguyên tư thế không hề nhúc nhích, bất tri bất giác, bị lửa đốt mà cũng không phản ứng chút nào.",
+      "suggest": "Viên Minh lắc lắc ngón tay, xem ra khi ý thức của hắn giáng xuống người thiếu niên hoàng đế, thân thể hắn vẫn giữ trạng thái vô tri vô giác, vô tri vô giác, bị ngọn lửa đốt thành than mà không phản ứng.",
+      "similarity": [
+        [
+          118,
+          0.39
+        ]
+      ],
+      "approved": true
+    }
+  ],
+  "currentWorkingLine": 116,
+  "changed": true
+}

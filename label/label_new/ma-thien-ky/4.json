@@ -1,0 +1,744 @@
+{
+  "next": {
+    "id": 5,
+    "title": "Chương 5 : Thức tỉnh"
+  },
+  "title": {
+    "convert": "Chương 04 : Bạch gia",
+    "dich": "Chương 4 : Bạch gia"
+  },
+  "previous": {
+    "id": 3,
+    "title": "Chương 3 : luyện khí sĩ"
+  },
+  "currentWorkingLine": 121,
+  "approved": true,
+  "lines": [
+    {
+      "convert": "\"Hừ, chạy ra Đại Huyền Quốc?",
+      "dich": "\"Hừ, trốn khỏi Đại Huyền quốc sao?",
+      "suggest": "'Hừ, chạy ra Đại Huyền quốc?",
+      "approved": true
+    },
+    {
+      "convert": "Ngươi thực đem gia chủ hàng năm ban thưởng ở dưới Dưỡng Tâm Đan cho rằng linh đan diệu dược rồi, muốn nhớ năm đó phản bội Bạch gia những người kia kết cục a.",
+      "dich": "Ngươi thực sự cho rằng Dưỡng Tâm Đan hàng năm gia chủ ban thưởng là linh đan diệu dược à, nghĩ lại kết cục của những kẻ phản bội Bạch gia năm đó đi.",
+      "suggest": "Ngươi đem phần thưởng hàng năm mà gia chủ hằng năm cấp cho ngươi là linh đan diệu dược sao? Muốn nhớ lại kết cục phản bội Bạch gia của những người kia.",
+      "approved": true
+    },
+    {
+      "convert": "Huống hồ, ta một nhà già trẻ tất cả đều ở lại Bạch gia.",
+      "dich": "Huống hồ, già trẻ trên dưới một nhà ta đều ở Bạch gia.",
+      "suggest": "Huống hồ, ta có một nhà già cả, tất cả đều ở trong Bạch gia.",
+      "approved": true
+    },
+    {
+      "convert": "Ta đi rồi, bọn hắn lại sao khả năng sống đấy.",
+      "dich": "Ta rời đi, bọn họ sao có khả năng sống sót đây.",
+      "suggest": "Ta đi rồi, bọn họ còn có khả năng sống.",
+      "approved": true
+    },
+    {
+      "convert": "Nhớ không lầm, ngươi năm trước mới lấy mỹ thiếu nữ xinh đẹp, tại đầu năm cũng đã mang thai.",
+      "dich": "Ta nhớ không lầm thì thiếu nữ xinh đẹp ngươi vừa lấy năm ngoái, đầu năm nay cũng đã có thai.",
+      "suggest": "Nhớ không lầm, năm trước ngươi mới lấy được mỹ thiếu nữ xinh đẹp, tại đầu năm mới, hắn đã mang thai.",
+      "approved": true
+    },
+    {
+      "convert": "Theo cái kia Trương thần y nói, tám chín phần mười hay vẫn là một gã nam thai a.\"",
+      "dich": "Theo lời Trương thần y, tám chín phần mười là một bé trai a.\"",
+      "suggest": "Theo lời của Trương thần y, tám chín phần là do một gã nam tử bình thường lừa dối.'",
+      "approved": true
+    },
+    {
+      "convert": "Quan Lão Đại hừ một tiếng, thần sắc âm trầm trả lời.",
+      "dich": "Quan lão đại hừ một tiếng, sắc mặt lạnh lùng trả lời.",
+      "suggest": "Quan Lão Đại hừ một tiếng, thần sắc âm trầm trả lời.",
+      "approved": true
+    },
+    {
+      "convert": "\"Cái này...\"",
+      "dich": "\"Điều này ...\"",
+      "suggest": "'Cái này...'",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam nghe xong lời này, như giội gáo nước lạnh vào đầu, lập tức đứng tại nguyên chỗ bó tay rồi.",
+      "dich": "Cốc lão tam nghe xong lời này, như bị giội một gáo nước lạnh vào đầu, lập tức đứng nguyên tại chỗ không nói câu gì.",
+      "suggest": "Cốc Lão Tam nghe xong lời này, như dội ngay gáo nước lạnh vào đầu, lập tức đứng im tại chỗ bó tay.",
+      "approved": true
+    },
+    {
+      "convert": "\"Thật sự không được lời nói, ta bên này cũng có một cái chết trong cầu sống đích phương pháp xử lý, nhưng có thể giữ được tánh mạng tỷ lệ cũng không cao hơn hai thành, còn muốn tan hết ta và ngươi những năm này sở hữu gia sản mới được.\"",
+      "dich": "\"Nếu thực sự không được, ta đây còn một cách cầu sống trong chỗ chết, nhưng tỷ lệ có thể bảo toàn mạng sống cũng không cao hơn hai thành, hơn nữa còn phải mất hết gia sản của ta và ngươi tích lũy những năm qua mới được.\"",
+      "suggest": "'Thật xin lỗi, ta bên này cũng có một con đường sống, nhưng có khả năng giữ được mạng sống thì cũng không thể cao hơn hai thành, còn phải phá hủy gia sản của ta và ngươi trong những năm này.'",
+      "approved": true
+    },
+    {
+      "convert": "Quan Lão Đại ánh mắt chớp động trong chốc lát về sau, mới nói ra như vậy một phen đến.",
+      "dich": "Ánh mắt Quan lão đại chớp chớp mấy cái, sau đó mới nói ra một lời như vậy.",
+      "suggest": "Ánh mắt Quan Lão Đại chớp động trong chốc lát, mới nói ra một phen.",
+      "approved": true
+    },
+    {
+      "convert": "\"Tan hết gia tài, còn chỉ có hai thành bảo vệ tánh mạng cơ hội?\"",
+      "dich": "\"Mất hết gia tài, lại còn chỉ có hai thành bảo toàn tính mạng?\"",
+      "suggest": "'Toàn gia tài, còn có hai thành viên bảo vệ tánh mạng?'",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam nghe xong lời này, khuôn mặt triệt để khổ xuống dưới.",
+      "dich": "Cốc lão tam nghe xong lời này, khuôn mặt lộ vẻ đau khổ vô cùng.",
+      "suggest": "Cốc Lão Tam nghe xong lời này, khuôn mặt liền đỏ ửng lên.",
+      "approved": true
+    },
+    {
+      "convert": "\"Hừ, nếu không là ta tại Đại phu nhân bên kia có chút quan hệ, điểm ấy mạng sống cơ hội đều không có đấy.",
+      "dich": "\"Hừ, nếu không phải ta có chút quan hệ với Đại phu nhân bên kia, chút cơ hội ấy cũng không có đâu.",
+      "suggest": "'Hừ, nếu không phải ta và Đại phu nhân có quan hệ, chút cơ hội mạng sống cũng không có.",
+      "approved": true
+    },
+    {
+      "convert": "Ngươi như không muốn, ta cũng sẽ không biết miễn cưỡng đấy.\"",
+      "dich": "Nếu ngươi không muốn thì thôi, ta cũng không miễn cưỡng.\"",
+      "suggest": "Ngươi không muốn, ta cũng không miễn cưỡng ngươi đâu.'",
+      "approved": true
+    },
+    {
+      "convert": "Quan Lão Đại lại thản nhiên nói.",
+      "dich": "Quan lão đại thản nhiên nói.",
+      "suggest": "Quan Lão Đại lại thản nhiên nói.",
+      "approved": true
+    },
+    {
+      "convert": "\"Quan Lão Đại đã hiểu lầm, tiểu đệ như thế nào không đáp ứng, chỉ cần có thể giữ được tánh mạng, một ít vật ngoài thân lại được coi là cái gì.\"",
+      "dich": "\"Quan lão đại đã hiểu lầm rồi, tiểu đệ sao lại không đáp ứng được, chỉ cần có thể bảo toàn tính mạng, chút vật ngoài thân ấy thì tính gì.\"",
+      "suggest": "'Quan lão đại đã hiểu lầm, tiểu đệ như thế nào không đáp ứng, chỉ cần có thể giữ được tánh mạng, một ít đồ vật ngoài thân lại được coi là cái gì.'",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam nghe vậy lại càng hoảng sợ, vội vàng bồi vừa cười vừa nói.",
+      "dich": "Cốc lão tam nghe vậy lại càng hoảng sợ, vội vàng vừa cười bồi vừa nói.",
+      "suggest": "Cốc Lão Tam nghe vậy càng sợ hãi, vội vàng chạy đến bên cạnh vừa cười vừa nói.",
+      "approved": true
+    },
+    {
+      "convert": "\"Minh bạch đạo lý này thì tốt rồi!",
+      "dich": "\"Ngươi hiểu rõ đạo lý này thì tốt rồi!",
+      "suggest": "\"Minh bạch đạo lý này thì tốt rồi!",
+      "approved": true
+    },
+    {
+      "convert": "Việc này không nên chậm trễ, tại việc này truyện về đến nhà trước khi, ngươi ta phải trước lặng lẽ trở về Bạch gia, thật nhanh chút ít chuẩn bị tốt hết thảy.\"",
+      "dich": "Việc này không nên chậm trễ, trước khi việc này truyền về tới nhà, ta và ngươi trước tiên phải lặng lẽ trở về Bạch gia, thật nhanh chuẩn bị mọi việc.\"",
+      "suggest": "Việc này không nên chậm trễ, trước khi sự việc trở về nhà kết thúc, ngươi ta phải nhanh chóng trở về Bạch gia, chuẩn bị thật tốt mọi thứ.\"",
+      "approved": true
+    },
+    {
+      "convert": "Quan Lão Đại thần sắc lúc này mới dừng một chút.",
+      "dich": "Lúc này thần sắc Quan lão đại mới hòa hoãn lại đôi chút.",
+      "suggest": "Thần sắc của Quan Lão Đại lúc này mới dừng lại một chút.",
+      "approved": true
+    },
+    {
+      "convert": "Lúc này đây, Cốc Lão Tam tự nhiên liên tục gật đầu đồng ý, cũng không dám nữa biểu hiện bất luận cái gì không tình nguyện thần sắc.",
+      "dich": "Giờ phút này, Cốc lão tam đương nhiên liên tục gật đầu đồng ý, cũng không dám biểu lộ ra tí thần sắc không tình nguyện nào nữa.",
+      "suggest": "Lúc này, Cốc Lão Tam luôn miệng gật đầu đồng ý, cũng không dám biểu hiện thái độ gì khác thường cả.",
+      "approved": true
+    },
+    {
+      "convert": "Vì vậy, hai người tại cái ngôi mộ mới trước lại thương lượng hai câu về sau, Quan Lão Đại lúc này từ trong lòng móc ra một cái không biết tên da thú chế tác màu xanh cái bao tay, hướng trên tay một bộ về sau, hét lớn một tiếng lối ra.",
+      "dich": "Vì vậy, sau khi hai người thương lượng sẽ chôn hết số thi thể này ngay tại đây, lúc này Quan lão đại mới móc từ trong ngực ra một cái bao tay màu xanh không biết được chế tác từ loại da thú nào rồi đeo vào tay, tiếp theo há miệng hét lớn một tiếng.",
+      "suggest": "Vì vậy, khi hai người vừa mới thương lượng qua một chút, Quan Lão Đại lúc này từ trong tay áo lấy ra một cái bao tay màu xanh biếc, chế tác tại trên tay, hét lớn một tiếng.",
+      "approved": true
+    },
+    {
+      "convert": "Màu xanh cái bao tay hiển hiện một tầng chói mắt bạch quang về sau, hướng trước người trên mặt đất hung hăng một đập mà đi.",
+      "dich": "Bao tay màu xanh hiện lên một tầng sáng màu trắng chói mắt, sau đó lập tức đập mạnh về mặt đất trước mắt.",
+      "suggest": "Màu xanh của cái túi hiện lên một tầng ánh sáng trắng chói mắt, hướng về phía người đang ngồi hung hăng nện xuống.",
+      "approved": true
+    },
+    {
+      "convert": "\"Oanh\" một tiếng vang thật lớn.",
+      "dich": "\"Oanh\", một tiếng nổ thật lớn vang lên.",
+      "suggest": "\"Oanh\" một tiếng vang thật lớn.",
+      "approved": true
+    },
+    {
+      "convert": "Vô số cỏ dại bùn đất văng khắp nơi bay vụt, một cái ba thước sâu hố đất lúc này tại hai người trước mặt hiện ra mà ra.",
+      "dich": "Không biết bao nhiêu cỏ dại bùn đất bay lên, văng tung tóe khắp nơi, lúc này một cái hố sâu ba thước hiện ra trước mắt hai người.",
+      "suggest": "Vô số cỏ dại mọc dại khắp nơi, một khoảng không rộng ba thước hiện ra trước mắt hai người.",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam thân hình khẽ động, vây quanh hố đất quấn một vòng lớn, vù vù mấy cước đem mặt khác thi thể tất cả đều đá đi vào.",
+      "dich": "Thân hình Cốc lão tam khẽ động, đi một vòng xung quanh cái hố, 'vù vù' đá tất cả những thi thể khác xuống dưới.",
+      "suggest": "Thân hình Cốc Lão Tam khẽ động, vòng quanh miệng hố liền tung ra một vòng tròn, vù vù mấy cước đem những thi thể khác đẩy ra ngoài.",
+      "approved": true
+    },
+    {
+      "convert": "Nhưng chờ hắn đi đến thiếu niên thi thể lúc trước, thoáng do dự một chút, cánh tay sau này một trảo, liền đem sau lưng trường kiếm theo trong vỏ trực tiếp dắt đi ra.",
+      "dich": "Nhưng lúc gã đi đến trước thi thể thiếu niên, hơi do dự một chút, sau đó cánh tay vòng ra sau lưng, lấy thanh kiếm dài từ trên lưng ra khỏi vỏ.",
+      "suggest": "Nhưng chờ hắn đi tới trước thi thể một thiếu niên, thoáng do dự một chút, cánh tay sau khi tấn công tới, liền đem đoản kiếm giắt ở sau lưng liền lôi ra.",
+      "approved": true
+    },
+    {
+      "convert": "Một ngón tay chỉ là hướng trên thân kiếm một vòng, một đám ánh sáng màu xanh từ phía trên tản ra mà mở.",
+      "dich": "Một ngón tay của gã miết lên thân kiếm một vòng, một chùm ánh sáng màu xanh trên thân kiếm tản ra xung quanh.",
+      "suggest": "Ngón tay chỉ là chỉ về phía chuôi kiếm, một loạt ánh sáng xanh từ trên đó tản ra.",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam thủ đoạn run lên, muốn thúc dục trường kiếm đối với thi thể làm những chuyện gì.",
+      "dich": "Cổ tay Cốc lão tam run lên, như muốn điều khiển thanh kiếm dài làm chuyện gì đó với thi thể.",
+      "suggest": "Thủ đoạn Cốc Lão Tam run lên, muốn thúc dục trường kiếm đối với thi thể làm những việc gì.",
+      "approved": true
+    },
+    {
+      "convert": "Nhưng vào lúc này, vốn là đứng ở bên cạnh Quan Lão Đại, tại lỗ tai khẽ động về sau, bỗng nhiên sắc mặt đại biến một chuyến thủ, hướng bờ sông phương hướng khẽ quát một tiếng:",
+      "dich": "Nhưng đúng vào lúc này, Quan lão đại vốn đang đứng bên cạnh, lỗ tai khẽ động, sau đó sắc mặt bỗng nhiên đại biến, quay mặt về phía bờ sông quát khẽ một tiếng:",
+      "suggest": "Nhưng vào lúc này, vốn đang đứng bên cạnh Quan Lão Đại, sau khi lỗ tai khẽ động đậy một chút, đột nhiên sắc mặt đại biến, hướng về phía bờ sông khẽ quát một tiếng:",
+      "approved": true
+    },
+    {
+      "convert": "\"Là ai, dám can đảm lén lén lút lút nghe lén ta hai người nói chuyện!\"",
+      "dich": "\"Kẻ nào dám cả gan lén lén lút lút nghe lén hai người chúng ta nói chuyện!\"",
+      "suggest": "'Là ai, dám lén lén lút lút nghe lén cuộc nói chuyện của ta?'",
+      "approved": true
+    },
+    {
+      "convert": "Vừa dứt lời, Quan Lão Đại lúc này cánh tay khẽ động, trên nắm tay ánh sáng lóe lên, hoàn toàn không có hình khối không khí thanh thế kinh người phá không bắn ra.",
+      "dich": "Vừa dứt lời, cánh tay Quan lão đại khẽ chuyển động, ánh sáng trên nắm tay lóe lên, một đoàn khí vô hình mang theo thanh thế kinh người bắn ra.",
+      "suggest": "Vừa dứt lời, cánh tay Quan Lão Đại chợt động, ánh sáng trên nắm tay lóe lên, hoàn toàn không có vẻ gì là không khí kinh người bắn ra.",
+      "approved": true
+    },
+    {
+      "convert": "Một tiếng trầm đục!",
+      "dich": "Một tiếng trầm đục vang lên!",
+      "suggest": "Một tiếng trầm đục!",
+      "approved": true
+    },
+    {
+      "convert": "Vài chục trượng bên ngoài một mảnh trong bụi cỏ khí kình cuồng quyển, một cái gầy yếu thân ảnh theo một người trong nhấp nhô mà ra, như vậy nằm sấp trên mặt đất không nhúc nhích.",
+      "dich": "Kình khí quay cuồng trong một bụi cỏ cách đó mấy chục trượng, một bóng người ốm yếu từ trong đó lăn ra, nằm sấp trên mặt đất không nhúc nhích.",
+      "suggest": "Bên ngoài một mảnh bụi cỏ um tùm, một thân ảnh gầy yếu từ trong bụi cỏ nhảy nhót, nằm ở đó không nhúc nhích.",
+      "approved": true
+    },
+    {
+      "convert": "Quan Lão Đại thấy vậy, vài bước đi tới, bay lên một cước, đem gầy yếu thân ảnh lại đá một cái trở mình lăn, lại để cho hắn mặt hướng bên trên nằm nằm.",
+      "dich": "Quan lão đại thấy vậy liền bước mấy bước tới gần đá cho người ốm yếu đó lăn mấy vòng, làm cho mặt hắn hướng lên trời.",
+      "suggest": "Quan Lão Đại thấy vậy, bước tới một bước, đá mạnh thân ảnh gầy yếu kia một cái, làm cho thân ảnh gầy yếu ngã lăn ra, để cho thân ảnh ngã lăn ra, để cho hắn nằm trên mặt đất.",
+      "approved": true
+    },
+    {
+      "convert": "Thình lình cũng là một gã hai mắt nhắm nghiền thiếu niên, chỉ là quần áo rách rưới, toàn thân xích lõa, một bộ hôn mê bất tỉnh bộ dạng.",
+      "dich": "Không ngờ cũng là một thiếu niên nhắm nghiền hai mắt, chẳng qua quần áo rách rươi, lộ ra da thịt toàn thân, bộ dáng hôn mê bất tỉnh.",
+      "suggest": "Thình lình cũng là một thiếu niên hai mắt nhắm nghiền, chỉ là quần áo rách rưới, toàn thân xích lõa, bộ dáng như đã hôn mê bất tỉnh.",
+      "approved": true
+    },
+    {
+      "convert": "\"Chẳng lẽ là theo bên kia sông đã chạy tới, xem ra không cần ta động thủ, có lẽ cũng sống không được bao lâu.\"",
+      "dich": "\"Chẳng lẽ là từ bên kia sông chạy tới đây sao? Xem ra không cần ta ra tay thì hắn cũng chẳng sống thêm được bao lâu nữa.\"",
+      "suggest": "'Chẳng lẽ là từ bên kia sông chạy tới, xem ra không cần ta động thủ, có lẽ cũng không sống được bao lâu.'",
+      "approved": true
+    },
+    {
+      "convert": "Quan Lão Đại cúi đầu đánh giá mới xuất hiện thiếu niên hai mắt, xác định đối phương một điểm uy hiếp không có về sau, mới thở dài một hơi.",
+      "dich": "Quan lão đại cúi đầu đánh giá thiếu niên mới xuất hiện, sau khi khẳng định đối phương không có chút uy hiếp gì, mới thở dài một hơi.",
+      "suggest": "Quan Lão Đại cúi đầu đánh giá hai mắt thiếu niên vừa xuất hiện, xác định một điểm uy hiếp không có sau khi đối phương gây ra, mới thở dài một hơi.",
+      "approved": true
+    },
+    {
+      "convert": "\"Đã như vậy, nhanh lên đưa hắn giải quyết a, lời vừa mới nói sự tình hiện tại có thể một chút cũng không thể tiết lộ ra ngoài đấy.\"",
+      "dich": "\"Nếu đã như vậy thì mau giải quyết hắn đi, chuyện chúng ta vừa nói không thể để lộ ra ngoài chút nào được.\"",
+      "suggest": "'Đã như vậy, nhanh đưa hắn giải quyết đi, chuyện vừa rồi hắn vừa nói có thê một chút cũng không thể tiết lộ ra ngoài.'",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam tại hố to bên cạnh cũng buông lỏng xuống, nhưng không chút do dự nói.",
+      "dich": "Cốc lão tam đứng cạnh hố to cũng thả lỏng đôi chút, nhưng vẫn không chút do dự nói.",
+      "suggest": "Cốc Lão Tam ở bên cạnh cũng thả lỏng xuống, nhưng không chút do dự nói:",
+      "approved": true
+    },
+    {
+      "convert": "\"Cái này không cần ngươi nói, ta cũng biết đấy.",
+      "dich": "\"Cái này không cần ngươi nói ta cũng biết.",
+      "suggest": "'Cái này không cần ngươi nói, ta cũng biết.",
+      "approved": true
+    },
+    {
+      "convert": "Ồ, tiểu tử này tướng mạo...\"",
+      "dich": "Ồ, tướng mạo tiểu tử này ...\"",
+      "suggest": "Tên tiểu tử này tướng mạo thế nào rồi?\"",
+      "approved": true
+    },
+    {
+      "convert": "Quan Lão Đại tức giận trả lời một câu, cánh tay run lên, mang theo cái bao tay nắm đấm lần nữa có ánh sáng màu xanh sáng lên, nhưng khi ánh mắt hướng ** thiếu niên trên mặt đảo qua lúc, bỗng nhiên mặt lộ vẻ một tia kinh ngạc rồi.",
+      "dich": "Quan lão đại tức giận trả lời một câu, cánh tay run lên, ánh sáng màu xanh trên bao tay sáng lên một lần nữa, nhưng khi ánh mắt quét qua gương mặt thiếu niên kia, sắc mặt gã bỗng nhiên lộ vẻ kinh ngạc.",
+      "suggest": "Quan Lão Đại tức giận trả lời một câu, cánh tay run lên, mang theo nắm đấm ánh lên màu xanh biếc, nhưng khi ánh mắt hướng về phía thiếu niên kia đảo qua, đột nhiên lộ ra một tia kinh ngạc.",
+      "approved": true
+    },
+    {
+      "convert": "\"Chuyện gì xảy ra, tướng mạo thì thế nào rồi.\"",
+      "dich": "\"Chuyện gì vậy, tướng mạo hắn làm sao?\"",
+      "suggest": "'Chuyện gì xảy ra, tướng mạo của ngươi như thế nào rồi?'",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam mắt thấy cảnh nầy, tự nhiên kỳ quái.",
+      "dich": "Cốc lão tam mắt thấy cảnh này, đương nhiên thấy làm lạ.",
+      "suggest": "Cốc Lão Tam mắt thấy cảnh tượng đó, tự nhiên cảm thấy kỳ quái.",
+      "approved": true
+    },
+    {
+      "convert": "\"Ngươi sang đây xem xem sẽ biết!\"",
+      "dich": "\"Ngươi qua đây xem sẽ biết!\"",
+      "suggest": "'Ngươi đến đây xem thử sẽ biết!'",
+      "approved": true
+    },
+    {
+      "convert": "Quan Lão Đại đem nắm đấm một lần nữa thu trở lại, ngược lại thần sắc cổ quái hướng Cốc Lão Tam vẫy tay một cái.",
+      "dich": "Quan lão đại thu lại nắm đấm, ngược lại thần sắc cổ quái vẫy vẫy tay ra hiệu cho Cốc lão tam.",
+      "suggest": "Quan Lão Đại thu nắm đấm lại lần nữa, mặt mũi trở nên cổ quái, hướng Cốc Lão Tam vẫy tay.",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam thấy vậy, trong nội tâm tự nhiên càng phát ra kì quái, cũng không có đa tưởng đem trường kiếm trong tay thoáng một phát chọc vào hồi sau lưng, vài bước đã đi tới.",
+      "dich": "Cốc lão tam thấy vậy, trong lòng ngày càng thấy làm lạ, cũng không suy nghĩ thêm gì thu lại thanh kiếm dài lên trên lưng, bước vài bước đi tới.",
+      "suggest": "Cốc Lão Tam thấy vậy, trong lòng tự nhiên càng phát ra kì quái, cũng không có ý định rút kiếm ra sau lưng, chỉ vài bước đã đi tới.",
+      "approved": true
+    },
+    {
+      "convert": "\"Tiểu tử này là người nào, tại sao cùng Thiếu chủ lớn lên như vậy giống nhau?\"",
+      "dich": "\"Tiểu tử này là ai, sao lại trông giống Thiếu Chủ như vậy?\"",
+      "suggest": "'Tiểu tử này là ai, tại sao lại cùng Thiếu chủ giống nhau vậy?'",
+      "approved": true
+    },
+    {
+      "convert": "Chờ người gầy một nhìn rõ ràng ** thiếu niên bộ dáng về sau, cũng thoáng một phát nghẹn ngào lối ra.",
+      "dich": "Đợi sau khi người gầy gò nhìn rõ hình dáng thiếu niên, cũng nghẹn ngào hô lên.",
+      "suggest": "Chờ cho bộ dáng gầy yếu của vị thiếu niên này, cũng thoáng thở dài một hơi.",
+      "approved": true
+    },
+    {
+      "convert": "\"Chừng sáu bảy phần tương tự, chỉ là sắc mặt tái nhợt đi một tí, lông mi đậm đặc rất nhiều, trên mặt còn nhiều thêm vài đạo vết sẹo, làn da thoạt nhìn cũng thô ráp đi một tí, cùng Thiếu chủ nuông chiều từ bé bộ dạng cũng không quá đồng dạng đấy.\"",
+      "dich": "\"Giống nhau chừng sáu bảy phần, chẳng qua là sắc mặt tái nhợt hơn một chút, lông mi dày hơn rất nhiều, trên mặt còn có thêm vài vết sẹo, làn da thoạt nhìn cũng thô ráp hơn một tí, cũng không quá giống Thiếu Chủ được nuông chiều từ bé cho lắm.\"",
+      "suggest": "\"Chỉ là sắc mặt tái nhợt đi một chút, lông mi thưa đi một ít, trên mặt còn nhiều vết sẹo, da mặt thoạt nhìn thô ráp đi một chút, cùng với thiếu chủ nuông chiều nó từ bé cũng không giống nhau.\"",
+      "approved": true
+    },
+    {
+      "convert": "Quan Lão Đại thở dài ra một hơi nói.",
+      "dich": "Quan lão đại thở dài ra một hơi, nói.",
+      "suggest": "Quan Lão Đại thở dài một hơi.",
+      "approved": true
+    },
+    {
+      "convert": "\"Trong thiên hạ dung mạo tương tự chính là người cũng quá nhiều rồi, tại đây gặp một cái cũng không phải quá kỳ lạ quý hiếm sự tình.",
+      "dich": "\"Người trong thiên hạ có gương mặt giống nhau rất nhiều, nơi đây gặp phải một người cũng không phải chuyện gì quá mức ly kỳ.",
+      "suggest": "\"Trong thiên hạ dung mạo tương tự thì nhiều lắm, gặp phải một người như vậy cũng không phải là điều kỳ lạ.",
+      "approved": true
+    },
+    {
+      "convert": "Nói sau hiện tại Thiếu chủ đều đã bị chết, tiểu tử này lớn lên giống như lại có gì cái rắm dùng?",
+      "dich": "Vả lại hiện tại Thiếu Chủ đã chết rồi, tiểu tử này có gương mặt giống Thiếu Chủ thì làm cái rắm gì?",
+      "suggest": "Nói sau khi thiếu chủ đã qua đời, tiểu tử này hình như có cái gì đó để ăn nói vậy?",
+      "approved": true
+    },
+    {
+      "convert": "Huống hồ Thiếu chủ hay vẫn là một gã Linh Mạch giả, nếu không là đã ra ngoài ý muốn, kém cỏi nhất cũng có thể trở thành cùng ta chờ Luyện Khí Sĩ.\"",
+      "dich": "Huống hồ Thiếu Chủ lại là người có linh mạch, nếu không phải xảy ra chuyện ngoài ý muốn, kém nhất cũng có thể trở thành Luyện Khí sĩ bình thường như chúng ta.\"",
+      "suggest": "Huống hồ Thiếu chủ cũng chỉ là một gã Linh Mạch giả, nếu không phải là đã ra ngoài ý muốn, ít nhất cũng có khả năng trở thành Luyện Khí sĩ cùng ta chờ đợi.'",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam phục hồi tinh thần lại về sau, lắc đầu nói.",
+      "dich": "Cốc lão tam sau khi lấy lại tinh thần, lắc đầu nói.",
+      "suggest": "Cốc Lão Tam phục hồi lại tinh thần, lắc đầu nói.",
+      "approved": true
+    },
+    {
+      "convert": "\"Bất quá, nếu là tiểu tử này cũng thực sự có linh mạch, ta ngược lại là có một cái rất tốt bảo vệ tánh mạng biện pháp đấy.",
+      "dich": "\"Tuy nhiên, nếu tiểu tử này thực sự có linh mạch mà nói, ta lại có một biện pháp bảo toàn tính mạng tốt hơn đấy.",
+      "suggest": "\"Bất quá nếu tiểu tử này thật sự có linh mạch, vậy ta ngược lại có một biện pháp bảo vệ tánh mạng rất tốt.",
+      "approved": true
+    },
+    {
+      "convert": "Nhưng thế gian nào có như vậy trùng hợp sự tình.",
+      "dich": "Nhưng thế gian nào có chuyện trùng hợp như vậy.",
+      "suggest": "Nhưng trên đời đâu có sự tình trùng hợp như vậy.",
+      "approved": true
+    },
+    {
+      "convert": "Đối với Luyện Khí thế gia mà nói, bằng vào Huyết Mạch Chi Lực, Linh Mạch giả còn dễ dàng sinh ra đời một điểm.",
+      "dich": "Đối với Luyện Khí thế gia mà nói, bằng vào lực lượng huyết mạch, người có linh mạch còn dễ dàng xuất hiện hơn một chút.",
+      "suggest": "Đối với Luyện Khí thế gia mà nói, chỉ bằng vào Huyết mạch chi lực, Linh Mạch giả còn có thể sinh ra một điểm.",
+      "approved": true
+    },
+    {
+      "convert": "Nhưng đối với người bình thường mà nói, mấy ngàn người trong có thể tìm được một cái Linh Mạch giả cũng không tệ rồi.",
+      "dich": "Nhưng đối với người bình thường thì trong mấy ngàn người mà tìm được một người có linh mạch đã là chuyện không tệ rồi.",
+      "suggest": "Nhưng đối với người bình thường mà nói, có thể tìm được một Linh mạch giả cũng không tệ lắm.",
+      "approved": true
+    },
+    {
+      "convert": "Nói sau người bình thường gia biết rõ chính mình có được linh mạch, không có tu luyện chi pháp cùng đầy đủ tài nguyên, lại sao có thể tu thành Luyện Khí Sĩ.",
+      "dich": "Vả lại người bình thường nếu có linh mạch đi chăng nữa, nếu không có phương pháp tu luyện và đầy đủ tài nguyên, sao có thể tu thành Luyện Khí sĩ được.",
+      "suggest": "Nói sau người bình thường biết được linh mạch của mình không có linh mạch, không có tu luyện chi pháp cùng tài nguyên, như thế làm sao có thể tu thành Luyện Khí sĩ được.",
+      "approved": true
+    },
+    {
+      "convert": "Ta và ngươi lúc đó chẳng phải lúc trước bị kiểm nghiệm ra linh mạch về sau, vừa ngoan tâm trực tiếp đầu phục Bạch gia là bộc, mới có thể tu thành cảnh giới bây giờ ư!\"",
+      "dich": "Chẳng phải lúc đó ta và ngươi sau khi được kiểm nghiệm là có linh mạch, đành phải làm nô bộc cho Bạch gia, mới có thể tu thành cảnh giới bây giờ ư!\"",
+      "suggest": "Lúc đó, ta và ngươi vốn trước kia đã kiểm nghiệm linh mạch, sau đó ngoan tâm trực tiếp đầu nhập Bạch gia làm bộc, mới có thê tu thành cảnh giới như bây giờ sao!\"",
+      "approved": true
+    },
+    {
+      "convert": "Quan Lão Đại không biết nghĩ tới điều gì, có chút thở dài nói.",
+      "dich": "Quan lão đại không biết nghĩ tới điều gì, có chút buồn chán nói.",
+      "suggest": "Quan Lão Đại tựa hồ không nghĩ ra điều gì, có chút thở dài nói.",
+      "approved": true
+    },
+    {
+      "convert": "\"Đúng là như thế a, coi như là cái kia Thượng môn chính mình bồi dưỡng linh mạch đệ tử, cũng không phải ngàn chọn vạn tuyển, phải tư chất tâm tính không một không xuất chúng người mới có thể thực tốn hao tài nguyên từ nhỏ tiến hành bồi dưỡng.",
+      "dich": "\"Đúng là như thế, kể cả là chính những Thượng môn kia bồi dưỡng đệ tử có linh mạch, cũng phải trải qua ngàn tuyển vạn chọn, phải có tư chất tâm tính xuất chúng hơn người mới có thể tiêu phí tài nguyên tiến hành bồi dưỡng từ nhỏ.",
+      "suggest": "\"Đúng vậy, coi như là mình là thượng môn đệ tử bồi dưỡng linh mạch, cũng không phải là chuyện dễ dàng, phải có tư chất và tâm tính không phân biệt xuất chúng mới có thể bồi dưỡng tốt được.",
+      "approved": true
+    },
+    {
+      "convert": "Lại nói tiếp, chúng ta thế gia đệ tử so về những chính thức này Thượng Môn đệ tử mà nói, còn là xa xa không cách nào đánh đồng đấy.\"",
+      "dich": "Lại nói tiếp, những đệ tử thế gia chúng ta so với những đệ tử chính thức của Thượng môn, vẫn còn xa mới có thể so sánh nổi.\"",
+      "suggest": "Lại nói về phần thế gia đệ tử, so với những đệ tử chính thức của Thượng Môn đệ tử bình thường thì còn xa mới bằng một nửa số đệ tử bình thường.'",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam thật không có đa tưởng cái gì trả lời.",
+      "dich": "Cốc lão tam không suy nghĩ gì nhiều nhanh chóng trả lời.",
+      "suggest": "Cốc Lão Tam thật sự không có hỏi qua.",
+      "approved": true
+    },
+    {
+      "convert": "\"Bây giờ nói những có làm được cái gì này rồi, chúng ta hay vẫn là trước bảo trụ chính mình một cái mạng nhỏ mới được là cần gấp nhất đấy.",
+      "dich": "\"Bây giờ có nói những lời này cũng chẳng có tác dụng gì cả, việc cấp bách nhất trước mắt là làm sao bảo toàn được tính mạng.",
+      "suggest": "\"Bây giờ nói đến chuyện bảo trụ bản thân thì việc trước tiên phải làm chính là bảo trụ cái mạng nhỏ này trước đã.",
+      "approved": true
+    },
+    {
+      "convert": "Xem tại tiểu tử này như vậy tuổi trẻ phân thượng, lần này ta cho thứ nhất cái toàn thây a.\"",
+      "dich": "Nhìn tiểu tử này trẻ tuổi như vậy, thôi thì cho hắn chết toàn thây vậy.\"",
+      "suggest": "Xem ra tên tiểu tử này tuổi còn trẻ, đã bước qua tuổi băm rồi, lần này ta cho hắn một cái toàn thây.'",
+      "approved": true
+    },
+    {
+      "convert": "Quan Lão Đại không nói thêm gì nữa, cánh tay khẽ động, trên nắm tay lúc này lần nữa chớp động khởi nhàn nhạt ánh sáng màu xanh.",
+      "dich": "Quan lão đại không nói thêm gì nữa, cánh tay khẽ động, lúc này trên nắm tay lại lần nữa chớp động ánh sáng màu xanh nhàn nhạt.",
+      "suggest": "Quan Lão Đại không nói gì nữa, cánh tay khẽ động, trên tay lúc này ánh lên một chút ánh sáng xanh biếc.",
+      "approved": true
+    },
+    {
+      "convert": "Một bên Cốc Lão Tam, tự nhiên sẽ không tiến hành chút nào ngăn trở đấy.",
+      "dich": "Cốc lão tam bên cạnh đương nhiên không cản trở chút nào.",
+      "suggest": "Bên phía Cốc Lão Tam, tự nhiên sẽ không có bất kì cản trở nào.",
+      "approved": true
+    },
+    {
+      "convert": "Chỉ thấy hắn cánh tay khẽ động, chớp động ánh sáng màu xanh nắm đấm, tựu vô thanh vô tức kích tại thiếu niên vùng đan điền.",
+      "dich": "Chỉ thấy cánh tay gã khẽ động, nắm đấm chớp lóe ánh sáng màu xanh, yên lặng đánh về phía đan điền của thiếu niên.",
+      "suggest": "Chỉ thấy cánh tay hắn khẽ động, chớp động ánh sáng xanh biếc, tựu vô thanh vô tức kích vào đan điền của thiếu niên.",
+      "approved": true
+    },
+    {
+      "convert": "Này một công kích vận dụng chính là phù khí âm nhu chi lực, tuy nhiên nhìn như thanh thế đều không có, uy năng cũng xa không phải lúc trước công kích có thể so sánh, nhưng là đủ để đem thiếu niên ngũ tạng tất cả đều chấn vỡ vụn, lập tức tựu lấy đi tánh mạng đấy.",
+      "dich": "Công kích này chính là vận dụng lực âm nhu của Phù Khí, tuy rằng nhìn như không có chút thanh thế nào, nhưng uy năng cũng hơn xa công kích lúc trước, thừa đủ để đánh nát tất cả ngũ tạng của thiếu niên, ngay lập tức lấy đi mạng sống của hắn.",
+      "suggest": "Một đòn này vận dụng chính là âm nhu chi lưc, mặc dù nhìn bề ngoài không có gì nổi bật, nhưng uy năng lại xa không phải là loại công kích tầm thường, nhưng là đủ để làm cho ngũ tạng của thiếu niên chấn vỡ vụn, lập tức lấy đi tánh mạng.",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam thấy vậy, không hề xem kết quả gì, quay người phải trở về đến lừa bịp bên cạnh đi, tiếp tục xử lý 'Thiếu chủ' thi thể đi.",
+      "dich": "Cốc lão tam thấy vậy, biết là không còn gì để xem nữa liền quay người trở lại bên cạnh hố sâu, tiếp tục xử lý thi thể 'Thiếu Chủ'.",
+      "suggest": "Cốc Lão Tam thấy vậy, không hề xem xét đến kết quả, quay người phải trở về chỗ lừa gạt, tiếp tục xử lý thi thể của thiếu chủ.",
+      "approved": true
+    },
+    {
+      "convert": "Nhưng tựu lúc này, phía sau hắn chỗ lại thoáng một phát truyền đến kinh hô thanh âm:",
+      "dich": "Nhưng đúng lúc này, phía sau gã truyền tới một tiếng kinh hô:",
+      "suggest": "Nhưng vào lúc này, phía sau hắn lại truyền đến thanh âm kinh hô:",
+      "approved": true
+    },
+    {
+      "convert": "\"Không có khả năng, tiểu tử này vậy mà tu hữu Nguyên lực, lại thật sự là một gã Linh Mạch giả.\"",
+      "dich": "\"Không thể nào, tiểu tử này vậy mà lại có Nguyên lực, lại thật sự là một gã có linh mạch.\"",
+      "suggest": "'Không có khả năng, tên tiểu tử này tu vi vây mà tu luyên Nguyên lực, thật sự là một gã Linh Mạch giả.'",
+      "approved": true
+    },
+    {
+      "convert": "Quan Lão Đại thanh âm, hơi có chút phát run.",
+      "dich": "Giọng nói của Quan lão đại có chút run run.",
+      "suggest": "Thanh âm của Quan Lão Đại, có chút run rẩy.",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam nghe vậy cả kinh, vội vàng xoay người lần nữa nhìn lại.",
+      "dich": "Cốc lão tam nghe vậy thì cả kinh, vội vàng xoay người lại nhìn lần nữa.",
+      "suggest": "Cốc Lão Tam nghe vậy cả kinh, vội vàng xoay người lại nhìn lại.",
+      "approved": true
+    },
+    {
+      "convert": "Chỉ thấy Quan Lão Đại một tay nâng mang theo cái bao tay nắm đấm, nhưng mặt ngoài phát ra hào quang dĩ nhiên không còn sót lại chút gì.",
+      "dich": "Chỉ thấy hào quang mặt ngoài bao tay trên một tay Quan lão đại không ngờ lại không còn sót lại chút gì.",
+      "suggest": "Chỉ thấy Quan Lão Đại một tay giơ cao nắm đấm, nhưng vẻ ngoài phát ra hào quang dĩ nhiên không còn chút nào.",
+      "approved": true
+    },
+    {
+      "convert": "Mà hôn mê bất tỉnh thiếu niên phần bụng, tắc thì nhiều ra một đoàn cơ hồ nhạt như không thấy màu trắng vầng sáng, tại như ẩn như hiện trong tùy thời đều có thể tán loạn bộ dạng.",
+      "dich": "Mà phần bụng thiếu niên đang hôn mê bất tỉnh lại xuất hiện thêm một vầng sáng máu trắng mờ mờ như vô hình, như ẩn như hiện, lúc nào cũng có thể tán đi.",
+      "suggest": "Mà phần bụng của thiếu niên đã hôn mê bất tỉnh, thỉnh thoảng xuất hiện một vầng sáng trắng cơ hồ như không có gì cả, ở trong bóng tối tùy thời đều có thể thấy được bộ dáng của hắn.",
+      "approved": true
+    },
+    {
+      "convert": "\"Nguyên lực hộ thể, tiểu tử này lại thật sự là một gã Linh Mạch giả, còn giống như không hề thiển Nguyên lực trụ cột.\"",
+      "dich": "\"Nguyên lực hộ thể, tiểu tử này thật sự là một gã có linh mạch, hơn nữa hình như trụ cột Nguyên lực cũng không thấp.\"",
+      "suggest": "\"Nguyên lực hộ thể, tiểu tử này thật sự là một gã Linh Mạch giả, không những không có trụ cột về mặt nguyên lực, còn giống như không có chút trụ cột nào cả.\"",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam khó có thể tin.",
+      "dich": "Cốc lão tam nói với vẻ khó có thể tin được.",
+      "suggest": "Cốc Lão Tam khó có thể tin.",
+      "approved": true
+    },
+    {
+      "convert": "\"Ha ha, lúc này đây thật sự là trời không tuyệt đường người rồi.",
+      "dich": "\"Ha ha, đúng là Trời không tuyệt đường người.",
+      "suggest": "'Ha ha, lúc này thật sự là trời không tuyệt đường người rồi.",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam, không cần bây giờ trở về Bạch gia rồi, đã có tiểu tử này, chúng ta lần này đã có thể tánh mạng không lo.\"",
+      "dich": "Cốc lão tam, bây giờ chúng ta không cần trở về Bạch Gia nữa, đã có tiểu tử này, lần này chúng ta không cần lo lắng đến việc bảo toàn mạng sống rồi.\"",
+      "suggest": "Cốc Lão Tam, không cần bây giờ trở về Bạch gia nữa, đã có tiểu tử này, chúng ta lần này đã có thể tánh mạng không lo lắng rồi.'",
+      "approved": true
+    },
+    {
+      "convert": "Quan Lão Đại ngơ ngác xem trên mặt đất hôn mê thiếu niên trong chốc lát về sau, bỗng nhiên dương thủ cười ha hả, thần sắc mơ hồ có chút mê bộ dạng.",
+      "dich": "Quan lão đại ngơ ngác nhìn thiếu niên đang hôn mê trên mặt đất trong chốc lát, sau đó bỗng nhiên ngửa mặt lên trời cười ha hả, thần sắc mơ hồ có chút mê man.",
+      "suggest": "Quan Lão Đại ngơ ngác nhìn thiếu niên nằm trên mặt đất hôn mê một hồi, đột nhiên dương thủ cười ha hả, thần sắc mơ hồ có chút mê man.",
+      "approved": true
+    },
+    {
+      "convert": "\"Quan Lão Đại, lời này có ý tứ gì.",
+      "dich": "\"Quan lão đại, lời này là có ý gì?",
+      "suggest": "'Quan lão đại, lời này của ông có ý gì.",
+      "approved": true
+    },
+    {
+      "convert": "Tiểu tử này có linh mạch, chúng ta làm sao lại có thể giữ được tánh mạng rồi.\"",
+      "dich": "Tiểu tử này có linh mạch có liên quan gì tới chuyện chúng ta có thể bảo toàn mạng sống?\"",
+      "suggest": "Tiểu tử này có linh mạch, chúng ta làm sao có thể giữ được tánh mạng chứ.'",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam mở trừng hai mắt, có một tia hồ đồ..",
+      "dich": "Cốc lão tam trợn lớn hai mắt, trên mặt lộ rõ vẻ không hiểu nổi.",
+      "suggest": "Cốc Lão Tam mở hai mắt ra, có một tia hồ đồ.",
+      "approved": true
+    },
+    {
+      "convert": "\"Gia chủ tại sao phải muốn lấy chúng ta tánh mạng?\"",
+      "dich": "\"Tại sao gia chủ lại muốn lấy mạng chúng ta?\"",
+      "suggest": "'Gia chủ tại sao phải đem tánh mạng của chúng ta?'",
+      "approved": true
+    },
+    {
+      "convert": "Quan Lão Đại tiếng cười một dừng lại về sau, lập tức phản hỏi một câu.",
+      "dich": "Sau khi Quan lão đại cười hết một trận, gã lập tức hỏi lại một câu.",
+      "suggest": "Quan Lão Đại tiếng cười một ngừng, sau đó lập tức phản hỏi một câu.",
+      "approved": true
+    },
+    {
+      "convert": "\"Tự nhiên là bởi vì Thiếu chủ tại chúng ta hộ vệ hạ đưa tánh mạng!\"",
+      "dich": "\"Đương nhiên là vì Thiếu Chủ mất mạng dưới sự bảo vệ của chúng ta!\"",
+      "suggest": "\"Tự nhiên là bởi vì Thiếu chủ đang hộ vệ chúng ta!\"",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam không hiểu ra sao rồi.",
+      "dich": "Cốc lão tam không hiểu ra sao.",
+      "suggest": "Cốc Lão Tam không hiểu ra sao.",
+      "approved": true
+    },
+    {
+      "convert": "\"Hắc hắc, có thể Thiếu chủ hôm nay bất chính ở chỗ này ư!\"",
+      "dich": "\"Hắc hắc, chẳng phải hiện giờ Thiếu Chủ đang ở chỗ này ư!\"",
+      "suggest": "'Hắc hắc, có lẽ hôm nay Thiếu chủ không có ở chỗ này!'",
+      "approved": true
+    },
+    {
+      "convert": "Quan Lão Đại dùng ngón tay một điểm trước người hôn mê thiếu niên, cười lạnh một tiếng trả lời.",
+      "dich": "Quan lão đại dùng ngón tay chỉ vào người thiếu niên đang hôn mê, cười lạnh một tiếng đáp.",
+      "suggest": "Quan Lão Đại dùng ngón tay chỉ thiếu niên đang hôn mê, cười lạnh một tiếng trả lời.",
+      "approved": true
+    },
+    {
+      "convert": "\"Cái gì, ý của ngươi là...\"",
+      "dich": "\"Cái gì? Ý của ngươi là ...\"",
+      "suggest": "'Cái gì, ý của ngươi là...'",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam cũng là không ngu ngốc, lập tức tỉnh ngộ đi qua, sắc mặt lại thoáng một phát còn hơn hồi nãy nữa trắng rồi ba phần.",
+      "dich": "Cốc lão tam cũng không quá ngu ngốc, lập tức tỉnh ngộ, hai mắt còn trợn to hơn lúc nãy ba phần.",
+      "suggest": "Cốc Lão Tam cũng không ngu ngốc, lập tức tỉnh ngộ, sắc mặt lập tức trở nên trắng bệch đi.",
+      "approved": true
+    },
+    {
+      "convert": "\"Đúng vậy, chúng ta tựu thi triển thay mận đổi đào kế sách, mang tiểu tử đi chỗ đó Man Quỷ Tông, đến lúc đó đem hắn đến Thượng môn sứ giả chỗ một ném, có thể nghênh ngang trở lại Bạch gia, tiếng người đã đưa đến rồi.",
+      "dich": "\"Đúng vậy, chúng ta chỉ cần dùng kế thay mận đổi đào, đưa tiểu tử này tới Man Quỷ Tông, đến lúc đó ném hắn vào chỗ sứ giả của Thượng môn, sau đó liền có thể nghênh ngang trở về Bạch gia, nói là đã đưa người đến rồi.",
+      "suggest": "\"Đúng vậy, chúng ta sẽ thi triển kế sách thay mận đổi đào, đem tiểu tử đi chỗ Man Quỷ Tông, đến lúc đó đem hắn đi sứ giả của Man Quỷ Tông, đến lúc đó đem hắn ra sứ giả Thượng môn sứ giả, có thể nghênh ngang trở về Bạch gia, tiếng hô đã đưa đến.",
+      "approved": true
+    },
+    {
+      "convert": "Gia chủ chỉ cần thu được Thượng Môn bên kia hồi phục, tự nhiên sẽ không hoài nghi mảy may đấy.",
+      "dich": "Gia chủ chỉ cần thu được hồi báo của phía Thượng môn, đương nhiên sẽ không mảy may hoài nghi gì cả.",
+      "suggest": "Gia chủ chỉ cần phục hồi lại như cũ, tự nhiên sẽ không hoài nghi gì nữa.",
+      "approved": true
+    },
+    {
+      "convert": "Kể từ đó, chúng ta ngược lại có công không đã qua.\"",
+      "dich": "Như vậy, chúng ta ngược lại còn lập được công lớn đó.\"",
+      "suggest": "Kể từ đó, chúng ta cũng không có công gì đã qua.\"",
+      "approved": true
+    },
+    {
+      "convert": "Quan Lão Đại tỉnh táo dị thường nói.",
+      "dich": "Quan lão đại tỉnh táo lạ thường nói.",
+      "suggest": "Quan Lão Đại tỉnh táo nói.",
+      "approved": true
+    },
+    {
+      "convert": "\"Như vậy thật có thể đi, tiểu tử này cùng Thiếu chủ lớn lên cũng không phải là toàn bộ như, vạn nhất lộ ra chân tướng làm sao bây giờ.",
+      "dich": "\"Làm như vậy có được không, tiểu tử này và Thiếu Chủ cũng không phải hoàn toàn giống nhau, vạn nhất bị lộ ra thì làm thế nào?",
+      "suggest": "'Như vậy là tốt rồi, tiểu tử này cùng Thiếu chủ lớn lên cũng không phải là hoàn toàn giống nhau, vạn nhất lộ ra chân tướng thì làm sao bây giờ.",
+      "approved": true
+    },
+    {
+      "convert": "Huống chi, cái này hắn không rõ lai lịch, như thế nào đơn giản đáp ứng việc này hay sao?\"",
+      "dich": "Huống chi lai lịch của hắn không rõ ràng, sao có thể dễ dàng đáp ứng việc này được?\"",
+      "suggest": "Huống chi, hắn không rõ lai lịch, như thế nào có thể đáp ứng được việc này?\"",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam sắc mặt biến hóa bất định, lẩm bẩm nói.",
+      "dich": "Sắc mặt Cốc lão tam thay đổi liên tục, lẩm bẩm nói.",
+      "suggest": "Sắc mặt Cốc Lão Tam trở nên bất định, lẩm bẩm nói.",
+      "approved": true
+    },
+    {
+      "convert": "\"Hừ, ngươi sợ cái gì?",
+      "dich": "\"Hừ, ngươi sợ cái gì?",
+      "suggest": "'Hừ, ngươi sợ cái gì?",
+      "approved": true
+    },
+    {
+      "convert": "Tiểu tử này chỉ cần tiến Thượng Môn, Bạch gia nhân còn muốn gặp hắn mà nói, tối thiểu cũng muốn mấy năm sau sự tình.",
+      "dich": "Chỉ cần tiểu tử này vào Thượng môn, người Bạch gia muốn gặp hắn tối thiểu cũng là chuyện mấy năm sau.",
+      "suggest": "Tiểu tử này chỉ cần tiến vào Thượng Môn, Bạch gia nhân còn muốn gặp mặt hắn vài lần, ít nhất cũng phải vài năm sau.",
+      "approved": true
+    },
+    {
+      "convert": "Huống chi, dùng Khai Linh nghi thức bên trên trình độ kinh khủng mà nói, tiểu tử này tại không thụ qua chuyên môn huấn luyện dưới tình huống, tám chín phần mười sẽ trực tiếp bị mất mạng mất đấy.",
+      "dich": "Huống chi, với mức độ kinh khủng của nghi thức khai linh mà nói, tiểu tử này lại không được trải qua huấn luyện chuyên môn, tám chín phần mười sẽ trực tiếp mất mạng.",
+      "suggest": "Huống chi, với trình độ Khai Linh nghi thức của hắn mà nói, dưới tình huống không được huấn luyện chuyên nghiệp, tám chín phần là sẽ trực tiếp bị mất mạng.",
+      "approved": true
+    },
+    {
+      "convert": "Kể từ đó, chúng ta tựu lo toan không lo.",
+      "dich": "Như vậy thì chúng ta chẳng cần lo lắng gì nữa.",
+      "suggest": "Kể từ đó, chúng ta không phải lo lắng.",
+      "approved": true
+    },
+    {
+      "convert": "Về phần bộ dáng của hắn, ngươi đã quên chính mình chưa thành vi Luyện Khí Sĩ trước, là dựa vào cái gì ăn cơm đấy.",
+      "dich": "Về phần hình dáng của hắn, người đã quên mình trước đây khi chưa trở thành Luyện Khí sĩ là dựa vào cái gì để kiếm cơm sao.",
+      "suggest": "Về phần bộ dáng của hắn, ngươi đã quên chính mình chưa thành Luyện Khí sĩ, vậy phải dựa vào cái gì mà ăn cơm.",
+      "approved": true
+    },
+    {
+      "convert": "Cũng không cần toàn bộ như Thiếu chủ, chỉ cần nhiều ra hai phần cực giống là được rồi.",
+      "dich": "Cũng không cần hoàn toàn giống Thiếu Chủ, chỉ cần nhiều thêm hai ba phần là được rồi.",
+      "suggest": "Cũng không cần toàn bộ như Thiếu chủ, chỉ cần nhiều hơn hai phần giống hệt nhau là được.",
+      "approved": true
+    },
+    {
+      "convert": "Dù sao Thượng Môn chỗ đó cũng chỉ có Thiếu chủ một năm trước hình ảnh, hiện tại có chút biến hóa cũng là bình thường sự tình.\"",
+      "dich": "Dù sao Thượng môn cũng chỉ có hình ảnh của Thiếu Chủ một năm trước mà thôi, hiện tại có chút thay đổi cũng là chuyện rất bình thường.\"",
+      "suggest": "Dù sao chỗ đó cũng chỉ có hình ảnh của Thiếu chủ một năm trước, hiện tại có chút biến hóa cũng là chuyện bình thường.'",
+      "approved": true
+    },
+    {
+      "convert": "Quan Lão Đại tắc thì đã tính trước nói.",
+      "dich": "Quan lão đại như đã tính trước, nói.",
+      "suggest": "Quan Lão Đại tắc đã tính trước.",
+      "approved": true
+    },
+    {
+      "convert": "\"Có thể nếu là hắn thực thông qua Khai Linh nghi thức, đã trở thành Thượng Môn Linh đồ làm sao bây giờ?\"",
+      "dich": "\"Nhưng nếu hắn thực sự thông qua nghi thức khai linh, trở thành Linh Đồ Thượng môn thì làm thế nào?\"",
+      "suggest": "'Có thê nếu hắn thông qua nghi thức Khai linh nghi thức, đã trở thành Linh đồ Thượng Môn rồi sao?'",
+      "approved": true
+    },
+    {
+      "convert": "Cốc Lão Tam nhưng có vài phần chần chờ.",
+      "dich": "Cốc lão tam có vài phần chần chờ nói.",
+      "suggest": "Cốc Lão Tam có chút chần chờ.",
+      "approved": true
+    },
+    {
+      "convert": "\"Trở thành Linh đồ?",
+      "dich": "\"Trở thành Linh Đồ hả?",
+      "suggest": "'Trở thành Linh đồ?",
+      "approved": true
+    },
+    {
+      "convert": "Ngươi hẳn là còn chưa có tỉnh ngủ?",
+      "dich": "Chẳng lẽ ngươi còn chưa tỉnh ngủ sao?",
+      "suggest": "Ngươi hẳn là vẫn chưa tỉnh dậy?",
+      "approved": true
+    },
+    {
+      "convert": "Những năm qua Khai Linh nghi thức ở bên trong, thế gia đệ tử có thể có mấy người trở thành Linh đồ đấy.",
+      "dich": "Những năm qua, con cháu thế gia có mấy người trở thành Linh Đồ sau nghi thức khai linh?",
+      "suggest": "Nghi thức Khai Linh nghi thức đã được tiến hành trong đám thế gia đệ tử, có mấy người trở thành Linh đồ.",
+      "approved": true
+    },
+    {
+      "convert": "Huống hồ lần này sau khi trở về, chúng ta sẽ muốn hết mọi biện pháp giải này Dưỡng Tâm Đan độc, sau đó nhìn một cơ hội tựu triệt để thoát ly Bạch gia rồi.",
+      "dich": "Huống hồ lần này sau khi trở về, chúng ta sẽ nghĩ tất cả các biện pháp để giải độc Dưỡng Tâm Đan, sau đó tìm một cơ hội hoàn toàn rời khỏi Bạch gia.",
+      "suggest": "Huống hồ lần này trở về, chúng ta sẽ tìm mọi cách để giải độc Dưỡng Tâm Đan này, sau đó nhìn một chút cơ hội thoát ly khỏi Bạch gia, chúng ta xem chừng có cơ hội nào đó tựu hoàn toàn thoát ly khỏi Bạch gia.",
+      "approved": true
+    },
+    {
+      "convert": "Cho dù tiểu tử này thật không có chết mất, lại giày vò xảy ra chuyện gì đến, cùng chúng ta lại có quan hệ như thế nào rồi.",
+      "dich": "Cho dù tiểu tử này thực sự không chết, sau đó có xảy ra chuyện gì thì cũng chẳng có liên quan gì tới hai chúng ta cả.",
+      "suggest": "Cho dù tiểu tử này thật sự không chết, cũng không biết đã xảy ra chuyện gì, cùng chúng ta có quan hệ như thế nào.",
+      "approved": true
+    },
+    {
+      "convert": "Ta hai người chỉ cần trước giải quyết hết trước mắt đại họa sát thân, mặt khác hết thảy tự nhiên đều dễ nói rồi.",
+      "dich": "Hai ta chỉ cần giải quyết họa sát thân trước mắt, còn lại tất cả chuyện khác đương nhiên đều dễ dàng giải quyết rồi.",
+      "suggest": "Hai người ta chỉ cần trước tiên giải quyết đại họa sát thân trước mắt, những việc khác tự nhiên sẽ dễ dàng giải quyết.",
+      "approved": true
+    },
+    {
+      "convert": "Về phần thuyết phục tiểu tử này, cái này đối với ngươi ta mà nói càng là một kiện chuyện dễ dàng, đợi lát nữa chúng ta cứ như vậy làm...\"",
+      "dich": "Về phần thuyết phục tiểu tử này, chuyện này đối với ta lại càng thêm dễ dàng, đợi lát nữa chúng ta cứ như thế này mà làm ...\"",
+      "suggest": "Về phần thuyết phục tên tiểu tử này, cái này đối với ngươi càng là một chuyện dễ dàng, đợi lát nữa chúng ta cứ như vậy mà làm...'",
+      "approved": true
+    },
+    {
+      "convert": "Quan Lão Đại nói mấy câu về sau, đưa lỗ tai đã đến Cốc Lão Tam bên tai, thấp giọng nói đi một tí cái gì.",
+      "dich": "Quan lão đại nói mấy câu, sau đó liền ghé sát lỗ tai Cốc lão tam, thấp giọng nói gì đó.",
+      "suggest": "Quan Lão Đại sau khi nói xong, đưa lỗ tai lên gần lỗ tai của Cốc Lão Tam, thấp giọng nói cái gì đó.",
+      "approved": true
+    }
+  ]
+}

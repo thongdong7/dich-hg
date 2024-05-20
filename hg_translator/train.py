@@ -19,18 +19,19 @@ import numpy as np
 
 # Save the start time to measure execution time of the script
 import time
+from .model_config import (
+    model_name,
+    num_train_epochs,
+    per_device_train_batch_size,
+    per_device_eval_batch_size,
+    checkpoint,
+    prefix,
+)
 
 start = time.time()
 
 # Config
 # number_of_books = 100
-model_name = "convert_dich"
-num_train_epochs = 30
-
-per_device_train_batch_size = 8
-per_device_eval_batch_size = 8
-
-checkpoint = "VietAI/vit5-base"
 
 print("Number of train epochs:", num_train_epochs)
 
@@ -38,7 +39,7 @@ repo_dir = dirname(dirname(abspath(__file__)))
 print("Repo directory:", repo_dir)
 os.chdir(repo_dir)
 
-label_dir = join(repo_dir, "tien_hiep/label")
+label_dir = join(repo_dir, "tien_hiep/label_new")
 if not exists(label_dir):
     label_dir = join(repo_dir, "label")
 
@@ -55,27 +56,23 @@ def gen():
             if file.endswith(".json"):
                 file_path = os.path.join(root, file)
                 file_id = os.path.relpath(file_path, label_dir).split(".")[0]
-                print("Processing file:", file_id)
+                print("Processing file:", file_id, flush=True)
                 with open(file_path, "r") as f:
                     data = json.load(f)
-                    try:
-                        approve_lines = data.get("approvedLines", [])
-                        convert_lines = data["convert"]["data"]["lines"]
-                        dich_lines = data["dich"]["data"]["lines"]
-                    except Exception as e:
-                        print("Error processing file:", file)
-                        print(e)
-                        exit(1)
 
-                    for line in approve_lines:
-                        if line < len(convert_lines) and line < len(dich_lines):
-                            yield {
-                                "id": f"{file_id}_{line}",
-                                "translation": {
-                                    "convert": convert_lines[line],
-                                    "dich": dich_lines[line],
-                                },
-                            }
+                for i, line in enumerate(data["lines"]):
+                    if (
+                        line.get("approved")
+                        and line.get("convert")
+                        and line.get("dich")
+                    ):
+                        yield {
+                            "id": f"{file_id}_{i}",
+                            "translation": {
+                                "convert": line["convert"],
+                                "dich": line["dich"],
+                            },
+                        }
 
 
 ds = Dataset.from_generator(gen)
@@ -95,10 +92,7 @@ print("Sample train data:", train_data[0])
 print("Number of train data:", len(train_data))
 # {'id': '3_34', 'translation': {'convert': 'Buổi sáng về sau, Vương hộ pháp cũng không có nhường mọi người ăn điểm tâm, trực tiếp bả nhiều người người tới dưới núi một mảng lớn đủ loại cây trúc sườn dốc trước mặt', 'dich': 'Hôm sau trời vừa sáng, Vương hộ pháp cũng không để cho mọi người được ăn điểm tâm, trực tiếp mang cả bọn xuống núi, tới trước một khu rừng trúc rậm rạp'}}
 
-
-# checkpoint = "google-t5/t5-small"
 tokenizer_model = checkpoint
-# tokenizer_model = "vinai/phobert-base-v2"
 
 
 def load_tokenizer():
@@ -113,16 +107,13 @@ tokenizer = load_tokenizer()
 source_lang = "convert"
 target_lang = "dich"
 
-if "google-t5" in tokenizer_model:
-    prefix = "translate English to French: "
-else:
-    prefix = "dịch sang tiếng Việt: "
-
 
 def preprocess_function(examples):
     inputs = [prefix + example[source_lang] for example in examples["translation"]]
     targets = [example[target_lang] for example in examples["translation"]]
-    model_inputs = tokenizer(inputs, text_target=targets, truncation=True)
+    model_inputs = tokenizer(
+        inputs, text_target=targets, truncation=False, padding=True
+    )
     # print("model inputs:", model_inputs)
     # model inputs: {'input_ids': [[13959, 1566, 12, 2379, 10, 27, 1], [13959, 1566, 12, 2379, 10, 1853, 10842, 10327, 3316, 1]], 'attention_mask': [[1, 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], 'labels': [[3, 20891, 4111, 20371, 22694, 329, 18988, 1], [9132, 276, 18433, 9215, 5999, 14132, 1]]}
     return model_inputs
@@ -180,6 +171,17 @@ def compute_metrics(eval_preds):
 
 # train
 model = AutoModelForSeq2SeqLM.from_pretrained(checkpoint)
+
+# raw_inputs = [
+#     "Viên Minh nhìn một cái còn tại nhắm mắt điều tức Cáp Cống, không có lên tiếng quấy rầy, ngẩng đầu nhìn về phía hẻm núi phía trên.",
+#     "Hắn cũng không phải là đang lo lắng Ô Bảo bọn người sẽ truy vào đến, trong hạp cốc khu vực rộng rãi, chớ nói Thanh Lang Bang cùng Liệp Cẩu Đường tổng cộng bất quá mấy chục người quy mô, chính là nhiều gấp bội, muốn tìm được bọn hắn cũng khó như lên trời.",
+# ]
+# inputs = tokenizer(raw_inputs, padding=True, truncation=False, return_tensors="pt")
+# print(inputs)
+
+# outputs = model(**inputs)
+# print(outputs.logits.shape)
+# exit(1)
 
 temp_dir = tempfile.gettempdir()
 print("Temp dir:", temp_dir)

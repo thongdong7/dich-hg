@@ -1,0 +1,1506 @@
+{
+  "next": {
+    "id": 57,
+    "title": "Chương 57 : u minh quy dia"
+  },
+  "title": {
+    "convert": "Chương 56 : Quỷ lão",
+    "dich": "Chương 56 : Quỷ lão"
+  },
+  "previous": {
+    "id": 55,
+    "title": "Chương 55 : Phù Nỏ và Xạ Dương Tiễn"
+  },
+  "currentWorkingLine": 112,
+  "changed": true,
+  "approved": true,
+  "lines": [
+    {
+      "convert": "\"Già Lam \"",
+      "dich": "\"Già Lam!\"",
+      "suggest": "\"Già Lam!\"",
+      "similarity": [
+        [
+          0,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lôi Thần vừa nhìn rõ ràng nữ tử khuôn mặt về sau, thoáng một phát lộ ra sợ hãi lẫn vui mừng phàm nhân kêu ra miệng bên ngoài.",
+      "dich": "Sau khi Lôi Thần vừa nhìn rõ khuôn mặt thiếu nữ, bỗng nhiên lộ ra vẻ sợ hãi lẫn vui mừng thốt lên một câu.",
+      "suggest": "Lôi Thần vừa nhìn rõ khuôn mặt nữ tử, sau đó liền lộ vẻ sợ hãi lẫn vui mừng lẫn vui mừng, phàm nhân bên ngoài hét lớn mấy tiếng.",
+      "similarity": [
+        [
+          1,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Nguyên lai là Lôi sư đệ?\"",
+      "dich": "\"Ra là Lôi sư đệ!\"",
+      "suggest": "\"Ra là Lôi sư đệ?\"",
+      "similarity": [
+        [
+          2,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Áo xanh thiếu nữ vừa thấy Lôi Thần, nhưng chỉ là nhàn nhạt nói một câu, nhưng ánh mắt vừa rơi xuống tại Liễu Minh trên người lúc, trong mắt lại hiện lên một tia ngoài ý muốn đến.",
+      "dich": "Thiếu nữ áo xanh vừa thấy Lôi Thần, chỉ hờ hững nói một câu, nhưng khi ánh mắt vừa nhìn qua phía Liễu Minh, trong mắt lại hiện lên một chút bất ngờ.",
+      "suggest": "Thiếu nữ áo xanh vừa thấy Lôi Thần, nhưng chỉ lạnh nhạt nói một câu, nhưng khi ánh mắt rơi trên người Liễu Minh, trong mắt lại hiện lên chút bất ngờ.",
+      "similarity": [
+        [
+          3,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Lôi sư đệ?",
+      "dich": "\"Lôi sư đệ?",
+      "suggest": "\"Lôi sư đệ?",
+      "similarity": [
+        [
+          4,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngươi chính là Lôi sư huynh tên kia cháu ruột?\"",
+      "dich": "Ngươi chính là cháu ruột của Lôi sư huynh sao?\"",
+      "suggest": "Ngươi có phải cháu ruột của Lôi sư huynh không?\"",
+      "similarity": [
+        [
+          5,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Phía trước mỹ phụ được nghe lời ấy, ánh mắt như đao giống như hướng thiếu niên quét qua mà đi, lạnh lùng hỏi một câu.",
+      "dich": "Mỹ phụ đi trước nghe được lời ấy, ánh mắt sắc như dao quét về phía thiếu niên, lạnh lùng hỏi.",
+      "suggest": "Mỹ phụ phía trước nghe xong lời ấy, ánh mắt như đao như đao quét về phía thiếu niên kia, lạnh lùng hỏi một câu.",
+      "similarity": [
+        [
+          6,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đệ tử bái kiến Băng sư thúc!\"",
+      "dich": "\"Đệ tử bái kiến Băng sư cô!\"",
+      "suggest": "\"Đệ tử bái kiến Băng sư thúc!\"",
+      "similarity": [
+        [
+          7,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lôi Thần nghe xong lời này, lại vừa nhìn áo xanh thiếu nữ liếc, đương lúc có chút giật mình vội vàng thi lễ.",
+      "dich": "Lôi Thần nghe xong lời này, thu lại ánh mắt đang nhìn về phía thiếu nữ áo xanh, hơi giật mình vộ vàng thi lễ.",
+      "suggest": "Lôi Thần nghe xong lời này, lại vừa nhìn thiếu nữ áo xanh, lúc này mới có chút giật mình vội vàng thi lễ.",
+      "similarity": [
+        [
+          8,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bên cạnh nhỏ nhắn xinh xắn nữ tử, cũng cuống quít đồng dạng cúi người hành lễ.",
+      "dich": "Thiếu nữ xinh xắn bên cạnh cũng cuống quít cúi người thi lễ.",
+      "suggest": "Nữ tử nhỏ nhắn bên cạnh cũng cuống quít hành lễ.",
+      "similarity": [
+        [
+          9,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đứng lên đi, ta cùng Lôi sư huynh quan hệ coi như không tệ, các ngươi cũng là không cần đa lễ.\"",
+      "dich": "\"Đứng lên đi, quan hệ giữa ta và Lôi sư huynh cũng coi như không tệ, các ngươi không cần đa lễ.\"",
+      "suggest": "\"Đứng lên đi, quan hệ của ta và Lôi sư huynh cũng coi như không tệ, các ngươi cũng không cần đa lễ.\"",
+      "similarity": [
+        [
+          10,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mỹ phụ thần sắc có chút dừng một chút, đưa tay lại để cho hai người đứng dậy, đón lấy ánh mắt tự nhiên mà vậy hướng Liễu Minh bên này cũng nhìn thoáng qua tới đây.",
+      "dich": "Lúc này thần sắc mỹ phụ mới hòa hoãn xuống một chút, khoát tay để hai người đứng dậy, sau đó ánh mắt đương nhiên tập trung lên người Liễu Minh đang đứng bên cạnh.",
+      "suggest": "Thần sắc mỹ phụ có chút dừng lại một chút, đưa tay đỡ hai người đứng dậy, dùng ánh mắt tự nhiên nhìn thoáng qua phía Liễu Minh.",
+      "similarity": [
+        [
+          10,
+          0.96
+        ],
+        [
+          11,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Cửu Anh Sơn đệ tử Bạch Thông Thiên, bái kiến Băng sư thúc!\"",
+      "dich": "\"Đệ tử Bạch Thông Thiên Cửu Anh Sơn bái kiến Băng sư cô!\"",
+      "suggest": "\"Đệ tử Bạch Thông Thiên, bái kiến Băng sư thúc!\"",
+      "similarity": [
+        [
+          12,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh tuy rằng không rõ ràng lắm mỹ phụ là người phương nào, nhưng là chỉ có thể kiên trì hơi khom người.",
+      "dich": "Liễu Minh mặc dù không rõ mỹ phụ là người phương nào, nhưng cũng chỉ có thể khom người thi lễ.",
+      "suggest": "Liễu Minh mặc dù không rõ mỹ phụ là người phương nào, nhưng hắn vẫn chỉ có thể cúi người xuống.",
+      "similarity": [
+        [
+          13,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Cửu Anh Sơn!\"",
+      "dich": "\"Cửu Anh Sơn!\"",
+      "suggest": "\"Cửu Anh Sơn!\"",
+      "similarity": [
+        [
+          14,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mỹ phụ hơi gật đầu, liền không để trong lòng mang theo Già Lam hướng đại điện một góc đi đến, sau đó tại nguyên chỗ bất động đồng dạng chờ đứng lên.",
+      "dich": "Mỹ phụ khẽ gật đầu, sau đó cũng không để trong lòng, dẫn theo Già Lam đi tới một góc trong đại điện, đứng yên lặng tại đó chờ đợi.",
+      "suggest": "Mỹ phụ gật đầu, cũng không để tâm tới Liễu Minh, dẫn theo Già Lam đi tới một góc của đại điện, sau đó đứng bất động tại chỗ.",
+      "similarity": [
+        [
+          15,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bởi vì có mỹ phụ ở đây duyên cớ, Lôi Thần cùng tên kia nhỏ nhắn xinh xắn nữ tử tự nhiên không dám lại tùy tiện nói chuyện với nhau cái gì.",
+      "dich": "Bởi vì mỹ phụ đang ở đây, Lôi Thần và nữ tử xinh xắn kia đương nhiên không dám lại tùy tiện nói chuyện với nhau.",
+      "suggest": "Bởi vì có mỹ phụ ở đây, Lôi Thần và nữ tử xinh đẹp kia đương nhiên không dám tùy tiện nói chuyện với nhau.",
+      "similarity": [
+        [
+          15,
+          0.97
+        ],
+        [
+          16,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trong lúc nhất thời, cả tòa đại điện trở nên yên tĩnh.",
+      "dich": "Trong lúc này, cả đại điện bỗng trở nên yên tĩnh lạ thường.",
+      "suggest": "Trong nháy mắt, cả đại điện trở nên yên tĩnh.",
+      "similarity": [
+        [
+          17,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này đây vẻn vẹn qua thời gian một chun trà, đại điện hơi nghiêng cái nào đó chênh lệch liền một đánh mà mở, từ đó đi tới một gã khoảng bốn mươi tuổi áo đen nam tử, sinh ra một cái cực đại mũi ưng tử, vẻ mặt thoạt nhìn có chút âm trầm.",
+      "dich": "Vẻn vẹn sau thời gian một chung trà, một cánh cửa ở một chỗ nào đó trong đại điện mở ra, một nam tử áo đen chừng bốn mươi tuổi đi tới, trên mặt gã có một cái mũi khoằm rất lớn, thoạt nhìn có chút lạnh lùng.",
+      "suggest": "Lúc này chỉ còn lại một khoảng thời gian không ngắn, đại điện bỗng hơi nghiêng một chút, một nam tử áo đen chừng bốn mươi tuổi đi tới, trên người gã là một nam tử áo đen, tướng mạo thoạt nhìn có chút âm trầm.",
+      "similarity": [
+        [
+          18,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Băng sư muội, ngươi tại sao lại ở chỗ này?\"",
+      "dich": "\"Băng sư muội, sao ngươi lại ở đây?\"",
+      "suggest": "\"Băng sư muội, tại sao ngươi lại ở đây?\"",
+      "similarity": [
+        [
+          19,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Áo đen nam tử vừa nhìn thấy trong đại điện mỹ phụ, lập tức khẽ giật mình đứng lên.",
+      "dich": "Nam tử áo đen vừa nhìn thấy mỹ phụ trong đại điện, hơi giật mình nói.",
+      "suggest": "Nam tử áo đen vừa nhìn thấy mỹ phụ trong đại điện, lập tức khẽ giật mình.",
+      "similarity": [
+        [
+          20,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Lý sư huynh, tiểu muội vì sao không thể tới.",
+      "dich": "\"Lý sư huynh, tiểu muội vì sao không thể tới đây?",
+      "suggest": "\"Lý sư huynh, vì sao tiểu muội lại không thể tới đây?",
+      "similarity": [
+        [
+          21,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ta lần này mang Già Lam đi U Minh quỷ đấy, là có một số việc muốn làm đấy.\"",
+      "dich": "Lần này ta dẫn Già Lam tới U Minh Quỷ Địa muốn làm một số việc.\"",
+      "suggest": "Lần này ta sẽ dẫn Già Lam đi U Minh Quỷ đấy, có chút việc phải làm.\"",
+      "similarity": [
+        [
+          21,
+          0.95
+        ],
+        [
+          22,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mỹ phụ nhàn nhạt nói ra, tựa hồ cùng áo đen nam tử hết sức quen thuộc bộ dáng.",
+      "dich": "Mỹ phụ thản nhiên nói, dáng vẻ dường như hết sức quen thuộc với nam tử áo đen.",
+      "suggest": "Mỹ phụ thản nhiên nói, dường như rất quen thuộc với nam tử áo đen.",
+      "similarity": [
+        [
+          23,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Thì ra là thế.",
+      "dich": "\"Thì ra là thế.",
+      "suggest": "\"Thì ra là thế.",
+      "similarity": [
+        [
+          24,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá sư muội nên rất rõ ràng, Truyền Tống tiến vào U Minh Quỷ Đế, Linh Đồ cùng Linh Sư tiêu hao hoàn toàn bất đồng, cần thiết điểm cống hiến càng là ngày đêm khác biệt đấy.\"",
+      "dich": "Nhưng sư muội cũng nên biết, Truyền Tống tiến vào U Minh Quỷ Địa, giá cả giữa Linh Đồ và Linh Sư hoàn toàn khác nhau, điểm cống hiến cần thiết lại càng cách biệt như ngày và đêm đấy.\"",
+      "suggest": "Tuy nhiên sư muội nên nhớ rất rõ ràng, khi Truyền Tống tiến vào U Minh Quỷ Đế, Linh Đồ và Linh Sư hoàn toàn khác biệt nhau. Điểm cống hiến cần thiết lúc này càng khác.\"",
+      "similarity": [
+        [
+          25,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Áo đen nam tử nghe vậy, lộ ra vài phần vẻ mặt ngưng trọng.",
+      "dich": "Nam tử áo đen nghe vậy, mặt lộ vẻ nghiêm túc nói.",
+      "suggest": "Nam tử áo đen nghe vậy, trên mặt lộ ra vài phần ngưng trọng.",
+      "similarity": [
+        [
+          26,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Điểm này ta tự nhiên rõ ràng, cũng may ta đoạn thời gian trước cũng tích lũy đã đủ rồi đủ nhiều điểm cống hiến, nên đủ ta đi vào một lần rồi.\"",
+      "dich": "\"Ta đương nhiên hiểu rõ điều này, cũng may thời gian trước đây ta đã tích lũy được khá nhiều điểm cống hiến, có lẽ cũng đủ để ta đi vào một lần.\"",
+      "suggest": "\"Điều này ta đương nhiên rõ ràng, cũng may trong thời gian trước ta cũng tích lũy được đủ nhiều điểm cống hiến, nên đủ để ta đi vào khảo sát một lần.\"",
+      "similarity": [
+        [
+          27,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mỹ phụ không thèm để ý chút nào trả lời.",
+      "dich": "Mỹ phụ không thèm để ý chút nào trả lời.",
+      "suggest": "Mỹ phụ không thèm để ý trả lời.",
+      "similarity": [
+        [
+          28,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Sư muội nguyện ý tiền trả như vậy nhiều điểm cống hiến lời nói, dĩ nhiên là không có vấn đề rồi.\"",
+      "dich": "\"Nếu sư muội đã bằng lòng trả điểm cống hiến thì dĩ nhiên là không có vấn đề gì.\"",
+      "suggest": "\"Sư muội bằng lòng trả nhiều điểm cống hiến như vậy, đương nhiên là không có vấn đề gì rồi.\"",
+      "similarity": [
+        [
+          29,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Áo đen nam tử nghe vậy, thần sắc buông lỏng xuống.",
+      "dich": "Nam tử áo đen nghe vậy, thần sắc thả lỏng một chút.",
+      "suggest": "Nam tử áo đen nghe vậy, sắc mặt hơi trầm xuống.",
+      "similarity": [
+        [
+          30,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mỹ phụ cười nhạt một tiếng, không nói thêm gì nữa.",
+      "dich": "Mỹ phụ cười nhạt một tiếng, không nói thêm gì nữa.",
+      "suggest": "Mỹ phụ cười nhạt một tiếng, không nói thêm gì nữa.",
+      "similarity": [
+        [
+          31,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này, áo đen nam tử ánh mắt tại Lôi Thần Liễu Minh và ba người quét qua về sau, sẽ thấy nói ra:",
+      "dich": "Lúc này, ánh mắt nam tử áo đen nhìn qua đám ba người Lôi Thần Liễu Minh một lượt, sau đó nói:",
+      "suggest": "Lúc này, ánh mắt nam tử áo đen quét qua đám người Lôi Thần, Liễu Minh và ba người, sau đó mới nói:",
+      "similarity": [
+        [
+          32,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Nếu như bên này còn có ba người, vừa vặn đủ một lần Truyền Tống rồi.",
+      "dich": "\"Nếu như bên này còn có ba người nữa, vậy thì vừa vặn đủ một lần Truyền Tống rồi.",
+      "suggest": "\"Nếu như bên này còn ba người, vậy thì vừa vặn đủ để một lần Truyền Tống rồi.",
+      "similarity": [
+        [
+          32,
+          0.96
+        ],
+        [
+          33,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Các ngươi đều cùng tới đây a.\"",
+      "dich": "Các ngươi đều qua đây đi.\"",
+      "suggest": "Các ngươi cũng tới đây đi.\"",
+      "similarity": [
+        [
+          34,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Vừa dứt lời, hắn liền không để ý tới nữa ba gã Linh Đồ, tay áo run lên, lấy ra một mặt đen sì quỷ đầu thiết bài nơi tay, phối hợp hướng đại điện chính diện lấp kín cao lớn vách tường đi tới.",
+      "dich": "Vừa dứt lời, gã liền không thèm nhìn tới ba tên đệ tử Linh Đồ nữa, tay áo run lên, lấy ra một thiết bài đen sì hình đầu Quỷ, sau đó lập tức xoay người bước về phía một vách tường sừng sững một bên đại điện.",
+      "suggest": "Vừa dứt lời, hắn liền không để ý tới ba gã Linh Đồ, tay áo run lên, lấy ra một thiết bài quỷ quái ở tay, phối hợp với vách tường cao lớn phía trước.",
+      "similarity": [
+        [
+          35,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mỹ phụ mang theo Già Lam điềm tĩnh đi tới.",
+      "dich": "Mỹ phụ cũng dẫn theo Già Lam chậm rãi đi tới.",
+      "suggest": "Mỹ phụ bình tĩnh dẫn Già Lam đi tới.",
+      "similarity": [
+        [
+          36,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lôi Thần Liễu Minh ba người thấy vậy, tự nhiên cũng theo xuống dưới.",
+      "dich": "Ba người Lôi Thần Liễu Minh thấy vậy, đương nhiên cũng theo sát phía sau.",
+      "suggest": "Ba người Lôi Thần, Liễu Minh thấy vậy, đương nhiên cũng theo sát phía dưới.",
+      "similarity": [
+        [
+          37,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Áo đen bào nam tử cánh tay khẽ động, dùng thiết bài hướng về phía gần ngay trước mắt vách tường lung lay mấy cái, lúc này một đạo hắc quang kích xạ mà ra, lóe lên chui vào trong vách tường không thấy bóng dáng.",
+      "dich": "Cánh tay nam tử áo đen bào khẽ chuyển động, rung rung thiết bài về phía vách tường ngay trước mắt, lúc này một tia sáng màu đen bắn ra, lóe lên một cái đã chui vào trong vách tường không thấy đâu nữa.",
+      "suggest": "Cánh tay nam tử áo đen khẽ động, dùng thiết bài điều khiển vách tường rung rung mấy cái, lúc này một luồng sáng đen lóe lên, chui vào trong vách tường không thấy đâu nữa.",
+      "similarity": [
+        [
+          38,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Sau một khắc, vách tường một hồi mơ hồ về sau, thình lình lăng không hiện ra một cái bạch mênh mông cánh cổng ánh sáng đến.",
+      "dich": "Sau một khắc, vách tường bỗng nhiên mờ đi, cuối cùng hiện ra một cánh cổng ánh sáng màu trắng.",
+      "suggest": "Sau một khắc, vách tường bỗng tối sầm lại, sau một hồi mơ hồ, bỗng nhiên xuất hiện một cánh cổng ánh sáng màu trắng mênh mông.",
+      "similarity": [
+        [
+          38,
+          0.97
+        ],
+        [
+          39,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Áo đen nam tử không chút lựa chọn đi nhanh đi vào.",
+      "dich": "Nam tử áo đen không chút chần chờ bước nhanh vào.",
+      "suggest": "Nam tử áo đen không chút do dự bước vào trong.",
+      "similarity": [
+        [
+          40,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Những người khác tự nhiên cũng theo đuôi đi vào cánh cổng ánh sáng trong.",
+      "dich": "Những người khác đường nhiên cũng theo sau đi vào trong cánh cổng ánh sáng.",
+      "suggest": "Những người khác đương nhiên cũng theo đuôi theo đoàn người đi vào cánh cổng ánh sáng.",
+      "similarity": [
+        [
+          41,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh chỉ cảm thấy trước mắt bạch quang thu vào, cũng đã thân ở một cái không lớn trong mật thất.",
+      "dich": "Liễu Minh chỉ cảm thấy ánh sáng trắng trước mắt chói lòa một trận, sau nháy mắt đã xuất hiện trong một gian mật thất không lớn lắm.",
+      "suggest": "Liễu Minh chỉ cảm thấy ánh sáng trắng trước mắt thu vào, hắn đã nằm gọn trong một mật thất không lớn.",
+      "similarity": [
+        [
+          41,
+          0.96
+        ],
+        [
+          42,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Này mật thất ngoại trừ tới cái kia quạt cánh cổng ánh sáng bên ngoài, bốn phía tất cả đều là phản xạ kim loại sáng bóng dày đặc vách tường, hơn nữa phía trên in rất nhiều nhìn như huyền diệu diễm lệ linh văn, lại để cho cả lúc giữa mật thất đều tràn ngập một loại không nói ra được thần bí hương vị.",
+      "dich": "Trong gian mật thất này, ngoài trừ cánh cổng ánh sáng kia, tất cả bốn phía đều là những vách tường dày sáng bóng lấp lánh ánh kim, hơn nữa phía trên còn khắc rất nhiều Linh văn diễm lệ trông rất huyền diệu, khiến cho cả gian mật thất đều trần ngập một loại mùi vị thần bí khó có thể diễn tả được.",
+      "suggest": "Bên trong mật thất này, ngoại trừ cánh cổng dẫn vào là ánh sáng màu vàng óng ánh chiếu vào, bốn phía đều là những vách tường được phản xạ ánh sáng màu vàng óng ánh, hơn nữa phía trên in rất nhiều linh văn kỳ diệu, khiến cho mật thất tràn ngập một loại hương vị thần bí khó nói ra.",
+      "similarity": [
+        [
+          42,
+          0.96
+        ],
+        [
+          43,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tại trong mật thất lúc giữa chỗ, thì là một cái lớn nhỏ bất quá hơn một trượng màu bạc pháp trận, biên giới chỗ tức thì có trọn vẹn một vòng dùng để để Tinh Thạch chuyên môn [lỗ khảm].",
+      "dich": "Trung tâm gian mật thất là một pháp trận màu bạc lớn cỡ một trượng, ngoài rìa còn có những lỗ chỗ lõm xuống chuyên môn dùng để khảm nạm Tinh Thạch tạo thành một vòng hoàn chỉnh.",
+      "suggest": "Ở giữa mật thất là một pháp trận màu bạc lớn cỡ một trượng, ngoài ranh giới thì có hẳn một vòng khảm Tinh Thạch chuyên dùng để khảm vào bên trong.",
+      "similarity": [
+        [
+          43,
+          0.97
+        ],
+        [
+          44,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Áo đen nam tử cầm trong tay thiết bài vừa thu lại dựng lên về sau, sau lưng cánh cổng ánh sáng lóe lên hư không tiêu thất rồi, trong tay thay vào đó lại nhiều ra một cây màu vàng kim nhạt đoản côn đến.",
+      "dich": "Nam tử áo đen vừa thu lại thiết bài đang cầm trong tay, cánh cổng ánh sáng sau lưng cũng lập tức lóe lên biến mất, trong tay gã lúc này lại có thêm một cây côn ngắn màu vàng nhạt.",
+      "suggest": "Nam tử áo đen vừa thu lại thiết bài trong tay, cánh cổng sau lưng lóe lên ánh sáng màu vàng kim nhạt, trong tay lại xuất hiện thêm một đoản côn màu vàng kim nhạt.",
+      "similarity": [
+        [
+          44,
+          0.96
+        ],
+        [
+          45,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Những người khác thấy vậy, nhao nhao tương mình như vậy nhãn từng cái đưa lên, bắt đầu giao nạp riêng phần mình điểm cống hiến.",
+      "dich": "Những người khác thấy vậy, bắt đầu lục đục lấy ra Minh bài của riêng mình, sau đó giao ra điểm cống hiến.",
+      "suggest": "Những người khác thấy vậy, nhao nhao giơ cao từng cái nhãn lên, bắt đầu giao nạp điểm cống hiến của mình.",
+      "similarity": [
+        [
+          45,
+          0.96
+        ],
+        [
+          46,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Áo đen nam tử đem điểm cống hiến dẹp xong về sau, lúc này kim côn vừa thu lại dựng lên, lại từ trên người lấy ra từng khỏa lớn chừng ngón cái Tinh Thạch, hướng pháp trận biên giới chỗ [lỗ khảm] trong từng cái an bên trên.",
+      "dich": "Nam tử áo đen sau khi thu hết điểm cống hiến mới thu cây côn màu vàng lại, sau đó mới lấy ra từ trên người từng viên Tinh Thạch lớn cỡ ngón cái, đặt từng viên vào trong những chỗ lõm xuống ở ngoài rìa pháp trận kia.",
+      "suggest": "Nam tử áo đen sau khi trừ điểm cống hiến ra, lúc này kim côn trên người vừa mới thu lại, sau đó hắn lại lấy ra từng viên Tinh Thạch lớn chừng ngón cái, khảm vào bên trong pháp trận.",
+      "similarity": [
+        [
+          46,
+          0.97
+        ],
+        [
+          47,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Những thứ này Tinh Thạch cùng Liễu Minh trước kia nhìn thấy hoàn toàn bất đồng, vậy mà tản ra nhạt màu đen hào quang, dường như từng khỏa màu đen ngôi sao bình thường.",
+      "dich": "Những viên Tinh Thạch này hoàn toàn khác so với Liễu Minh nhìn thấy trước đây, chúng vậy mà lại tỏa ra hào quang màu đen nhàn nhạt, lấp lánh như những ngôi sao màu đen vậy.",
+      "suggest": "Những viên Tinh Thạch này hoàn toàn khác so với trước kia Liễu Minh nhìn thấy, vậy mà lại tản ra hào quang màu đen nhạt, trông giống như một ngôi sao bình thường vậy.",
+      "similarity": [
+        [
+          47,
+          0.97
+        ],
+        [
+          48,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Áo xanh thiếu nữ chứng kiến những thứ này Tinh Thạch, thần sắc hơi động một chút.",
+      "dich": "Thiếu nữ áo xanh khi trông thấy những viên Tinh Thạch này, thần sắc hiện lên chút nghi hoặc.",
+      "suggest": "Thiếu nữ áo xanh thấy những viên Tinh Thạch này, sắc mặt hơi động.",
+      "similarity": [
+        [
+          48,
+          0.96
+        ],
+        [
+          49,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Những thứ này là không gian Tinh Thạch, cho dù tại Ngũ Hành thuộc tính Tinh Thạch bên ngoài, coi như là vô cùng hi hữu đồ vật.",
+      "dich": "\"Những thứ này là Tinh Thạch không gian, cho dù trong số những Tinh Thạch thuộc tính ngoài Ngũ Hành cũng được coi là vô cùng hiếm có.",
+      "suggest": "\"Những Tinh Thạch này là Tinh Thạch thuộc tính không gian, cho dù là Tinh Thạch thuộc tính Ngũ Hành thì cũng coi như là đồ vật vô cùng hi hữu.",
+      "similarity": [
+        [
+          49,
+          0.96
+        ],
+        [
+          50,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nếu không Truyền Tống các ngươi đi U Minh quỷ đấy, cần gì phải muốn thu như vậy hơn điểm cống hiến.",
+      "dich": "Nếu không truyền tống các ngươi tới U Minh Quỷ Địa, cần gì phải thu nhiều điểm cống hiến như vậy.",
+      "suggest": "Nếu không Truyền Tống các ngươi đi U Minh Quỷ đấy, cần gì phải thu nhiều điểm cống hiến như vậy.",
+      "similarity": [
+        [
+          50,
+          0.95
+        ],
+        [
+          51,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá bình thường Truyền Tống các ngươi lời mà nói, chỉ cần ba bốn khối là đủ rồi, hiện tại tăng thêm ta lời mà nói, chỉ sợ muốn hao phí gấp mười lần trở lên rồi.\"",
+      "dich": "Tuy nhiên truyền tống bình thường thì chỉ cần ba bốn khối là đủ rồi, hiện giờ có thêm ta nên hao phí mới gấp hơn mười lần như vậy.\"",
+      "suggest": "Tuy nhiên bình thường Truyền Tống các ngươi nói, chỉ cần ba bốn khối là đủ, hiện giờ tăng thêm ta, chỉ sợ phải hao phí gấp mười lần.\"",
+      "similarity": [
+        [
+          52,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mỹ phụ tựa hồ nhìn ra đồ đệ mình lòng hiếu kỳ, nhàn nhạt giải thích hai câu.",
+      "dich": "Mỹ phụ dường như nhận thấy được sự hiếu kỳ của đệ tử mình, hờ hững giải thích hai câu.",
+      "suggest": "Mỹ phụ tựa hồ nhìn ra sự hiếu kỳ của đồ đệ, thản nhiên giải thích hai câu.",
+      "similarity": [
+        [
+          53,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nghe xong lời này, không riêng áo xanh thiếu nữ gật đầu, Liễu Minh cùng Lôi Thần đám người cũng có chút bừng tỉnh đại ngộ.",
+      "dich": "Nghe xong lời này, không riêng gì thiếu nữ áo xanh gật đầu, Liễu Minh và hai người Lôi Thần cũng có chút hiểu ra, khẽ gật gật đầu.",
+      "suggest": "Nghe xong lời này, không riêng thiếu nữ áo xanh gật đầu, mà cả đám người Liễu Minh cũng có chút giật mình.",
+      "similarity": [
+        [
+          54,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Không gian Tinh Thạch tên bọn hắn tuy rằng đều sớm đã nghe nói qua, nhưng mà vật dụng thực tế nhưng là chân chính lần thứ nhất chứng kiến.",
+      "dich": "Cái tên Tinh Thạch không gian mặc dù bọn hắn đã nghe qua từ trước, nhưng đây thực sự là lần đầu tiên bọn hắn được trông thấy tận mắt.",
+      "suggest": "Tuy bọn hắn đã nghe nói qua, nhưng đây chính là lần đầu tiên chứng kiến sự việc này.",
+      "similarity": [
+        [
+          54,
+          0.96
+        ],
+        [
+          55,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh càng là cẩn thận đánh giá những thứ này Tinh Thạch vài lần, phảng phất muốn đem chúng bộ dáng tất cả đều sâu ấn trong đầu bình thường.",
+      "dich": "Liễu Minh lại càng cẩn thận quan sát số Tinh Thạch này thêm vài lần, dường như muốn khắc sâu hình dáng của chúng vào trong đầu vậy.",
+      "suggest": "Liễu Minh lại càng cẩn thận đánh giá những Tinh Thạch này vài lần, dường như muốn đem tất cả chúng đều ghi nhớ trong đầu.",
+      "similarity": [
+        [
+          55,
+          0.96
+        ],
+        [
+          56,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Áo đen nam tử tựa như mỹ phụ theo như lời như vậy, một hơi tại pháp trận bốn phía an lên hơn ba mươi khối không gian Tinh Thạch, mới dừng tay lên, quay người hướng mọi người thần sắc một túc nói:",
+      "dich": "Đúng theo như lời mỹ phụ, nam tử áo đen một hơi lấy ra hơn ba mươi viên Tinh Thạch không gian mới dừng tay, quay người lại nghiêm túc nói với đám người:",
+      "suggest": "Nam tử áo đen nghe vậy, sau khi không gian bên ngoài pháp trận được bao phủ bởi hơn ba mươi viên Tinh Thạch, mới ngừng tay, quay người nhìn về phía mọi người, nghiêm túc nói:",
+      "similarity": [
+        [
+          56,
+          0.97
+        ],
+        [
+          57,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Tốt rồi, có thể tiến vào pháp trận rồi.",
+      "dich": "\"Tốt rồi, các ngươi đã có thể tiến vào pháp trận.",
+      "suggest": "\"Tốt lắm, đã có thể tiến vào pháp trận rồi.",
+      "similarity": [
+        [
+          58,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tuy rằng các ngươi đều nên đã biết rõ U Minh quỷ mà nguy hiểm chỗ, nhưng ta còn muốn thông lệ nhắc lại vài câu.",
+      "dich": "Có lẽ các ngươi đều đã biết rõ về sự nguy hiểm của U Minh Quỷ Địa, nhưng ta cũng vẫn phải nhắc nhở vài câu theo thông lệ.",
+      "suggest": "Tuy các ngươi đều biết U Minh quỷ rất nguy hiểm, nhưng ta vẫn muốn thông lệ nhắc lại vài câu.",
+      "similarity": [
+        [
+          58,
+          0.96
+        ],
+        [
+          59,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bên kia là chân chính Âm khí quỷ vật chi địa, vô luận tu vi cao thấp đều tối đa chỉ có thể ở bên kia ngưng lại một tháng thời gian, một khi vượt qua lúc này lúc giữa, thân thể tinh hồn tiếp theo bị Âm khí đồng hóa, có rất lớn tỷ lệ cũng sẽ trở thành quỷ vật trong một thành viên.",
+      "dich": "Bên kia chính là địa phương thuộc về Âm khí Quỷ vật, bất luận tu vi cao thấp đều chỉ có thể ở lại trong đó thời gian tối đa là một tháng, một khi vượt quá thời gian này, thân thể tinh hồn sẽ bị Âm khí đồng hóa, có tỷ lệ rất lớn sẽ trở thành một thành viên trong đám Quỷ vật kia.",
+      "suggest": "Bên kia là Quỷ vật chân chính, vô luận tu vi cao thấp đều chỉ có thể ở lại đây trong một tháng, một khi vượt qua thời gian này, thân thể của người tu vi tối đa chỉ có thể ở lại đây một tháng, một khi vượt qua thời gian này, thân thể của người tu vi cuối cùng sẽ bị Âm khí đồng hóa, có rất lớn tỷ lệ cũng sẽ trở thành một thành viên của quỷ vật đó.",
+      "similarity": [
+        [
+          60,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cho nên các ngươi phải trong vòng một tháng, thông qua bên kia pháp trận về tới đây đến.",
+      "dich": "Cho nên trong vòng một tháng, các ngươi phải thông qua pháp trận đầu kia về tới đây.",
+      "suggest": "Vì vậy nên trong vòng một tháng các ngươi phải vượt qua pháp trận bên kia mới có thể về tới đây.",
+      "similarity": [
+        [
+          60,
+          0.96
+        ],
+        [
+          61,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đã muộn lời mà nói, hậu quả chỉ có thể tự phụ rồi.\"",
+      "dich": "Nếu muộn, hậu quả tự mình gánh chịu.\"",
+      "suggest": "Nếu chậm trễ e rằng hậu quả sẽ chỉ có thể tự phụ mà thôi.\"",
+      "similarity": [
+        [
+          62,
+          0.95
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Áo đen nam tử vừa nói xong lời này, liền một tay bấm niệm pháp quyết, hướng pháp trận hư không một điểm.",
+      "dich": "Nam tử áo đen vừa nói xong lời này, một tay lập tức bấm niệm pháp quyết, điểm một cái về phía pháp trận.",
+      "suggest": "Nam tử áo đen vừa dứt lời liền một tay bấm niệm pháp quyết, nhìn về phía pháp trận.",
+      "similarity": [
+        [
+          63,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ông ông thanh vừa vang lên, cả tòa pháp trận bắt đầu nổi lên đủ mọi màu sắc hào quang.",
+      "dich": "Tiếng 'ông ông' vang lên, toàn bộ pháp trận bắt đầu sáng lên hào quang đủ loại màu sắc.",
+      "suggest": "Âm thanh \"ông ông\" vừa vang lên, cả pháp trận bắt đầu sáng lên hào quang rực rỡ.",
+      "similarity": [
+        [
+          63,
+          0.96
+        ],
+        [
+          64,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mỹ phụ Liễu Minh đám người thấy vậy, tự nhiên không dám chần chờ nhao nhao đứng vào đến màu vàng pháp trận trong.",
+      "dich": "Đám người mỹ phụ, Liễu Minh thấy vậy, đương nhiên không dám chậm trễ, nhanh chóng đứng vào bên trong pháp trận màu vàng.",
+      "suggest": "Đám người Mỹ phụ Liễu Minh thấy vậy, đương nhiên không dám chần chừ, tất cả đều sôi nổi bước vào trong pháp trận màu vàng.",
+      "similarity": [
+        [
+          65,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tại một hồi kịch liệt chấn động ở bên trong, mỹ phụ Liễu Minh đám người thân ảnh lóe lên liền tất cả đều biến mất không thấy.",
+      "dich": "Trong một đợt chấn động kịch liệt, bóng người cả đám người mỹ phụ Liễu Minh đều biến mất không thấy bóng dáng.",
+      "suggest": "Trong một hồi chấn động kịch liệt, thân ảnh đám người mỹ phụ Liễu Minh lóe lên liền lập tức biến mất không thấy đâu nữa.",
+      "similarity": [
+        [
+          65,
+          0.97
+        ],
+        [
+          66,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Áo đen nam tử thở khẽ một hơi, tại phụ cận trên mặt đất khoanh chân ngồi xuống, điềm tĩnh hai mắt khép lại, bắt đầu bắt đầu tỉnh tọa....",
+      "dich": "Nam tử áo đen thở ra một hơi, khoanh chân ngồi xuống ngay bên cạnh pháp trận, hai mắt nhắm lại, bắt đầu tĩnh tọa.",
+      "suggest": "Nam tử áo đen thở phào một hơi, khoanh chân ngồi xuống mặt đất cạnh đó, điềm tĩnh hai mắt khép lại, bắt đầu bắt đầu tỉnh táo.",
+      "similarity": [
+        [
+          66,
+          0.95
+        ],
+        [
+          67,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh tại một hồi kịch liệt mê muội về sau, rút cuộc một lần nữa mở ra hai mắt.",
+      "dich": "Sau một hồi hoa mắt chóng mặt, cuối cùng Liễu Minh cũng mở được hai mắt ra.",
+      "suggest": "Liễu Minh sau một hồi mê muội kịch liệt, cuối cùng cũng mở hai mắt ra.",
+      "similarity": [
+        [
+          68,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chẳng qua là lúc này hắn, thình lình cùng mỹ phụ bọn người đứng ở một tòa khác mật thất giống như trong phòng, dưới chân cũng là cái khác chợt nhìn vô cùng tương tự chính là màu vàng pháp trận.",
+      "dich": "Chỉ có điều lúc này, hắn và đám người mỹ phụ đang đứng trong một gian mật thất khác, dưới chân cũng là một pháp trận màu vàng giống hệt pháp trận kia.",
+      "suggest": "Chỉ có điều lúc này hắn và mỹ phụ đứng trong một mật thất giống hệt nhau, dưới chân là một pháp trận màu vàng vô cùng giống nhau.",
+      "similarity": [
+        [
+          69,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mà, phòng bốn phía vách tường nhưng là dùng một loại không biết tên hòn đá màu đen xây thành, hơn nữa còn có một quạt hờ khép cửa đá, mà trong phòng trừ bọn họ ra mấy người bên ngoài, thình lình cũng không có những người khác.",
+      "dich": "Nhưng vách tường bốn phía lại dùng một loại đá đen không biết tên xây thành, hơn nữa còn có một cánh cửa đá đang khép hờ, mà trong phòng ngoại trừ mấy người bọn họ lại không có bất cứ người nào khác.",
+      "suggest": "Mà vách tường bốn phía lại được xây bằng một loại đá không biết tên nào đó, hơn nữa còn có một cái quạt hờ khép hờ, mà trong phòng này trừ mấy người bọn họ ra, không còn bất kỳ ai khác.",
+      "similarity": [
+        [
+          69,
+          0.97
+        ],
+        [
+          70,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đi thôi!\"",
+      "dich": "\"Đi thôi!\"",
+      "suggest": "\"Đi thôi!\"",
+      "similarity": [
+        [
+          71,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mỹ phụ nhàn nhạt một câu về sau, liền mang theo áo xanh thiếu nữ đi ra pháp trận, đẩy ra cửa đá nhẹ lướt đi.",
+      "dich": "Mỹ phụ lạnh lùng nói một câu, sau đó liền dẫn thiếu nữ áo xanh đi ra khỏi pháp trận, đẩy cửa đá bước ra ngoài.",
+      "suggest": "Mỹ phụ thản nhiên nói một câu, sau đó liền dẫn theo thiếu nữ áo xanh đi ra khỏi pháp trận, đẩy cửa đá nhẹ nhàng đi vào.",
+      "similarity": [
+        [
+          72,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lôi Thần cùng nhỏ nhắn xinh xắn thiếu nữ nhìn nhau liếc về sau, cũng đồng dạng đi ra ngoài.",
+      "dich": "Lôi Thần và thiếu nữ xinh xắn liếc mắt nhìn nhau, sau đó cũng bước theo ra.",
+      "suggest": "Lôi Thần và thiếu nữ nhỏ nhắn xinh xắn nhìn nhau một lát, sau đó cũng đi ra ngoài.",
+      "similarity": [
+        [
+          72,
+          0.97
+        ],
+        [
+          73,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nơi đây trong nháy mắt, cũng chỉ còn lại có Liễu Minh một người rồi.",
+      "dich": "Trong nháy mắt, nơi này chỉ còn lại có một mình Liễu Minh.",
+      "suggest": "Trong nháy mắt, trong phòng chỉ còn lại một mình Liễu Minh.",
+      "similarity": [
+        [
+          73,
+          0.96
+        ],
+        [
+          74,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh nhẹ hít một hơi về sau, cảm giác phụ cận trong hư không Nguyên Khí so với Man Quỷ Tông rõ ràng hiếm thiếu rất nhiều, cũng có một cỗ nói không nên lời âm hàn năng lượng trộn lẫn trong đó, nhiều hút mấy cái về sau, thậm chí lại để cho thân thể có một loại có chút không khỏe cảm giác.",
+      "dich": "Liễu Minh hít nhẹ một hơi, hắn lập tức cảm nhận được Nguyên Khí trong không khí xung quanh rõ ràng ít hơn rất nhiều so với Man Quỷ Tông, hơn nữa còn có một luồng năng lượng âm hàn không nói rõ được trộn lẫn trong đó, sau khi hít vào mấy hơi, thậm chi còn khiến cho thân thể có cảm giác không khỏe.",
+      "suggest": "Liễu Minh hít một hơi sâu, cảm giác được Nguyên Khí trong hư không xung quanh rõ ràng hiếm có, cũng có một luồng năng lượng âm hàn trộn lẫn vào đó, sau khi hút mấy cái đã tạo cho thân thể có một cảm giác không khỏe.",
+      "similarity": [
+        [
+          75,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn lắc đầu, cũng thong dong đi ra cửa đá.",
+      "dich": "Hắn lắc lắc đầu, sau đó thong thả bước tới cửa đá.",
+      "suggest": "Hắn lắc đầu, cũng thong dong bước ra khỏi cửa đá.",
+      "similarity": [
+        [
+          76,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bên ngoài cửa đá, rõ ràng là một mảnh hơn mười mẫu lớn khổng lồ quảng trường.",
+      "dich": "Bên ngoài cửa đá không ngờ lại là một một quảng trường rộng lớn chừng hơn mười mẫu.",
+      "suggest": "Cửa đá bên ngoài rõ ràng là một quảng trường lớn rộng hơn mười mẫu.",
+      "similarity": [
+        [
+          77,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Quảng trường mặt đất tất cả đều dùng đồng dạng chất liệu hòn đá màu đen xây thành, hơn nữa biên giới chỗ dựng đứng lấy từng đám cây cao lớn thanh đồng hình trụ, bên ngoài rồi lại bị một tầng dày đặc dị thường màu ngà sữa màn sáng bao phủ trong đó,",
+      "dich": "Toàn bộ mặt đất trên quảng trường đều được xây từ loại đá đen kia, hơn nữa ở ngoài rìa quảng trường còn dựng đứng từng đám trụ đồng màu xanh cao lớn, phía ngoài lại có một màn sáng màu ngà sữa dày đặc lạ thường bao phủ.",
+      "suggest": "Tất cả mặt đất trên quảng trường đều được tạo thành từ rất nhiều hòn đá màu đen, xung quanh quảng trường là từng cây to lớn hình trụ cao lớn, bên ngoài quảng trường lại bị một tầng sáng màu ngà sữa bao phủ một tầng dày đặc.",
+      "similarity": [
+        [
+          77,
+          0.96
+        ],
+        [
+          78,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mà trong sân rộng chỗ, còn có một sắp xếp sắp xếp màu đen nhà đá, chừng ba bốn mươi tòa bộ dạng.",
+      "dich": "Mà trong quảng trường còn có từng dãy nhà đá màu đen, chừng ba bốn mươi gian.",
+      "suggest": "Mà bên trong sân rộng còn có một ngôi nhà đá màu đen được sắp xếp chừng ba bốn mươi người.",
+      "similarity": [
+        [
+          78,
+          0.97
+        ],
+        [
+          79,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhà đá trong lúc đó, mơ hồ có tầm mười tên Man Quỷ Tông đệ tử hai hai tam tam tụ tập cùng một chỗ, đang tại trò chuyện với nhau cái gì.",
+      "dich": "Trong những gian nhà đá đó, thấp thoáng thấy được chừng mười tên đệ tử Man Quỷ Tông tụ tập lại một chỗ, hình như đang trò chuyện gì đó.",
+      "suggest": "Trong nhà đá, mơ hồ có hơn mười đệ tử Man Quỷ Tông tụ tập lại một chỗ, đang trò chuyện gì đó.",
+      "similarity": [
+        [
+          80,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Tiểu gia hỏa, lần đầu tiên tới U Minh quỷ mà ư!\"",
+      "dich": "\"Tiểu gia hỏa, lần đầu tiên tới U Minh Quỷ Địa hả!\"",
+      "suggest": "\"Tiểu gia hỏa, lần đầu tiên tới U Minh quỷ ư!\"",
+      "similarity": [
+        [
+          81,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh nhìn xem ra sâu thời điểm, chợt nghe sau lưng truyền tới một đầy đích thực thanh âm.",
+      "dich": "Liễu Minh đang chăm chú nhìn bốn phía, chợt nghẹ một giọng nói già nua truyền tới từ sau lưng.",
+      "suggest": "Khi Liễu Minh nhìn kỹ lại phía sau, chợt nghe phía sau truyền tới một giọng nói đích thực.",
+      "similarity": [
+        [
+          82,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh lại càng hoảng sợ, vội vàng quay người lại, mới phát hiện tại cửa đá phụ cận lại ngồi xếp bằng một gã mặc màu vàng màu da bào tóc xanh lão giả.",
+      "dich": "Liễu Minh giật mình, vội vàng quay người lại, lúc này mới phát hiện ra một lão giả tóc xanh mặc một bộ quần áo da màu vàng đang ngồi xếp bằng trước cửa một gian nhà đá gần đó.",
+      "suggest": "Liễu Minh lại càng hoảng sợ, vội vàng quay người lại, mới phát hiện bên cạnh cửa đá lại là một lão giả tóc xanh mặc một bộ quần áo màu vàng đang ngồi xếp bằng.",
+      "similarity": [
+        [
+          82,
+          0.96
+        ],
+        [
+          83,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lão giả này trong tay nâng một cái màu bạc nhạt mâm tròn, một bên bãi lộng phía trên mấy cái cùng loại kim đồng hồ giống như đỏ tươi thứ đồ vật.",
+      "dich": "Trong tay lão giả này nâng một cái khay tròn màu bạc nhạt, phía trên để một có một thứ màu đỏ tươi trông như kim đồng hồ vậy.",
+      "suggest": "Trong tay lão giả này cầm một mâm tròn màu bạc nhạt, một bên bãi lộng có mấy cái đồng hồ màu đỏ tươi giống hệt nhau.",
+      "similarity": [
+        [
+          83,
+          0.97
+        ],
+        [
+          84,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mà khoảng cách gần như vậy, hắn lúc trước vậy mà chút nào đều không có phát hiện.",
+      "dich": "Mà trong khoảng cách gần như vậy, thế nhưng vừa rồi hắn lại không phát hiện được tí gì cả.",
+      "suggest": "Mà khoảng cách gần như vậy, hắn trước giờ không phát hiện ra.",
+      "similarity": [
+        [
+          85,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Vừa rồi ta nhìn thấy băng nha đầu vậy mà cũng tới nơi này, chậc chậc, nha đầu kia từ khi tiến giai Linh Sư về sau, còn là lần đầu tiên về tới đây, cái này có thể khó được vô cùng a.\"",
+      "dich": "\"Vừa rồi ta nhìn thấy Băng nha đầu cũng tới nơi này, chậc chậc, từ sau khi nha đầu kia tiến giai Linh Sư, đây cũng là lần đầu tiên tới đây, quả là hiếm có vô cùng a.\"",
+      "suggest": "Vừa rồi ta thấy nha đầu Băng kia cũng tới đây, chậc chậc, nha đầu kia từ khi tiến giai Linh Sư tới nay, vẫn là lần đầu tiên tới đây, cái này thật sự là cực kỳ khó khăn.\"",
+      "similarity": [
+        [
+          86,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lão giả cũng không ngẩng đầu lên tiếp tục hỏi:",
+      "dich": "Lão giả vẫn không ngẩng đầu lên, tiếp tục nói.",
+      "suggest": "Lão giả cũng không ngẩng đầu lên tiếp tục hỏi:",
+      "similarity": [
+        [
+          87,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Tiền bối phải...\"",
+      "dich": "\"Tiền bối là ...\"",
+      "suggest": "\"Tiền bối phải ...\"",
+      "similarity": [
+        [
+          88,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lão giả cúi đầu, Liễu Minh tự nhiên nhìn không tới kia khuôn mặt, nhưng nghe kia khẩu khí lớn như vậy, không dám lãnh đạm thi lễ hỏi.",
+      "dich": "Lão giả đang cúi đầu, cho nên Liễu Minh không thể nhìn rõ khuôn mặt, nhưng nghe khẩu khí của lão lớn như vậy, đương nhiên không dám chậm trễ thi lễ hỏi.",
+      "suggest": "Lão giả cúi đầu, Liễu Minh đương nhiên nhìn không ra khuôn mặt kia, nhưng nghe khẩu khí lớn như vậy, không dám chậm trễ trả lời.",
+      "similarity": [
+        [
+          89,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ngươi có thể bảo ta quỷ lão, là chuyên môn phụ trách nơi đây Truyền Tống pháp trận, đem bọn ngươi đưa về trong tông chi nhân.\"",
+      "dich": "\"Ngươi có thể gọi ta là Quỷ lão, ta là người chuyên môn phụ trách pháp trận Truyền Tống nơi đây, đưa các ngươi trở lại trong tông.\"",
+      "suggest": "\"Ngươi có thể bảo quỷ lão là người chuyên môn phụ trách pháp trận Truyền Tống, chuyên môn dẫn các ngươi về trong tông.\"",
+      "similarity": [
+        [
+          89,
+          0.96
+        ],
+        [
+          90,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lão giả khoan thai trả lời, rút cuộc chậm rãi ngẩng đầu lên.",
+      "dich": "Lão giả khoan thai trả lời, cuối cùng cũng chậm rãi ngẩng đầu lên.",
+      "suggest": "Lão giả khoan thai trả lời, sau đó chậm rãi ngẩng đầu lên.",
+      "similarity": [
+        [
+          91,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh vừa nhìn rõ ràng lão giả khuôn mặt về sau, mặc dù luôn luôn gan lớn hơn người, cũng trong nội tâm có chút phát lạnh đứng lên.",
+      "dich": "Liễu Minh vừa nhìn rõ khuôn mặt lão giả, mặc dù luôn lớn gan hơn người, nhưng lúc này trong lòng cũng có chút phát lạnh.",
+      "suggest": "Liễu Minh vừa nhìn rõ khuôn mặt lão giả, mặc dù hắn luôn luôn gan to hơn người, nhưng trong lòng vẫn phát lạnh.",
+      "similarity": [
+        [
+          92,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cái này địa phương khác đều nhìn như cùng bình thường lão giả không giống, duy chỉ có vốn là nên trang bị con mắt địa phương, thình lình trống rỗng một mảnh, chỉ có hai luồng hạt đậu lớn tiểu Lục diễm tại có chút chớp động không thôi.",
+      "dich": "Gương mặt lão giả thoạt nhìn cũng bình thường như những người khác, duy chỉ có hai hốc mắt là trống không, nơi đó vốn phải có hai con người thì lại chỉ có hai ngọn lửa màu xanh lục cỡ hạt đậu đang nhảy nhót không ngừng.",
+      "suggest": "Địa phương khác ngoài chỗ này nhìn như giống bình thường, duy chỉ có chỗ mà lão giả bình thường trang bị con mắt thì hoàn toàn trống không, chỉ có hai luồng ánh sáng màu xanh biếc to bằng hạt đậu đang chớp động không ngừng.",
+      "similarity": [
+        [
+          92,
+          0.96
+        ],
+        [
+          93,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Vãn bối bái kiến quỷ lão!\"",
+      "dich": "\"Vãn bối bái kiến Quỷ lão!\"",
+      "suggest": "\"Vãn bối bái kiến quỷ lão!\"",
+      "similarity": [
+        [
+          94,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh tâm niệm nhanh chóng chuyển động thoáng một phát về sau, cuối cùng cưỡng ép ngăn chặn trong nội tâm ý sợ hãi, lần nữa thi lễ nói.",
+      "dich": "Ý nghĩ trong đầu Liễu Minh nhanh chóng xoay chuyển, cuối cùng cũng đè nén sự sợ hãi trong lòng xuống, thi lễ một lần nữa, nói.",
+      "suggest": "Tâm niệm Liễu Minh nhanh chóng chuyển động, cuối cùng cũng kìm nén không được sự sợ hãi trong lòng, lần nữa thi lễ.",
+      "similarity": [
+        [
+          95,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đúng vậy, tại lần thứ nhất gặp của ta những tiểu tử kia ở bên trong, ngươi xem như lá gan khá lớn người.",
+      "dich": "\"Khá lắm, trong số những tiểu tử lần đầu tiên gặp ta, ngươi cũng xem như một kẻ khá dũng cảm.",
+      "suggest": "\"Đúng vậy, trong những tiểu tử kia lần đầu tiên gặp mặt ta, ngươi xem bộ dáng ngươi có lá gan khá lớn.",
+      "similarity": [
+        [
+          95,
+          0.96
+        ],
+        [
+          96,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhìn lúc này phía trên, ta có một việc giao cho ngươi, chỉ cần sau khi hoàn thành, ta tự nhiên mới có lợi đưa cho ngươi.\"",
+      "dich": "Bây giờ ta có một việc giao cho ngươi, nhưng chỉ sau khi hoàn thành, ta mới trả thù lao cho ngươi.\"",
+      "suggest": "Xem xong phần trên, ta có một việc muốn giao cho ngươi, chỉ cần sau khi hoàn thành, ta đương nhiên sẽ có lợi đưa cho ngươi.\"",
+      "similarity": [
+        [
+          96,
+          0.97
+        ],
+        [
+          97,
+          0.98
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Quỷ lão trong mắt lục diễm lóe lên nói.",
+      "dich": "Hai đốm lửa màu xanh trong mắt Quỷ lão lóe lên, nói.",
+      "suggest": "Ánh lửa trong mắt Quỷ lão lóe lên, nói.",
+      "similarity": [
+        [
+          98,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Không biết là chuyện gì tình, vãn bối Pháp lực thấp kém chỉ sợ giúp đỡ không là cái gì đại ân.\"",
+      "dich": "\"Không biết là chuyện gì, vãn bối Pháp lực thấp kém, chỉ sợ không giúp đỡ được gì.\"",
+      "suggest": "\"Không biết là chuyện gì, vãn bối Pháp lực thấp kém chỉ sợ không thể giúp đỡ được chút nào.\"",
+      "similarity": [
+        [
+          99,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh nghe vậy, một chút do dự.",
+      "dich": "Liễu Minh nghe vậy, hơi do dự một chút.",
+      "suggest": "Liễu Minh nghe vậy, hơi do dự một chút.",
+      "similarity": [
+        [
+          100,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Hắc hắc, chẳng qua là việc rất nhỏ, căn bản không cần ngươi có bao nhiêu Pháp lực đấy.",
+      "dich": "\"Ha ha, chỉ là việc rất nhỏ, căn bản không cần quan tâm ngươi có bao nhiêu Pháp lực.",
+      "suggest": "\"Ha ha, chỉ là việc rất nhỏ, căn bản không cần ngươi có bao nhiêu Pháp lực.",
+      "similarity": [
+        [
+          101,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ta đây có một mặt Âm La bàn, có thể biểu hiện trong vòng trăm trượng quỷ vật chuẩn xác vị trí, chỉ cần ngươi giúp đỡ tại phụ cận âm trong sông tìm một cái chút ít mặt quỷ cá đến, ta liền đem này bàn tặng cho ngươi như thế nào?\"",
+      "dich": "Ta đây có một cái Âm La Bàn, có thể xác định chính xác vị trí của Quỷ vật trong phạm vi trăm trượng, chỉ cần ngươi có thể giúp ta bắt được vài con Quỷ Kiểm Ngư trong Âm Hà gần đây, ta lập tức sẽ tặng La Bàn này cho ngươi, sao hả?\"",
+      "suggest": "Ta đây có một cái bàn Âm La Bàn, có thể biểu hiện vị trí của quỷ vật trong vòng trăm trượng, chỉ cần ngươi giúp đỡ tìm một con cá mập trong sông ở phụ cận thì ta sẽ tặng cho ngươi cái bàn này như thế nào?\"",
+      "similarity": [
+        [
+          101,
+          0.96
+        ],
+        [
+          102,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Quỷ lão hắc hắc một tiếng nói, cũng cầm trong tay cái khay bạc hướng Liễu Minh lung lay nhoáng một cái.",
+      "dich": "Quỷ lão cười lên một tiếng rồi nói, cũng giơ giơ cái khay bạc trong tay về phía Liễu Minh.",
+      "suggest": "Quỷ lão cười ha hả một tiếng, cũng cầm cái khay bạc trong tay lay động một cái về phía Liễu Minh.",
+      "similarity": [
+        [
+          102,
+          0.95
+        ],
+        [
+          103,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Có thể biểu hiện quỷ vật vị trí?",
+      "dich": "\"Có thể xác định vị trí Quỷ vật?",
+      "suggest": "\"Có thể biểu hiện quỷ vật ở vị trí nào?",
+      "similarity": [
+        [
+          104,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chuyện này là thật!\"",
+      "dich": "Chuyện này là thật sao!\"",
+      "suggest": "Chuyên này là thât!\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh nghe xong lời này, lúc này trong nội tâm khẽ động.",
+      "dich": "Liễu Minh nghe xong lời này, trong lòng hơi xao động.",
+      "suggest": "Liễu Minh nghe xong lời này, trong lòng khẽ động",
+      "similarity": [
+        [
+          106,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Dùng thân phận ta, chẳng lẽ còn có thể dỗ dành ngươi không thành.",
+      "dich": "\"Với thân phận của ta chẳng lẽ lại còn đi trêu đùa một tiểu tử vắt vũi chưa sạch như ngươi sao!",
+      "suggest": "\"Với thân phận của ta, chẳng lẽ còn có thể dỗ dành ngươi được sao.",
+      "similarity": [
+        [
+          107,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngươi đi nhanh về nhanh, cái hướng kia ba dặm bên ngoài thì có một cái âm sông, ngươi đi nhanh về nhanh a.\"",
+      "dich": "Ngươi đi nhanh về nhanh, hướng kia cách ba dặm có một Âm Hà, ngươi mau đi nhanh về nhanh.\"",
+      "suggest": "Ngươi đi nhanh về nhanh, bên kia có một con sông lớn, ngươi đi nhanh về nhanh đi.\"",
+      "similarity": [
+        [
+          108,
+          0.96
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Quỷ lão phảng phất có chút ít không kiên nhẫn được nữa.",
+      "dich": "Quỷ lão dường như đã có chút không kiên nhẫn nổi nữa.",
+      "suggest": "Quỷ lão phảng phất có chút không kiên nhẫn được nữa.",
+      "similarity": [
+        [
+          109,
+          0.97
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Nếu như chẳng qua là tại ngoài mười dặm địa phương, vậy vãn bối liền thử bên trên thử một lần a.\"",
+      "dich": "\"Nếu chỉ là địa điểm cách nơi đây ba dặm, vãn bối liền thử một lần xem sao.\"",
+      "suggest": "\"Nếu chỉ là cách đây mười dặm, vãn bối có thể thử qua bên trên một lần.\"",
+      "similarity": [
+        [
+          110,
+          0.99
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liễu Minh trong nội tâm mơ hồ cảm thấy có chút kỳ quái, nhưng nghe xong khoảng cách gần như vậy, lại nhìn một chút trong tay đối phương cái kia mặt cái khay bạc về sau, hay vẫn là gật đầu đáp ứng xuống.",
+      "dich": "Trong lòng Liễu Minh mơ hồ cảm thấy có chút kỳ quái, nhưng sau khi nghe xong khoảng cách gần như vậy, lại nhìn qua cái khay bạc trong tay đối phương, rút cuộc vẫn gật đầu đồng ý.",
+      "suggest": "Trong lòng Liễu Minh hơi lấy làm lạ, nhưng nghe xong khoảng cách gần như vậy, lại nhìn thoáng qua cái khay bạc trong tay đối phương, cuối cùng cũng gật đầu đồng ý.",
+      "similarity": [
+        [
+          110,
+          0.96
+        ],
+        [
+          111,
+          0.99
+        ]
+      ],
+      "approved": true
+    }
+  ]
+}

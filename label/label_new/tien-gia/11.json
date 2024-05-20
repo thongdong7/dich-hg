@@ -1,0 +1,1519 @@
+{
+  "currentLine": 103,
+  "next": {
+    "id": 12,
+    "title": "Chương 12: Cửu Nguyên Quyết"
+  },
+  "previous": {
+    "id": 10,
+    "title": "Chương 10: Khổ tu khó khăn"
+  },
+  "title": {
+    "convert": "Chương 11",
+    "dich": "Chương 11"
+  },
+  "lines": [
+    {
+      "convert": "\"Xảy ra chuyện gì vậy?\"",
+      "dich": "\"Chuyện gì xảy ra vậy?\"",
+      "suggest": "\"Xảy ra chuyện gì vậy?\"",
+      "similarity": [
+        [
+          0,
+          0.24
+        ],
+        [
+          20,
+          0.11
+        ],
+        [
+          34,
+          0.13
+        ],
+        [
+          41,
+          0.13
+        ],
+        [
+          47,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh trong lòng tim đập mạnh một cú, vội vàng nhìn về phía cánh tay phải nóng lên chỗ.",
+      "dich": "Viên Minh thót tim, vội vàng nhìn chỗ nóng lên trên cánh tay phải.",
+      "suggest": "Viên Minh tim đập mạnh một cái, vội vàng nhìn về phía cánh tay phải đang nóng ran.",
+      "similarity": [
+        [
+          1,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nửa tháng này đến hắn một mực dừng lại ở lờ mờ hoàn cảnh, hai mắt cũng dần dần thích ứng hắc ám, nóng lên chỗ là một cái nhợt nhạt màu xanh ấn ký, xem ra có chút giống là một cái lư hương.",
+      "dich": "Nửa tháng nay hắn vẫn luôn ở trong không gian tối tăm, hai mắt cũng dần thích ứng với bóng tối nên có thể thấy chỗ nóng lên có một ấn ký màu xanh nhạt, trông hình dạng giống một cái lư hương.",
+      "suggest": "Nửa tháng trôi qua, hai mắt hắn vẫn luôn ở trong hoàn cảnh hắc ám, hai mắt dần dần thích ứng với sự u ám, trên trán hiện lên một cái ấn ký màu xanh nhạt, trông có vẻ giống như đang ngửi thuốc phiện.",
+      "similarity": [
+        [
+          2,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nguyên bản cực nhạt ấn ký, giờ phút này lại lấy mắt thường thấy rõ tốc độ trở nên rõ ràng, tản mát ra nhè nhẹ hơi yếu quang mang.",
+      "dich": "Ấn ký vốn rất mờ nhạt, lúc này đang dùng tốc độ mắt thường có thể thấy được, trở nên rõ ràng đồng thời tỏa ra những tia sáng yếu ớt.",
+      "suggest": "Ấn ký vốn cực nhạt giờ phút này tốc độ trở nên rõ ràng, tản mát ra quang mang mỏng manh.",
+      "similarity": [
+        [
+          3,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ồ, ta trên cánh tay khi nào hơn nhiều như vậy cái cổ quái ấn ký?\"",
+      "dich": "\"Ồ, trên tay mình từ lúc nào lại có thêm cái ấn ký cổ quái này vậy?\"",
+      "suggest": "\"Ồ, trên cánh tay ta có bao nhiêu ấn ký cổ quái như vậy?\"",
+      "similarity": [
+        [
+          4,
+          0.29
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh ngạc nhiên, dùng ngón tay đụng chạm một cái, màu xanh ấn ký sờ lên không đau không ngứa, cũng không cái gì khác thường.",
+      "dich": "Viên Minh ngạc nhiên, đưa ngón tay thứ chạm một cái, kết quả là chỗ da có ấn ký không thấy đau ngứa hay cảm giác bất thường nào.",
+      "suggest": "Viên Minh ngạc nhiên, dùng ngón tay đụng nhẹ một cái, ký hiệu màu xanh sờ lên không đau không ngứa, cũng không có gì khác thường cả.",
+      "similarity": [
+        [
+          5,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn suy nghĩ một chút, thử nghiệm điều động bên trong đan điền kia một chút Pháp lực, ngưng tụ đến đầu ngón tay, điểm tại màu xanh ấn ký bên trên.",
+      "dich": "Hắn suy nghĩ một chút rồi thử điều động chút pháp lực trong đan điền ngưng tụ tới đầu ngón tay, điểm lên trên ấn ký màu xanh.",
+      "suggest": "Hắn suy nghĩ một chút, thử điều động một chút Pháp lực trong đan điền kia, ngưng tụ ra đầu ngón tay, điểm vào ấn ký màu xanh.",
+      "similarity": [
+        [
+          6,
+          0.46
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ấn ký phát ra quang mang mặc dù yếu ớt, lại mang theo một chút như có như không Pháp lực ba động, để kia trong lòng không khỏi được sinh ra một cỗ muốn như vậy đi làm xúc động.",
+      "dich": "Ấn ký tuy tỏa ánh sáng mờ nhạt lại mang theo một chút pháp lực như có như không, khiến trong lòng không nhịn được muốn thử như vậy.",
+      "suggest": "Ấn ký phát ra ánh sáng màu xanh lá mặc dù yếu ớt nhưng lại mang theo một chút Pháp lực như có như không khiến cho trong lòng hắn không khỏi sinh ra một cỗ xúc động muốn làm như vậy.",
+      "similarity": [
+        [
+          7,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Màu xanh ấn ký đột nhiên phát ra một cỗ lực hút, \"HƯU...U...U\" một cái đem kia một chút Pháp lực thôn phệ hướng vào trong!",
+      "dich": "Kết quả, ấn ký màu xanh đột nhiên đột nhiên phát ra lực hút, nhoáng cái đã hút sạch chút pháp lực kia vào vào bên trong.",
+      "suggest": "Ấn ký màu xanh đột nhiên phát ra một luồng lực hút, \"HƯU...U...U\" một tiếng đã thôn phệ sạch sẽ một chút Pháp lực kia!",
+      "similarity": [
+        [
+          8,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh quá sợ hãi, này tia Pháp lực thế nhưng là hắn vất vả nửa tháng, thật vất vả mới tích góp ra, vậy mà một khi mất hết.",
+      "dich": "Viên Minh kinh hãi tái mặt, chút pháp lực kia chính là thành quả mà hắn vất vả nửa tháng mới tích góp được, thế mà chỉ nhoáng cái đã mất hết.",
+      "suggest": "Viên Minh quá sợ hãi, tia Pháp lực này là hắn mất nửa tháng mới tích góp được, không ngờ lại mất hết.",
+      "similarity": [
+        [
+          9,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn hoảng loạn phía dưới, vận chuyển Huyết Khí Pháp, nỗ lực đem Pháp lực theo ấn ký bên trong hút trở về, nhưng đâu phải hút được đi ra, một lòng thẳng trầm xuống.",
+      "dich": "Hắn cuống quýt vận chuyển Huyết Khí pháp, toan kéo pháp lực từ ấn ký trở về nhưng không cách nào hút lại được, tâm trạng theo đó chìm xuống.",
+      "suggest": "Hắn hoảng loạn, vận chuyển Huyết Khí Pháp, cố gắng hút hết Pháp lực từ trong ấn ký trở về, nhưng đâu phải hút được mà là hút được rồi, trong lòng trầm xuống.",
+      "similarity": [
+        [
+          10,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Pháp lực tích góp từng tí một vốn là khó khăn, hôm nay triệt để kiếm củi ba năm thiêu một giờ.",
+      "dich": "Vất vả tích cóp từng tí một mới được chút pháp lực, thế mà giờ lại thành kiếm củi ba năm thiêu một giờ.",
+      "suggest": "Pháp lực tích góp từng chút từng chút một vốn đã khó khăn, hôm nay hoàn toàn có thể kiếm củi ba năm thiêu một giờ.",
+      "similarity": [
+        [
+          11,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngay tại Viên Minh có chút mất hết can đảm thời điểm, màu xanh ấn ký bên trong hiện lên một đoàn luồng nhiệt, một đoàn lờ mờ quang mang lập tức tại hắn trên cánh tay phát sáng lên.",
+      "dich": "Ngay khi Viên Minh có chút tuyệt vọng, trong ấn ký màu xanh xuất hiện một luồng nhiệt lưu, đồng thời một đoàn vầng hào quang cũng lập tức sáng lên trên cánh tay hắn.",
+      "suggest": "Ngay khi Viên Minh hơi mất hết can đảm, bên trong ấn ký màu xanh hiện lên một luồng khí nóng, một tia sáng lờ mờ lập tức từ trên cánh tay hắn sáng lên.",
+      "similarity": [
+        [
+          12,
+          0.26
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh trừng lớn hai mắt, nhìn về phía kia đoàn quang mang.",
+      "dich": "Viên Minh mở to hai mắt nhìn về phía vầng hào quang kia.",
+      "suggest": "Viên Minh trừng lớn hai mắt nhìn về phía đoàn ánh sáng kia.",
+      "similarity": [
+        [
+          13,
+          0.34
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lập tức, hắn kinh ngạc đất chứng kiến, kia đoàn quang mang trong bất ngờ có một cái lớn cỡ bàn tay lư hương màu xanh xuất hiện ra, tại tia sáng nhờ cậy cử hạ, vững vàng đất rơi vào trước người của hắn.",
+      "dich": "Tức thì, hắn kinh ngạc phát hiện trong đoàn quang mang kia không ngờ có một lư hương màu xanh lớn cỡ bàn tay xuất hiện. Lư hương được vầng sáng nâng đỡ, từ từ hạ xuống mặt đất trước người hắn.",
+      "suggest": "Lập tức, hắn kinh ngạc khi trong đoàn ánh sáng kia bất ngờ xuất hiện một lư hương màu xanh lớn cỡ bàn tay xuất hiện, dưới ánh sáng nhờ cậy đã đứng vững vàng mặt đất trước người mình.",
+      "similarity": [
+        [
+          14,
+          0.29
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Kia lư hương nhìn tới tựa hồ là đất sét thiêu chế, ba chân hai lỗ tai, lại không nắp, một mặt khắc có Âm Dương song ngư Thái Cực đồ án, một mặt khác là có ngôi sao điểm khắc, khắc rõ một mảnh tinh không giống như trận đồ.",
+      "dich": "Lư hương này nhìn như đồ gốm sứ, có ba chân hai tai nhưng không có nắp đậy, một mặt khắc đồ án Thái Cực Âm Dương Song Ngư, mặt kia khắc hình những ngôi sao, trông như một Tinh Không đồ.",
+      "suggest": "Lư hương kia nhìn tựa như được đất sét thiêu đốt, ba chân hai lỗ tai, lại không nắp, một mặt khắc có đồ án hình Thái Cực, một mặt khác khắc có đồ án hình Thái Cực, khắc rõ từng chi tiết một cách rõ ràng.",
+      "similarity": [
+        [
+          15,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Âm Dương Thái Cực Đồ án chiếu sáng rạng rỡ, nhìn tới rất là thần bí.",
+      "dich": "Đồ án Âm Dương Thái Cực chiếu sáng rực rõ, trông vô cùng thần bí.",
+      "suggest": "Đồ án Âm Dương Thái Cực tỏa sáng rực rỡ, nhìn qua có vẻ rất thần bí.",
+      "similarity": [
+        [
+          16,
+          0.35
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lư hương phía trên, còn bất ngờ cắm một ngắn hai dài, ba cái hắc hương.",
+      "dich": "Ở trên lư hương, thình lình còn có cắm ba cây hương đen, hai dài một ngắn.",
+      "suggest": "Trên lư hương còn bất ngờ cắm một ngắn hai dài ba mùi hắc hương.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh bị này cảnh tượng kỳ dị lại càng hoảng sợ, lăng thần mấy hơi thở, lúc này xòe bàn tay ra, dùng chỉ bụng nhẹ nhàng tại lư hương bên trên vuốt ve một hồi, đầu ngón tay truyền đến tinh tế tỉ mỉ chân thật xúc cảm.",
+      "dich": "Viên Minh bị cảnh tượng kỳ dị này hù cho phát hoảng, ngây người hít thở mấy cái, xong mới vươn tay, dùng ngón tay nhẹ nhàng vuốt lư hương một hồi, kết quả chỉ thấy một cảm giác nhẵn mịn chân thật theo ngón tay truyền tới.",
+      "suggest": "Viên Minh bị cảnh tượng kỳ dị này làm cho hoảng sợ, vội vàng cúi đầu xuống, dùng ngón tay nhẹ nhàng sờ soạng trên lư hương một hồi, đầu ngón tay truyền đến cảm giác thật tỉ mỉ, tỉ mỉ.",
+      "similarity": [
+        [
+          18,
+          0.33
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Không phải ảo giác.\"",
+      "dich": "\"Không phải ảo giác.\"",
+      "suggest": "\"Đây không phải là ảo giác.\"",
+      "similarity": [
+        [
+          19,
+          0.34
+        ],
+        [
+          78,
+          0.11
+        ],
+        [
+          81,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh ngồi thẳng người, lại nhẹ nhàng vuốt ve một cái kia ba cái hắc hương, chỉ cảm thấy chất liệu tựa hồ cùng bình thường hương không cũng không khác biệt gì, bất quá vuốt càng thêm tinh tế tỉ mỉ bóng loáng một chút.",
+      "dich": "Viên Minh ngồi thẳng người lên, xong lại nhẹ nhàng vuốt ve ba cây hương đen, chỉ thấy chất liệu làm hương cũng không có gì đặc biệt lắm, chỉ là càng vuốt càng thấy nhẵn mịn, tinh tế.",
+      "suggest": "Viên Minh ngồi thẳng người, nhẹ nhàng vuốt ve ba cây hắc hương kia, chỉ cảm thấy chất liệu tựa hồ không khác gì mùi bình thường, bất quá vuốt càng thêm tỉ mỉ, bóng loáng.",
+      "similarity": [
+        [
+          20,
+          0.25
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn lại cúi đầu nhìn cánh tay của mình, nơi đó ấn ký đã không có, chỉ còn lại hơi hơi nóng rực cảm giác.",
+      "dich": "Hắn lại cúi đầu nhìn cánh tay mình, phát hiện ấn ký đã biến mất, chỉ còn lại một cảm giác nóng rực.",
+      "suggest": "Hắn cúi đầu nhìn xuống cánh tay, nơi đó đã không còn dấu vết, chỉ còn lại cảm giác nóng rực.",
+      "similarity": [
+        [
+          21,
+          0.3
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Kỳ quái, này lư hương đến cùng nơi nào đến?",
+      "dich": "\"Kỳ quái, lư hương này rốt cuộc lấy từ đâu ra?",
+      "suggest": "'Kỳ quái, lư hương này đến từ nơi nào vậy?",
+      "similarity": [
+        [
+          22,
+          0.29
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Sao lại như thế tìm ta trên cánh tay đi?\"",
+      "dich": "Sao lại chạy tới tay mình?\"",
+      "suggest": "Sao lại tìm kiếm ta trên cánh tay vậy?\"",
+      "similarity": [
+        [
+          0,
+          0.14
+        ],
+        [
+          23,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh chính kinh ngạc ở giữa, trong đầu đột nhiên có một đoạn trí nhớ phun ra, trong thoáng chốc nhớ lại chính mình rơi vào giữa sông, tại cuồn cuộn sóng biển trong quay cuồng xông tới, cuối cùng bị mạch nước ngầm cuốn vào đáy nước.",
+      "dich": "Đang khi Viên Minh còn đang kinh ngạc, trong đầu có một đoạn ký ức đột nhiên xông ra, tức thì hắn nhớ lại cảnh bản thân mình rơi xuống sông, điên cuồng chạy trốn giữa sóng nước cuồn cuộn, cuối cùng là bị dòng nước ngầm cuốn xuống đáy nước.",
+      "suggest": "Viên Minh đang kinh ngạc thì đột nhiên từ trong đầu có một ý nghĩ vụt ra, trong chốc lát nhớ lại mình rơi xuống giữa sông, trong lúc sóng nước cuồn cuộn cuộn sóng, cuối cùng bị cuốn vào đáy nước.",
+      "similarity": [
+        [
+          24,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trong lúc hỗn loạn, hắn tại đáy nước thấy được một đoàn quang mang, thò tay giãy giụa chạm tới một sự kiện đồ vật.",
+      "dich": "Trong lúc hỗn loạn ấy, hắn thấy một tia sáng dưới đáy sông, đưa tay quờ quạng tóm được một vật gì đó.",
+      "suggest": "Trong lúc hỗn loạn, hắn trông thấy một luồng sáng xanh hiện ra, thò tay xuống nước định chạm vào một thứ gì đó.",
+      "similarity": [
+        [
+          25,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chuyện này đồ vật, đúng là lư hương.",
+      "dich": "Vật này chính là một cái lư hương.",
+      "suggest": "Vật này đúng là lư hương.",
+      "similarity": [
+        [
+          26,
+          0.18
+        ],
+        [
+          58,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đồng tử trong nháy mắt co vào, lại nhìn hướng lư hương lúc, ánh mắt trở nên càng thêm ngạc nhiên.",
+      "dich": "Viên Minh lập tức nheo mắt lại, càng nhìn lư hương này, hắn càng thêm ngạc nhiên.",
+      "suggest": "Đồng tử Viên Minh trong nháy mắt co lại, lại nhìn về phía lư hương đang cháy hừng hực, ánh mắt càng thêm ngạc nhiên.",
+      "similarity": [
+        [
+          27,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mặc dù còn không biết này lư hương đến tột cùng cái gì, nhưng vật này đã có thể kèm theo tại trên người mình, tuyệt đối không phải phàm tục vật.",
+      "dich": "Tuy còn chưa biết lư hương này rốt cuộc là cái gì, nhưng vật này có thể bám vào người hắn thì tuyệt đối không phải là phàm vật.",
+      "suggest": "Mặc dù chưa biết lư hương này đến tột cùng là thứ gì, nhưng vật này đã có thể đeo bên người mình, tuyệt đối không phải là phàm nhân.",
+      "similarity": [
+        [
+          28,
+          0.38
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đem lòng bàn tay dán tại lư hương bên trên, chỉ cảm thấy một cổ nhiệt lưu thâm nhập tới đây, rất nhanh truyền vào trong đầu.",
+      "dich": "Viên Minh đưa lòng bàn tay áp vào lư hương, chỉ cảm thấy có một luồng nhiệt lưu truyền qua rồi rất nhanh xông thẳng lên đầu.",
+      "suggest": "Viên Minh đặt tay lên lư hương, chỉ cảm thấy một luồng khí nóng chạy rần rật trong không trung, rất nhanh truyền vào trong đầu.",
+      "similarity": [
+        [
+          29,
+          0.24
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn chỉ cảm thấy trong đầu một hồi mát lạnh ý hiện lên, những ngày này không biết ngày đêm tu luyện tích lũy mỏi mệt biến mất vô tung, tinh thần dị thường phấn khởi.",
+      "dich": "Hắn lập tức cảm thấy đầu thanh tỉnh, bao nhiêu mệt mỏi tích tụ từ những ngày tu luyện đều biến mất hết, tinh thần phấn khởi dị thường.",
+      "suggest": "Hắn chỉ cảm thấy trong đầu có một luồng ý nghĩ mát lạnh hiện ra, những mệt mỏi không biết ngày đêm tu luyện đã biến mất vô tung vô ảnh, tinh thần vô cùng phấn chấn.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Này lư hương quả nhiên là Thần vật, vậy mà có thể như thế nâng cao tinh thần hiệu quả.\"",
+      "dich": "\"Lư hương này quả nhiên là thần vật, vậy mà có hiệu quả nâng cao tinh thần.\"",
+      "suggest": "\"Linh Hải Quả nhiên là thần vật, vậy mà có thể nâng cao tinh thần hiệu quả như vậy.\"",
+      "similarity": [
+        [
+          31,
+          0.46
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh mừng rỡ tự mình lẩm bẩm.",
+      "dich": "Viên Minh mừng rỡ tự lẩm nhẩm.",
+      "suggest": "Viên Minh mừng rỡ tự mình lẩm bẩm.",
+      "similarity": [
+        [
+          32,
+          0.5
+        ],
+        [
+          69,
+          0.11
+        ],
+        [
+          92,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn nhìn lấy trong lò đứng lặng lấy ba cái hắc hương, suy nghĩ một chút, lại lần nữa dùng chui vào mộc phương thức dấy lên một đoàn hỏa diễm, đốt lên một tiết phân bố sợi thô.",
+      "dich": "Hắn nhìn ba cây hương đang đứng lặng trong lư hương, suy nghĩ một chút rồi lại lần nữa dùng cách lấy gỗ khoan gỗ tạo lửa, châm lên một miếng vải.",
+      "suggest": "Hắn nhìn ba cây hắc hương trong bình, suy nghĩ một chút, lại lần nữa dùng phương thức mộc động dấy lên một ngọn lửa, đốt cháy một sợi tơ.",
+      "similarity": [
+        [
+          33,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tay hắn đang cầm phân bố sợi thô ngọn lửa, cẩn thận từng li từng tí đưa hướng lư hương, đốt lên trong đó một cái hắc hương.",
+      "dich": "Hắn cầm miếng vải cháy, cẩn thận đưa về phía lư hương, thắp một cây hương đen trong đó.",
+      "suggest": "Tay hắn đang cẩn thận dò tìm ngọn lửa nhỏ đang cháy hừng hực, cẩn thận từng li từng tí đốt lên một nén hương đen.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Đầu nhang dấy lên một hạt hoả tinh, tại tối tăm trong động đất sáng lên một cái hơi nhỏ quang điểm, phía trên dâng lên lượn lờ sương mù.",
+      "dich": "Đầu hương được châm lửa, nhen lên một hạt tinh hỏa, hình thành một điểm sáng nhỏ giữa không gian tăm tối của huyệt đồng, đồng thoải tỏa lên khói hương.",
+      "suggest": "Đầu nhang dấy lên một ngọn lửa nhỏ, ở trong động đất tối tăm sáng lên một tia sáng nhỏ, mặt ngoài phản chiếu sương mù lượn lờ.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh lập tức ngửi được một loại trong trí nhớ chưa bao giờ có đặc biệt mùi thơm, xen vào đàn hương cùng tùng hương ở giữa, chẳng qua là nhẹ nhàng ngửi được một chút, khiến cho ý thức của hắn trở nên hôn mê, hai mắt trở nên mơ hồ bắt đầu.",
+      "dich": "Viên Minh nhất thời ngửi được một hương thơm đặc biệt chưa từng xuất hiện trong đầu, là mùi pha giữa đàn hương và tùng hương, có điều vừa ngửi được một chút đã khiến thần trí hắn trở nên mơ hồ, hai mắt bắt đầu nhòe đi.",
+      "suggest": "Viên Minh lập tức ngửi thấy một mùi hương mà từ trước đến giờ hắn chưa bao giờ có, xen kẽ với đàn hương và tùng hương, chỉ một chút thôi đã làm cho ý thức hắn trở nên hôn mê, hai mắt trở nên mờ đục.",
+      "similarity": [
+        [
+          36,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Mê hương?\"",
+      "dich": "\"Mê hương?\"",
+      "suggest": "\"Mê hương?\"",
+      "similarity": [
+        [
+          0,
+          0.12
+        ],
+        [
+          24,
+          0.11
+        ],
+        [
+          37,
+          1
+        ],
+        [
+          41,
+          0.24
+        ],
+        [
+          47,
+          0.24
+        ],
+        [
+          62,
+          0.15
+        ],
+        [
+          78,
+          0.13
+        ],
+        [
+          81,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh trong đầu mới vừa hiện lên một cái ý niệm như vậy, lập tức liền lâm vào một mảnh hắc ám ở bên trong, mất đi làm cho có ý thức.",
+      "dich": "Ý nghĩ này vừa lóe lên trong đầu, Viên Minh đã lập tức rơi vào trong một khoảng hắc ám, hoàn toàn mất đi ý thức.",
+      "suggest": "Trong đầu Viên Minh vừa mới xuất hiện một ý niệm như vậy, lập tức liền lâm vào một mảnh hắc ám, mất đi ý thức.",
+      "similarity": [
+        [
+          38,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cũng không biết trải qua bao lâu, ý thức của hắn từ từ khôi phục, một hồi tiếng ồn ào thanh âm tại bốn phía vang lên.",
+      "dich": "Cũng không biết phải qua bao lâu, hắn mới từ từ khôi phục ý thức, đồng thời nghe được một tràng âm thanh ồn ào từ bốn phía truyền tới.",
+      "suggest": "Cũng không biết qua bao lâu, ý thức của hắn dần dần khôi phục, một hồi những tiếng ồn ào từ bốn phía vọng lại.",
+      "similarity": [
+        [
+          39,
+          0.25
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Không tốt, có dã thú đột kích!\"",
+      "dich": "\"Không ổn, có dã thú đột kích!\"",
+      "suggest": "\"Không xong rồi, có dã thú đột kích!\"",
+      "similarity": [
+        [
+          40,
+          0.68
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh trong lòng giật mình, bỗng nhiên mở hai mắt ra.",
+      "dich": "Viên Minh giật nảy người, mở trừng hai mắt.",
+      "suggest": "Viên Minh giật mình, bỗng nhiên mở hai mắt ra.",
+      "similarity": [
+        [
+          41,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhưng đập vào mi mắt không phải lờ mờ động đất, mà là một mảnh hết sức rộng lớn, phủ lên vàng óng ánh thêu hoa vải tơ khắc hoa cái bàn.",
+      "dich": "Nhưng đập vào mắt hắn không phải là huyệt động u tối, mà là cái trác án vô cùng lớn được phủ vải thêu hoa vàng óng ánh.",
+      "suggest": "Nhưng đập vào mắt hắn không phải là một vực sâu không đáy, mà là một không gian hết sức rộng lớn, được đắp bằng một tấm vải tơ vàng óng ánh thêu hoa văn rất tinh xảo.",
+      "similarity": [
+        [
+          42,
+          0.25
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trên cái bàn chỉnh tề bầy đặt văn phòng tứ bảo (bút, mực, giấy, nghiên) cùng một xấp vàng gấm bao bì sách, nghiên mực là khắc Long, bút lông là ngọc cán bút lông sói, mỗi một kiện đều đẹp đẽ lộng lẫy.",
+      "dich": "Trên trác án thấy đặt ngăn nắp văn phòng tứ bảo cùng một một xấp thư sách bìa vàng, bút lông thì cán ngọc lông sói, nghiên mực thì chất ngọc khắc rồng, kiện nào cũng tinh xảo hoa mỹ.",
+      "suggest": "Trên cái bàn có bốn món đồ trang trí đẹp đẽ: Bút, mực, giấy, nghiên, bút lông là Ngọc Cán Bút Lông là Sói, mỗi món đều rất đẹp đẽ lộng lẫy.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Nằm mơ rồi?\"",
+      "dich": "\"Nằm mơ?\"",
+      "suggest": "\"Nằm mơ rồi?\"",
+      "similarity": [
+        [
+          0,
+          0.12
+        ],
+        [
+          24,
+          0.11
+        ],
+        [
+          38,
+          0.19
+        ],
+        [
+          44,
+          0.41
+        ],
+        [
+          44,
+          0.17
+        ],
+        [
+          47,
+          0.19
+        ],
+        [
+          62,
+          0.12
+        ],
+        [
+          78,
+          0.1
+        ],
+        [
+          81,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh giật mình cảnh tỉnh, ngẩng đầu nhìn lên, mới phát hiện mình vậy mà thân ở tại một tòa nguy nga lộng lẫy đại điện trong đó.",
+      "dich": "Viên Minh bừng tỉnh, ngẩng đầu nhìn mới phát hiện mình đang ở trong một đại điện tráng lệ.",
+      "suggest": "Viên Minh giật mình cảnh tỉnh, ngẩng đầu nhìn lên, mới phát hiện ra mình đang ở trong một đại điện nguy nga lộng lẫy.",
+      "similarity": [
+        [
+          45,
+          0.39
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đại điện đường xuống, còn có bốn cái mặc màu trắng cẩm y người, hai nam hai nữ, phân biệt cúi đầu liệt ra tại hai bên.",
+      "dich": "Dưới đại điện đường, có bốn người mặc cẩm y màu trắng, hai nam hai nữ, phân biệt cúi đầu đứng hai bên.",
+      "suggest": "Trên con đường dẫn tới đại điện còn có bốn người mặc cẩm y màu trắng, hai nam hai nữ, phân biệt cúi đầu ở hai bên.",
+      "similarity": [
+        [
+          46,
+          0.66
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bệ hạ, người tỉnh ngủ?\"",
+      "dich": "\"Bệ hạ, người tỉnh ngủ rồi?\"",
+      "suggest": "\"Bệ hạ, người tỉnh ngủ rồi?\"",
+      "similarity": [
+        [
+          47,
+          1
+        ],
+        [
+          47,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lúc này, bên người đột nhiên một cái chói tai giọng nói truyền đến.",
+      "dich": "Lúc này, một giọng nói the thé đột nhiên vang lên bên cạnh.",
+      "suggest": "Đúng lúc này, bên người đột nhiên truyền đến một giọng nói chói tai.",
+      "similarity": [
+        [
+          48,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh lúc này chú ý tới, bên cạnh còn đứng lấy một người mặc cẩm bào, cầm trong tay bụi bặm, mặt trắng không râu âm nhu trung niên nam tử.",
+      "dich": "Viên Minh bây giờ mới để ý bên cạnh hắn còn có một nam tử trung niên âm nhu mặc cẩm bào, tay cầm phất trần, mặt trắng không râu.",
+      "suggest": "Viên Minh nhanh chóng chú ý tới bên cạnh, bên cạnh còn có một nam tử trung niên mặc cẩm bào, tay cầm túi bụi, mặt trắng không râu.",
+      "similarity": [
+        [
+          49,
+          0.42
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Bệ hạ?\"",
+      "dich": "\"Bệ hạ?\"",
+      "suggest": "\"Bệ hạ?\"",
+      "similarity": [
+        [
+          0,
+          0.12
+        ],
+        [
+          24,
+          0.11
+        ],
+        [
+          38,
+          0.24
+        ],
+        [
+          45,
+          0.24
+        ],
+        [
+          48,
+          0.2
+        ],
+        [
+          50,
+          1
+        ],
+        [
+          62,
+          0.15
+        ],
+        [
+          78,
+          0.13
+        ],
+        [
+          81,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh tròng mắt hơi híp, người này tại gọi mình?",
+      "dich": "Viên Minh híp mặt lại tự hỏi, không lẽ là đang gọi mình?",
+      "suggest": "Viên Minh nheo mắt, người này kêu hắn là ai vậy?",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Nhìn hắn vẻ mặt nịnh nọt nụ cười, Viên Minh cau chặt lông mày, ánh mắt rơi vào khắc hoa cái bàn bên cạnh một mặt bóng loáng trên gương đồng, bên trong rõ ràng chiếu rọi xuất ra thân ảnh của hắn, lại là một người mặc hoa lệ áo bào màu vàng thiếu niên, ngực thêu lên một cái Ngũ Trảo Kim Long đồ án.",
+      "dich": "Nhìn nụ cười nịnh nọt của gã, Viên Minh cau mày, đưa tầm mắt dừng lại trên một tấm gương đồng bóng loáng được đặt trên một cái bàn khắc hoa. Chiếc gương bóng loáng chiếu rõ thân ảnh của hắn, bất ngờ lại là một thiếu niên vận áo bào hoa lệ màu vàng, trên ngực áo có thêu đồ án ngũ trảo kim long.",
+      "suggest": "Nhìn vẻ mặt nịnh nọt của hắn, Viên Minh cau chặt lông mày, ánh mắt nhìn vào một cái gương đồng bóng loáng, rõ ràng chiếu rọi ra hình bóng của hắn, là một thiếu niên mặc áo bào màu vàng, trên ngực đeo một đồ án Ngũ Trảo Kim Long.",
+      "similarity": [
+        [
+          52,
+          0.1
+        ],
+        [
+          52,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thiếu niên kia cùng tuổi của hắn tương tự, khuôn mặt lại là hoàn toàn khác biệt!",
+      "dich": "Thiếu niên kia cũng trạc tuổi hắn nhưng gương mặt thì chẳng giống chút nào!",
+      "suggest": "Khuôn mặt thiếu niên kia cùng tuổi với hắn, khuôn mặt lại hoàn toàn khác!",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh cơ thể không khỏi hướng về phía sau khẽ dựa, đụng vào long ỷ chỗ tựa lưng bên trên.",
+      "dich": "Cơ thể Viên Minh không khỏi ngả về sau, khẽ dựa lên trên long ỷ.",
+      "suggest": "Cơ thể Viên Minh hơi khom lại, khẽ dựa vào thành ghế long ỷ.",
+      "similarity": [
+        [
+          54,
+          0.26
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ôi, nô tài đáng chết, kinh sợ đến bệ hạ.\"",
+      "dich": "\"Ôi, nô tài đáng chết, kinh động đến bệ hạ.\"",
+      "suggest": "\"Ôi, nô tài đáng chết, kinh sợ đến bệ hạ.\"",
+      "similarity": [
+        [
+          55,
+          0.8
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nam tử âm nhu lại càng hoảng sợ, vội vàng sợ hãi quỳ xuống, trong miệng hô.",
+      "dich": "Nam tử âm nhu lại càng hoảng sợ, vội vã quỳ sụp xuống, miệng cuống quýt hô.",
+      "suggest": "Nam tử âm nhu lại càng hoảng sợ, vội vàng sợ hãi quỳ xuống, miệng hô lớn.",
+      "similarity": [
+        [
+          56,
+          0.56
+        ],
+        [
+          63,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đường ở dưới bốn người cũng là một cái giật mình, nhao nhao quỳ trên mặt đất, cúi đầu không dám giơ lên mảy may.",
+      "dich": "Bốn người dưới đường cũng giật mình, nhao nhao quỳ trên mặt đất, cúi đầu không dám ngẩng lên.",
+      "suggest": "Bốn người còn lại cũng giật mình, vội vàng quỳ xuống đất, cúi đầu không dám nhúc nhích.",
+      "similarity": [
+        [
+          57,
+          0.36
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh trong lòng nhấc lên sóng to gió lớn, không để ý đến nam tử âm nhu đám người.",
+      "dich": "Trong lòng Viên Minh lúc này đang vô cùng rối rắm, làm gì có để ý tới đám người nam tử âm nhu.",
+      "suggest": "Viên Minh nổi lên sóng gió lớn, không để ý đến đám người nam tử âm nhu.",
+      "similarity": [
+        [
+          50,
+          0.11
+        ],
+        [
+          58,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chính mình mới vừa vẫn còn lờ mờ động đất, như thế nào đột nhiên đi tới một chỗ như vậy, nếu nói là nằm mơ, chung quanh nơi này mọi thứ cũng quá chân thật, vô luận là xúc giác, thính giác, khứu giác, đều cùng ngày thường không có khác gì.",
+      "dich": "Mình mới rồi còn đang ở trong hang tối, sao đột nhiên lại tới chỗ này, nếu bảo là nằm mơ thì mọi thứ xung quanh lại quá chân thực, bất luận xúc giác, thính giác, khứu giác đều y hệt như ngày thường.",
+      "suggest": "Chính mình vừa rồi còn đang lơ mơi đâp năng, tại sao lại đột nhiên đi tới một nơi như vậy, đừng nói là nằm mơ, mọi thứ xung quanh nơi này quá chân thật, vô luận là xúc giác, thính giác, khứu giác, đều giống như bình thường không khác gì nhau.",
+      "similarity": [
+        [
+          59,
+          0.22
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Chẳng lẽ là cái kia lư hương, đem ta làm cho đến nơi này?\"",
+      "dich": "\"Không lẽ là lư hương kia đưa ta đến đây?\"",
+      "suggest": "\"Chẳng lẽ lư hương kia đã đưa ta tới nơi này sao?\"",
+      "similarity": [
+        [
+          60,
+          0.14
+        ],
+        [
+          66,
+          0.1
+        ],
+        [
+          85,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh hồi tưởng lúc trước hành vi, bỗng nhiên toát ra một cái ý niệm trong đầu, càng nghĩ càng cảm thấy có khả năng.",
+      "dich": "Viên Minh nhớ lại hành động lúc trước, đột nhiên trong đầu nảy ra ý nghĩ này, càng nghĩ càng thấy có khả năng.",
+      "suggest": "Viên Minh hồi tưởng hành động lúc trước, bỗng nhiên xuất hiện một ý niệm trong đầu, càng nghĩ càng cảm thấy có khả năng.",
+      "similarity": [
+        [
+          61,
+          0.38
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ta... Ta không sao, các ngươi đi ra ngoài trước.\"",
+      "dich": "\"Ta ... ta không sao, các người đi ra ngoài trước.\"",
+      "suggest": "\"Ta ... ta không sao, các ngươi đi ra ngoài trước.\"",
+      "similarity": [
+        [
+          62,
+          0.44
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn hít sâu một hơi, ổn định tâm thần, chậm rãi nói ra.",
+      "dich": "Hắn hít sâu một hơi, ổn định tâm thần rồi chậm rãi nói.",
+      "suggest": "Hắn hít sâu một hơi, ổn định tâm thần, chậm rãi nói.",
+      "similarity": [
+        [
+          63,
+          0.8
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Vâng!\"",
+      "dich": "\"Vâng!\"",
+      "suggest": "\"Vâng!\"",
+      "similarity": [
+        [
+          38,
+          0.13
+        ],
+        [
+          45,
+          0.13
+        ],
+        [
+          51,
+          0.13
+        ],
+        [
+          64,
+          1
+        ],
+        [
+          78,
+          0.13
+        ],
+        [
+          81,
+          0.19
+        ],
+        [
+          88,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nam tử âm nhu một chút lưỡng lự, vẫn là vội vàng đáp ứng, mang theo tất cả mọi người, lui về xuất cung điện.",
+      "dich": "Nam tử âm nhu do dự một chút xong vội vàng đáp ứng, dẫn tất cả mọi người lui ra khỏi cung điện.",
+      "suggest": "Nam tử âm nhu lưỡng lự một chút, vẫn vội vàng đồng ý, dẫn tất cả mọi người rời khỏi đại điện.",
+      "similarity": [
+        [
+          58,
+          0.11
+        ],
+        [
+          65,
+          0.35
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đợi đến lúc trong điện toàn bộ trống rỗng xuống, Viên Minh mới từ trên ghế rồng đứng lên, đi tới trước gương đồng nhìn chung quanh đất dò xét, cuối cùng xác nhận này bức thân thể, không phải là của mình.",
+      "dich": "Đợi tới khi cả cung điện trống không, Viên Minh mới từ long ỷ đứng lên, đi tới trước gương đồng quan sát một vòng, cuối cùng cũng xác định được thân thể này không phải là của mình.",
+      "suggest": "Đợi đến khi toàn bộ phòng điện hoàn toàn trống trải, Viên Minh mới đứng dậy đi tới trước gương đồng quan sát, cuối cùng cũng xác nhận vật này không phải là của mình.",
+      "similarity": [
+        [
+          66,
+          0.41
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trong đại điện khắp nơi khắc Long vẽ phượng, màu sắc cũng dùng đại biểu cửu ngũ chi tôn vàng óng ánh làm chủ, kết hợp mới vừa kia nam tử âm nhu đối với hắn xưng hô, cùng trên người kim sắc long bào, cỗ thân thể này tựa hồ là một thiếu niên Hoàng Đế.",
+      "dich": "Khắp nơi trong đại điện đều thấy khắc rồng vẽ phượng, màu sắc cũng dùng vàng kim đại biểu cho cửu ngũ chí tôn làm chủ đạo, kết hợp với cách xưng hô của nam tử âm nhu kia và long bào trên thân có thể kết luận thân thể này có vẻ là một tiểu hoàng đế.",
+      "suggest": "Trong đại điện khắc rất nhiều phượng lớn màu vàng óng ánh, màu sắc chủ đạo đại biểu cho tầng tầng lớp lớp tinh anh, kết hợp với giọng nói êm dịu của nam tử vừa mới đến, cùng với bộ long bào màu vàng trên người, cỗ thân thể này tựa hồ như là một vị Hoàng Đế.",
+      "similarity": [
+        [
+          67,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Ta đây là bị kia lư hương làm cho sau khi chết lại đầu thai rồi?",
+      "dich": "\"Ta đây là sau khi bị lư hương kia giết chết rồi đầu thai?",
+      "suggest": "\"Ta bị lư hương kia làm cho chết đi rồi?",
+      "similarity": [
+        [
+          62,
+          0.13
+        ],
+        [
+          68,
+          0.2
+        ],
+        [
+          85,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhưng đầu thai không cũng có thể là tăng tại tân sinh hài nhi trên người mới đúng sao?",
+      "dich": "Nhưng đầu thai không phải là nhập vào trẻ sơ sinh mới đúng sao?",
+      "suggest": "Nhưng đầu thai không cũng phải tăng trưởng trên người đứa trẻ mới đúng chứ?",
+      "similarity": [
+        [
+          69,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Sao lại như thế tăng tại một cái thiếu niên choai choai trên người?\"",
+      "dich": "Làm sao mà lại nhập vào người một thiếu niên choai choai?\"",
+      "suggest": "Sao lại tăng lên trên người một thiếu niên?\"",
+      "similarity": [
+        [
+          24,
+          0.11
+        ],
+        [
+          70,
+          0.22
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh trong lòng nghi hoặc không ngớt.",
+      "dich": "Viên Minh trong lòng nghi hoặc không thôi.",
+      "suggest": "Viên Minh trong lòng nghi hoặc không thôi.",
+      "similarity": [
+        [
+          33,
+          0.11
+        ],
+        [
+          71,
+          1
+        ],
+        [
+          92,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn trong phòng bước đi thong thả chỉ chốc lát, trở lại sau bàn ngồi xuống, tỉnh táo một hồi, trong lòng không khỏi toát ra một cái cổ ý chợt nẩy ra: \"Chẳng lẽ là ta thần hồn xuất khiếu, phụ thân vào người khác trên người?\"",
+      "dich": "Hắn đi đi lại lại trong phòng một hồi rồi quay lại bàn, ngồi xuống tỉnh táo suy ngẫm, trong đầu không khỏi toát lên một ý niệm cổ quái: \"Chẳng lẽ là thần hồn ta xuất khiếu, phụ thân vào người khác?\"",
+      "suggest": "Hắn đi vào trong phòng một lát, sau đó trở lại ghế ngồi xuống, tỉnh táo lại một hồi, trong lòng không kìm được mà nảy ra một cổ ý: \"Chẳng lẽ thần hồn của ta xuất khiếu, cha ta mang thai ngoài ý muốn?\"",
+      "similarity": [
+        [
+          72,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trừ lần đó ra, hắn không thể tưởng được càng đáng tin cậy đáp án.",
+      "dich": "Ngoài cái này ra, hắn không nghĩ được đáp án nào khả dĩ hơn.",
+      "suggest": "Trừ cái đó ra, hắn không thể tưởng tượng được đáp án đáng tin cậy hơn.",
+      "similarity": [
+        [
+          73,
+          0.22
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Liền vào lúc này, Viên Minh cái mũi kéo ra, nghe thấy được một cỗ thơm ngào ngạt hương vị, tìm mùi thơm nhìn lại, đã thấy cái bàn một góc để đó một cái hơn một xích vuông vắn đồ sứ vốc hộp, mặt ngoài khắc tương tự chim thú hao phí màu xanh lá đường hoa văn.",
+      "dich": "Nhưng đúng lúc này, mũi Viên Minh hít một hơi, ngửi thấy một mùi thơm ngát, theo mùi thơm nhìn tới liền thấy ở góc bàn có đặt một hộp sứ vuông rộng khoảng một thước, mặt ngoài hộp có khắc hoa văn chim thú màu xanh.",
+      "suggest": "Đúng lúc này, mũi Viên Minh bỗng nhiên cảm thấy một mùi hương thơm ngát, muốn tìm một mùi thơm mới ngửi, liền thấy ở góc bàn có một cái hộp sứ vuông vắn, mặt ngoài khắc họa rất giống hoa văn chim thú màu xanh lá.",
+      "similarity": [
+        [
+          74,
+          0.38
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn vội vươn tay tiết lộ nắp hộp, lập tức thơm nức xông vào mũi.",
+      "dich": "Hắn vươn tay mở nắp hộp, tức thì mùi thơm nức xộc lên mũi.",
+      "suggest": "Hắn vội vàng đưa tay khui hộp ra, mùi hương lập tức xông thẳng vào mũi.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Trong hộp bất ngờ nở rộ lấy hình thái khác nhau tinh xảo bánh ngọt, có phương pháp có tròn, còn có hoa đóa tạo hình, sắc thái khác nhau, còn bốc hơi lấy nhiệt khí.",
+      "dich": "Trong hộp bất ngờ có sắp đầy những bánh ngọt được làm tinh xảo với hình dáng khác nhau, có vuông có tròn, còn có cái tạo hình đóa hoa, màu sắc cũng khác nhau, hơn nữa còn đang bốc hơi nóng.",
+      "suggest": "Trong hộp bánh ngọt bất ngờ nở rộ những hình dáng tinh xảo khác nhau, có phương pháp có hình tròn, có phương pháp có hình tròn, còn có hoa văn hình cánh cung, sắc thái khác nhau, còn có thể tỏa ra nhiệt lượng.",
+      "similarity": [
+        [
+          76,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh những này qua ăn đều là thịt tươi, hơn nữa vì tiết kiệm đồ ăn, mỗi ngày ăn đều rất ít, vô thức nuốt nhổ nước miếng, không nói hai lời thò tay nắm lên một cái giống như loại bạch ngọc óng ánh hơi mờ mới bánh ngọt nhét vào trong miệng, miệng lớn bắt đầu nhai nuốt.",
+      "dich": "Viên Minh mấy ngày qua đều là ăn thịt sống, hơn nữa vì tiết kiệm đồ ăn nên mỗi ngày đều ăn rất ít. Giờ thấy cảnh này bất giác nuốt nước miếng, không nói hai lời, lập tức thò tay nhón một cái bánh ngọt trông như làm từ bạch ngọc trong suốt lên, nhét vào miệng, nhồm nhoàm nhai nuốt",
+      "suggest": "Viên Minh ăn hết số thịt này lại còn vì muốn tiết kiệm thức ăn, mỗi ngày đều ăn rất ít, vô thức nuốt luôn một miếng, không nói hai lời thò tay vào trong miệng nhét một miếng thịt trắng tinh vào miệng, miệng bắt đầu há to bắt đầu nhai nuốt.",
+      "similarity": [
+        [
+          77,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một cỗ trong veo ngon miệng táo vị dung hợp lấy hoa quế mùi thơm lập tức tràn ngập toàn bộ khoang miệng.",
+      "dich": "Vị táo thanh ngọt ngon miệng kết hợp hương thơm của hoa quế nhất thời tràn ngập khoang miệng.",
+      "suggest": "Một hương vị ngọt ngậy pha lẫn hương hoa quế lập tức tràn ngập toàn bộ khoang miệng.",
+      "similarity": [
+        [
+          78,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đồ ngon!\"",
+      "dich": "\"Ngon quá.\"",
+      "suggest": "\"Đồ ngon!\"",
+      "similarity": [
+        [
+          38,
+          0.13
+        ],
+        [
+          45,
+          0.13
+        ],
+        [
+          51,
+          0.13
+        ],
+        [
+          66,
+          0.28
+        ],
+        [
+          79,
+          0.13
+        ],
+        [
+          81,
+          0.15
+        ],
+        [
+          88,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn không đợi trong miệng đồ ăn hoàn toàn nhấm nuốt xong, lại liên tục không ngừng đất nắm lên một cái tương tự hoa sen bánh ngọt nuốt vào, thật sự là tơi xốp ngủ ngon.",
+      "dich": "Hắn không đợi nuốt hết chỗ bánh trong miệng đã vội vã không ngừng cầm một cái bánh ngọt hình hoa sen nhét vào miệng, thực sự là mềm mại ngọt ngào.",
+      "suggest": "Hắn chưa đợi đồ ăn đã hoàn toàn nuốt xong, lại liên tục cầm một cái bánh ngọt như hoa sen đút vào miệng, thật sự là một giấc ngủ ngon.",
+      "similarity": [
+        [
+          80,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh dứt khoát đứng người lên, dùng cả hai tay, như gió cuốn mây tan giống như đem trong hộp bánh ngọt hễ quét là sạch, rồi sau đó nâng lên bên cạnh một cái ấm trà đối với miệng một hồi ừng ực ừng ực, cho đến đem trong bầu nước trà uống cái ngăn nắp, sạch sẽ.",
+      "dich": "Viên Minh dứt khoát đứng lên, dùng cả hai tay như gió cuốn mây tán, quét sạch điểm tâm trong hộp, tiếp đó cầm ấm trầm ở cạnh bên kia bàn lên đưa lên miệng tu ừng ực tới khi nước trà trong ấm cạn sạch mới thôi.",
+      "suggest": "Viên Minh dứt khoát đứng dậy, dùng cả hai tay quét sạch sẽ cái hộp bánh ngọt trong tay, sau đó nâng một ấm trà bên cạnh lên, ừng ực một hồi, sau đó bưng tách trà lên, nhấp một ngụm nhỏ nước trà, cho đến khi hết sạch sẽ mới rót vào bình nước sạch.",
+      "similarity": [
+        [
+          81,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Cách \"",
+      "dich": "\"Ợ.\"",
+      "suggest": "\"Cách!\"",
+      "similarity": [
+        [
+          38,
+          0.13
+        ],
+        [
+          45,
+          0.13
+        ],
+        [
+          51,
+          0.13
+        ],
+        [
+          66,
+          0.35
+        ],
+        [
+          82,
+          0.13
+        ],
+        [
+          82,
+          0.19
+        ],
+        [
+          88,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đánh cho ợ một cái, đặt mông ngồi trở lại long ỷ, thò tay dùng tay áo lau miệng mong, sờ sờ hơi lồi cái bụng, không nói ra được thỏa mãn.",
+      "dich": "Viên Minh ợ một tiếng, đặt mông ngồi xuống long ỷ, đưa tay áo lên lau miệng, xoa xoa cái bụng hơi phồng lê, thỏa mãn không nói thành lời.",
+      "suggest": "Viên Minh tức giận quăng cái mông xuống đất, đặt mông ngồi xuống, thò tay dùng tay áo lau miệng mong, sờ sờ hơi lồi ra của bụng, không nói ra được thỏa mãn.",
+      "similarity": [
+        [
+          83,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ăn no cảm giác thực tốt, hắn thế nhưng là hồi lâu không ăn như vậy thoải mái đầm đìa rồi!",
+      "dich": "Cảm giác ăn no thật tốt, hắn đã rất lâu rồi không được ăn thoải mái như vậy.",
+      "suggest": "Ăn no cảm giác thật tốt, có điều hồi lâu rồi hắn chưa ăn uống thoải mái như vậy.",
+      "similarity": [
+        [
+          84,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cơm nước no nê về sau, Viên Minh mới một lần nữa bắt đầu suy nghĩ hết thảy trước mắt.",
+      "dich": "Sau khi ăn uống no nê, Viên Minh mới bắt đầu suy nghĩ lại mọi thứ trước mắt.",
+      "suggest": "Sau khi cơm nước no nê, Viên Minh mới bắt đầu suy nghĩ tất cả trước mắt.",
+      "similarity": [
+        [
+          85,
+          0.56
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Mình là không phải là bị kia lư hương làm cho ở đây?",
+      "dich": "Mình có phải là bị lư hương kia đưa tới nơi này không?",
+      "suggest": "Có phải mình bị lư hương kia làm cho mất hứng chăng?",
+      "similarity": [
+        [
+          62,
+          0.13
+        ],
+        [
+          70,
+          0.16
+        ],
+        [
+          86,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nếu thật là, có lẽ có thể tìm tới một chút dấu vết để lại.",
+      "dich": "Nếu thực sự là vậy thì có lẽ có thể tìm được chút manh mối.",
+      "suggest": "Nếu thật sự là vậy, có lẽ có thể tìm được một chút dấu vết để lại.",
+      "similarity": [
+        [
+          87,
+          0.34
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn hướng xung quanh nhìn lại, tìm kiếm cái kia lư hương, trước người trên cái bàn trái lại bày đặt một cái lư hương, lại là màu đồng cổ, kiểu dáng cũng cùng mới vừa từ cánh tay mình ấn ký trong toát ra khác nhau rất lớn.",
+      "dich": "Hắn nhìn xung quanh tìm kiếm lư hương kia, phát hiện trên bàn trước người đúng là có bày một lư hương nhưng nó có màu đồng, kiểu dáng cũng khác xa với cái hiện ra từ ấn ký trên tay hắn.",
+      "suggest": "Hắn nhìn quanh, xung quanh tìm kiếm một lư hương, trên cái bàn gỗ trước mặt kia lại bày một cái lư hương, là loại đồng cổ, kiểu dáng cũng khác hẳn những lư hương vừa được ấn ký trong tay.",
+      "similarity": [
+        [
+          88,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Cánh tay ấn ký!\"",
+      "dich": "\"Ấn ký trên tay!\"",
+      "suggest": "\"Cánh tay ấn ký!\"",
+      "similarity": [
+        [
+          66,
+          0.17
+        ],
+        [
+          89,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đột nhiên nghĩ tới một chuyện, vội vàng kéo lên cánh tay phải quần áo và trang sức, con mắt lập tức trợn to.",
+      "dich": "Viên Minh đột nhiên nghĩ tới chuyện này, vội vàng kéo tay áo bên phải lên, kết quả khiến hắn phải trợn mắt.",
+      "suggest": "Viên Minh đột nhiên nghĩ tới một chuyện, vội vàng kéo quần áo và trang sức trên cánh tay phải, hai mắt lập tức trợn to lên.",
+      "similarity": [
+        [
+          1,
+          0.11
+        ],
+        [
+          90,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn cánh tay phải tới gần khuỷu tay chỗ, bất ngờ xuất hiện một cái màu xanh ấn ký, cùng nguyên bản cơ thể ấn ký giống như đúc, bên trong mơ hồ có một cổ nhiệt lưu chuyển động.",
+      "dich": "Chỗ gần khuỷu tay phải hắn bất ngờ xuất hiện một ấn ký màu xanh. Ấn ký này giống như ấn ký trên người hắn lúc trước, bên trong còn mơ hồ thấy có một luồng nhiệt lưu chuyển động.",
+      "suggest": "Hắn đưa tay phải tới gần khuỷu tay, bất ngờ xuất hiện một ấn ký màu xanh, giống hệt ấn ký trước kia, bên trong mơ hồ có một dòng khí nóng lưu chuyển.",
+      "similarity": [
+        [
+          12,
+          0.11
+        ],
+        [
+          91,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh thầm nghĩ trong lòng quả là thế.",
+      "dich": "Viên Minh thầm nghĩ quả nhiên là thế.",
+      "suggest": "Viên Minh thầm nghĩ trong lòng quả nhiên là như thế.",
+      "similarity": [
+        [
+          73,
+          0.1
+        ],
+        [
+          92,
+          0.34
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hiện tại cơ bản khẳng định, hắn chính là bị kia lư hương làm cho ở đây, kia hay không còn có thể trở về?",
+      "dich": "Hiện tại cơ bản có thể khẳng định, hắn chính là bị lư hương kia đưa tới đây, vậy có thể trở về không?",
+      "suggest": "Hiện tại có thể khẳng định, hắn đã bị lư hương kia làm cho ở đây, có trở về hay không?",
+      "similarity": [
+        [
+          70,
+          0.1
+        ],
+        [
+          89,
+          0.11
+        ],
+        [
+          93,
+          0.34
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cỗ thân thể này mặc dù là Hoàng Đế, niên kỷ cũng cùng mình không sai biệt lắm, nhưng hắn vẫn là nghĩ đến trở về thân thể của mình.",
+      "dich": "Thân thể này dù là hoàng đế, tuổi cũng tầm hắn nhưng hắn vẫn muốn quay về thân thể của chính mình.",
+      "suggest": "Mặc dù thân thể này là của Hoàng đế, tuổi thọ cũng không kém hắn nhiều, nhưng hắn vẫn nghĩ tới việc trở về thân thể của mình.",
+      "similarity": [
+        [
+          94,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh dùng ngón tay đụng chạm một cái kia màu xanh ấn ký, không phản ứng chút nào.",
+      "dich": "Viên Minh dùng ngón tay chạm lên ấn ký màu xanh kia nhưng không thấy có phản ứng gì.",
+      "suggest": "Viên Minh dùng ngón tay chỉ vào một ấn ký màu xanh, không hề phản ứng.",
+      "similarity": [
+        [
+          6,
+          0.1
+        ],
+        [
+          94,
+          0.22
+        ],
+        [
+          95,
+          0.34
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn lại dùng thứ khác thử nghiệm, ấn ký đồng dạng không hề có động tĩnh gì.",
+      "dich": "Hắn lại dùng cách khác thử nhưng ấn ký vẫn không hề có động tĩnh nào.",
+      "suggest": "Hắn lại dùng thứ khác thử nghiệm, ấn ký cũng không hề có động tĩnh gì.",
+      "similarity": [
+        [
+          96,
+          0.33
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Đáng tiếc tiểu hoàng đế này cũng không phải là tu Tiên người trong, thể nội không có Pháp lực, bằng không thì có thể thử một cái có thể hay không ở chỗ này triệu hoán lư hương.\"",
+      "dich": "\"Tiếc là tiểu hoàng đế này không phải người tu tiên, trong người không có pháp lực, bằng không thì có thể thử nghiệm ở đây triệu hoàn lư hương.\"",
+      "suggest": "\"Đáng tiếc tiểu hoàng đế này cũng không phải là người tu tiên, trong cơ thể không có Pháp lực, nếu không thì có thể thử một lần có thể triệu hoán ra lư hương ở chỗ này hay không?\"",
+      "similarity": [
+        [
+          97,
+          0.25
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh bất đắc dĩ buông bỏ, thầm than một tiếng.",
+      "dich": "Viên Minh bất đắc dĩ từ bỏ, thầm than một tiếng.",
+      "suggest": "Viên Minh bất đắc dĩ buông tha, thầm than một tiếng.",
+      "similarity": [
+        [
+          98,
+          0.67
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đem suy nghĩ vừa thu lại về sau, xoay chuyển ánh mắt, rơi vào trên cái bàn xây vàng gấm sách bên trên.",
+      "dich": "Viên Minh thu hồi suy nghĩ trong đầu lại, xoay tầm mắt nhìn vào xấp thư sách bìa bằng gấm bàng bên trên bàn.",
+      "suggest": "Viên Minh thu hồi suy nghĩ, sau đó thu ánh mắt lại, nhìn vào quyển sách gấm trên bàn.",
+      "similarity": [
+        [
+          99,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hiện tại không biết có thể hay không trở về ban đầu cơ thể, hay là trước biết rõ ràng trước mắt tình huống, sắm vai tốt tiểu hoàng đế nhân vật, đừng để bên ngoài người nhìn ra kẽ hở đến.",
+      "dich": "Hiện tại không biết có thể trở về thân thể ban đầu hay không, hay là trước khi hiểu rõ tình hình trước mắt cứ sắm tốt vai tiểu hoàng đế, chớ để cho người khác nhìn ra sơ hở.",
+      "suggest": "Hiện tại không biết có thể trở về cơ thể lúc ban đầu, hay là trước tiên phải biết tình hình trước mắt, chuẩn bị tốt vai trò của nhân vật tiểu hoàng đế, đừng để người ngoài nhìn ra sơ hở.",
+      "similarity": [
+        [
+          100,
+          0.41
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nghĩ tới đây, hắn cầm qua một quyển sách mở ra, lại là một gã châu quan bẩm báo hạt cảnh nội gặp phải thủy hoạn sự tình, khẩn cầu Hoàng Đế khai ân, cho phép mở ra châu phủ kho lương giúp nạn thiên tai.",
+      "dich": "Nghĩ tới đây, hắn cầm một cuốn sách lên mở ra, thì ra là tấu chương của vị châu quan bẩm báo hạt cảnh nội gặp phải nạn lụt, khẩn cầu hoàng đế khai ân, cho phép mở kho lương châu phủ ra cứu tế dân gặp thiên tai.",
+      "suggest": "Nghĩ tới đây, hắn cầm lên một quyển sách, là một chuyện quan trọng liên quan đến hạt cảnh gặp phải thủy hoạn, khẩn cầu Hoàng Đế khai ân, cho phép mở kho lương thực của châu phủ để giúp nạn thiên tai.",
+      "similarity": [
+        [
+          101,
+          0.3
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Vốn chỉ là vô cùng đơn giản mấy câu sự tình, này châu quan lại nói được hết sức rườm rà, vốn là vội vàng xin lỗi trời cao, về sau còn nói trời không rủ xuống thương, tiếp đó lại dùng một đại đoạn miêu tả, giải thích tai họa khu cảnh tượng.",
+      "dich": "Vốn chỉ là chuyện có thể nói đơn giản bằng mấy câu, nhưng vị châu quan kia lại viết quá sức rườm rà, đầu tiên là ra sức cáo trạng trời cao, về sau còn nói trời cao không rủ lòng thương, tiếp đó lại dùng cả một đoạn dài để miêu tả, giải thích tình cảnh thiên tai.",
+      "suggest": "Vốn chỉ là mấy câu chuyện đơn giản, nhưng quan tài này lại nói rất chi tiết, vốn là vội vàng xin lỗi trời cao, sau đó lại nói trời không rủ xuống thương, tiếp đó lại dùng một đoạn miêu tả, giải thích tai họa khu vực.",
+      "similarity": [
+        [
+          102,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tại lưu loát nói mấy nghìn chữ về sau, đến tấu chương cuối cùng mới trình báo cụ thể gặp tai hoạ tình hình cùng cứu tế biện pháp, thấy được Viên Minh là một hồi to cả đầu.",
+      "dich": "Làm một tràng mấy ngàn chữ xong mãi cuối tấu chương mởi trình bày tình hình thiên tai cụ thể và biện pháp cứu tế, khiến cho Viên Minh muốn to cả đầu.",
+      "suggest": "Sau khi lưu loát nói mấy nghìn chữ, đến lúc tấu chương cuối cùng mới nói rõ tình hình tai hoạ và biện pháp cứu tế, Viên Minh thấy đầu óc choáng váng.",
+      "similarity": [
+        [
+          103,
+          0.19
+        ]
+      ],
+      "approved": true
+    }
+  ],
+  "currentWorkingLine": 104,
+  "changed": true
+}

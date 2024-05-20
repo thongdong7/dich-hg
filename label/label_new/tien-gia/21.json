@@ -1,0 +1,1204 @@
+{
+  "currentLine": 91,
+  "next": {
+    "id": 22,
+    "title": "Chương 22: Kết giao"
+  },
+  "previous": {
+    "id": 20,
+    "title": "Chương 20: Sát lục dục vọng"
+  },
+  "title": {
+    "convert": "Chương 21",
+    "dich": "Chương 21"
+  },
+  "lines": [
+    {
+      "convert": "\"Hẳn là những này quả xác là cái khác phi mao thú nô lưu lại?\"",
+      "dich": "\"Không lẽ mấy vỏ trái cây này là do Phi Mao thú nô khác bỏ lại?\"",
+      "suggest": "\"Hẳn là những quả xác này được Phi Mao thú nô lưu lại?\"",
+      "similarity": [
+        [
+          0,
+          0.2
+        ],
+        [
+          38,
+          0.1
+        ],
+        [
+          40,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh hướng bốn phía đánh giá vài lần, cũng không có phát hiện cái khác chỗ đặc biệt.",
+      "dich": "Viên Minh quan sát bốn phía xung quanh mấy lượt cũng không phát hiện được điểm đặc biệt nào khác.",
+      "suggest": "Viên Minh quan sát bốn phía một lần, cũng không phát hiện ra chỗ nào khác lạ.",
+      "similarity": [
+        [
+          1,
+          0.37
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đột nhiên, ánh mắt của hắn ngưng tụ, nhìn về phía cách đó không xa một cây đại thụ.",
+      "dich": "Đột nhiên, hắn nheo mắt, tập trung nhìn vào một cây đại thụ cách đó không xa.",
+      "suggest": "Đột nhiên, ánh mắt hắn ngưng tụ, nhìn về phía một cây đại thụ cách đó không xa.",
+      "similarity": [
+        [
+          2,
+          0.48
+        ],
+        [
+          6,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trên cây một cây tinh tế phân trên cành, ngồi xổm lấy một con cao nửa thước ngân miêu, nhìn Hòa gia miêu không xê xích bao nhiêu.",
+      "dich": "Tại một cành nhánh rất nhỏ trên cây đó, một con mèo màu bạc cao nửa thước đang ngồi chồm hỗm, nhìn bộ dáng nó cũng không khác mèo nhà là mấy.",
+      "suggest": "Trên một cành cây tinh tế có một con chim nhỏ cao nửa xích đang ngồi xổm một bên, nhìn con chim nhỏ màu bạc này cũng không xê xích gì.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Mèo này toàn thân lông tóc đều là màu trắng bạc, không có một tia tạp mao, nhìn phi thường Tuyệt vời, hai con mắt một con hiện lên kim hoàng sắc, một cái khác hiện lên màu hổ phách, giống như hai viên chiếu lấp lánh bảo thạch, chính hướng Viên Minh nơi này nhìn tới.",
+      "dich": "Con mèo này có bộ lông toàn thân đều là màu bạc, không có một sợi khác màu, thoạt nhìn vô cùng xinh xắn. Hai mắt nó, một có màu vàng kim óng ánh, một lại có màu hổ phách, nhìn như hai viên đá quý sáng lấp lánh đang hướng thẳng về phía Viên Minh.",
+      "suggest": "Lông tóc con mèo này toàn thân đều là màu trắng bạc, không có một sợi tạp mao nào cả, nhìn phi thường tuyệt vời, hai mắt một con hiện lên màu vàng kim, một con khác hiện lên màu hổ phách, giống như hai viên bảo thạch lấp lánh đang lấp lánh ở đây, đang chiếu sáng Viên Minh.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Hai ánh mắt đụng nhau, ngân miêu lúc này quay người bay tán loạn ra ngoài, tại từng cây trên cây nhanh nhẹn dị thường nhảy vọt, trong nháy mắt không thấy bóng dáng.",
+      "dich": "Ánh mắt hai bên vừa đụng nhau, con mèo bạc liền quay người bay ra ngoài rồi thoăn thoắt nhảy nhót từ cành này qua cây khác, chỉ nhoáng cái đã không thấy bóng dáng đâu nữa.",
+      "suggest": "Hai mắt đụng nhau, con chim nhỏ lập tức quay người bỏ chạy, nhảy vọt lên từng cây rồi trong nháy mắt không thấy bóng dáng.",
+      "similarity": [
+        [
+          5,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Chạy cái gì, cũng sẽ không ăn ngươi!",
+      "dich": "\"Chạy cái gì, ta cũng không tính ăn thịt ngươi!",
+      "suggest": "\"Chạy cái gì, cũng sẽ không ăn ngươi!",
+      "similarity": [
+        [
+          6,
+          0.36
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cái này ngân miêu lá gan cũng quá nhỏ một chút.\"",
+      "dich": "Con mèo bạc này gan bé quá đi.\"",
+      "suggest": "Lá gan của con chim nhỏ này cũng quá nhỏ.\"",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đối với cái này cũng không có để ý, tiếp tục ở chung quanh tìm kiếm.",
+      "dich": "Viên Minh không quan tâm nó nữa mà tiếp tục tìm kiếm xung quanh.",
+      "suggest": "Viên Minh cũng không thèm để ý đến chuyện đó, tiếp tục lục lọi chung quanh.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Một lát sau, hắn khẽ di một tiếng, nhìn chằm chằm cách đó không xa bụi cỏ mặt đất, dừng bước.",
+      "dich": "Một lát sau, hắn khẽ ồ lên, dừng bước lại đồng thời nhìn chằm chằm thảm cỏ cách đó không xa.",
+      "suggest": "Một lát sau, hắn khẽ di động một cái, nhìn chằm chằm vào mặt đất cách đó không xa, rồi dừng bước.",
+      "similarity": [
+        [
+          2,
+          0.12
+        ],
+        [
+          9,
+          0.35
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Chỗ kia trên mặt đất, có một cái nhàn nhạt hình người dấu chân, nhìn giẫm ngấn còn rất mới.",
+      "dich": "Tại mặt đất nơi đó, có một dấu chân người mờ nhạt, trông vết tích còn khá mới.",
+      "suggest": "Trên mặt đất kia có một cái dấu chân nhàn nhạt hình người, thoạt nhìn còn rất mới.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh suy nghĩ một chút, hướng dấu chân phương hướng đi tới đi đến.",
+      "dich": "Viên Minh suy nghĩ một chút rồi cất bước đi về phía dấu chân kia.",
+      "suggest": "Viên Minh suy nghĩ một chút, sau đó đi thẳng tới chỗ con dấu.",
+      "similarity": [
+        [
+          11,
+          0.33
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Dấu chân chủ nhân cũng không che giấu hành tung ý tứ, theo dõi cũng không khó khăn.",
+      "dich": "Chủ chân dấu chân không có ý che giấu hành tung nên việc lần theo cũng không khó.",
+      "suggest": "Chủ nhân dấu chân cũng không có ý định giấu diếm, việc theo dõi cũng không khó khăn.",
+      "similarity": [
+        [
+          12,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ước chừng đi một khắc đồng hồ dáng vẻ, phía trước xuất hiện một mảnh cứng rắn núi đá địa, dấu chân ở chỗ này im bặt mà dừng, đã mất đi tung tích.",
+      "dich": "Đi thêm chừng một khắc đồng hồ, phía trước xuất hiện một mảnh đất đá cứng rắn, dấu chân đột nhiên dừng lại ở chỗ này, không còn thấy tung tích gì nữa.",
+      "suggest": "Chừng một khắc sau, phía trước xuất hiện một khối đá địa cứng rắn, dấu chân dừng lại nơi đó rồi biến mất không thấy đâu.",
+      "similarity": [
+        [
+          13,
+          0.26
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nhíu nhíu mày, tại nguyên chỗ im lặng nửa ngày, tiếp tục đi tới.",
+      "dich": "Viên Minh nhíu nhíu mày, im lặng đứng đó một lúc lâu, xong lại tiếp tục đi tới.",
+      "suggest": "Viên Minh nhíu nhíu mày, đứng nguyên tại chỗ im lặng nửa ngày, tiếp tục đi tới.",
+      "similarity": [
+        [
+          14,
+          0.44
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đương đi ra mảnh này núi đá địa về sau, phía trước tầm mắt sáng lên, xuất hiện một mảnh thanh mênh mông hồ nước.",
+      "dich": "Sau khi đi qua vùng đất đá kia, một vùng hồ nước trong xanh phủ sương mịt mờ xuất hiện khiến tầm nhìn phía trước sáng bừng lên.",
+      "suggest": "Sau khi đi ra khỏi phiến đá, tầm mắt hắn sáng lên, phía trước hiện lên một hồ nước mênh mông.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Hồ này diện tích không đại, đại khái mười mấy mẫu, nhìn không có chút rung động nào, xung quanh mọc đầy tề nhân cao cỏ dại, lúc này rõ ràng là ngày mùa hè, hồ nước phụ cận nhiệt độ lại so trong rừng phải rõ ràng thấp không ít.",
+      "dich": "Hồ này có diện tích không lớn, đại khái hơn mười mẫu, trông vô cùng tĩnh lặng, quanh hồ mọc đầy cỏ dại cao ngang người, có điều hiện tại rõ ràng là ngày hè, nhưng nhiệt độ quanh hồ nước so với trong rừng lại thấp hơn không ít.",
+      "suggest": "Diện tích hồ này không lớn, khoảng mười mấy mẫu, xung quanh mọc đầy cỏ dại, lúc này đang là mùa hè, xung quanh mọc đầy cỏ dại, lúc này đang là mùa hè, nhiệt độ xung quanh hồ rõ ràng thấp hơn so với rừng rậm.",
+      "similarity": [
+        [
+          16,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đi vào hồ nước bên cạnh ngồi xổm người xuống, dùng tay đụng đụng nước hồ, một cỗ thấm lòng người phách hàn ý thẩm thấu tới.",
+      "dich": "Viên Minh đi tới cạnh hồ rồi ngồi xổm xuống, đưa tay chạm mặt nước, tức thì một cảm giác lạnh lẽo thấu tâm thần truyền tới.",
+      "suggest": "Viên Minh đi tới bên cạnh hồ nước, dùng tay chạm nhẹ vào nước hồ, một luồng hàn ý thấm vào tim.",
+      "similarity": [
+        [
+          17,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Vào thời khắc này, một bên bụi cỏ \"Soạt\" một vang, một đạo ngân ảnh bay tán loạn xuất hiện.",
+      "dich": "Ngay lúc này, từ bụi cỏ bên cạnh chợt vang lên tiếng sột xoạt, một cái bóng màu bạc bay vụt tới.",
+      "suggest": "Vào lúc này, bụi cỏ một bên bỗng \"soạt\" một tiếng, một bóng người màu bạc bay tán loạn xuất hiện.",
+      "similarity": [
+        [
+          18,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh vừa làm ra nghênh kích chi thế, nhưng khi thấy rõ về sau, hơi có chút kinh ngạc.",
+      "dich": "Viên Minh vừa mới tạo thế nghênh kích, nhưng sau khi nhìn rõ lại có chút ngạc nhiên.",
+      "suggest": "Viên Minh vừa làm ra hành động nghênh kích, nhưng sau khi thấy rõ, hơi chút kinh ngạc.",
+      "similarity": [
+        [
+          19,
+          0.31
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đạo này thân ảnh màu bạc không phải những vật khác, chính là trước đây không lâu gặp phải con kia ngân miêu, lúc này trong miệng nó ngậm một khối màu đen đồ vật, cái đuôi kiều lão cao.",
+      "dich": "Cái bóng màu bạc này chẳng phải thứ gì khác, mà chính là con mèo màu bạc mà hắn mới thấy cách đây không lâu, miệng nó lúc này đang ngậm một đồ vật màu đen còn cái đuôi thì vểnh ngược lên trời.",
+      "suggest": "Thân ảnh màu bạc không phải những vật khác, chính là con Ngân miêu trước đây không lâu gặp phải, lúc này nó ngậm một khối đen đồ vật màu đen, cái đuôi kiều lão cao hơn một cái.",
+      "similarity": [
+        [
+          20,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nhìn thấy Viên Minh, ngân miêu giống như là bị sợ hãi, lập tức quay người lại chui vào bụi cỏ, miệng bên trong màu đen đồ vật lại rớt xuống.",
+      "dich": "Thấy Viên Minh, con mèo này như bị dọa cho kinh hãi, lập tức quay người chui vào trong bụi cỏ, để rớt lại món đồ màu đen.",
+      "suggest": "Nhìn thấy Viên Minh, con chim nhỏ trông như bị sợ hãi, lập tức quay người chui vào bụi cỏ, thứ màu đen trong miệng nó lại rớt xuống.",
+      "similarity": [
+        [
+          21,
+          0.37
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Lại là cái này ngân miêu.\"",
+      "dich": "\"Lại là con mèo bạc này.\"",
+      "suggest": "\"Lại là Ngân Miêu này!\"",
+      "similarity": [
+        [
+          22,
+          0.23
+        ],
+        [
+          65,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh hướng về phía trước đi mau hai bước, có thể cỏ dại quá cao, kia ngân miêu vừa vào trong đó tựa như trâu đất xuống biển, lập tức không thấy bóng dáng.",
+      "dich": "Viên Minh nhanh chân đi về trước hai bước, nhưng cỏ dại quá cao, con mèo vừa vào đó thì như trâu đất xuống biển, lập tức mất hút.",
+      "suggest": "Viên Minh nhanh chóng bước về trước hai bước, nhưng vì cỏ dại quá cao, con Ngân miêu kia vừa chui vào trong đó đã như trâu đất xuống biển, lập tức không thấy đâu nữa.",
+      "similarity": [
+        [
+          23,
+          0.44
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn có chút tiếc nuối thở dài, nói đến, hắn vẫn rất thích con kia ngoại hình tuấn mỹ ngân miêu, nếu có thể bắt được thuần dưỡng, tu luyện sau khi cũng có thể đùa với giải buồn.",
+      "dich": "Hắn thở dài tiếc nuối, lại nói tiếp, hắn đúng là khá thích con mèo màu bạc xinh xắn kia, nếu có thể bắt được rồi thuần dưỡng, vậy ngoài những lúc tu luyện cũng có nó để đùa nghịch giải sầu.",
+      "suggest": "Hắn có chút tiếc nuối thở dài, nói đến, hắn vẫn rất thích con Ngân miêu có ngoại hình tuấn mỹ kia, nếu có thể bắt được thuần dưỡng, tu luyện sau này cũng có thể giải sầu.",
+      "similarity": [
+        [
+          24,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh tiếp tục hướng phía trước, đột nhiên nghĩ tới một chuyện, quay người về sau đi mấy bước, từ dưới đất nhặt lên một vật, chính là miêu vừa mới ngậm khối kia màu đen đồ vật, cầm tới trước mắt một chút dò xét.",
+      "dich": "Viên Minh tiếp tục bước về trước, bỗng nhớ tới một chuyện, liền quay người đi về sau mấy bước, nhặt một vật ở dưới đất, cũng chính là thứ màu đen mà con mèo ngậm vừa mới đây, xong đưa lên ngang tầm mắt đánh giá một chút.",
+      "suggest": "Viên Minh tiếp tục đi về trước, đột nhiên nghĩ tới một chuyện, quay người lại đi vài bước, nhặt lên một vật màu đen, đúng là vật kia, câm tới trước mắt quan sát.",
+      "similarity": [
+        [
+          25,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Thứ này nhìn tựa như là một khối thuộc da, phía trên miêu tả lấy tinh mỹ hoa văn, tuyệt đối là nhân công chế tạo đồ vật.",
+      "dich": "Vật này trông giống như một khối da thuộc, bên trên có khắc hoa văn tinh xảo, hiển nhiên là đồ do con người tạo ra.",
+      "suggest": "Thứ này nhìn giống như là một miếng da thuộc, bên trên miêu tả chi tiết hoa văn tinh mỹ, tuyệt đối là đồ vật dùng cho người thợ thủ công.",
+      "similarity": [
+        [
+          26,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Cái này rừng sâu núi thẳm tuyệt sẽ không có loại vật này, hẳn là là ai lưu lại?\"",
+      "dich": "\"Nơi rừng sâu núi thẳm này tuyệt không có loại đồ này, chẳng lẽ là ai bỏ lại?\"",
+      "suggest": "\"Trên núi cao tuyệt không có loại vật này, lẽ nào là ai để lại?\"",
+      "similarity": [
+        [
+          27,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh vừa nghĩ đến đây, vội vàng đi vào ngân miêu thoát ra bụi cỏ phụ cận tìm kiếm, lại là không thu hoạch được gì.",
+      "dich": "Viên Minh nghĩ tới đây, vội vàng đi tới chỗ bụi cỏ ban nãy con mèo phi ra, bỏ công tìm tìm kiếm kiếm một hồi nhưng chẳng thu hoạch được gì.",
+      "suggest": "Viên Minh vừa nghĩ tới đây, vội vàng chạy vào trong bụi cỏ xung quanh tìm kiếm, nhưng vẫn không thu hoạch được gì.",
+      "similarity": [
+        [
+          28,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn lại lần nữa quan sát tỉ mỉ trong tay màu đen thuộc da, đưa đến dưới mũi hít hà.",
+      "dich": "Hắn lại lần nữa cẩn thận quan sát miếng da thuộc trong tay, thậm chí cẩn thận đưa lên sát mũi ngửi ngửi.",
+      "suggest": "Hắn lại lần nữa quan sát kỹ hơn da thuộc da màu đen trong tay, đưa lên mũi hít hà.",
+      "similarity": [
+        [
+          29,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Một cỗ mùi tanh xông vào mũi, lại không phải động vật miệng tanh hôi, mà là một loại gần như với cây rong hư thối hương vị.",
+      "dich": "Một mùi tanh hôi xộc thẳng vào mũi, nhưng không phải kiểu tanh hôi của động vật mà giống như mùi cỏ nước thối rữa.",
+      "suggest": "Một mùi tanh xộc thẳng vào mũi, không phải mùi tanh của động vật, mà là một loại hương vị gần giống với rong biển.",
+      "similarity": [
+        [
+          30,
+          0.24
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh xoay chuyển ánh mắt, nhìn về phía xanh biếc hồ nước, sau đó ở bên hồ tìm tòi, rất nhanh liền có điều phát hiện.",
+      "dich": "Viên Minh xoay tầm mắt, nhìn về phía hồ nước xanh biết rồi bắt đầu tìm tòi quanh bờ hồ, rất nhanh đã có phát hiện mới.",
+      "suggest": "Viên Minh dời ánh mắt nhìn về phía nước xanh biếc, sau đó liền đi quanh hồ nước xanh biếc, rất nhanh đã phát hiện ra điều bất ngờ.",
+      "similarity": [
+        [
+          31,
+          0.17
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Tại một chỗ bên hồ ẩm ướt thổ bên trên, in mấy cái nhàn nhạt vuốt mèo dấu vết.",
+      "dich": "Tại một chỗ đất ẩm bên hồ, có mấy dấu chân chân mèo tương đối mờ.",
+      "suggest": "Trên một gò đất ẩm ướt bên hồ, in lên đó mấy cái dấu vuốt mèo nhàn nhạt.",
+      "similarity": [
+        [
+          32,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh theo trảo ấn đẩy ra phụ cận một chỗ tươi tốt bụi cỏ, con ngươi có chút co rụt lại.",
+      "dich": "Viên Minh theo dấu chân mèo, rẽ một khoảng cỏ dại tươi tốt cạnh đó ra, tức thì đồng tử hơi co lại.",
+      "suggest": "Viên Minh từ trên trảo ấn đẩy một bụi cỏ tươi tốt ra xa, hai mắt co rụt lại.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Trước mắt rõ ràng là một bộ thân hình cao lớn thi thể, nửa người trên cơ hồ đã thành hài cốt, nửa người dưới thì khắc vào bên hồ nước bùn bên trong, hiển nhiên đã chết đi thật lâu, trên người quần áo đã cua nát, trên người mặc một kiện áo da màu đen, con kia ngân miêu ngậm chính là áo da mảnh vỡ.",
+      "dich": "Trước mắt rõ ràng là một thi thể cao lớn, nửa thân trên gần như đã thành hài cốt, nửa thân dưới chìm vào trong bùn lắng bên hồ, hiển nhiên người này đã chết rất lâu rồi, quần áo trên người bị ngâm nước nát vụn, do người này mặc áo da màu đen, còn miếng da con mèo bạc ngậm đúng là một phần của áo da này.",
+      "suggest": "Trước mắt là một thi thể cao lớn, nửa thân trên cơ hồ đã thành xương cốt, nửa dưới thì khắc sâu vào trong bùn đất bên dưới, hiển nhiên đã chết từ lâu rồi, quần áo trên người đã rách rưới, trên người mặc một cái áo da màu đen, con chim nhỏ kia ngậm chính là miếng da con chim nhỏ kia.",
+      "similarity": [
+        [
+          34,
+          0.33
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh ánh mắt rơi vào thi thể phần eo, nơi đó quấn quanh lấy một khối màu đen da thú, nhìn chính là một khối phi mao da thú.",
+      "dich": "Ánh mắt Viên Minh rơi vào phần eo thi thể, nơi đó có quấn một miếng da thú màu đen, trông kỹ thì chính là một Phi Mao thú bì.",
+      "suggest": "Ánh mắt Viên Minh nhìn xuống phần eo của thi thể, nơi đó có quấn một miếng da thú màu đen, nhìn giống như là một miếng da thú lông xám.",
+      "similarity": [
+        [
+          35,
+          0.48
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn tại bên cạnh thi thể ngồi xổm xuống, đưa tay loay hoay hai lần, đem màu đen da thú hiểu xuống dưới.",
+      "dich": "Hắn ngồi xổm xuống cạnh thi thể, đưa hai tay loay hoay tháo da thú màu đen ra.",
+      "suggest": "Hắn ngồi xuống bên cạnh thi thể, đưa tay lên loay hoay hai lần để hiểu rõ về da thú màu đen.",
+      "similarity": [
+        [
+          36,
+          0.31
+        ],
+        [
+          47,
+          0.11
+        ],
+        [
+          54,
+          0.1
+        ],
+        [
+          69,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Vật này cùng hắn vượn trắng da thú hoàn toàn khác biệt, toàn thân không có một cọng lông tóc, che kín từng đạo ảm đạm màu trắng đường vân, trên sống lưng còn che kín cùng loại lân giáp chất keo vật, tựa hồ là cái nào đó sống dưới nước hung thú vỏ ngoài.",
+      "dich": "Vật này hoàn toàn khác với tấm da vượn của hắn, bề mặt không có một sợi lông, phủ đầy những đường vân màu trắng u ám, trên sống lưng mọc chi chít những miếng vảy làm từ keo, trông giống như da của một hung thú thủy sinh nào đó.",
+      "suggest": "Vật này hoàn toàn khác so với da vượn trắng ở chỗ hắn, toàn thân không có một sợi lông tóc, trên sống lưng còn phủ đầy từng đám lông màu trắng ảm đạm, trên sống lưng còn phủ đầy một lớp bao phủ lân giáp màu trắng, trông như là vỏ ngoài của hung thú sống dưới nước vậy.",
+      "similarity": [
+        [
+          37,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trương này da thú địa phương khác cơ bản không tổn hao gì, chỉ có phía sau lưng vị trí có một đạo lớn chừng bàn tay vết nứt, tựa hồ bị cái nào đó lợi khí xuyên qua.",
+      "dich": "Bộ da hung thú cơ bản không có chỗ nào bị hao tổn, duy chỉ có phần lưng có một vết rách lớn bằng bàn tay, tựa như bị vật sắc nhọn nào đó xuyên thủng.",
+      "suggest": "Những chỗ khác trên da thú khác cơ bản không tổn hại gì, chỉ có một vết nứt to cỡ bàn tay ở lưng chừng bàn tay, dường như bị một lợi khí nào đó xuyên qua.",
+      "similarity": [
+        [
+          38,
+          0.12
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đem thi thể từ nước bùn bên trong cẩn thận kéo ra ngoài, phía sau lưng vị trí trái tim xương sườn gãy mất mấy cây, hẳn là bị thứ gì từ sau tập kích hình thành vết thương trí mạng.",
+      "dich": "Viên Minh cẩn thận kéo thi thể ra khỏi lớp bùn lắng, phát hiện phần lưng thi thể có mấy cây xương sườn bị gãy, hẳn là bị thứ gì đó tập kích từ sau, tạo ra vết thương chí tử.",
+      "suggest": "Viên Minh cẩn thận lôi thi thể ra khỏi bùn đất, vị trí xương sườn sau lưng gãy mất mấy cây, hẳn là bị một thứ gì đó tập kích tạo thành vết thương trí mạng.",
+      "similarity": [
+        [
+          39,
+          0.28
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn tại thi thể phụ cận tìm một hồi, cũng không phát hiện cái gì khác manh mối, người này trữ huyết túi cũng chưa nhìn thấy.",
+      "dich": "Hắn tìm kiếm quanh thi thể một hồi không phát hiện thêm manh mối gì, cũng không hề thấy túi trữ máu của người này.",
+      "suggest": "Hắn lục lọi xung quanh thi thể một hồi, cũng không phát hiện ra manh mối nào khác, túi đựng thú huyết này cũng chưa thấy.",
+      "similarity": [
+        [
+          1,
+          0.11
+        ],
+        [
+          40,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Xem ra người này tám thành cũng không phải là chết bởi hung thú, mà là bị khác phi mao thú nô đánh chết.\"",
+      "dich": "\"Xem ra người này có tám, chín phần không phải chết vì hung thú mà bị Phi Mao thú nô khác giết.\"",
+      "suggest": "\"Xem ra tám thành của hắn cũng không phải chết bởi hung thú, mà là bị Phi Mao thú nô khác đánh chết.\"",
+      "similarity": [
+        [
+          0,
+          0.14
+        ],
+        [
+          41,
+          0.31
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh trong lòng không hiểu lướt qua một hơi khí lạnh.",
+      "dich": "Viên Minh bất giác thấy lạnh người.",
+      "suggest": "Viên Minh thầm cảm thấy một luồng khí lạnh lẽo tràn ra.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Phi mao thú nô, là thú, cũng là nô.",
+      "dich": "Phi Mao thú nô, là thú, cũng là nô.",
+      "suggest": "Phi Mao thú nô, là thú, cũng là nô.",
+      "similarity": [
+        [
+          0,
+          0.13
+        ],
+        [
+          42,
+          0.1
+        ],
+        [
+          43,
+          1
+        ],
+        [
+          97,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bị khốn ở Thập Vạn Đại Sơn bên trong, mạnh được yếu thua, kẻ phù hợp mới có thể sinh tồn, làm ngươi nhìn chằm chằm con mồi ngo ngoe muốn động thời điểm, bản thân sao lại không phải trong mắt người khác con mồi?",
+      "dich": "Bị nhốt trong Thập Đại Vạn Sơn, nhược nhục cường thực, thích giả sinh tồn, khi ngươi chăm chú quan sát con mồi rục rịch, bản thân làm sao biết mình không phải con mồi trong mắt kẻ khác?",
+      "suggest": "Trong Thập Vạn Đại Sơn, mạnh được yếu thua chỉ có thể sinh tồn, chỉ có người phù hợp mới có thể sinh tồn, làm ngươi cứ nhìn chằm chằm vào con mồi mà không dám động đậy, bản thân sao lại không phải là con mồi trong mắt người khác?",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Đúng rồi, Hô Hỏa trưởng lão đã mịt mờ đề cập, những này phi mao da thú là Bích La Động phí hết không ít tâm tư mới luyện chế ra tới chi vật, có chút trân quý, mỗi tấm da thú bên trong đều sắp đặt pháp lực tiêu ký, một khi phi mao thú nô chết đi, tông môn sẽ phái người theo ấn ký thu hồi da thú, bọn hắn vì sao không lấy đi cái này một khối?\"",
+      "dich": "\"Phải rồi, Hô Hỏa trưởng lão từng nhắc qua loa rằng mấy cái Phi Mao thú bì này là đồ mà Bích La Động tốn không ít tâm huyết để luyện chế ra, trong mỗi tấm da đều có đặt tiêu ký pháp lực, một khi thú nô chết, tông môn sẽ phái người lần theo tiêu ký để thu hồi da thú. Sao bọn họ không tới thu tấm này?\"",
+      "suggest": "\"Đúng rồi, Hô Hỏa trưởng lão đã đề cập qua, những Phi Mao da thú này Bích La động hao tốn không ít tâm tư mới luyện chế ra được, có chút trân quý, mỗi tấm da thú đều được sắp xếp pháp lực tiêu ký, một khi Phi Mao thú nô chết đi, tông môn sẽ phái người tới lấy lại da thú, bọn họ vì sao không lấy đi một viên?\"",
+      "similarity": [
+        [
+          45,
+          0.24
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đột nhiên nghĩ tới một chuyện, rất là không hiểu.",
+      "dich": "Viên Minh đột nhiên nghĩ tới một chuyện, cảm thấy vô cùng khó hiểu.",
+      "suggest": "Viên Minh đột nhiên nghĩ tới một chuyện, rất không hiểu.",
+      "similarity": [
+        [
+          46,
+          0.56
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn nhìn về phía màu đen da thú vỡ tan chỗ, như có điều suy nghĩ, bấm niệm pháp quyết giải trừ vượn trắng biến thân, vận khởi pháp lực rót vào màu đen da thú bên trong, thôi động Phi Mao Thuật, da thú lại không hề có động tĩnh gì.",
+      "dich": "Hắn nhìn lỗ thủng trên tấm da thú màu đen, như có điều suy nghĩ, xong liền bấm niệm pháp quyết giải trừ Phi Mao Thuật, vận khởi pháp lực rót vào trong da thú rồi thôi động Phi Mao Thuật, nhưng miếng da thú này không hề có động tĩnh gì.",
+      "suggest": "Hắn nhìn vào chỗ da thú màu đen vỡ vụn, như có điều suy nghĩ, bấm niệm pháp quyết giải trừ vượn trắng biến thân, vận khởi pháp lực rót vào trong da thú màu đen, nhưng da thú lại không hề có động tĩnh gì.",
+      "similarity": [
+        [
+          47,
+          0.51
+        ],
+        [
+          69,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Xem ra là hỏng, lúc này mới không người đến lấy đi đi, lãng phí một cách vô ích thời gian dài như vậy.\"",
+      "dich": "\"Xem ra là bị phá hủy nên tới giờ cũng không có ai đến lấy, bỏ không một thời gian dài như vậy.\"",
+      "suggest": "\"Xem ra là hỏng, lúc này mới không có ai tới lấy, lãng phí một cách vô ích.\"",
+      "similarity": [
+        [
+          48,
+          0.16
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh tự lẩm bẩm một tiếng, đem màu đen da thú ném đi, quay người rời đi.",
+      "dich": "Viên Minh lẩm bẩm tự nói một câu, xong ném tấm da thú màu đen xuống, quay người rời đi.",
+      "suggest": "Viên Minh tự nhủ một tiếng, ném cái túi màu đen sang một bên, quay người rời đi.",
+      "similarity": [
+        [
+          49,
+          0.27
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá đi chưa được mấy bước, hắn tựa hồ nghĩ tới điều gì, lại đem màu đen da thú mang lên, hướng bên hồ rừng cây đi đến, rất mau tới đến một cái chỗ ẩn núp.",
+      "dich": "Nhưng đi chưa được mấy bước, hắn như nghĩ ra điều gì, lại cầm miếng da thú mang theo, đi về phía rừng cây ven hồ, rất nhanh đã tới một chỗ kín đáo.",
+      "suggest": "Nhưng đi được mấy bước, tựa hồ như nghĩ tới điều gì, lại mang miếng da thú màu đen lên, đi về phía rừng cây bên hồ, rất nhanh đã tới được một chỗ ẩn nấp.",
+      "similarity": [
+        [
+          32,
+          0.1
+        ],
+        [
+          50,
+          0.41
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh ngồi trên mặt đất, đem da thú bình trải tại trước người, sau đó gọi ra thần bí lư hương.",
+      "dich": "Viên Minh ngồi trên mặt đất, bày tấm da thú trước người, xong lập tức gọi lư hương thần bí ra.",
+      "suggest": "Viên Minh ngồi trên mặt đất, trải cái bình da thú lên trước người, sau đó gọi ra lư hương thần bí.",
+      "similarity": [
+        [
+          51,
+          0.42
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn màu trắng vượn da chính là đụng chạm tới lư hương, mới sinh ra một tia dị biến, có lẽ cũng có thể đối cái này màu đen da thú sinh ra chút ảnh hưởng cũng còn chưa thể biết được.",
+      "dich": "Tấm da vượn trắng của hắn do chạm phải lư hương mới sinh ra chút biến dị, nói không chừng lư hương cũng có thể ảnh hưởng một chút tới tấm da thú màu đen này.",
+      "suggest": "Da vượn của hắn chính là đụng vào lư hương mới sinh ra dị biến, có lẽ cũng do da vượn màu đen này gây ra chút ảnh hưởng mà thôi.",
+      "similarity": [
+        [
+          52,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Đương nhiên, hắn không có trông cậy vào lư hương có thể đem màu đen da thú chữa trị, chỉ là muốn mượn cơ hội hiểu rõ hơn một chút liên quan tới cái này thanh sắc lư hương tin tức.",
+      "dich": "Đương nhiên, hắn không trông mong lư hương có thể chữa lành tấm da màu đen, chỉ là muốn nhân cơ hội này để hiểu thêm chút thông tin về lư hương này.",
+      "suggest": "Đương nhiên, hắn không trông cậy vào lư hương có thể chữa trị cho da thú màu đen, chỉ là muốn mượn cơ hội hiểu rõ hơn một chút tin tức liên quan đến lư hương này mà thôi.",
+      "similarity": [
+        [
+          36,
+          0.1
+        ],
+        [
+          53,
+          0.36
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh đem lư hương đặt ở da thú bên trên, song phương vừa mới tiếp xúc, thần bí lư hương bỗng nhiên sáng lên, một cỗ thanh quang từ phía trên lộ ra, mang theo một cỗ ấm áp khí lưu rót vào màu đen da thú bên trong.",
+      "dich": "Viên Minh đặt lư hương lên trên tấm da thú, kết qua khi hai bên vừa tiếp xúc, lư hương thần bí bỗng sáng lên, tỏa ra một vầng hào quang màu xanh, kéo theo một luồng khí nóng truyền vào trong tấm da thú màu đen.",
+      "suggest": "Viên Minh đặt lư hương lên da thú, khi hai bên vừa tiếp xúc, lư hương thần bí bỗng nhiên sáng lên, một luồng khí lưu chuyển từ phía trên bay ra, rót một luồng khí lưu lại từ bên trong da thú màu đen vào trong.",
+      "similarity": [
+        [
+          54,
+          0.44
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Màu đen da thú mặt ngoài kia từng đạo ảm đạm màu trắng đường vân, tại thanh quang dung nhập về sau, tựa như nước sông nhập mương tản mát ra, những nơi đi qua, nguyên bản ảm đạm đường vân đều trở nên sáng tỏ, cả khối màu đen da thú cũng rung động nhè nhẹ.",
+      "dich": "Những đường vân màu trắng u ám ở mặt ngoài tấm da, sau khi ánh sáng xanh thâm nhập, như những kênh mương dẫn nước đưa ánh sáng lan tràn ra. Rất nhanh, những đường vân vốn ảm đạm trở nên sáng sáng, cả tấm da thú màu đen cũng bắt đầu rung nhẹ.",
+      "suggest": "Mặt ngoài da thú màu đen kia có từng đường vân màu trắng mờ mờ, sau khi ánh sáng xanh thẫm nhập vào trong, tựa như nước sông nhập mương, tản mát ra xung quanh, những nơi nó đi qua, những đường vân ảm đạm đều trở nên sáng sủa, cả miếng da thú màu đen cũng rung động nhè nhẹ.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Thanh quang rất nhanh chảy khắp da thú các nơi, hướng về sau lưng vỡ tan chỗ hội tụ, nơi đó màu trắng đường vân dị thường dày đặc, tựa hồ nơi đó là cái trọng yếu tiết điểm.",
+      "dich": "Ánh sáng xanh nhanh chóng chảy khắp nơi, sau đó hội tụ về chỗ lỗ thủng trên tấm da. Đường vân màu trắng ở chỗ thủng này có mật độ dày dị thường, có vẻ nơi này là một tiết điểm rất quan trọng.",
+      "suggest": "Thanh quang rất nhanh chảy khắp da thú, tập trung ở những chỗ bị nứt, chỗ đó vân vân vô cùng dày đặc, tựa hồ nơi đó là một điểm trọng yếu.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Bực này địa phương bị hủy, khó trách da thú triệt để vô dụng.",
+      "dich": "Chỗ này bị phá, bảo sao da thú hoàn toàn trở nên vô dụng.",
+      "suggest": "Đến lúc này, không có nghĩa da thú đã hết tác dụng.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Thanh quang đang vỡ tan chỗ bốn phía dũng động, nơi đó màu trắng đường vân chớp động không thôi, tiếp lấy một đạo có chút mơ hồ không rõ hư ảnh từ da thú vỡ tan chỗ nổi lên, nhìn qua thật to đầu, thân thể tròn vo, tay chân hiện lên gỡ ra hình, chính là một con cóc.",
+      "dich": "Ánh sáng xanh tuôn chảy khắp bốn phía quanh chỗ thủng, cùng lúc, những đường vân màu trắng không ngừng chớp động, tiếp đó bỗng thấy một hư ảnh có phần mờ mịt từ chỗ thủng hiện ra, nhìn qua thấy đầu rất to, cơ thể tròn vo, bàn chân bàn tay xòe ra, giống hệt một con cóc.",
+      "suggest": "Thanh quang đã vỡ tan bốn phía, nơi đó vân vân chớp lóe không ngừng, tiếp theo một cái đầu lâu màu trắng chớp lóe không ngừng, tiếp đó một cái đầu lâu mập mạp hiện ra, tay chân có chút méo mó, trông như một con cóc.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "\"Đây là cái gì?",
+      "dich": "\"Đây là thứ gì?",
+      "suggest": "'Đây là cái gì?",
+      "similarity": [
+        [
+          59,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Không phải là cóc hung thú hồn phách?",
+      "dich": "Chẳng lẽ là hồn phách hung thú cóc?",
+      "suggest": "Không phải là Hồn phách cóc hung thú ư?",
+      "similarity": [
+        [
+          60,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ta màu trắng vượn da trước đó tại lư hương ảnh hưởng dưới, cũng hiện ra qua vượn trắng hư ảnh, xem ra phi mao da thú bên trong đều ẩn chứa có thú hồn.\"",
+      "dich": "Da vượn trắng của ta lúc trước dưới ảnh hưởng của lư hương cũng từng hiện ra ảo ảnh vượn trắng, xem ra trong mỗi tấm Phi Mao thú bì đều ẩn chứa thú hồn.\"",
+      "suggest": "Sau khi ta ảnh hưởng bởi lư hương, cũng hiện ra hình dáng của vượn da màu trắng, xem ra trong túi da thú này đều ẩn chứa thú hồn.\"",
+      "similarity": [
+        [
+          61,
+          0.3
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh thầm nghĩ.",
+      "dich": "Viên Minh thì thầm.",
+      "suggest": "Viên Minh thầm nghĩ.",
+      "similarity": [
+        [
+          43,
+          0.12
+        ],
+        [
+          62,
+          0.25
+        ],
+        [
+          66,
+          0.15
+        ],
+        [
+          93,
+          0.11
+        ],
+        [
+          96,
+          0.11
+        ],
+        [
+          98,
+          0.11
+        ],
+        [
+          100,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cóc hư ảnh tại thanh quang bên trong dần dần ngưng thực, cũng đang phát ra \"Oa\" một tiếng về sau, lóe lên một cái rồi biến mất không có vào vỡ tan chỗ, không thấy tung tích.",
+      "dich": "Ảo ảnh cóc trong ánh sáng xanh dần dần ngưng thực, đồng thời phát ra một tiếp \"Oạp' rồi thình lình lóe lên tan biến vào hư vô, không còn tăm tích.",
+      "suggest": "Bóng ma ở trong quầng sáng màu xanh dần dần ngưng thực, nó đang phát ra một tiếng 'Oa' một tiếng rồi biến mất không thấy đâu nữa.",
+      "similarity": [
+        [
+          63,
+          0.18
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Xuy xuy\" nhẹ vang lên bên trong, vỡ tan chỗ chung quanh màu trắng đường vân đột nhiên phảng phất vật sống kéo dài tới ra, lách qua vết nứt chỗ, lại lần nữa nối liền cùng nhau.",
+      "dich": "Ngay tiếp đó, theo tiếng 'xuy xuy' nhẹ vang lên, những đường vẫn quanh chỗ da bị thủng đột nhiên mọc dài ra như những vật sống, đoạn nhanh chóng vượt qua chỗ thủng, lại một lần nữa nối liền với nhau.",
+      "suggest": "\"Xuy xuy\" nhẹ vang lên, những vân tay màu trắng ở xung quanh đột nhiên như vật sống kéo dài ra, lách qua một khe hở rồi ghép lại thành một, nối liền với nhau.",
+      "similarity": [
+        [
+          64,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Còn có thể dạng này!\"",
+      "dich": "\"Lại còn có thể như vậy?\"",
+      "suggest": "\"Còn có thể dạng này nữa!\"",
+      "similarity": [
+        [
+          65,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh vừa mừng vừa sợ.",
+      "dich": "Viên Minh vừa mừng vừa sợ.",
+      "suggest": "Viên Minh vừa mừng vừa sợ.",
+      "similarity": [
+        [
+          43,
+          0.12
+        ],
+        [
+          66,
+          0.16
+        ],
+        [
+          66,
+          1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Những cái kia màu trắng đường vân liên tiếp thông, cả trương màu đen da thú nổi lên hiện ra từng tia từng tia khí tức ba động, hiển nhiên triệt để chữa trị.",
+      "dich": "Sau khi những đường vân kia hoàn toàn nối lại, cả tấm da thú lập tức tỏa ra chấn động khí tức nhè nhẹ, hiển nhiên đã được chữa trị triệt để.",
+      "suggest": "Những đường vân màu trắng nối liền nhau, cả miếng da thú màu đen kia bỗng nhiên hiện lên từng tia khí tức ba động, hiển nhiên đã được chữa trị triệt để.",
+      "similarity": [
+        [
+          36,
+          0.11
+        ],
+        [
+          57,
+          0.11
+        ],
+        [
+          67,
+          0.32
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Không chỉ có như thế, màu đen da thú còn rực rỡ hẳn lên, phía trên thiên nhiên hoa văn rõ ràng rất nhiều, phảng phất vừa mới lột bỏ tới, cùng màu trắng vượn da bị lư hương ảnh hưởng sau không có sai biệt.",
+      "dich": "Không chỉ như vậy, da thú màu đen còn tươi mới hẳn lên, số đường vân ở mặt ngoài rõ ràng tăng thêm rất nhiều, giống như mới lột xác vậy, cái này so rất giống với biểu hiện của tấm da vượn sau khi bị lư hương ảnh hưởng.",
+      "suggest": "Không chỉ có như thế, da thú màu đen còn rực rỡ hơn, hoa văn trên thiên nhiên xung quanh rõ ràng hơn rất nhiều, phảng phất vừa mới lột da xong, không khác gì da vượn bị lột bỏ.",
+      "similarity": [
+        [
+          68,
+          0.15
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh vận khởi pháp lực rót vào màu đen da thú, thôi động Phi Mao Thuật.",
+      "dich": "Viên Minh vận khởi pháp lực rót vào trong da thú màu đen rồi thôi động Phi Mao Thuật.",
+      "suggest": "Viên Minh vận chuyển pháp lực rót vào da thú màu đen, bắt đầu động Phi Mao Thuật.",
+      "similarity": [
+        [
+          36,
+          0.13
+        ],
+        [
+          37,
+          0.13
+        ],
+        [
+          49,
+          0.12
+        ],
+        [
+          51,
+          0.13
+        ],
+        [
+          58,
+          0.12
+        ],
+        [
+          69,
+          0.35
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Màu đen da thú vật sống khỏa ở trên người hắn, bao trùm ở toàn thân các nơi, rất nhanh liền hoàn thành biến thân.",
+      "dich": "Da thú màu đen như vật sống tản ra, trùm lên người rồi nhanh chóng bọc kín thân thể hắn, chỉ loáng cái đã hoàn thành quá trình biến thân.",
+      "suggest": "Da thú vật màu đen đang quấn quanh người hắn, trùm kín toàn thân, rất nhanh đã hoàn thành biến thân.",
+      "similarity": [
+        [
+          70,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Toàn thân hắn đều bị màu đen da thú bao trùm, trên lưng mọc đầy căng phồng màu đen u cục, nhìn phi thường kiên cố, hai tay giữa ngón tay mọc ra màng màng, ngón chân ở giữa cũng là như thế, ánh mắt lại treo ngược rất nhiều.",
+      "dich": "Cả người hắn bị da thú màu đen bao trùm, trên lưng mọc đầy những cục u màu đen căng phồng, thoạt nhìn có vẻ rất kiên cố, còn giữa những ngón tay, ngón chân lại mọc màng, ánh mắt lại bị kéo lên rất nhiên.",
+      "suggest": "Toàn thân hắn đều bị da thú màu đen bao phủ, trên lưng mọc đầy những sợi dây màu đen bóng, trông vô cùng kiên cố, hai bàn tay ở giữa cũng mọc ra những sợi dây màu đen, hai ngón chân cũng vậy, hai mắt cứ như thế mà trợn ngược lên.",
+      "similarity": [
+        [
+          71,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh thu hồi lư hương, đi vào bên hồ đối mặt nước vừa chiếu, bản thân lúc này nhìn rất giống một con hình người cóc.",
+      "dich": "Viên Minh thu lư hương lại, đi tới ven hồ soi mình xuống nước, chỉ thấy bản thân lúc này nhìn hệt như một con cóc hình người.",
+      "suggest": "Viên Minh thu lại lư hương, đi vào bên hồ đối diện với ánh nắng chói chang, hắn trông như một con cóc bị bỏ túi.",
+      "similarity": [
+        [
+          72,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "\"Khó trách mới vừa nghe đến cái gì cổ quái tiếng kêu, nguyên lai là trương cóc da.",
+      "dich": "\"Bảo sao mới rồi nghe được tiếng kêu cổ quái, thì ra là một tấm da cóc.",
+      "suggest": "\"Khó trách vừa rồi mới nghe thấy tiếng kêu kỳ quái gì đó, hóa ra là...",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Lúc trước ta cầm tới không có lực công kích gì vượn trắng da đã đủ biệt khuất, không nghĩ tới vẫn còn người so ta còn thảm, cóc có thể làm cái gì?\"",
+      "dich": "Lúc trước ta cầm một tấm da vượn chẳng có lực công kích gì đã đủ biệt khuất, không ngờ có người còn thảm hơn ta, cóc thì có thể làm gì chứ?\"",
+      "suggest": "Lúc trước ta chỉ cần mang theo con vượn trắng da không có công kích gì là đủ biệt khuất rồi, không nghĩ tới bây giờ vẫn còn người tốt hơn ta, ta có thể làm cái gì?\"",
+      "similarity": [
+        [
+          74,
+          0.13
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh nhìn qua trong hồ nước xấu xí hình tượng, có chút không nói nói.",
+      "dich": "Viên Minh nhìn hình tượng xấu xí dưới hồ, nhất thời không biết phải nói gì.",
+      "suggest": "Viên Minh nhìn hình dáng xấu xí trong hồ nước, có chút không nói nên lời.",
+      "similarity": [
+        [
+          75,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh hoạt động thân thể, cảm ứng đến hóa thân sau cóc sau năng lực.",
+      "dich": "Viên Minh hoạt động cơ thể, cảm nhận năng lực sau khi hóa thân thành cóc.",
+      "suggest": "Viên Minh vận chuyển thân thể, cảm ứng được năng lực hóa thân sau khi hóa thân.",
+      "similarity": [
+        [
+          76,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn chỉ cảm thấy trong lồng ngực có ẩn ẩn một cỗ khí lưu dũng động, toàn bộ ổ bụng tựa hồ biến lớn rất nhiều, mỗi một lần hô hấp đều so trước đó sâu rất nhiều, lấy hơi thời gian càng ngày càng dài.",
+      "dich": "Hắn chỉ cảm thấy trong lồng ngực mơ hồ có một luồng khí lưu tuôn chảy, cả ổ bụng có vẻ lớn hơn trước rất nhiều, mỗi lần hít đều lâu hơn nhiều so với trước đây, kéo theo thời gian cần phải thở ra cũng được kéo dài tương ứng.",
+      "suggest": "Hắn chỉ cảm thấy trong lồng ngực có một luồng khí lưu động, cả ổ bụng tựa hồ biến lớn hơn rất nhiều, mỗi nhịp hô hấp đều sâu hơn trước rất nhiều, thời gian hít thở càng lúc càng dài.",
+      "similarity": [
+        [
+          77,
+          0.33
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá hắn cũng không cảm thấy khó chịu, bình phong hút đứng tại chỗ.",
+      "dich": "Vậy nhưng hắn lại không thấy khó chịu, ngưng thở đứng yên tại chỗ,",
+      "suggest": "Tuy nhiên hắn lại không cảm thấy khó chịu, bình phong vẫn hút hắn vào.",
+      "similarity": [
+        [
+          79,
+          0.21
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Trọn vẹn một khắc đồng hồ trôi qua, Viên Minh như cũ không có chút nào bực mình cảm giác, vẫn có thể hoạt động tự nhiên.",
+      "dich": "Sau chừng một khắc đồng hồ, Viên Minh vẫn không cảm giác có gì khó chịu, có thể hoạt động tự nhiên, thoải mái.",
+      "suggest": "Trọn vẹn một khắc trôi qua, Viên Minh vẫn không hề cảm thấy bực mình chút nào, vẫn có thể hoạt động một cách bình thường.",
+      "similarity": [
+        [
+          80,
+          0.23
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn thả người nhảy vào trong hồ nước, hướng đáy nước kín đáo đi tới.",
+      "dich": "Hắn nhảy vào hồ, lặn sâu xuống đáy nước.",
+      "suggest": "Hắn thả người nhảy vào trong nước, hướng tới đáy nước kín đáo.",
+      "similarity": [],
+      "approved": true
+    },
+    {
+      "convert": "Mặt hồ nổi sóng chập trùng, rất nhanh lắng lại, hết thảy khôi phục bình tĩnh.",
+      "dich": "Sóng nước dập dờn rất nhanh lắng xuống, mọi thứ lại trở về trạng thái bình thường.",
+      "suggest": "Sóng nước cuồn cuộn rất nhanh đã lắng xuống, tất cả khôi phục lại vẻ tĩnh lặng ban đầu.",
+      "similarity": [
+        [
+          82,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Lại qua một khắc đồng hồ, hồ nước bờ bên kia mép nước \"Rầm rầm\" một lần, Viên Minh thân ảnh ló đầu ra đến, thả người lên bờ.",
+      "dich": "Lại qua thêm một khắc đồng hồ, tiếng ào ào chợt vang lên bên mép nước, Viên Minh trồi lên khỏi mặt nước, tung người nhảy lên bờ.",
+      "suggest": "Qua thêm một khắc đồng hồ, mép nước bên kia hồ nước bỗng 'rầm rầm' một hồi, bóng dáng Viên Minh ló đầu ra rồi thả người ngồi trên bờ.",
+      "similarity": [
+        [
+          14,
+          0.11
+        ],
+        [
+          83,
+          0.13
+        ],
+        [
+          83,
+          0.2
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Hắn trong mắt lóe lên vẻ hưng phấn, trương này cóc da thú trọn vẹn có thể để cho hắn hai khắc đồng hồ bên trong không cần lấy hơi.",
+      "dich": "Trong mắt hắn hiện lên nét hưng phấn, không ngờ tấm da hung thú cóc này có thể giúp hắn nhịn thở tới hai khắc đồng hồ.",
+      "suggest": "Trong mắt hắn lóe lên vẻ hưng phấn, cái túi da thú này đúng là có thể nhét vào trong miệng hắn hai khắc mà không cần lấy hơi.",
+      "similarity": [
+        [
+          84,
+          0.11
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ô Lỗ đã từng đề cập qua, Thập Vạn Đại Sơn chỗ sâu có nhiều chỗ sẽ tràn ngập kịch độc chướng khí, có cái này cóc da thú, vạn nhất bất hạnh gặp được, tối thiểu có đầy đủ thời gian có thể đào tẩu.",
+      "dich": "Ô Lỗ từng nói, sâu trong Thập Vạn Đại Sơn có một số chỗ tràn ngập chướng khí kịch độc, giờ có tấm da cóc này, nếu xui xẻo đụng phải, ít nhất hắn cũng có đủ thời gian để chạy trốn.",
+      "suggest": "Ô Lỗ đã từng đề cập qua, ở sâu trong Thập Vạn Đại Sơn có rất nhiều chướng khí kịch độc, có loại cóc da thú này, vạn nhất gặp phải, tối thiểu có thể có đủ thời gian để đào tẩu.",
+      "similarity": [
+        [
+          85,
+          0.32
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Ngoài ra, hóa thân cóc sau ở trong nước bơi lội tốc độ có phần nhanh, cũng coi là nhiều hơn một loại không tệ chạy trốn thủ đoạn.",
+      "dich": "Ngoài ra, sau khi hóa thân thành cóc thì có thể bơi trong nước khá nhanh, coi như có thêm một phương cách thoát hiểm không tệ.",
+      "suggest": "Ngoài ra tốc độ hóa thân thành cóc sau khi ở trong nước bơi lội cũng nhanh hơn rất nhiều, cũng coi là một loại thủ đoạn chạy trốn không tệ.",
+      "similarity": [
+        [
+          86,
+          0.14
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "So sánh với cóc ở trong nước niềm nở tự nhiên, phía trên đất bằng năng lực hành động thì kém không ít, đi đường chỉ có thể dựa vào có chút vụng về nhảy vọt, năng lực công kích càng là cơ hồ không có, chí ít hắn chưa phát hiện.",
+      "dich": "Có điều, năng lực hành động sau khi hóa cóc ở dưới nước linh hoạt bao nhiêu, ở trên bờ lại lại tệ bấy nhiêu, tỷ như đi đường chỉ có mỗi cách là nhảy nhót một cách vụng về, năng lực công kích gần như không có, hoặc ít nhất là hắn còn chưa phát hiện ra.",
+      "suggest": "So sánh với cóc ở trong nước thì sự tự nhiên hơn nhiều so với việc đi đường bằng đất bằng, năng lực hành động còn kém hơn không ít, đi đường chỉ có thể dựa vào sự vụng về nhảy vọt, năng lực công kích thì hầu như không có, thậm chí hắn còn chưa phát hiện ra.",
+      "similarity": [
+        [
+          87,
+          0.29
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Nghĩ tới đây, hắn không khỏi có chút đồng tình vị kia lấy cóc vì phi mao hóa thân huynh đài.",
+      "dich": "Nghĩ tới đây, hắn không khỏi có phần thông cảm cho vị huynh đài đã dùng da cóc để thi triển Phi Mao Thuật trước đây.",
+      "suggest": "Nghĩ tới đây, hắn không khỏi có chút đồng tình với vị huynh đài phi mao hóa thân kia.",
+      "similarity": [
+        [
+          88,
+          0.3
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Viên Minh bấm niệm pháp quyết giải trừ cóc biến thân, đem trương này màu đen da thú cẩn thận thu vào.",
+      "dich": "Viên Minh bấm niệm pháp quyết giải trừ biến thân, xong cẩn thận thu tấm da cóc lại.",
+      "suggest": "Viên Minh bấm niệm pháp quyết giải trừ cóc biến thân, cẩn thận thu dọn lớp da thú màu đen này.",
+      "similarity": [
+        [
+          37,
+          0.11
+        ],
+        [
+          49,
+          0.13
+        ],
+        [
+          51,
+          0.13
+        ],
+        [
+          54,
+          0.13
+        ],
+        [
+          58,
+          0.1
+        ],
+        [
+          73,
+          0.13
+        ],
+        [
+          89,
+          0.43
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Màu đen cóc sức chiến đấu trước mắt đến xem kém xa vượn trắng biến thân, nhưng ở hoàn cảnh đặc định dưới, có lẽ có đại dụng.",
+      "dich": "Trước mắt mà xem thì cóc đen có sức chiến đấu thua xa biến thân vượn trắng, có điều ở trong hoàn cảnh đặc biệt, có lẽ sẽ có tác dụng lớn.",
+      "suggest": "Sức chiến đấu của cóc màu đen nhìn như kém xa vượn trắng biến thân, nhưng dưới hoàn cảnh đặc định có lẽ có tác dụng đại dụng.",
+      "similarity": [
+        [
+          90,
+          0.1
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Bất quá, hôm nay thu hoạch lớn nhất vẫn là ở chỗ hắn đối thanh sắc lư hương có nhận thức thêm một bậc.",
+      "dich": "Nhìn chung, thu hoạch lớn nhất ngày hôm này vẫn là hiểu biết của hắn về lư hương đã tiến dược thêm một bước.",
+      "suggest": "Tuy nhiên, thu hoạch lớn nhất của hắn hôm nay chính là ở lư hương màu xanh lục hắn có nhận thức thêm một tầng.",
+      "similarity": [
+        [
+          91,
+          0.19
+        ]
+      ],
+      "approved": true
+    },
+    {
+      "convert": "Cái này thần bí lư hương tựa hồ có thể thông qua phương thức nào đó đem tổn hại da thú chữa trị, có lẽ còn có thể kích phát da thú một chút tiềm ẩn năng lực, điểm này ngày sau cũng có thể lợi dụng một chút.",
+      "dich": "Lư hương thần bí này tựa hồ có thể thông qua một phương thức nào đó chữa trị tấm da đã bị tàn phá, hơn nữa còn có thể kích phát một chút năng lực tiềm ẩn, điểm này ngày sau cũng có thể lợi dụng một chút.",
+      "suggest": "Lư hương thần bí này dường như có thể thông qua một phương thức nào đó chữa trị tổn hại da thú, có lẽ còn có thể kích phát một chút năng lực tiềm ẩn của da thú, điểm này sau này cũng có thể lợi dụng một chút.",
+      "similarity": [
+        [
+          92,
+          0.61
+        ]
+      ],
+      "approved": true
+    }
+  ],
+  "currentWorkingLine": 92,
+  "changed": true
+}
