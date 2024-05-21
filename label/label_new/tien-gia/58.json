@@ -1,4 +1,5 @@
 {
+  "currentLine": 83,
   "next": {
     "id": 59,
     "title": "Chương 59: Thay ta nhìn nàng một cái"
@@ -22,16 +23,18 @@
           0.28
         ],
         [
-          85,
+          83,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Một vòng quạnh quẽ Cô Nguyệt treo cao, xuyên thấu qua sơn lâm cây cối chạc cây khe hở, thấu hạ một đạo đạo quang ban.",
       "dich": "Vầng trăng cô quạnh treo cao, xuyên qua tàng cây kẽ lá, chiếu những khoảng sáng lốm đốm xuống mặt đất.",
       "suggest": "Một vòng quạnh quẽ cô nguyệt treo cao, xuyên thấu qua chạc cây, chạc cây, xuyên qua khe hở của chạc cây, xuyên qua khe hở ánh sáng chiếu xuống.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Viên Minh khoanh chân ngồi chung một chỗ ánh trăng ảnh ban bên trên, đôi thủ chưởng rễ chống đỡ, một tay cũng chỉ hướng thiên, một tay cũng chỉ đúng.",
@@ -42,7 +45,8 @@
           2,
           0.24
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Trên người hắn bao phủ một tầng mông lung ánh trăng, cùng nơi khác khác biệt, quang ảnh mông lung, giống như là có sương mù mờ mịt, lại giống là có sa mỏng quấn quanh, kéo dài không tiêu tan.",
@@ -53,7 +57,8 @@
           3,
           0.21
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Lúc này, mi tâm của hắn nhíu chặt, cái trán ẩn có mồ hôi lăn xuống, tựa hồ đang cố gắng làm lấy một loại nào đó nếm thử.",
@@ -64,13 +69,15 @@
           4,
           0.43
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Bất quá sau một lát, hắn liền lông mày buông lỏng, chợt mở hai mắt ra, trong mắt lộ ra một vòng mỏi mệt.",
       "dich": "Nhưng một lúc sau, hắn liền thả lỏng mi tâm, mở hai mắt để lộ ra vẻ mệt mỏi.",
       "suggest": "Tuy nhiên sau một lát, lông mày hắn giãn ra, mắt mở ra, trong mắt lộ ra một chút mỏi mệt.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "\"Ai, xem ra ta còn thực sự không phải khối này liệu, cố gắng lâu như vậy, ngay cả quan chiếu thức hải đều khó mà hoàn toàn thực hiện, chớ nói chi là quan chiếu toàn thân.",
@@ -81,7 +88,8 @@
           6,
           0.31
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Theo đà tiến này, muốn tu luyện hoàn thành tầng thứ nhất, không có cái mười năm tám năm ta xem cũng khó khăn a.",
@@ -92,18 +100,20 @@
           7,
           0.27
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Vẫn là thành thành thật thật tu luyện Cửu Nguyên Quyết làm đến thực tế.\"",
-      "dich": "Vẫn là thành thật tu luyện Cửu Nguyên quyết thì thực tế hơn.\"",
+      "dich": "Vẫn là thành thật tu luyện Cửu Nguyên Quyết thì thực tế hơn.\"",
       "suggest": "Vẫn là thành thật thật thật tu luyện Cửu Nguyên Quyết.\"",
       "similarity": [
         [
           8,
           0.44
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh thở dài, tiếp nhận hiện thực.",
@@ -114,332 +124,364 @@
           9,
           0.1
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Thế gian này công pháp, nếu là đều như Cửu Nguyên Quyết, tu luyện như vậy trôi chảy liền tốt.",
-      "dich": "Công pháp thế gian này, nếu đều có thể tu luyện thuận lợi như Cửu Nguyên quyết thì tốt rồi.",
+      "dich": "Công pháp thế gian này, nếu đều có thể tu luyện thuận lợi như Cửu Nguyên Quyết thì tốt rồi.",
       "suggest": "Công pháp trên thế gian này, nếu đều như Cửu Nguyên Quyết, tu luyện như vậy thì càng thuận lợi.",
       "similarity": [
         [
           10,
           0.33
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn thu hồi pháp quyết, kết thúc lần tu luyện này, đồng thời tạm thời đều không có ý định tiếp tục tu luyện « Minh Nguyệt Quyết », mỗi ngày dạng này ban đêm tu hành, cho dù đối với thần thức chưởng khống phương diện có chút tăng lên, lại khiến cho hắn thể xác tinh thần mỏi mệt, vào ban ngày tu luyện Cửu Nguyên Quyết đều thụ ảnh hưởng.",
-      "dich": "Hắn thu hồi pháp quyết, kết thúc lần tu luyện này, đồng thời tạm không có ý định tiếp tục tu luyện Minh Nguyệt Quyết.",
+      "dich": "Hắn thu hồi pháp quyết, kết thúc lần tu luyện này, đồng thời tạm không có ý định tiếp tục tu luyện Minh Nguyệt Quyết. Kiểu lịch trình đêm nào cũng tu hành này dù giúp khả năng nắm giữ thần thức của hắn tăng lên một chút, nhưng cũng khiến tinh thần, thể xác hắn mỏi mệt, ảnh hưởng xấu đến việc tu luyện Cửu Nguyên Quyết ban ngày.",
       "suggest": "Hắn thu hồi pháp quyết, kết thúc việc tu luyện Minh Nguyệt Quyết, đồng thời cũng không có ý định tiếp tục tu luyện Minh Nguyệt Quyết nữa. Mỗi ngày đều tu luyện với tần suất cao hơn so với sự chưởng khống của thần thức, nhưng cũng khiến cho tinh thần của hắn có chút mỏi mệt, vào ban ngày tu luyện Cửu Nguyên Quyết đều chịu ảnh hưởng không nhỏ.",
       "similarity": [
         [
           11,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Đồng thời, trải qua trong khoảng thời gian này yên lặng, hắn phát hiện bên ngoài cũng không có bất kỳ cái gì liên quan tới Nhân Tiêu sự kiện phong thanh, tựa hồ lần kia thí luyện bên trong xuất hiện ngoài ý muốn cũng không gây nên quá nhiều gợn sóng, trong lòng liền tính toán khi nào khôi phục đi săn.",
-      "dich": "Kiểu lịch trình đêm nào cũng tu hành này dù giúp khả năng nắm giữ thần thức của hắn tăng lên một chút, nhưng cũng khiến tinh thần, thể xác hắn mỏi mệt, ảnh hưởng xấu đến việc tu luyện Cửu Nguyên quyết ban ngày.",
+      "dich": "Đồng thời, trải qua khoảng thời gian yên bình này, hắn phát hiện bên ngoài không hề có bất kỳ tiếng gió nào liên quan tới sự kiện Nhân Tiêu, tựa như biến cố xuất hiện trong lần thí luyện kia cũng không gây ra được bao nhiêu sóng gió, trong lòng liền tính toán xem khi nào bắt đầu đi săn lại.",
       "suggest": "Đồng thời, trải qua khoảng thời gian yên lặng này, hắn phát hiện bên ngoài cũng không có bất kỳ điều gì liên quan đến sự kiện Nhân Tiêu, dường như lần thí luyện vừa rồi cũng không gây ra quá nhiều sóng gió, trong lòng liền tính toán khi nào khôi phục lại đi săn.",
       "similarity": [
         [
-          13,
+          12,
           0.45
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Dù sao góp nhặt huyết thực, nghĩ biện pháp mau chóng trở thành một gã ký danh đệ tử mới là chính sự.",
-      "dich": "Đồng thời, trải qua khoảng thời gian yên bình này, hắn phát hiện bên ngoài không hề có bất kỳ tiếng gió nào liên quan tới sự kiện Nhân Tiêu, tựa như biến cố xuất hiện trong lần thí luyện kia cũng không gây ra được bao nhiêu sóng gió, trong lòng liền tính toán xem khi nào bắt đầu đi săn lại.",
+      "dich": "Dù thế nào, góp nhặt huyết thực, nghĩ cách mau chóng trở thành một đệ tử ký danh mới là chính sự.",
       "suggest": "Dù sao việc góp nhặt huyết thực cũng là chính sự, nhanh chóng trở thành một gã ký danh đệ tử mới là chính sự.",
       "similarity": [
         [
-          14,
+          13,
           0.35
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Trước đó gặp phải những cái kia ký danh đệ tử, mặc dù chưa hẳn liền so với hắn lợi hại, nhưng cả đám đều có Linh thú bàng thân, lại người mang pháp khí, quả thực để Viên Minh cái này nghèo khó phi mao thú nô, hung hăng cực kỳ hâm mộ.",
-      "dich": "Dù thế nào, góp nhặt huyết thực, nghĩ cách mau chóng trở thành một đệ tử ký danh mới là chính sự.",
+      "dich": "Những đệ tử ký danh mà hắn từng gặp trước kia, dù chưa hẳn đã lợi hại hơn hắn, nhưng cả đám đều có linh thú bên người, pháp khí trên thân, quả thực khiến cho một tên Phi Mao thú nô nghèo khó như Viên Minh không khỏi ao ước.",
       "suggest": "Trước đó đã gặp phải những đệ tử ký danh kia, mặc dù chưa hẳn đã lợi hại hơn hắn, nhưng đám đều có Linh thú bàng thân, lại người mang pháp khí, quả thực làm cho Viên Minh và Phi Mao thú nô cực kỳ hâm mộ.",
       "similarity": [
         [
-          15,
+          14,
           0.33
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Đương nhiên càng quan trọng hơn, là có thể thoát khỏi phi mao thú nô cái này không có đất vị, không có hi vọng, không có tự do thân phận, hướng phía trở về Trung Nguyên, tìm về bản thân ký ức thêm gần một chút....",
-      "dich": "Những đệ tử ký danh mà hắn từng gặp trước kia, dù chưa hẳn đã lợi hại hơn hắn, nhưng cả đám đều có linh thú bên người, pháp khí trên thân, quả thực khiến cho một tên Phi Mao thú nô nghèo khó như Viên Minh không khỏi ao ước.",
+      "dich": "Đương nhiên, điều quan trọng hơn cả là có thể thoát khỏi thân phận thú nô không tự do, không địa vị, không hy vọng này, hướng về Trung Nguyên, rút ngắn phần nào con đường tìm lại ký ức...",
       "suggest": "Đương nhiên quan trọng hơn, là có thể thoát khỏi cái gọi là Phi Mao thú nô không có ruộng đất, không có hy vọng, không có tự do thân phận, hướng phía trở về Trung Nguyên tìm về ký ức của bản thân được thêm một chút....",
       "similarity": [
         [
-          16,
+          15,
           0.17
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Thời gian nhoáng một cái, đã là sau ba tháng.",
-      "dich": "Đương nhiên, điều quan trọng hơn cả là có thể thoát khỏi thân phận thú nô không tự do, không địa vị, không hy vọng này, hướng về Trung Nguyên, rút ngắn phần nào con đường tìm lại ký ức.",
+      "dich": "Thời gian thấm thoắt thoi đưa, nhoáng cái đã lại qua ba tháng.",
       "suggest": "Thời gian nhoáng lên, đã là ba tháng trôi qua.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Chính vào chạng vạng tối, một mảnh trong rừng cây rậm rạp, một đầu uốn lượn dòng sông chậm rãi chảy xuôi.",
-      "dich": "...",
+      "dich": "Vào lúc chập tối, bên dòng sông uốn khúc chảy lững lờ giữa rừng cây rậm rạp.",
       "suggest": "Vào đêm hôm ấy, trong một khu rừng rậm rạp, một dòng sông uốn lượn chậm rãi chảy qua.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Tới gần bên bờ trên mặt nước, một tiết màu nâu xanh gỗ mục lẳng lặng phù ở trên mặt nước, bốn phía dòng nước chậm rãi từ hắn quanh mình chảy xuôi mà qua, nhộn nhạo lên từng cơn gợn sóng.",
-      "dich": "Thời gian thấm thoắt thoi đưa, nhoáng cái đã lại qua ba tháng.",
+      "dich": "Trên mặt nước chỗ gần bờ, một khúc gỗ mục màu nâu xanh lẳng lặng nổi trên mặt sông, dòng nước xung quanh chậm rãi chảy qua kéo theo những gợn sóng nước lăn tăn.",
       "suggest": "Tới gần bờ, một mảng gỗ mục màu nâu xanh biếc lẳng lặng phù xuống mặt nước, bốn phía nước chậm rãi chảy qua xung quanh, tạo thành những gợn sóng êm dịu.",
       "similarity": [
         [
-          20,
+          18,
           0.29
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Bên bờ sông, một con hình thể to con lông đen lợn rừng, đang cúi đầu ở bờ sông uống nước, một đôi ám con mắt màu đỏ, tả hữu vừa đi vừa về du động, cẩn thận quan sát đến bốn phía động tĩnh.",
-      "dich": "Vào lúc chập tối, bên dòng sông uốn khúc chảy lững lờ giữa rừng cây rậm rạp.",
+      "dich": "Bên bờ sông, một con lợn rừng lông đen hình thể cường tráng đang cúi đầu uống nước, đôi mắt đỏ sậm của nó liên tục đảo qua đảo lại, cẩn thận quan sát động tĩnh bốn phía xung quanh.",
       "suggest": "Bên bờ sông, một con lợn rừng lông đen to cỡ lợn rừng, đang cúi đầu uống nước, đôi mắt màu đỏ ngầu, tả hữu vừa đi vừa về, cẩn thận quan sát động tĩnh bốn phía.",
       "similarity": [
         [
-          21,
+          19,
           0.53
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Trong núi rừng tia sáng u ám, lộ ra có chút tĩnh mịch, trong rừng chỉ có chim tước ngẫu nhiên phát ra một hồi réo vang.",
-      "dich": "Trên mặt nước chỗ gần bờ, một khúc gỗ mục màu nâu xanh lẳng lặng nổi trên mặt sông, dòng nước xung quanh chậm rãi chảy qua kéo theo những gợn sóng nước lăn tăn.",
+      "dich": "Ánh sáng trong núi rừng mờ ảo, có vẻ khá tĩnh mịch, chỉ thỉnh thoảng nghe có tiếng chim hót líu lo đâu đây.",
       "suggest": "Ánh sáng mờ ảo trong núi rừng, lộ ra một chút tĩnh mịch, trong rừng chỉ có tiếng chim hót líu lo.",
       "similarity": [
         [
-          22,
+          20,
           0.31
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Mắt thấy quanh mình một mảnh an bình, lông đen lợn rừng dần dần trầm tĩnh lại, nhỏ cái đuôi tại sau lưng nhẹ nhàng vung vẩy, miệng toàn bộ xuyên vào trong nước sông, bắt đầu miệng lớn uống nước, uống đến \"Ùng ục ùng ục\" ứa ra cua.",
-      "dich": "Bên bờ sông, một con lợn rừng lông đen hình thể cường tráng đang cúi đầu uống nước, đôi mắt đỏ sậm của nó liên tục đảo qua đảo lại, cẩn thận quan sát động tĩnh bốn phía xung quanh.",
+      "dich": "Thấy không gian quanh mình là một mảnh yên bình, lợn rừng lông đen dần dần trầm tĩnh lại, nhẹ nhàng phe phẩy cái đuôi nhỏ sau lưng, vục hết cả miệng vào nước sông, đoạn bắt đầu há miệng \"ùng ục, ùng ục\" uống từng ngụm lớn.",
       "suggest": "Mắt thấy xung quanh yên bình, cái đuôi lợn rừng dần dần trầm tĩnh lại, cái đuôi nhỏ quờ quạng thụt vào trong nước sông, miệng bắt đầu há to ra nuốt, uống nước từ cái miệng \"ngậm ngớp\" chảy ra.",
       "similarity": [
         [
-          23,
+          21,
           0.19
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Đúng lúc này, khối kia yên tĩnh phiêu phù ở nó bên người gỗ mục bỗng nhiên nhếch lên, đằng sau tiếp theo một đạo to lớn màu đen cái bóng nổi lên mặt nước, lộ ra một trương to lớn vô cùng cái miệng lớn như chậu máu, hướng phía lông đen lợn rừng một ngụm cắn.",
-      "dich": "Ánh sáng trong núi rừng mờ ảo, có vẻ khá tĩnh mịch, chỉ thỉnh thoảng nghe có tiếng chim hót líu lo đâu đây.",
+      "dich": "Đúng lúc này, khúc gỗ mục lẳng lặng nổi bên người nó bỗng nhếch lên, ngay sau đó một bóng đen tơ lớn trồi lên khỏi mặt nước, há cái miệng khổng lồ to như chậu máu ra, cắn thẳng về phía lợn rừng lông đen.",
       "suggest": "Đúng lúc này, thanh gỗ mục yên tĩnh phiêu phù bên người nó bỗng nhiên nhếch lên, tiếp theo là một cái bóng màu đen to lớn nổi lên mặt nước, lộ ra một cái miệng lớn như cái chậu máu, sau đó lập tức lộ ra một cái miệng lớn như cái chậu máu, hung hăng cắn một miếng vào lông đen của lợn rừng.",
       "similarity": [
         [
-          24,
+          22,
           0.12
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Lông đen lợn rừng kinh hoảng lui lại, khó khăn lắm tránh đi bất thình lình một kích, chỉ là dưới chân bùn đất lại dị thường trơn ướt, trong lúc nhất thời không thể thối lui bao xa.",
-      "dich": "Thấy không gian quanh mình là một mảnh yên bình, lợn rừng lông đen dần dần trầm tĩnh lại, nhẹ nhàng phe phẩy cái đuôi nhỏ sau lưng, vục hết cả miệng vào nước sông, đoạn bắt đầu há miệng \"ùng ục, ùng ục\" uống từng ngụm lớn.",
+      "dich": "Lợn rừng lông đen kinh hoảng lui lại, miễn cưỡng tránh được đòn tập kích bất ngờ, có điều bùn đất dưới chân nó quá trơn trượt nên nhất thời không lui lại được bao xa.",
       "suggest": "Lợn rừng kinh hoảng lui lại, khó khăn lắm mới tránh được một kích bất thình lình, chỉ là bùn đất dưới chân dị thường trơn trượt, trong thời gian ngắn không thể nào thối lui được.",
       "similarity": [
         [
-          25,
+          23,
           0.2
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Kia cái miệng lớn như chậu máu chủ nhân trực tiếp nhảy ra mặt nước, rõ ràng là một con toàn thân sinh đầy hình vuông lân phiến xám đen cự ngạc, trên đó hạ đại trương miệng lớn, cùng kia lông đen lợn rừng hình thể không kém bao nhiêu.",
-      "dich": "Đúng lúc này, khúc gỗ mục lẳng lặng nổi bên người nó bỗng nhếch lên, ngay sau đó một bóng đen tơ lớn trồi lên khỏi mặt nước, há cái miệng khổng lồ to như chậu máu ra, cắn thẳng về phía lợn rừng lông đen.",
+      "dich": "Chủ nhân cái miệng như chậu máu kia vọt ra khỏi mặt nước, nhìn rõ ràng là một con cá sấu lớn người mọc đầy vảy đen hình vuông, cái miệng lớn của nó khi há hết cỡ lại không bé hơn thân hình con lợn rừng lông đen kia bao nhiêu.",
       "suggest": "Chủ nhân của cái miệng lớn như chậu máu kia trực tiếp nhảy ra khỏi mặt nước, đó là một con cự ngạc toàn thân có vỏ ngoài hình vuông màu xám đen, trên đó cái miệng rộng bằng cái đầu của nó, kích thước phần miệng so với lông đen lợn rừng bình thường không kém bao nhiêu.",
       "similarity": [
         [
-          26,
+          24,
           0.18
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Chỉ gặp kỳ trùng xuất thủy mặt về sau, trong nháy mắt đuổi kịp lông đen lợn rừng, lần nữa một ngụm cắn.",
-      "dich": "Lợn rừng lông đen kinh hoảng lui lại, miễn cưỡng tránh được đòn tập kích bất ngờ, có điều bùn đất dưới chân nó quá trơn trượt nên nhất thời không lui lại được bao xa.",
+      "dich": "Chỉ thấy nó sau khi lao ra nỏi mặt nước, nhoáng cái đã bắt kịp lợn rừng rồi lại lần nước cắn tới.",
       "suggest": "Chỉ thấy mặt trời đỏ ngầu lên, trong nháy mắt đã đuổi kịp đám lông đen, tiếp tục cắn.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "To lớn còn có lực trên dưới hàm hợp lại, liền đem lông đen lợn rừng đầu tính cả gần nửa người cắn đi vào.",
-      "dich": "Chủ nhân cái miệng như chậu máu kia vọt ra khỏi mặt nước, nhìn rõ ràng là một con cá sấu lớn người mọc đầy vảy đen hình vuông, cái miệng lớn của nó khi há hết cỡ lại không bé hơn thân hình con lợn rừng lông đen kia bao nhiêu.",
+      "dich": "Hai hàm răng to lớn hữu lực của nó khép lại, lập tức cắn gần nửa con lợn rừng vào trong miệng.",
       "suggest": "Lực nhai mạnh mẽ cùng với lực nhai mạnh mẽ đã cắn gần nửa cái đầu con lợn rừng.",
       "similarity": [
         [
-          28,
+          26,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Lông đen lợn rừng tứ chi ra sức giãy dụa, muốn đào thoát.",
-      "dich": "Chỉ thấy nó sau khi lao ra nỏi mặt nước, nhoáng cái đã bắt kịp lợn rừng rồi lại lần nước cắn tới.",
+      "dich": "Lợn rừng lông đen ra sức vùng vẫy thân mình hòng trốn thoát.",
       "suggest": "Tứ chi Lợn rừng giãy dụa muốn chạy trốn.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Có thể vảy đen cự ngạc cắn trúng nó về sau, lập tức liền lôi lôi kéo kéo địa hướng lui về phía sau tiến vào trong sông.",
-      "dich": "Hai hàm răng to lớn hữu lực của nó khép lại, lập tức cắn gần nửa con lợn rừng vào trong miệng.",
+      "dich": "Nhưng con cá sấu vảy đen cắn nó xong liền lập tức kéo người lui về sau, tiến vào trong nước sông.",
       "suggest": "Nhưng vảy đen cự ngạc sau khi cắn trúng nó, lập tức lôi kéo kéo nó lùi lại phía sau mấy bước.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Ngay sau đó, trong nước sông sóng lớn cuồn cuộn, vảy đen cự ngạc thân thể ở trong đó liên tục lăn lộn, mang theo lông đen lợn rừng thân thể cùng nhau vặn chuyển, lớn nâng máu tươi hỗn hợp có đáy sông bùn cát cùng một chỗ cuồn cuộn mà lên, đục ngầu một mảnh.",
-      "dich": "Lợn rừng lông đen ra sức vùng vẫy thân mình hòng trốn thoát.",
+      "dich": "Ngay tiếp đó, giữa sóng nước cuộn trào, cá sấu vảy đen liên tục quay cuồng thân thể khổng lồ, kéo theo thân thể lợn rừng vặn chuyển, tức thì một mảng lớn hỗn hợp máu tươi pha lẫn bùn đất từ đáy sông cuồn cuộn bốc lên, vẩn đục cả một vùng nước sông.",
       "suggest": "Ngay sau đó, nước sông cuồn cuộn, lớp vảy đen nhánh của con khủng long lông đen cũng liên tục lăn lộn, đem bùn cát hỗn hợp có đáy sông cùng với bùn cát đáy sông cuộn lên, đục ngầu một mảnh.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Lông đen lợn rừng mặc dù lực lượng không yếu, nhưng ở trong nước căn bản không có mảy may sức chống cự, chỉ chốc lát sau liền triệt để không có động tĩnh.",
-      "dich": "Nhưng con cá sấu vảy đen cắn nó xong liền lập tức kéo người lui về sau, tiến vào trong nước sông.",
+      "dich": "Lợn rừng lông đen dù lực lượng không yếu nhưng ở dưới nước này căn bản không hề có lực hoàn thủ, chỉ sau chốc lát đã không thấy động cựa gì nữa.",
       "suggest": "Mặc dù lực lượng lợn rừng không yếu, nhưng ở trong nước căn bản không có chút sức chống cự, chỉ chốc lát sau đó liền hoàn toàn không có động tĩnh.",
       "similarity": [
         [
-          32,
+          30,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Vảy đen cự ngạc kéo lấy thân thể của nó, nhanh chóng bơi về trên bờ, bắt đầu từng chút từng chút nuốt, đem lông đen lợn rừng toàn bộ thân thể đưa vào yết hầu.",
-      "dich": "Ngay tiếp đó, giữa sóng nước cuộn trào, cá sấu vảy đen liên tục quay cuồng thân thể khổng lồ, kéo theo thân thể lợn rừng vặn chuyển, tức thì một mảng lớn hỗn hợp máu tươi pha lẫn bùn đất từ đáy sông cuồn cuộn bốc lên, vẩn đục cả một vùng nước sông.",
+      "dich": "Cá sấu vảy đen kéo theo nó, nhanh chóng bơi lên trên bờ, xong bắt đầu nuốt từng ngụm, từng ngụm, đưa toàn bộ thân thể lợn rừng vào trong cổ họng.",
       "suggest": "Con ưng đen kinh ngạc kéo dài thân thể, nhanh chóng bơi trở lại bờ, bắt đầu nuốt toàn bộ lông đen vào yết hầu.",
       "similarity": [
         [
-          33,
+          31,
           0.13
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Ken két\" thanh âm không ngừng vang lên.",
-      "dich": "Lợn rừng lông đen dù lực lượng không yếu nhưng ở dưới nước này căn bản không hề có lực hoàn thủ, chỉ sau chốc lát đã không thấy động cựa gì nữa.",
+      "dich": "Âm thanh \"răng rắc\" liên tục vang lên.",
       "suggest": "\"Rắc rắc\", những tiếng 'rắc rắc' liên tục vang lên.",
       "similarity": [
         [
-          34,
+          32,
           0.32
         ],
         [
-          43,
+          41,
           0.12
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Vảy đen cự ngạc trong cổ xương cốt lực lượng cực lớn, đem lông đen lợn rừng trên người xương cốt từng chút từng chút đè gãy, chỉ chốc lát sau liền đem lợn rừng nửa cái thân thể nuốt vào.",
-      "dich": "Cá sấu kéo theo nó, nhanh chóng bơi lên trên bờ, xong bắt đầu nuốt từng ngụm, từng ngụm, đưa toàn bộ thân thể lợn rừng vào trong cổ họng.",
+      "dich": "Xương cốt trong cổ con cá sấu vảy đen khổng lồ có sức mạnh cực lớn, từng bước ép gãy xương cốt trên người lợn rừng, chỉ chốc lát đã nuốt hết nửa người lợn rừng vào trong.",
       "suggest": "Xương cốt cự ngạc trong đoạn xương cổ có lực lượng cực lớn, đè bẹp toàn bộ xương cốt của con lợn rừng, trong chốc lát đã nuốt trọn nửa thân thể con lợn rừng.",
       "similarity": [
         [
-          35,
+          33,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Ngay tại cự ngạc hưởng thụ mỹ thực thời điểm, bên bờ sông trên cây, một mực lẳng lặng ghé vào trên cành cây bóng người, nhếch miệng lộ ra ý cười.",
-      "dich": "Âm thanh \"răng rắc\" liên tục vang lên.",
+      "dich": "Ngay khi cá sấu đang thưởng thức món ngon, trên một gốc cây cạnh bờ sông, một bóng người ngồi yên lặng trên cành cây đó giờ bỗng nhếch mép nở nụ cười.",
       "suggest": "Đúng lúc nàng đang kinh ngạc thưởng thức mỹ thực, một cây cổ thụ bên bờ sông vẫn đứng yên lặng trên một cành cây, nhếch miệng cười tươi.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Hắn người khoác màu trắng vượn da, bên hông cột một cái trường kiếm bằng đồng thau, chính là Viên Minh.",
-      "dich": "Xương cốt trong cổ con cá sấu khổng lồ có sức mạnh cực lớn, từng bước ép gãy xương cốt trên người lợn rừng, chỉ chốc lát đã nuốt hết nửa người lợn rừng vào trong.",
+      "dich": "Người này khoác một tấm da vượn lông trắng, bên hông cột một thanh trường kiếm bằng đồng thau, hiển nhiên chính là Viên Minh.",
       "suggest": "Người này mặc một bộ quần áo bằng da màu trắng, bên hông giắt một thanh trường kiếm bằng đồng thau, chính là Viên Minh.",
       "similarity": [
         [
-          37,
+          35,
           0.49
         ],
         [
-          58,
+          56,
           0.13
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Vì săn giết đầu này một cấp thượng giai hung thú, hắn đã ở chỗ này ẩn núp bốn ngày ba đêm, lần này rốt cục chờ đến cơ hội.",
-      "dich": "Ngay khi cá sấu đang thưởng thức món ngon, trên một gốc cây cạnh bờ sông, một bóng người ngồi yên lặng trên cành cây đó giờ bỗng nhếch mép nở nụ cười.",
+      "dich": "Vì săn giết con hung thú cấp một bậc cao này, hắn đã ẩn núp ở đây bốn ngày ba đêm, cuối cùng cũng đợi được thời cơ tới.",
       "suggest": "Vì săn giết đầu hung thú thượng giai này mà hắn đã ẩn núp ở nơi đây bốn ngày ba đêm, hôm nay rút cuộc cũng chờ được cơ hội.",
       "similarity": [
         [
-          38,
+          36,
           0.33
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Ngay tại lúc này!\"",
-      "dich": "Người này khoác một tấm da vượn lông trắng, bên hông cột một thanh trường kiếm bằng đồng thau, hiển nhiên chính là Viên Minh.",
+      "dich": "\"Chính là lúc này!\"",
       "suggest": "\"Ngay lúc này!\"",
       "similarity": [
         [
-          39,
+          37,
           0.43
         ],
         [
-          82,
+          80,
           0.13
         ],
         [
-          85,
+          83,
           0.1
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn thầm nghĩ trong lòng một tiếng, thân hình lật một cái, từ trên cây trực tiếp nhảy rụng đánh tới, cùng lúc đó thúc giục phi mao chi thuật, thân thể nhanh chóng lớn lên, hóa thành bắp thịt cuồn cuộn lông trắng vượn già.",
-      "dich": "Vì săn giết con hung thú cấp một bậc cao này, hắn đã ẩn núp ở đây bốn ngày ba đêm, cuối cùng cũng đợi được thời cơ tới.",
+      "dich": "Hắn thầm nói trong lòng, đoạn lật người, nhảy thẳng từ trên cây xuống, đồng thời thôi động Phi Mao thuật, thân hình nhanh chóng biến lớn, hóa thành vượn già lông trắng cơ bắp cuồn cuộn.",
       "suggest": "Lão thầm nghĩ trong lòng, thân hình lật một cái, từ trên cây nhảy xuống, đồng thời thúc giục thuật Phi Mao, thân thể nhanh chóng lớn lên, hóa thành một con vượn già lông trắng.",
       "similarity": [
         [
-          40,
+          38,
           0.23
         ],
         [
-          47,
+          45,
           0.1
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Vảy đen cự ngạc phát hiện dị thường, không lo được tiếp tục ăn, vội vàng hướng phía trong sông thối lui.",
-      "dich": "\"Chính là lúc này!\"",
+      "dich": "Cá sấu vảy đen phát hiện động tĩnh lạ, không dám tiếp tục ăn mà vội vàng lui vào trong nước sống.",
       "suggest": "Vảy đen kinh ngạc phát hiện sự khác thường, không lo được tiếp tục ăn, vội vàng thối lui về phía trong sông.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Viên Minh làm sao có thể cho nó cơ hội đào tẩu, hai tay nắm chặt Thanh Ngư kiếm, pháp lực quán chú đồng thời, lấy Súc Nguyên Tí tụ lực hướng phía nó hung hăng đâm xuống dưới.",
-      "dich": "Hắn thầm nói trong lòng, đoạn lật người, nhảy thẳng từ trên cây xuống, đồng thời thôi động Phi Mao thuật, thân hình nhanh chóng biến lớn, hóa thành vượn già lông trắng cơ bắp cuồn cuộn.",
+      "dich": "Viên Minh làm sao có thể cho nó có cơ hội chạy trốn, tức tốc nắm chặt Thanh Ngư kiếm trong tay đồng thời quán chú pháp lực vào trong kiếm, dùng Súc Nguyên Tí tụ lực rồi hung hăng đâm xuống phía nó.",
       "suggest": "Viên Minh làm sao có thể cho nó cơ hội chạy trốn, hai tay nắm chặt thanh Ngư kiếm, pháp lực quán chú đồng thời, tập trung sức mạnh tập trung về phía con quái vật hung hăng đâm xuống.",
       "similarity": [
         [
-          42,
+          40,
           0.34
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Bang\" một thanh âm vang lên.",
-      "dich": "Cá sấu phát hiện động tĩnh lạ, không dám tiếp tục ăn mà vội vàng lui vào trong nước sống.",
+      "dich": "\"Kang\" một tiếng vang lên.",
       "suggest": "\"Bang\", một tiếng 'rầm' vang lên.",
       "similarity": [
         [
@@ -447,148 +489,163 @@
           0.16
         ],
         [
-          43,
+          41,
           0.22
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Thanh Ngư kiếm đâm bên trong vảy đen cự ngạc lưng lân phiến, mũi kiếm trượt đi, vậy mà không thể một kiếm đâm xuyên.",
-      "dich": "Viên Minh làm sao có thể cho nó có cơ hội chạy trốn, tức tốc nắm chặt Thanh Ngư kiếm trong tay đồng thời quán chú pháp lực vào trong kiếm, dùng Súc Nguyên Tí tụ lực rồi hung hăng đâm xuống phía nó.",
+      "dich": "Thanh Ngư kiếm đâm trúng vảy trên lưng con cá sấu vảy đen, mũi kiếm trượt đi, không ngờ lại không thể một kiếm đâm xuyên.",
       "suggest": "Thanh Ngư kiếm sắc bén đâm vào vảy đen trên lưng con sói, mũi kiếm trượt đi, nhưng không thể một kiếm đâm xuyên qua.",
       "similarity": [
         [
-          44,
+          42,
           0.51
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Vảy đen cự ngạc bị đau, đuôi dài mãnh vung, làm thế nào đều đánh không trúng Viên Minh.",
-      "dich": "\"Kang\" một tiếng vang lên.",
+      "dich": "Cá sấu vảy đen bị đau, quật mạnh cái đuôi dài nhưng làm thế nào cũng không đánh trúng Viên Minh.",
       "suggest": "Con dao nhọn cực kỳ kinh khủng, cái đuôi dài vô cùng, làm thế nào mà đánh không trúng Viên Minh.",
       "similarity": [
         [
-          45,
+          43,
           0.19
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh gặp không cách nào phá giáp, trong lúc nhất thời cũng có chút ngoài ý muốn, nhìn thấy vảy đen cự ngạc còn tại lắc lư thân thể, hướng phía trong sông di động, lập tức cải biến kế hoạch.",
-      "dich": "Thanh Ngư kiếm đâm trúng vảy đen trên lưng con cá sấu, mũi kiếm trượt đi, không ngờ lại không thể một kiếm đâm xuyên.",
+      "dich": "Viên Minh thấy không thể phá vỡ vảy giáp, nhất thời cũng có chút ngạc nhiên, nhưng khi thấy nó vẫn đang lắc lư thân mình, lui dần vào trong sông, hắn lập tức cải biến kế hoạch.",
       "suggest": "Viên Minh thấy không còn cách nào phá giáp, trong lúc này cũng có chút bất ngờ, nhìn thấy vảy đen vẫn đang lắc lư thân thể, lập tức thay đổi kế hoạch.",
       "similarity": [
         [
-          46,
+          44,
           0.22
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Thân hình hắn lật một cái, từ hắn trên thân rơi xuống, thi triển Vô Ảnh Bộ, tránh ra cự ngạc đuôi dài quét ngang, một kiếm chém ngang mà ra, chém vào ở vảy đen cự ngạc một cái chân bên trên.",
-      "dich": "Cá sấu vảy đen bị đau, quật mạnh cái đuôi dài nhưng làm thế nào cũng không đánh trúng Viên Minh.",
+      "dich": "Hắn lật người một cái, từ trên người nó rơi xuống, đoạn thi triển Vô Ảnh Bộ tránh thoát cú quét từ cái đuôi cá sấu, xong lập tức vung kiếm chém ngang, trảm lên một chân con cá sấu vảy đen.",
       "suggest": "Thân hình lão lật một cái, từ trên người lão rơi xuống, thi triển Vô Ảnh Bộ, tránh cho cái đuôi dài màu đen của cự ngạc quét ngang, một kiếm chém ngang ra, chém lên một cái chân bị vảy đen che đi.",
       "similarity": [
         [
-          47,
+          45,
           0.25
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Trên người nó lân phiến không thể phá vỡ, trên đùi nhưng không có mạnh như vậy phòng hộ.",
-      "dich": "Viên Minh thấy không thể phá vỡ vảy giáp, nhất thời cũng có chút ngạc nhiên, nhưng khi thấy nó vẫn đang lắc lư thân mình, lui dần vào trong sông, hắn lập tức cải biến kế hoạch.",
+      "dich": "Không thể phá vỡ vảy giáp trên người nó, nhưng phần đùi lại không có sức phòng ngự tốt như vậy.",
       "suggest": "Lân phiến trên người nó không thể phá vỡ, trên đùi lại không có lực phòng hộ mạnh như vậy.",
       "similarity": [
         [
-          48,
+          46,
           0.24
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Một kiếm qua đi, huyết quang bắn ra, vết thương đã thấy xương.",
-      "dich": "Hắn lật người một cái, từ trên người nó rơi xuống, đoạn thi triển Vô Ảnh Bộ tránh thoát cú quét từ cái đuôi, xong lập tức vung kiếm chém ngang, trảm lên một chân con cá sấu vảy đen.",
+      "dich": "Một kiếm đi qua, huyết quang bắn ra để lộ vết thương sâu tới xương.",
       "suggest": "Một kiếm vừa đi, huyết quang bắn ra, vết thương đã thấy xương.",
       "similarity": [
         [
-          49,
+          47,
           0.31
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Vảy đen cự ngạc bị đau, muốn gào thét, trong miệng vẫn còn kẹp lấy một con lông đen lợn rừng, muốn ói nhả không ra, nghĩ nuốt nuốt không trôi, khó chịu vô cùng.",
-      "dich": "Không thể phá vỡ vảy giáp trên người nó, nhưng phần đùi lại không có sức phòng ngự tốt như vậy.",
+      "dich": "Cá sấu vảy đen bị đau muốn gào lên, nhưng miệng nó còn đang ngậm nguyên con lợn rừng lông đen, muốn nôn ra không được, muốn nuốt vào cũng không xong, vô cùng khó chịu.",
       "suggest": "Con dao nhọn chọc vào chỗ đau, muốn gào thét, nhưng trong miệng vẫn kẹp một con dao nhọn, muốn ói ra nhưng không được, đau đớn vô cùng.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Viên Minh chính là nhìn chuẩn điểm này, mới lựa chọn lúc này xuất thủ.",
-      "dich": "Một kiếm đi qua, huyết quang bắn ra để lộ vết thương sâu tới xương.",
+      "dich": "Viên Minh chính là nhìn ra điểm này mới chọn lúc này để ra tay.",
       "suggest": "Viên Minh thấy chuẩn nên mới chọn lúc này ra tay.",
       "similarity": [
         [
-          51,
+          49,
           0.25
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn linh xảo tránh thoát cự ngạc đuôi dài, thừa cơ lại hướng phía miệng vết thương của nó một kiếm chém ra.",
-      "dich": "Cá sâu bị đau muốn gào lên, nhưng miệng nó còn đang ngậm nguyên con lợn rừng lông đen, muốn nôn ra không được, muốn nuốt vào cũng không xong, vô cùng khó chịu.",
+      "dich": "Hắn linh hoạt tránh thoát cái đuôi cá sấu, tiếp đó lại tranh thủ chém thêm một kiếm lên miệng vết thương kia.",
       "suggest": "Hắn tinh ranh tránh thoát cái đuôi dài màu vàng của con khỉ, thừa cơ chém một kiếm về phía miệng vết thương.",
       "similarity": [
         [
-          52,
+          50,
           0.17
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Chỉ nghe \"Két\" một thanh âm vang lên, cự ngạc một cái chân trực tiếp bị hắn chặt đứt.",
-      "dich": "Viên Minh chính là nhìn ra điểm này mới chọn lúc này để ra tay.",
+      "dich": "Chỉ nghe một tiếng \"rặc\" vang lên, một chân cá sấu đã bị hắn chém đứt lìa.",
       "suggest": "Chỉ nghe \"Xuy\" một tiếng, một bàn chân lập tức bị hắn chặt đứt.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Vảy đen cự ngạc thống khổ vạn phần, một đôi ám tròng mắt màu vàng chớp động không thôi, chảy xuống nước mắt trong suốt.",
-      "dich": "Hắn linh hoạt tránh thoát cái đuôi cá sấu, tiếp đó lại tranh thủ chém thêm một kiếm lên miệng vết thương kia.",
+      "dich": "Cá sấu vảy đen vô cùng thống khổ, đôi tròng mắt màu vàng tối không ngừng chớp động, chảy ra nước mắt trong suốt.",
       "suggest": "Vảy đen kinh hãi vạn phần, hai tròng mắt màu vàng chớp động không ngừng, nước mắt liên tục chảy xuống.",
       "similarity": [
         [
-          54,
+          52,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Nó liều mạng thương thế, gia tốc hướng trong sông thối lui, Viên Minh thì là bắt chước làm theo, lại đưa nó khác một bên một cái chân chặt đứt.",
-      "dich": "Chỉ nghe một tiếng \"rặc\" vang lên, một chân cá sấu đã bị hắn chém đứt lìa.",
+      "dich": "Nó bất chấp thương thế, tăng tốc lui xuống sông, trong khi đó Viên Minh lại lặp lại hành động khi trước, tiếp tục chặt đứt một chân khác của nó.",
       "suggest": "Nó dốc sức liều mạng, chạy trốn vào trong sông, Viên Minh thì bắt chước theo, lại đưa chân trái của nó sang một bên rồi chặt đứt một đoạn.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Đoạn mất hai cái đùi vảy đen cự ngạc, cái này chính là nghĩ nhanh, cũng không nhanh được.",
-      "dich": "Cá sấu vô cùng thống khổ, đôi tròng mắt màu vàng tối không ngừng chớp động, chảy ra nước mắt trong suốt.",
+      "dich": "Con cá sấu vảy đen khổng lồ đã mất hai chân, giờ có muốn nhanh cũng không nhanh được.",
       "suggest": "Đoạn Tàn Tổ với hai cái đùi vảy đen kinh ngạc, cái này tưởng nhanh mà không tưởng được.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Viên Minh thì giống như là một cái đồ tể, không vội không chậm địa tránh đi kết thúc công kích, từng chút từng chút địa tách rời lấy vảy đen cự ngạc, cái sau lại hoàn toàn không làm gì được hắn.",
-      "dich": "Nó bất chấp thương thế, tăng tốc lui xuống sông, trong khi đó Viên Minh lại lặp lại hành động khi trước, tiếp tục chặt đứt một chân khác của nó.",
+      "dich": "Viên Minh giống y như một gã đồ tể, bình tĩnh tránh né từng đòn tấn công, đồng thời từng bước cắt rời từng phần thân thể cá sấu vảy đen mà nó lại chẳng làm gì được hắn.",
       "suggest": "Viên Minh giống như một con đồ tể, không vội không chậm tránh né công kích, từng chút từng chút tách rời khỏi vảy đen, những cái sau hắn hoàn toàn không làm gì được hắn.",
       "similarity": [
         [
-          57,
+          55,
           0.17
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Ước chừng sau nửa canh giờ, tứ chi đứt đoạn vảy đen cự ngạc nửa người đã lui vào trong nước sông, có thể nó một con mắt ở bên trong lại cắm một thanh trường kiếm bằng đồng thau.",
-      "dich": "Con cá sấu khổng lồ đã mất hai chân, giờ có muốn nhanh cũng không nhanh được.",
+      "dich": "Sau chừng nửa canh giờ, con cá sấu vảy đen khổng lồ đứt bốn chân đã lui được nửa người vào trong nước, nhưng bên trong một con mắt của nó lại có thêm một thanh trường kiếm bằng đồng.",
       "suggest": "Khoảng nửa canh giờ sau, tứ chi vảy đen nửa người đã thụt vào trong nước sông, nhưng một con mắt khác lại cắm một thanh trường kiếm bằng đồng thau.",
       "similarity": [
         [
@@ -596,125 +653,137 @@
           0.18
         ],
         [
-          58,
+          56,
           0.23
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Thanh Ngư kiếm một mực từ con mắt của nó, xuyên vào trong đầu của nó, triệt để đoạn tuyệt nó sinh cơ.",
-      "dich": "Viên Minh giống y như một gã đồ tể, bình tĩnh tránh né từng đòn tấn công, đồng thời từng bước cắt rời từng phần thân thể cá sấu mà nó lại chẳng làm gì được hắn.",
+      "dich": "Thanh Ngư kiếm từ mắt nó xuyên thẳng vào tận trong đầu, chấm dứt sinh mệnh của nó.",
       "suggest": "Thanh Ngư Kiếm trong con mắt nó nhanh chóng lọt vào trong đầu nó, triệt để đoạn tuyệt sinh cơ của nó.",
       "similarity": [
         [
-          59,
+          57,
           0.1
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh thì là ngồi ở một bên, lồng ngực chập trùng, miệng lớn thở hổn hển.",
-      "dich": "Sau chừng nửa canh giờ, con cá sấu khổng lồ đứt bốn chân đã lui được nửa người vào trong nước, nhưng bên trong một con mắt của nó lại có thêm một thanh trường kiếm bằng đồng.",
+      "dich": "Viên Minh ngồi ở bên cạnh, lồng ngực chập trùng, há miệng thở hổn hển.",
       "suggest": "Viên Minh thì ngồi một bên, lồng ngực phập phồng, miệng lớn thở dốc.",
       "similarity": [
         [
-          60,
+          58,
           0.12
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Lấy hắn thực lực hôm nay, đơn độc săn giết một con vừa mới đạt tới một cấp thượng giai thực lực hung thú vẫn có chút khó khăn, thậm chí phong hiểm không nhỏ, lần này xem như làm đủ chuẩn bị, mưu lợi phía dưới mới lấy thành công.",
-      "dich": "Thanh Ngư kiếm từ mắt nó xuyên thẳng vào tận trong đầu, chấm dứt sinh mệnh của nó.",
+      "dich": "Lấy thực lực hiện tại của hắn, một mình săn giết một con hung thú vừa đạt tới cấp một bậc cao vẫn tương đối khó khăn, thậm chí khá nguy hiểm, lần này xem như có chuẩn bị đầy đủ, lại biết lợi dụng thời cơ mới có thể thành công.",
       "suggest": "Với thực lực của hắn hiện giờ, muốn săn giết một con hung thú vừa mới đạt tới cảnh giới thượng giai vẫn có chút khó khăn, thậm chí phong hiểm không nhỏ. Lần này xem như đã chuẩn bị đủ điều kiện, mưu lợi phía dưới mới có thể thành công.",
       "similarity": [
         [
-          61,
+          59,
           0.31
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Nghỉ ngơi một lát sau, hắn từ cự ngạc phần bụng bắt đầu tách rời, đem nó cả trương da cá sấu lột xuống tới.",
-      "dich": "Viên Minh ngồi ở bên cạnh, lồng ngực chập trùng, há miệng thở hổn hển.",
+      "dich": "Sau chốc lát nghỉ ngơi, hắn liền rạch bụng con cá sấu rồi lột toàn bộ da của nó xuống.",
       "suggest": "Nghỉ ngơi được một lát, phần bụng hắn bắt đầu tách rời, lột da con cá sấu kia ra khỏi da.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Thứ này thế nhưng là luyện chế nhuyễn giáp thượng đẳng vật liệu, có phần bị Bích La Động đám ký danh đệ tử bọn họ hoan nghênh.",
-      "dich": "Lấy thực lực hiện tại của hắn, một mình săn giết một con hung thú vừa đạt tới cấp một bậc cao vẫn tương đối khó khăn, thậm chí khá nguy hiểm, lần này xem như có chuẩn bị đầy đủ, lại biết lợi dụng thời cơ mới có thể thành công.",
+      "dich": "Thứ này trông vậy nhưng lại chính là một trong những loại tài liệu để chế tạo nhuyễn giáp, được đám đệ tử ký danh Bích La Động khá hoan nghênh.",
       "suggest": "Thứ này chính là vật liệu luyện chế nhuyễn giáp thượng đẳng, rất được đám ký danh đệ tử Bích La Động cực kỳ hoan nghênh.",
       "similarity": [
         [
-          63,
+          61,
           0.12
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn được cạo một chút cá sấu nhục về sau, từ trong cơ thể của nó tìm được lần này thu hoạch lớn nhất, một lớn chừng bằng trái long nhãn \"Huyết Hoàn\".",
-      "dich": "Sau chốc lát nghỉ ngơi, hắn liền rạch bụng con cá sấu rồi lột toàn bộ da của nó xuống.",
+      "dich": "Sau khi lóc được một phần thịt cá sấu, hắn tìm được từ trong người nó vật quan trọng nhất lần này, một viên \"Huyết hoàn\" to bằng quả nhãn.",
       "suggest": "Hắn rửa sạch sẽ con cá sấu, sau đó tìm kiếm một thu hoạch lớn nhất từ trong cơ thể con này, một quả to cỡ quả long nhãn, lớn chừng bằng một quả long nhãn.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Sau khi thu thập xong, Viên Minh mang theo chiến lợi phẩm của hắn, quay trở về khoảng cách tương đối gần chỗ kia tạm thời chỗ giờ.",
-      "dich": "Thứ này trông vậy nhưng lại chính là một trong những loại tài liệu để chế tạo nhuyễn giáp, được đám đệ tử ký danh Bích La Động khá hoan nghênh.",
+      "dich": "Sau khi thu dọn xong xuôi, Viên Minh mang theo chiến lợi phẩm, trở về cứ điểm tạm thời cách đó không xa.",
       "suggest": "Sau khi thu thập xong, Viên Minh mang theo chiến lợi phẩm của mình trở lại chỗ ở khoảng cách tương đối gần đó.",
       "similarity": [
         [
-          65,
+          63,
           0.34
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Trong đêm, hắn ở nhà trên cây hạ dâng lên đống lửa, đem cá sấu nhục mặc thành xuyên, gác ở trên đống lửa đồ nướng, theo dầu trơn chảy ra, một cỗ mùi thơm mê người lập tức ở bốn phía tràn ngập.",
-      "dich": "Sau khi lóc được một phần thịt cá sấu, hắn tìm được từ trong người nó vật quan trọng nhất lần này, một viên \"Huyết hoàn\" to bằng quả nhãn.",
+      "dich": "Trong đêm, hắn nhóm một đống lửa trong gian nhà trên cây, sau đó lại xuyên thịt cá sấu thành xiên rồi nướng trên đống lửa, rất nhanh một mùi thơm mê người tỏa ra khắp xung quanh.",
       "suggest": "Đêm hôm đó, hắn ở trên cây hạ thắp lên đống lửa, bắt con cá sấu mang về nhà nướng lên trên đống lửa, sau đó từ dầu trơn chảy ra từ đống lửa, một mùi thơm mê người lập tức tràn ngập bốn phía.",
       "similarity": [
         [
-          66,
+          64,
           0.18
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Trải qua những ngày qua đến nay ma luyện, Viên Minh sớm đã không phải cái kia yếu đuối thú nhỏ nô, không nói luyện khí tầng năm tu vi ở rất nhiều phi mao thú nô bên trong đã tập trung thượng đẳng, đơn thuần đối địch ứng biến cùng đi săn kinh nghiệm, cũng đã là ngay trong bọn họ người nổi bật.",
-      "dich": "Sau khi thu dọn xong xuôi, Viên Minh mang theo chiến lợi phẩm, trở về cứ điểm tạm thời cách đó không xa.",
+      "dich": "Trải qua những ngày tháng không ngừng tôi luyện này, hắn đã sớm không còn là tên thú nô nhỏ bé yếu đuối kia nữa, không nói tu vi Luyện Khí tầng năm đã thuộc tầng cao nhất trong đám Phi Mao thú nô đông đảo, chỉ tính kinh nghiệm đi săn và khả năng ứng biến khi đối địch cũng là người nổi bật trong đám bọn họ.",
       "suggest": "Trải qua mấy ngày luyện khí, Viên Minh đã không còn là một con thú nhỏ yếu đuối như ngày xưa nữa, cho dù tu vi luyện khí tầng năm đã không còn thấp bé như những con thỏ con, nhưng kinh nghiệm đối địch với những phi Mao thú nô cũng đã là nổi bật trong đám bọn họ rồi.",
       "similarity": [
         [
-          67,
+          65,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn đã sớm ở bốn phía bố trí xong các loại cạm bẫy, cho nên cũng không lo lắng ánh lửa cùng mùi thịt sẽ dẫn tới hung thú khác, ngược lại là thật có tự chui đầu vào lưới, hắn cũng vui vẻ vu lại thu mấy phần huyết thực.",
-      "dich": "Trong đêm, hắn nhóm một đống lửa trong gian nhà trên cây, sau đó lại xuyên thịt cá sấu thành xiên rồi nướng trên đống lửa, rất nhanh một mùi thơm mê người tỏa ra khắp xung quanh.",
+      "dich": "Hắn đã sớm bố trí chu đáo các loại cạm bẫy khắp bốn phía, thế nên không cần lo lắng ánh lửa và mùi thịt nướng sẽ thu hút hung thú tới, trái lại nếu có thật thì cũng chính là chui đầu vào rọ, hắn sẽ vui vẻ thu thêm mấy phần huyết thực.",
       "suggest": "Hắn đã sớm bố trí xong các loại bẫy ở bốn phía, cho nên cũng không lo lắng ánh lửa và mùi thịt sẽ dẫn tới hung thú khác, trái lại nếu thực sự có thể chui đầu vào lưới, hắn cũng vui vẻ thu lại vài phần máu thịt.",
       "similarity": [
         [
-          68,
+          66,
           0.29
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Trải qua trong khoảng thời gian này điên cuồng tích lũy, máu của hắn thực số định mức đã tích lũy được không sai biệt lắm, tính cả hôm nay thu hoạch, khoảng cách một ngàn bản mục tiêu cũng chỉ còn lại không tới bốn trăm phần.",
-      "dich": "Trải qua những ngày tháng không ngừng tôi luyện này, hắn đã sớm không còn là tên thú nô nhỏ bé yếu đuối kia nữa, không nói tu vi Luyện Khí tầng năm đã thuộc tầng cao nhất trong đám Phi Mao thú nô đông đảo, chỉ tính kinh nghiệm đi săn và khả năng ứng biến khi đối địch cũng là người nổi bật trong đám bọn họ.",
+      "dich": "Trải qua khoảng thời gian điên cuồng góp nhặt này, số huyết thực tích lũy vượt định mức của hắn đã không còn thiếu quá nhiều, tính đến thời điểm này, chỉ cần thêm chưa đến bốn trăm phần nữa là có thể đạt tới mục tiêu một ngàn phần huyết thực.",
       "suggest": "Trải qua thời gian điên cuồng tích lũy, số lượng máu của hắn đã tích lũy được cũng không sai biệt lắm, tính cả ngày hôm nay, mục tiêu của hắn cũng chỉ còn lại không tới bốn trăm phần.",
       "similarity": [
         [
-          69,
+          67,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Vừa nghĩ tới sắp có thể thoát ly phi mao thú nô thân phận, tiến vào Bích La Động tông môn, Viên Minh liền tâm tình thật tốt.",
-      "dich": "Hắn đã sớm bố trí chu đáo các loại cạm bẫy khắp bốn phía, thế nên không cần lo lắng ánh lửa và mùi thịt nướng sẽ thu hút hung thú tới, trái lại nếu có thật thì cũng chính là chui đầu vào rọ, hắn sẽ vui vẻ thu thêm mấy phần huyết thực.",
+      "dich": "Vừa nghĩ tới việc sắp thoát khỏi thân phận Phi Mao thú nô, tiến vào tông môn Bích La Động, tâm tình Viên Minh liền tốt hẳn lên.",
       "suggest": "Vừa nghĩ tới sắp có thể thoát khỏi thân phận Phi Mao thú nô, tiến vào Bích La động tông môn, Viên Minh liền tâm tình thật tốt.",
       "similarity": [
         [
@@ -722,120 +791,132 @@
           0.12
         ],
         [
-          70,
+          68,
           0.48
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Phải biết, mặc dù hắn thông qua giấu tại cánh tay thần bí lư hương tới áp chế thi triển Phi Mao Thuật mang tới phản phệ, nhưng hiệu quả lại càng ngày càng yếu, thậm chí xuất hiện qua kém chút thần chí sụp đổ tình hình.",
-      "dich": "Trải qua khoảng thời gian điên cuồng góp nhặt này, số huyết thực tích lũy vượt định mức của hắn đã không còn thiếu quá nhiều, tính đến thời điểm này, chỉ cần thêm chưa đến bốn trăm phần nữa là có thể đạt tới mục tiêu một ngàn phần huyết thực.",
+      "dich": "Phải biết, dù hắn dựa vào lư hương thần bí ẩn dưới cánh tay phải để áp chế phản phệ do Phi Mao thuật mang đến, nhưng hiệu quả càng lúc càng yếu, thậm chí từng xuất hiện tình huống thần chí suýt sụp đổ.",
       "suggest": "Phải biết rằng, mặc dù hắn thông qua lư hương thần bí giấu ở cánh tay thần bí áp chế thi triển Thuật Phi Mao, nhưng hiệu quả lại càng ngày càng yếu, thậm chí xuất hiện tình huống thần chí sụp đổ hoàn toàn.",
       "similarity": [
         [
-          71,
+          69,
           0.32
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Lưu cho thời gian của hắn không nhiều lắm.",
-      "dich": "Vừa nghĩ tới việc sắp thoát khỏi thân phận Phi Mao thú nô, tiến vào tông môn Bích La Động, tâm tình Viên Minh liền tốt hẳn lên.",
+      "dich": "Thời gian dành cho hắn không nhiều.",
       "suggest": "Thời gian của hắn không còn nhiều lắm.",
       "similarity": [
         [
-          72,
+          70,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh từ bên cạnh đống lửa gỡ xuống một nhanh nướng đến tư tư bốc lên dầu cá sấu nhục, đang muốn cắn một cái lúc, nơi xa bỗng nhiên truyền đến một hồi tiếng va chạm vang lên.",
-      "dich": "Phải biết, dù hắn dựa vào lư hương thần bí ẩn dưới cánh tay phải để áp chế phản phệ do Phi Mao thuật mang đến, nhưng hiệu quả càng lúc càng yếu, thậm chí từng xuất hiện tình huống thần chí suýt sụp đổ.",
+      "dich": "Viên Minh gỡ một xiên thịt cá sấu nướng chảy mỡ xèo xèo trên đống lửa xuống, đang định cắn một miếng, bỗng nghe có một hồi những tiếng va chạm từ phía xa xa truyền tới.",
       "suggest": "Viên Minh vội vàng gỡ miếng thịt cá sấu đang bốc mùi hăng hăng ra, định cắn một cái thì bỗng nhiên từ xa truyền đến một hồi tiếng va chạm.",
       "similarity": [
         [
-          73,
+          71,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Thật là có hung thú đuổi theo...\"",
-      "dich": "Thời gian dành cho hắn không nhiều.",
+      "dich": "\"Thật có hung thú đuổi đến ...\"",
       "suggest": "\"Thật là có hung thú đuổi theo...\"",
       "similarity": [
         [
-          74,
+          72,
           0.26
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh cắn xuống một ngụm nhục nhai nuốt lấy, đem còn lại cắm trở về trên mặt đất, đứng dậy rút kiếm hướng phía thanh âm nơi phát ra phương hướng tiến đến.",
-      "dich": "Viên Minh gỡ một xiên thịt cá sấu nướng chảy mỡ xèo xèo trên đống lửa xuống, đang định cắn một miếng, bỗng nghe có một hồi những tiếng va chạm từ phía xa xa truyền tới.",
+      "dich": "Viên Minh cắn một miếng thịt, nhai nuốt xong cắm phần còn dư xuống đất, đoạn đứng dậy rút kiếm, cất bước tiến về phía phát ra âm thanh.",
       "suggest": "Viên Minh nuốt một ngụm thịt chuột nhỏ, sau đó cắm miếng thịt chuột còn lại vào mặt đất, đứng dậy rút kiếm hướng về phía âm thanh phát ra.",
       "similarity": [
         [
-          75,
+          73,
           0.14
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Mượn u ám ánh trăng, Viên Minh nhìn thấy bản thân bố trí cạm bẫy đã trở nên rối tinh rối mù.",
-      "dich": "\"Thật có hung thú đuổi đến ...\"",
+      "dich": "Nhờ ánh trăng mờ mờ, Viên Minh nhìn thấy cạm bẫy hắn bố trí đã biến thành một mớ hỗn loạn.",
       "suggest": "Dưới ánh trăng mờ mịt, Viên Minh thấy rõ ràng những cạm bẫy mình bố trí đã trở nên rối tinh rối mù.",
       "similarity": [
         [
-          76,
+          74,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Đào móc địa hố bên trên, đan xen chất đống bốn cái nạo đầu nhọn gỗ tròn, phía dưới thì là một trương gân thú bện bắt lưới, đem toàn bộ hố lõm bao trùm.",
-      "dich": "Viên Minh cắn một miếng thịt, nhai nuốt xong cắm phần còn dư xuống đất, đoạn đứng dậy rút kiếm, cất bước tiến về phía phát ra âm thanh.",
+      "dich": "Trên hố đào, bốn khúc cây tròn đầu vót nhọn xếp chồng chéo, bên dưới là tấm lưới đan từ gân thú trùm kín cả hố.",
       "suggest": "Bên trên hố sâu là chi chít chằng chịt những cái đầu nhọn, bên dưới là một cái lưới được bện từ gỗ tròn, bên dưới là một cái lưới được bện bằng dây thừng, bao phủ hoàn toàn hố lõm.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Viên Minh đi ra phía trước, nhìn thấy hai cái gỗ tròn đã đứt gãy, tấm kia cứng cỏi vô cùng bắt lưới cũng bị giật ra một đường vết rách.",
-      "dich": "Nhờ ánh trăng mờ mờ, Viên Minh nhìn thấy cạm bẫy hắn bố trí đã biến thành một mớ hỗn loạn.",
+      "dich": "Viên Minh bước tới trước, nhìn hai khúc cây đã gãy đôi, tấm lưới vô cùng bền chắc kia cũng bị kéo rách một đường.",
       "suggest": "Viên Minh bước tới trước nhìn thấy hai tấm gỗ tròn đã gãy lìa, tấm lưới cứng cỏi vô cùng kia cũng bị rách một đường.",
       "similarity": [
         [
-          78,
+          76,
           0.33
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Phía dưới hố lõm ở bên trong thì có một cái bóng, ngay tại táo bạo địa trái đột phải hướng, phát ra từng đợt tiếng vang trầm trầm.",
-      "dich": "Trên hố đào, bốn khúc cây tròn đầu vót nhọn xếp chồng chéo, bên dưới là tấm lưới đan từ gân thú trùm kín cả hố.",
+      "dich": "Dưới đáy hố bẫy có một bóng đen đang điên cuồng đâm trái húc phải, miệng không ngừng phát ra những tiếng gầm gừ trầm thấp.",
       "suggest": "Trong hố lõm phía dưới là một bóng người khác, ngay tại chỗ táo bạo đột trái, phát ra từng tràng những tiếng trầm trầm trầm đục.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Mờ tối tia sáng để hắn nhất thời khó mà thấy rõ phía dưới tình trạng, Viên Minh liền gãy phản cử đi một cây lửa cháy củi đi trở về.",
-      "dich": "Viên Minh bước tới trước, nhìn hai khúc cây đã gãy đôi, tấm lưới vô cùng bền chắc kia cũng bị kéo rách một đường.",
+      "dich": "Ánh sáng nhập nhoạng khiến hắn nhất thời khó mà thấy rõ tình huống dưới đáy hố, Viên Minh liền trỏ ngược một cây củi đang cháy xuống dưới.",
       "suggest": "Trong lúc mờ tối khiến cho hắn không thể nhìn rõ tình hình phía dưới, Viên Minh liền nhảy ra khỏi đám mây đen kịt rồi lao về phía đống củi cháy hừng hực.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Mượn củi ánh lửa, hắn nhìn thấy cái hố phía dưới, đang đứng một con thân hình cao lớn Thanh Lang.",
-      "dich": "Dưới đáy hố bẫy có một bóng đen đang điên cuồng đâm trái húc phải, miệng không ngừng phát ra những tiếng gầm gừ trầm thấp.",
+      "dich": "Nương theo ánh lửa, hắn thấy một con sói xanh thân hình cao lớn đang đứng dưới đáy hố.",
       "suggest": "Dưới ánh lửa bập bùng, hắn nhìn thấy một cái hố phía dưới, đang đứng một con sói xanh thân hình cao lớn.",
       "similarity": [
         [
-          81,
+          79,
           0.36
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"A...\"",
-      "dich": "Ánh sáng nhập nhoạng khiến hắn nhất thời khó mà thấy rõ tình huống dưới đáy hố, Viên Minh liền trỏ ngược một cây củi đang cháy xuống dưới.",
+      "dich": "\"Ồ...\"",
       "suggest": "\"Nga...\"",
       "similarity": [
         [
@@ -843,51 +924,48 @@
           0.1
         ],
         [
-          82,
+          80,
           0.13
         ],
         [
-          85,
+          83,
           0.19
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh nhìn kỹ một chút, đáy mắt bỗng nhiên hiện lên một tia nghi hoặc.",
-      "dich": "Nương theo ánh lửa, hắn thấy một con sói xanh thân hình cao lớn đang đứng dưới đáy hố.",
+      "dich": "Viên Minh cẩn thận đưa mắt quan sát, đáy mắt bỗng toát lên nét nghi hoặc.",
       "suggest": "Viên Minh nhìn kỹ một chút, đáy mắt bỗng nhiên hiện lên chút nghi hoặc.",
       "similarity": [
         [
-          83,
+          81,
           0.22
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Đáy hố cái này Thanh Lang bộ dáng có chút cổ quái, nó không phải tứ chi chạm đất nằm rạp trên mặt đất, mà là chỉ dùng chi sau đứng thẳng, hai trảo thì tại không ngừng hướng phía hai bên hố bích đào đất.",
-      "dich": "\"Ồ...\"",
+      "dich": "Bộ dáng sói xanh dưới hố này hơi cổ quái, nó không dùng tứ chi nằm trên mặt đất mà đứng bằng hai chân sau, hai bộ móng vuốt ở hai chi trước không ngừng cào cấu lên vách hố.",
       "suggest": "Hình dáng con sói này có chút cổ quái, nó không phải tứ chi chạm đất nằm sấp trên mặt đất, mà là chỉ dùng chi sau đứng thẳng, hai trảo liên tục đào đất xung quanh.",
       "similarity": [
         [
-          84,
+          82,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Rống... Tê tê...\"",
-      "dich": "Viên Minh cẩn thận đưa mắt quan sát, đáy mắt bỗng toát lên nét nghi hoặc.",
+      "dich": "\"À uuuu...\"",
       "suggest": "\"Rống...rống...\"",
-      "similarity": []
-    },
-    {
-      "dich": "Bộ dáng sói xanh dưới hố này hơi cổ quái, nó không dùng tứ chi nằm trên mặt đất mà đứng bằng hai chân sau, hai bộ móng vuốt ở hai chi trước không ngừng cào cấu lên vách hố."
-    },
-    {
-      "dich": "\"À uuuu...\""
-    },
-    {
-      "dich": "Trong lúc vung trảo, nó thỉnh thoảng lại phát ra những tiếng gầm gừ như tắc họng, như thể nó đang vô cùng đau đớn."
+      "similarity": [],
+      "approved": true
     }
-  ]
+  ],
+  "currentWorkingLine": 84,
+  "changed": true
 }
