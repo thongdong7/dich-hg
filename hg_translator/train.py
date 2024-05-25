@@ -229,6 +229,11 @@ if exists(model_dir):
     print(f"Removing {model_dir}...")
     shutil.rmtree(model_dir)
 
+# Remove model zip if exists
+if exists(f"{model_dir}.zip"):
+    print(f"Removing {model_dir}.zip...")
+    os.remove(f"{model_dir}.zip")
+
 # Zip the model_dir and save to repo_dir
 print(f"Saving model to {model_dir}.zip...")
 shutil.make_archive(model_dir, "zip", model_dir)
