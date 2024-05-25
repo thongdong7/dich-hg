@@ -19,6 +19,8 @@ import numpy as np
 
 # Save the start time to measure execution time of the script
 import time
+
+from hg_translator.dataset import get_full_dataset, get_sample_dataset
 from .model_config import (
     model_name,
     num_train_epochs,
@@ -75,13 +77,15 @@ def gen():
                         }
 
 
-ds = Dataset.from_generator(gen)
+# ds = get_sample_dataset()
+ds = get_full_dataset()
 train_test_data = ds.train_test_split(
     test_size=0.2
 )  # 80% for training, 20% for testing
 train_val_data = train_test_data["train"].train_test_split(
     test_size=0.25
 )  # 75% of 80% for training, 25% of 80% for validation
+
 
 train_data = train_val_data["train"]
 val_data = train_val_data["test"]
@@ -225,17 +229,21 @@ if exists(model_dir):
     print(f"Removing {model_dir}...")
     shutil.rmtree(model_dir)
 
+# Zip the model_dir and save to repo_dir
+print(f"Saving model to {model_dir}.zip...")
+shutil.make_archive(model_dir, "zip", model_dir)
+
 trainer.save_model(model_dir)
 
-print("Remove run directly to save space...")
-if exists(join(model_dir, "runs")):
-    shutil.rmtree(join(model_dir, "runs"))
+# print("Remove run directly to save space...")
+# if exists(join(model_dir, "runs")):
+#     shutil.rmtree(join(model_dir, "runs"))
 
-print("Remove all checkpoint-xxx folders in the model directory...")
-for file in os.listdir(model_dir):
-    if file.startswith("checkpoint-"):
-        print(f"Removing {model_name}/{file}...")
-        shutil.rmtree(join(model_dir, file))
+# print("Remove all checkpoint-xxx folders in the model directory...")
+# for file in os.listdir(model_dir):
+#     if file.startswith("checkpoint-"):
+#         print(f"Removing {model_name}/{file}...")
+#         shutil.rmtree(join(model_dir, file))
 
 print("Training time: {:.2f} seconds".format(time.time() - start))
 print(f"Test results: {eval_result}")
