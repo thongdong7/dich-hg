@@ -1,4 +1,5 @@
 {
+  "currentLine": 46,
   "next": {
     "id": 9,
     "title": "Chương 9: Tượng Giáp công"
@@ -11,8 +12,8 @@
     "id": 7,
     "title": "Chương 7: Tu luyện gian khổ"
   },
-  "currentWorkingLine": 46,
-  "approved": true,
+  "currentWorkingLine": 47,
+  "approved": false,
   "lines": [
     {
       "convert": "Trải qua gần nửa năm điên cuồng tu hành sau, Hàn Lập chung quy đứng tại Mặc Đại Phu trước mặt tiếp nhận Mặc Đại Phu khảo thí",
@@ -26,7 +27,7 @@
     },
     {
       "convert": "Hàn Lập biết rõ Trương Thiết đối này khẩu quyết tu luyện nghiêm túc trình độ tịnh không dưới cùng chính mình, hắn tuy rằng so ra kém chính mình cỗ kia không muốn sống điên cuồng kình, nhưng tại đây thượng diện sở hạ công phu cũng không tính ít, tuyệt đối được xưng tụng là tận tận tụy tụy, cần cần cù cù rồi",
-      "dich": "Hàn Lập biết rằng Trương Thiết bỏ sức tu luyện đối với bộ khẩu quyết vô danh này tuyệt đối không kém hắn, có khi còn điên cuồng hơn cả Hàn Lập. Chính là trên phương diên chăm chỉ luyện tập này, Trương Thiết có thể nói là vô cùng tập trung sức lực và trí lực",
+      "dich": "Hàn Lập biết rằng Trương Thiết bỏ sức tu luyện đối với bộ khẩu quyết vô danh này tuyệt đối không kém mình, có khi còn điên cuồng hơn, trên phương diện chăm chỉ luyện tập này, có thể nói là hết lòng hết sức",
       "approved": true
     },
     {
@@ -55,8 +56,13 @@
       "approved": true
     },
     {
-      "convert": "\"Đều chuẩn bị hảo rồi a, đem các ngươi tu hành thành quả bày ra cho ta xem một chút a.\" Mặc Đại Phu nheo lại cặp mắt, làm tại trên ghế thái sư lạnh lùng nhìn hai người này",
-      "dich": "\"Tất cả đều chuẩn bị tốt chứ? Đem thành quả tu hành của hai ngươi triển hiện cho ta xem nào.\" Mặc Đại Phu nheo nheo hai mắt, ngồi trên ghế thái sư, lạnh nhạt quan sát hai người",
+      "convert": "\"Đều chuẩn bị hảo rồi a, đem các ngươi tu hành thành quả bày ra cho ta xem một chút a.\"",
+      "dich": "\"Tất cả đều chuẩn bị tốt chứ? Đem thành quả tu hành của hai ngươi triển hiện cho ta xem nào.\"",
+      "approved": true
+    },
+    {
+      "convert": "Mặc Đại Phu nheo lại cặp mắt, làm tại trên ghế thái sư lạnh lùng nhìn hai người này",
+      "dich": "Mặc Đại Phu nheo nheo hai mắt, ngồi trên ghế thái sư, lạnh nhạt quan sát hai người",
       "approved": true
     },
     {
@@ -81,12 +87,12 @@
     },
     {
       "convert": "Mặc Đại Phu một cái tay trảo lấy Trương Thiết tay phải mạch môn, lệnh một cái tay phóng tới Trương Thiết đan điền phía trên",
-      "dich": "Mặc Đại Phu một tay bắt lấy mạch môn trên tay phải của Trương Thiết, một tay áp vào đan điền của hắn",
+      "dich": "Mặc Đại Phu một tay bắt lấy mạch môn trên tay phải của Trương Thiết, một tay áp vào trên đan điền của Trương Thiết",
       "approved": true
     },
     {
       "convert": "Qua rồi một chén trà công phu, mới đem song thủ theo Trương Thiết thân thượng thu trở lại, mặt không biểu tình tử tế thượng hạ dò xét một phen Trương Thiết",
-      "dich": "Qua một thời gian uống một chén trà lão mới thu hai tay về, mặt không biểu tình đánh giá Trương Thiết một lúc",
+      "dich": "Qua một thời gian uống một chén trà mới thu hai tay  trên người Trương Thiết về, mặt không biểu tình chăm chú đánh giá Trương Thiết từ trên xuống dưới một phen",
       "approved": true
     },
     {
@@ -116,12 +122,12 @@
     },
     {
       "convert": "Mặc Đại Phu thủ thượng làn da có chút khô ráo, còn che kín vết chai, đâm vào Hàn Lập làn da thượng hơi hơi có điểm đau đớn, đây là Hàn Lập bị Mặc Đại Phu tay trảo lấy đệ nhất cảm giác",
-      "dich": "Da tay Mặc Đại Phu có chút khô héo, nhăn nheo, khi nắm lấy tay Hàn Lập lại khiến hắn có chút đau đớn, đây là lần đầu tiên hắn bị Mặc Đại Phu bắt lấy tay",
+      "dich": "Da tay Mặc Đại Phu có chút khô héo, nhăn nheo, khi nắm lấy tay Hàn Lập lại khiến hắn có chút đau đớn, đây là lần đầu tiên Hàn Lập bị Mặc Đại Phu bắt lấy tay",
       "approved": true
     },
     {
       "convert": "Có lẽ là nhận lấy ngoại lai kích thích, Hàn Lập thể nội năng lượng không đợi Hàn Lập chính mình vận dụng tựu tự hành vận hành khởi lai, thuận theo kỳ kinh bát mạch, thông qua quanh thân các nơi huyệt đạo, theo đan điền hướng đầu bộ, lại hướng tứ chi, cực nhanh vận hành một vòng, lại quay trở về đan điền",
-      "dich": "Có lẽ do bị từ bên ngoài kích thích, luồng năng lượng trong cơ thể không chờ Hàn Lập điều khiển mà đã tự vận hành, thuận theo kỳ kinh bát mạch, thông qua các huyệt đạo trên khắp cơ thể. Từ đan điền đến bách hội, lại quay lại tứ chi, nhanh chóng vận hành hết vòng thứ nhất rồi sau đó quay trở lại đan điền",
+      "dich": "Có lẽ do bị từ bên ngoài kích thích, luồng năng lượng trong cơ thể Hàn Lập không chờ chính Hàn Lập điều khiển mà đã tự vận hành, thuận theo kỳ kinh bát mạch, thông qua các huyệt đạo trên khắp cơ thể. Từ đan điền đến bách hội, lại quay lại tứ chi, nhanh chóng vận hành hết vòng thứ nhất rồi sau đó quay trở lại đan điền",
       "approved": true
     },
     {
@@ -166,7 +172,7 @@
     },
     {
       "convert": "Hàn Lập trong tai càng không ngừng truyền đến Mặc Đại Phu một tiếng tiếp một tiếng hắc hắc tiếng cười to, cảm thấy hai vai bị bắt có điểm nhức, lại nhìn thấy hắn trên mặt bộc lộ điên cuồng thần sắc, tâm lý không khỏi sợ hãi khởi lai",
-      "dich": "Bên tai Hàn Lập không ngừng truyền đến tiếng cười của Mặc Đại Phu, cảm thấy hai vai bị nắm có điểm đau đau. Giờ nhìn lại thần sắc có phần điên cuồng của Mặc lão, trong lòng hắn không nhịn khỏi có chút bất an",
+      "dich": "Bên tai Hàn Lập không ngừng truyền đến tiếng cười của Mặc Đại Phu, cảm thấy hai vai bị nắm có điểm đau đau. Giờ nhìn lại thần sắc có phần điên cuồng của hắn, trong lòng không nhịn khỏi có chút bất an",
       "approved": true
     },
     {
@@ -176,7 +182,7 @@
     },
     {
       "convert": "\"Về sau cũng muốn giống như bây giờ nỗ lực, từ nay trở đi, ngươi chính là ta thân truyền đệ tử rồi.\" Hắn buông ra song thủ, lại vỗ vỗ Hàn Lập đầu vai lấy bày khích lệ",
-      "dich": "\"Sau này cũng phải giống như bây giờ, phải liên tục nỗ lực. Kể từ hôm nay, ngươi chính thức trở thành đệ tử thân truyền của ta.\" Lão phóng khai song thủ, rồi vỗ vỗ lên đầu Hàn Lập cổ vũ",
+      "dich": "\"Sau này cũng phải giống như bây giờ, phải liên tục nỗ lực. Kể từ hôm nay, ngươi chính thức trở thành đệ tử thân truyền của ta.\" Hắn phóng khai song thủ, rồi vỗ vỗ lên đầu Hàn Lập cổ vũ",
       "approved": true
     },
     {
@@ -244,5 +250,6 @@
       "dich": "Hai người Hàn Lập liếc mắt nhìn đối phương, đều cảm giác được hôm nay quá quan có phần may mắn, đúng là phong hồi lộ chuyển. Hơn nữa hai người đồng loạt quá quan, điều này khiến cho cả hai đều thấy vui mừng",
       "approved": true
     }
-  ]
+  ],
+  "changed": true
 }

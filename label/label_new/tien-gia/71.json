@@ -1,4 +1,5 @@
 {
+  "currentLine": 118,
   "next": {
     "id": 72,
     "title": "Chương 72: Thân cận"
@@ -15,1934 +16,718 @@
     {
       "convert": "\"Mới nhập tông môn nửa tháng?",
       "dich": "\"Mới vào tông môn nửa tháng?",
-      "suggest": "\"Mới nhập tông môn nửa tháng?",
-      "similarity": [
-        [
-          0,
-          0.59
-        ]
-      ]
+      "suggest": "\"Mới nhập tông chưa?",
+      "approved": true
     },
     {
       "convert": "Một người mới tiếp nhiệm vụ này làm cái gì, là muốn vội vàng đi đút Hỏa Nham Xà sao?",
-      "dich": "Một người mới nhận nhiệm vụ này làm gì, muốn nhanh nhanh đi cho Hỏa Nham xà ăn sao?",
-      "suggest": "Một người mới tiếp nhận nhiệm vụ này làm cái gì, là vội vàng đi đút cho Hỏa Nham Xà sao?",
-      "similarity": [
-        [
-          1,
-          0.3
-        ]
-      ]
+      "dich": "Một người mới nhận nhiệm vụ này làm gì, muốn nhanh nhanh đi cho Hỏa Nham Xà ăn sao?",
+      "suggest": "Một người mới nhận nhiệm vụ này làm cái gì, là muốn vội vàng đi đút Hỏa Nham Xà sao?",
+      "approved": true
     },
     {
       "convert": "Đội ngũ chúng ta cũng không nên vướng víu, cũng không chịu trách nhiệm thay người nhặt xác!\"",
       "dich": "Đội ngũ chúng ta cũng không muốn tha du bình, càng không chịu trách nhiệm nhặt xác hộ ngươi!\"",
-      "suggest": "Đội ngũ chúng ta cũng không nên vướng bận vào chuyện này, cũng không chịu trách nhiệm thay người nhặt xác!\"",
-      "similarity": [
-        [
-          2,
-          0.33
-        ]
-      ]
+      "suggest": "Đội ngũ chúng ta cũng không nên vướng bận, cũng không chịu trách nhiệm nhặt xác người!\"",
+      "approved": true
     },
     {
       "convert": "Hắc phu đại hán mặt trầm xuống, không khách khí nói.",
       "dich": "Đại hán da đem sầm mặt, nói thẳng mặt.",
-      "suggest": "Mặt Hắc phu nhân trầm xuống, không khách khí nói.",
-      "similarity": []
+      "suggest": "Mặt Hắc phu đại hán trầm xuống, không khách khí nói.",
+      "approved": true
     },
     {
       "convert": "\"Viên sư đệ, A Cổ Lạp bọn hắn nói cũng không phải là không có đạo lý, thu thập Hỏa Phác Ngọc nguy hiểm không nhỏ, gặp được Hỏa Nham Xà tập kích chúng ta khả năng không để ý tới ngươi.",
-      "dich": "\"Viên sư đệ, A Cổ Lạp bọn họ nói cũng không phải là không có đạo lý, thu thập Hỏa Phác ngọc nguy hiểm không nhỏ, nếu bị Hỏa Nham xà tập kích thì chúng ta có lẽ không để ý tới ngươi được.",
-      "suggest": "\"Viên sư đệ, những lời bọn A Cổ Lạp nói với ngươi cũng không phải là không có đạo lý, thu thập Hỏa Phác Ngọc cũng vô cùng nguy hiểm, gặp phải Hỏa Nham Xà chúng ta cũng không để ý tới ngươi.",
-      "similarity": [
-        [
-          4,
-          0.46
-        ]
-      ]
+      "dich": "\"Viên sư đệ, A Cổ Lạp bọn họ nói cũng không phải là không có đạo lý, thu thập Hỏa Phác Ngọc nguy hiểm không nhỏ, nếu bị Hỏa Nham Xà tập kích thì chúng ta có lẽ không để ý tới ngươi được.",
+      "suggest": "\"Viên sư đệ, lời bọn A Cổ Lạp kia nói không sai, thu thập Hỏa Phác Ngọc nguy hiểm không nhỏ, nếu gặp phải tập kích của Hỏa Nham Xà chúng ta không thể không để ý tới ngươi.",
+      "approved": true
     },
     {
       "convert": "Ngươi vẫn là trước an tâm tu luyện một đoạn thời gian, tăng lên chút thực lực lại tiếp nhận vụ tốt.\"",
       "dich": "Ngươi tốt hơn là trước an tâm tu luyện thêm một thời gian nữa, tăng thực lực thêm chút rồi lại tới nhận nhiệm vụ.\"",
-      "suggest": "Ngươi vẫn nên an tâm tu luyện một đoạn thời gian, sau đó sẽ có thêm chút thực lực rồi tiếp nhận nhiệm vụ tốt.\"",
-      "similarity": [
-        [
-          5,
-          0.18
-        ]
-      ]
+      "suggest": "Ngươi cứ an tâm tu luyện một thời gian, tăng lên chút thực lực rồi tiếp nhận nhiệm vụ tốt.\"",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ khuyên, ánh mắt bên trong cũng mang theo một tia xem thường.",
       "dich": "Thiếu phụ xinh đẹp nhẹ nhàng khuyên nhủ, trong ánh mắt cũng mang theo vẻ không tán thành.",
-      "suggest": "Thiếu phụ mỹ mạo khuyên, ánh mắt cũng mang theo chút khinh thường.",
-      "similarity": [
-        [
-          6,
-          0.23
-        ]
-      ]
+      "suggest": "Thiếu phụ xinh đẹp khuyên nhủ, ánh mắt cũng mang theo chút xem thường.",
+      "approved": true
     },
     {
       "convert": "\"Đa tạ sư tỷ cùng vị sư huynh này nhắc nhở, tại hạ mặc dù bất tài, tự nghĩ còn có sức tự vệ, sẽ không cho các ngươi thêm phiền phức.\"",
       "dich": "\"Đa tạ sư tỷ và vị sư huynh này nhắc nhở, tại hạ dù bất tài nhưng tự thấy còn có sức tự vệ, sẽ không tạo thêm rắc rối cho mọi người.\"",
-      "suggest": "\"Đa tạ sư tỷ và vị sư huynh này nhắc nhở, mặc dù tại hạ bất tài, nhưng vẫn có thể tự bảo vệ bản thân, sẽ không khiến cho các ngươi thêm phiền phức.\"",
-      "similarity": [
-        [
-          7,
-          0.4
-        ]
-      ]
+      "suggest": "\"Đa tạ sư tỷ và vị sư huynh này nhắc nhở, tại hạ mặc dù bất tài, nhưng vẫn có sức tự bảo vệ, sẽ không để các ngươi thêm phiền phức.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh hướng mỹ mạo thiếu phụ, hắc phu đại hán hơi gật đầu, mỉm cười nói.",
       "dich": "Viên Minh khẽ gật đầu với thiếu phụ và đại hán da đen, mỉm cười nói.",
-      "suggest": "Viên Minh gật đầu với thiếu phụ xinh đẹp, hắc phu đại hán khẽ gật đầu, mỉm cười nói.",
-      "similarity": [
-        [
-          8,
-          0.4
-        ],
-        [
-          10,
-          0.11
-        ],
-        [
-          52,
-          0.12
-        ],
-        [
-          104,
-          0.13
-        ]
-      ]
+      "suggest": "Viên Minh gật đầu với thiếu phụ xinh đẹp, hắc phu đại hán mỉm cười nói.",
+      "approved": true
     },
     {
       "convert": "Đối với A Cổ Lạp, hắn phảng phất không nhìn thấy.",
       "dich": "Đối với A Cổ Lạp thì hắn làm như không thấy.",
-      "suggest": "Đối với A Cổ Lạp, hắn phảng phất không thấy.",
-      "similarity": [
-        [
-          9,
-          0.44
-        ],
-        [
-          15,
-          0.14
-        ],
-        [
-          25,
-          0.13
-        ],
-        [
-          57,
-          0.12
-        ]
-      ]
+      "suggest": "Đối với A Cổ Lạp, hắn dường như không thấy.",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ đôi mi thanh tú giương lên, hắc phu đại hán thấp hừ một tiếng, ngược lại cũng không nói thêm cái gì.",
       "dich": "Đôi mi thanh tú của thiếu phụ xinh đẹp giương lên, trong khi đó đại hán da đen hừ một tiếng, xong cũng không nói gì thêm.",
-      "suggest": "Đôi mi thanh tú của thiếu phụ khẽ giương lên, đại hán hắc phu hừ lạnh một tiếng, ngược lại cũng không nói thêm điều gì.",
-      "similarity": [
-        [
-          10,
-          0.34
-        ]
-      ]
+      "suggest": "Đôi mi thiếu phụ thanh tú khẽ giương lên, hắc phu đại hán hừ một tiếng, ngược lại cũng không nói thêm gì nữa.",
+      "approved": true
     },
     {
       "convert": "Lúc này, bên cạnh bị vắng vẻ A Cổ Lạp khuôn mặt đã biến thành màu gan heo, trong đám người kia đi ra: \"Khẩu khí cũng không nhỏ, muốn gia nhập đội ngũ của chúng ta, để ta nhìn ngươi thực lực lại nói!\"",
       "dich": "Giờ phút này, A Cổ Lạp đứng bên cạnh ăn bơ, sắc mặt đã đổi sang màu gan heo, bước ra khỏi nhóm người: \"Khẩu khí cũng không nhỏ, muốn gia nhập đội ngũ của chúng ta, để ta xem bản lĩnh ngươi thế nào rồi nói.\"",
-      "suggest": "Lúc này, khuôn mặt A Cổ Lạp biến thành màu gan heo, trong đám người đi ra: \"Khẩu khí không nhỏ, muốn gia nhập đội ngũ của chúng ta, để ta xem thực lực của ngươi rồi sẽ nói!\"",
-      "similarity": [
-        [
-          11,
-          0.39
-        ]
-      ]
+      "suggest": "Lúc này, khuôn mặt A Cổ Lạp ở bên cạnh đã biến thành màu gan heo, một tên trong đám người kia đi ra: \"Khẩu khí không nhỏ, muốn gia nhập đội ngũ của chúng ta, để ta nhìn thực lực của ngươi rồi nói!\"",
+      "approved": true
     },
     {
       "convert": "\"A Cổ Lạp sư huynh đã muốn chỉ giáo, vậy liền mời ra tay.\"",
       "dich": "\"A Cổ Lạp sư huynh đã muốn chỉ giáo, vậy thì mời ra tay.\"",
-      "suggest": "\"A Cổ Lạp sư huynh đã chỉ giáo, vậy lập tức ra tay.\"",
-      "similarity": [
-        [
-          12,
-          0.6
-        ],
-        [
-          55,
-          0.21
-        ]
-      ]
+      "suggest": "\"A Cổ Lạp sư huynh đã muốn chỉ giáo, vậy lập tức ra tay.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh không nhanh không chậm nói.",
-      "dich": "Viên Minh bình tĩnh đáp.",
+      "dich": "Viên Minh bình tĩnh nói.",
       "suggest": "Viên Minh không nhanh không chậm nói.",
-      "similarity": [
-        [
-          13,
-          0.13
-        ],
-        [
-          66,
-          0.16
-        ],
-        [
-          71,
-          0.13
-        ],
-        [
-          108,
-          0.12
-        ],
-        [
-          119,
-          0.12
-        ]
-      ]
+      "approved": true
     },
     {
-      "convert": "\"Tốt, trước tiếp ta một tiễn!\"",
-      "dich": "\"Được, trước tiếp một tiễn của ta.\"",
-      "suggest": "\"Được, trước tiên tiễn ngươi một tiễn!\"",
-      "similarity": [
-        [
-          14,
-          0.29
-        ]
-      ]
-    },
-    {
-      "convert": "A Cổ Lạp bấm niệm pháp quyết điểm ra.",
-      "dich": "A Cổ Lạp bấm niệm pháp quyết điểm tới.",
-      "suggest": "A Cổ Lạp bấm niệm pháp quyết.",
-      "similarity": [
-        [
-          9,
-          0.14
-        ],
-        [
-          15,
-          0.66
-        ],
-        [
-          25,
-          0.22
-        ],
-        [
-          57,
-          0.11
-        ]
-      ]
+      "convert": "\"Tốt, trước tiếp ta một tiễn!\" A Cổ Lạp bấm niệm pháp quyết điểm ra.",
+      "dich": "\"Được, trước tiếp một tiễn của ta.\" A Cổ Lạp bấm niệm pháp quyết điểm tới.",
+      "suggest": "\"Được, trước tiên cứ tiếp ta một tiễn!\" A Cổ Lạp bấm niệm pháp quyết.",
+      "approved": true
     },
     {
       "convert": "Một chùm óng ánh dòng nước trống rỗng hiển hiện, nhanh chóng uốn lượn biến hình, trong nháy mắt liền hóa thành một trương dài hai thước kỳ dị nước cung, dây cung chỗ càng tự động sinh ra một cây sáng lấp lánh thủy tiễn.",
-      "dich": "Một dòng nước trong suốt lăng không xuất hiện, xong nhanh chóng uốn lượn biến hình, chỉ nháy mắt đã hóa thành một cây cung nước kỳ dị dài hai thước, chỗ dây cũng còn tự động sinh một cây tên nước(thủy tiễn) sáng lấp lánh.",
-      "suggest": "Một chùm ánh sáng óng ánh hiện ra, nhanh chóng biến hóa, trong nháy mắt liền hóa thành một bồn nước kỳ dị dài hai thước, nơi đầu rồng phun ra cũng tự động sinh ra một quả cầu thủy tiễn sáng lấp lánh.",
-      "similarity": [
-        [
-          16,
-          0.24
-        ]
-      ]
+      "dich": "Một dòng nước trong suốt lăng không xuất hiện, xong nhanh chóng uốn lượn biến hình, chỉ nháy mắt đã hóa thành một cây cung nước kỳ dị dài hai thước, chỗ dây cũng còn tự động sinh một cây thủy tiễn sáng lấp lánh.",
+      "suggest": "Một dòng nước óng ánh lấp lánh hiện ra, nhanh chóng uốn lượn biến hóa, trong nháy mắt liền hóa thành một cái cung nước kỳ dị dài hai thước, trên dây cung tự động sinh ra một quả cầu ánh sáng lấp lánh.",
+      "approved": true
     },
     {
       "convert": "\"Hưu\" một tiếng duệ khiếu, thủy tiễn phá không xông ra, thẳng đến Viên Minh ngực, tốc độ hơn xa bình thường cung tiễn.",
       "dich": "Theo một tiếng rít sắc bén, thủy tiễn xé gió bắn ra, lao thẳng về phía ngực Viên Minh, tốc độ hơn xa cung tiễn bình thường.",
-      "suggest": "\"Hưu\" một tiếng duệ khiếu, thủy tiễn phá không bay thẳng tới ngực Viên Minh, tốc độ hơn xa cung tiễn bình thường.",
-      "similarity": [
-        [
-          17,
-          0.46
-        ]
-      ]
+      "suggest": "\"Hưu\", duệ khiếu thủy tiễn phá không xông ra, bắn thẳng vào ngực Viên Minh với tốc độ hơn xa cung tiễn bình thường.",
+      "approved": true
     },
     {
       "convert": "A Cổ Lạp vụng trộm đùa nghịch thủ đoạn, nói chuyện trước đó liền âm thầm bấm niệm pháp quyết thi pháp, vừa dứt lời lúc, cây kia thủy tiễn đã bắn ra ngoài.",
       "dich": "A Cổ Lạp âm thầm giở trò, trước khi nói đã lén lút bấm niệm pháp quyết thi pháp, khi lời vừa dứt, cây thủy tiễn kia đã bắn vọt ra ngoài.",
-      "suggest": "A Cổ Lạp vụng trộm đùa bỡn thủ đoạn, trước khi nói chuyện liền âm thầm bấm niệm pháp quyết, vừa dứt lời, cây thủy tiễn kia đã bắn ra ngoài.",
-      "similarity": [
-        [
-          18,
-          0.39
-        ],
-        [
-          29,
-          0.14
-        ]
-      ]
+      "suggest": "A Cổ Lạp vụng trộm đùa nghịch, lúc nói chuyện hắn cũng âm thầm bấm niệm pháp quyết thi pháp, vừa dứt lời thì cây thủy tiễn kia đã bắn ngược trở lại.",
+      "approved": true
     },
     {
-      "convert": "\"Thủy tiễn thuật?\"",
-      "dich": "\"Thủy Tiễn thuật?\"",
-      "suggest": "\"Thủy tiễn thuật?\"",
-      "similarity": [
-        [
-          19,
-          0.38
-        ],
-        [
-          24,
-          0.1
-        ],
-        [
-          27,
-          0.18
-        ],
-        [
-          69,
-          0.1
-        ],
-        [
-          119,
-          0.12
-        ],
-        [
-          123,
-          0.19
-        ]
-      ]
+      "convert": "\"Thủy Tiễn Thuật?\"",
+      "dich": "\"Thủy Tiễn Thuật?\"",
+      "suggest": "\"Thủy Tiễn Thuật?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh không hốt hoảng chút nào, tay phải hư không đẩy ra, lòng bàn tay hiện ra nồng đậm lục quang.",
       "dich": "Viên Minh không hề hoảng hốt, tay phải đẩy ra khoảng không trước mắt, lòng bàn tay lập tức tỏa ra ánh sáng xanh nồng đậm.",
-      "suggest": "Viên Minh không hốt hoảng chút nào, tay phải đẩy ra, lòng bàn tay hiện lên màu xanh lục nồng đậm.",
-      "similarity": [
-        [
-          20,
-          0.29
-        ]
-      ]
+      "suggest": "Viên Minh không hề hốt hoảng, vung tay phải lên, lòng bàn tay tỏa ánh sáng xanh đậm.",
+      "approved": true
     },
     {
       "convert": "Một cây thô to gai gỗ từ đó toát ra, phát sau mà đến trước ngăn ở thủy tiễn trước đó.",
       "dich": "Một cây gai gỗ thô to từ đó mọc ra, đi sau mà tới trước, chắn ngay trước cây thủy tiễn.",
-      "suggest": "Một thanh gỗ thô to từ trong đó chui ra, xuyên qua bề mặt đâm vào bệ đá.",
-      "similarity": [
-        [
-          21,
-          0.13
-        ]
-      ]
+      "suggest": "Một cây gai gỗ thô to từ trong đó chui ra, chặn ngay phía sau mũi tên.",
+      "approved": true
     },
     {
-      "convert": "Những ngày qua Viên Minh một mực khổ Tu Minh trăng quyết, thần hồn chi lực không có tăng cường nhiều ít, tốc độ phản ứng lại thêm nhanh hơn không ít.",
-      "dich": "Những ngày qua Viên Minh vẫn luôn khổ tu mnq, tuy lực lượng thần hôn không tăng thêm bao nhiêu, nhưng tốc độ phản ứng lại được nâng cao không ít.",
-      "suggest": "Những ngày qua Viên Minh luôn khổ tu Minh Trăng Quyết, lực lượng thần hồn không có tăng lên nhiều, tốc độ phản ứng lại nhanh hơn không ít.",
-      "similarity": [
-        [
-          22,
-          0.32
-        ]
-      ]
+      "convert": "Những ngày qua Viên Minh một mực khổ tu Minh Nguyệt Quyết, thần hồn chi lực không có tăng cường nhiều ít, tốc độ phản ứng lại thêm nhanh hơn không ít.",
+      "dich": "Những ngày qua Viên Minh vẫn luôn khổ tu Minh Nguyệt Quyết, tuy lực lượng thần hôn không tăng thêm bao nhiêu, nhưng tốc độ phản ứng lại được nâng cao không ít.",
+      "suggest": "Những ngày qua Viên Minh luôn khổ tu Minh Trăng Quyết, lực lượng thần hồn không tăng lên bao nhiêu, tốc độ phản ứng lại nhanh hơn không ít.",
+      "approved": true
     },
     {
       "convert": "\"Phanh\" một tiếng vang lớn, thủy tiễn vỡ nát, gai gỗ cũng bị đánh rách tả tơi hơn phân nửa.",
       "dich": "Một tiếng \"phành\" lớn vang lên, thủy tiễn vỡ nát, còn gai gỗ cũng bị đánh rách tơi tả hơn nửa.",
-      "suggest": "\"Bốp\" một tiếng, thủy tiễn vỡ nát, gai gỗ cũng bị đánh rách hơn nửa.",
-      "similarity": [
-        [
-          23,
-          0.42
-        ]
-      ]
+      "suggest": "Một tiếng 'rầm' lớn vang lên, quả cầu lửa vỡ tung, gai gỗ cũng bị đánh rách hơn nửa.",
+      "approved": true
     },
     {
-      "convert": "\"Cái gì!\"",
-      "dich": "\"Cái gì!\"",
-      "suggest": "\"Cái gì!\"",
-      "similarity": [
-        [
-          24,
-          1
-        ],
-        [
-          30,
-          0.12
-        ],
-        [
-          51,
-          0.11
-        ],
-        [
-          69,
-          0.11
-        ],
-        [
-          119,
-          0.12
-        ],
-        [
-          123,
-          0.13
-        ]
-      ]
+      "convert": "\"Cái gì!\" A Cổ Lạp biểu lộ ngưng kết.",
+      "dich": "\"Cái gì!\" Mặt mũi A Cổ Lạp cứng đờ.",
+      "suggest": "\"Cái gì!\" A Cổ Lạp nói.",
+      "approved": true
     },
     {
-      "convert": "A Cổ Lạp biểu lộ ngưng kết.",
-      "dich": "Mặt mũi A Cổ Lạp cứng đờ.",
-      "suggest": "Mặt A Cổ Lạp hiện lên vẻ tươi cười.",
-      "similarity": [
-        [
-          9,
-          0.14
-        ],
-        [
-          15,
-          0.17
-        ],
-        [
-          25,
-          0.18
-        ],
-        [
-          57,
-          0.11
-        ]
-      ]
-    },
-    {
-      "convert": "Hắn vượt lên trước âm thầm thi pháp, lấy thủy tiễn thuật nhanh chóng, vậy mà lại bị Mộc Thứ Thuật ngăn lại!",
-      "dich": "Gã lén lút thi pháp trước, lại thêm tốc độ cực nhanh của thủy tiễn mà lại bị Mộc Thứ thuật ngăn chặn!",
-      "suggest": "Hắn âm thầm thi pháp, dùng thuật Thủy Tiễn nhanh chóng thi pháp, vậy mà lại bị Mộc Thứ Thuật ngăn cản!",
-      "similarity": [
-        [
-          26,
-          0.19
-        ]
-      ]
+      "convert": "Hắn vượt lên trước âm thầm thi pháp, lấy Thủy Tiễn Thuật nhanh chóng, vậy mà lại bị Mộc Thứ Thuật ngăn lại!",
+      "dich": "Gã lén lút thi pháp trước, lại thêm tốc độ cực nhanh của thủy tiễn mà lại bị Mộc Thứ Thuật ngăn chặn!",
+      "suggest": "Hắn âm thầm thi pháp, dùng thuật Thủy Tiễn nhanh chóng ngăn cản, nhưng lại bị Mộc Thứ Thuật chặn lại!",
+      "approved": true
     },
     {
       "convert": "\"Có thể sao?\"",
       "dich": "\"Được rồi chứ?\"",
       "suggest": "\"Có thể sao?\"",
-      "similarity": [
-        [
-          19,
-          0.18
-        ],
-        [
-          24,
-          0.1
-        ],
-        [
-          27,
-          0.18
-        ],
-        [
-          69,
-          0.1
-        ],
-        [
-          100,
-          0.11
-        ],
-        [
-          103,
-          0.14
-        ],
-        [
-          109,
-          0.15
-        ],
-        [
-          119,
-          0.12
-        ],
-        [
-          123,
-          0.35
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "Viên Minh từ tốn nói, lòng bàn tay lục quang bay vọt, vỡ vụn gai gỗ lập tức khôi phục như lúc ban đầu.",
       "dich": "Viên Minh từ tốn nói, đồng thời ánh sáng xanh từ lòng bàn tay bay vọt ra, theo đó cây gai gỗ vỡ vụn kia lập tức khôi phục lại như ban đầu.",
-      "suggest": "Viên Minh từ tốn nói, ánh sáng xanh lục trong lòng bàn tay lóe lên, gai gỗ vỡ vụn lập tức khôi phục như lúc ban đầu.",
-      "similarity": [
-        [
-          20,
-          0.1
-        ],
-        [
-          28,
-          0.36
-        ]
-      ]
+      "suggest": "Viên Minh từ tốn nói, lòng bàn tay vung lên, gai gỗ vỡ vụn lập tức khôi phục như lúc ban đầu.",
+      "approved": true
     },
     {
       "convert": "A Cổ Lạp sắc mặt khó coi, hai tay nhanh chóng bấm niệm pháp quyết, nước cung phía trên hào quang loé lên, lóe lên hiện ra trọn vẹn năm cái thủy tiễn.",
       "dich": "A Cổ Lạp trông thần sắc vô cùng khó coi, hai tay gã nhanh chóng bấm niệm pháp quyết, tức thì hào quang lóe lên trên cây cung nước, ngay sau đó năm cây thủy tiễn lóe hiện ra.",
-      "suggest": "Sắc mặt A Cổ Lạp khó coi, hai tay nhanh chóng bấm niệm pháp quyết, hào quang ở trên cung nỏ lóe lên, lóe lên hiện ra năm cái Thủy Tiễn.",
-      "similarity": [
-        [
-          18,
-          0.11
-        ],
-        [
-          29,
-          0.29
-        ]
-      ]
+      "suggest": "Sắc mặt A Cổ Lạp khó coi, hai tay nhanh chóng bấm niệm pháp quyết, hào quang phía trên tấm thuẫn lóe lên, lóe lên năm cái thủy tiễn.",
+      "approved": true
     },
     {
       "convert": "Hưu hưu hưu!",
       "dich": "Viu viu viu!",
       "suggest": "Hưu hưu hưu!",
-      "similarity": [
-        [
-          24,
-          0.11
-        ],
-        [
-          30,
-          0.16
-        ],
-        [
-          51,
-          0.18
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "Năm cái thủy tiễn đồng thời rời dây cung bắn ra, hướng phía Viên Minh giảo sát tới.",
       "dich": "Năm cây thủy tiễn đồng loạt rời dây cung bắn ra, gào rít lao thẳng về phía Viên Minh.",
-      "suggest": "Năm quả cầu lửa từ dây cung bắn ra, bắn về phía Viên Minh.",
-      "similarity": [
-        [
-          31,
-          0.35
-        ],
-        [
-          116,
-          0.1
-        ]
-      ]
+      "suggest": "Năm quả thủy tiễn rời dây cung bắn ra, nhắm thẳng về phía Viên Minh hòng truy sát.",
+      "approved": true
     },
     {
       "convert": "\"Năm mũi tên liên phát!",
       "dich": "\"Ngũ tiễn liên phát!",
-      "suggest": "\"Năm mũi tên liên tục bắn!",
-      "similarity": []
+      "suggest": "\"Năm mũi tên liên tiếp!",
+      "approved": true
     },
     {
-      "convert": "A Cổ Lạp thủy tiễn thuật lúc nào luyện đến cảnh giới này rồi?\"",
-      "dich": "Thủy Tiễn thuật của A Cổ Lạp từ khi nào đã luyện tới trình độ này rồi?\"",
-      "suggest": "Thủy Tiễn Thuật của A Cổ Lạp lúc nào luyện đến cảnh giới này?\"",
-      "similarity": [
-        [
-          33,
-          0.19
-        ]
-      ]
+      "convert": "A Cổ Lạp Thủy Tiễn Thuật lúc nào luyện đến cảnh giới này rồi?\"",
+      "dich": "Thủy Tiễn Thuật của A Cổ Lạp từ khi nào đã luyện tới trình độ này rồi?\"",
+      "suggest": "Thuật Thủy Tiễn của Cổ Lạp từ khi nào luyện đến cảnh giới này?\"",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ khẽ di một tiếng.",
       "dich": "Thiếu phụ xinh đẹp khẽ hô lên kinh ngạc.",
-      "suggest": "Thiếu phụ mĩ mạo khẽ di một tiếng.",
-      "similarity": [
-        [
-          73,
-          0.11
-        ],
-        [
-          80,
-          0.11
-        ],
-        [
-          106,
-          0.11
-        ],
-        [
-          118,
-          0.11
-        ]
-      ]
+      "suggest": "Thiếu phụ khẽ di một tiếng.",
+      "approved": true
     },
     {
       "convert": "Hắc phu đại hán cùng mắt tam giác thanh niên gặp đây, cũng lộ ra mấy phần kinh ngạc.",
       "dich": "Đại hán da đen và thanh niên mắt xếch thấy cảnh này cũng lộ vẻ ngạc nhiên.",
-      "suggest": "Đại hán mắt tam giác nhìn thấy thanh niên mắt tam giác cũng lộ ra vài phần kinh ngạc.",
-      "similarity": [
-        [
-          35,
-          0.11
-        ]
-      ]
+      "suggest": "Đại hán mắt tam giác và thanh niên mắt tam giác thấy vậy cũng lộ vẻ kinh ngạc.",
+      "approved": true
     },
     {
-      "convert": "Thủy tiễn thuật muốn luyện được không khó khăn, có thể đồng thời thi triển ra năm cái nhưng không dễ dàng, cái này cần đầy đủ thâm hậu pháp lực, cùng pháp lực mạnh mẽ lực khống chế.",
-      "dich": "Thủy Tiễn thuật này không khó để luyện thành, nhưng để có thể bắn ra năm mũi tên cùng lúc thì không dễ chút nào, việc này không chỉ cần pháp lực đủ thâm hậu, mà còn cần sức khống chế pháp lực cường đại nữa.",
-      "suggest": "Thuật Thủy Tiễn muốn luyện được không khó, có thể thi triển đồng thời năm cấp độ nhưng không dễ dàng, Pháp lực thâm hậu cùng lực khống chế mạnh mẽ.",
-      "similarity": []
+      "convert": "Thủy Tiễn Thuật muốn luyện được không khó khăn, có thể đồng thời thi triển ra năm cái nhưng không dễ dàng, cái này cần đầy đủ thâm hậu pháp lực, cùng pháp lực mạnh mẽ lực khống chế.",
+      "dich": "Thủy Tiễn Thuật này không khó để luyện thành, nhưng để có thể bắn ra năm mũi tên cùng lúc thì không dễ chút nào, việc này không chỉ cần pháp lực đủ thâm hậu, mà còn cần sức khống chế pháp lực cường đại nữa.",
+      "suggest": "Muốn luyện Thủy Tiễn Thuật không khó, có thể thi triển đồng thời năm lần nhưng không dễ dàng, cái này đòi hỏi phải có pháp lực thâm hậu, cùng lực khống chế pháp lực mạnh mẽ.",
+      "approved": true
     },
     {
       "convert": "Viên Minh nhìn thấy cảnh này, sắc mặt ngưng trọng một chút, nhưng vẫn bình tĩnh thi pháp, bấm niệm pháp quyết điểm ra.",
-      "dich": "Viên Minh thấy cảnh này, sắc mặt Viên Minh trở nên ngưng trọng, nhưng hắn vẫn bình tĩnh thi pháp, bấm niệm pháp quyết rồi điểm ra.",
-      "suggest": "Viên Minh thấy cảnh này, sắc mặt ngưng trọng, nhưng vẫn bình tĩnh thi pháp, bấm niệm pháp quyết.",
-      "similarity": [
-        [
-          18,
-          0.1
-        ],
-        [
-          37,
-          0.59
-        ]
-      ]
+      "dich": "Viên Minh thấy cảnh này, sắc mặt trở nên ngưng trọng, nhưng hắn vẫn bình tĩnh thi pháp, bấm niệm pháp quyết rồi điểm ra.",
+      "suggest": "Viên Minh thấy cảnh này, sắc mặt hơi nghiêm túc một chút nhưng vẫn bình tĩnh thi pháp, bấm niệm pháp quyết.",
+      "approved": true
     },
     {
       "convert": "Trước người hắn mặt đất lục quang chớp liên tục, ba cây thô to gai gỗ một bốc lên mà ra, mỗi một cây đường kính đều đạt tới hơn một xích, song song che ở trước người hắn, lập tức đem nó thân ảnh che khuất.",
-      "dich": "Ánh sáng sang liên tục từ mặt đất trước mắt hắn lóe lên, ngay sau đó ba cây gai gỗ thô to đâm lên, đường kính mỗi cây đều lớn hơn một xích, đứng song song chắn trước người, đồng thời hoàn toàn che đi thân ảnh của hắn.",
-      "suggest": "Mặt đất phía trước hắn lục quang lóe lên, ba cây gai gỗ thô to đua nhau mọc lên, mỗi một cây đều có đường kính hơn một xích, song song che chắn trước người hắn, lập tức đem thân ảnh hắn che khuất.",
-      "similarity": [
-        [
-          38,
-          0.22
-        ]
-      ]
+      "dich": "Ánh sáng xanh liên tục từ mặt đất trước mắt hắn lóe lên, ngay sau đó ba cây gai gỗ thô to đâm lên, đường kính mỗi cây đều lớn hơn một xích, đứng song song chắn trước người, đồng thời hoàn toàn che đi thân ảnh của hắn.",
+      "suggest": "Mặt đất trước người hắn chớp động, ba cây gai gỗ thô to nổi lên, mỗi một cây đều có đường kính hơn một xích, song song che khuất thân ảnh hắn.",
+      "approved": true
     },
     {
       "convert": "Viên Minh pháp lực không đủ, chỉ có thể đồng thời triệu hồi ra ba cây gai gỗ.",
       "dich": "Pháp lực của Viên Minh không nhiều nên hắn chỉ có thể triệu hồi được cùng lúc ba cây gai gỗ.",
-      "suggest": "Pháp lực Viên Minh không đủ, chỉ có thể triệu hồi ra ba cây gai gỗ.",
-      "similarity": [
-        [
-          39,
-          0.4
-        ]
-      ]
+      "suggest": "Viên Minh không đủ pháp lực để triệu hồi ba cây gai gỗ.",
+      "approved": true
     },
     {
       "convert": "Thủy tiễn đánh vào gai gỗ bên trên, tuỳ tiện xuyên qua ra năm cái lỗ lớn, nhưng mà phía sau Viên Minh lại không thấy tăm hơi.",
       "dich": "Thủy tiễn đánh lên trên gai gỗ rồi dễ dàng xuyên qua, để lại năm cái lỗ lớn, nhưng Viên Minh ở phía sau lại không thấy bóng dáng.",
-      "suggest": "Thủy tiễn đánh lên gai gỗ, tùy tiện xuyên qua năm cái lỗ lớn, nhưng Viên Minh lại không thấy bóng dáng đâu.",
-      "similarity": [
-        [
-          40,
-          0.44
-        ]
-      ]
+      "suggest": "Thủy tiễn đánh lên gai gỗ, có thể dễ dàng xuyên qua năm lỗ thủng lớn, nhưng Viên Minh phía sau lại không thấy đâu nữa.",
+      "approved": true
     },
     {
-      "convert": "A Cổ Lạp kinh nghi bất định, vào thời khắc này, một sợi duệ phong truyền tới từ phía bên cạnh, Viên Minh thân ảnh trống rỗng toát ra, trong tay đã nhiều Thanh Ngư kiếm, vào đầu chém xuống.",
-      "dich": "Vào thời khắc A Cổ Lạp đang kinh nghi bất định, một luồng gió mạnh từ bên cạnh người gã thổi đến, đồng thời thân ảnh Viên Minh thình lình hiện ra, trong tay có thêm Thanh Ngư kiếm, lập tức chém xuống.",
-      "suggest": "A Cổ Lạp kinh nghi bất định, vào lúc này, một luồng gió mạnh từ bên cạnh truyền tới, thân ảnh Viên Minh trống rỗng, trong tay xuất ra rất nhiều thanh Ngư kiếm, chém lên đầu hắn.",
-      "similarity": [
-        [
-          41,
-          0.34
-        ]
-      ]
+      "convert": "A Cổ Lạp kinh nghi bất định, vào thời khắc này, một sợi duệ phong truyền tới từ phía bên cạnh, Viên Minh thân ảnh trống rỗng toát ra, trong tay đã nhiều Thanh Ngư Kiếm, vào đầu chém xuống.",
+      "dich": "Vào thời khắc A Cổ Lạp đang kinh nghi bất định, một luồng gió mạnh từ bên cạnh người gã thổi đến, đồng thời thân ảnh Viên Minh thình lình hiện ra, trong tay có thêm Thanh Ngư Kiếm, lập tức chém xuống.",
+      "suggest": "A Cổ Lạp kinh nghi bất định, đúng lúc này, một sợi huyết phong từ bên cạnh truyền tới, bóng dáng Viên Minh trống rỗng hiện ra, trong tay cầm rất nhiều Thanh Ngư Kiếm, chém thẳng xuống đầu.",
+      "approved": true
     },
     {
       "convert": "Bảo kiếm hóa thành một đạo hàn mang, phảng phất điện quang Lôi Thạch đánh xuống.",
-      "dich": "Bảo kiếm hóa thành một vệt sáng lạnh lẽo, như sấm rơi chớp giật đánh xuống người A Cổ Lạp.",
-      "suggest": "Bảo kiếm hóa thành một luồng hàn mang, phảng phất như điện quang đánh xuống.",
-      "similarity": [
-        [
-          42,
-          0.2
-        ]
-      ]
+      "dich": "Bảo kiếm hóa thành một vệt sáng lạnh lẽo, như sấm rơi chớp giật đánh xuống.",
+      "suggest": "Bảo kiếm hóa thành một luồng hàn mang, giống như điện quang đánh xuống.",
+      "approved": true
     },
     {
       "convert": "A Cổ Lạp sắc mặt đại biến, tay phải bỗng nhiên bóp nát cái gì, bên ngoài thân hiện ra một tầng khí lưu màu xanh, nhanh chóng dị thường hướng bên cạnh tránh né.",
       "dich": "A Cổ Lạp sắc mặt đại biến, tay phải bỗng bóp nát thứ gì đó, theo đó bên ngoài thân gã lập tức có thêm một tầng khí lưu màu xanh, đồng thời gã cũng nhanh nhẹn dị thường né qua phía bên cạnh.",
-      "suggest": "Sắc mặt A Cổ Lạp đại biến, tay phải đột nhiên bóp nát cái gì đó, bên ngoài cơ thể hiện lên một tầng khí lưu màu xanh, nhanh chóng tránh sang bên cạnh.",
-      "similarity": [
-        [
-          43,
-          0.29
-        ]
-      ]
+      "suggest": "Sắc mặt A Cổ Lạp đại biến, tay phải đột nhiên bóp nát cái gì đó, đồng thời bên ngoài cơ thể xuất hiện một tầng khí lưu màu xanh, nhanh chóng né qua một bên.",
+      "approved": true
     },
     {
       "convert": "Nhưng mà dưới chân hắn đột nhiên đau xót, lại là một cây nhỏ bé gai gỗ không có dấu hiệu nào một bốc lên mà ra, đâm vào lòng bàn chân của hắn.",
       "dich": "Nhưng dưới chân gã đột nhiên cảm thấy đau nhói, nhìn kỹ thì lại là một cây gai gỗ nhỏ bé bất thình lình xuất hiện, đâm vào lòng bàn chân gã.",
-      "suggest": "Nhưng ngay lúc này, dưới chân hắn đột nhiên đau xót, lại là một cái gai gỗ nhỏ không có chút dấu hiệu nào sinh ra đâm vào lòng bàn chân.",
-      "similarity": [
-        [
-          44,
-          0.2
-        ]
-      ]
+      "suggest": "Nhưng dưới chân hắn lại đột nhiên đau đớn, lại là một cây gai gỗ nhỏ không có dấu hiệu báo trước, đâm thẳng vào lòng bàn chân hắn.",
+      "approved": true
     },
     {
       "convert": "A Cổ Lạp vì nhiệm vụ hôm nay, mặc vào một đôi đặc chế giày, chính là dùng một loại cá sấu hung thú thuộc da thuộc da chế mà thành, cứng cỏi dị thường, Mộc Thứ Thuật cũng không đem đế giày đâm xuyên, nhưng cũng làm cho hắn thân hình thoắt một cái, tránh né động tác dừng lại một cái chớp mắt.",
-      "dich": "Vì nhiệm vụ hôm nay, A Cổ Lạp đi một đôi giày đặc biệt được chế từ da thuộc của một con hung thú cá sấu.",
-      "suggest": "Ngày hôm nay, A Cổ Lạp được mặc một đôi giày đặc chế, chính là do một con hung thú thuộc da thuộc da cá sấu chế thành, cứng cỏi dị thường, mộc thứ thuật cũng không đâm xuyên qua da con vật, nhưng cũng làm cho động tác né tránh của hắn hơi dừng lại một chút.",
-      "similarity": [
-        [
-          45,
-          0.11
-        ]
-      ]
+      "dich": "Vì nhiệm vụ hôm nay, A Cổ Lạp đi một đôi giày đặc biệt được chế từ da thuộc của một con hung thú cá sấu. Giày này bền chắc dị thường, Mộc Thứ Thuật cũng không thể đâm xuyên đế giày, nhưng cũng khiến thân hình gã loạng choạng, động tác tránh né cũng vì thế mà bị ngắt ngang.",
+      "suggest": "Hôm nay vì nhiệm vụ mà A Cổ Lạp phải mang theo một đôi giày đặc chế, chính là do dùng một loại da thuộc da của hung thú mà thành, cứng cỏi dị thường. Mộc Thứ Thuật không đâm xuyên đế giày, nhưng cũng khiến cho thân hình gã nhoáng lên một cái, tránh né động tác dừng lại một chút.",
+      "approved": true
     },
     {
-      "convert": "Thanh Ngư kiếm hàn quang quét sạch mà xuống, đã bao trùm hắn một cánh tay, mắt thấy liền muốn đem nó chém xuống.",
-      "dich": "Giày này bền chắc dị thường, Mộc Thứ thuật cũng không thể đâm xuyên đế giày, nhưng cũng khiến thân hình gã loạng choạng, động tác tránh né cũng vì thế mà bị ngắt ngang.",
-      "suggest": "Thanh Ngư kiếm chém xuống, bao trùm cả một cánh tay hắn, mắt thấy nó muốn chém nó xuống.",
-      "similarity": [
-        [
-          47,
-          0.14
-        ]
-      ]
+      "convert": "Thanh Ngư Kiếm hàn quang quét sạch mà xuống, đã bao trùm hắn một cánh tay, mắt thấy liền muốn đem nó chém xuống.",
+      "dich": "Ánh sáng lạnh lẽo của Thanh Ngư Kiếm phủ xuống, trùm lên một cánh tay của gã, sắp chuẩn bị chém rụng nó xuống.",
+      "suggest": "Hàn quang từ Thanh Ngư Kiếm quét xuống, bao trùm cánh tay hắn, mắt thấy muốn chém nó xuống.",
+      "approved": true
     },
     {
-      "convert": "Đúng lúc này, một đạo ngân quang từ bên cạnh phóng tới, nhanh vượt ra khỏi tất cả mọi người con mắt, \"Keng\" một tiếng đánh trúng Thanh Ngư kiếm.",
-      "dich": "Ánh sáng lạnh lẽo của Thanh Ngư kiếm phủ xuống, trùm lên một cánh tay của gã, sắp chuẩn bị chém rụng nó xuống.",
-      "suggest": "Đúng lúc này, một đạo ngân quang từ bên cạnh phóng tới, nhanh hơn cả con mắt mọi người, \"Keng\" một tiếng đánh trúng thanh Ngư kiếm.",
-      "similarity": [
-        [
-          48,
-          0.29
-        ]
-      ]
+      "convert": "Đúng lúc này, một đạo ngân quang từ bên cạnh phóng tới, nhanh vượt ra khỏi tất cả mọi người con mắt, \"Keng\" một tiếng đánh trúng Thanh Ngư Kiếm.",
+      "dich": "Đúng lúc này, một vệt sáng bạc từ bên cạnh bắn tới, nhanh chóng vượt qua tầm mắt mọi người, đánh một tiếng \"keng\" lên Thanh Ngư Kiếm.",
+      "suggest": "Đúng lúc này, một đạo ngân quang từ bên cạnh phóng tới, nhanh vượt qua con mắt tất cả mọi người, \"Keng\" một tiếng đánh trúng Thanh Ngư Kiếm.",
+      "approved": true
     },
     {
-      "convert": "Viên Minh cổ tay run lên, Thanh Ngư kiếm thoát tay bay ra ngoài, người cũng bị đẩy lui hai bước.",
-      "dich": "Đúng lúc này, một vệt sáng bạc từ bên cạnh bắn tới, nhanh chóng vượt qua tầm mắt mọi người, đánh một tiếng \"keng\" lên Thanh Ngư kiếm.",
-      "suggest": "Cổ tay Viên Minh run lên, thanh Thanh Ngư kiếm thoát tay, bay ra ngoài, thân hình cũng bị đẩy lui hai bước.",
-      "similarity": [
-        [
-          49,
-          0.45
-        ]
-      ]
+      "convert": "Viên Minh cổ tay run lên, Thanh Ngư Kiếm thoát tay bay ra ngoài, người cũng bị đẩy lui hai bước.",
+      "dich": "Cổ tay Viên Minh tê dại, Thanh Ngư Kiếm rời tay bay ra ngoài, còn hắn cũng bị đẩy lui hai bước.",
+      "suggest": "Cổ tay Viên Minh khẽ run lên, Thanh Ngư Kiếm thoát tay bay ra ngoài, còn hắn cũng bị đẩy lui hai bước.",
+      "approved": true
     },
     {
       "convert": "Đạo ngân quang kia cũng hiện ra bản thể, lại là một chuỗi ngân sắc vòng tay, chính là mỹ mạo thiếu phụ trên cổ tay này chuỗi.",
-      "dich": "Cổ tay Viên Minh tê dại, Thanh Ngư kiếm rời tay bay ra ngoài, còn hắn cũng bị đẩy lui hai bước.",
-      "suggest": "Đạo ngân quang kia cũng hiện ra, lại là một chuỗi vòng tay màu bạc, chính là vòng tay trên cổ tay mỹ phụ.",
-      "similarity": [
-        [
-          50,
-          0.47
-        ]
-      ]
+      "dich": "Vệt sáng bạc kia cũng hiện ra bản thể là một chuỗi vòng tay màu bạc, chính là cái trên cổ tay thiếu phụ xinh đẹp.",
+      "suggest": "Đạo ánh sáng bạc kia cũng hiện ra bản thể, lại là một chuỗi vòng tay màu bạc, chính là chuỗi vòng tay trên cổ tay của thiếu phụ.",
+      "approved": true
     },
     {
       "convert": "Vù!",
-      "dich": "Vệt sáng bạc kia cũng hiện ra bản thể là một chuỗi vòng tay màu bạc, chính là cái trên cổ tay thiếu phụ xinh đẹp.",
+      "dich": "Vù!",
       "suggest": "Vù!",
-      "similarity": [
-        [
-          24,
-          0.11
-        ],
-        [
-          30,
-          0.16
-        ],
-        [
-          51,
-          1
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "Một đạo thân ảnh phiêu dật hiện lên, mỹ mạo thiếu phụ xuất hiện ở trong hai người ở giữa.",
-      "dich": "Vù!",
-      "suggest": "Một bóng người phiêu dật hiện ra giữa hai người, thiếu phụ mỹ mạo xuất hiện ở giữa hai người.",
-      "similarity": [
-        [
-          52,
-          0.17
-        ]
-      ]
+      "dich": "Một thân ảnh phiêu dật vụt qua, tức thì thiếu phụ xinh đẹp xuất hiện giữa hai người.",
+      "suggest": "Một bóng người phiêu dật hiện ra, thiếu phụ xinh đẹp xuất hiện giữa hai người.",
+      "approved": true
     },
     {
       "convert": "\"Ha ha, hai vị thi triển Ngũ Hành pháp thuật để cho người ta mở rộng tầm mắt, chúng ta sau đó còn muốn chấp hành nhiệm vụ, không bằng tỷ thí liền dừng ở đây như thế nào?\"",
-      "dich": "Một thân ảnh phiêu dật vụt qua, tức thì thiếu phụ xinh đẹp xuất hiện giữa hai người.",
-      "suggest": "\"Ha ha, hai vị thi triển pháp thuật Ngũ Hành để cho người ta mở rộng tầm mắt, sau này chúng ta còn phải chấp hành nhiệm vụ, không bằng tỷ thí lại tiếp tục như thế nào?\"",
-      "similarity": [
-        [
-          53,
-          0.54
-        ]
-      ]
+      "dich": "\"Ha ha, hai vị thi triển pháp thuật ngũ hành khiến người ta mở rộng tầm mắt, có điều sau đây chúng ta còn phải chấp hành nhiệm vụ, chi bằng tỷ thí đến đây thôi có được chăng?\"",
+      "suggest": "\"Ha ha, hai vị thi triển Ngũ Hành pháp thuật khiến cho người ta mở rộng tầm mắt, sau này chúng ta còn phải chấp hành nhiệm vụ, chi bằng tỷ thí lại dừng ở đây đi.\"",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ mỉm cười nói, nhìn về phía Viên Minh ánh mắt đã không có dị dạng, hiển nhiên công nhận thực lực của hắn.",
-      "dich": "\"Ha ha, hai vị thi triển pháp thuật ngũ hành khiến người ta mở rộng tầm mắt, có điều sau đây chúng ta còn phải chấp hành nhiệm vụ, chi bằng tỷ thí đến đây thôi có được chăng?\"",
-      "suggest": "Thiếu phụ mỹ mạo mỉm cười nói, ánh mắt nhìn về phía Viên Minh không có gì khác thường, hiển nhiên đã công nhận thực lực của hắn.",
-      "similarity": [
-        [
-          54,
-          0.51
-        ]
-      ]
+      "dich": "Thiếu phụ xinh đẹp mỉm cười nói, ánh mắt khi nhìn Viên Minh đã không còn vẻ khác thường, hiển nhiên là đã công nhận thực lực của hắn.",
+      "suggest": "Thiếu phụ xinh đẹp mỉm cười nói, ánh mắt nhìn về phía Viên Minh đã không có gì khác thường, hiển nhiên là công nhận thực lực của hắn.",
+      "approved": true
     },
     {
       "convert": "\"Đương nhiên có thể, ta cùng A Cổ Lạp sư huynh nguyên bản cũng chỉ là luận bàn.\"",
-      "dich": "Thiếu phụ xinh đẹp mỉm cười nói, ánh mắt khi nhìn Viên Minh đã không còn vẻ khác thường, hiển nhiên là đã công nhận thực lực của hắn.",
-      "suggest": "\"Đương nhiên là có thể, trước kia ta và sư huynh A Cổ Lạp cũng chỉ đang luận bàn.\"",
-      "similarity": [
-        [
-          55,
-          0.31
-        ]
-      ]
+      "dich": "\"Đương nhiên là được, ta và A Cổ Lạp sư huynh vốn cũng chỉ là luận bàn.\"",
+      "suggest": "\"Đương nhiên là có thể, nguyên bản chuyện của ta và A Cổ Lạp sư huynh cũng chỉ là luận bàn.\"",
+      "approved": true
     },
     {
-      "convert": "Viên Minh ha ha cười nói, nhặt lên bên cạnh trên đất Thanh Ngư kiếm, thu vào.",
-      "dich": "\"Đương nhiên là được, ta và A Cổ Lạp sư huynh vốn cũng chỉ là luận bàn.\"",
-      "suggest": "Viên Minh ha ha cười nói, nhặt thanh Ngư kiếm trên mặt đất lên, thu lại.",
-      "similarity": [
-        [
-          56,
-          0.18
-        ]
-      ]
+      "convert": "Viên Minh ha ha cười nói, nhặt lên bên cạnh trên đất Thanh Ngư Kiếm, thu vào.",
+      "dich": "Viên Minh cười ha ha đáp, xong liền nhặt Thanh Ngư Kiếm trên mặt đến rồi thu vào.",
+      "suggest": "Viên Minh ha ha cười nói, nhặt Thanh Ngư Kiếm trên mặt đất lên, thu lại.",
+      "approved": true
     },
     {
       "convert": "A Cổ Lạp không nói một lời, sắc mặt có chút xanh xám.",
-      "dich": "Viên Minh cười ha ha đáp, xong liền nhặt Thanh Ngư kiếm trên mặt đến rồi thu vào.",
-      "suggest": "A Cổ Lạp không nói một lời, sắc mặt có chút xanh xao.",
-      "similarity": [
-        [
-          9,
-          0.11
-        ],
-        [
-          15,
-          0.1
-        ],
-        [
-          57,
-          0.79
-        ]
-      ]
+      "dich": "A Cổ Lạp không nói một lời, sắc mặt có chút tái nhợt.",
+      "suggest": "A Cổ Lạp không nói một lời, sắc mặt có chút xanh xám.",
+      "approved": true
     },
     {
       "convert": "\"Viên Minh sư đệ thực lực bất phàm, gia nhập nhiệm vụ tiểu đội, hai vị nghĩ đến cũng không có ý kiến chứ?\"",
-      "dich": "A Cổ Lạp không nói một lời, sắc mặt có chút tái nhợt.",
-      "suggest": "\"Viên Minh sư đệ thực lực bất phàm, gia nhập tiểu đội đặc nhiệm, hai vị nghĩ đến cũng không có ý kiến gì chứ?\"",
-      "similarity": [
-        [
-          58,
-          0.53
-        ]
-      ]
+      "dich": "\"Viên sư đệ thực lực bất phàm, gia nhập tiểu đội nhiệm vụ, hai vị chắc rằng không có ý kiến chứ?\"",
+      "suggest": "\"Thực lực Viên Minh sư đệ không tệ, gia nhập tiểu đội nhiệm vụ, hai vị nghĩ sao không có ý kiến chứ?\"",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ nhìn về phía hắc phu đại hán cùng mắt tam giác nam tử.",
-      "dich": "\"Viên sư đệ thực lực bất phàm, gia nhập tiểu đội nhiệm vụ, hai vị chắc rằng không có ý kiến chứ?\"",
-      "suggest": "Thiếu phụ mỹ mạo nhìn về phía đại hán mặt ngăm đen và hai mắt tam giác.",
-      "similarity": [
-        [
-          59,
-          0.26
-        ]
-      ]
+      "dich": "Thiếu phụ xinh đẹp nhìn về phía đại hán da đen và nam tử mắt xếch, hỏi.",
+      "suggest": "Thiếu phụ xinh đẹp nhìn về phía đại hán hắc phu và nam tử mắt tam giác.",
+      "approved": true
     },
     {
       "convert": "\"Viên sư đệ tu vi không tầm thường, Mộc mỗ đương nhiên là hoan nghênh.\"",
-      "dich": "Thiếu phụ xinh đẹp nhìn về phía đại hán da đen và nam tử mắt xếch, hỏi.",
-      "suggest": "\"Tu vi Viên sư đệ không thấp, Mộc mỗ đương nhiên hoan nghênh.\"",
-      "similarity": [
-        [
-          60,
-          0.35
-        ],
-        [
-          75,
-          0.15
-        ]
-      ]
+      "dich": "\"Viên sư đệ tu vi không tầm thường, Mộc mỗ tất nhiên hoan nghênh.\"",
+      "suggest": "\"Tu vi Viên sư đệ không tầm thường, Mộc mỗ đương nhiên hoan nghênh.\"",
+      "approved": true
     },
     {
       "convert": "Hắc phu đại hán nhếch miệng cười nói, thay đổi lúc trước kiêu căng.",
-      "dich": "\"Viên sư đệ tu vi không tầm thường, Mộc mỗ tất nhiên hoan nghênh.\"",
-      "suggest": "Đại hán áo đen nhếch miệng cười nói, không hề kiêu căng chút nào.",
-      "similarity": [
-        [
-          61,
-          0.34
-        ]
-      ]
+      "dich": "Đại hán da đen nhếch miệng cười nói, đổi hẳn vẻ kiêu ngạo trước đó.",
+      "suggest": "Đại hán áo đen nhếch miệng cười nói, thay đổi thái độ kiêu căng lúc trước.",
+      "approved": true
     },
     {
       "convert": "Mắt tam giác nam tử không nói gì, cũng gật gật đầu.",
-      "dich": "Đại hán da đen nhếch miệng cười nói, đổi hẳn vẻ kiêu ngạo trước đó.",
+      "dich": "Nam tử mắt xếch không nói gì mà chỉ gật gật đầu.",
       "suggest": "Nam tử mắt tam giác không nói gì, cũng gật gật đầu.",
-      "similarity": [
-        [
-          62,
-          0.33
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "\"Nếu như thế, vậy chúng ta cái này liền chuẩn bị lên đường đi.\"",
-      "dich": "Nam tử mắt xếch không nói gì mà chỉ gật gật đầu.",
+      "dich": "\"Nếu đã vậy, chúng ta lập tức chuẩn bị lên đường.\"",
       "suggest": "\"Nếu đã như thế, vậy chúng ta lập tức lên đường thôi.\"",
-      "similarity": [
-        [
-          63,
-          0.28
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ gật gật đầu, nói.",
-      "dich": "\"Nếu đã vậy, chúng ta lập tức chuẩn bị lên đường.\"",
-      "suggest": "Thiếu phụ mỹ mạo gật gật đầu, nói.",
-      "similarity": [
-        [
-          62,
-          0.13
-        ],
-        [
-          64,
-          0.13
-        ],
-        [
-          68,
-          0.1
-        ],
-        [
-          91,
-          0.12
-        ],
-        [
-          111,
-          0.11
-        ]
-      ]
+      "dich": "Thiếu phụ xinh đẹp gật đầu rồi nói tiếp.",
+      "suggest": "Thiếu phụ xinh đẹp gật gật đầu, đáp.",
+      "approved": true
     },
     {
       "convert": "\"Mấy thế năng không chờ một lát ta một lát, có kiện đồ vật đặt ở chỗ ở, ta cái này liền đi lấy, rất nhanh liền có thể trở về.\"",
-      "dich": "Thiếu phụ xinh đẹp gật đầu rồi nói tiếp.",
-      "suggest": "\"Mấy thế năng không chờ ta một lát, có đồ vật đặt ở chỗ của ta, ta lập tức cầm lấy, rất nhanh sẽ trở về.\"",
-      "similarity": [
-        [
-          65,
-          0.34
-        ]
-      ]
+      "dich": "\"Mấy vị có thể chờ ta một lát không, có một món đồ để ở chỗ ở, ta lập tức chạy về lấy, rất nhanh sẽ trở lại.\"",
+      "suggest": "\"Mấy thế năng không chờ một lát ta một lát, có kiện đồ vật đặt ở chỗ ta, ta lập tức cầm lấy, rất nhanh sẽ có thể trở về.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh đột nhiên nói.",
-      "dich": "\"Mấy vị có thể chờ ta một lát không, có một món đồ để ở chỗ ở, ta lập tức chạy về lấy, rất nhanh sẽ trở lại.\"",
+      "dich": "Viên Minh đột nhiên nói.",
       "suggest": "Viên Minh đột nhiên nói.",
-      "similarity": [
-        [
-          13,
-          0.18
-        ],
-        [
-          66,
-          1
-        ],
-        [
-          71,
-          0.21
-        ],
-        [
-          108,
-          0.17
-        ],
-        [
-          119,
-          0.19
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "\"Không sao, ta vừa vặn đi Luyện Lô Đường mua vài món đồ, mộc cách bọn họ cũng muốn đi thuê đi đường tiên hạc, vậy chúng ta liền đi đầu giải tán, một khắc đồng hồ phía sau núi môn phụ cận tập hợp đi.\"",
-      "dich": "Viên Minh đột nhiên nói.",
-      "suggest": "\"Không sao, vừa vặn ta đi mua vài món đồ ở Luyện Lô Đường, bọn họ cũng muốn thuê tiên hạc đi đường, chúng ta lập tức rời đi.",
-      "similarity": [
-        [
-          67,
-          0.2
-        ]
-      ]
+      "dich": "\"Không sao, đúng lúc ta cần tới Luyện Lô Đường mua mấy món đồ, Mộc Cách bọn họ cũng cần đi thuê tiên hạc đi đường, vậy chúng ta liền giải tán trước, một khắc sau tập hợp ở sơn môn gần đây.\"",
+      "suggest": "\"Không sao, ta vừa vặn đi mua vài món đồ ở Luyện Lô Đường, mộc cách chỗ bọn họ cũng muốn thuê tiên hạc, vậy chúng ta lập tức rời đi, đợi một khắc đồng hồ sau núi môn phía sau sẽ tập hợp lại.\"",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ khẽ giật mình, mở miệng nói ra.",
-      "dich": "\"Không sao, đúng lúc ta cần tới Luyện Lô đường mua mấy món đồ, Mộc Cách bọn họ cũng cần đi thuê tiên hạc đi đường, vậy chúng ta liền giải tán trước, một khắc sau tập hợp ở sơn môn gần đây.\"",
-      "suggest": "Thiếu phụ mỹ mạo khẽ giật mình, mở miệng nói.",
-      "similarity": [
-        [
-          68,
-          0.67
-        ]
-      ]
+      "dich": "Thiếu phụ xinh đẹp khẽ giật mình, mở miệng nói.",
+      "suggest": "Thiếu phụ xinh đẹp khẽ giật mình, mở miệng nói.",
+      "approved": true
     },
     {
       "convert": "\"Thuê tiên hạc?",
-      "dich": "Thiếu phụ xinh đẹp khẽ giật mình, mở miệng nói.",
+      "dich": "\"Thuê tiên hạc?",
       "suggest": "\"Thuê tiên hạc?",
-      "similarity": [
-        [
-          24,
-          0.11
-        ],
-        [
-          69,
-          1
-        ],
-        [
-          119,
-          0.15
-        ],
-        [
-          123,
-          0.13
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "Chúng ta phải ngồi ngồi phi hạc đi trong tháp núi lửa?\"",
-      "dich": "\"Thuê tiên hạc?",
-      "suggest": "Chúng ta phải ngồi Phi hạc trong tháp lửa sao?\"",
-      "similarity": [
-        [
-          70,
-          0.18
-        ],
-        [
-          103,
-          0.13
-        ]
-      ]
+      "dich": "Chúng ta phải cưỡi tiên hạc bay tới núi lửa Tháp Lý sao?\"",
+      "suggest": "Chúng ta phải ngồi Phi hạc trong tháp lửa trong tháp?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh hỏi.",
-      "dich": "Chúng ta phải cưỡi tiên hạc bay tới núi lửa Tháp Lý sao?\"",
+      "dich": "Viên Minh hỏi.",
       "suggest": "Viên Minh hỏi.",
-      "similarity": [
-        [
-          13,
-          0.18
-        ],
-        [
-          66,
-          0.18
-        ],
-        [
-          71,
-          1
-        ],
-        [
-          108,
-          0.11
-        ],
-        [
-          118,
-          0.16
-        ],
-        [
-          119,
-          0.32
-        ],
-        [
-          130,
-          0.18
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "\"Tự nhiên, trong tháp núi lửa khoảng cách tông môn chừng trăm dặm, dựa vào hai cái đùi đi đường, phải đi tới khi nào?\"",
-      "dich": "Viên Minh hỏi.",
+      "dich": "\"Đương nhiên, núi lửa Tháp Lý cách tông môn hơn trăm dặm, chạy bằng hai chân thì khi nào mới tới?\"",
       "suggest": "\"Tự nhiên, trong tháp núi lửa cách tông môn chừng trăm dặm, dựa vào hai chân đi đường, phải đi tới khi nào?\"",
-      "similarity": [
-        [
-          72,
-          0.13
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ nói.",
-      "dich": "\"Đương nhiên, núi lửa Tháp Lý cách tông môn hơn trăm dặm, chạy bằng hai chân thì khi nào mới tới?\"",
-      "suggest": "Thiếu phụ mỹ mạo nói.",
-      "similarity": [
-        [
-          66,
-          0.16
-        ],
-        [
-          73,
-          0.18
-        ],
-        [
-          80,
-          0.18
-        ],
-        [
-          106,
-          0.18
-        ],
-        [
-          108,
-          0.17
-        ],
-        [
-          111,
-          0.11
-        ],
-        [
-          118,
-          0.18
-        ]
-      ]
+      "dich": "Thiếu phụ xinh đẹp đáp.",
+      "suggest": "Thiếu phụ xinh đẹp nói.",
+      "approved": true
     },
     {
       "convert": "Viên Minh mặt lộ vẻ khó xử, hắn vừa mới nhập môn, toàn thân cao thấp sạch sẽ trơn tru, điểm cống hiến cũng không có nửa cái, bất lực thuê Linh thú.",
-      "dich": "Thiếu phụ xinh đẹp đáp.",
-      "suggest": "Viên Minh lộ vẻ khó xử, hắn vừa mới nhập môn, cơ thể sạch sẽ, điểm cống hiến cũng không có nửa điểm, đang dốc sức thuê Linh Thú.",
-      "similarity": [
-        [
-          74,
-          0.38
-        ]
-      ]
+      "dich": "Viên Minh mặt lộ vẻ khó xử, hắn vừa mới nhập môn, cả người trên dưới sạch sẽ trơn tru, điểm cống hiến cũng chẳng có nổi nửa điểm, cơ bản không có khả năng thuê một con linh thú.",
+      "suggest": "Viên Minh lộ vẻ khó xử, hắn vừa mới nhập môn, toàn thân sạch sẽ trơn tru, điểm cống hiến cũng không có nửa, không còn sức thuê Linh thú.",
+      "approved": true
     },
     {
       "convert": "\"Viên sư đệ không cần phải lo lắng, sau đó ngươi cùng ta ngồi chung đi.\"",
-      "dich": "Viên Minh mặt lộ vẻ khó xử, hắn vừa mới nhập môn, cả người trên dưới sạch sẽ trơn tru, điểm cống hiến cũng chẳng có nổi nửa điểm, cơ bản không có khả năng thuê một con linh thú.",
-      "suggest": "\"Viên sư đệ không cần lo lắng, lát nữa ngươi ngồi chung với ta.\"",
-      "similarity": [
-        [
-          60,
-          0.17
-        ],
-        [
-          75,
-          0.8
-        ]
-      ]
+      "dich": "\"Viên sư đệ không cần lo lắng, lát nữa ngươi có thể ngồi chung với ta.\"",
+      "suggest": "\"Viên sư đệ không cần lo lắng, sau đó ngươi ngồi xuống đây với ta.\"",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ nhìn ra Viên Minh khó khăn, nói.",
-      "dich": "\"Viên sư đệ không cần lo lắng, lát nữa ngươi có thể ngồi chung với ta.\"",
-      "suggest": "Thiếu phụ mỹ mạo nhìn ra khó khăn của Viên Minh, nói.",
-      "similarity": [
-        [
-          76,
-          0.11
-        ],
-        [
-          91,
-          0.12
-        ]
-      ]
-    },
-    {
-      "convert": "\"Đa tạ sư tỷ.\"",
       "dich": "Thiếu phụ xinh đẹp nhìn ra Viên Minh đang túng quẫn bèn nói.",
-      "suggest": "\"Đa tạ sư tỷ.\"",
-      "similarity": [
-        [
-          7,
-          0.1
-        ],
-        [
-          77,
-          1
-        ],
-        [
-          79,
-          0.15
-        ],
-        [
-          90,
-          0.11
-        ],
-        [
-          92,
-          0.12
-        ]
-      ]
+      "suggest": "Thiếu phụ xinh đẹp nhận thấy khó khăn của Viên Minh, nói.",
+      "approved": true
     },
     {
-      "convert": "Viên Minh nhẹ nhàng thở ra, chắp tay nói cám ơn.",
-      "dich": "\"Đa tạ sư tỷ.\"",
-      "suggest": "Viên Minh nhẹ nhàng thở ra, chắp tay nói cám ơn.",
-      "similarity": [
-        [
-          78,
-          1
-        ]
-      ]
+      "convert": "\"Đa tạ sư tỷ.\" Viên Minh nhẹ nhàng thở ra, chắp tay nói cám ơn.",
+      "dich": "\"Đa tạ sư tỷ.\" Viên Minh nhẹ nhàng thở ra, chắp tay nói cám ơn.",
+      "suggest": "\"Đa tạ sư tỷ.\" Viên Minh nhẹ nhàng thở ra, chắp tay nói cám ơn.",
+      "approved": true
     },
     {
-      "convert": "\"Việc nhỏ mà thôi.\"",
-      "dich": "Viên Minh nhẹ nhàng thở ra, chắp tay nói cám ơn.",
-      "suggest": "\"Việc nhỏ mà thôi.\"",
-      "similarity": [
-        [
-          77,
-          0.15
-        ],
-        [
-          79,
-          0.33
-        ],
-        [
-          90,
-          0.11
-        ],
-        [
-          92,
-          0.12
-        ]
-      ]
-    },
-    {
-      "convert": "Mỹ mạo thiếu phụ lắc đầu.",
-      "dich": "\"Việc nhỏ thôi mà.\"",
-      "suggest": "Thiếu phụ mỹ mạo lắc đầu.",
-      "similarity": [
-        [
-          73,
-          0.15
-        ],
-        [
-          80,
-          0.21
-        ],
-        [
-          106,
-          0.15
-        ],
-        [
-          118,
-          0.15
-        ],
-        [
-          121,
-          0.11
-        ]
-      ]
+      "convert": "\"Việc nhỏ mà thôi.\" Mỹ mạo thiếu phụ lắc đầu.",
+      "dich": "\"Việc nhỏ thôi mà.\" Thiếu phụ lắc đầu đáp.",
+      "suggest": "\"Chuyện nhỏ mà thôi.\" Thiếu phụ xinh đẹp lắc đầu.",
+      "approved": true
     },
     {
       "convert": "Viên Minh đối những người khác hơi gật đầu, bước nhanh rời đi, hướng Hỏa Luyện Đường bước đi.",
-      "dich": "Thiếu phụ lắc đầu đáp.",
-      "suggest": "Viên Minh gật đầu với những người khác, rồi nhanh chóng rời đi, hướng tới Hỏa Luyện Đường bước đi.",
-      "similarity": [
-        [
-          81,
-          0.13
-        ]
-      ]
+      "dich": "Viên Minh khẽ gật đầu chào mấy người khác rồi nhanh chân rời đi, bước về phía Hỏa Luyện Đường.",
+      "suggest": "Viên Minh gật đầu với những người khác rồi nhanh chóng rời đi, hướng Hỏa Luyện Đường bước đi.",
+      "approved": true
     },
     {
       "convert": "Hắn một đường chạy chậm, rất mau trở lại đến chỗ ở, từ dưới giường mặt lấy ra một cái màu xám bao phục.",
-      "dich": "Viên Minh khẽ gật đầu chào mấy người khác rồi nhanh chân rời đi, bước về phía Hỏa Luyện đường.",
-      "suggest": "Hắn chạy một mạch, rất nhanh đã trở lại chỗ ở, trên giường lấy ra một cái bao phục màu xám.",
-      "similarity": [
-        [
-          82,
-          0.39
-        ]
-      ]
+      "dich": "Hắn rảo bước đi một mạch, rất nhanh trở lại chỗ ở, lấy từ dưới giường ra một cái bọc màu xám.",
+      "suggest": "Hắn một đường chạy chậm, rất nhanh đã trở lại chỗ ở, lấy một cái bao phục màu xám từ dưới giường ra.",
+      "approved": true
     },
     {
       "convert": "Trong này là vượn trắng, hắc thiềm hai tấm phi mao da thú, hắn lần thứ nhất chấp hành tông môn nhiệm vụ, không cho sơ thất, mang lên hai tấm phi mao da thú, để phòng vạn nhất.",
-      "dich": "Hắn rảo bước đi một mạch, rất nhanh trở lại chỗ ở, lấy từ dưới giường ra một cái bọc màu xám.",
-      "suggest": "Trong này là hai tấm da thú màu đen, lần đầu tiên hắn chấp hành nhiệm vụ tông môn, không cho sơ thất, mang theo hai tấm da thú để phòng vạn nhất.",
-      "similarity": [
-        [
-          83,
-          0.4
-        ]
-      ]
+      "dich": "Trong này là hai tấm da vượn trắng và cóc đen, hắn lần đầu chấp hành nhiệm vụ tông môn, không thể để xảy ra sơ sót, mang theo hai tấm Phi Mao thú bì này để phòng ngừa vạn nhất.",
+      "suggest": "Trong này là hai tấm Phi Mao thú bì, đây là hai tấm Phi Mao thú bì, hắn lần đầu tiên chấp hành nhiệm vụ tông môn, không cho sơ xuất, mang theo hai tấm Phi Mao thú bì để đề phòng vạn nhất.",
+      "approved": true
     },
     {
-      "convert": "Mặc dù hắn đã không còn là phi mao thú nô, nhưng ngoại trừ Thanh Ngư kiếm cùng Mộc Thứ Thuật bên ngoài, trước mắt cũng không cái gì quá tốt công kích tự bảo vệ mình thủ đoạn, hóa thân vượn trắng mang đến chiến lực tăng lên ở thời khắc mấu chốt có lẽ sẽ phát huy tác dụng không nhỏ.",
-      "dich": "Trong này là hai tấm da vượn trắng và cóc đen, hắn lần đầu chấp hành nhiệm vụ tông môn, không thể để xảy ra sơ sót, mang theo hai tấm Phi Mao thú bì này để phòng ngừa vạn nhất.",
-      "suggest": "Mặc dù hiện giờ hắn không còn là Phi Mao thú nô, nhưng ngoại trừ thanh Ngư kiếm và Mộc Thứ Thuật, hai thủ đoạn phòng ngự cơ bản của vượn trắng trước mắt có lẽ sẽ phát huy tác dụng không nhỏ trong thời khắc mấu chốt.",
-      "similarity": [
-        [
-          84,
-          0.36
-        ]
-      ]
+      "convert": "Mặc dù hắn đã không còn là Phi Mao thú nô, nhưng ngoại trừ Thanh Ngư Kiếm cùng Mộc Thứ Thuật bên ngoài, trước mắt cũng không cái gì quá tốt công kích tự bảo vệ mình thủ đoạn, hóa thân vượn trắng mang đến chiến lực tăng lên ở thời khắc mấu chốt có lẽ sẽ phát huy tác dụng không nhỏ.",
+      "dich": "Mặc dù đã không còn là Phi Mao thú nô, nhưng ngoài Thanh Ngư Kiếm và Mộc Thứ Thuật ra, hắn hiện tại chẳng có thủ đoạn công kích, tự vệ nào tốt nào, trong khi đó hóa thân vượn trắng làm chiến lực tăng vọt, vào thời khắc mấu chốt có lẽ sẽ phát huy tác dụng không nhỏ.",
+      "suggest": "Mặc dù hắn đã không còn là Phi Mao thú nô, nhưng ngoại trừ Thanh Ngư Kiếm và Mộc Thứ Thuật, trước mắt cũng không có thủ đoạn gì quá tốt để tự bảo vệ mình, việc hóa thân vượn trắng mang đến chiến lực tăng lên trong thời khắc mấu chốt có lẽ sẽ phát huy tác dụng không nhỏ.",
+      "approved": true
     },
     {
       "convert": "Viên Minh đem bao phục nhét vào trong ngực, đường cũ trở về, lên núi môn bước nhanh bước đi....",
-      "dich": "Mặc dù đã không còn là Phi Mao thú nô, nhưng ngoài Thanh Ngư kiếm và Mộc Thứ thuật ra, hắn hiện tại chẳng có thủ đoạn công kích, tự vệ nào tốt nào, trong khi đó hóa thân vượn trắng làm chiến lực tăng vọt, vào thời khắc mấu chốt có lẽ sẽ phát huy tác dụng không nhỏ.",
-      "suggest": "Viên Minh cất cái bao vào trong ngực, sau đó quay lại sơn môn bước nhanh về phía núi môn.",
-      "similarity": [
-        [
-          85,
-          0.11
-        ]
-      ]
+      "dich": "Viên Minh nhét cái bọc vào trong ngực áo, xong lập tức theo đường cũ nhanh chân bước về phía sơn môn...",
+      "suggest": "Viên Minh nhét bao vào trong ngực, đường cũ trở về, bước nhanh lên núi môn...",
+      "approved": true
     },
     {
       "convert": "Luyện Lô Đường đại điện.",
-      "dich": "Viên Minh nhét cái bọc vào trong ngực áo, xong lập tức theo đường cũ nhanh chân bước về phía sơn môn.",
+      "dich": "Đại điện Luyện Lô Đường.",
       "suggest": "Đại điện Luyện Lô Đường.",
-      "similarity": [
-        [
-          87,
-          0.54
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "Nơi này bố trí cùng đi chấp đường không sai biệt lắm, cực trước mặt là một cái dài mảnh bàn đá, bên trong ngồi bốn năm cái Luyện Lô Đường đồ đệ, lại đằng sau là từng dãy làm bằng đá quầy hàng, màu sắc xám trắng, cao lớn hơn một trượng, phía trên bày đầy các loại bình ngọc bình sứ chờ.",
-      "dich": "...",
-      "suggest": "Nơi này bố trí không khác gì Chấp đường, phía trước là một cái bàn đá dài mảnh, bên trong là bốn năm đồ đệ Luyện Lô Đường, bên trong là từng dãy gian hàng làm bằng đá, màu xám trắng, cao hơn một trượng, phía trên bày đầy các loại bình ngọc bình sứ.",
-      "similarity": [
-        [
-          88,
-          0.34
-        ]
-      ]
+      "dich": "Bài trí nơi này tương tự như Hành Chấp Đường, phía trước nhất là một bàn đá dài, phía trong có bốn, năm đệ tử Luyện Lô Đường đang ngồi, phía sau nữa là từng dãy quầy hàng làm bằng đá màu xám trắng, cao lớn hơn một trượng, bên trên bày đầy các loại bình ngọc, bình sứ ... vv...",
+      "suggest": "Nơi này bố trí không khác lắm so với chấp đường, phía trước là một cái bàn đá dài, bên trong là bốn năm đệ tử Luyện Lô Đường, phía sau là từng quầy hàng làm bằng đá, màu xám trắng, cao hơn một trượng, phía trên bày bán các loại bình ngọc bình sứ.",
+      "approved": true
     },
     {
       "convert": "Một cỗ mùi thuốc tràn ngập toàn bộ đại điện, chỉ cần đi đến nơi này, liền sẽ cảm thấy tinh thần phấn chấn không ít.",
-      "dich": "Đại điện Luyện Lô đường.",
-      "suggest": "Một mùi thuốc thơm tràn ngập đại điện, chỉ cần đi đến nơi này, tinh thần sẽ thoải mái hơn rất nhiều.",
-      "similarity": [
-        [
-          89,
-          0.22
-        ]
-      ]
-    },
-    {
-      "convert": "\"Muốn một bình Thủy Trạch Đan.\"",
-      "dich": "Bài trí nơi này tương tự như Hành Chấp đường, phía trước nhất là một bàn đá dài, phía trong có bốn, năm đệ tử Luyện Lô đường đang ngồi, phía sau nữa là từng dãy quầy hàng làm bằng đá màu xám trắng, cao lớn hơn một trượng, bên trên bày đầy các loại bình ngọc, bình sứ ... vv...",
-      "suggest": "\"Muốn một bình Thủy Trạch Đan.\"",
-      "similarity": [
-        [
-          77,
-          0.11
-        ],
-        [
-          79,
-          0.11
-        ],
-        [
-          90,
-          0.37
-        ],
-        [
-          92,
-          0.11
-        ]
-      ]
-    },
-    {
-      "convert": "Mỹ mạo thiếu phụ đi đến một cái mập lùn thanh niên trước, nói.",
       "dich": "Mùi thuốc tràn ngập khắp đại điện, chỉ cần đến nơi đây sẽ lập tức cảm thấy tinh thần phấn chấn hơn nhiều.",
-      "suggest": "Thiếu phụ mỹ mạo đi đến trước một thanh niên mập lùn, nói.",
-      "similarity": [
-        [
-          91,
-          0.61
-        ],
-        [
-          93,
-          0.12
-        ]
-      ]
+      "suggest": "Một mùi thuốc thơm ngát tràn ngập toàn bộ đại điện, chỉ cần đi tới nơi này, tinh thần sẽ cảm thấy phấn chấn không ít.",
+      "approved": true
     },
     {
-      "convert": "\"Mười điểm điểm cống hiến.\"",
-      "dich": "\"Cần một bình Thủy Trạch đan.\"",
-      "suggest": "\"Mười điểm cống hiến.\"",
-      "similarity": [
-        [
-          77,
-          0.15
-        ],
-        [
-          79,
-          0.15
-        ],
-        [
-          90,
-          0.11
-        ],
-        [
-          92,
-          0.54
-        ]
-      ]
+      "convert": "\"Muốn một bình Thủy Trạch Đan.\" Mỹ mạo thiếu phụ đi đến một cái mập lùn thanh niên trước, nói.",
+      "dich": "\"Cần một bình Thủy Trạch Đan.\" Thiếu phụ xinh đẹp đi tới trước một thanh niên mập lùn, nói.",
+      "suggest": "\"Muốn một bình Thủy Trạch Đan.\" Thiếu phụ xinh đẹp đi tới trước một thanh niên mập lùn, nói.",
+      "approved": true
     },
     {
-      "convert": "Mập lùn thanh niên nhìn thiếu phụ một chút, nói.",
-      "dich": "Thiếu phụ xinh đẹp đi tới trước một thanh niên mập lùn, nói.",
-      "suggest": "Thanh niên mập lùn nhìn thiếu phụ một chút, nói.",
-      "similarity": [
-        [
-          91,
-          0.18
-        ],
-        [
-          93,
-          0.73
-        ],
-        [
-          97,
-          0.15
-        ]
-      ]
+      "convert": "\"Mười điểm điểm cống hiến.\" Mập lùn thanh niên nhìn thiếu phụ một chút, nói.",
+      "dich": "\"Giá mười điểm cống hiến.\" Thanh niên mập lùn nhìn thiếu phụ một chút rồi đáp.",
+      "suggest": "\"Mười điểm cống hiến.\" Thanh niên lùn nhìn thiếu phụ một chút, nói.",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ hiển nhiên rất rõ ràng đan dược giá cả, trực tiếp lấy ra thân phận minh bài, đưa tới.",
-      "dich": "\"Giá mười điểm cống hiến.\"",
-      "suggest": "Thiếu phụ mỹ mạo hiển nhiên rất rõ giá cả của đan dược, trực tiếp lấy ra minh bài làm bằng chứng, đưa cho đối phương.",
-      "similarity": [
-        [
-          94,
-          0.14
-        ]
-      ]
+      "dich": "Thiếu phụ xinh đẹp hiển nhiên nắm rất rõ giá cả đan được, lập tức lấy minh bài thân phận ra rồi đưa tới.",
+      "suggest": "Thiếu phụ xinh đẹp hiển nhiên rất rõ giá cả đan dược, trực tiếp lấy ra minh bài, đưa tới.",
+      "approved": true
     },
     {
       "convert": "Mập lùn thanh niên lấy ra một khối màu trắng ngọc phù, ở thiếu phụ thân phận minh bài bên trên điểm nhẹ, minh bài bên trong chảy ra một đạo bạch quang, không có vào màu trắng ngọc phù bên trong.",
-      "dich": "Thanh niên mập lùn nhìn thiếu phụ một chút rồi đáp.",
-      "suggest": "Thanh niên mập lùn lấy ra một tấm ngọc phù màu trắng, điểm nhẹ lên thân ảnh thiếu phụ một cái, trong tấm ngọc bài chảy ra một luồng sáng trắng, không ngờ lại không có trong ngọc phù.",
-      "similarity": [
-        [
-          95,
-          0.27
-        ]
-      ]
-    },
-    {
-      "convert": "\"Chờ một lát, ta đi lấy thuốc.\"",
-      "dich": "Thiếu phụ xinh đẹp hiển nhiên nắm rất rõ giá cả đan được, lập tức lấy minh bài thân phận ra rồi đưa tới.",
-      "suggest": "\"Chờ một lát, ta đi lấy thuốc.\"",
-      "similarity": [
-        [
-          96,
-          1
-        ]
-      ]
-    },
-    {
-      "convert": "Mập lùn thanh niên nói một tiếng, quay người đi hướng phía sau quầy hàng.",
       "dich": "Thanh niên mập lùn lấy một khối ngọc phù màu trắng ra, tiếp đó điểm nhẹ lên trên minh bài của thiếu phụ, tức thì một luồng sáng trắng từ trong minh bài chảy ra rồi chui vào trong ngọc bài.",
-      "suggest": "Thanh niên mập lùn nói một tiếng rồi quay người đi về phía quầy hàng phía sau.",
-      "similarity": [
-        [
-          93,
-          0.15
-        ],
-        [
-          97,
-          0.38
-        ]
-      ]
+      "suggest": "Thanh niên mập lùn lấy ra một tấm ngọc phù màu trắng, trên tấm minh bài có điểm nhẹ, trong minh bài chảy ra một luồng sáng trắng, không còn thấy trong ngọc phù.",
+      "approved": true
+    },
+    {
+      "convert": "\"Chờ một lát, ta đi lấy thuốc.\" Mập lùn thanh niên nói một tiếng, quay người đi hướng phía sau quầy hàng.",
+      "dich": "\"Chờ một lát, ta đi lấy thuốc.\" Thanh niên mập lùn nói một câu, xong liền quay người đi vào phía sau quầy hàng.",
+      "suggest": "\"Chờ một lát, ta đi lấy thuốc.\" Thanh niên lùn nói một tiếng, quay người đi về phía quầy hàng phía sau.",
+      "approved": true
     },
     {
       "convert": "\"Lam Kha sư muội, một đoạn thời gian không thấy.\"",
-      "dich": "\"Chờ một lát, ta đi lấy thuốc.\"",
-      "suggest": "\"Lam Kha sư muội, một đoạn thời gian không thấy.\"",
-      "similarity": [
-        [
-          9,
-          0.11
-        ],
-        [
-          98,
-          0.41
-        ]
-      ]
+      "dich": "\"Lam Kha sư muội, đã lâu không gặp.\"",
+      "suggest": "\"Lam Kha sư muội, một đoạn thời gian không thấy đâu.\"",
+      "approved": true
     },
     {
       "convert": "Một cái váy đỏ nữ tử đi tới, lại là Trần Uyển.",
-      "dich": "Thanh niên mập lùn nói một câu, xong liền quay người đi vào phía sau quầy hàng.",
-      "suggest": "Một nữ tử mặc váy đỏ đi tới, chính là Trần Uyển.",
-      "similarity": [
-        [
-          99,
-          0.49
-        ]
-      ]
+      "dich": "Một nữ tử mặc váy đỏ bước tới, không ngờ lại là Trần Uyển.",
+      "suggest": "Một nữ tử váy đỏ mặc váy đỏ đi tới, chính là Trần Uyển.",
+      "approved": true
     },
     {
       "convert": "\"Trần Uyển sư tỷ, ngươi cũng tới mua đan dược?\"",
-      "dich": "\"Lam Kha sư muội, đã lâu không gặp.\"",
-      "suggest": "\"Trần Uyển sư tỷ, ngươi cũng tới mua đan dược à?\"",
-      "similarity": [
-        [
-          100,
-          0.82
-        ],
-        [
-          117,
-          0.12
-        ]
-      ]
+      "dich": "\"Trần Uyển sư tỷ, ngươi cũng tới mua đan dược sao?\"",
+      "suggest": "\"Trần Uyển sư tỷ, ngươi cũng tới mua đan dược?\"",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ nhìn thấy Trần Uyển, ngạc nhiên nghênh đón tiếp lấy.",
-      "dich": "Một nữ tử mặc váy đỏ bước tới, không ngờ lại là Trần Uyển.",
-      "suggest": "Thiếu phụ mỹ mạo nhìn thấy Trần Uyển, ngạc nhiên nghênh đón.",
-      "similarity": [
-        [
-          101,
-          0.3
-        ]
-      ]
+      "dich": "Thiếu phụ nhìn thấy Trần Uyển, kinh ngạc pha lẫn vui mừng bước tới nghênh đón.",
+      "suggest": "Thiếu phụ xinh đẹp nhìn thấy Trần Uyển, ngạc nhiên tiếp nhận.",
+      "approved": true
     },
     {
       "convert": "Thiếu phụ tuổi tác rõ ràng lớn hơn một chút, nhưng ở Trần Uyển trước mặt thái độ cung kính, phảng phất nàng mới là tuổi nhỏ cái kia.",
-      "dich": "\"Trần Uyển sư tỷ, ngươi cũng tới mua đan dược sao?\"",
-      "suggest": "Tuổi của thiếu phụ rõ ràng lớn hơn một chút, nhưng ở trước mặt Trần Uyển, thái độ cung kính như đang đối đãi với đứa nhỏ vậy.",
-      "similarity": [
-        [
-          102,
-          0.28
-        ]
-      ]
+      "dich": "Thiếu phụ rõ ràng lớn tuổi hơn một chút, nhưng thái độ trước mặt Trần Uyển lại rất lễ phép, tựa như nàng ta mới là người nhỏ tuổi hơn.",
+      "suggest": "Thiếu phụ tuổi rõ ràng lớn hơn Trần Uyển một chút, nhưng thái độ cung kính trước mặt Trần Uyển, dường như nàng mới là đứa nhỏ vậy.",
+      "approved": true
     },
     {
       "convert": "\"Ta chuyên tới xem một chút ngươi không được sao?\"",
-      "dich": "Thiếu phụ nhìn thấy Trần Uyển, kinh ngạc pha lẫn vui mừng bước tới nghênh đón.",
-      "suggest": "\"Ta chỉ tới xem ngươi không được sao?\"",
-      "similarity": [
-        [
-          70,
-          0.11
-        ],
-        [
-          100,
-          0.12
-        ],
-        [
-          103,
-          0.48
-        ],
-        [
-          123,
-          0.13
-        ]
-      ]
+      "dich": "\"Ta đặc biết tới thăm ngươi không được sao?\"",
+      "suggest": "\"Ta chỉ đi xem một chút thôi mà ngươi không được sao?\"",
+      "approved": true
     },
     {
       "convert": "Trần Uyển vừa cười vừa nói, kéo lại mỹ mạo thiếu phụ tay.",
-      "dich": "Thiếu phụ rõ ràng lớn tuổi hơn một chút, nhưng thái độ trước mặt Trần Uyển lại rất lễ phép, tựa như nàng ta mới là người nhỏ tuổi hơn.",
-      "suggest": "Trần Uyển cười nói, kéo tay thiếu phụ đang đi về phía mình.",
-      "similarity": [
-        [
-          104,
-          0.14
-        ]
-      ]
+      "dich": "Trần Uyển vừa cười vừa nói, tay nắm chặt tay thiếu phụ xinh đẹp.",
+      "suggest": "Trần Uyển vừa cười vừa nói, kéo tay thiếu phụ.",
+      "approved": true
     },
     {
       "convert": "\"Sư tỷ tấn thăng nội môn đệ tử, một ngày trăm công ngàn việc, sư muội cũng không dám có cái này hi vọng xa vời.\"",
-      "dich": "\"Ta đặc biết tới thăm ngươi không được sao?\"",
-      "suggest": "\"Sư tỷ đã tấn thăng nội môn đệ tử, một ngày trăm công ngàn việc, sư muội cũng không dám mơ tới viễn cảnh này.\"",
-      "similarity": [
-        [
-          105,
-          0.37
-        ]
-      ]
+      "dich": "\"Sư tỷ tấn thăng đệ tử nội môn, mỗi ngày trăm công ngàn việc, sư muội nào dám có hy vọng xa vời này.\"",
+      "suggest": "\"Sư tỷ tấn thăng đệ tử nội môn, một ngày trăm công ngàn việc, sư muội cũng không dám mơ tới chuyện này.\"",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ hé miệng cười một tiếng.",
-      "dich": "Trần Uyển vừa cười vừa nói, tay nắm chặt tay thiếu phụ xinh đẹp.",
-      "suggest": "Thiếu phụ mỹ mạo hé miệng cười một tiếng.",
-      "similarity": []
+      "dich": "Thiếu phụ mỉm cười đáp.",
+      "suggest": "Thiếu phụ xinh đẹp hé miệng cười.",
+      "approved": true
     },
     {
       "convert": "\"Ta phụng gia sư chi mệnh, tới Luyện Lô Đường xử lý một số chuyện.\"",
-      "dich": "\"Sư tỷ tấn thăng đệ tử nội môn, mỗi ngày trăm công ngàn việc, sư muội nào dám có hy vọng xa vời này.\"",
-      "suggest": "\"Ta phụng mệnh gia sư, tới Luyện Lô Đường xử lý một vài chuyện.\"",
-      "similarity": [
-        [
-          107,
-          0.24
-        ]
-      ]
+      "dich": "\"Ta phụng lệnh gia sư tới Luyện Lô Đường xử lý một ít chuyện.\"",
+      "suggest": "\"Ta phụng mệnh gia sư, tới Luyện Lô Đường xử lý một số chuyện.\"",
+      "approved": true
     },
     {
       "convert": "Trần Uyển vừa cười vừa nói.",
-      "dich": "Thiếu phụ mỉm cười đáp.",
-      "suggest": "Trần Uyển cười nói.",
-      "similarity": [
-        [
-          66,
-          0.16
-        ],
-        [
-          71,
-          0.12
-        ],
-        [
-          108,
-          1
-        ],
-        [
-          121,
-          0.12
-        ],
-        [
-          124,
-          0.11
-        ],
-        [
-          128,
-          0.15
-        ],
-        [
-          130,
-          0.11
-        ]
-      ]
+      "dich": "Trần Uyển cười nói.",
+      "suggest": "Trần Uyển vừa cười vừa nói.",
+      "approved": true
     },
     {
       "convert": "\"Có thể cần hỗ trợ?",
-      "dich": "\"Ta phụng lệnh gia sư tới Luyện Lô đường xử lý một ít chuyện.\"",
-      "suggest": "\"Có thể cần hỗ trợ?",
-      "similarity": [
-        [
-          109,
-          0.16
-        ]
-      ]
+      "dich": "\"Có cần giúp gì không?",
+      "suggest": "\"Có thể cần trợ giúp?",
+      "approved": true
     },
     {
       "convert": "Ta cùng Luyện Lô Đường mấy vị chấp sự coi như quen biết.\"",
-      "dich": "Trần Uyển cười nói.",
-      "suggest": "Ta và mấy vị Chấp sự Luyện Lô Đường coi như quen biết nhau.\"",
-      "similarity": [
-        [
-          110,
-          0.2
-        ]
-      ]
+      "dich": "Ta với mấy vị chấp sự Luyện Lô Đường cũng xem như quen biết.\"",
+      "suggest": "Ta và mấy vị chấp sự Luyện Lô Đường coi như quen biết.\"",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ ánh mắt nhất chuyển, lập tức nói.",
-      "dich": "\"Có cần giúp gì không?",
-      "suggest": "Ánh mắt thiếu phụ hơi chuyển, lập tức nói.",
-      "similarity": []
+      "dich": "Thiếu phụ xinh đẹp đảo mắt một cái rồi nói.",
+      "suggest": "Ánh mắt thiếu phụ xoay chuyển, lập tức nói.",
+      "approved": true
     },
     {
       "convert": "Nàng là Ngự Thú Đường môn hạ, không có cái gì thân phận bối cảnh, nhưng lòng dạ khá cao, một mực tại cố gắng hướng lên luồn cúi, ngày bình thường cách đối nhân xử thế khéo đưa đẩy, ở trong tông môn kết giao không ít nhân mạch, nếu có thể thông qua việc này, ở Tam động chủ trước mặt hỗn cái quen mặt, đối về sau phát triển có lợi thật lớn.",
-      "dich": "Ta với mấy vị chấp sự Luyện Lô đường cũng xem như quen biết.\"",
-      "suggest": "Nàng là môn hạ của Ngự Thú Đường, không có thân phận thân phận, nhưng lòng dạ khá cao, luôn cố gắng áp chế, luôn cố gắng áp chế người khác, thông qua việc này kết giao với không ít nhân mạch trong tông môn, nếu có thể thông qua việc này kết giao với tam động chủ trước mặt, sau này sẽ có lợi ích rất lớn.",
-      "similarity": [
-        [
-          112,
-          0.26
-        ]
-      ]
+      "dich": "Nàng này là môn hạ Ngự Thú Đường, không có thân phận, bối cảnh gì nhưng tham vọng không nhỏ, luôn cố gắng dựa vào các mối quan hệ để leo cao, ngày thường đối nhân xử thế khéo léo nên kết giao được không ít nhân mạch trong tông, hiện tại nếu có thể thông qua việc này tạo chút ấn tượng với Tam động chủ sẽ có lợi không nhỏ cho sự phát triển sau này.",
+      "suggest": "Nàng là môn hạ của Ngự Thú Đường, không có thân phận bối cảnh, nhưng lòng dạ khá cao, luôn cố gắng luồn cúi, ngày thường đối nhân xử thế khéo léo, khéo léo, có thể thông qua việc này để kết giao với không ít nhân mạch trong tông môn, nếu có thể thông qua việc này, trước mặt tam động chủ sẽ rất có lợi.",
+      "approved": true
     },
     {
       "convert": "\"Không cần, chỉ là một chút việc nhỏ, nghe được Lam Kha sư muội ở mua Thủy Trạch Đan, là muốn đi làm thu thập Hỏa Phác Ngọc nhiệm vụ?\"",
-      "dich": "Thiếu phụ xinh đẹp đảo mắt một cái rồi nói.",
-      "suggest": "\"Không cần, chỉ là việc nhỏ, nghe nói Lam Kha sư muội mua Thủy Trạch Đan của Lam Kha sư muội, là muốn đi làm nhiệm vụ thu thập Hỏa Phác Ngọc?\"",
-      "similarity": [
-        [
-          113,
-          0.6
-        ],
-        [
-          122,
-          0.16
-        ]
-      ]
+      "dich": "\"Không cần, chỉ là một chút việc nhỏ, nghe nói Lam Kha sư muội mua Thủy Trạch Đan, tính đi làm nhiệm vụ thu thập Hỏa Phác Ngọc à?\"",
+      "suggest": "\"Không cần, chỉ là một chút việc nhỏ, nghe nói Lam Kha sư muội mua Thủy Trạch Đan, là muốn đi làm nhiệm vụ thu thập Hỏa Phác Ngọc?\"",
+      "approved": true
     },
     {
       "convert": "Trần Uyển lắc đầu, lời nói xoay chuyển mà hỏi.",
-      "dich": "Nàng này là môn hạ Ngự Thú đường, không có thân phận, bối cảnh gì nhưng tham vọng không nhỏ, luôn cố gắng dựa vào các mối quan hệ để leo cao, ngày thường đối nhân xử thế khéo léo nên kết giao được không ít nhân mạch trong tông, hiện tại nếu có thể thông qua việc này tạo chút ấn tượng với Tam động chủ sẽ có lợi không nhỏ cho sự phát triển sau này.",
-      "suggest": "Trần Uyển lắc đầu, lời nói xoay chuyển hỏi.",
-      "similarity": [
-        [
-          114,
-          0.41
-        ]
-      ]
+      "dich": "Trần Uyển lắc đầu, đổi đề tài hỏi.",
+      "suggest": "Trần Uyển lắc đầu, xoay đầu hỏi.",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ trong bụng thất vọng, trên mặt nhưng không có biểu lộ mảy may, vuốt ve một lần đầu kia ngân sắc vòng tay, nói: \"Đúng vậy, ta gần đây dự định trên Ngân Xà Liên lại tăng thêm một đạo phù văn, điểm cống hiến có chút không đủ, cần gom góp một chút.\"",
-      "dich": "\"Không cần, chỉ là một chút việc nhỏ, nghe nói Lam Kha sư muội mua Thủy Trạch đan, tính đi làm nhiệm vụ thu thập Hỏa Phác ngọc à?\"",
-      "suggest": "Thiếu phụ xinh đẹp thất vọng, trên mặt không biểu hiện chút cảm xúc nào, vuốt ve vòng tay màu bạc, nói: Đúng vậy, gần đây ta định tăng thêm một đạo Phù văn, điểm cống hiến có chút không đủ, cần gom góp một chút.",
-      "similarity": [
-        [
-          115,
-          0.16
-        ]
-      ]
+      "dich": "Thiếu phụ xinh đẹp thầm cảm thấy thất vọng nhưng trên mặt lại không lộ ra chút nào, khẽ vân vê vòng tay màu bạc kia rồi nói: \"Đúng vậy, ta gần đây dự định thêm một đạo phù văn trên Ngân Xà Liên, nhưng điểm cống hiến còn thiếu một ít nên phải đi gom thêm một chút.\"",
+      "suggest": "Thiếu phụ xinh đẹp thất vọng, trên mặt không biểu lộ chút cảm xúc nào, vuốt ve vòng tay màu bạc kia một cái, nói: \"Đúng vậy, gần đây ta định tăng thêm một đạo Phù văn lên Ngân Xà Liên, điểm cống hiến có chút ít, cần gom góp một chút.\"",
+      "approved": true
     },
     {
       "convert": "Nói đến đây, trong óc nàng đột nhiên hiện ra Viên Minh thân ảnh.",
-      "dich": "Trần Uyển lắc đầu, đổi đề tài hỏi.",
-      "suggest": "Nói đến đây, trong đầu nàng đột nhiên hiện ra hình bóng Viên Minh.",
-      "similarity": [
-        [
-          116,
-          0.74
-        ]
-      ]
+      "dich": "Nói đến đây, trong đầu nàng đột nhiên hiện ra thân ảnh Viên Minh.",
+      "suggest": "Nói đến đây, trong đầu nàng đột nhiên hiện ra bóng dáng Viên Minh.",
+      "approved": true
     },
     {
       "convert": "\"Nói đến, Trần Uyển sư tỷ, các ngươi Hỏa Luyện Đường có phải hay không tới một trong đó nguyên xuất thân đệ tử trẻ tuổi, tên là Viên Minh?\"",
-      "dich": "Thiếu phụ xinh đẹp thầm cảm thấy thất vọng nhưng trên mặt lại không lộ ra chút nào, khẽ vân vê vòng tay màu bạc kia rồi nói: \"Đúng vậy, ta gần đây dự định thêm một đạo phù văn trên Ngân Xà liên, nhưng điểm cống hiến còn thiếu một ít nên phải đi gom thêm một chút.\"",
-      "suggest": "\"Nói đến Trần Uyển sư tỷ, các ngươi có biết tới Hỏa Luyện Đường của một đệ tử trẻ tuổi, tên là Viên Minh?\"",
-      "similarity": [
-        [
-          100,
-          0.12
-        ],
-        [
-          117,
-          0.37
-        ]
-      ]
+      "dich": "\"Nói mới nhớ, Trần Uyển sư tỷ, Hỏa Luyện Đường các ngươi có phải có một đệ tử trẻ tuổi xuất thân Trung Nguyên, tên là Viên Minh không?\"",
+      "suggest": "\"Nói đến, Trần Uyển sư tỷ, Hỏa Luyện Đường các ngươi có phải tới một đệ tử trẻ tuổi xuất thân từ Bách Minh đường không?\"",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ hỏi.",
-      "dich": "Nói đến đây, trong đầu nàng đột nhiên hiện ra thân ảnh Viên Minh.",
-      "suggest": "Thiếu phụ Mỹ mạo hỏi.",
-      "similarity": [
-        [
-          71,
-          0.19
-        ],
-        [
-          73,
-          0.18
-        ],
-        [
-          80,
-          0.18
-        ],
-        [
-          106,
-          0.18
-        ],
-        [
-          118,
-          0.23
-        ]
-      ]
+      "dich": "Thiếu phụ xinh đẹp hỏi.",
+      "suggest": "Thiếu phụ xinh đẹp hỏi.",
+      "approved": true
     },
     {
       "convert": "\"Viên Minh?",
-      "dich": "\"Nói mới nhớ, Trần Uyển sư tỷ, Hỏa Luyện đường các ngươi có phải có một đệ tử trẻ tuổi xuất thân Trung Nguyên, tên là Viên Minh không?\"",
+      "dich": "\"Viên Minh?",
       "suggest": "\"Viên Minh?",
-      "similarity": [
-        [
-          13,
-          0.16
-        ],
-        [
-          24,
-          0.11
-        ],
-        [
-          66,
-          0.16
-        ],
-        [
-          69,
-          0.13
-        ],
-        [
-          71,
-          0.32
-        ],
-        [
-          119,
-          1
-        ],
-        [
-          123,
-          0.13
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "Là có một người như thế, ngươi nghe nói qua hắn?\"",
-      "dich": "Thiếu phụ xinh đẹp hỏi.",
-      "suggest": "Là người như thế nào, ngươi đã nghe qua hắn?\"",
-      "similarity": [
-        [
-          120,
-          0.17
-        ]
-      ]
+      "dich": "Đúng là có một người như vậy, ngươi biết hắn?\"",
+      "suggest": "Là có một người như thế, ngươi đã nghe qua tên hắn chưa?\"",
+      "approved": true
     },
     {
       "convert": "Trần Uyển khẽ giật mình gật đầu.",
-      "dich": "\"Viên Minh?",
-      "suggest": "Trần Uyển khẽ giật mình gật đầu.",
-      "similarity": [
-        [
-          62,
-          0.11
-        ],
-        [
-          68,
-          0.14
-        ],
-        [
-          108,
-          0.13
-        ],
-        [
-          121,
-          0.26
-        ],
-        [
-          124,
-          0.11
-        ],
-        [
-          128,
-          0.13
-        ]
-      ]
+      "dich": "Trần Uyển hơi ngạc nhiên gật đầu.",
+      "suggest": "Trần Uyển khẽ giật mình, gật đầu.",
+      "approved": true
     },
     {
       "convert": "\"Ta triệu tập một đội ngũ, đi làm thu thập Hỏa Phác Ngọc nhiệm vụ, Viên Minh ngay tại trong đó, người này thực lực không tệ, cùng A Cổ Lạp giao thủ mấy hiệp, vậy mà chiếm thượng phong.\"",
-      "dich": "Đúng là có một người như vậy, ngươi biết hắn?\"",
-      "suggest": "\"Ta triệu tập một đội ngũ, đi làm nhiệm vụ thu thập Hỏa Phác Ngọc, Viên Minh ở trong đó. Thực lực người này không tệ, cùng với A Cổ Lạp giao thủ mấy hiệp, vậy mà chiếm thượng phong.\"",
-      "similarity": [
-        [
-          113,
-          0.15
-        ],
-        [
-          122,
-          0.48
-        ]
-      ]
+      "dich": "\"Ta triệu tập một đội đi làm nhiệm vụ thu thập Hỏa Phác Ngọc, Viên Minh cũng ở trong đó, người này thực lực không tệ, giao thủ mấy hiệp với A Cổ Lạp, không ngờ lại chiếm thế thượng phong.\"",
+      "suggest": "\"Ta triệu tập một đội ngũ, đi thu thập nhiệm vụ Hỏa Phác Ngọc, Viên Minh ở trong đó, người này thực lực không tệ, giao thủ với A Cổ Lạp mấy hiệp, vậy mà chiếm được thượng phong.\"",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ nói.",
-      "dich": "Trần Uyển hơi ngạc nhiên gật đầu.",
-      "suggest": "Thiếu phụ mỹ mạo nói.",
-      "similarity": [
-        [
-          66,
-          0.16
-        ],
-        [
-          73,
-          0.18
-        ],
-        [
-          80,
-          0.18
-        ],
-        [
-          106,
-          0.18
-        ],
-        [
-          108,
-          0.17
-        ],
-        [
-          111,
-          0.11
-        ],
-        [
-          118,
-          0.18
-        ]
-      ]
+      "dich": "Thiếu phụ xinh đẹp nói.",
+      "suggest": "Thiếu phụ xinh đẹp nói.",
+      "approved": true
     },
     {
       "convert": "\"Thật sao?\"",
-      "dich": "\"Ta triệu tập một đội đi làm nhiệm vụ thu thập Hỏa Phác ngọc, Viên Minh cũng ở trong đó, người này thực lực không tệ, giao thủ mấy hiệp với A Cổ Lạp, không ngờ lại chiếm thế thượng phong.\"",
-      "suggest": "'Thật sao?'",
-      "similarity": [
-        [
-          69,
-          0.11
-        ],
-        [
-          119,
-          0.16
-        ],
-        [
-          123,
-          0.21
-        ]
-      ]
+      "dich": "\"Thật sao?\"",
+      "suggest": "\"Thật sao?\"",
+      "approved": true
     },
     {
       "convert": "Trần Uyển trên mặt lướt qua một tia kinh ngạc.",
-      "dich": "\"Thật sao?\"",
-      "suggest": "Trên mặt Trần Uyển hiện lên chút kinh ngạc.",
-      "similarity": [
-        [
-          34,
-          0.17
-        ],
-        [
-          121,
-          0.1
-        ],
-        [
-          124,
-          0.21
-        ]
-      ]
+      "dich": "Mặt Trần Uyển lóe lên nét kinh ngạc.",
+      "suggest": "Trần Uyển thoáng lộ vẻ kinh ngạc.",
+      "approved": true
     },
     {
       "convert": "A Cổ Lạp là Hỏa Luyện Đường thâm niên đồ đệ, ở luyện khí phương diện thiên phú không tốt, tu vi lại không yếu, đã đạt tới luyện khí sáu tầng, không nghĩ tới lại sẽ không địch lại vừa mới gia nhập tông môn Viên Minh.",
-      "dich": "Mặt Trần Uyển lóe lên nét kinh ngạc.",
-      "suggest": "A Cổ Lạp là đồ đệ thâm niên của Hỏa Luyện Đường, thiên phú luyện khí không tệ, tu vi lại không yếu, đã đạt tới cảnh giới luyện khí sáu tầng, không ngờ lại không địch lại Viên Minh vừa mới gia nhập tông môn.",
-      "similarity": [
-        [
-          125,
-          0.43
-        ]
-      ]
+      "dich": "A Cổ Lạp là đệ tử lâu năm của Hỏa Luyện Đường, tuy thiên phú trên phương diện luyện khí không tốt nhưng tu vi không yếu, đã đạt đến Luyện Khí tầng sáu, không ngờ lại không địch nổi Viên Minh vừa mới gia nhập tông môn.",
+      "suggest": "A Cổ Lạp là đồ đệ thâm niên của Hỏa Luyện Đường, thiên phú về luyện khí không tốt, tu vi lại không yếu, đã đạt tới Luyện Khí tầng sáu, không ngờ lại không địch lại Viên Minh vừa mới gia nhập tông môn.",
+      "approved": true
     },
     {
-      "convert": "Nàng nhớ kỹ ngày đó nhiệm vụ tập luyện thời điểm, Viên Minh mới chỉ là luyện khí tầng bốn, lại chỉ là một giới phi mao thú nô, lúc này mới ngắn ngủi mấy tháng, tu vi của hắn lại có tinh tiến?",
-      "dich": "A Cổ Lạp là đệ tử lâu năm của Hỏa Luyện đường, tuy thiên phú trên phương diện luyện khí không tốt nhưng tu vi không yếu, đã đạt đến Luyện Khí tầng sáu, không ngờ lại không địch nổi Viên Minh vừa mới gia nhập tông môn.",
-      "suggest": "Nàng nhớ ngày đó Viên Minh mới chỉ là Luyện Khí tầng bốn, hơn nữa còn chỉ là một Phi Mao thú nô, lúc này mới ngắn ngủi mấy tháng mà tu vi của hắn đã có tiến bộ gì?",
-      "similarity": [
-        [
-          126,
-          0.45
-        ]
-      ]
-    },
-    {
-      "dich": "Nàng nhớ rõ ngày đó khi tham gia thí luyện, Viên Minh mới chỉ là Luyện Khí tầng bốn, hơn nữa chỉ là nhất giới Phi Mao thú nô, giờ ngắn ngủi có mấy tháng thôi mà tu vi của hắn lại có tiến bộ?"
-    },
-    {
-      "dich": "\"Hẳn là người này có thiên phú dị bẩm, thế nên khi đó mới khiến sư tôn đích thân dẫn hắn nhập môn?\""
-    },
-    {
-      "dich": "Trần Uyển thầm nghĩ trong lòng."
-    },
-    {
-      "dich": "Chú giải:"
-    },
-    {
-      "dich": "1."
-    },
-    {
-      "dich": "Tha du bình: Phương ngữ TQ, nguyên bản chính xác phải là Tha Hữu Bệnh (kéo có bệnh), chỉ người con riêng của người phụ nữ khi tái hôn thời phong kiến."
-    },
-    {
-      "dich": "Thời cổ thiên tai nhân họa triền miên, bất trắc xảy ra lúc nào không hay, để tránh những rắc rối với người chồng cũ, người chồng mới thường có ước định là rằng nếu đứa con riêng của vợ có bệnh hay vấn đề gì thì không liên quan gì đến người chồng mới."
-    },
-    {
-      "dich": "Vì thế mà đứa con riêng mới bị gọi là tha hữu bệnh (kéo có bệnh), một cách gọi tương tự như mang cục nợ, con ghẻ bên mình."
-    },
-    {
-      "dich": "Tha hữu bệnh đọc gần giống tha du bình (kéo bình dầu) dần người ta đọc chệch đi để tránh đi cách gọi có phần ác miệng kia."
+      "convert": "Nàng nhớ kỹ ngày đó nhiệm vụ tập luyện thời điểm, Viên Minh mới chỉ là luyện khí tầng bốn, lại chỉ là một giới Phi Mao thú nô, lúc này mới ngắn ngủi mấy tháng, tu vi của hắn lại có tinh tiến?",
+      "dich": "Nàng nhớ rõ ngày đó khi tham gia thí luyện, Viên Minh mới chỉ là Luyện Khí tầng bốn, hơn nữa chỉ là nhất giới Phi Mao thú nô, giờ ngắn ngủi có mấy tháng thôi mà tu vi của hắn lại có tiến bộ?",
+      "suggest": "Nàng nhớ ngày đó khi làm nhiệm vụ, Viên Minh mới chỉ là Luyện Khí tầng bốn, lại chỉ là một Phi Mao thú nô, chỉ mới mấy tháng ngắn ngủi mà tu vi của hắn đã tiến bộ được bao nhiêu?",
+      "approved": true
     }
-  ]
+  ],
+  "currentWorkingLine": 119,
+  "changed": true
 }

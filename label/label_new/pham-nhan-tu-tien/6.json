@@ -1,4 +1,5 @@
 {
+  "currentLine": 36,
   "next": {
     "id": 7,
     "title": "Chương 7: Tu luyện gian khổ"
@@ -9,10 +10,10 @@
   },
   "previous": {
     "id": 5,
-    "title": "Chương 5: Mặc Đại Phu"
+    "title": "Chương 5: Mặc đại phu"
   },
-  "currentWorkingLine": 35,
-  "approved": true,
+  "currentWorkingLine": 37,
+  "approved": false,
   "lines": [
     {
       "convert": "\"Đi lên\" \"Đi lên \"",
@@ -25,7 +26,7 @@
       "approved": true
     },
     {
-      "convert": "\"Nhanh ăn một chút gì a, ăn cơm tối xong muốn đi bái kiến Mặc lão cái kia.\" Trương Thiết đem hai còn bốc hơi nóng màn thầu đưa cho Hàn khôi",
+      "convert": "\"Nhanh ăn một chút gì a, ăn cơm tối xong muốn đi bái kiến Mặc lão cái kia.\" Trương Thiết đem hai còn bốc hơi nóng màn thầu đưa cho Hàn Lập",
       "dich": "\"Mau ăn chút gì đi, ăn xong cơm chiều còn phải đi gặp Mặc lão nữa.\" Trương Thiết đưa cho Hàn Lập hai cái bánh bao vẫn còn nghi ngút khói",
       "approved": true
     },
@@ -35,7 +36,7 @@
       "approved": true
     },
     {
-      "convert": "\"Sơn cốc phụ cận có một phòng bếp lớn, ta nhìn thấy tất cả mọi người ở đó lĩnh đồ ăn, liền cũng đi nhận được một phần, sau khi ăn xong mới phát hiện ngươi còn chưa từng ăn cái kia, lại giúp ngươi nhận được hai cái bánh bao.\" Trương Thiết thật thà xông lên Hàn khôi cười cười",
+      "convert": "\"Sơn cốc phụ cận có một phòng bếp lớn, ta nhìn thấy tất cả mọi người ở đó lĩnh đồ ăn, liền cũng đi nhận được một phần, sau khi ăn xong mới phát hiện ngươi còn chưa từng ăn cái kia, lại giúp ngươi nhận được hai cái bánh bao.\" Trương Thiết thật thà xông lên Hàn Lập cười cười",
       "dich": "\"Sơn cốc phụ cận có một căn trù phòng, ta thấy có người lại đó lĩnh đồ ăn, liền chạy đến lấy. Ăn xong mới nhớ ra là ngươi cũng chưa ăn gì giúp ngươi mang về hai cái bánh bao.\" Trương Thiết nhìn Hàn Lập cười cười nói",
       "approved": true
     },
@@ -65,7 +66,7 @@
       "approved": true
     },
     {
-      "convert": "Tại Mặc Đại Phu trong phòng, bốn phía vách tường bên cạnh, dựng thẳng lấy từng dãy giá sách, tại trên giá sách sắp xếp đầy chi chít tất cả loại thư tịch,",
+      "convert": "Tại Mặc Đại Phu trong phòng, bốn phía vách tường bên cạnh, dựng thẳng lấy từng dãy giá sách, tại trên giá sách sắp xếp đầy chi chít tất cả loại thư tịch",
       "dich": "Tại Mặc Đại Phu phòng nội, bốn vách xung quanh chất đầy giá sách, trên mỗi giá sách lại chất đầy các chủng loại sách",
       "approved": true
     },
@@ -105,8 +106,13 @@
       "approved": true
     },
     {
-      "convert": "Các ngươi nếu như thực đang muốn học mấy tay võ công nói, có thể đi mấy vị giáo tập nơi nào đây học, ta cũng sẽ không phản đối, nhưng nửa năm sau ta khảo tra chỉ là bộ này khẩu quyết tình huống tu luyện, nếu như không hợp cách, đồng dạng sẽ bị đi đến ngoại môn đi làm ngoại môn đệ tử, hai người các ngươi nhưng nghe rõ ràng sao?\" Mặc Đại Phu khẩu khí đột nhiên biến thành trịnh trọng lên, xem ra đối với bộ này khẩu quyết phi thường trọng thị",
-      "dich": "Nếu quả thật muốn đi học võ, các ngươi có thể đến tìm giáo tập để xin học, ta cũng không phản đối nhưng sau nửa năm ta sẽ chỉ tra khảo tình hình tu luyện khẩu quyết này mà thôi. Nếu như không hợp cách, sẽ giống như những người kia, bị đưa ra ngoài làm ngoại đệ tử. Hai ngươi nghe rõ rồi chứ?\" Khẩu khí của Mặc Đại Phu đột nhiên trở nên trịnh trọng, bộ dáng vô cùng xem trọng khẩu quyết này",
+      "convert": "Các ngươi nếu như thực đang muốn học mấy tay võ công nói, có thể đi mấy vị giáo tập nơi nào đây học, ta cũng sẽ không phản đối, nhưng nửa năm sau ta khảo tra chỉ là bộ này khẩu quyết tình huống tu luyện, nếu như không hợp cách, đồng dạng sẽ bị đi đến ngoại môn đi làm ngoại môn đệ tử, hai người các ngươi nhưng nghe rõ ràng sao?\"",
+      "dich": "Nếu quả thật muốn đi học võ, các ngươi có thể đến tìm giáo tập để xin học, ta cũng không phản đối nhưng sau nửa năm ta sẽ chỉ tra khảo tình hình tu luyện khẩu quyết này mà thôi. Nếu như không hợp cách, sẽ giống như những người kia, bị đưa ra ngoài làm ngoại đệ tử. Hai ngươi nghe rõ rồi chứ?\"",
+      "approved": true
+    },
+    {
+      "convert": "Mặc Đại Phu khẩu khí đột nhiên biến thành trịnh trọng lên, xem ra đối với bộ này khẩu quyết phi thường trọng thị",
+      "dich": "Khẩu khí của Mặc Đại Phu đột nhiên trở nên trịnh trọng, bộ dáng vô cùng xem trọng khẩu quyết này",
       "approved": true
     },
     {
@@ -120,8 +126,13 @@
       "approved": true
     },
     {
-      "convert": "Hàn Lập trước khi đi ra nhịn không được nhìn thoáng qua Mặc Đại Phu sách trong tay, đáng tiếc bản thân tịnh không biết chữ, chỉ biết tên sách là ba cái to lớn chữ màu đen. Đáng tiếc chúng nó nhận biết mình, bản thân không biết chúng nó",
-      "dich": "Trước khi đi, Hàn Lập nhịn không được tò mò, nhìn qua giá sách của Mặc Đại Phu, đáng tiếc là hắn không nhận biết nổi ký tự nào. Chỉ biết ngoài bìa cuốn sách Mặc Đại Phu đọc có ba ký tự đen to, đáng tiếc là chúng nhận thức được hắn nhưng hắn thì không",
+      "convert": "Hàn Lập trước khi đi ra nhịn không được nhìn thoáng qua Mặc Đại Phu sách trong tay, đáng tiếc bản thân tịnh không biết chữ, chỉ biết tên sách là ba cái to lớn chữ màu đen.",
+      "dich": "Trước khi đi, Hàn Lập nhịn không được tò mò, nhìn qua giá sách của Mặc Đại Phu, đáng tiếc là hắn không nhận biết nổi ký tự nào. Chỉ biết ngoài bìa cuốn sách Mặc Đại Phu đọc có ba ký tự đen to.",
+      "approved": true
+    },
+    {
+      "convert": "Đáng tiếc chúng nó nhận biết mình, bản thân không biết chúng nó",
+      "dich": "Đáng tiếc là chúng biết mình nhưng mình không biết chúng",
       "approved": true
     },
     {
@@ -141,7 +152,7 @@
     },
     {
       "convert": "Những tháng ngày tiếp theo trong, buổi sáng Mặc Đại Phu truyền thụ cho bọn hắn một chút tri thức về phương diện y dược, buổi chiều để cho bọn họ đi một gian phòng sách cùng cái khác đồng tử cùng một chỗ học tập hiểu biết chữ nghĩa cùng Thập Nhị Chính Kinh, kỳ kinh bát mạch, quanh thân huyệt đạo phương vị đợi võ học kiến thức căn bản, tịnh cùng một chỗ đứng trung bình tấn, đánh người cỏ luyện chút kiến thức cơ bản phu",
-      "dich": "Trong những ngày tiếp theo, buổi sáng Mặc Đại Phu truyền thụ bọn hắn tri thức y dược, buổi chiều để cho bọn hắn đến thư phòng cùng với những hài đồng khác để học văn tự, thập nhị chính kinh, kỳ kinh bát mạch, huyệt đạo toàn thân và những tri thức cơ bản khác về võ học, cùng nhau tập mã bộ, công phu đánh thảo nhân cơ bản",
+      "dich": "Trong những ngày tiếp theo, buổi sáng Mặc Đại Phu truyền thụ bọn hắn tri thức y dược, buổi chiều để cho bọn hắn đến thư phòng cùng với những hài đồng khác để học văn tự, Thập Nhị Chính Kinh, kỳ kinh bát mạch, huyệt đạo toàn thân và những tri thức cơ bản khác về võ học, cùng nhau tập mã bộ, công phu đánh thảo nhân cơ bản",
       "approved": true
     },
     {
@@ -161,7 +172,7 @@
     },
     {
       "convert": "Ngoại môn có Phi Điểu Đường, Tụ Bảo Đường, Tứ Hải Đường, bên ngoài Nhận đường bốn cái Phân đường, nội môn có Bách Đoán Đường, Thất Tuyệt Đường, Cung Phụng Đường, Huyết Nhận Đường bốn cái Phân đường, còn một người khác chỉ chính môn chủ phía dưới cùng cái khác phó môn chủ sánh vai cùng trưởng lão hội",
-      "dich": "Ngoại môn có Phi Điểu đường, Tụ Bảo đường, Tứ Hải đường, Ngoại Nhận đường bốn phân đường. Nội môn có Bách Đoán đường, Thất Tuyệt đường, Cung Phụng đường, Huyết Nhận đường bốn phân đường. Ngoài những phân đường này ra còn một phân đường khác, quyền lực chỉ dưới môn chủ và phó môn chủ được gọi là Trưởng lão hội",
+      "dich": "Ngoại môn có Phi Điểu Đường, Tụ Bảo Đường, Tứ Hải Đường, Ngoại Nhận Đường bốn phân đường. Nội môn có Bách Đoán Đường, Thất Tuyệt Đường, Cung Phụng Đường, Huyết Nhận Đường bốn phân đường. Ngoài những phân đường này ra còn một phân đường khác, quyền lực chỉ dưới môn chủ và phó môn chủ được gọi là Trưởng lão hội",
       "approved": true
     },
     {
@@ -181,13 +192,14 @@
     },
     {
       "convert": "Lại trong núi tỉ mỉ chọn lấy một cái sơn cốc nhỏ, chuyên môn cho hắn sửa cái mảnh này nơi ở, nhường Mặc Đại Phu an tâm tại Thất Huyền Môn ngụ lại, do đó đã thành Thất Huyền Môn Cung Phụng Đường một gã cung phụng",
-      "dich": "Vừa trong môn có một sơn cốc nhỏ, liền cấp cho lão làm trạch phủ, khiến cho Mặc Đại Phu an tâm ở lại Thất Huyền Môn. Đến giờ trở thành một vị Cung phụng thuộc Cung phụng đường",
+      "dich": "Vừa trong môn có một sơn cốc nhỏ, liền cấp cho lão làm trạch phủ, khiến cho Mặc Đại Phu an tâm ở lại Thất Huyền Môn. Đến giờ trở thành một vị Cung phụng thuộc Cung Phụng Đường",
       "approved": true
     },
     {
       "convert": "Mặc Đại Phu tại Thất Huyền Môn trong mấy ngày này, các đệ tử tuy rằng chưa thấy qua thân thủ của hắn, không biết võ công của hắn mạnh yếu, nhưng hắn dùng cái kia cao minh y thuật cứu không ít Môn Nội Đệ Tử tính mạng, bởi vậy hắn cho dù thường xuyên mặt không biểu tình, nói thưa thớt, hay là đã bị trong môn chúng đệ tử tôn kính",
-      "dich": "Trong thời gian Mặc Đại Phu ở lại Thất Huyền Môn, chúng đệ tử chưa một lần chứng kiến thân thủ của Mặc Đại Phu, không biết được võ công của lão cao thấp thế nào, nhưng y thuật cao minh của lão thì ai ai cũng biết. Cho nên cho dù lão luôn lạnh lùng, ít nói nhưng chúng đệ tử trong cốc vẫn luôn kính trọng lão",
+      "dich": "Trong thời gian Mặc Đại Phu ở lại Thất Huyền Môn, chúng đệ tử chưa một lần chứng kiến thân thủ của hắn, không biết được võ công của lão cao thấp thế nào, nhưng y thuật cao minh của lão thì ai ai cũng biết. Cho nên cho dù lão luôn lạnh lùng, ít nói nhưng chúng đệ tử trong cốc vẫn luôn kính trọng lão",
       "approved": true
     }
-  ]
+  ],
+  "changed": true
 }

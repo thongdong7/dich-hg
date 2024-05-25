@@ -1,4 +1,5 @@
 {
+  "currentLine": 116,
   "next": {
     "id": 60,
     "title": "Chương 60: Dị thường phản phệ"
@@ -16,7 +17,8 @@
       "convert": "Viên Minh suy nghĩ một chút, cúi người xuống, đem chùy hướng xuống tìm kiếm, muốn xem được rõ ràng hơn chút.",
       "dich": "Viên Minh trầm ngâm một lát, xong liền cúi người đưa cây củi lửa xuống, toan nhìn cho rõ ràng hơn.",
       "suggest": "Viên Minh suy nghĩ một chút, cúi người xuống, cầm lấy cái búa vung lên, muốn xem rõ hơn một chút.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Kia Thanh Lang lại giống như là bị ánh lửa kích thích, đột nhiên một tiếng nổi giận gào thét, toàn bộ thân thể đột nhiên hướng lên xông lên, song trảo víu vào hố đất vách tường, từ bên trong bỗng nhiên thoan xuất hiện.",
@@ -27,13 +29,15 @@
           1,
           0.16
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Phía trên bắt lưới cùng gỗ tròn vậy mà không có thể ngăn ở, Thanh Lang trực tiếp phá tan Liễu Viên Mộc, ở bắt lưới bọc vào ngã xuất hiện.",
       "dich": "Mấy khúc cây và tấm lưới bên trên không thể ngăn cản, sói xanh trực tiếp đánh văng mấy khúc cây rồi đội cả tấm lưới lăn ra bên cạnh.",
       "suggest": "Trên lưới và gỗ tròn không có ngăn cách, thanh Lang trực tiếp đập vào người Liễu Viên Mộc, nằm thẳng cẳng lên đó.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Thanh Lang thân thể tứ chi bị bắt lưới quấn quanh, vùng vẫy mấy lần đều không thể thoát thân xuất hiện.",
@@ -45,10 +49,11 @@
           0.53
         ],
         [
-          32,
+          30,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh thấy thế, một cái ném xuống chùy, rút ra bên hông trường kiếm, thả người vọt lên liền hướng phía Thanh Lang huy kiếm chém xuống tới.",
@@ -59,7 +64,8 @@
           4,
           0.19
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Thanh Lang lập tức ngay tại chỗ lăn mình một cái, né tránh trường kiếm đồng thời, cũng từ bắt lưới chỗ thủng bên trong tránh thoát xuất hiện.",
@@ -70,7 +76,8 @@
           5,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Đứng dậy trong nháy mắt, Thanh Lang khôi phục tứ chi chạm đất tư thái, hướng phía Viên Minh nhe răng, lộ ra một ngụm sắc nhọn răng trắng như tuyết.",
@@ -81,7 +88,8 @@
           6,
           0.23
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh lại tại xem Thanh Thanh lang bộ dáng một nháy mắt, ngây ngẩn cả người.",
@@ -89,16 +97,18 @@
       "suggest": "Viên Minh thấy bộ dáng thanh thúy kia thì ngây ngẩn cả người.",
       "similarity": [
         [
-          39,
+          37,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Lúc này Thanh Lang, toàn thân trải rộng máu me đầm đìa vết thương, trong cặp mắt không có u lục quang mang, ngược lại hiện ra huyết hồng chi sắc, toét ra khóe miệng không ngừng chảy xuống nước bọt.",
-      "dich": "Sói xanh lúc này, cả người chằng chịt những vết thương máu chảy đầm đìa, trong mắt không còn quang mang(tia sáng) xanh tối, mà lại lộ ra sắc máu, khóe miệng nhếch lên không ngừng chảy nước bọt.",
+      "dich": "Sói xanh lúc này, cả người chằng chịt những vết thương máu chảy đầm đìa, trong mắt không còn quang mang xanh tối, mà lại lộ ra sắc máu, khóe miệng nhếch lên không ngừng chảy nước bọt.",
       "suggest": "Lúc này, toàn thân con sói này đều nhuốm máu, trong hai mắt không có chút u quang, trái lại còn hiện lên màu đỏ thẫm, nước bọt liên tục chảy ra từ khóe miệng.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Mặc dù con mắt không khớp hào, nhưng này bộ dáng Viên Minh cũng không lạ lẫm.",
@@ -109,7 +119,8 @@
           9,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Cáp Cống, là ngươi sao?\"",
@@ -121,34 +132,35 @@
           1
         ],
         [
-          14,
+          12,
           0.11
         ],
         [
-          22,
+          20,
           0.25
         ],
         [
-          29,
+          27,
           0.12
         ],
         [
-          38,
+          36,
           0.13
         ],
         [
-          73,
+          71,
           0.11
         ],
         [
-          81,
+          79,
           0.1
         ],
         [
-          91,
+          89,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn thử thăm dò mở miệng hỏi.",
@@ -160,18 +172,19 @@
           0.24
         ],
         [
-          70,
+          68,
           0.15
         ],
         [
-          92,
+          90,
           0.16
         ],
         [
-          104,
+          102,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Nguyên bản còn tại thấp giọng gầm rú Thanh Lang, đang nghe Viên Minh tra hỏi lúc, tròng mắt màu đỏ ngòm ở bên trong lập tức hiện ra vẻ giãy dụa, vốn nên màu xanh sẫm quang trạch một lần nữa hiển hiện.",
@@ -182,17 +195,19 @@
           12,
           0.19
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Nhưng chỉ là một cái chớp mắt, hắn đôi mắt lại lần nữa bị huyết sắc bao trùm, hướng phía Viên Minh mãnh nhào tới.",
       "dich": "Nhưng chỉ chớp mắt sau đó, đôi mắt sói xanh lại bị sắc máu bao trùm, thân thể hung hăng nhào về phía Viên Minh.",
       "suggest": "Nhưng chỉ trong nháy mắt, hai mắt hắn lại một lần nữa bị máu tươi bao phủ, hướng Viên Minh liều mạng nhào tới.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "\"Hắn đây là nhận Phi Mao Thuật phản phệ rồi?\"",
-      "dich": "\"Hắn thế này là bị Phi Mao thuật phản phệ rồi sao?\"",
+      "dich": "\"Hắn thế này là bị Phi Mao Thuật phản phệ rồi sao?\"",
       "suggest": "\"Hắn là bị Phi Mao Thuật phản phệ hay sao?\"",
       "similarity": [
         [
@@ -204,10 +219,11 @@
           0.29
         ],
         [
-          38,
+          36,
           0.14
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh vừa nghĩ, một bên né tránh.",
@@ -219,32 +235,34 @@
           0.58
         ],
         [
-          39,
+          37,
           0.11
         ],
         [
-          74,
+          72,
           0.13
         ],
         [
-          88,
+          86,
           0.13
         ],
         [
-          92,
+          90,
           0.13
         ],
         [
-          97,
+          95,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Thanh Lang từ bên cạnh hắn thác thân nhào mở, Viên Minh thì ánh mắt thoáng nhìn, nhìn thấy nó hai đầu chân sau dị thường tráng kiện, cùng Thanh Lang chân thú khác biệt, ngược lại càng giống là bị lông tóc bao trùm đùi người.",
       "dich": "Khi sói xanh vọt qua bên cạnh người, Viên Minh đưa mắt nhìn thoáng qua, phát hiện hai chân sau sói xanh tráng kiện dị thường, không những không giống chân những con sói xanh khác, trái lại trông không khác gì chân người bị phủ lông thú.",
       "suggest": "Con sói nhỏ nhảy chồm ra từ bên cạnh, Viên Minh thì ánh mắt thoáng nhìn, nhìn thấy hai đầu chân sau của nó vô cùng tráng kiện, so với chân thú thì hoàn toàn khác biệt so với chân thú mà sói xanh đang mặc.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Đồng thời người kia đi đứng bên trên lông tóc, còn không phải màu xanh đen, mà là màu trắng.",
@@ -255,18 +273,20 @@
           17,
           0.54
         ]
-      ]
+      ],
+      "approved": true
     },
     {
-      "convert": "Viên Minh trong lòng kinh nghi không chừng, mới vừa vặn rơi xuống đất, liền bị sau lưng đã cấp tốc trở về Thanh Lang đụng đầu, chỉ có thể ném Thanh Ngư kiếm, hai tay trùng điệp ngang tay, ngăn tại trước ngực.",
-      "dich": "Viên Minh trong lòng kinh nghi bất định, vừa đáp xuống đã bị sói xanh quay ngược lại đâm thẳng vào, chỉ có thể ném Thanh Ngư kiếm xuống, bắt chéo hai tay chắn ở trước ngực.",
-      "suggest": "Viên Minh trong lòng kinh nghi không thôi, vừa rơi xuống đất liền bị con sói xanh phía sau nhanh chóng vồ tới, chỉ có thể ném thanh Ngư kiếm dài ngang vai, chia làm hai nửa, trước ngực bị treo lủng lẳng.",
+      "convert": "Viên Minh trong lòng kinh nghi không chừng, mới vừa vặn rơi xuống đất, liền bị sau lưng đã cấp tốc trở về Thanh Lang đụng đầu, chỉ có thể ném Thanh Ngư Kiếm, hai tay trùng điệp ngang tay, ngăn tại trước ngực.",
+      "dich": "Viên Minh trong lòng kinh nghi bất định, vừa đáp xuống đã bị sói xanh quay ngược lại đâm thẳng vào, chỉ có thể ném Thanh Ngư Kiếm xuống, bắt chéo hai tay chắn ở trước ngực.",
+      "suggest": "Viên Minh trong lòng kinh nghi không thôi, vừa rơi xuống đất liền bị con sói xanh phía sau nhanh chóng vồ tới, chỉ có thể ném Thanh Ngư Kiếm dài ngang vai, chia làm hai nửa, trước ngực bị treo lủng lẳng.",
       "similarity": [
         [
           18,
           0.22
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Oanh \"",
@@ -278,30 +298,31 @@
           0.25
         ],
         [
-          27,
+          25,
           0.13
         ],
         [
-          35,
+          33,
           0.19
         ],
         [
-          53,
+          51,
           0.18
         ],
         [
-          81,
+          79,
           0.19
         ],
         [
-          93,
+          91,
           0.16
         ],
         [
-          115,
+          113,
           0.25
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Lực lượng khổng lồ va chạm phía dưới, một lần đem Viên Minh húc bay hơn mười trượng.",
@@ -312,18 +333,20 @@
           20,
           0.38
         ]
-      ]
+      ],
+      "approved": true
     },
     {
-      "convert": "Giữa không trung, hắn nhanh chóng phủ thêm vượn da, thi triển phi mao chi thuật, hóa thành vượn trắng thân thể hậu thân hình một cái sau lật, bình ổn rơi xuống đất.",
-      "dich": "Giữa không trung, hắn nhanh chóng đội da vượn lên, thi triển Phi Mao thuật, hóa thân thành vượn trắng, đoạn lật người một cái, vững vàng đáp xuống đất.",
+      "convert": "Giữa không trung, hắn nhanh chóng phủ thêm vượn da, thi triển Phi Mao Chi Thuật, hóa thành vượn trắng thân thể hậu thân hình một cái sau lật, bình ổn rơi xuống đất.",
+      "dich": "Giữa không trung, hắn nhanh chóng đội da vượn lên, thi triển Phi Mao Thuật, hóa thân thành vượn trắng, đoạn lật người một cái, vững vàng đáp xuống đất.",
       "suggest": "Giữa không trung, hắn nhanh chóng phủ lên da vượn, thi triển thuật Phi Mao, hóa thành thân hình vượn trắng sau khi lật úp, bình ổn rơi xuống mặt đất.",
       "similarity": [
         [
           21,
           0.28
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Cáp Cống, tỉnh!\"",
@@ -339,30 +362,31 @@
           0.37
         ],
         [
-          29,
+          27,
           0.12
         ],
         [
-          38,
+          36,
           0.11
         ],
         [
-          70,
+          68,
           0.13
         ],
         [
-          90,
+          88,
           0.14
         ],
         [
-          104,
+          102,
           0.13
         ],
         [
-          118,
+          116,
           0.14
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Nhìn thấy Thanh Lang lần nữa vọt lên, Viên Minh hét lớn một tiếng, một bước tiến lên, đón to lớn trương miệng máu, nhấc ngang cánh tay trái vọt tới cổ họng của nó.",
@@ -373,13 +397,15 @@
           23,
           0.2
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn tráng kiện tay vượn một lần kẹp lại Thanh Lang yết hầu, đem thân thể của nó gắt gao chống đỡ.",
-      "dich": "Cánh tay vượn tráng kiện kẹp trúng ngay yết hầu sói xanh, chặn đứng thân thể nó lại.",
+      "dich": "Cánh tay vượn tráng kiện của hắn kẹp trúng ngay yết hầu sói xanh, chặn đứng thân thể nó lại.",
       "suggest": "Tay vượn của hắn lần nữa kẹp chặt vào yết hầu của con sói, ép chặt nó xuống để bảo vệ.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Thanh Lang miệng máu không ngừng cắn xé, nhưng thủy chung không cách nào cắn trúng Viên Minh.",
@@ -390,7 +416,8 @@
           25,
           0.27
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh chú ý tới, mới vừa rồi còn chỉ có toàn bộ chân lông tóc trắng Thanh Lang, lúc này hai đầu chân sau đều đã biến thành màu trắng.",
@@ -401,7 +428,8 @@
           26,
           0.19
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Nhanh như vậy...\"",
@@ -413,10 +441,11 @@
           0.23
         ],
         [
-          35,
+          33,
           0.13
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn liên tưởng đến bản thân cái kia thâm tàng đáy lòng suy đoán, trong lòng không khỏi nhảy một cái.",
@@ -427,7 +456,8 @@
           28,
           0.21
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Xin lỗi, Cáp Cống, ngươi được tranh thủ thời gian tỉnh lại.\"",
@@ -442,7 +472,8 @@
           29,
           0.57
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh quát khẽ một tiếng, vung lên cánh tay phải, hướng phía Thanh Lang đầu một quyền đập xuống.",
@@ -453,7 +484,8 @@
           30,
           0.36
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Phanh\" một tiếng vang trầm.",
@@ -464,19 +496,22 @@
           31,
           0.14
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh một quyền này lực lượng cực nặng, trực tiếp đem Thanh Lang nện đến ngã rầm trên mặt đất, vùng vẫy đến mấy lần, mới loạng chà loạng choạng mà đứng lên.",
-      "dich": "Một quyền cực mạnh này trực tiếp đánh cho sói xanh đổ vật xuống đất, giãy dụa mấy lần xong mới lảo đảo đứng lên.",
+      "dich": "Một quyền của Viên Minh cực mạnh này trực tiếp đánh cho sói xanh đổ vật xuống đất, giãy dụa mấy lần xong mới lảo đảo đứng lên.",
       "suggest": "Một quyền này của Viên Minh trực tiếp nện cho con sói này ngã lăn xuống mặt đất, vùng vẫy mấy lần mới loạng choạng đứng lên.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Bất quá lần này, Thanh Lang lại là chân sau chống đất, đứng thẳng đứng lên.",
       "dich": "Có điều khác là, lần này sói xanh đứng thẳng người bằng hai chân sau.",
       "suggest": "Nhưng lần này, con sói này lại chống chân chống đất, đứng thẳng lên.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Trong mắt của nó huyết hồng chi sắc lui đi hơn phân nửa, một lần nữa biến thành màu xanh sẫm, ở phía xa đống lửa quang mang chiếu rọi, phản xạ ra làm người ta sợ hãi lục quang.",
@@ -487,7 +522,8 @@
           34,
           0.29
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Viên... Minh...\"",
@@ -503,38 +539,39 @@
           0.17
         ],
         [
-          39,
+          37,
           0.11
         ],
         [
-          40,
+          38,
           0.16
         ],
         [
-          69,
+          67,
           0.15
         ],
         [
-          74,
+          72,
           0.15
         ],
         [
-          88,
+          86,
           0.15
         ],
         [
-          92,
+          90,
           0.15
         ],
         [
-          97,
+          95,
           0.11
         ],
         [
-          110,
+          108,
           0.14
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Thanh Lang há miệng, phát ra thanh âm khàn khàn.",
@@ -545,7 +582,8 @@
           36,
           0.21
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Miệng của nó khép mở có chút chậm, thanh âm cũng có vẻ hơi mơ hồ, phảng phất há miệng nói chuyện trở nên mười phần khó khăn.",
@@ -556,11 +594,12 @@
           37,
           0.24
         ]
-      ]
+      ],
+      "approved": true
     },
     {
-      "convert": "\"Cáp Cống, trả lời ta, ngươi đây có phải hay không là bị phi mao chi thuật phản phệ rồi?\"",
-      "dich": "\"Cáp Cống, trả lời ta, ngươi đây có phải là bị Phi Mao thuật phản phệ rồi không?\"",
+      "convert": "\"Cáp Cống, trả lời ta, ngươi đây có phải hay không là bị Phi Mao Chi Thuật phản phệ rồi?\"",
+      "dich": "\"Cáp Cống, trả lời ta, ngươi đây có phải là bị Phi Mao Thuật phản phệ rồi không?\"",
       "suggest": "\"Cáp Cống, trả lời ta, có phải ngươi bị Thuật Phi Mao phản phệ rồi không?\"",
       "similarity": [
         [
@@ -575,7 +614,8 @@
           38,
           0.57
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh thấy thế, liền vội vàng hỏi.",
@@ -591,22 +631,23 @@
           1
         ],
         [
-          74,
+          72,
           0.11
         ],
         [
-          88,
+          86,
           0.11
         ],
         [
-          92,
+          90,
           0.14
         ],
         [
-          97,
+          95,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Viên Minh, ta... Da thú... Thoát không xuống.\"",
@@ -618,30 +659,33 @@
           0.14
         ],
         [
-          69,
+          67,
           0.11
         ],
         [
-          110,
+          108,
           0.14
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hóa thành Thanh Lang Cáp Cống, gian nan mà đắng chát nói.",
       "dich": "Sói xanh do Cáp Cống hóa thành gian nan nói với vẻ đắng chát.",
       "suggest": "Hóa thành Bạch Cốt Hạt, gian nan mà nói.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Nói xong, hắn vậy mà tê liệt ngã xuống lấy ngồi xuống.",
       "dich": "Dứt lời, y bất ngờ đờ người ngồi bịch xuống đất.",
       "suggest": "Nói xong, hắn ngã xuống đất, ngồi xuống.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
-      "convert": "Viên Minh thấy thế, thu hồi phi mao chi thuật, đi tới gần, lo lắng hỏi: \"Ngươi bây giờ cảm giác như thế nào, hiện tại ta có thể làm cái gì?\"",
-      "dich": "Viên Minh thấy thế liên thu hồi Phi Mao thuật, bước lại gần rồi lo lắng hỏi: \"Ngươi hiện tại thấy thế nào, bây giờ ta có thể làm gì?\"",
+      "convert": "Viên Minh thấy thế, thu hồi Phi Mao Chi Thuật, đi tới gần, lo lắng hỏi: \"Ngươi bây giờ cảm giác như thế nào, hiện tại ta có thể làm cái gì?\"",
+      "dich": "Viên Minh thấy thế liên thu hồi Phi Mao Thuật, bước lại gần rồi lo lắng hỏi: \"Ngươi hiện tại thấy thế nào, bây giờ ta có thể làm gì?\"",
       "suggest": "Viên Minh thấy thế, thu hồi thuật Phi Mao, đi tới gần, lo lắng hỏi: \"Bây giờ ngươi cảm giác như thế nào, hiện tại ta có thể làm gì?\"",
       "similarity": [
         [
@@ -652,13 +696,15 @@
           43,
           0.39
         ]
-      ]
+      ],
+      "approved": true
     },
     {
-      "convert": "\"Ta dùng... Dùng quá nhiều lần, ta phi mao chi thuật... Giải trừ không được... Da thú đã, đã thoát không xuống... Ta không biết, nên làm cái gì...\"",
-      "dich": "\"Ta dùng ... dùng quá nhiều lần, Phi Mao thuật của ta ... không giải trừ được ... đã không, không cởi được da thú ... Ta không biết, nên làm gì ...\"",
+      "convert": "\"Ta dùng... Dùng quá nhiều lần, ta Phi Mao Chi Thuật... Giải trừ không được... Da thú đã, đã thoát không xuống... Ta không biết, nên làm cái gì...\"",
+      "dich": "\"Ta dùng ... dùng quá nhiều lần, Phi Mao Thuật của ta ... không giải trừ được ... đã không, không cởi được da thú ... Ta không biết, nên làm gì ...\"",
       "suggest": "\"Ta dùng... Dùng quá nhiều lần... Dùng quá nhiều lần... Ta giải trừ không được... Da thú đã thoát khỏi tay ta... Ta không biết nên làm cái gì...\"",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Cáp Cống nói xong, dùng móng vuốt xé rách hướng mặt mình.",
@@ -670,10 +716,11 @@
           0.17
         ],
         [
-          111,
+          109,
           0.21
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Kỳ phong lợi móng nhọn lập tức phá vỡ lông tóc bao trùm da mặt, Cáp Cống lại là cố nén kịch liệt đau nhức, ngạnh sinh sinh đem một khối da lông xé rách ra đến, bên trong lộ ra máu thịt be bét khuôn mặt.",
@@ -684,22 +731,24 @@
           46,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh đem thần hồn chi lực ngưng ở hai mắt, cẩn thận quan sát, phát hiện Cáp Cống trên mặt căn bản không có phi mao vết tích, ngược lại là từng chiếc lông tóc đều giống như từ trong máu thịt của hắn mọc ra.",
-      "dich": "Viên Minh ngưng hồn lực vào hai mắt rồi cẩn thận quan sát, phát hiện trên mặt Cáp Cống căn bản không có dấu vết phi mao (khoác lông), trái lại mỗi sợi lông giống như từ trong máu thịt y mọc ra vậy.",
+      "dich": "Viên Minh ngưng hồn lực vào hai mắt rồi cẩn thận quan sát, phát hiện trên mặt Cáp Cống căn bản không có dấu vết phi mao, trái lại mỗi sợi lông giống như từ trong máu thịt y mọc ra vậy.",
       "suggest": "Viên Minh đem hết sức lực tinh thần dồn vào hai mắt, cẩn thận quan sát, phát hiện trên mặt Cáp Cống không có tí dấu vết nào, trái lại toàn bộ lông tóc đều mọc ra từ trong máu thịt hắn.",
       "similarity": [
         [
           47,
           0.35
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Viên Minh, mau cứu ta...\"",
-      "dich": "\"Viên Minh, mau cứu ta ...\" Cáp Cống tay run run, đưa mảng da thú mới bị xé toạc về phía Viên Minh, cầu khẩn.",
+      "dich": "\"Viên Minh, mau cứu ta ...\"",
       "suggest": "\"Viên Minh, mau cứu ta...\"",
       "similarity": [
         [
@@ -711,29 +760,31 @@
           0.16
         ],
         [
-          69,
+          67,
           0.26
         ],
         [
-          110,
+          108,
           0.24
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Cáp Cống tay run run, đem xé toang da thú đưa về phía Viên Minh, cầu khẩn nói.",
-      "dich": "\"Ngươi, có thể sắp biến thành Nhân Tiêu.\"",
+      "dich": "Cáp Cống tay run run, đưa mảng da thú mới bị xé toạc về phía Viên Minh, cầu khẩn.",
       "suggest": "Cáp Cống run run, xé toạc da thú đưa cho Viên Minh, cầu khẩn nói.",
       "similarity": [
         [
           48,
           0.2
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Ngươi, có thể muốn biến thành Nhân Tiêu.\"",
-      "dich": "Viên Minh nhìn một màn này xong, cau mày nói.",
+      "dich": "\"Ngươi, có thể sắp biến thành Nhân Tiêu.\"",
       "suggest": "\"Ngươi có thể biến thành Nhân Tiêu được không?\"",
       "similarity": [
         [
@@ -741,40 +792,31 @@
           0.3
         ],
         [
-          65,
+          63,
           0.12
         ],
         [
-          68,
+          66,
           0.1
         ]
-      ]
-    },
-    {
-      "convert": "Viên Minh nhìn xem một màn này, ngưng lông mày nói.",
-      "dich": "Nghe được câu này, cánh tay đang giơ lên của Cáp Cống bỗng cứng ngắc, ngay tiếp đó run rẩy kịch liệt.",
-      "suggest": "Viên Minh nhìn thấy một màn này, nhíu mày nói.",
-      "similarity": [
-        [
-          50,
-          0.3
-        ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Nghe được câu này, Cáp Cống nâng tại giữa không trung tay cứng đờ, ngay sau đó run rẩy kịch liệt.",
-      "dich": "\"Ngươi nói ... cái gì, ta sắp biến thành ... loại quái vật kia sao?",
+      "dich": "Nghe được câu này, cánh tay đang giơ lên của Cáp Cống bỗng cứng ngắc, ngay tiếp đó run rẩy kịch liệt.",
       "suggest": "Nghe được câu này, tay Cáp Cống cứng đờ giữa không trung, sau đó run rẩy kịch liệt.",
       "similarity": [
         [
           51,
           0.37
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Ngươi nói... Cái gì, ta muốn biến thành... Loại kia quái vật sao?",
-      "dich": "Ta ...\"",
+      "dich": "\"Ngươi nói ... cái gì, ta sắp biến thành ... loại quái vật kia sao?",
       "suggest": "\"Ngươi nói cái gì, ta muốn biến thành loại quái vật kia sao?",
       "similarity": [
         [
@@ -782,14 +824,15 @@
           0.35
         ],
         [
-          75,
+          73,
           0.12
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Ta...\"",
-      "dich": "Y thoạt đầu không thể tin nổi, nhưng khi nhìn lại hai chân mình, thanh âm liền trở nên nghẹn ngào.",
+      "dich": "Ta ...\"",
       "suggest": "Ta ...\"",
       "similarity": [
         [
@@ -809,44 +852,47 @@
           0.11
         ],
         [
-          81,
+          79,
           0.12
         ],
         [
-          93,
+          91,
           0.15
         ],
         [
-          115,
+          113,
           0.14
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn thoạt đầu khó có thể tin, nhưng ở nhìn thấy hai chân của mình lúc, thanh âm liền nghẹn ngào ở.",
-      "dich": "Lúc trước khi nhìn thấy dung mạo thật của ntv, trong lòng Viên Minh thực ra đã có chút suy đoán, chỉ là lòng còn tồn tại tâm lý may mắn, không muốn tin.",
+      "dich": "Y thoạt đầu không thể tin nổi, nhưng khi nhìn lại hai chân mình, thanh âm liền trở nên nghẹn ngào.",
       "suggest": "Hắn vốn nghĩ rất khó tin, nhưng khi nhìn thấy hai chân mình, thanh âm liền nghẹn ngào nói.",
       "similarity": [
         [
           54,
           0.38
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Ban đầu ở nhìn thấy Nhân Tiêu Vương chân dung thời điểm, Viên Minh trong lòng kỳ thật đã có mấy phần suy đoán, chỉ là vẫn trong lòng còn có mấy phần may mắn, không muốn đi tin tưởng.",
-      "dich": "Nhưng hôm nay sau khi nhìn thấy bộ dạng Cáp Cống, hắn không thể không đối diện với một sự thật, đó chính là kết cục của thứ gọi là Phi Mao thú nô phản phệ kia, quá nửa chính là biến thành Nhân Tiêu.",
+      "dich": "Lúc trước khi nhìn thấy dung mạo thật của Nhân Tiêu Vương, trong lòng Viên Minh thực ra đã có chút suy đoán, chỉ là lòng còn tồn tại tâm lý may mắn, không muốn tin.",
       "suggest": "Lúc đầu khi nhìn thấy chân dung của Nhân Tiêu Vương, trong lòng Viên Minh kỳ thật đã có vài phần nghi hoặc, chỉ là trong lòng vẫn còn có vài phần may mắn, không muốn tin.",
       "similarity": [
         [
           55,
           0.31
         ]
-      ]
+      ],
+      "approved": true
     },
     {
-      "convert": "Nhưng hắn hôm nay nhìn thấy Cáp Cống bộ dáng về sau, không thể không đối mặt một cái hiện thực, đó chính là cái gọi là phi mao thú nô phản phệ điểm cuối cùng, hơn phân nửa chính là biến thành Nhân Tiêu.",
-      "dich": "Nói cách khác, mỗi Nhân Tiêu mà Bích La động xem như quái vật để săn giết, đều từng là một con người sống sờ sờ.",
+      "convert": "Nhưng hắn hôm nay nhìn thấy Cáp Cống bộ dáng về sau, không thể không đối mặt một cái hiện thực, đó chính là cái gọi là Phi Mao thú nô phản phệ điểm cuối cùng, hơn phân nửa chính là biến thành Nhân Tiêu.",
+      "dich": "Nhưng hôm nay sau khi nhìn thấy bộ dạng Cáp Cống, hắn không thể không đối diện với một sự thật, đó chính là kết cục của thứ gọi là Phi Mao thú nô phản phệ kia, quá nửa chính là biến thành Nhân Tiêu.",
       "suggest": "Nhưng hôm nay nhìn thấy bộ dáng của Cáp Cống, hắn không thể không đối mặt với một hiện thực, đó chính là điểm cuối cùng của Phi Mao thú nô, hơn phân nửa sẽ biến thành Nhân Tiêu.",
       "similarity": [
         [
@@ -854,58 +900,63 @@
           0.37
         ],
         [
-          114,
+          112,
           0.13
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Nói cách khác, mỗi một cái như là quái vật bị Bích La Động chỗ săn giết Nhân Tiêu, đều từng là một cái người sống sờ sờ.",
-      "dich": "Điểm này, hắn từng muốn nhờ mèo bạc xác thực nhưng nó không trả lời.",
+      "dich": "Nói cách khác, mỗi Nhân Tiêu mà Bích La Động xem như quái vật để săn giết, đều từng là một con người sống sờ sờ.",
       "suggest": "Nói cách khác, mỗi một con Nhân Tiêu bị Bích La động săn giết, đều từng là một con người sống sờ sờ.",
       "similarity": [
         [
           57,
           0.61
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Điểm này, hắn đã hướng ngân miêu chứng thực qua, nhưng kẻ sau không có trả lời.",
-      "dich": "Hiện tại không cần trả lời gì nữa, sự thật trước mắt đã cho hắn đáp án chắc chắn.",
+      "dich": "Điểm này, hắn từng muốn nhờ mèo bạc xác thực nhưng nó không trả lời.",
       "suggest": "Hắn đã nói rõ những điểm này, nhưng người sau không trả lời.",
       "similarity": [
         [
           58,
           0.18
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hiện tại cũng không cần hồi đáp gì, sự thật trước mắt, để hắn có khẳng định đáp án.",
-      "dich": "Phi Mao thuật phản phệ xâm thực, hậu quả không chỉ là tâm trí thay đổi, không chỉ là mất đi lý trí, trở nên khát máu tàn bạo, mà còn khiến cơ thể thay đổi, biến thành quái vật không phải người, chẳng phải thú.",
+      "dich": "Hiện tại không cần trả lời gì nữa, sự thật trước mắt đã cho hắn đáp án chắc chắn.",
       "suggest": "Hiện tại cũng không cần nói gì nữa, sự thật trước mắt đã cho hắn câu trả lời chắc chắn.",
       "similarity": [
         [
           59,
           0.56
         ]
-      ]
+      ],
+      "approved": true
     },
     {
-      "convert": "Phi mao chi thuật phản phệ ăn mòn, mang tới không chỉ là tâm trí biến hóa, không chỉ là sẽ đánh mất lý trí, trở nên khát máu tàn bạo, càng thêm sẽ mang đến nhục thể biến hóa, trở thành không người không thú quái vật.",
-      "dich": "Nhìn bộ dạng của Cáp Cống, trong lòng Viên Minh không khỏi cảm thấy thương cảm.",
+      "convert": "Phi Mao Chi Thuật phản phệ ăn mòn, mang tới không chỉ là tâm trí biến hóa, không chỉ là sẽ đánh mất lý trí, trở nên khát máu tàn bạo, càng thêm sẽ mang đến nhục thể biến hóa, trở thành không người không thú quái vật.",
+      "dich": "Phi Mao Thuật phản phệ xâm thực, hậu quả không chỉ là tâm trí thay đổi, không chỉ là mất đi lý trí, trở nên khát máu tàn bạo, mà còn khiến cơ thể thay đổi, biến thành quái vật không phải người, chẳng phải thú.",
       "suggest": "Thuật Phi Mao chi thuật ăn mòn, mang đến không chỉ thay đổi tâm trí, không chỉ là sẽ đánh mất lý trí, trở nên khát máu tàn bạo, càng khiến cho thân thể trở nên quái vật không người không thú.",
       "similarity": [
         [
           60,
           0.3
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh nhìn xem Cáp Cống bộ dáng, trong lòng không khỏi sinh ra thương hại.",
-      "dich": "Từ khi hắn bị bắt tới Thập Vạn Đại Sơn, trở thành một Phi Mao thú nô tới nay, trong suốt khoảng thời gian này, ngươi duy nhất có thể tính là bạn hắn cũng chỉ có một người Cáp Cống mà thôi, nhưng giữa bọn hắn ngoài việc từng có một giai đoạn cùng nhau trải qua hoạn nạn ra, thực tế gặp nhau cũng không nhiều lắm.",
+      "dich": "Nhìn bộ dạng của Cáp Cống, trong lòng Viên Minh không khỏi cảm thấy thương cảm.",
       "suggest": "Viên Minh nhìn dáng vẻ của Cáp Cống, trong lòng không kìm được mà sinh ra thương hại.",
       "similarity": [
         [
@@ -916,33 +967,36 @@
           61,
           0.29
         ]
-      ]
+      ],
+      "approved": true
     },
     {
-      "convert": "Từ hắn bị bắt được Thập Vạn Đại Sơn, trở thành một gã phi mao thú nô, quãng thời gian này ở bên trong, duy nhất có thể tính là bằng hữu, cũng chỉ có Cáp Cống một người, nhưng giữa bọn hắn ngoại trừ từng có một đoạn cùng chung hoạn nạn trải qua bên ngoài, gặp nhau kỳ thật cũng không quá nhiều.",
-      "dich": "Bây giờ nghĩ lại, Viên Minh mới giật mình nhớ ra, Cáp Cống đã từng nói với hắn, y muốn gia nhập Bích La động, trở thành đệ tử ký danh không phải vì thứ gì khác, chỉ là muốn một lần nữa khôi phục tự do.",
+      "convert": "Từ hắn bị bắt được Thập Vạn Đại Sơn, trở thành một gã Phi Mao thú nô, quãng thời gian này ở bên trong, duy nhất có thể tính là bằng hữu, cũng chỉ có Cáp Cống một người, nhưng giữa bọn hắn ngoại trừ từng có một đoạn cùng chung hoạn nạn trải qua bên ngoài, gặp nhau kỳ thật cũng không quá nhiều.",
+      "dich": "Từ khi hắn bị bắt tới Thập Vạn Đại Sơn, trở thành một Phi Mao thú nô tới nay, trong suốt khoảng thời gian này, ngươi duy nhất có thể tính là bạn hắn cũng chỉ có một người Cáp Cống mà thôi, nhưng giữa bọn hắn ngoài việc từng có một giai đoạn cùng nhau trải qua hoạn nạn ra, thực tế gặp nhau cũng không nhiều lắm.",
       "suggest": "Từ khi hắn bị bắt khỏi Thập Vạn Đại Sơn, trở thành một gã Phi Mao thú nô, trong khoảng thời gian này, người duy nhất có thể tính là bằng hữu, cũng chỉ có một mình Cáp Cống. Nhưng những người bạn tốt của hắn kỳ thật cũng không có quá nhiều.",
       "similarity": [
         [
           62,
           0.33
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hiện đang hồi tưởng lại đến, Viên Minh mới giật mình nhớ lại, Cáp Cống đã từng đã nói với hắn, muốn gia nhập Bích La Động, trở thành ký danh đệ tử, không phải là vì khác, chỉ là muốn một lần nữa khôi phục sự tự do.",
-      "dich": "Vì mục tiêu này, Cáp Cống rất siêng năng trong việc săn thú.",
+      "dich": "Bây giờ nghĩ lại, Viên Minh mới giật mình nhớ ra, Cáp Cống đã từng nói với hắn, y muốn gia nhập Bích La Động, trở thành đệ tử ký danh không phải vì thứ gì khác, chỉ là muốn một lần nữa khôi phục tự do.",
       "suggest": "Đang hồi tưởng lại, Viên Minh mới giật mình nhớ ra, Cáp Cống đã từng nói với hắn, muốn gia nhập Bích La động, không phải vì muốn trở thành ký danh đệ tử, mà là muốn một lần nữa khôi phục sự tự do.",
       "similarity": [
         [
           63,
           0.62
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Vì cái mục tiêu này, Cáp Cống ở săn thú một chuyện bên trên, đồng dạng cũng là mười phần chăm chỉ.",
-      "dich": "Nhưng chính sự siêng năng ấy lại khiến y tiến nhanh hơn trên con đường biến thành Nhân Tiêu.",
+      "dich": "Vì mục tiêu này, Cáp Cống rất siêng năng trong việc săn thú.",
       "suggest": "Vì mục tiêu này, Cáp Cống cũng cực kỳ chăm chỉ săn thú.",
       "similarity": [
         [
@@ -953,51 +1007,50 @@
           64,
           0.49
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Mà vừa vặn là loại này chăm chỉ, để hắn đang nhanh chóng Nhân Tiêu hóa trên đường, đi được càng nhanh một bước.",
-      "dich": "Dù sao y không được như mình, có thể nhờ lư hương tạm thời áp chế, hơn nữa y còn tu luyện Huyết Khí pháp và Phi Mao thuật hỗ trợ lẫn nhau, có lẽ đây cũng là một trong những nguyên nhân.",
+      "dich": "Nhưng chính sự siêng năng ấy lại khiến y tiến nhanh hơn trên con đường biến thành Nhân Tiêu.",
       "suggest": "Mà vừa vặn là nhờ sự chăm chỉ vừa phải, giúp hắn nhanh chóng tiêu hóa những đồ vật cần thiết trên đường đi tới đây.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
-      "convert": "Dù sao hắn không có bản thân dạng này có thể thông qua lư hương tới tạm thời áp chế, lại tu luyện Huyết Khí pháp cùng phi mao chi thuật hỗ trợ lẫn nhau, có lẽ cũng là nguyên nhân một trong.",
-      "dich": "Chỉ thoáng chốc sau đó, đôi mắt Cáp Cống lần nữa lóe lên tia sáng màu máu, đồng thời lông trên người đã có quá nửa chuyển thành màu trắng.",
+      "convert": "Dù sao hắn không có bản thân dạng này có thể thông qua lư hương tới tạm thời áp chế, lại tu luyện Huyết Khí pháp cùng Phi Mao Chi Thuật hỗ trợ lẫn nhau, có lẽ cũng là nguyên nhân một trong.",
+      "dich": "Dù sao y không được như mình, có thể nhờ lư hương tạm thời áp chế, hơn nữa y còn tu luyện Huyết Khí pháp và Phi Mao Thuật hỗ trợ lẫn nhau, có lẽ đây cũng là một trong những nguyên nhân.",
       "suggest": "Dù sao hắn cũng không có khả năng tự kiềm chế bản thân, hơn nữa còn tu luyện Huyết Khí pháp và thuật Phi Mao hỗ trợ lẫn nhau, có lẽ một trong nguyên nhân chủ yếu là do hắn.",
       "similarity": [
         [
           66,
           0.33
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Mới bất quá thời gian qua một lát, Cáp Cống đôi mắt lần nữa nổi lên huyết hồng quang mang, trên người lông tóc vậy mà đã có một nửa, đều chuyển thành tuyết trắng màu sắc.",
-      "dich": "\"Ngươi nói ... là thật ... Ta có thể phải ... Không thể ...\"",
+      "dich": "Chỉ thoáng chốc sau đó, đôi mắt Cáp Cống lần nữa lóe lên tia sáng màu máu, đồng thời lông trên người đã có quá nửa chuyển thành màu trắng.",
       "suggest": "Mới bất quá thời gian qua một lát, hai mắt Cáp Cống lại lần nữa nổi lên ánh sáng huyết hồng, lông tóc trên người cũng đã có một nửa, đều chuyển thành màu trắng.",
       "similarity": [
         [
           67,
           0.17
         ]
-      ]
-    },
-    {
-      "convert": "Viên Minh nhướng mày, chính là muốn xuất thủ khống chế hắn, chỉ thấy Cáp Cống đúng là ngạnh sinh sinh nương tựa theo ý chí của mình, lại đem trong mắt huyết sắc đè ép trở về.",
-      "dich": "\"Viên Minh, giúp ta một chút ... Giết ta đi ...\"",
-      "suggest": "Viên Minh nhướng mày, đang muốn ra tay khống chế hắn, chỉ thấy Cáp Cống đúng là ngoan ngoãn bất khuất, luôn luôn nương tựa vào ý chí của mình, lại đem huyết sắc trong mắt thu trở lại.",
-      "similarity": []
+      ],
+      "approved": true
     },
     {
       "convert": "\"Ngươi nói... Là thật... Ta có thể muốn... Không được...\"",
-      "dich": "Cáp Cống gian nan mở miệng.",
+      "dich": "\"Ngươi nói ... là thật ... Ta có thể phải ... Không thể ...\"",
       "suggest": "\"Ngươi nói...là thật...Ta có thể...không được...\"",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "\"Viên Minh, giúp ta một chút... Giết ta...\"",
-      "dich": "Mõm sói của y đã bắt đầu rút ngắn lại, trở nên càng lúc càng ngắn, đồng thời lông trên mặt lại đang lặng lẽ mọc ra.",
+      "dich": "\"Viên Minh, giúp ta một chút ... Giết ta đi ...\"",
       "suggest": "\"Viên Minh, giúp ta giết hắn...\"",
       "similarity": [
         [
@@ -1009,14 +1062,15 @@
           0.44
         ],
         [
-          110,
+          108,
           0.24
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Cáp Cống gian nan mở miệng.",
-      "dich": "\"Ngươi đang nói gì thế?",
+      "dich": "Cáp Cống gian nan mở miệng.",
       "suggest": "Cáp Cống gian nan mở miệng.",
       "similarity": [
         [
@@ -1028,39 +1082,42 @@
           1
         ],
         [
-          90,
+          88,
           0.15
         ],
         [
-          104,
+          102,
           0.31
         ],
         [
-          118,
+          116,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn lang miệng đã bắt đầu rút về, trở nên càng lúc càng ngắn, trên mặt lông tóc lại tại lặng yên sinh trưởng.",
-      "dich": "Ta làm sao có thể giết ngươi?\"",
+      "dich": "Miệng sói của y đã bắt đầu rút ngắn lại, trở nên càng lúc càng ngắn, đồng thời lông trên mặt lại đang lặng lẽ mọc ra.",
       "suggest": "Lang miệng hắn bắt đầu thu nhỏ, lông tóc trên mặt lặng yên sinh trưởng.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "\"Ngươi đang nói cái gì?",
-      "dich": "Viên Minh cả kinh đáp.",
+      "dich": "\"Ngươi đang nói gì thế?",
       "suggest": "\"Ngươi đang nói cái gì vậy?",
       "similarity": [
         [
           72,
           0.39
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Ta làm sao có thể giết ngươi?\"",
-      "dich": "\"Ta ... không muốn, ta không muốn ... biến thành loại quái vậy kia ...\"",
+      "dich": "Ta làm sao có thể giết ngươi?\"",
       "suggest": "Làm sao ta có thể giết ngươi?\"",
       "similarity": [
         [
@@ -1075,11 +1132,12 @@
           73,
           0.61
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh cả kinh nói.",
-      "dich": "Giọng Cáp Cống có chút nghẹn ngào, thanh âm khàn khàn đến rối tinh rối mù, khiến Viên Minh nghe được càng thêm thương cảm.",
+      "dich": "Viên Minh cả kinh đáp.",
       "suggest": "Viên Minh cả kinh nói.",
       "similarity": [
         [
@@ -1095,36 +1153,38 @@
           0.54
         ],
         [
-          88,
+          86,
           0.23
         ],
         [
-          90,
+          88,
           0.16
         ],
         [
-          92,
+          90,
           0.18
         ],
         [
-          97,
+          95,
           0.11
         ],
         [
-          118,
+          116,
           0.16
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Ta... Không muốn, ta không muốn... Biến thành loại kia quái vật...\"",
-      "dich": "Thế nhưng, hắn cũng không có cách nào để giúp y.",
+      "dich": "\"Ta ... không muốn, ta không muốn ... biến thành loại quái vậy kia ...\"",
       "suggest": "\"Ta...không muốn... biến thành loại quái vật kia...\"",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Cáp Cống ngữ khí có chút nghẹn ngào, thanh âm cũng khàn khàn được rối tinh rối mù, nghe được Viên Minh càng phát ra thương cảm.",
-      "dich": "Lư hương của hắn dù là một bảo vật, nhưng hắn lại không biết sử dụng, chỉ có thể trợ giúp mình, không cách nào giúp người khác.",
+      "dich": "Giọng Cáp Cống có chút nghẹn ngào, thanh âm khàn khàn đến rối tinh rối mù, khiến Viên Minh nghe được càng thêm thương cảm.",
       "suggest": "Cáp Cống có chút nghẹn ngào, thanh âm cũng khàn khàn đến mức rối mù, Viên Minh nghe xong lại cảm thấy thương cảm.",
       "similarity": [
         [
@@ -1135,45 +1195,50 @@
           76,
           0.46
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Thế nhưng là, hắn cũng không thể đến giúp biện pháp của hắn.",
-      "dich": "Ánh sáng trong mắt Cáp Cống mờ dần đi, y mở miệng nói: \"Hãy để ta ... chết...như một con người.",
+      "dich": "Thế nhưng, hắn cũng không có cách nào để giúp y.",
       "suggest": "Nhưng hắn lại không thể giúp hắn giải quyết vấn đề.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Hắn lư hương mặc dù là kiện bảo vật, có thể chính hắn cũng sẽ không khu dùng, chỉ có thể trợ giúp bản thân, không cách nào đến giúp người khác.",
-      "dich": "Ta không hy vọng ... đi tới U Minh, nó ... nó không nhận ra ta ...\"",
+      "dich": "Lư hương của hắn dù là một bảo vật, nhưng hắn lại không biết sử dụng, chỉ có thể trợ giúp mình, không cách nào giúp người khác.",
       "suggest": "Hắn mặc dù là bảo vật, nhưng bản thân hắn cũng không có khả năng sử dụng, chỉ có thể giúp đỡ bản thân mà thôi, không cách nào giúp đỡ người khác.",
       "similarity": [
         [
           78,
           0.34
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Cáp Cống trong mắt quang mang ảm đạm, mở miệng nói ra: \"Để cho ta... Làm một người, chết đi.",
-      "dich": "\"Nó?\"",
+      "dich": "Ánh sáng trong mắt Cáp Cống mờ dần đi, y mở miệng nói: \"Hãy để ta ... chết...như một con người.",
       "suggest": "Ánh mắt Cáp Cống ảm đạm, mở miệng nói: \"Để ta ... Làm một người... chết đi.",
       "similarity": [
         [
           79,
           0.22
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Ta không hi vọng... Đợi đi đến U Minh, nàng... Nàng không nhận ra ta tới...\"",
-      "dich": "\"Đồ Á...là con gái của ta ...\"",
+      "dich": "Ta không hy vọng ... đi tới U Minh, nàng ... nàng không nhận ra ta ...\"",
       "suggest": "Ta không hy vọng... Đợi đến khi đến U Minh, nàng... nàng không nhận ra ta...'",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "\"Nàng?\"",
-      "dich": "Viên Minh cũng là lần đầu tiên biết, Cáp Cống lại còn có một cô con gái.",
+      "dich": "\"Nàng?\"",
       "suggest": "\"Nàng?\"",
       "similarity": [
         [
@@ -1201,122 +1266,90 @@
           0.35
         ],
         [
-          91,
+          89,
           0.15
         ],
         [
-          93,
+          91,
           0.16
         ],
         [
-          115,
+          113,
           0.25
         ]
-      ]
+      ],
+      "approved": true
     },
     {
-      "convert": "Viên Minh nghi ngờ nói.",
-      "dich": "\"Nó vừa sinh ra ... đã mắc bệnh tim, ta vì ... ta vì trị bệnh cho nó ... mới bán mình cho Bích La động.\"",
-      "suggest": "Viên Minh nghi ngờ nói.",
-      "similarity": [
-        [
-          15,
-          0.12
-        ],
-        [
-          39,
-          0.11
-        ],
-        [
-          74,
-          0.18
-        ],
-        [
-          88,
-          0.23
-        ],
-        [
-          90,
-          0.16
-        ],
-        [
-          92,
-          0.18
-        ],
-        [
-          97,
-          0.11
-        ],
-        [
-          118,
-          0.16
-        ]
-      ]
-    },
-    {
-      "convert": "\"Đồ á... Là nữ nhi của ta...\"",
-      "dich": "Cáp Cống tựa như nhớ tới hình dáng con gái mình, đáy mắt vậy mà lại có thêm nét cười.",
+      "convert": "\"Đồ Á... Là nữ nhi của ta...\"",
+      "dich": "\"Đồ Á...là con gái của ta ...\"",
       "suggest": "\"Đồ á...là nữ nhi của ta...\"",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Viên Minh cũng là lần đầu tiên biết, Cáp Cống lại còn có một đứa con gái.",
-      "dich": "Chỉ là nét cười này, rất nhanh đã bị thống khổ thay thế.",
+      "dich": "Viên Minh cũng là lần đầu tiên biết, Cáp Cống lại còn có một cô con gái.",
       "suggest": "Viên Minh cũng là lần đầu tiên biết, Cáp Cống lại còn có một đứa con gái.",
       "similarity": [
         [
           83,
           0.85
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Nàng sinh ra tới... Liền có bệnh tim, ta là... Ta là vì, trị bệnh cho nàng... Mới đưa bản thân bán cho Bích La Động.\"",
-      "dich": "\"Ta cứ nghĩ ngươi giống ta, đều là bị bắt tới đây.\"",
+      "dich": "\"Nàng vừa sinh ra ... đã mắc bệnh tim, ta vì ... ta vì trị bệnh cho nàng ... mới bán mình cho Bích La Động.\"",
       "suggest": "\"Nàng sinh ra đã có bệnh tim, ta là...ta vì trị bệnh cho nàng nên mới bán nàng cho Bích La Động.\"",
       "similarity": [
         [
           84,
           0.21
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Cáp Cống giống như là nhớ tới bản thân bộ dáng của nữ nhi, đáy mắt vậy mà nhiều hơn một phần ý cười.",
-      "dich": "Viên Minh thở dài nói.",
+      "dich": "Cáp Cống tựa như nhớ tới hình dáng con gái mình, đáy mắt vậy mà lại có thêm nét cười.",
       "suggest": "Cáp Cống dường như nhớ tới bộ dáng của nữ nhi, trong mắt bỗng nhiên xuất hiện một phần cười.",
       "similarity": [
         [
           85,
           0.1
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Chỉ là cái này ý cười, rất nhanh liền bị thống khổ thay thế.",
-      "dich": "\"Ta ban đầu ... là nô bộc, vì đắc tội ... Mông Sơn trưởng lão, lúc đầu ... là phải chết, về sau ... kiểm tra có linh căn ... mới trở thành, thành Phi Mao thú nô.\"",
+      "dich": "Chỉ là nét cười này, rất nhanh đã bị thống khổ thay thế.",
       "suggest": "Chỉ là ý cười này thôi, rất nhanh đã bị thống khổ thay thế.",
       "similarity": [
         [
           86,
           0.67
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Ta cho là ngươi giống như ta, đều là bị bắt tới.\"",
-      "dich": "Cáp Cống thều thào nói.",
+      "dich": "\"Ta cứ nghĩ ngươi giống ta, đều là bị bắt tới đây.\"",
       "suggest": "\"Ta tưởng rằng ngươi giống như ta, đều bị bắt tới.\"",
       "similarity": [
         [
           87,
           0.21
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh thở dài nói.",
-      "dich": "\"Vậy con gái người?\"",
+      "dich": "Viên Minh thở dài nói.",
       "suggest": "Viên Minh thở dài nói.",
       "similarity": [
         [
@@ -1336,37 +1369,39 @@
           1
         ],
         [
-          90,
+          88,
           0.16
         ],
         [
-          92,
+          90,
           0.18
         ],
         [
-          97,
+          95,
           0.11
         ],
         [
-          118,
+          116,
           0.16
         ]
-      ]
+      ],
+      "approved": true
     },
     {
-      "convert": "\"Ta ban đầu... Là nô bộc, là đắc tội... Mông Sơn trưởng lão, đáng nhẽ... Là phải chết, về sau... Đo ra có linh căn... Mới thành, thành phi mao thú nô.\"",
-      "dich": "Viên Minh lo lắng hỏi.",
+      "convert": "\"Ta ban đầu... Là nô bộc, là đắc tội... Mông Sơn trưởng lão, đáng nhẽ... Là phải chết, về sau... Đo ra có linh căn... Mới thành, thành Phi Mao thú nô.\"",
+      "dich": "\"Ta ban đầu ... là nô bộc, vì đắc tội ... Mông Sơn trưởng lão, lúc đầu ... là phải chết, về sau ... kiểm tra có linh căn ... mới trở thành, thành Phi Mao thú nô.\"",
       "suggest": "\"Ta vốn là nô bộc, là đắc tội với Mông Sơn trưởng lão, đáng lẽ ra... phải chết, nhưng sau đó... đo ra có linh căn mới thành, trở thành Phi Mao thú nô.\"",
       "similarity": [
         [
           89,
           0.25
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Cáp Cống nói.",
-      "dich": "\"Không biết.",
+      "dich": "Cáp Cống nói.",
       "suggest": "Cáp Cống nói.",
       "similarity": [
         [
@@ -1386,26 +1421,27 @@
           0.23
         ],
         [
-          93,
+          91,
           0.16
         ],
         [
-          104,
+          102,
           0.15
         ],
         [
-          111,
+          109,
           0.14
         ],
         [
-          118,
+          116,
           0.23
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Kia con gái của ngươi?\"",
-      "dich": "Khi ta đi ... nó vừa đầy tháng ... Đã qua bảy năm, không gặp ...\"",
+      "dich": "\"Vậy con gái ngươi?\"",
       "suggest": "\"Con gái của ngươi là ai?\"",
       "similarity": [
         [
@@ -1428,11 +1464,12 @@
           91,
           0.12
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh lo lắng nói.",
-      "dich": "Cáp Cống nước mắt lưng tròng, đáy mắt tràn ngập sự bi thương.",
+      "dich": "Viên Minh lo lắng hỏi.",
       "suggest": "Viên Minh lo lắng nói.",
       "similarity": [
         [
@@ -1460,24 +1497,26 @@
           0.54
         ],
         [
-          97,
+          95,
           0.11
         ],
         [
-          118,
+          116,
           0.16
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Không biết... Ta thời điểm ra đi... Nàng vừa trăng tròn... Đã qua bảy năm, chưa từng thấy...\"",
-      "dich": "\"Nếu đã như thế, người càng phải sống, chí ít ... gặp con bé một lần.\"",
+      "dich": "\"Không biết. Khi ta đi ... nó vừa đầy tháng ... Đã qua bảy năm, không gặp ...\"",
       "suggest": "\"Không biết ... lúc ta rời đi... Nàng vừa tròn bảy năm... Đã qua bảy năm, chưa từng thấy...\"",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Cáp Cống đáy mắt bi thương dũng động, đã chứa đầy nước mắt.",
-      "dich": "Viên Minh cố tìm lý do khuyên nhủ.",
+      "dich": "Cáp Cống nước mắt lưng tròng, đáy mắt tràn ngập sự bi thương.",
       "suggest": "Đáy mắt Cáp Cống tràn đầy nước mắt.",
       "similarity": [
         [
@@ -1489,29 +1528,31 @@
           0.11
         ],
         [
-          104,
+          102,
           0.11
         ],
         [
-          118,
+          116,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Tức là dạng này, ngươi càng cái kia sống sót, chí ít... Gặp lại nàng một mặt.\"",
-      "dich": "Cáp Cống liên tục lắc đầu, nói: \"Không thể ... để nó thấy ...\"",
+      "dich": "\"Nếu đã như thế, người càng phải sống, chí ít ... gặp nàng một lần.\"",
       "suggest": "\"Nếu như thế, ít nhất ngươi cũng nên gặp lại nàng một lần.\"",
       "similarity": [
         [
-          96,
+          95,
           0.2
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh khuyên.",
-      "dich": "\"Ta đã ... sắp mất thần trí ... Giết, giết ta đi ...\"",
+      "dich": "Viên Minh cố tìm lý do khuyên nhủ.",
       "suggest": "Viên Minh khuyên.",
       "similarity": [
         [
@@ -1543,59 +1584,65 @@
           0.16
         ],
         [
-          97,
+          96,
           0.11
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Cáp Cống lắc đầu liên tục, nói ra: \"Không thể... Để nàng nhìn thấy...\"",
-      "dich": "Giọng điệu như cầu xin của Cáp Cống khiến trái tim Viên Minh thắt lại, trong lòng dâng lên cảm giác chua xót khó tả, không khỏi nhớ tới gã Nhân Tiêu Vương kia.",
+      "dich": "Cáp Cống liên tục lắc đầu, nói: \"Không thể ... để nàng thấy ...\"",
       "suggest": "Cáp Cống lắc đầu liên tục, nói: \"Không thể để nàng nhìn thấy...\"",
       "similarity": [
         [
-          98,
+          97,
           0.25
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Ta đã... Phải mất đi, thần trí... Giết, giết ta...\"",
-      "dich": "Tại thời khắc cuối cùng, khi tỉnh táo lại, gã cũng cầu khẩn y như thế này:",
+      "dich": "\"Ta đã ... sắp mất thần trí ... Giết, giết ta đi ...\"",
       "suggest": "\"Ta...đã... mất đi...ta...đã... mất đi...ta...\"",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Cáp Cống gần như cầu khẩn ngữ khí, để Viên Minh tâm không khỏi gấp một lần, một cỗ khó nói lên lời chua xót cảm xúc, bò lên trên trong lòng, hắn không khỏi nghĩ đến cái kia Nhân Tiêu Vương.",
-      "dich": "\"Giúp ta một chút ... Giết ta đi ...\"",
+      "dich": "Giọng điệu như cầu xin của Cáp Cống khiến trái tim Viên Minh thắt lại, trong lòng dâng lên cảm giác chua xót khó tả, không khỏi nhớ tới gã Nhân Tiêu Vương kia.",
       "suggest": "Cáp Cống gần như cầu khẩn, khiến Viên Minh không khỏi khẩn trương gấp một lần, một loại cảm xúc chua xót khó nói nên lời, bò lên trong lòng, hắn không khỏi nghĩ đến vị Nhân Tiêu Vương kia.",
       "similarity": [
         [
-          100,
+          99,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Ở hắn khôi phục thần trí thời khắc sống còn, đồng dạng là dạng này phát ra cầu khẩn: \"Giúp ta một chút... Giết ta...\"",
-      "dich": "\"Nếu như ... ngươi có thể ra ngoài, thay ta ... trông nó một chút.\"",
+      "dich": "Tại thời khắc cuối cùng, khi tỉnh táo lại, gã cũng cầu khẩn y như thế này: \"Giúp ta một chút ... Giết ta đi ...\"",
       "suggest": "Trong thời khắc hắn khôi phục thần trí, cũng có những lúc hắn phát ra những lời cầu khẩn như vậy: \"Giúp ta một chút... giết ta...\"",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "\"Nếu như... Ngươi có thể đi, thay ta... Nhìn nàng một cái.\"",
-      "dich": "Cáp Cống lần nữa mở miệng.",
+      "dich": "\"Nếu như ... ngươi có thể ra ngoài, thay ta ... trông nàng một chút.\"",
       "suggest": "\"Nếu như... ngươi có thể đi, thay ta... nhìn nàng một chút.\"",
       "similarity": [
         [
-          103,
+          101,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Cáp Cống mở miệng lần nữa.",
-      "dich": "Cổ họng Viên Minh như nghẹn lại, hồi lâu không nói lên lời, nhưng cuối cùng hắn vẫn lên tiếng hỏi: \"Con bé ở đâu?\"",
+      "dich": "Cáp Cống lần nữa mở miệng.",
       "suggest": "Cáp Cống mở miệng lần nữa.",
       "similarity": [
         [
@@ -1611,68 +1658,74 @@
           0.15
         ],
         [
-          104,
+          102,
           0.24
         ],
         [
-          118,
+          116,
           0.15
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh như nghẹn ở cổ họng, nửa ngày nói không ra lời, có thể cuối cùng vẫn mở miệng hỏi: \"Nàng ở đâu?\"",
-      "dich": "\"Thanh Áo sơn, Miêu Hoa trại, dưới gốc cây hoa gạo lớn nhất trại.\"",
+      "dich": "Cổ họng Viên Minh như nghẹn lại, hồi lâu không nói lên lời, nhưng cuối cùng hắn vẫn lên tiếng hỏi: \"Nàng ở đâu?\"",
       "suggest": "Viên Minh như bị nghẹn ở cổ họng, nửa lời không nói, cuối cùng vẫn mở miệng hỏi: \"Nàng ở đâu?\"",
       "similarity": [
         [
-          105,
+          103,
           0.18
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Thanh Áo Sơn Miêu hoa trại, lớn nhất cây kia Mộc Miên Hoa dưới cây.\"",
-      "dich": "Cáp Cống nói câu này vô cùng trôi chảy, không hề đứt đoạn, bởi nơi đó chính là nhà của y.",
+      "dich": "\"Thanh Áo sơn, Miêu Hoa trại, dưới gốc cây hoa gạo lớn nhất.\"",
       "suggest": "\"Thanh Áo Sơn Miêu trại, trại lớn nhất ở dưới gốc cây Mộc Miên Hoa kia.\"",
       "similarity": [
         [
-          106,
+          104,
           0.17
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Câu nói này, Cáp Cống nói đến vô cùng thông thuận, không có nửa điểm khái bán, đó chính là nhà của hắn.",
-      "dich": "Viên Minh nhắc lại mỗi chữ mỗi câu của y một lần, rồi nhận lời giúp y.",
+      "dich": "Cáp Cống nói câu này vô cùng trôi chảy, không hề đứt đoạn, bởi nơi đó chính là nhà của y.",
       "suggest": "Câu nói này, Cáp Cống nói vô cùng thuận tiện, không có nửa điểm vướng bận, đó chính là nhà của hắn.",
       "similarity": [
         [
-          107,
+          105,
           0.23
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Viên Minh mỗi chữ mỗi câu, hướng hắn thuật lại một lần, ứng thừa xuống tới.",
-      "dich": "Trong mắt Cáp Cống rốt cuộc hiện lên sự vui vẻ, tựa như hoàn thành được tâm nguyện lớn nhất của mình.",
+      "dich": "Viên Minh nhắc lại mỗi chữ mỗi câu của y một lần, rồi nhận lời giúp y.",
       "suggest": "Viên Minh mỗi câu mỗi câu, tập trung kể lại một lần cho hắn nghe.",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Cáp Cống trong mắt rốt cục lộ ra một điểm ý cười, giống như là giải quyết xong lớn nhất hi vọng.",
-      "dich": "\"Viên Minh, cám ơn ngươi ... Tiễn ta một đoạn đi.\"",
+      "dich": "Trong mắt Cáp Cống rốt cuộc hiện lên sự vui vẻ, tựa như hoàn thành được tâm nguyện lớn nhất của mình.",
       "suggest": "Trong mắt Cáp Cống rốt cuộc lộ ra một tia cười, dường như đã giải quyết xong hy vọng lớn nhất.",
       "similarity": [
         [
-          109,
+          107,
           0.24
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Viên Minh, cám ơn ngươi... Đưa ta đoạn đường đi.\"",
-      "dich": "Cáp Cống nói xong liền chậm rãi nhắm hai mắt lại.",
+      "dich": "\"Viên Minh, cám ơn ngươi ... Tiễn ta một đoạn đi.\"",
       "suggest": "\"Viên Minh, cám ơn ngươi đã dẫn ta đi...\"",
       "similarity": [
         [
@@ -1684,14 +1737,15 @@
           0.18
         ],
         [
-          110,
+          108,
           0.4
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Cáp Cống nói xong, chậm rãi nhắm hai mắt lại.",
-      "dich": "Viên Minh nghe thế, tay xách Thanh Ngư kiếm lên mà cảm giác nó chưa bao giờ nặng nề như vậy, mấy lần nhấc lên rồi lại buông xuống.",
+      "dich": "Cáp Cống nói xong liền chậm rãi nhắm hai mắt lại.",
       "suggest": "Cáp Cống nói xong, chậm rãi nhắm hai mắt lại.",
       "similarity": [
         [
@@ -1699,47 +1753,51 @@
           0.1
         ],
         [
-          111,
+          109,
           0.73
         ]
-      ]
+      ],
+      "approved": true
     },
     {
-      "convert": "Viên Minh nghe vậy, trong tay dẫn theo Thanh Ngư kiếm, chưa hề cảm giác có như thế nặng nề, mấy lần nhấc lên lại mấy lần buông xuống.",
-      "dich": "Hắn nghĩ đi nghĩ lại trong đầu, muốn tìm ra cách cứu Cáp Cống nhưng lại chẳng thấy được đầu mối nào.",
-      "suggest": "Viên Minh nghe vậy, trong tay cầm thanh Ngư Kiếm trong tay, chưa bao giờ cảm thấy nặng nề như vậy, cứ nhấc lên nhấc lên lại mấy lần.",
+      "convert": "Viên Minh nghe vậy, trong tay dẫn theo Thanh Ngư Kiếm, chưa hề cảm giác có như thế nặng nề, mấy lần nhấc lên lại mấy lần buông xuống.",
+      "dich": "Viên Minh nghe thế, tay xách Thanh Ngư Kiếm lên mà cảm giác nó chưa bao giờ nặng nề như vậy, mấy lần nhấc lên rồi lại buông xuống.",
+      "suggest": "Viên Minh nghe vậy, trong tay cầm Thanh Ngư Kiếm trong tay, chưa bao giờ cảm thấy nặng nề như vậy, cứ nhấc lên nhấc lên lại mấy lần.",
       "similarity": [
         [
-          112,
+          110,
           0.22
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Hắn trong đầu nghĩ đi nghĩ lại, ý đồ tìm tới cứu vãn Cáp Cống phương pháp, lại không có bất kỳ cái gì đầu mối.",
-      "dich": "Tiến trình Nhân Tiêu hóa là không thể nghịch chuyển, hoặc là đối với người như bọn hắn là không thể chống lại, nó như gồng xiềng vận mệnh của Phi Mao thú nô, một khi đeo lên rồi thì gần như chẳng thể thay đổi.",
+      "dich": "Hắn nghĩ đi nghĩ lại trong đầu, muốn tìm ra cách cứu Cáp Cống nhưng lại chẳng thấy được đầu mối nào.",
       "suggest": "Trong đầu hắn nghĩ đi nghĩ lại, muốn tìm phương pháp cứu vớt Cáp Cống, nhưng lại không có bất kỳ đầu mối nào cả.",
       "similarity": [
         [
-          113,
+          111,
           0.19
         ]
-      ]
+      ],
+      "approved": true
     },
     {
-      "convert": "Nhân Tiêu hóa tiến trình là không thể nghịch, hoặc là đối người như bọn họ tới nói, là không thể nghịch, liền như là phi mao thú nô gông xiềng vận mệnh, một khi mặc lên, liền gần như không có khả năng cải biến.",
-      "dich": "\"A...\"",
+      "convert": "Nhân Tiêu hóa tiến trình là không thể nghịch, hoặc là đối người như bọn họ tới nói, là không thể nghịch, liền như là Phi Mao thú nô gông xiềng vận mệnh, một khi mặc lên, liền gần như không có khả năng cải biến.",
+      "dich": "Tiến trình Nhân Tiêu hóa là không thể nghịch chuyển, hoặc là đối với người như bọn hắn là không thể chống lại, nó như gồng xiềng vận mệnh của Phi Mao thú nô, một khi đeo lên rồi thì gần như chẳng thể thay đổi.",
       "suggest": "Tiến trình tiêu hóa thức ăn của người bình thường không thể nghịch, hoặc đối với những người như bọn họ mà nói, là không thể nghịch, giống như là vận mệnh của Phi Mao thú nô, một khi đã mặc nó, gần như không thể thay đổi.",
       "similarity": [
         [
-          114,
+          112,
           0.33
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Ây...\"",
-      "dich": "Đúng lúc này, Cáp Cống lại một lần nữa đau đớn rên rỉ, phần lông từ eo trở xuống đều đã chuyển màu trắng.",
+      "dich": "\"A...\"",
       "suggest": "\"Gừ...\"",
       "similarity": [
         [
@@ -1763,30 +1821,34 @@
           0.12
         ],
         [
-          115,
+          113,
           0.13
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "Đúng lúc này, Cáp Cống lại một lần phát ra thống khổ rên rỉ, hắn tự thân eo trở xuống, sở hữu lông tóc đều đã biến trắng.",
-      "dich": "\"Mau, động thủ ... Ta sắp áp chế không nổi ...\"",
+      "dich": "Đúng lúc này, Cáp Cống lại một lần nữa đau đớn rên rỉ, phần lông từ eo trở xuống đều đã chuyển màu trắng.",
       "suggest": "Đúng lúc này, Cáp Cống lại một lần nữa kêu lên thống khổ, từ eo hắn trở xuống, tất cả lông tóc trên người đều đã biến trắng.",
       "similarity": [
         [
-          116,
+          114,
           0.36
         ]
-      ]
+      ],
+      "approved": true
     },
     {
       "convert": "\"Nhanh, động thủ... Ta phải áp chế không nổi...\"",
-      "dich": "Cáp Cống khó nhọc nói.",
+      "dich": "\"Mau, động thủ ... Ta sắp áp chế không nổi ...\"",
       "suggest": "\"Nhanh, động thủ...Ta không thể khống chế nổi...\"",
-      "similarity": []
+      "similarity": [],
+      "approved": true
     },
     {
       "convert": "Cáp Cống khó nhọc nói.",
+      "dich": "Cáp Cống khó nhọc nói.",
       "suggest": "Cáp Cống thở dài nói.",
       "similarity": [
         [
@@ -1806,10 +1868,13 @@
           0.15
         ],
         [
-          118,
+          116,
           0.23
         ]
-      ]
+      ],
+      "approved": true
     }
-  ]
+  ],
+  "currentWorkingLine": 117,
+  "changed": true
 }

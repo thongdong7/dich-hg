@@ -1,4 +1,5 @@
 {
+  "currentLine": 41,
   "next": {
     "id": 6,
     "title": "Chương 6: Khẩu quyết không tên"
@@ -11,8 +12,8 @@
     "id": 4,
     "title": "Chương 4: Luyện Cốt nhai"
   },
-  "currentWorkingLine": 41,
-  "approved": true,
+  "currentWorkingLine": 42,
+  "approved": false,
   "lines": [
     {
       "convert": "Lại sau một lát, Hàn Lập chỉ cảm thấy bên hông xiết chặt, thân thể chợt nhẹ, toàn bộ người đột nhiên tự động đi lên trên",
@@ -40,18 +41,13 @@
       "approved": true
     },
     {
-      "convert": "Đảo mắt đến vách núi đỉnh, trước mặt chỉ sáu gã tiểu đồng ngồi xếp bằng ở một bên nghỉ ngơi, mà Vũ Nham đang cùng một vị mặc viên ngoại bào màu lam thẫm, chắp hai tay sau lưng, ngoài năm mươi tuổi phúc hậu lão giả nói chuyện,",
+      "convert": "Đảo mắt đến vách núi đỉnh, trước mặt chỉ sáu gã tiểu đồng ngồi xếp bằng ở một bên nghỉ ngơi, mà Vũ Nham đang cùng một vị mặc viên ngoại bào màu lam thẫm, chắp hai tay sau lưng, ngoài năm mươi tuổi phúc hậu lão giả nói chuyện.",
       "dich": "Chuyển mắt quan sát toàn đỉnh sơn nhai, trước mắt có sáu tiểu hài tử đang ngồi nghỉ ngơi, mà Vũ Nham chính đang cùng một vị lão giả ngoài năm mươi tuổi thân mặc áo bào xanh thẫm, hai tay bối sau lưng nói chuyện.",
       "approved": true
     },
     {
-      "convert": "Nhạc đường chủ cùng Vương hộ pháp đều đang đứng bên cạnh hắn,",
-      "dich": "Nhạc đường chủ và Vương hộ pháp đều đang đứng bên cạnh lão giả.",
-      "approved": true
-    },
-    {
-      "convert": "hai người bên cạnh còn đứng mấy người, chính cùng nhau chờ lấy những thứ kia thanh niên sư huynh từng cái một đem mặt khác chậm chạp đồng tử đưa lên trong núi",
-      "dich": "Quanh hai người đó còn vài người nữa đang đứng chờ một số đồng môn khác đưa các đồng tử thượng sơn",
+      "convert": "Nhạc đường chủ cùng Vương hộ pháp đều đang đứng bên cạnh hắn, hai người bên cạnh còn đứng mấy người, chính cùng nhau chờ lấy những thứ kia thanh niên sư huynh từng cái một đem mặt khác chậm chạp đồng tử đưa lên trong núi",
+      "dich": "Nhạc đường chủ và Vương hộ pháp đều đang đứng bên cạnh lão giả. Quanh hai người đó còn vài người nữa đang đứng chờ một số đồng môn khác đưa các đồng tử thượng sơn",
       "approved": true
     },
     {
@@ -61,16 +57,16 @@
     },
     {
       "convert": "\"Lần này người hợp lệ cộng bảy người, trong đó sáu người tiến vào bổn đường Bách Đoán Đường, chính thức thành là bản môn nội môn đệ tử.\" Hắn chậm rãi nói",
-      "dich": "\"Lần này có tổng cộng bảy người hợp cách, trong đó sáu người tiến nhập Bách Đoán đường, chính thức trở thành bản môn nội đệ tử.\" Hắn chậm rãi nói",
+      "dich": "\"Lần này có tổng cộng bảy người hợp cách, trong đó sáu người tiến nhập Bách Đoán Đường, chính thức trở thành bản môn nội đệ tử.\" Hắn chậm rãi nói",
       "approved": true
     },
     {
       "convert": "\"Tên còn lại Vũ Nham, cái thứ nhất đến vách núi, biểu hiện kiệt xuất, trực tiếp cử đi học đến Thất Tuyệt Đường học tập vốn môn tuyệt kỹ.\" Nhạc đường chủ quay đầu lại nhìn một cái ăn mặc viên ngoại bào lão giả, lão giả tay vê chòm râu, hài lòng hướng hắn gật đầu",
-      "dich": "\"Còn lại Vũ Nham, người đầu tiên trèo lên tới sơn nhai, biểu hiện kiệt xuất, trực tiếp đưa vào Thất Tuyệt đường học tập tuyệt kỹ của bản môn.\" Nhạc đường chủ quay lại nhìn lão giả mặc áo bào, lão giả vuốt vuốt chòm râu, hài lòng gật đầu với hắn",
+      "dich": "\"Còn lại Vũ Nham, người đầu tiên trèo lên tới sơn nhai, biểu hiện kiệt xuất, trực tiếp đưa vào Thất Tuyệt Đường học tập tuyệt kỹ của bản môn.\" Nhạc đường chủ quay lại nhìn lão giả mặc áo bào, lão giả vuốt vuốt chòm râu, hài lòng gật đầu với hắn",
       "approved": true
     },
     {
-      "convert": "\"Về phần những người khác., \" Nhạc đường chủ đánh giá vài cái còn lại đồng tử, dùng tay phải nhẹ nhàng mà sờ lên càm của mình, hơi chút trầm ngâm trong chốc lát liền nói:.",
+      "convert": "\"Về phần những người khác., \" Nhạc đường chủ đánh giá vài cái còn lại đồng tử, dùng tay phải nhẹ nhàng mà sờ lên càm của mình, hơi chút trầm ngâm trong chốc lát liền nói:",
       "dich": "\"Về phần những người khác ...,\" Nhạc đường chủ đánh giá những hài đồng còn lại, dùng tay phải nhẹ nhàng niết niết áo mình, trầm ngâm một lúc rồi nói:",
       "approved": true
     },
@@ -116,12 +112,12 @@
     },
     {
       "convert": "\"Hắn cùng các ngươi không giống nhau, là được đưa đến Thất Tuyệt Đường đệ tử hạch tâm, một khi học thành đi ra, tối thiểu nhất cũng là hộ pháp thân phận.\" Một gã khác mặt ốm dài sư huynh tựa hồ nhìn ra Hàn Lập nghi vấn trong lòng, chủ động tiến hành hiểu rõ hoặc, nhưng tại lời của hắn ở bên trong, tựa hồ dẫn theo một tia nói không rõ hâm mộ và ghen ghét mùi vị",
-      "dich": "\"Hắn và các ngươi không cùng một dạng người, là đệ tử hạch tâm được đưa đến Thất Tuyệt đường. Một khi tu luyện thành tài, ít nhất cũng có thân phận hộ pháp.\" Vị sư huynh có bộ mặt gầy gầy còn lại tựa hồ nhìn ra mối nghi vấn của Hàn Lập, chủ động giải thích nhưng lời nói của y, tựa hồ mang theo không ít mùi vị ghen ghét và hâm mộ",
+      "dich": "\"Hắn và các ngươi không cùng một dạng người, là đệ tử hạch tâm được đưa đến Thất Tuyệt Đường. Một khi tu luyện thành tài, ít nhất cũng có thân phận hộ pháp.\" Vị sư huynh có bộ mặt gầy gầy còn lại tựa hồ nhìn ra mối nghi vấn của Hàn Lập, chủ động giải thích nhưng lời nói của y, tựa hồ mang theo không ít mùi vị ghen ghét và hâm mộ",
       "approved": true
     },
     {
       "convert": "\"Còn không phải ỷ có cái làm phó môn chủ biểu tỷ phu, nếu không phải hắn có một biểu tỷ gả cho Mã phó môn chủ làm tái giá phu nhân, bằng không thì bằng hắn! Tuổi đều vượt qua vào cửa yêu cầu, còn tiến Thất Tuyệt Đường?\" Lạnh như băng sư huynh nói lời làm cho người ta đều cảm thấy sau lưng có một cỗ lạnh lùng khí lạnh tại trở lên bốc lên",
-      "dich": "\"Còn không phải ỷ vào biểu tỷ phu là phó môn chủ sao? Nếu như hắn không có biểu tỷ gả cho Mã phó bang chủ làm Huyền phu nhân, bằng vào hắn, tuổi vượt quá yêu cầu nhập môn, còn có thể tiến vào Thất Tuyệt đường sao?\" Lãnh sư huynh nói một cách lạnh lùng, làm cho người khác cảm thấy một cỗ khí lạnh tràn ra ở sau lưng",
+      "dich": "\"Còn không phải ỷ vào biểu tỷ phu là phó môn chủ sao? Nếu như hắn không có biểu tỷ gả cho Mã phó bang chủ làm Huyền phu nhân, bằng vào hắn, tuổi vượt quá yêu cầu nhập môn, còn có thể tiến vào Thất Tuyệt Đường sao?\" Lãnh sư huynh nói một cách lạnh lùng, làm cho người khác cảm thấy một cỗ khí lạnh tràn ra ở sau lưng",
       "approved": true
     },
     {
@@ -136,7 +132,7 @@
     },
     {
       "convert": "Nói với bọn hắn lời nói Hàn Lập trong nội tâm cái hiểu cái không, nhưng loáng thoáng biết rõ, Vũ Nham cũng không phải là dựa vào thực học tiến chính là cái kia Thất Tuyệt Đường, mà là vì trong môn có một phó môn chủ thân thích làm chỗ dựa, mới có thể không tốn sức chút nào có thể tiến vào",
-      "dich": "Đối với cuộc trò chuyện của bọn họ, Hàn Lập tự hiểu mà không hiểu, ẩn ẩn hiểu được cái gì đó. Vũ Nham không phải dựa vào chân tài thực học mà tiến vào được Thất Tuyệt đường, mà nguyên nhân chủ yếu là do Mã phó môn chủ ra tay tương trợ, cho nên mới có thể đạt được thành tựu như vậy",
+      "dich": "Đối với cuộc trò chuyện của bọn họ, Hàn Lập tự hiểu mà không hiểu, ẩn ẩn hiểu được cái gì đó. Vũ Nham không phải dựa vào chân tài thực học mà tiến vào được Thất Tuyệt Đường, mà nguyên nhân chủ yếu là do Mã phó môn chủ ra tay tương trợ, cho nên mới có thể đạt được thành tựu như vậy",
       "approved": true
     },
     {
@@ -156,7 +152,7 @@
     },
     {
       "convert": "\"Mặc Đại Phu, lão nhân gia ngài tốt, có lên cao ư sự tình muốn phân phó đệ tử làm sao?\" Trương Quân trái ngược trước kia lạnh lùng thần tình, trên mặt tràn đầy kính ý, với hắn mà nói, lão giả này so với Đường chủ, đến nỗi phó môn chủ càng đáng giá tôn kính",
-      "dich": "\"Mặc Đại Phu, lão nhân gia ngài vẫn khỏe chứ, có chuyện gì xin cứ dặn dò đệ tử.: Trương Quân so với bộ dạng lạnh nhạt lúc trước giờ được thay bằng khuôn mặt đầy kính ý so với đường chủ, môn chủ còn kính ý hơn, nói với lão",
+      "dich": "\"Mặc Đại Phu, lão nhân gia ngài vẫn khỏe chứ, có chuyện gì cần đệ tử làm sao?\" Trương Quân so với bộ dạng lạnh nhạt lúc trước giờ được thay bằng khuôn mặt đầy kính ý so với đường chủ, môn chủ còn kính ý hơn, nói với lão",
       "approved": true
     },
     {
@@ -200,8 +196,18 @@
       "approved": true
     },
     {
-      "convert": "\"Đây là Thần Thủ cốc, ngoại trừ cốc nội đệ tử, ngoại nhân ngoại trừ sinh bệnh bị thương bình thường sẽ không tới nơi đây, hai người các ngươi về sau thì ở lại đây rồi, đi nghỉ trước một cái, ban đêm lại đến đại đường bái kiến ta, ta có lời nói với các ngươi.\" Lão giả đứng ở mấy gian nhanh liền phòng ở trước, chỉ chỉ trong đó nhỏ bé một gian phòng ốc. \"Các ngươi về sau có thể gọi ta Mặc lão.\" Lão giả nói xong dừng lại một chút lại nói:.",
-      "dich": "\"Đây là thần thủ cốc, ngoại trừ cốc nội đệ tử, ngoại nhân ngoài những người bị bệnh, hai ngươi sau này tựu ở nơi đây. Trước tiên nghỉ ngơi đi đã, đến tối trở lại tìm ta, ta có chuyện muốn nói với các ngươi.\" Lão giả đứng ở trước mấy căn phòng, sau đó chỉ vào một căn phòng nhỏ rồi nói. \"Các ngươi sau này có thể gọi ta là Mặc lão.\" Lão giả nói xong dừng một chút, lại nói:",
+      "convert": "\"Đây là Thần Thủ Cốc, ngoại trừ cốc nội đệ tử, ngoại nhân ngoại trừ sinh bệnh bị thương bình thường sẽ không tới nơi đây, hai người các ngươi về sau thì ở lại đây rồi, đi nghỉ trước một cái, ban đêm lại đến đại đường bái kiến ta, ta có lời nói với các ngươi.\"",
+      "dich": "\"Đây là Thần Thủ Cốc, ngoại trừ cốc nội đệ tử, ngoại nhân ngoài những người bị bệnh, hai ngươi sau này tựu ở nơi đây. Trước tiên nghỉ ngơi đi đã, đến tối trở lại tìm ta, ta có chuyện muốn nói với các ngươi.\"",
+      "approved": true
+    },
+    {
+      "convert": "Lão giả đứng ở mấy gian nhanh liền phòng ở trước, chỉ chỉ trong đó nhỏ bé một gian phòng ốc. \"Các ngươi về sau có thể gọi ta Mặc lão.\".",
+      "dich": "Lão giả đứng ở trước mấy căn phòng, sau đó chỉ vào một căn phòng nhỏ rồi nói. \"Các ngươi sau này có thể gọi ta là Mặc lão.\".",
+      "approved": true
+    },
+    {
+      "convert": "Lão giả nói xong dừng lại một chút lại nói:",
+      "dich": "Lão giả nói xong dừng một chút, lại nói:",
       "approved": true
     },
     {
@@ -215,9 +221,10 @@
       "approved": true
     },
     {
-      "convert": "Hàn Lập sớm đã mệt mỏi chịu không nổi, cũng mặc kệ một gã khác gọi là Trương Thiết đồng tử, bản thân một đầu ngã vào trong phòng trên một cái giường gỗ, liền hỗn loạn đã ngủ, với hắn mà nói, mặc kệ sao loại mình đã có thể tính là nửa cái Thất Huyền Môn đệ tử",
       "dich": "Hàn Lập sớm đã thấy mệt mỏi không chịu nổi rồi, không để ý đến Trương Thiết bên cạnh, tự mình tiến tới giường gỗ trong phòng, nhanh chóng mơ màng ngủ đi. Đối với hắn, mặc kệ chuyện thế nào bản thân xem như cũng đã trở thành một nửa đệ tử của Thất Huyền Môn rồi.",
+      "convert": "Hàn Lập sớm đã mệt mỏi chịu không nổi, cũng mặc kệ một gã khác gọi là Trương Thiết đồng tử, bản thân một đầu ngã vào trong phòng trên một cái giường gỗ, liền hỗn loạn đã ngủ, với hắn mà nói, mặc kệ sao loại mình đã có thể tính là nửa cái Thất Huyền Môn đệ tử",
       "approved": true
     }
-  ]
+  ],
+  "changed": true
 }

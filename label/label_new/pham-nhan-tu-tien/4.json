@@ -1,5 +1,5 @@
 {
-  "currentLine": 0,
+  "currentLine": 46,
   "next": {
     "id": 5,
     "title": "Chương 5: Mặc đại phu"
@@ -12,43 +12,28 @@
     "id": 3,
     "title": "Chương 3: Thất Huyền môn"
   },
-  "currentWorkingLine": 60,
+  "currentWorkingLine": 47,
   "changed": true,
-  "approved": true,
+  "approved": false,
   "lines": [
     {
-      "convert": "Nhạc đường chủ tại trước mọi người lớn tiếng nói: \"Mọi người nghe kỹ, theo trong rừng trúc đường nhỏ đi về phía trước, có thể đến Thất Huyền Môn Luyện Cốt nhai,",
-      "dich": "Nhạc đường chủ đứng trước mọi người lớn tiếng nói: “Mọi người nghe cho kỹ, đi theo con đường nhỏ trong rừng trúc phía trước là có thể đi tới Luyện Cốt Nhai của Thất Huyền Môn.",
+      "convert": "Nhạc đường chủ tại trước mọi người lớn tiếng nói:",
+      "dich": "Nhạc đường chủ đứng trước mọi người lớn tiếng nói:",
       "approved": true
     },
     {
-      "convert": "đoạn đường thứ nhất đúng rừng trúc khu vực, lại đến đúng vách đá khu vực, cuối cùng là một cái vách núi, có thể tới đỉnh núi mới có thể tiến nhập Thất Huyền Môn,",
-      "dich": "Đoạn đường đầu tiên là trúc lâm đoạn lộ, đi qua đó sẽ tới một dải đất, và cuối cùng sẽ đến vách núi, từ đó ai có thể lên được đến đỉnh thì có thể tiến vào Thất Huyền Môn.",
+      "convert": "\"Mọi người nghe kỹ, theo trong rừng trúc đường nhỏ đi về phía trước, có thể đến Thất Huyền Môn Luyện Cốt Nhai, đoạn đường thứ nhất đúng rừng trúc khu vực, lại đến đúng vách đá khu vực, cuối cùng là một cái vách núi, có thể tới đỉnh núi mới có thể tiến nhập Thất Huyền Môn, nếu giữa trưa phía trước không cách nào đến, mặc dù không thể trở thành đệ tử chính thức, nhưng nếu biểu hiện có biết tròn biết méo chỗ, có thể thu là ký danh đệ tử.\".",
+      "dich": "“Mọi người nghe cho kỹ, đi theo con đường nhỏ trong rừng trúc phía trước là có thể đi tới Luyện Cốt Nhai của Thất Huyền Môn. Đoạn đường đầu tiên là trúc lâm đoạn lộ, đi qua đó sẽ tới một dải đất, và cuối cùng sẽ đến vách núi, từ đó ai có thể lên được đến đỉnh thì có thể tiến vào Thất Huyền Môn. Trước chính ngọ không thể tới đích, tuy không thể chính thức trở thành đệ tử nhưng nếu biểu hiện khá thì cũng có thể trở thành đệ tử ký danh.\".",
       "approved": true
     },
     {
-      "convert": "nếu giữa trưa phía trước không cách nào đến, mặc dù không thể trở thành đệ tử chính thức, nhưng nếu biểu hiện có biết tròn biết méo chỗ, có thể thu là ký danh đệ tử.\"",
-      "dich": "Trước chính ngọ không thể tới đích, tuy không thể chính thức trở thành đệ tử nhưng nếu biểu hiện khá thì cũng có thể trở thành đệ tử ký danh.\".",
+      "convert": "Hàn Lập tự nhiên không rõ \"Ký danh đệ tử\" hàm nghĩa, chỉ biết là dù sao muốn đi về phía trước muốn leo núi là được, về phía trước ngắm nhìn một cái, đúng một mặt không tính là bất ngờ dốc núi, nhiều căn độ lớn không đồng nhất dài trúc sinh trưởng ở sườn núi bên trên, tựa hồ không có rất khó bò a!",
+      "dich": "Hàn Lập tự nhiên không rõ hàm nghĩa của \"Ký danh đệ tử\", chỉ biết rằng trước khi hết thời gian phải đến được đích mới là đạt kết quả. Hắn nhìn thoáng qua phía trước, đó là một sườn núi không tính nổi độ dốc, khá nhiều thân trúc to nhỏ bất đồng mọc trên đó, tựa hồ cũng không có gì khó khăn",
       "approved": true
     },
     {
-      "convert": "Hàn Lập tự nhiên không rõ \"Ký danh đệ tử\" hàm nghĩa, chỉ biết là dù sao muốn đi về phía trước muốn leo núi là được,",
-      "dich": "Hàn Lập tự nhiên không rõ hàm nghĩa của \"đệ tử\", chỉ biết rằng trước khi hết thời gian phải đến được đích mới là đạt kết quả.",
-      "approved": true
-    },
-    {
-      "convert": "về phía trước ngắm nhìn một cái, đúng một mặt không tính là bất ngờ dốc núi, nhiều căn độ lớn không đồng nhất dài trúc sinh trưởng ở sườn núi bên trên, tựa hồ không có rất khó bò a!",
-      "dich": "Hắn nhìn thoáng qua phía trước, đó là một sườn núi không tính nổi độ dốc, khá nhiều thân trúc to nhỏ bất đồng mọc trên đó, tựa hồ cũng không có gì khó khăn",
-      "approved": true
-    },
-    {
-      "convert": "Hàn Lập nhìn sang những người khác, hắn cũng không nguyện bại bởi bạn cùng lứa tuổi,",
-      "dich": "Hàn Lập nhìn sang những người khác, hắn không muốn thua trước những đứa trẻ bằng tuổi.",
-      "approved": true
-    },
-    {
-      "convert": "cái khác hài đồng ở giữa, bầu không khí cũng biến thành đột nhiên khẩn trương lên",
-      "dich": "Về phần đám trẻ còn lại, khí chất cũng thay đổi, trong phút chốc trở nên khẩn trương",
+      "convert": "Hàn Lập nhìn sang những người khác, hắn cũng không nguyện bại bởi bạn cùng lứa tuổi, cái khác hài đồng ở giữa, bầu không khí cũng biến thành đột nhiên khẩn trương lên",
+      "dich": "Hàn Lập nhìn sang những người khác, hắn không muốn thua trước những đứa trẻ bằng tuổi. Về phần đám trẻ còn lại, khí chất cũng thay đổi, trong phút chốc trở nên khẩn trương",
       "approved": true
     },
     {
@@ -57,33 +42,18 @@
       "approved": true
     },
     {
-      "convert": "Hàn Lập quay đầu lại nhìn sang sau lưng những cái kia người thanh niên, nguyên lai những thứ này người gọi là sư huynh, đại khái liền lúc trước thu nhận đệ tử,",
-      "dich": "Hàn Lập quay đầu lại nhìn người thanh niên đứng gần hắn, nguyên lai người này được gọi là sư huynh, hẳn là đệ tử được thu nhận trước đó.",
+      "convert": "Hàn Lập quay đầu lại nhìn sang sau lưng những cái kia người thanh niên, nguyên lai những thứ này người gọi là sư huynh, đại khái liền lúc trước thu nhận đệ tử, mình nếu là cũng gia nhập, đúng không phải có thể xuyên qua đồng dạng thần khí quần áo!",
+      "dich": "Hàn Lập quay đầu lại nhìn người thanh niên đứng gần hắn, nguyên lai người này được gọi là sư huynh, hẳn là đệ tử được thu nhận trước đó. Nếu như mình được gia nhập, có phải không sẽ được mặc bộ quần áo oai phong thế này!",
       "approved": true
     },
     {
-      "convert": "mình nếu là cũng gia nhập, đúng không phải có thể xuyên qua đồng dạng thần khí quần áo!",
-      "dich": "Nếu như mình được gia nhập, có phải không sẽ được mặc bộ quần áo oai phong thế này!",
+      "convert": "Đang mò mẫm suy xét thời điểm, Hàn Lập phát hiện, còn lại hài đồng đều đã vọt vào rừng trúc, thấy tình cảnh này, hắn vội vàng theo sát mà đi",
+      "dich": "Đang lúc suy nghĩ vẩn vơ, Hàn Lập phát hiện những người khác đều đã chạy ào ào về phía rừng trúc. Thấy vậy, hắn liền vội vàng chạy theo",
       "approved": true
     },
     {
-      "convert": "Đang mò mẫm suy xét thời điểm, Hàn Lập phát hiện, còn lại hài đồng đều đã vọt vào rừng trúc,",
-      "dich": "Đang lúc suy nghĩ vẩn vơ, Hàn Lập phát hiện những người khác đều đã chạy ào ào về phía rừng trúc.",
-      "approved": true
-    },
-    {
-      "convert": "thấy tình cảnh này, hắn vội vàng theo sát mà đi",
-      "dich": "Thấy vậy, hắn liền vội vàng chạy theo",
-      "approved": true
-    },
-    {
-      "convert": "Rừng trúc hẳn là phi thường rộng lớn,",
-      "dich": "Tiến nhập mới thấy rừng trúc rất lớn.",
-      "approved": true
-    },
-    {
-      "convert": "hơn ba mươi tên hài đồng, xông lên vào rừng trúc liền lập tức giải tán ra,",
-      "dich": "Hơn ba mươi hài đồng, vừa tiến vào trúc lâm lập tức tản ra.",
+      "convert": "Rừng trúc hẳn là phi thường rộng lớn, hơn ba mươi tên hài đồng, xông lên vào rừng trúc liền lập tức giải tán ra,",
+      "dich": "Tiến nhập mới thấy rừng trúc rất lớn. Hơn ba mươi hài đồng, vừa tiến vào trúc lâm lập tức tản ra.",
       "approved": true
     },
     {
@@ -112,33 +82,18 @@
       "approved": true
     },
     {
-      "convert": "Hàn Lập chứng kiến sư huynh ánh mắt lạnh lùng, trong lòng lại có chút sợ hãi, bận bịu đem đầu vòng trở về, lại nghe từng trận tiếng hơi thở không ngừng từ phía trước truyền đến,",
-      "dich": "Nhìn ánh mắt lạnh lùng của vị sư huynh, trong lòng Hàn Lập nổi lên sợ hãi, vội vàng quay đầu lại, lúc này hắn chợt nghe thấy phía trước vọng lại từng tràng loạt soạt không dừng.",
+      "convert": "Hàn Lập chứng kiến sư huynh ánh mắt lạnh lùng, trong lòng lại có chút sợ hãi, bận bịu đem đầu vòng trở về, lại nghe từng trận tiếng hơi thở không ngừng từ phía trước truyền đến, biết là phía trước có bò so với chính mình nhanh đến người cũng đang nghỉ ngơi, Hàn Lập lại hơi chút tại nguyên chỗ ngây người lại, liền vội vàng trở lên tiến đến",
+      "dich": "Nhìn ánh mắt lạnh lùng của vị sư huynh, trong lòng Hàn Lập nổi lên sợ hãi, vội vàng quay đầu lại, lúc này hắn chợt nghe thấy phía trước vọng lại từng tràng loạt soạt không dừng. Biết được phía trước còn có ba người đi nhanh hơn mình đang nghỉ ngơi, Hàn Lập không dám ngồi nghỉ nữa, vội vàng đi tới phía trước",
       "approved": true
     },
     {
-      "convert": "biết là phía trước có bò so với chính mình nhanh đến người cũng đang nghỉ ngơi, Hàn Lập lại hơi chút tại nguyên chỗ ngây người lại, liền vội vàng trở lên tiến đến",
-      "dich": "Biết được phía trước còn có ba người đi nhanh hơn mình đang nghỉ ngơi, Hàn Lập không dám ngồi nghỉ nữa, vội vàng đi tới phía trước",
+      "convert": "Sườn núi trước mặt nghiêng lợi hại hơn Hàn Lập khí lực cả người cũng là càng ngày càng nhỏ, vì sẽ không đi tới đi tới liền đứng thẳng không được, Hàn Lập chỉ có thể cung dưới eo, tay chân...song song, cuối cùng y phục trên người đủ rắn chắc, bằng không thì tứ chi các đốt ngón tay chỗ đầu gối cũng sẽ bị mài phá",
+      "dich": "Đoạn dốc phía trước lại càng lợi hại, sức lực của Hàn Lập càng lúc càng yếu, không còn đủ sức mà đi nữa, hắn hoàn toàn hạ người xuống, dùng sức tay nắm lấy những thân trúc và đỡ lực cho chân để tiến về phía trước. Cũng nhờ y phục gọn ghẽ, cho nên việc di chuyển bớt khó khăn, nếu không ngón tay ngón chân chắc sẽ bị mài phá",
       "approved": true
     },
     {
-      "convert": "Sườn núi trước mặt nghiêng lợi hại hơn Hàn Lập khí lực cả người cũng là càng ngày càng nhỏ, vì sẽ không đi tới đi tới liền đứng thẳng không được, Hàn Lập chỉ có thể cung dưới eo, tay chân...song song,",
-      "dich": "Đoạn dốc phía trước lại càng lợi hại, sức lực của Hàn Lập càng lúc càng yếu, không còn đủ sức mà đi nữa, hắn hoàn toàn hạ người xuống, dùng sức tay nắm lấy những thân trúc và đỡ lực cho chân để tiến về phía trước.",
-      "approved": true
-    },
-    {
-      "convert": "cuối cùng y phục trên người đủ rắn chắc, bằng không thì tứ chi các đốt ngón tay chỗ đầu gối cũng sẽ bị mài phá",
-      "dich": "Cũng nhờ y phục gọn ghẽ, cho nên việc di chuyển bớt khó khăn, nếu không ngón tay ngón chân chắc sẽ bị mài phá",
-      "approved": true
-    },
-    {
-      "convert": "Cuối cùng mau rời khỏi cái mảnh này rậm rạp rừng trúc, Hàn Lập lại chỉ cảm thấy cuối cùng này một chút đường càng ngày càng khó đi,",
-      "dich": "Cuối cùng cũng ra khỏi phiến trúc lâm, Hàn Lập lúc này chỉ cảm thấy càng đi càng khó khăn.",
-      "approved": true
-    },
-    {
-      "convert": "mặt đất nham thạch thời gian dần trôi qua nhiều lên, trái lại cây trúc lại càng ngày càng ít",
-      "dich": "Mặt đất nham thạch xuất hiện càng lúc càng nhiều, tương phản với điều đó thì lượng trúc cũng càng ngày càng ít",
+      "convert": "Cuối cùng mau rời khỏi cái mảnh này rậm rạp rừng trúc, Hàn Lập lại chỉ cảm thấy cuối cùng này một chút đường càng ngày càng khó đi, mặt đất nham thạch thời gian dần trôi qua nhiều lên, trái lại cây trúc lại càng ngày càng ít",
+      "dich": "Cuối cùng cũng ra khỏi phiến trúc lâm, Hàn Lập lúc này chỉ cảm thấy càng đi càng khó khăn. Mặt đất nham thạch xuất hiện càng lúc càng nhiều, tương phản với điều đó thì lượng trúc cũng càng ngày càng ít",
       "approved": true
     },
     {
@@ -147,13 +102,8 @@
       "approved": true
     },
     {
-      "convert": "Vừa đi ra khỏi rừng trúc, chỉ thấy trước mặt một hồi rộng lớn, chính phía trước là một khối to lớn vô cùng núi đá, phía trên đã có mấy cái thân thể gầy ốm, chính chầm chập hướng lên leo,",
-      "dich": "Ngay khi ra khỏi trúc lâm, trước mắt là một khoảng không rộng lớn, phía trước là một phiến đá núi cực kỳ lớn, bên trên đã có mấy bóng gầy nhỏ đang trèo lên đó.",
-      "approved": true
-    },
-    {
-      "convert": "tại phía sau bọn họ cũng đều cùng theo từng cái một quần áo trang phục một dạng sư huynh,",
-      "dich": "Ngay phía sau bọn họ là các sư huynh với trang phục giống nhau.",
+      "convert": "Vừa đi ra khỏi rừng trúc, chỉ thấy trước mặt một hồi rộng lớn, chính phía trước là một khối to lớn vô cùng núi đá, phía trên đã có mấy cái thân thể gầy ốm, chính chầm chập hướng lên leo, tại phía sau bọn họ cũng đều cùng theo từng cái một quần áo trang phục một dạng sư huynh,",
+      "dich": "Ngay khi ra khỏi trúc lâm, trước mắt là một khoảng không rộng lớn, phía trước là một phiến đá núi cực kỳ lớn, bên trên đã có mấy bóng gầy nhỏ đang trèo lên đó. Ngay phía sau bọn họ là các sư huynh với trang phục giống nhau.",
       "approved": true
     },
     {
@@ -162,22 +112,17 @@
       "approved": true
     },
     {
-      "convert": "Này khối cự thạch thạch bích đúng thành từng mảnh, từng tầng một chồng tích nham, phong hoá rất lợi hại,",
-      "dich": "Khối cự thạch này bề mặt bao phủ tầng tầng điệp tích nham, bị gió mưa gọt rũa trở nên vô cùng sắc bén.",
+      "convert": "Này khối cự thạch thạch bích đúng thành từng mảnh, từng tầng một chồng tích nham, phong hoá rất lợi hại, có chút chỗ đụng một cái đến sẽ bể nát, đương nhiên cũng có thật nhiều thẳng cứng lấy đá vụn phiến, hết sức lợi hại.",
+      "dich": "Khối cự thạch này bề mặt bao phủ tầng tầng điệp tích nham, bị gió mưa gọt rũa trở nên vô cùng sắc bén. Có chỗ ngay khi đụng vào lập tức vỡ vụn, cũng có những nơi lại khá chắc chắn, cực kỳ thô ráp.",
       "approved": true
     },
     {
-      "convert": "có chút chỗ đụng một cái đến sẽ bể nát, đương nhiên cũng có thật nhiều thẳng cứng lấy đá vụn phiến, hết sức lợi hại,",
-      "dich": "Có chỗ ngay khi đụng vào lập tức vỡ vụn, cũng có những nơi lại khá chắc chắn, cực kỳ thô ráp.",
-      "approved": true
-    },
-    {
-      "convert": "chỉ có một bữa cơm thời gian, Hàn Lập hai tay đã vết thương chồng chất, khuỷu tay, đầu gối quần áo cũng đã phá vỡ, bên trong da thịt bị vết cắt không ít chỗ,",
+      "convert": "Chỉ có một bữa cơm thời gian, Hàn Lập hai tay đã vết thương chồng chất, khuỷu tay, đầu gối quần áo cũng đã phá vỡ, bên trong da thịt bị vết cắt không ít chỗ.",
       "dich": "Trong thời gian ngắn, hai tay Hàn Lập đã nham nhở vết thương, quần áo cũng rách nhiều chỗ, da thịt bên trong lộ ra không ít thương tích.",
       "approved": true
     },
     {
-      "convert": "cho dù miệng vết thương đều rất nhỏ, nhưng mà một chút kỹ càng đá vụn cặn bã thấm đến bên trong, khiến cho cảm giác đau đớn tăng thêm hơn mấy điểm",
+      "convert": "Cho dù miệng vết thương đều rất nhỏ, nhưng mà một chút kỹ càng đá vụn cặn bã thấm đến bên trong, khiến cho cảm giác đau đớn tăng thêm hơn mấy điểm.",
       "dich": "Cho dù vết thương khá nhỏ, nhưng bị đá núi cứa vào cũng khiến cảm giác đau xót tăng lên vài phần",
       "approved": true
     },
@@ -187,12 +132,12 @@
       "approved": true
     },
     {
-      "convert": "Lâm trước khi lên đường, Hàn Lập phụ thân cùng Tam thúc đã nhắc nhở qua Hàn Lập, nhập môn khảo thí sẽ rất khó khăn, nếu không có kiên trì đến cùng mà nói, là không thể nào gia nhập Thất Huyền Môn,",
+      "convert": "Lâm trước khi lên đường, Hàn Lập phụ thân cùng Tam thúc đã nhắc nhở qua Hàn Lập, nhập môn khảo thí sẽ rất khó khăn, nếu không có kiên trì đến cùng mà nói, là không thể nào gia nhập Thất Huyền Môn.",
       "dich": "Trước khi xuất phát, phụ thân và tam thúc cũng đã nhắc nhở Hàn Lập, trắc thí nhập môn sẽ rất gian nan, nếu không kiên trì sẽ không có khả năng gia nhập Thất Huyền Môn.",
       "approved": true
     },
     {
-      "convert": "ở thời điểm này, Hàn Lập trong nội tâm sớm sẽ không ở hồ nhập không vào được Thất Huyền Môn, chỉ là trong đầu sự tàn nhẫn phát tác bắt đầu, cơn tức này lấp kín ở bên trong, không phải muốn đuổi kịp những người khác không được",
+      "convert": "Ở thời điểm này, Hàn Lập trong nội tâm sớm sẽ không ở hồ nhập không vào được Thất Huyền Môn, chỉ là trong đầu sự tàn nhẫn phát tác bắt đầu, cơn tức này lấp kín ở bên trong, không phải muốn đuổi kịp những người khác không được",
       "dich": "Vào lúc này, Hàn Lập trong lòng đã sớm không để ý đến được nhập môn hay không nữa rồi, trong đầu chỉ có một ý niệm, nhất định phải bắt kịp những người phía trước",
       "approved": true
     },
@@ -202,13 +147,8 @@
       "approved": true
     },
     {
-      "convert": "Vũ Nham dù sao so với Hàn Lập dài không chỉ một tuổi, còn luyện qua một chút võ công, cơ thể so với những hài tử khác cường tráng hơn,",
-      "dich": "Vũ Nham không chỉ lớn hơn Hàn Lập mà hắn còn từng tập quá võ công, thân thể cường tráng hơn nhiều so với những đứa trẻ cùng lứa.",
-      "approved": true
-    },
-    {
-      "convert": "bò tới trước nhất cũng không làm người ta ngạc nhiên",
-      "dich": "Hắn dẫn đầu như vậy cũng không có gì lạ",
+      "convert": "Vũ Nham dù sao so với Hàn Lập dài không chỉ một tuổi, còn luyện qua một chút võ công, cơ thể so với những hài tử khác cường tráng hơn, bò tới trước nhất cũng không làm người ta ngạc nhiên",
+      "dich": "Vũ Nham không chỉ lớn hơn Hàn Lập mà hắn còn từng tập quá võ công, thân thể cường tráng hơn nhiều so với những đứa trẻ cùng lứa. Hắn dẫn đầu như vậy cũng không có gì lạ",
       "approved": true
     },
     {
@@ -222,23 +162,18 @@
       "approved": true
     },
     {
-      "convert": "Bú sữa mẹ sức lực đều dùng đi ra, vẫn cứ không có gần hơn cùng trước nhất bên cạnh mấy người khoảng cách, cơ thể đúng càng ngày càng nặng nề,",
-      "dich": "Cho dù đã dùng hết khí lực nhưng ngay cả rút ngắn khoảng cách với người gần nhất cũng không được, mà thân thể càng trèo lên càng nặng.",
+      "convert": "Bú sữa mẹ sức lực đều dùng đi ra, vẫn cứ không có gần hơn cùng trước nhất bên cạnh mấy người khoảng cách, cơ thể đúng càng ngày càng nặng nề, lập tức mặt trời từ từ leo đến không trung chính giữa, mà Vũ Nham cũng đã leo đến cự thạch vách tường phần cuối",
+      "dich": "Cho dù đã dùng hết khí lực nhưng ngay cả rút ngắn khoảng cách với người gần nhất cũng không được, mà thân thể càng trèo lên càng nặng. Mắt thấy vầng thái dương càng lúc càng lên cao trên đỉnh đầu, mà Vũ Nham cũng đã trèo lên tới đỉnh cự thạch",
       "approved": true
     },
     {
-      "convert": "lập tức mặt trời từ từ leo đến không trung chính giữa, mà Vũ Nham cũng đã leo đến cự thạch vách tường phần cuối",
-      "dich": "Mắt thấy vầng thái dương càng lúc càng lên cao trên đỉnh đầu, mà Vũ Nham cũng đã trèo lên tới đỉnh cự thạch",
-      "approved": true
-    },
-    {
-      "convert": "Nơi đó là một chỗ thẳng đứng bất ngờ vách núi, chiều cao hơn ba mươi trượng, theo vách núi đỉnh treo xâu xuống hơn mười cái dây thừng, dây thừng bên trên còn đập vào từng cái một nắm đấm lớn kết,",
+      "convert": "Nơi đó là một chỗ thẳng đứng bất ngờ vách núi, chiều cao hơn ba mươi trượng, theo vách núi đỉnh treo xâu xuống hơn mười cái dây thừng, dây thừng bên trên còn đập vào từng cái một nắm đấm lớn kết.",
       "dich": "Nơi đó có một vách đá thẳng đứng, cao hơn ba mươi trượng, từ trên thả xuống hơn mười cái dây thừng, trên dây thừng còn được kết nút.",
       "approved": true
     },
     {
       "convert": "Vũ Nham hiện tại chính trèo lên trong đó một cái, thời gian dần qua từng điểm từng điểm đang hướng đỉnh núi di chuyển",
-      "dich": "Vũ Nham hiện tại chính đang đu trên một dây, từ từ trèo lên",
+      "dich": "Vũ Nham hiện tại chính đang đu trên một dây, từ từ trèo lên đỉnh núi",
       "approved": true
     },
     {
@@ -248,7 +183,7 @@
     },
     {
       "convert": "Này ý nghĩ đồng thời, trong lúc bất chợt khuỷu tay đầu gối chỗ chỗ bị thương sẽ cùng lúc truyền đến nóng rát đau đớn, tứ chi vô lực cầm lấy nham thạch một tay run lên, mãnh liệt toàn thân đều đi xuống hết, Hàn Lập bị hù tâm bịch bịch trực nhảy, vội vàng đem toàn thân chăm chú mà dán tại trên thạch bích, động cũng không dám tái cử động",
-      "dich": "Ý niệm thất bại vừa khởi, đột nhiên Hàn Lập thấy cảm giác đau nhức từ các vết thương đồng thời truyền lại, tứ chi vô lực, tay bám vào nham thạch run lên, toàn thân chùng xuống, tim đập thình thịch, hắn vội đem toàn thân bám chặt vào núi đá, ngay cả động đậy cũng không dám",
+      "dich": "Ý niệm thất bại vừa khởi, đột nhiên cảm giác đau nhức từ các vết thương đồng thời truyền lại, tứ chi vô lực, tay bám vào nham thạch run lên, toàn thân chùng xuống. Hàn Lập bị hù cho tim đập thình thịch, vội đem toàn thân bám chặt vào núi đá, ngay cả động đậy cũng không dám",
       "approved": true
     },
     {
@@ -258,7 +193,7 @@
     },
     {
       "convert": "Hàn Lập theo bản năng quay đầu lại quan sát, nhìn thấy sau lưng sư huynh chính nửa ngồi lấy cơ thể hai cánh tay rộng mở, bày ra phòng hộ Hàn Lập tư thế, nhìn thấy hắn lại an toàn, mới chậm rãi đứng thẳng người",
-      "dich": "Hắn quay đầu nhìn xuống, thấy vị sư huynh phía sau đang mở rộng hai tay, tư thế như sẵn sàng đối phó với sơ sẩy. Sau khi thấy Hàn Lập an toàn rồi, mới chậm rãi đứng thẳng lên",
+      "dich": "Hàn Lập quay đầu nhìn xuống, thấy vị sư huynh phía sau đang mở rộng hai tay, tư thế như sẵn sàng đối phó với sơ sẩy. Sau khi thấy Hàn Lập an toàn rồi, mới chậm rãi đứng thẳng lên",
       "approved": true
     },
     {
@@ -268,17 +203,12 @@
     },
     {
       "convert": "Vì vậy nghỉ lấy khoảng khắc, lại từ từ về phía trước di chuyển, hướng treo ở trên vách đá từng cái thô dây thừng bò đi",
-      "dich": "Vì vậy trong chốc lát, liền chậm rãi di động về phía trước, trèo tiếp lên đỉnh thạch nhai",
+      "dich": "Vì vậy sau khi nghỉ trong chốc lát, liền chậm rãi di động về phía trước, bám lấy từng cái dây thừng thô to trên vách đá trèo tiếp",
       "approved": true
     },
     {
-      "convert": "Cuối cùng đi tới trong đó một cái không ai dây thừng, mặt trời đã gần như đến không trung chính giữa, chỉ còn không được nửa canh giờ sẽ hoàn toàn đến giữa trưa,",
-      "dich": "Cuối cùng thì hắn cũng đi tới một cái dây thừng chưa có người dùng, mặt trời lúc này cơ hồ gần lên đỉnh rồi, chỉ còn chưa đến nửa canh giờ nữa là đến chính ngọ.",
-      "approved": true
-    },
-    {
-      "convert": "lúc này Vũ Nham đã trèo lên đỉnh núi, chính quay đầu nhìn xuống,",
-      "dich": "Lúc này Vũ Nham đã leo lên đỉnh nhai, chính đang quay đầu nhìn xuống.",
+      "convert": "Cuối cùng đi tới trong đó một cái không ai dây thừng, mặt trời đã gần như đến không trung chính giữa, chỉ còn không được nửa canh giờ sẽ hoàn toàn đến giữa trưa, lúc này Vũ Nham đã trèo lên đỉnh núi, chính quay đầu nhìn xuống.",
+      "dich": "Cuối cùng cũng đi tới một cái dây thừng chưa có người dùng, mặt trời lúc này cơ hồ gần lên đỉnh rồi, chỉ còn chưa đến nửa canh giờ nữa là đến chính ngọ. Lúc này Vũ Nham đã leo lên đỉnh nhai, đang quay đầu nhìn xuống.",
       "approved": true
     },
     {
@@ -288,7 +218,7 @@
     },
     {
       "convert": "Hàn Lập trong nội tâm một hồi tức giận, vội vàng bắt hướng dây thừng, trở lên leo",
-      "dich": "Hàn Lập trong lòng tức giận, vội vàng trèo lên",
+      "dich": "Hàn Lập trong lòng tức giận, vội vàng nắm dây thừng trèo lên",
       "approved": true
     },
     {
@@ -302,13 +232,18 @@
       "approved": true
     },
     {
-      "convert": "phí sức quay đầu nhìn nhìn, phía sau thạch bích chỗ còn có một chút hài đồng người ngồi ở chỗ kia, chính từng ngụm từng ngụm thở hổn hển, xem ra cũng giống như mình dùng hết rồi cuối cùng một chút sức lực",
-      "dich": "Hắn quay đầu lại nhìn ra xa xa, thấy mặt sau thạch bích cũng còn một hài đồng nữa, đang ngồi thở dốc, xem ra cũng giống như hắn, một điểm khí lực cũng đã không còn",
+      "convert": "Phí sức quay đầu nhìn nhìn, phía sau thạch bích chỗ còn có một chút hài đồng người ngồi ở chỗ kia, chính từng ngụm từng ngụm thở hổn hển, xem ra cũng giống như mình dùng hết rồi cuối cùng một chút sức lực",
+      "dich": "Cố gắng quay đầu lại nhìn ra xa xa, thấy mặt sau thạch bích cũng còn một hài đồng nữa, đang ngồi thở dốc, xem ra cũng giống như mình, một điểm khí lực cũng đã không còn",
       "approved": true
     },
     {
-      "convert": "Hàn Lập trong đầu chỉ có thể cười khổ, chính mình quá coi thường lần này khảo thí, hoàn hảo chính mình không có rơi vào mặt sau cùng, quay đầu lại chứng kiến vị kia lạnh lùng sư huynh. Hàn Lập do dự một lát sau, vẫn là quyết nỗ sức lực nhi, lại hướng lên leo lên một chút, mặc dù tại giữa trưa lúc trước mình tuyệt đối không cách nào leo đến, thực là như vậy bất động há không quá khó nhìn!",
-      "dich": "Hàn Lập trong đầu chỉ còn có thể cười khổ, tự mình đã quá coi thường lần kiểm tra này, may mà còn chưa có rớt xuống cuối cùng. Quay đầu nhìn lại thấy vị sư huynh lạnh lùng kia, Hàn Lập do dự một lúc, lại quyết định cố gắng cố thử một lần nữa leo lên. Tuy rằng trước chính ngọ không thể lên tới đỉnh nhưng cũng còn hơn là bỏ cuộc vào lúc này",
+      "convert": "Hàn Lập trong đầu chỉ có thể cười khổ, chính mình quá coi thường lần này khảo thí, hoàn hảo chính mình không có rơi vào mặt sau cùng.",
+      "dich": "Hàn Lập trong đầu chỉ còn có thể cười khổ, tự mình đã quá coi thường lần kiểm tra này, may mà còn chưa có rớt xuống cuối cùng.",
+      "approved": true
+    },
+    {
+      "convert": "Quay đầu lại chứng kiến vị kia lạnh lùng sư huynh, Hàn Lập do dự một lát sau, vẫn là quyết nỗ sức lực nhi, lại hướng lên leo lên một chút, mặc dù tại giữa trưa lúc trước mình tuyệt đối không cách nào leo đến, thực là như vậy bất động há không quá khó nhìn!",
+      "dich": "Quay đầu nhìn lại thấy vị sư huynh lạnh lùng kia, Hàn Lập do dự một lúc, lại quyết định cố gắng cố thử một lần nữa leo lên. Tuy rằng trước chính ngọ không thể lên tới đỉnh nhưng cũng còn hơn là bỏ cuộc vào lúc này",
       "approved": true
     },
     {

@@ -15,1457 +15,522 @@
     {
       "convert": "\"Cái này cốt giản nội dung chỉ có thể xem xét ba lần, ba lần qua đi, nội dung bên trong liền sẽ tiêu hủy, nhất định không được lãng phí mỗi một cơ hội.\"",
       "dich": "\"Nội dung trong cốt giản này chỉ có thể xem ba lần, hết ba lần nội dung bên trong sẽ tự hủy, nhất định không được để phí bất cứ lần nào.\"",
-      "suggest": "\"Nội dung cốt giản này chỉ có thể xem ba lần, ba lần trôi qua, nội dung sẽ bị tiêu hủy, nhất định không được lãng phí mỗi một cơ hội.\"",
-      "similarity": [
-        [
-          0,
-          0.45
-        ]
-      ]
+      "suggest": "\"Nội dung cốt giản này chỉ có thể xem ba lần, ba lần sẽ tiêu hủy, nhất định không được lãng phí mỗi một cơ hội.\""
     },
     {
       "convert": "Phương Cách giải thích nói.",
       "dich": "Phương Cách giải thích.",
-      "suggest": "Phương Cách giải thích.",
-      "similarity": [
-        [
-          1,
-          1
-        ],
-        [
-          6,
-          0.15
-        ],
-        [
-          10,
-          0.28
-        ],
-        [
-          100,
-          0.11
-        ],
-        [
-          101,
-          0.11
-        ],
-        [
-          104,
-          0.11
-        ]
-      ]
+      "suggest": "Phương Cách giải thích."
     },
     {
       "convert": "\"Lại là vì phòng ngừa truyền ra ngoài biện pháp \"",
       "dich": "\"Lại là cách chống truyền ra ngoài.\"",
-      "suggest": "\"Lại là vì phòng ngừa truyền ra ngoài biện pháp phòng ngừa truyền ra ngoài.\"",
-      "similarity": [
-        [
-          2,
-          0.24
-        ]
-      ]
+      "suggest": "\"Lại là để phòng ngừa truyền ra ngoài.\""
     },
     {
       "convert": "Viên Minh thầm nghĩ trong lòng.",
       "dich": "Viên Minh thầm nghĩ trong lòng.",
-      "suggest": "Viên Minh thầm nghĩ.",
-      "similarity": [
-        [
-          1,
-          0.11
-        ],
-        [
-          3,
-          0.43
-        ],
-        [
-          8,
-          0.18
-        ],
-        [
-          10,
-          0.12
-        ],
-        [
-          12,
-          0.15
-        ],
-        [
-          52,
-          0.16
-        ],
-        [
-          57,
-          0.23
-        ],
-        [
-          90,
-          0.15
-        ],
-        [
-          101,
-          0.11
-        ],
-        [
-          104,
-          0.11
-        ]
-      ]
+      "suggest": "Viên Minh thầm nghĩ."
     },
     {
       "convert": "\"Đúng rồi, công pháp nội dung chỉ có thể bản thân dụng tâm ký ức, không được tự mình sao chép, càng không thể ngoại truyền.",
       "dich": "\"Phải rồi, nội dung công pháp chỉ có thể do bản thân dụng tâm ghi nhớ, không được tự mình sao chép, càng không được truyền ra ngoài.",
-      "suggest": "\"Đúng rồi, nội dung công pháp chỉ có thể do bản thân mình ghi chép, không được tự mình sao chép, càng không được ngoại truyền.",
-      "similarity": [
-        [
-          4,
-          0.66
-        ]
-      ]
+      "suggest": "\"Đúng rồi, nội dung công pháp chỉ có thể do bản thân tự mình ghi nhớ, không được tự mình sao lục, càng không được truyền ra ngoài."
     },
     {
       "convert": "Một khi bị phát hiện, chính là tội chết, đến lúc đó ai cũng không thể nào cứu được ngươi.\"",
       "dich": "Một khi bị phát hiện là tội chết, đến lúc đó ai cũng không thể cứu ngươi.\"",
-      "suggest": "Một khi bị phát hiện, chính là tội chết, đến lúc đó ai cũng không thể cứu được ngươi.\"",
-      "similarity": [
-        [
-          5,
-          0.71
-        ]
-      ]
+      "suggest": "Một khi bị phát hiện là phạm tội chết, đến lúc đó ai cũng không thể cứu được ngươi.\""
     },
     {
       "convert": "Phương Cách trịnh trọng dặn dò.",
       "dich": "Phương Cách trịnh trọng căn dặn.",
-      "suggest": "Phương Cách trịnh trọng dặn dò.",
-      "similarity": [
-        [
-          1,
-          0.16
-        ],
-        [
-          6,
-          0.45
-        ],
-        [
-          10,
-          0.17
-        ]
-      ]
+      "suggest": "Phương Cách trịnh trọng dặn dò."
     },
     {
       "convert": "\"Vậy nếu là ba lần không nhớ được đâu?\"",
       "dich": "\"Vậy nếu xem ba lần vẫn không nhớ được thì sao?\"",
-      "suggest": "\"Vậy nếu ba lần không nhớ thì sao?\"",
-      "similarity": [
-        [
-          7,
-          0.31
-        ]
-      ]
+      "suggest": "\"Vậy nếu ba lần không nhớ được thì sao?\""
     },
     {
       "convert": "Viên Minh hiếu kỳ nói.",
       "dich": "Viên Minh hiếu kỳ hỏi.",
-      "suggest": "Viên Minh hiếu kỳ nói.",
-      "similarity": [
-        [
-          3,
-          0.15
-        ],
-        [
-          8,
-          0.54
-        ],
-        [
-          12,
-          0.15
-        ],
-        [
-          52,
-          0.15
-        ],
-        [
-          57,
-          0.12
-        ],
-        [
-          90,
-          0.15
-        ]
-      ]
+      "suggest": "Viên Minh hiếu kỳ hỏi."
     },
     {
-      "convert": "\"Ba lần không nhớ được, có thể đi Quy Tàng các lầu hai hối đoái, mười điểm điểm cống hiến hối đoái một lần mượn đọc cơ hội.\"",
-      "dich": "\"Ba lần mà chưa nhớ được thì có thể tới lầu hai Quy Tàng các đổi, cứ mười điểm cống hiến sẽ đổi được một lần mượn đọc.\"",
-      "suggest": "\"Một khi không nhớ nổi, có thể đến Quy Tàng Các hối đoái, mười điểm cống hiến hối đoái một lần.\"",
-      "similarity": [
-        [
-          9,
-          0.12
-        ],
-        [
-          27,
-          0.1
-        ]
-      ]
+      "convert": "\"Ba lần không nhớ được, có thể đi Quy Tàng Các lầu hai hối đoái, mười điểm điểm cống hiến hối đoái một lần mượn đọc cơ hội.\"",
+      "dich": "\"Ba lần mà chưa nhớ được thì có thể tới lầu hai Quy Tàng Các đổi, cứ mười điểm cống hiến sẽ đổi được một lần mượn đọc.\"",
+      "suggest": "\"Ba lần không nhớ, có thể tới Quy Tàng Các hối đoái, một lần nhận mười điểm cống hiến một lần.\""
     },
     {
       "convert": "Phương Cách nói.",
       "dich": "Phương Cách đáp.",
-      "suggest": "Phương Cách nói.",
-      "similarity": [
-        [
-          1,
-          0.24
-        ],
-        [
-          6,
-          0.15
-        ],
-        [
-          10,
-          0.35
-        ],
-        [
-          101,
-          0.18
-        ],
-        [
-          104,
-          0.18
-        ]
-      ]
+      "suggest": "Phương Cách nói."
     },
     {
       "convert": "\"Được rồi, đa tạ sư huynh chỉ điểm.\"",
       "dich": "\"Được rồi, đa tạ sư huynh chỉ điểm.\"",
-      "suggest": "\"Được, đa tạ sư huynh chỉ điểm.\"",
-      "similarity": [
-        [
-          11,
-          0.77
-        ],
-        [
-          14,
-          0.11
-        ]
-      ]
+      "suggest": "\"Được rồi, đa tạ sư huynh chỉ điểm.\""
     },
     {
       "convert": "Viên Minh ôm quyền nói.",
       "dich": "Viên Minh ôm quyền cám ơn.",
-      "suggest": "Viên Minh ôm quyền nói.",
-      "similarity": [
-        [
-          3,
-          0.15
-        ],
-        [
-          8,
-          0.18
-        ],
-        [
-          12,
-          0.43
-        ],
-        [
-          15,
-          0.28
-        ],
-        [
-          52,
-          0.15
-        ],
-        [
-          57,
-          0.12
-        ],
-        [
-          90,
-          0.15
-        ]
-      ]
+      "suggest": "Viên Minh ôm quyền nói."
     },
     {
       "convert": "\"Hôm nay cũng đừng luyện phôi, dưỡng tốt tinh thần, trở về hảo hảo ký ức quen thuộc công pháp đi.\"",
       "dich": "\"Hôm nay đừng luyện phôi nữa, dưỡng tốt tinh thần, trở về cẩn thận ghi nhớ làm quen công pháp đi.\"Phương Cách khoát tay áo, nói.",
-      "suggest": "\"Hôm nay cũng đừng luyện phôi, dưỡng tốt tinh thần, trở về ký ức công pháp quen thuộc đi.\"",
-      "similarity": [
-        [
-          13,
-          0.33
-        ]
-      ]
+      "suggest": "\"Hôm nay cũng đừng luyện phôi, dưỡng tốt tinh thần, quay về ký ức công pháp đã học đi.\""
     },
     {
       "convert": "Phương Cách khoát tay áo, nói.",
-      "dich": "\"Xin nghe sư huynh.\"",
-      "suggest": "Phương Cách khoát tay, nói.",
-      "similarity": [
-        [
-          1,
-          0.16
-        ],
-        [
-          6,
-          0.15
-        ],
-        [
-          10,
-          0.17
-        ]
-      ]
+      "dich": "\"Xin nghe sư huynh.\" Viên Minh ôm quyền, cáo từ rời đi.",
+      "suggest": "Phương Cách khoát tay, nói."
     },
     {
-      "convert": "\"Liền nghe sư huynh.\"",
-      "dich": "Viên Minh ôm quyền, cáo từ rời đi.",
-      "suggest": "\"Liền nghe sư huynh.\"",
-      "similarity": [
-        [
-          11,
-          0.1
-        ],
-        [
-          14,
-          0.64
-        ],
-        [
-          82,
-          0.12
-        ]
-      ]
-    },
-    {
-      "convert": "Viên Minh ôm quyền, cáo từ rời đi.",
+      "convert": "\"Liền nghe sư huynh.\" Viên Minh ôm quyền, cáo từ rời đi.",
       "dich": "Phương Cách nhìn bóng lưng Viên Minh rời đi, trong lòng bỗng nổi lên nghi hoặc: \"Hỏa Sàm Nhi thời gian này có phải là lớn hơn chút không?\"",
-      "suggest": "Viên Minh ôm quyền, cáo từ rời đi.",
-      "similarity": [
-        [
-          12,
-          0.28
-        ],
-        [
-          15,
-          1
-        ]
-      ]
+      "suggest": "\"Lại nghe sư huynh.\" Viên Minh ôm quyền, cáo từ rời đi."
     },
     {
       "convert": "Phương Cách nhìn xem Viên Minh bóng lưng rời đi, bỗng nhiên sinh lòng nghi hoặc: \"Hỏa Sàm Nhi trong khoảng thời gian này có phải hay không trưởng thành chút?\"",
-      "dich": "Sau khi rời đi, Viên Minh cũng không quay về chỗ ở ngay mà thu Hỏa Sàm Nhi vào trong túi linh thú, tiếp đó đi thẳng tới Quy Tàng các.",
-      "suggest": "Phương Cách nhìn bóng lưng Viên Minh rời đi, bỗng nhiên sinh lòng nghi hoặc: \"Hỏa Sàm Nhi trong khoảng thời gian này có phải đã trưởng thành hơn chút ít không?\"",
-      "similarity": [
-        [
-          16,
-          0.55
-        ]
-      ]
+      "dich": "Sau khi rời đi, Viên Minh cũng không quay về chỗ ở ngay mà thu Hỏa Sàm Nhi vào trong túi linh thú, tiếp đó đi thẳng tới Quy Tàng Các.",
+      "suggest": "Phương Cách nhìn bóng lưng Viên Minh rời đi, bỗng nhiên sinh lòng nghi hoặc: \"Thời gian qua Hỏa Sàm Nhi có trưởng thành hơn chút nào không?\""
     },
     {
-      "convert": "Viên Minh rời đi về sau, cũng không lập tức trở về chỗ ở, mà là đem Hỏa Sàm Nhi thu nhập Linh Thú Đại, trực tiếp đi tới Quy Tàng các.",
+      "convert": "Viên Minh rời đi về sau, cũng không lập tức trở về chỗ ở, mà là đem Hỏa Sàm Nhi thu nhập Linh Thú Đại, trực tiếp đi tới Quy Tàng Các.",
       "dich": "Lần này, hắn đi dọc theo cầu thang xoắn ốc lên thẳng lầu hai.",
-      "suggest": "Viên Minh sau khi rời đi cũng không lập tức trở về chỗ ở, mà lại thu Hỏa Sàm Nhi trở về, trực tiếp đi tới Quy Tàng Các.",
-      "similarity": [
-        [
-          17,
-          0.18
-        ]
-      ]
+      "suggest": "Sau khi Viên Minh rời đi, cũng không lập tức trở về chỗ ở, mà thu Hỏa Sàm Nhi vào trong Linh Thú Đại, trực tiếp đi tới Quy Tàng Các."
     },
     {
       "convert": "Lần này, hắn trực tiếp dọc theo thang lầu xoắn ốc lên lầu hai.",
-      "dich": "Lầu hai Quy Tàng các so với lầu một thì trống trải hơn nhiều, hai phần ba diện tích bên trong được xếp đầy những bộ bàn ghế đồng bộ, trong đó rải rác thấy từng đệ tử tông môn đang ngồi đọc sách.",
-      "suggest": "Lần này, hắn đi dọc theo cầu thang bộ lên tầng hai.",
-      "similarity": [
-        [
-          18,
-          0.57
-        ]
-      ]
+      "dich": "Lầu hai Quy Tàng Các so với lầu một thì trống trải hơn nhiều, hai phần ba diện tích bên trong được xếp đầy những bộ bàn ghế đồng bộ, trong đó rải rác thấy từng đệ tử tông môn đang ngồi đọc sách.",
+      "suggest": "Lần này, hắn đi thẳng lên tầng hai thang máy."
     },
     {
       "convert": "Lần này, hắn trực tiếp dọc theo thang lầu xoắn ốc lên lầu hai.",
       "dich": "Khách với không khí thoải mái ở lầu dưới, bầu không khi trên lầu hai rõ ràng trở nên ngưng trọng hơn mấy phần.",
-      "suggest": "Lần này, hắn đi dọc theo cầu thang bộ lên tầng hai.",
-      "similarity": [
-        [
-          18,
-          0.57
-        ]
-      ]
+      "suggest": "Lần này, hắn đi thẳng lên tầng hai thang máy."
     },
     {
-      "convert": "Quy Tàng các lầu hai so với lầu một trống không không ít, trong đó hai phần ba khu vực, đều bày biện từng trương nguyên bộ cái bàn, bên trong rải rác ngồi từng cái tông môn đồ đệ.",
+      "convert": "Quy Tàng Các lầu hai so với lầu một trống không không ít, trong đó hai phần ba khu vực, đều bày biện từng trương nguyên bộ cái bàn, bên trong rải rác ngồi từng cái tông môn đồ đệ.",
       "dich": "Mỗi người ngồi đây đều nhíu chặt lông mày, bộ dạng như đang tập trung tinh thần khẩn trương học tập, sợ chỉ phân tâm một chút sẽ lãng phí cơ hội học tập phải dùng điểm cống hiến để đổi lấy này.",
-      "suggest": "Lầu hai so với lầu hai trống không hơn nhiều. Trong đó hai phần ba khu vực đều bày biện từng cái bàn, bên trong rải rác có từng đệ tử tông môn.",
-      "similarity": [
-        [
-          19,
-          0.16
-        ]
-      ]
+      "suggest": "Lầu hai trống không không ít, trong đó hai phần ba đều bày biện từng cái bàn, bên trong rải rác là những đệ tử tông môn."
     },
     {
       "convert": "Cùng lầu dưới lỏng lẻo trạng thái khác biệt, trên lầu bầu không khí rõ ràng trở nên ngưng trọng mấy phần.",
       "dich": "Một phần ba diện tích còn lại của lầu hai bị cắt ra để dựng lên một gian phòng độc lập.",
-      "suggest": "So với trạng thái lỏng lẻo của lầu dưới, không khí trên lầu rõ ràng trở nên ngưng trọng hơn mấy phần.",
-      "similarity": [
-        [
-          20,
-          0.45
-        ]
-      ]
+      "suggest": "So với trạng thái lỏng lẻo ở tầng dưới, bầu không khí trên lầu rõ ràng trở nên ngưng trọng hơn mấy phần."
     },
     {
       "convert": "Ngồi ở chỗ này mỗi người, đều là lông mày nhíu chặt, một bộ tập trung tinh thần khẩn trương học tập bộ dáng, sợ có chút phân thần, liền lãng phí một cách vô ích cái này dùng điểm cống hiến đổi lấy học tập cơ hội.",
       "dich": "Đằng sau chiếc bàn đặt bên ngoài điển tích thất, thấy có một chấp sự trung niên tai đeo khuyên bạc hình tròn, thân hình hơi béo, làn da ngăm đen đang ngồi.",
-      "suggest": "Mỗi người ngồi ở đây đều có hai hàng lông mày nhíu chặt, bộ dáng tập trung tinh thần, sợ có chút phân thần, liền lãng phí một cách vô ích cơ hội dùng điểm cống hiến đổi lấy cơ hội học tập này.",
-      "similarity": [
-        [
-          21,
-          0.23
-        ]
-      ]
+      "suggest": "Mỗi người ngồi ở đây đều có lông mày nhíu chặt lại, bộ dáng khẩn trương tập trung tinh thần học tập, sợ có chút phân tâm, sẽ lãng phí một cách vô ích cơ hội dùng điểm cống hiến đổi lấy cơ hội học tập."
     },
     {
       "convert": "Lầu hai còn lại một phần ba khu vực, bị chia cắt ra để xây dựng thành một cái độc lập gian phòng.",
       "dich": "Ngươi này mặt mày dữ tợn, bộ dạng có vẻ hơi hung ác, chính là kiểu tướng mạo có thể khiến trẻ nít nín khóc đêm kia.",
-      "suggest": "Lầu hai còn lại một phần ba diện tích được chia làm hai phần, mỗi phần ba được chia làm hai gian phòng độc lập.",
-      "similarity": [
-        [
-          22,
-          0.24
-        ]
-      ]
+      "suggest": "Phần còn lại của khu vực lầu hai, được chia làm ba gian phòng độc lập."
     },
     {
       "convert": "Ở điển tịch thất ngoại phóng đưa bàn đằng sau, thì đang ngồi lấy một cái làn da ngăm đen, thân hình hơi bàn, trên lỗ tai mang treo bằng bạc vòng tròn trung niên chấp sự.",
-      "dich": "\"Trưởng lão, vãn bối đến mượn đọc bí tịch 'Khu Vật Thuật'.\"",
-      "suggest": "Bên cạnh điển tịch, một người trung niên có làn da ngăm đen, thân hình hơi còng xuống, trên tai đeo một vòng tròn bằng bạc.",
-      "similarity": [
-        [
-          23,
-          0.17
-        ]
-      ]
+      "dich": "\"Trưởng lão, vãn bối đến mượn đọc bí tịch 'Khu Vật Thuật'.\" Viên Minh tiến lên hành lễ, mở miệng nói ra mục đích đến.",
+      "suggest": "Phía sau điển tịch, một chấp sự trung niên có làn da ngăm đen, thân hình hơi béo, trên lỗ tai đeo vòng tròn bằng bạc."
     },
     {
       "convert": "Người này một mặt dữ tợn, tướng mạo hơi có vẻ hung ác, là loại kia có thể dừng tiểu nhi khóc đêm tướng mạo.",
-      "dich": "Viên Minh tiến lên hành lễ, mở miệng nói ra mục đích đến.",
-      "suggest": "Người này có vẻ mặt dữ tợn, tướng mạo hơi hung ác, chắc hẳn là loại tướng mạo có thể tạm dừng cho tiểu nhi khóc đêm.",
-      "similarity": [
-        [
-          24,
-          0.23
-        ]
-      ]
+      "dich": "Chấp sự trung niên kia nghe thế liền mở mắt ra nhìn Viên Minh một chút, xong chậm rãi nói: \"Tốn mười điểm cống hiến.\"",
+      "suggest": "Người này mặt mũi dữ tợn, tướng mạo hơi hung ác, là loại tướng mạo có thể khiến tiểu nhi khóc đêm."
     },
     {
-      "convert": "\"Trưởng lão, vãn bối tới mượn đọc « Khu vật thuật » bí tịch.\"",
-      "dich": "Chấp sự trung niên kia nghe thế liền mở mắt ra nhìn Viên Minh một chút, xong chậm rãi nói: \"Tốn mười điểm cống hiến.\"",
-      "suggest": "\"Trưởng lão, vãn bối muốn mượn đọc bí tịch  Khu Vật Thuật.",
-      "similarity": [
-        [
-          25,
-          0.48
-        ],
-        [
-          93,
-          0.11
-        ]
-      ]
+      "convert": "\"Trưởng lão, vãn bối tới mượn đọc « Khu Vật Thuật » bí tịch.\"",
+      "dich": "Viên Minh lấy lệnh bài ra, đem đặt lên bàn.",
+      "suggest": "\"Trưởng lão, vãn bối tới mượn đọc bí tịch Khu Vật Thuật.\""
     },
     {
       "convert": "Viên Minh tiến lên hành lễ, mở miệng nói ra.",
-      "dich": "Viên Minh lấy lệnh bài ra, đem đặt lên bàn.",
-      "suggest": "Viên Minh tiến lên hành lễ, mở miệng nói.",
-      "similarity": [
-        [
-          26,
-          0.64
-        ]
-      ]
+      "dich": "Chấp sự trung niên cầm lấy lệnh bài, kế đó cũng không nói lời thừa, lập tức đứng dậy đẩy cánh cửa phòng sau lưng ra rồi bước vào.",
+      "suggest": "Viên Minh tiến lên hành lễ, mở miệng nói."
     },
     {
       "convert": "Cái kia trung niên chấp sự nghe vậy, mở mắt ra nhìn Viên Minh một chút, chậm rãi mở miệng nói ra: \"Mười điểm điểm cống hiến.\"",
-      "dich": "Chấp sự trung niên cầm lấy lệnh bài, kế đó cũng không nói lời thừa, lập tức đứng dậy đẩy cánh cửa phòng sau lưng ra rồi bước vào.",
-      "suggest": "Chấp sự trung niên nghe vậy, mở mắt nhìn Viên Minh một chút, chậm rãi mở miệng nói: \"Mười điểm cống hiến.\"",
-      "similarity": [
-        [
-          27,
-          0.43
-        ],
-        [
-          39,
-          0.13
-        ]
-      ]
+      "dich": "Chỉ chốc lát sau, y cầm thêm một cuốn sách hơi mỏng bìa xanh bước trở ra.",
+      "suggest": "Chấp sự trung niên nghe vậy, mở mắt ra nhìn Viên Minh một chút, chậm rãi mở miệng nói: \"Mười điểm cống hiến.\""
     },
     {
       "convert": "Viên Minh lấy xuống lệnh bài, đặt ở bàn bên trên.",
-      "dich": "Chỉ chốc lát sau, y cầm thêm một cuốn sách hơi mỏng bìa xanh bước trở ra.",
-      "suggest": "Viên Minh lấy lệnh bài đặt lên bàn.",
-      "similarity": [
-        [
-          3,
-          0.11
-        ],
-        [
-          8,
-          0.11
-        ],
-        [
-          12,
-          0.11
-        ],
-        [
-          28,
-          0.53
-        ],
-        [
-          52,
-          0.11
-        ],
-        [
-          57,
-          0.11
-        ],
-        [
-          90,
-          0.11
-        ]
-      ]
+      "dich": "\"Mượn đọc thư tịch, chỉ được ở trong phạm vi lầu hai, không được mang ra ngoài, thời hạn ba canh giờ.\"",
+      "suggest": "Viên Minh lấy lệnh bài ra, đặt lên bàn."
     },
     {
       "convert": "Trung niên chấp sự cầm lấy lệnh bài, cũng không nói nhảm, đứng dậy đẩy ra sau lưng cửa phòng, đi vào.",
-      "dich": "\"Mượn đọc thư tịch, chỉ được ở trong phạm vi lầu hai, không được mang ra ngoài, thời hạn ba canh giờ.\"",
-      "suggest": "Chấp sự trung niên cầm lệnh bài cũng không nói nhảm, đứng dậy đẩy cửa phòng ra sau lưng, đi vào.",
-      "similarity": [
-        [
-          29,
-          0.24
-        ],
-        [
-          32,
-          0.11
-        ]
-      ]
+      "dich": "Chấp sự trung niên nói ngắn gọn một câu xong liền đặt lệnh và sách trên mặt bàn.",
+      "suggest": "Chấp sự trung niên cầm lệnh bài, cũng không nói nhảm, đứng dậy đẩy cửa phòng sau lưng ra, đi vào."
     },
     {
       "convert": "Chỉ chốc lát sau, trong tay hắn liền có thêm một bản thật mỏng thanh sắc sách, đi trở về.",
-      "dich": "Chấp sự trung niên nói ngắn gọn một câu xong liền đặt lệnh và sách trên mặt bàn.",
-      "suggest": "Chỉ chốc lát sau đó, trong tay hắn đã có thêm một quyển sách mỏng, nhanh chóng trở về.",
-      "similarity": [
-        [
-          30,
-          0.15
-        ]
-      ]
+      "dich": "Viên Minh nói một tiếng cám ơn, xong cầm lệnh bài lên nhìn một cái, phát hiện số điểm cống hiến bên trong chỉ còn lại mười bốn điểm.",
+      "suggest": "Chỉ chốc lát sau, trong tay hắn đã có thêm một quyển sách bìa xanh rất mỏng, cầm lên rồi đi trở về."
     },
     {
       "convert": "\"Mượn đọc thư tịch, chỉ có thể ở lầu hai phạm vi bên trong, không được mang ra, hạn thì ba canh giờ.\"",
-      "dich": "Viên Minh nói một tiếng cám ơn, xong cầm lệnh bài lên nhìn một cái, phát hiện số điểm cống hiến bên trong chỉ còn lại mười bốn điểm.",
-      "suggest": "\"Mượn đọc thư tịch, chỉ có thể ở trong phạm vi lầu hai, không được mang ra ngoài quá ba canh giờ.\"",
-      "similarity": [
-        [
-          31,
-          0.73
-        ]
-      ]
+      "dich": "Hắn cầm cuốn 'Khu Vật Thuật' đi tới một cái bàn phía bên cạnh rồi ngồi xuống, bắt đầu ngưng thần tìm đọc, vẫn là tiết tấu thường ngày của hắn, từ tốn đọc từng tờ từng tờ một, tốc độ không nhanh cũng không chậm.",
+      "suggest": "\"Mượn đọc thư tịch chỉ có thể ở trong phạm vi lầu hai, không được mang ra ngoài quá ba canh giờ.\""
     },
     {
       "convert": "Trung niên chấp sự nói một câu, liền đem lệnh bài cùng sách đều đặt ở trên mặt bàn.",
-      "dich": "Hắn cầm cuốn 'Khu Vật Thuật' đi tới một cái bàn phía bên cạnh rồi ngồi xuống, bắt đầu ngưng thần tìm đọc, vẫn là tiết tấu thường ngày của hắn, từ tốn đọc từng tờ từng tờ một, tốc độ không nhanh cũng không chậm.",
-      "suggest": "Chấp sự trung niên một câu, sau đó liền đặt lệnh bài và sách lên trên bàn.",
-      "similarity": [
-        [
-          32,
-          0.25
-        ]
-      ]
+      "dich": "Để có thể tìm đọc tài liệu ở lầu hai đều phải trả cái giá không nhỏ, gần như ai cũng xem xét tí mỉ từng câu từng chữ, vừa đọc vừa nhớ nên tốc độ rất chậm.",
+      "suggest": "Chấp sự trung niên nói một câu, sau đó đặt lệnh bài và sách lên trên mặt bàn."
     },
     {
       "convert": "Viên Minh nói lời cảm tạ một tiếng về sau, cầm qua lệnh bài tra một cái xem, bên trong liền chỉ còn lại mười bốn điểm cống hiến đáng giá.",
-      "dich": "Để có thể tìm đọc tài liệu ở lầu hai đều phải trả cái giá không nhỏ, gần như ai cũng xem xét tí mỉ từng câu từng chữ, vừa đọc vừa nhớ nên tốc độ rất chậm.",
-      "suggest": "Viên Minh cảm ơn một tiếng, sau đó cầm lệnh bài kiểm tra một vòng, trong đó chỉ còn lại có mười sáu điểm cống hiến.",
-      "similarity": [
-        [
-          27,
-          0.1
-        ],
-        [
-          33,
-          0.13
-        ]
-      ]
+      "dich": "So sánh hai bên với nhau, Viên Minh liền có vẻ hơi đặc biệt.",
+      "suggest": "Viên Minh đáp lời cảm ơn một tiếng, sau đó cầm lệnh bài lên, kiểm tra một lượt, trong đó chỉ còn lại mười sáu điểm cống hiến đáng giá."
     },
     {
-      "convert": "Hắn mang theo « Khu vật thuật » đi vào một bộ cái bàn bên cạnh ngồi xuống, bắt đầu ngưng thần tìm đọc, vẫn như cũ là hắn thường ngày tiết tấu, một trương tiếp theo một trương đọc qua, tốc độ không nhanh cũng không chậm.",
-      "dich": "So sánh hai bên với nhau, Viên Minh liền có vẻ hơi đặc biệt.",
-      "suggest": "Hắn mang theo Khỉ thuật vào bên trong một cái bàn bên cạnh, bắt đầu ngưng thần tìm đọc, vẫn theo nhịp sống thường ngày của hắn, một trương tiếp theo đọc, tốc độ không nhanh cũng không chậm.",
-      "similarity": [
-        [
-          34,
-          0.42
-        ]
-      ]
+      "convert": "Hắn mang theo « Khu Vật Thuật » đi vào một bộ cái bàn bên cạnh ngồi xuống, bắt đầu ngưng thần tìm đọc, vẫn như cũ là hắn thường ngày tiết tấu, một trương tiếp theo một trương đọc qua, tốc độ không nhanh cũng không chậm.",
+      "dich": "Sau khoảng nửa canh giờ, Viên Minh đứng dậy đi tới trước bàn của chấp sự trung niên.",
+      "suggest": "Hắn mang theo khu vât thuật đi tới một cái bàn cạnh bàn, bắt đầu ngưng thần tìm đọc, vẫn theo nhịp sống thường ngày, một trương, một trương đọc qua, tốc độ không nhanh cũng không chậm."
     },
     {
       "convert": "Có thể ở lầu hai tìm đọc tư liệu, đều là tốn không ít đại giới, cơ hồ mỗi người đều là từng chữ từng câu tinh tế xem xét, vừa xem bên cạnh nhớ, tốc độ chậm chạp.",
-      "dich": "Sau khoảng nửa canh giờ, Viên Minh đứng dậy đi tới trước bàn của chấp sự trung niên.",
-      "suggest": "Những người có thể ở lầu hai tìm hiểu tư liệu cũng phải tốn không ít công sức, cơ hồ mỗi người đều cẩn thận xem xét, vừa xem vừa nhớ, bước chân chậm rãi.",
-      "similarity": []
+      "dich": "Chấp sự nhíu mày nói: \"Thời gian còn chưa hết.",
+      "suggest": "Nhưng tìm đọc tư liệu ở lầu hai đều tốn không ít giới thiệu, hầu như mỗi người đều cẩn thận xem xét, tỉ mỉ ghi nhớ, tốc độ rất nhanh."
     },
     {
       "convert": "Hai tướng so sánh xuống tới, Viên Minh liền có vẻ hơi đặc biệt.",
-      "dich": "Chấp sự nhíu mày nói: \"Thời gian còn chưa hết.",
-      "suggest": "So với hai tướng kia, Viên Minh có vẻ đặc biệt hơn một chút.",
-      "similarity": [
-        [
-          36,
-          0.15
-        ]
-      ]
+      "dich": "Nếu muốn sao chép bí tịch thuật pháp, cần tốn một trăm điểm cống hiến.\"",
+      "suggest": "So sánh hai tướng này, Viên Minh có vẻ hơi khác biệt."
     },
     {
       "convert": "Ước chừng sau nửa canh giờ, Viên Minh đứng dậy đi vào trung niên chấp sự bàn trước.",
-      "dich": "Nếu muốn sao chép bí tịch thuật pháp, cần tốn một trăm điểm cống hiến.\"",
-      "suggest": "Khoảng nửa canh giờ sau, Viên Minh đứng dậy đi tới trước mặt Chấp Sự trung niên.",
-      "similarity": [
-        [
-          37,
-          0.48
-        ],
-        [
-          61,
-          0.1
-        ]
-      ]
+      "dich": "Viên Minh lắc đầu, cười nói: \"Không cần, ta tới trả bí tịch.\"",
+      "suggest": "Khoảng nửa canh giờ sau, Viên Minh đứng dậy đi tới trước mặt chấp sự trung niên."
     },
     {
       "convert": "Cái sau nhíu mày nói ra: \"Thời gian còn chưa tới.",
-      "dich": "Viên Minh lắc đầu, cười nói: \"Không cần, ta tới trả bí tịch.\"",
-      "suggest": "\"Thời gian còn chưa tới.",
-      "similarity": [
-        [
-          38,
-          0.3
-        ]
-      ]
+      "dich": "Nói xong, hắn cũng không quan tâm vị chấp sự trung niên sẽ có phản ứng gì, lập tức quay người xuống lầu, rời khỏi Quy Tàng Các.",
+      "suggest": "Sau đó nhíu mày nói: \"Thời gian còn chưa tới."
     },
     {
       "convert": "Nếu muốn thác ấn thuật pháp bí tịch, cần một trăm điểm cống hiến giá trị \"",
-      "dich": "Nói xong, hắn cũng không quan tâm vị chấp sự trung niên sẽ có phản ứng gì, lập tức quay người xuống lầu, rời khỏi Quy Tàng các.",
-      "suggest": "Nếu muốn có được bí tịch thác ấn, cần một trăm điểm cống hiến.",
-      "similarity": [
-        [
-          39,
-          0.35
-        ]
-      ]
+      "dich": "Sau khi rời đi, Viên Minh đi một chuyến đến chỗ Triệu Đồng ở, vừa vặn gặp gã mới từ Cáp Mô Cốc về, liền cộng cả vốn lẫn lời trả lại điểm cống hiến cho gã, kết quả hiện tại hắn chỉ còn lại bảy điểm cống hiến.",
+      "suggest": "Nếu muốn thác ấn thuật pháp bí tịch, cần một trăm điểm cống hiến giá trị."
     },
     {
       "convert": "Viên Minh lắc đầu, cười nói: \"Không cần, ta tới trả lại bí tịch.\"",
-      "dich": "Sau khi rời đi, Viên Minh đi một chuyến đến chỗ Triệu Đồng ở, vừa vặn gặp gã mới từ Cáp Mô cốc về, liền cộng cả vốn lẫn lời trả lại điểm cống hiến cho gã, kết quả hiện tại hắn chỉ còn lại bảy điểm cống hiến.",
-      "suggest": "Viên Minh lắc đầu, cười nói: \"Không cần, ta tới trả lại bí tịch.\"",
-      "similarity": [
-        [
-          40,
-          0.86
-        ]
-      ]
+      "dich": "Sau khi trở lại trụ sở Hỏa Luyện Đường, Viên Minh lập tức vỗ túi linh thú, thả Hỏa Sàm Nhi ra ngoài.",
+      "suggest": "Viên Minh lắc đầu, cười nói: \"Không cần, ta tới trả bí tịch.\""
     },
     {
-      "convert": "Dứt lời, hắn cũng mặc kệ trúng năm chấp sự làm phản ứng gì, quay người đi xuống lâu, rời đi Quy Tàng các.",
-      "dich": "Sau khi trở lại trụ sở Hỏa Luyện đường, Viên Minh lập tức vỗ túi linh thú, thả Hỏa Sàm Nhi ra ngoài.",
-      "suggest": "Dứt lời, hắn cũng mặc kệ chấp sự top năm có phản ứng gì, quay người rời khỏi Quy Tàng Các.",
-      "similarity": [
-        [
-          41,
-          0.25
-        ]
-      ]
+      "convert": "Dứt lời, hắn cũng mặc kệ trúng năm chấp sự làm phản ứng gì, quay người đi xuống lâu, rời đi Quy Tàng Các.",
+      "dich": "Tiểu gia hỏa vừa ra ngoài liền leo ngay lên bả vai hắn rồi cào cấu loạn xạ, trút nỗi ấm ức vì bị nhốt lại.",
+      "suggest": "Dứt lời, hắn cũng mặc kệ chấp sự trúng tuyển năm làm phản ứng gì, quay người đi xuống khỏi Quy Tàng Các."
     },
     {
       "convert": "Rời đi về sau, Viên Minh đi một chuyến Triệu Đồng nơi ở, vừa vặn gặp được hắn từ Cáp Mô Cốc trở về, liền đem lúc trước thiếu điểm cống hiến, cả gốc lẫn lãi địa còn đưa hắn, ngày nay chỉ còn lại có bảy giờ điểm cống hiến.",
-      "dich": "Tiểu gia hỏa vừa ra ngoài liền leo ngay lên bả vai hắn rồi cào cấu loạn xạ, trút nỗi ấm ức vì bị nhốt lại.",
-      "suggest": "Rời đi, Viên Minh đi một chuyến tới Triệu Đồng, vừa vặn gặp được hắn từ Cáp Mô Cốc trở về, đã đưa hết điểm cống hiến lúc trước cho hắn, đến hôm nay chỉ còn lại bảy giờ điểm cống hiện.",
-      "similarity": [
-        [
-          42,
-          0.27
-        ]
-      ]
+      "dich": "Viên Minh lấy một viên Hỏa Phác Ngọc từ trong túi trữ vật ra huơ huơ, Hỏa Sàm Nhi lập tức dừng trút giận, bò dọc theo cánh tay Viên Minh, đoạt lấy Hỏa Phác Ngọc rồi gặm ăn ngon lành.",
+      "suggest": "Sau khi rời đi, Viên Minh đi một chuyến tới chỗ ở của Triệu Đồng, vừa vặn gặp hắn từ Cáp Mô Cốc trở về, liền đem điểm cống hiến lúc trước thiếu hụt, cả gốc lẫn lãi đều trả cho hắn, hiện giờ chỉ còn lại bảy giờ điểm cống hiến."
     },
     {
       "convert": "Trở lại Hỏa Luyện Đường chỗ ở về sau, Viên Minh lập tức vỗ Linh Thú Đại, đem Hỏa Sàm Nhi phóng ra.",
-      "dich": "Viên Minh lấy một viên Hỏa Phác ngọc từ trong túi trữ vật ra huơ huơ, Hỏa Sàm Nhi lập tức dừng trút giận, bò dọc theo cánh tay Viên Minh, đoạt lấy Hỏa Phác ngọc rồi gặm ăn ngon lành.",
-      "suggest": "Sau khi trở về tiểu viện Hỏa Luyện Đường, Viên Minh lập tức vỗ Linh Thú Đại, đem Hỏa Sàm Nhi phóng ra.",
-      "similarity": [
-        [
-          43,
-          0.3
-        ]
-      ]
+      "dich": "Viên Minh rãnh rội đi tới bên cạnh bàn ngồi xuống, lấy tấm cốt giản sao chép nội dung Bích La công kia ra, dán lên mi tâm mình rồi cẩn thận xem xét.",
+      "suggest": "Sau khi trở về chỗ ở ở Hỏa Luyện Đường, Viên Minh lập tức vỗ Linh Thú Đại, phóng Hỏa Sàm Nhi ra."
     },
     {
       "convert": "Tiểu gia hỏa sau khi ra ngoài, lập tức leo lên Viên Minh bả vai, đối hắn vừa cào vừa cấu, phát tiết lấy bị giam lên bất mãn.",
-      "dich": "Viên Minh rãnh rội đi tới bên cạnh bàn ngồi xuống, lấy tấm cốt giản sao chép nội dung Bích La công kia ra, dán lên mi tâm mình rồi cẩn thận xem xét.",
-      "suggest": "Tiểu tử vừa ra ngoài, lập tức dựa vào bả vai Viên Minh, vừa cào cào vừa cấu, khiến Viên Minh nổi giận.",
-      "similarity": []
+      "dich": "\"Bích La công lấy Mộc làm thuộc tính, chủ sinh phát, nếu tu thành thì pháp lực liên miên, cuồn cuộn không dứt ...\"",
+      "suggest": "Tiểu gia hỏa ra ngoài, lập tức leo lên bả vai Viên Minh, vừa cào vừa xoa, làm cho Viên Minh bất mãn."
     },
     {
       "convert": "Viên Minh từ trong Túi Trữ Vật lấy ra một viên Hỏa Phác Ngọc lung lay, Hỏa Sàm Nhi lập tức đình chỉ phát tiết, theo Viên Minh cánh tay bò qua, đoạt lấy Hỏa Phác Ngọc, gặm ăn.",
-      "dich": "\"Bích La công lấy Mộc làm thuộc tính, chủ sinh phát, nếu tu thành thì pháp lực liên miên, cuồn cuộn không dứt ...\"",
-      "suggest": "Viên Minh lấy ra một viên Hỏa Phác Ngọc từ trong túi trữ vật, Hỏa Phác Nhi lập tức ngừng phát tiết, theo cánh tay Viên Minh bò qua, đoạt lấy Hỏa Phác Ngọc, gặm nhấm.",
-      "similarity": [
-        [
-          45,
-          0.36
-        ]
-      ]
+      "dich": "Nhìn nội dung được ghi bên trong cốt giản, Viên Minh không khỏi nghi hoặc: \"Xem ý này ... là nói món Bích La công này là thuộc về công pháp Mộc thuộc tính.\"",
+      "suggest": "Viên Minh lấy một viên Hỏa Phác Ngọc từ trong túi trữ vật ra, Hỏa Sàm Nhi lập tức ngừng tiết ra, vươn cánh tay qua, đoạt lấy Hỏa Phác Ngọc rồi gặm ăn."
     },
     {
       "convert": "Viên Minh rảnh rỗi đi vào bên cạnh bàn ngồi xuống, lấy ra kia phiến thác ấn « Bích La Công » công pháp cốt giản, dán tại bản thân mi tâm, cẩn thận tra nhìn lại.",
-      "dich": "Nhìn nội dung được ghi bên trong cốt giản, Viên Minh không khỏi nghi hoặc: \"Xem ý này ... là nói món Bích La công này là thuộc về công pháp Mộc thuộc tính.\"",
-      "suggest": "Viên Minh rảnh rỗi đi vào bên trong ngồi xuống, lấy ra phiến thác ấn  Bích La Công  dán lên mi tâm của mình, cẩn thận quan sát.",
-      "similarity": [
-        [
-          46,
-          0.17
-        ]
-      ]
+      "dich": "Viên Minh sau một hồi suy tính lại tiếp tục xem xét.",
+      "suggest": "Viên Minh rảnh rỗi đi tới bàn bên cạnh ngồi xuống, lấy phiến ấn Bích La Công ra dán vào mi tâm, cẩn thận kiểm tra."
     },
     {
       "convert": "\"Bích La Công lấy mộc vi chúc, tính chủ sinh sôi, tu hành nếu có thành, thì pháp lực liên tục, kéo dài không ngừng ...\"",
-      "dich": "Viên Minh sau một hồi suy tính lại tiếp tục xem xét.",
-      "suggest": "\"Bích La Công lấy mộc vi chúc làm chủ nhân sinh sôi, tu hành nếu thành tựu thì pháp lực liên tục, kéo dài không ngừng ...\"",
-      "similarity": [
-        [
-          47,
-          0.13
-        ]
-      ]
+      "dich": "Sau một hồi lâu, nội dung công phải đã khắc sâu trong đầu Viên Minh, nhưng theo đó nghi hoặc trong lại càng lớn hơn.",
+      "suggest": "\"Bích La Công lấy mộc vi chúc, tính chủ sinh sôi, tu hành nếu có thành, pháp lực sẽ liên tục, kéo dài không ngừng ...\""
     },
     {
       "convert": "Nhìn xem cốt giản bên trong chỗ nhớ nội dung, Viên Minh không khỏi nghi hoặc: \"Xem ý tứ này  nói là cái này « Bích La Công » thuộc về Mộc thuộc tính công pháp.\"",
-      "dich": "Sau một hồi lâu, nội dung công phải đã khắc sâu trong đầu Viên Minh, nhưng theo đó nghi hoặc trong lại càng lớn hơn.",
-      "suggest": "Xem nội dung ghi chép trong ngoặc đơn, Viên Minh không khỏi nghi hoặc: \"Xem ý tứ này  nói Bích La công là công pháp thuộc tính Mộc thuộc tính.\"",
-      "similarity": [
-        [
-          48,
-          0.45
-        ],
-        [
-          78,
-          0.13
-        ],
-        [
-          87,
-          0.12
-        ]
-      ]
+      "dich": "\"Bích La công này sao lại nói tu luyện tới Luyện Khí tầng mười là có thể trúc cơ, nhưng mình nhớ là bên trong Cửu Nguyên Quyết rõ ràng viết là phải tới Luyện Khí tầng mười ba mới có thể trúc cơ?\"",
+      "suggest": "Nhìn nội dung ghi trong đoạn cốt giản, Viên Minh không khỏi nghi hoặc: \"Xem ý tứ của nó thì thấy là Bích La Công thuộc tính Mộc.\""
     },
     {
       "convert": "Viên Minh sau một phen suy tính, tiếp tục xem xét.",
-      "dich": "\"Bích La công này sao lại nói tu luyện tới Luyện Khí tầng mười là có thể trúc cơ, nhưng mình nhớ là bên trong Cửu Nguyên Quyết rõ ràng viết là phải tới Luyện Khí tầng mười ba mới có thể trúc cơ?\"",
-      "suggest": "Viên Minh sau một phen suy tính, tiếp tục xem xét.",
-      "similarity": [
-        [
-          49,
-          0.53
-        ]
-      ]
+      "dich": "Viên Minh âm thầm trầm ngâm.",
+      "suggest": "Viên Minh sau một phen suy tính, lại tiếp tục xem xét."
     },
     {
       "convert": "Sau một hồi lâu, công pháp nội dung đã thật sâu ghi tạc Viên Minh trong lòng, nhưng tùy theo mà đến, lại là nghi ngờ thật lớn.",
-      "dich": "Viên Minh âm thầm trầm ngâm.",
-      "suggest": "Sau một hồi lâu, nội dung công pháp đã thật sâu ghi tạc trong lòng Viên Minh, nhưng những cái tiếp theo lại gây ra sự nghi ngờ rất lớn.",
-      "similarity": [
-        [
-          4,
-          0.12
-        ],
-        [
-          50,
-          0.31
-        ]
-      ]
+      "dich": "Mang theo nỗi nghi hoặc, hắn vừa cẩn thận nhớ lại nội dung hai bộ công pháp, vừa so sánh hai bên một phen, kết quả phát hiện, dựa theo phương pháp tu luyện của Bích La công, xây xong toàn bộ mười tầng thì hạn mức cao nhất có thể đạt được chính là Luyện Khí tầng mười.",
+      "suggest": "Sau một hồi lâu, nội dung công pháp đã khắc sâu trong lòng Viên Minh, nhưng tùy thời mà đến lại là một nghi ngờ thật lớn."
     },
     {
       "convert": "\"Cái này Bích La Công nói thế nào tu luyện tới luyện khí mười tầng liền có thể trúc cơ, có thể ta nhớ được, Cửu Nguyên Quyết ở bên trong rõ ràng viết là đến luyện khí tầng mười ba lại đi trúc cơ?\"",
-      "dich": "Mang theo nỗi nghi hoặc, hắn vừa cẩn thận nhớ lại nội dung hai bộ công pháp, vừa so sánh hai bên một phen, kết quả phát hiện, dựa theo phương pháp tu luyện của Bích La công, xây xong toàn bộ mười tầng thì hạn mức cao nhất có thể đạt được chính là Luyện Khí tầng mười.",
-      "suggest": "\"Bạch La Công này nói thế nào mà tu luyện đến chín tầng luyện khí mà vẫn có thể trúc cơ chứ, theo như ta nhớ được, trong Cửu Nguyên Quyết không viết là đến tầng mười ba luyện khí mà vẫn phải trúc cơ?\"",
-      "similarity": [
-        [
-          51,
-          0.16
-        ]
-      ]
+      "dich": "Còn công pháp Cửu Nguyên Quyết lại có thể để Viên Minh tu luyện một mạch tới tầng mười ba.",
+      "suggest": "\"Bích La Công này nói tu luyện đến tầng mười ba là có thể trúc cơ, nhưng ta nhớ rõ ràng trong Cửu Nguyên Quyết viết là Luyện Khí tầng mười ba thì có thể trúc cơ?\""
     },
     {
       "convert": "Viên Minh âm thầm trầm ngâm.",
-      "dich": "Còn công pháp Cửu Nguyên Quyết lại có thể để Viên Minh tu luyện một mạch tới tầng mười ba.",
-      "suggest": "Viên Minh âm thầm trầm ngâm nói.",
-      "similarity": [
-        [
-          3,
-          0.14
-        ],
-        [
-          8,
-          0.13
-        ],
-        [
-          12,
-          0.13
-        ],
-        [
-          52,
-          0.73
-        ],
-        [
-          57,
-          0.13
-        ],
-        [
-          90,
-          0.13
-        ]
-      ]
+      "dich": "Chỉ từ mỗi điểm này mà nói, công pháp Cửu Nguyên Quyết rõ ràng đã mạnh hơn Bích La công.",
+      "suggest": "Viên Minh thầm trầm ngâm."
     },
     {
       "convert": "Mang theo nghi hoặc, hắn vừa cẩn thận nhớ lại một lần hai bộ công pháp, một phen so sánh về sau phát hiện, dựa theo Bích La Công phương pháp tu luyện, đem mười tầng toàn bộ xây xong, có khả năng đạt tới hạn mức cao nhất chính là luyện khí mười tầng.",
-      "dich": "Chỉ từ mỗi điểm này mà nói, công pháp Cửu Nguyên Quyết rõ ràng đã mạnh hơn Bích La công.",
-      "suggest": "Mang theo sự nghi hoặc, hắn cẩn thận nhớ lại hai lần công pháp, sau khi cẩn thận so sánh một phen, cuối cùng mới phát hiện, dựa theo phương pháp tu luyện Bích La Công, có thể hoàn thành mười tầng luyện khí, tầng cao nhất có thể đạt tới chính là Luyện Khí mười tầng.",
-      "similarity": [
-        [
-          53,
-          0.36
-        ]
-      ]
+      "dich": "\"Bất kể thế nào, nó vẫn là công pháp chính thống của Bích La Động, chắc chắn có chỗ độc đáo riêng, tu luyện thử một chút rồi lại nói.\"",
+      "suggest": "Mang theo nghi hoặc, hắn vừa cẩn thận nhớ lại hai bộ công pháp, sau khi cân nhắc một chút lại phát hiện, dựa theo phương pháp tu luyện Bích La Công, có khả năng hoàn thành tầng cao nhất của Luyện Khí kỳ."
     },
     {
       "convert": "Mà Cửu Nguyên Quyết công pháp, lại có thể để cho Viên Minh một đường tu luyện tới tầng mười ba.",
-      "dich": "\"Bất kể thế nào, nó vẫn là công pháp chính thống của Bích La Động, chắc chắn có chỗ độc đáo riêng, tu luyện thử một chút rồi lại nói.\"",
-      "suggest": "Mà công pháp Cửu Nguyên Quyết lại có thể giúp Viên Minh một đường tu luyện tới tầng mười ba.",
-      "similarity": [
-        [
-          54,
-          0.39
-        ],
-        [
-          55,
-          0.11
-        ],
-        [
-          81,
-          0.11
-        ],
-        [
-          87,
-          0.1
-        ]
-      ]
+      "dich": "Viên Minh thầm suy nghĩ trong lòng.",
+      "suggest": "Mà công pháp Cửu Nguyên Quyết lại có thể giúp Viên Minh một đường tu luyện tới tầng mười ba."
     },
     {
       "convert": "Vẻn vẹn như vậy mà nói, Cửu Nguyên Quyết công pháp liền rõ ràng là mạnh hơn so với Bích La Công.",
-      "dich": "Viên Minh thầm suy nghĩ trong lòng.",
-      "suggest": "Chỉ riêng phần công pháp này mà nói, Cửu Nguyên Quyết công pháp rõ ràng mạnh hơn rất nhiều so với Bích La công.",
-      "similarity": [
-        [
-          55,
-          0.25
-        ],
-        [
-          87,
-          0.1
-        ]
-      ]
+      "dich": "Vừa nghĩ tới thái độ cẩn thận đối với công pháp của Bích La Động, Viên Minh liền có thể đoán được, một khi việc mình tu luyện Cửu Nguyên Quyết lộ ra, tất nhiên sẽ đưa đến cho mình phiền toái không cần thiết.",
+      "suggest": "Nếu chỉ nói như vậy, công pháp Cửu Nguyên Quyết rõ ràng mạnh hơn Bích La Công rất nhiều."
     },
     {
       "convert": "\"Bất kể nói thế nào, cũng là Bích La Động chính thống công pháp, luôn có chỗ độc đáo của nó, tu luyện một lần thử một chút lại nói.\"",
-      "dich": "Vừa nghĩ tới thái độ cẩn thận đối với công pháp của Bích La Động, Viên Minh liền có thể đoán được, một khi việc mình tu luyện Cửu Nguyên Quyết lộ ra, tất nhiên sẽ đưa đến cho mình phiền toái không cần thiết.",
-      "suggest": "\"Có nói như thế nào đi nữa, công pháp Bích La Động vẫn có chỗ độc đáo riêng, tu luyện một lần rồi lại nói.\"",
-      "similarity": [
-        [
-          56,
-          0.37
-        ]
-      ]
+      "dich": "Trước kia hắn chỉ là Phi Mao thú nô, lăn lộn trong Thập Vạn Đại Sơn thế nào cũng rất khó gây ra sự chú ý cho người khác, nhưng hiện giờ đã vào Bích La Động, hắn không thể không cẩn thận một chút.",
+      "suggest": "\"Có nói thế nào đi nữa, cũng là công pháp chính thống của Bích La Động, luôn có chỗ độc đáo riêng, tu luyện thử một lần rồi lại nói.\""
     },
     {
       "convert": "Viên Minh trong lòng âm thầm suy nghĩ.",
-      "dich": "Trước kia hắn chỉ là Phi Mao thú nô, lăn lộn trong Thập Vạn Đại Sơn thế nào cũng rất khó gây ra sự chú ý cho người khác, nhưng hiện giờ đã vào Bích La Động, hắn không thể không cẩn thận một chút.",
-      "suggest": "Viên Minh âm thầm suy nghĩ.",
-      "similarity": [
-        [
-          3,
-          0.17
-        ],
-        [
-          8,
-          0.15
-        ],
-        [
-          12,
-          0.15
-        ],
-        [
-          52,
-          0.43
-        ],
-        [
-          57,
-          0.27
-        ],
-        [
-          90,
-          0.15
-        ]
-      ]
+      "dich": "Nếu có thể kiêm tu Bích La Động, vậy sẽ có thể che giấu việc này tốt hơn.",
+      "suggest": "Viên Minh thầm suy nghĩ."
     },
     {
       "convert": "Vừa nghĩ tới Bích La Động đối đãi công pháp thái độ cẩn thận, Viên Minh liền có thể đoán được, một khi bại lộ tự mình tu luyện « Cửu Nguyên Quyết » sự tình, tất nhiên sẽ cho mình đưa tới phiền toái không cần thiết.",
-      "dich": "Nếu có thể kiêm tu Bích La Động, vậy sẽ có thể che giấu việc này tốt hơn.",
-      "suggest": "Vừa nghĩ tới thái độ cẩn thận của Bích La Động đối với công pháp, Viên Minh liền có thể đoán được một khi bại lộ chuyện tự mình tu luyện  Cửu Nguyên Quyết, tất sẽ đưa tới phiền toái không cần thiết.",
-      "similarity": [
-        [
-          58,
-          0.54
-        ]
-      ]
+      "dich": "Vừa nghĩ đến đây, Viên Minh liền đứng dậy, chuẩn bị đi ra ngoài.",
+      "suggest": "Vừa nghĩ tới Bích La Động đối đãi công pháp rất cẩn thận, Viên Minh liền có thể đoán được một khi sự tình lộ ra ngoài ý muốn của mình, tất sẽ khiến mình gặp phiền toái không cần thiết."
     },
     {
-      "convert": "Trước kia chỉ là phi mao thú nô, trong Thập Vạn Đại Sơn thế nào giày vò đều rất khó gây nên người khác chú ý, nhưng hôm nay đến Bích La Động, hắn liền không thể không cẩn thận một chút.",
-      "dich": "Vừa nghĩ đến đây, Viên Minh liền đứng dậy, chuẩn bị đi ra ngoài.",
-      "suggest": "Trước kia chỉ là Phi Mao thú nô, trong Thập Vạn Đại Sơn thế nào cũng giày vò rất khó gây sự chú ý, nhưng hôm nay đến Bích La động, hắn không thể không cẩn thận một chút.",
-      "similarity": [
-        [
-          59,
-          0.52
-        ]
-      ]
+      "convert": "Trước kia chỉ là Phi Mao thú nô, trong Thập Vạn Đại Sơn thế nào giày vò đều rất khó gây nên người khác chú ý, nhưng hôm nay đến Bích La Động, hắn liền không thể không cẩn thận một chút.",
+      "dich": "\"Hỏa Sàm Nhi, đi ...\"",
+      "suggest": "Trước kia chỉ là Phi Mao thú nô, dù ở Thập Vạn Đại Sơn thế nào đi nữa thì việc giày vò thế nào cũng khó gây sự chú ý, nhưng hôm nay đến Bích La Động, hắn không thể không cẩn thận một chút."
     },
     {
       "convert": "Nếu là có thể kiêm tu « Bích La Công », liền có thể tốt hơn ẩn tàng chuyện này.",
-      "dich": "\"Hỏa Sàm Nhi, đi ...\"",
-      "suggest": "Nếu như có thể kiêm tu  Bích La Công , hẳn sẽ có thể ẩn tàng được chuyện này.",
-      "similarity": [
-        [
-          60,
-          0.33
-        ]
-      ]
+      "dich": "Chồn lửa mới vừa ăn xong Hỏa Phác Ngọc, nghe thấy Viên Minh gọi, lập tức đứng dậy đuổi theo rồi nhảy tót lên bờ vai Viên Minh.",
+      "suggest": "Nếu có thể kiêm tu Bích La Công thì sẽ tốt hơn là ẩn tàng chuyện này."
     },
     {
       "convert": "Vừa nghĩ đến đây, Viên Minh liền đứng dậy, chuẩn bị đi ra ngoài.",
-      "dich": "Chồn lửa mới vừa ăn xong Hỏa Phác ngọc, nghe thấy Viên Minh gọi, lập tức đứng dậy đuổi theo rồi nhảy tót lên bờ vai Viên Minh.",
-      "suggest": "Vừa nghĩ tới đây, Viên Minh liền đứng dậy, chuẩn bị bước ra ngoài.",
-      "similarity": [
-        [
-          36,
-          0.15
-        ],
-        [
-          61,
-          0.67
-        ],
-        [
-          78,
-          0.16
-        ],
-        [
-          83,
-          0.12
-        ]
-      ]
+      "dich": "Một người một chồn ra khỏi viện tử, rảo bước vội vàng đi xuống phía dưới núi.",
+      "suggest": "Vừa nghĩ tới đây, Viên Minh liền đứng dậy, chuẩn bị bước ra ngoài."
     },
     {
       "convert": "\"Hỏa Sàm Nhi, đi....\"",
-      "dich": "Một người một chồn ra khỏi viện tử, rảo bước vội vàng đi xuống phía dưới núi.",
-      "suggest": "\"Hỏa Sàm Nhi, đi...\"",
-      "similarity": [
-        [
-          62,
-          0.42
-        ]
-      ]
+      "dich": "Không lâu sau, Viên Minh đã mang theo chồn lửa tìm đến một mảng cây cối rậm rạp trên dốc núi hướng về phía mặt trời, kiếm một gốc cổ thụ xanh ngắt rồi khoanh chân ngồi xuống đó.",
+      "suggest": "\"Hỏa Sàm Nhi, đi...\""
     },
     {
       "convert": "Hỏa Chồn vừa mới ăn xong Hỏa Phác Ngọc, nghe xong Viên Minh giáng xuống, lập tức đứng dậy đuổi theo, lập tức liền nhảy lên đến Viên Minh trên bờ vai.",
-      "dich": "Không lâu sau, Viên Minh đã mang theo chồn lửa tìm đến một mảng cây cối rậm rạp trên dốc núi hướng về phía mặt trời, kiếm một gốc cổ thụ xanh ngắt rồi khoanh chân ngồi xuống đó.",
-      "suggest": "Hỏa Dạ Xoa vừa mới ăn xong Hỏa Phác Ngọc, nghe xong Viên Minh giáng xuống, lập tức đứng dậy chạy theo, lập tức nhảy lên bờ vai Viên Minh.",
-      "similarity": [
-        [
-          29,
-          0.11
-        ],
-        [
-          63,
-          0.35
-        ]
-      ]
+      "dich": "Thấy Viên Minh đặt mông ngồi xuống, chồn lửa nghĩ rằng hắn lại sắp bắt đầu tu luyện Minh Nguyệt Quyết, lập tức ngoan ngoãn ghé vào bên chân Viên Minh.",
+      "suggest": "Con lợn lòi vừa mới ăn xong Hỏa Phác Ngọc, nghe xong Viên Minh giáng xuống, lập tức đứng dậy đuổi theo, xong lập tức nhảy lên bờ vai Viên Minh."
     },
     {
       "convert": "Một người một chồn ra viện tử, hướng phía dưới núi vội vàng bước đi.",
-      "dich": "Thấy Viên Minh đặt mông ngồi xuống, chồn lửa nghĩ rằng hắn lại sắp bắt đầu tu luyện Minh Nguyệt quyết, lập tức ngoan ngoãn ghé vào bên chân Viên Minh.",
-      "suggest": "Một mình hắn ra khỏi viện, vội vàng bước xuống núi.",
-      "similarity": [
-        [
-          64,
-          0.12
-        ]
-      ]
+      "dich": "Tiểu gia hỏa sau khi nghiêng đầu ngẫm nghĩ một hồi, cuối cũng vẫn không dám leo lên đùi hắn.",
+      "suggest": "Một người một chồn ra khỏi viện, vội vàng bước xuống núi."
     },
     {
       "convert": "Không lâu lắm, Viên Minh liền mang theo Hỏa Chồn tìm được một mảnh cây cối rậm rạp hướng Dương Sơn sườn núi, ở bên trong tìm một gốc xanh biếc cổ thụ, khoanh chân ngồi ở dưới cây.",
-      "dich": "Tiểu gia hỏa sau khi nghiêng đầu ngẫm nghĩ một hồi, cuối cũng vẫn không dám leo lên đùi hắn.",
-      "suggest": "Không lâu sau, Viên Minh mang theo Hỏa Chồn tìm một khu rừng rậm rạp xung quanh Dương Sơn, trong đó có một gốc cây cổ thụ xanh biếc, khoanh chân ngồi dưới gốc cây.",
-      "similarity": [
-        [
-          65,
-          0.21
-        ]
-      ]
+      "dich": "Viên Minh điều chỉnh hô hấp một chút, xong hay tay lập tức bắt đầu bấm pháp quyết.",
+      "suggest": "Không lâu sau, Viên Minh đã dẫn theo Hỏa Chồn tìm được một mảnh rừng rậm rạp rậm rạp ở sườn núi Dương Sơn, trong đó có một gốc cây cổ thụ xanh biếc, khoanh chân ngồi xuống dưới gốc cây."
     },
     {
       "convert": "Nhìn thấy Viên Minh đặt mông ngồi xuống, Hỏa Chồn cho là hắn lại muốn bắt đầu tu luyện Minh Nguyệt Quyết, liền rất thuận theo địa ghé vào Viên Minh bên chân.",
-      "dich": "Viên Minh điều chỉnh hô hấp một chút, xong hay tay lập tức bắt đầu bấm pháp quyết.",
-      "suggest": "Nhìn thấy Viên Minh đặt mông ngồi xuống, Hỏa Chồn cho rằng hắn muốn bắt đầu tu luyện Minh Nguyệt Quyết, liền thuận thế đi đến bên chân Viên Minh.",
-      "similarity": [
-        [
-          66,
-          0.42
-        ]
-      ]
+      "dich": "Cùng lúc đó, trong lòng của hắn cũng bắt đầu thầm đọc tâm pháp Bích La công, thử nghiệm vận chuyển pháp lực tu luyện.",
+      "suggest": "Thấy Viên Minh đặt mông ngồi xuống, Hỏa Chồn tưởng hắn lại muốn bắt đầu tu luyện Minh Nguyệt Quyết nên liền thuận thế ghé sát bên chân Viên Minh."
     },
     {
       "convert": "Tiểu gia hỏa nghiêng cái đầu nhỏ suy nghĩ một chút về sau, chung quy là không dám leo lên to lớn chân.",
-      "dich": "Cùng lúc đó, trong lòng của hắn cũng bắt đầu thầm đọc tâm pháp Bích La công, thử nghiệm vận chuyển pháp lực tu luyện.",
-      "suggest": "Tiểu tử nghiêng đầu suy nghĩ một chút, rút cuộc cũng không dám bước lên quá cao.",
-      "similarity": []
+      "dich": "Chỉ chớp mắt sau đó, quanh người hắn bừng lên hào quang mờ mờ màu xanh lục, trời đất xung quanh hắn bắt đầu có từng sợi thiên địa nguyên khí tụ về phía bên này, vờn quanh thân thể của hắn.",
+      "suggest": "Tiểu gia hỏa nghiêng đầu suy nghĩ một chút, sau đó rút cuộc không dám leo lên chân cao nữa."
     },
     {
       "convert": "Viên Minh điều chỉnh một lần hô hấp, hai tay lập tức bắt đầu bóp lên pháp quyết.",
-      "dich": "Chỉ chớp mắt sau đó, quanh người hắn bừng lên hào quang mờ mờ màu xanh lục, trời đất xung quanh hắn bắt đầu có từng sợi thiên địa nguyên khí tụ về phía bên này, vờn quanh thân thể của hắn.",
-      "suggest": "Viên Minh điều chỉnh nhịp hô hấp, hai tay lập tức bắt đầu bấm niệm pháp quyết.",
-      "similarity": [
-        [
-          68,
-          0.37
-        ]
-      ]
+      "dich": "Lỗ chân lông quanh người Viên Minh nở ra, bắt đầu giống như hít thở, hấp thu những nguyên khí kia vào trong cơ thể.",
+      "suggest": "Viên Minh điều chỉnh hô hấp một chút, hai tay lập tức bắt đầu bấm pháp quyết."
     },
     {
       "convert": "Cùng lúc đó, trong lòng cũng của hắn bắt đầu mặc niệm khởi Bích La Công tâm pháp, nếm thử vận chuyển pháp lực tu luyện.",
-      "dich": "Lỗ chân lông quanh người Viên Minh nở ra, bắt đầu giống như hít thở, hấp thu những nguyên khí kia vào trong cơ thể.",
-      "suggest": "Cùng lúc đó, trong đầu hắn cũng bắt đầu lẩm bẩm pháp quyết Bích La Công, nếm thử vận chuyển pháp lực tu luyện.",
-      "similarity": [
-        [
-          69,
-          0.45
-        ]
-      ]
+      "dich": "Thời gian từng chút từng chút trôi qua, Hỏa Sàm Nhi vốn ghét sát vào chân Viên Minh phát hiện ba động từ người hắn phát ra khác hẳn với khi tu luyện dưới ánh trăng đêm, tức thì có chút phiền não.",
+      "suggest": "Cùng lúc đó, trong lòng hắn bắt đầu thầm niệm tâm pháp Bích La Công, thử vận chuyển pháp lực tu luyện."
     },
     {
       "convert": "Tiếp theo một cái chớp mắt, hắn quanh thân sáng lên mông lung lục sắc quang mang, quanh mình giữa thiên địa bắt đầu có từng sợi thiên địa nguyên khí hướng phía bên này ngưng tụ, vờn quanh ở hắn ngoài thân.",
-      "dich": "Thời gian từng chút từng chút trôi qua, Hỏa Sàm Nhi vốn ghét sát vào chân Viên Minh phát hiện ba động từ người hắn phát ra khác hẳn với khi tu luyện dưới ánh trăng đêm, tức thì có chút phiền não.",
-      "suggest": "Chỉ nháy mắt sau đó, quanh người hắn sáng lên ánh sáng màu xanh lục mông lung, không gian quanh mình bắt đầu có từng sợi nguyên khí ngưng tụ xung quanh bao bọc lấy toàn thân.",
-      "similarity": [
-        [
-          70,
-          0.27
-        ]
-      ]
+      "dich": "Nhưng khi cảm nhận được thiên địa linh khí ngưng tụ quanh mình, nó cũng cảm thấy thoải mái hơn một chút, liền không có làm ầm ĩ.",
+      "suggest": "Chớp mắt tiếp theo, khắp người hắn sáng lên ánh sáng màu xanh lục mờ ảo, từng sợi thiên địa nguyên khí ngưng tụ xung quanh quanh mình, bao bọc bên ngoài cơ thể hắn."
     },
     {
       "convert": "Viên Minh quanh thân lỗ chân lông thư giãn, bắt đầu như là hô hấp, hấp thu những cái kia nguyên khí nhập thể.",
-      "dich": "Nhưng khi cảm nhận được thiên địa linh khí ngưng tụ quanh mình, nó cũng cảm thấy thoải mái hơn một chút, liền không có làm ầm ĩ.",
-      "suggest": "Lỗ chân lông quanh người Viên Minh giãn ra, bắt đầu hô hấp, hấp thu những nguyên khí còn lại vào cơ thể.",
-      "similarity": [
-        [
-          71,
-          0.51
-        ]
-      ]
+      "dich": "Qua một lúc lâu, Viên Minh chậm rãi mở mắt, bất giác có chút thất vọng.",
+      "suggest": "Lỗ chân lông quanh người Viên Minh giãn ra, bắt đầu hô hấp, hấp thu những nguyên khí nhập thể kia."
     },
     {
       "convert": "Thời gian như từng giọt từng giọt nước trôi qua, ghé vào Viên Minh bên chân Hỏa Sàm Nhi phát hiện trên người hắn phát ra ba động, cùng ban đêm ở dưới ánh trăng lúc tu luyện khác biệt, lập tức có chút phiền não.",
-      "dich": "Qua một lúc lâu, Viên Minh chậm rãi mở mắt, bất giác có chút thất vọng.",
-      "suggest": "Thời gian cứ trôi qua từng chút một, Hỏa Sàm Nhi chạy đến bên chân Viên Minh phát hiện ba động trên người hắn khác hẳn lúc tu luyện dưới ánh trăng. Lập tức có chút phiền não.",
-      "similarity": [
-        [
-          72,
-          0.36
-        ]
-      ]
+      "dich": "Hắn đã dựa theo yêu cầu của công pháp, đặc biệt chọn một nơi cây cối um tìm để tu luyện Bích La công, nhưng kết quả lại không được như ý, tốc độ thổ nạp linh khí và chuyển đổi pháp lực thực sự quá chậm.",
+      "suggest": "Thời gian cứ từng giọt từng giọt trôi qua, khi ghé sát bên chân Viên Minh, Hỏa Sàm Nhi phát hiện trên người hắn có ba động, khác hẳn lúc tu luyện dưới ánh trăng, lập tức có chút phiền não."
     },
     {
       "convert": "Nhưng khi cảm nhận được quanh mình thiên địa linh khí ngưng tụ lúc, cũng nhiều hơn mấy phần sảng khoái chi ý, liền không có làm ầm ĩ.",
-      "dich": "Hắn đã dựa theo yêu cầu của công pháp, đặc biệt chọn một nơi cây cối um tìm để tu luyện Bích La công, nhưng kết quả lại không được như ý, tốc độ thổ nạp linh khí và chuyển đổi pháp lực thực sự quá chậm.",
-      "suggest": "Nhưng khi cảm nhận được linh khí thiên địa xung quanh mình ngưng tụ lại cũng có vài phần sảng khoái, không gây ồn ào nữa.",
-      "similarity": [
-        [
-          73,
-          0.18
-        ]
-      ]
+      "dich": "Dù rõ ràng không gian nan như khi bản thân tu luyện Huyết Khí pháp, nhưng tốc độ tu hành vẫn còn kém Cửu Nguyên Quyết rất rất xa.",
+      "suggest": "Nhưng khi cảm nhận được thiên địa linh khí ngưng tụ quanh mình, tinh thần cũng sảng khoái hơn mấy phần, không có làm ồn ào nữa."
     },
     {
       "convert": "Qua hồi lâu, Viên Minh chậm rãi mở mắt, chưa phát giác có chút thất vọng.",
-      "dich": "Dù rõ ràng không gian nan như khi bản thân tu luyện Huyết Khí pháp, nhưng tốc độ tu hành vẫn còn kém Cửu Nguyên Quyết rất rất xa.",
-      "suggest": "Qua một lúc lâu, Viên Minh mới chậm rãi mở mắt, trong lòng bỗng cảm thấy có chút thất vọng.",
-      "similarity": [
-        [
-          74,
-          0.56
-        ]
-      ]
+      "dich": "Có thể nói, hai bên căn bản không thể so sánh.",
+      "suggest": "Qua một lúc lâu, Viên Minh mới từ từ mở mắt ra, trong lòng bất giác có chút thất vọng."
     },
     {
       "convert": "Hắn đã dựa theo công pháp yêu cầu, chuyên môn chọn lựa cây cối um tùm địa phương, tu luyện cái này Bích La Công, có thể kết quả lại cũng không như ý, thiên địa linh khí thổ nạp tốc độ cùng pháp lực chuyển đổi tốc độ thực tế quá chậm.",
-      "dich": "Có thể nói, hai bên căn bản không thể so sánh.",
-      "suggest": "Hắn dựa theo yêu cầu công pháp, chuyên môn chọn lựa địa điểm thích hợp, tu luyện Bích La Công này có kết quả không như mong đợi, tốc độ thổ nạp linh khí cùng với tốc độ chuyển đổi Pháp lực quá chậm.",
-      "similarity": [
-        [
-          75,
-          0.28
-        ]
-      ]
+      "dich": "Vừa nghĩ tới đây, Viên Minh chợt nhớ đến một vấn đề, hắn hình như vẫn luôn chưa làm cho rõ, Cửu Nguyên Quyết rốt cuộc là công pháp thuộc tính gì?",
+      "suggest": "Hắn dựa theo công pháp yêu cầu, chuyên môn chọn lựa địa điểm thích hợp, tu luyện Bích La Công nhưng kết quả lại không được như ý, tốc độ thổ nạp thiên địa linh khí quá chậm, tốc độ chuyển đổi pháp lực so với thực tế quá chậm."
     },
     {
       "convert": "Mặc dù rõ ràng không giống tự mình tu luyện Huyết Khí pháp thì như vậy gian nan, có thể tu hành tốc độ cũng còn kém rất rất xa Cửu Nguyên Quyết.",
-      "dich": "Vừa nghĩ tới đây, Viên Minh chợt nhớ đến một vấn đề, hắn hình như vẫn luôn chưa làm cho rõ, Cửu Nguyên Quyết rốt cuộc là công pháp thuộc tính gì?",
-      "suggest": "Mặc dù rõ ràng không giống tự mình tu luyện Huyết Khí pháp, nhưng tốc độ tu hành có lẽ còn kém rất rất xa Cửu Nguyên Quyết.",
-      "similarity": [
-        [
-          76,
-          0.45
-        ]
-      ]
+      "dich": "Dựa theo cách nói của Bích La công, công pháp thuộc tính khác nhau cần tu luyện ở trong môi trường phù hợp của riêng chúng, từ đó sẽ có mức độ tăng cường hiệu quả khác nhau, nếu biết được thuộc tính của Cửu Nguyên Quyết, vậy tốc độ tu luyện có phải là còn có thể tăng thêm không?",
+      "suggest": "Mặc dù không giống như tự mình tu luyện Huyết Khí pháp thì gian nan như vậy, nhưng tốc độ tu hành lại còn kém Cửu Nguyên Quyết rất xa."
     },
     {
       "convert": "Có thể nói, hai căn bản không thể so sánh nổi.",
-      "dich": "Dựa theo cách nói của Bích La công, công pháp thuộc tính khác nhau cần tu luyện ở trong môi trường phù hợp của riêng chúng, từ đó sẽ có mức độ tăng cường hiệu quả khác nhau, nếu biết được thuộc tính của Cửu Nguyên Quyết, vậy tốc độ tu luyện có phải là còn có thể tăng thêm không?",
-      "suggest": "Có thể nói, hai căn bản không thể nào so sánh nổi.",
-      "similarity": [
-        [
-          77,
-          0.5
-        ]
-      ]
+      "dich": "Viên Minh nhớ rất rõ, trước đây khi học Cửu Nguyên Quyết, hắn vẫn chưa từng nghe được thuộc tính của Cửu Nguyên Quyết từ miệng Ngọc Hồ đạo trưởng, nhưng dù sao tu hành lâu ngày cũng có cảm ứng nhất định.",
+      "suggest": "Có thể nói, hai thứ đó căn bản không thể so sánh nổi."
     },
     {
       "convert": "Vừa nghĩ đến đây, Viên Minh bỗng nhiên nghĩ đến một vấn đề, hắn giống như một mực cũng không làm rõ ràng, Cửu Nguyên Quyết đến tột cùng là cái gì thuộc tính công pháp?",
-      "dich": "Viên Minh nhớ rất rõ, trước đây khi học Cửu Nguyên Quyết, hắn vẫn chưa từng nghe được thuộc tính của Cửu Nguyên Quyết từ miệng Ngọc Hồ đạo trưởng, nhưng dù sao tu hành lâu ngày cũng có cảm ứng nhất định.",
-      "suggest": "Vừa nghĩ đến đây, Viên Minh bỗng nhiên nghĩ đến một vấn đề, dường như hắn không làm rõ được vấn đề gì cả, Cửu Nguyên Quyết rút cuộc là công pháp thuộc tính gì?",
-      "similarity": [
-        [
-          78,
-          0.38
-        ]
-      ]
+      "dich": "Dựa theo suy đoán của hắn trước đây, thuộc tính công pháp Cửu Nguyên Quyết hẳn là Mộc hoặc Thủy.",
+      "suggest": "Vừa nghĩ đến đây, Viên Minh bỗng nhiên nghĩ đến một vấn đề, hắn hình như không làm rõ được Cửu Nguyên Quyết rốt cuộc là công pháp thuộc tính gì vậy?"
     },
     {
       "convert": "Dựa theo « Bích La Công » thuyết pháp, thuộc tính khác nhau công pháp muốn ở riêng phần mình phù hợp hoàn cảnh bên trong tu luyện, sẽ có khác biệt mức độ tăng thêm hiệu quả, nếu là có thể biết Cửu Nguyên Quyết thuộc tính, kia tốc độ tu luyện có phải hay không còn có thể có chỗ tăng lên?",
-      "dich": "Dựa theo suy đoán của hắn trước đây, thuộc tính công pháp Cửu Nguyên Quyết hẳn là Mộc hoặc Thủy.",
-      "suggest": "Dựa theo thuyết pháp  Bích La công , mỗi loại công pháp nếu muốn tu luyện phù hợp với hoàn cảnh khác nhau sẽ có hiệu quả khác nhau, nếu như có thể biết thuộc tính của Cửu Nguyên công thì tốc độ tu luyện có thể tăng lên hay không?",
-      "similarity": [
-        [
-          79,
-          0.27
-        ]
-      ]
+      "dich": "\"Thử một chút xem sao.\"",
+      "suggest": "Dựa theo thuyết pháp của Bích La Công, công pháp thuộc tính khác nhau khi tu luyện trong hoàn cảnh khác nhau sẽ có mức độ khác nhau về hiệu quả tăng thêm. Nếu có thể biết được thuộc tính Cửu Nguyên Quyết, tốc độ tu luyện có tăng lên hay không?"
     },
     {
       "convert": "Viên Minh rõ ràng nhớ kỹ, lúc trước học tập Cửu Nguyên Quyết lúc, cũng không từ kia Ngọc Hồ đạo trưởng trong miệng đã nghe qua Cửu Nguyên Quyết thuộc tính, nhưng dù sao tu hành lâu ngày, cũng là có cảm ứng.",
-      "dich": "\"Thử một chút xem sao.\"",
-      "suggest": "Viên Minh rõ ràng nhớ rất rõ, lúc đầu khi học tập Cửu Nguyên Quyết, cũng không nghe đến thuộc tính Cửu Nguyên Quyết, nhưng dù sao cũng đã tu hành lâu ngày, cũng có cảm ứng.",
-      "similarity": [
-        [
-          80,
-          0.25
-        ]
-      ]
+      "dich": "Bằng một ý nghĩ trong đầu, Viên Minh liền thay đổi pháp quyết, bắt đầu tu luyện Cửu Nguyên Quyết.",
+      "suggest": "Viên Minh nhớ rất rõ, lúc trước khi học Cửu Nguyên Quyết, cũng không nghe qua thuộc tính Cửu Nguyên Quyết từ miệng Ngọc Hồ đạo trưởng, nhưng dù sao hắn cũng đã nghe qua thuộc tính Cửu Nguyên Quyết, cho nên dù sao cũng đã tu hành lâu ngày, cũng có cảm ứng."
     },
     {
       "convert": "Căn cứ hắn trước đây suy đoán, « Cửu Nguyên Quyết » công pháp thuộc tính, nên ở",
-      "dich": "Bằng một ý nghĩ trong đầu, Viên Minh liền thay đổi pháp quyết, bắt đầu tu luyện Cửu Nguyên Quyết.",
-      "suggest": "Căn cứ theo những gì hắn đoán, Công pháp Cửu Nguyên Quyết  có thuộc tính gì, thì ở đây",
-      "similarity": []
+      "dich": "Vừa mới tu hành một lát, lông mày Viên Minh không khỏi nhếch lên, ánh mặt lộ ra vẻ vui mừng.",
+      "suggest": "Căn cứ theo những suy đoán trước đây của hắn, Cửu Nguyên Quyết có thuộc tính Cửu Nguyên Quyết, nên ở dạng công pháp nào?"
     },
     {
       "convert": "Mộc thuộc tính cùng Thủy thuộc tính ở giữa.",
-      "dich": "Vừa mới tu hành một lát, lông mày Viên Minh không khỏi nhếch lên, ánh mặt lộ ra vẻ vui mừng.",
-      "suggest": "Mộc thuộc tính và Thủy thuộc tính.",
-      "similarity": []
+      "dich": "\"Bảo sao, bảo sao ...\" Hắn khẽ cười một tiếng rồi lẩm bẩm nói đi nói lại, khiến Hỏa Sàm Nhi giật cả mình.",
+      "suggest": "Mộc thuộc tính và Thủy thuộc tính."
     },
     {
       "convert": "\"Thử một chút xem sao.\"",
-      "dich": "\"Bảo sao, bảo sao ...\" Hắn khẽ cười một tiếng rồi lẩm bẩm nói đi nói lại, khiến Hỏa Sàm Nhi giật cả mình.",
-      "suggest": "\"Thử một chút xem sao.\"",
-      "similarity": [
-        [
-          14,
-          0.13
-        ],
-        [
-          82,
-          1
-        ]
-      ]
+      "dich": "Viên Minh lúc trước thấy rất thắc mắc, vì sao từ sau khi hắn tới Hỏa Luyện Đường thì tốc độ tu hành Cửu Nguyên Quyết liền dần dần chậm lại, hóa ra là bởi hắn rời khỏi môi trường cây cối um tùm trong Thập Đại Vạn Sơn.",
+      "suggest": "\"Thử một chút xem sao.\""
     },
     {
       "convert": "Viên Minh tâm niệm cùng một chỗ, liền thay đổi pháp quyết, bắt đầu tu luyện khởi Cửu Nguyên Quyết tới.",
-      "dich": "Viên Minh lúc trước thấy rất thắc mắc, vì sao từ sau khi hắn tới Hỏa Luyện đường thì tốc độ tu hành Cửu Nguyên Quyết liền dần dần chậm lại, hóa ra là bởi hắn rời khỏi môi trường cây cối um tùm trong Thập Đại Vạn Sơn.",
-      "suggest": "Tâm niệm Viên Minh cùng một chỗ, liền thay đổi pháp quyết, bắt đầu tu luyện Cửu Nguyên Quyết.",
-      "similarity": [
-        [
-          83,
-          0.54
-        ],
-        [
-          92,
-          0.14
-        ]
-      ]
+      "dich": "Rất rõ ràng, công pháp Cửu Nguyên Quyết này giống như Bích La công, đều là công pháp Mộc thuộc tính.",
+      "suggest": "Viên Minh liền thay đổi pháp quyết, bắt đầu tu luyện Cửu Nguyên Quyết."
     },
     {
       "convert": "Vừa mới tu hành một lát, Viên Minh lông mày không khỏi có chút thượng thiêu, ánh mắt lộ ra một vòng vui mừng tới.",
-      "dich": "Rất rõ ràng, công pháp Cửu Nguyên Quyết này giống như Bích La công, đều là công pháp Mộc thuộc tính.",
-      "suggest": "Vừa mới tu luyện một lát, lông mày Viên Minh không khỏi có chút dựng đứng, ánh mắt lộ ra một chút vui mừng.",
-      "similarity": [
-        [
-          84,
-          0.43
-        ]
-      ]
+      "dich": "\"Đã cùng là công pháp Mộc thuộc tính, cũng không cần phải lo người khác sẽ nhìn ra điều gì bất thường.",
+      "suggest": "Vừa mới tu luyện một lát, lông mày Viên Minh không khỏi nhíu lại, ánh mắt lộ ra vẻ vui mừng."
     },
     {
       "convert": "\"Trách không được, trách không được .. \"",
-      "dich": "\"Đã cùng là công pháp Mộc thuộc tính, cũng không cần phải lo người khác sẽ nhìn ra điều gì bất thường.",
-      "suggest": "\"Không được, trách không được\"",
-      "similarity": []
+      "dich": "Cái Bích La Động phế phẩm này, không luyện cũng được.\"",
+      "suggest": "\"Trách không được, trách không được ... \""
     },
     {
       "convert": "hắn khẽ cười một tiếng, trong miệng liên tục nói, ngược lại đem Hỏa Sàm Nhi giật nảy mình.",
-      "dich": "Cái Bích La Động phế phẩm này, không luyện cũng được.\"",
-      "suggest": "Hắn khẽ cười một tiếng, miệng liên tục nói, làm cho Hỏa Sàm Nhi giật nảy cả mình.",
-      "similarity": [
-        [
-          85,
-          0.27
-        ]
-      ]
+      "dich": "Viên Minh trong lòng mừng rỡ.",
+      "suggest": "Hắn khẽ cười, miệng liên tục nói, làm Hỏa Sàm Nhi giật nảy lên."
     },
     {
       "convert": "Viên Minh lúc trước liền kỳ quái, vì sao từ lúc hắn lên Hỏa Luyện Đường về sau, tu hành Cửu Nguyên Quyết tốc độ liền dần dần chậm lại, nguyên lai là bởi vì hắn thoát ly Thập Vạn Đại Sơn cây cối um tùm hoàn cảnh.",
-      "dich": "Viên Minh trong lòng mừng rỡ.",
-      "suggest": "Viên Minh vốn đã rất kỳ quái, vì sao từ khi hắn lên Hỏa Luyện Đường, tốc độ tu hành Cửu Nguyên Quyết lại chậm đi như vậy, nguyên nhân là bởi vì hắn đã thoát ly khỏi hoàn cảnh cây cối um tùm của Thập Vạn Đại Sơn.",
-      "similarity": [
-        [
-          86,
-          0.23
-        ]
-      ]
+      "dich": "Cho đến giờ phút này, hắn rốt cuộc tin chắc công pháp Cửu Nguyên Quyết không phải bình thường, hơn xa so với dạng công pháp như Bích La công, hắn chỉ có thiên phú Tứ linh căn mà có thể tu luyện với tốc độ nhanh như vậy trong hoàn cảnh khắc nghiệt của Thập Vạn Đại Sơn, đều là nhờ nó ban tặng.",
+      "suggest": "Viên Minh lúc đầu còn thấy kỳ quái, vì sao từ khi hắn lên Hỏa Luyện Đường, tốc độ tu hành Cửu Nguyên Quyết lại chậm đi, nguyên nhân là bởi vì hắn đã thoát ly hoàn cảnh cây cối um tùm của Thập Vạn Đại sơn."
     },
     {
       "convert": "Rõ ràng, cái này « Cửu Nguyên Quyết » công pháp cùng « Bích La Công », cùng thuộc vu Mộc thuộc tính công pháp.",
-      "dich": "Cho đến giờ phút này, hắn rốt cuộc tin chắc công pháp Cửu Nguyên Quyết không phải bình thường, hơn xa so với dạng công pháp như Bích La công, hắn chỉ có thiên phú Tứ linh căn mà có thể tu luyện với tốc độ nhanh như vậy trong hoàn cảnh khắc nghiệt của Thập Vạn Đại Sơn, đều là nhờ nó ban tặng.",
-      "suggest": "Rõ ràng, công pháp  Cửu Nguyên Quyết  này và  Bích La Công  đều là công pháp thuộc tính vu mộc.",
-      "similarity": [
-        [
-          54,
-          0.11
-        ],
-        [
-          55,
-          0.21
-        ],
-        [
-          78,
-          0.11
-        ],
-        [
-          81,
-          0.14
-        ],
-        [
-          87,
-          0.35
-        ]
-      ]
+      "dich": "Sau khi phát hiện điểm này, Viên Minh lại không vội đi tu luyện Cửu Nguyên Quyết.",
+      "suggest": "Rõ ràng, công pháp Cửu Nguyên Quyết này cùng với Bích La Công thuộc tính Mộc, hoàn toàn khác biệt so với công pháp thuộc tính Mộc."
     },
     {
       "convert": "\"Đã cùng thuộc vu Mộc thuộc tính công pháp, cũng là không cần lo lắng sẽ bị người nhìn ra cái gì không đúng tới.",
-      "dich": "Sau khi phát hiện điểm này, Viên Minh lại không vội đi tu luyện Cửu Nguyên Quyết.",
-      "suggest": "\"Nếu đã có thuộc tính thuộc tính vu mộc, cũng không cần lo lắng sẽ bị người ta nhận ra điều gì không đúng.",
-      "similarity": [
-        [
-          88,
-          0.16
-        ]
-      ]
+      "dich": "Hắn khoanh chân ngồi xuống, hít sâu một hơi rồi bắt đầu nhớ lại nội dung thuật pháp Khu Vật Thuật.",
+      "suggest": "\"Nếu đã là công pháp thuộc tính Mộc, cũng không cần lo lắng sẽ bị người khác nhìn ra điều gì không đúng."
     },
     {
       "convert": "Cái này rách rưới Bích La Công, không luyện cũng được.\"",
-      "dich": "Hắn khoanh chân ngồi xuống, hít sâu một hơi rồi bắt đầu nhớ lại nội dung thuật pháp Khu Vật Thuật.",
-      "suggest": "Bích La Công này, không luyện cũng không được.\"",
-      "similarity": [
-        [
-          89,
-          0.39
-        ]
-      ]
+      "dich": "Khu Vật Thuật, nghĩa như tên, chính là khu động(điều khiển) đồ vật của hắn, giúp bản thân sự dụng thuật pháp.",
+      "suggest": "Bích La Công này rách rươi, không luyện cũng được.\""
     },
     {
       "convert": "Viên Minh mừng rỡ trong lòng.",
-      "dich": "Khu Vật thuật, nghĩa như tên, chính là khu động(điều khiển) đồ vật của hắn, giúp bản thân sự dụng thuật pháp.",
-      "suggest": "Viên Minh mừng rỡ nói.",
-      "similarity": [
-        [
-          3,
-          0.15
-        ],
-        [
-          8,
-          0.18
-        ],
-        [
-          12,
-          0.15
-        ],
-        [
-          52,
-          0.15
-        ],
-        [
-          57,
-          0.12
-        ],
-        [
-          90,
-          0.2
-        ]
-      ]
+      "dich": "Nguyên lý công pháp cũng không khó, chỉ cần dùng pháp lực làm vật dẫn, thành lập liên hệ với đồ vật, để pháp lực có thể từ cánh tay mình tự nhiên lưu chuyển, tiến vào trong đồ vật, khiến cho nó với bản thân liền thành một khối, đạt đến mức độ có thể điều khiển nó như cánh tay mình.",
+      "suggest": "Viên Minh thầm mừng rỡ."
     },
     {
       "convert": "Cho đến giờ phút này, hắn rốt cục vững tin Cửu Nguyên Quyết công pháp không phải bình thường, là xa xa trội hơn Bích La Công chi lưu, bản thân trước đây lấy tứ linh căn tư chất, ở Thập Vạn Đại Sơn như thế ác liệt hoàn cảnh hạ tốc độ tu luyện có thể nhanh như vậy, đều muốn bái hắn ban tặng.",
-      "dich": "Nguyên lý công pháp cũng không khó, chỉ cần dùng pháp lực làm vật dẫn, thành lập liên hệ với đồ vật, để pháp lực có thể từ cánh tay mình tự nhiên lưu chuyển, tiến vào trong đồ vật, khiến cho nó với bản thân liền thành một khối, đạt đến mức độ có thể điều khiển nó như cánh tay mình.",
-      "suggest": "Cho đến giờ phút này, hắn cuối cùng cũng tin Cửu Nguyên Quyết không phải bình thường, mà là công pháp có tư chất Cửu La Công, trước kia với tư chất tứ linh căn, ở dưới hoàn cảnh ác liệt của Thập Vạn Đại Sơn, tốc độ tu luyện có thể nhanh như vậy, tất cả đều phải bái hắn ban thưởng.",
-      "similarity": [
-        [
-          91,
-          0.28
-        ]
-      ]
+      "dich": "Bình thường mà nói, đồ vật mà bên trong bản thân có chứa sẵn linh khí giống như các loại pháp khí thì kết nối càng dễ dàng, từ đó việc thao túng điều khiến cũng sẽ càng thêm thuận tiện.",
+      "suggest": "Đến giờ phút này, hắn rốt cuộc cũng vững tin Cửu Nguyên Quyết không phải công pháp bình thường, là công pháp vượt xa Bích La Công, trước kia hắn lấy tư chất Tứ linh căn, trong hoàn cảnh ác liệt như Thập Vạn Đại sơn, tốc độ tu luyện có thể nhanh như vậy, đều phải bái hắn ban thưởng."
     },
     {
       "convert": "Phát hiện điểm này về sau, Viên Minh ngược lại không vội mà tu luyện Cửu Nguyên Quyết.",
-      "dich": "Bình thường mà nói, đồ vật mà bên trong bản thân có chứa sẵn linh khí giống như các loại pháp khí thì kết nối càng dễ dàng, từ đó việc thao túng điều khiến cũng sẽ càng thêm thuận tiện.",
-      "suggest": "Sau khi nhận thấy điểm này, Viên Minh không nóng vội tu luyện Cửu Nguyên Quyết.",
-      "similarity": [
-        [
-          83,
-          0.15
-        ],
-        [
-          92,
-          0.37
-        ]
-      ]
-    },
-    {
-      "convert": "Hắn khoanh chân ngồi xuống về sau, hít sâu một hơi, bắt đầu trong đầu hồi ức « Khu vật thuật » thuật pháp nội dung.",
       "dich": "Đương nhiên, trong quá trình này cũng cần có lực lượng thần hồn tham gia vào, bởi dù thế nào thì chỉ khi người thi thuật tập trung chăm chú điều khiển pháp lực, mới có thể khiến pháp lực lưu chuyển không xuất hiện sai lệch, từ đó mới có thể khu động đồ vật một cách chính xác.",
-      "suggest": "Hắn khoanh chân ngồi xuống, hít sâu một hơi, bắt đầu hồi ức nội dung của thuật Khu Vật.",
-      "similarity": [
-        [
-          93,
-          0.49
-        ]
-      ]
+      "suggest": "Sau khi phát hiện điểm này, Viên Minh không vội tu luyện Cửu Nguyên Quyết nữa."
     },
     {
-      "convert": "Khu vật thuật, tên như ý nghĩa chính là khu động hắn vật, để bản thân sử dụng thuật pháp.",
-      "dich": "Bởi nguyên do từng tu tập Minh Nguyệt quyết, Viên Minh ít nhiều vẫn có lòng tin với lực lượng thần hồn của mình.",
-      "suggest": "Thuật Khu Vật, tên gọi theo tiếng Anh là Khu Động vật, để bản thân có thể sử dụng thuật pháp.",
-      "similarity": [
-        [
-          94,
-          0.12
-        ]
-      ]
+      "convert": "Hắn khoanh chân ngồi xuống về sau, hít sâu một hơi, bắt đầu trong đầu hồi ức « Khu Vật Thuật » thuật pháp nội dung.",
+      "dich": "Bởi nguyên do từng tu tập Minh Nguyệt Quyết, Viên Minh ít nhiều vẫn có lòng tin với lực lượng thần hồn của mình.",
+      "suggest": "Hắn khoanh chân ngồi xuống, hít sâu một hơi, bắt đầu hồi tưởng nội dung thuật pháp trong đầu."
+    },
+    {
+      "convert": "Khu Vật Thuật, tên như ý nghĩa chính là khu động hắn vật, để bản thân sử dụng thuật pháp.",
+      "dich": "Hắn lập tức tìm một khối đá trong rừng, nắm nó trong tay.",
+      "suggest": "Thuật Khu Vật, tên gọi theo tiếng Anh là Khu Động, là vật để hắn điều khiển thuật pháp."
     },
     {
       "convert": "Công pháp nguyên lý cũng không khó khăn, cần lấy pháp lực vì dẫn dắt, cùng đồ vật ở giữa thành lập liên hệ, để pháp lực có thể từ cánh tay mình tự nhiên lưu chuyển tiến vào đồ vật bên trong, làm cho cùng bản thân liền thành một khối, đạt tới như cánh tay chỉ điểm mức độ.",
-      "dich": "Hắn lập tức tìm một khối đá trong rừng, nắm nó trong tay.",
-      "suggest": "Nguyên lý công pháp cũng không khó, cần phải có sự dẫn dắt của pháp lực, cùng với đồ vật ở giữa thành một khối, để cho pháp lực từ cánh tay mình tự nhiên lưu chuyển vào trong, làm cho bản thân trở thành một khối, đạt tới mức độ chỉ điểm của cánh tay.",
-      "similarity": [
-        [
-          95,
-          0.33
-        ]
-      ]
+      "dich": "*Chú giải*:",
+      "suggest": "Nguyên lý công pháp cũng không khó, cần phải dùng pháp lực dẫn dắt, liên hệ với đồ vật, để pháp lực có thể từ cánh tay mình tự nhiên lưu chuyển vào trong, làm cho chúng đồng nhất với bản thân, đạt tới mức độ như cánh tay chỉ điểm."
     },
     {
       "convert": "Nói như vậy, cùng loại pháp khí loại hình bên trong bản thân liền có linh khí bên trong chứa đồ vật, câu thông thì càng dễ dàng, thao túng khống chế cũng liền càng thêm thuận tiện.",
-      "dich": "*Chú giải*:",
-      "suggest": "Nói như vậy, trong pháp khí loại này bản thân đã có Linh khí bên trong, việc câu thông với chúng lại càng dễ dàng, thao túng khống chế cũng càng thêm thuận tiện.",
-      "similarity": [
-        [
-          96,
-          0.19
-        ]
-      ]
+      "dich": "1.",
+      "suggest": "Nói như vậy, bản thân người dùng pháp khí loại hình này càng có linh khí bên trong, việc câu thông với đồ vật bên trong càng dễ dàng, thao túng điều khiển cũng trở nên thuận tiện hơn."
     },
     {
       "convert": "Đương nhiên, trong quá trình này, cũng cần có thần hồn chi lực tham gia.",
-      "dich": "1.",
-      "suggest": "Đương nhiên, trong quá trình này cũng cần có lực lượng thần hồn tham gia.",
-      "similarity": [
-        [
-          97,
-          0.23
-        ],
-        [
-          98,
-          0.1
-        ]
-      ]
+      "dich": "Pháp quyết: Là chỉ việc kháp(bóp, véo, bấm) một số bộ phận của lòng bàn tay hoặc ngón tay hoặc tạo thành một tư thế cố định giữa các ngón tay, từ đó thi triển pháp thuật.",
+      "suggest": "Đương nhiên, trong quá trình này cũng cần có thần hồn chi lực tham gia."
     },
     {
       "convert": "Dù sao cũng chỉ có thi thuật giả hết sức chăm chú điều khiển pháp lực, mới có thể không sử pháp lực lưu chuyển ra hiện sai lầm, từ đó chuẩn xác khu động thao túng chi vật.",
-      "dich": "Pháp quyết: Là chỉ việc kháp(bóp, véo, bấm) một số bộ phận của lòng bàn tay hoặc ngón tay hoặc tạo thành một tư thế cố định giữa các ngón tay, từ đó thi triển pháp thuật.",
-      "suggest": "Dù sao cũng chỉ có thi thuật giả hết sức chăm chú điều khiển Pháp lực mới có thể không lưu chuyển Pháp lực ra ngoài, từ đó mới có thể không lưu chuyển Pháp lực ra ngoài, từ đó mới có thể không lưu chuyển ra sai sót khi thao túng vật.",
-      "similarity": [
-        [
-          97,
-          0.16
-        ]
-      ]
+      "dich": "Khái niệm này rất cơ bản nhưng mình nói lại để các bạn rõ hơn.",
+      "suggest": "Dù sao cũng chỉ có người thi thuật hết sức chăm chú điều khiển pháp lực mới có thể không lưu chuyển pháp lực ra ngoài, từ đó mới có thể không lưu chuyển pháp lực ra ngoài, từ đó có thể điều khiển tốt hơn việc khu động thao túng vật."
     },
     {
       "convert": "Bởi vì tu tập qua « Minh Nguyệt Quyết » nguyên nhân, Viên Minh đối thần hồn của mình chi lực, nhiều ít vẫn là có chút lòng tin, hắn lúc này ở trong rừng tìm tới một khối đá, nắm trong tay.",
-      "dich": "Khái niệm này rất cơ bản nhưng mình nói lại để các bạn rõ hơn.",
-      "suggest": "Bởi vì đã tu tập Minh Nguyệt Quyết, Viên Minh đối với lực lượng thần hồn của mình nhiều ít vẫn có chút tin tưởng, hắn lúc này liền tìm một tảng đá trong rừng, nắm trong tay.",
-      "similarity": [
-        [
-          98,
-          0.22
-        ]
-      ]
+      "dich": "2.",
+      "suggest": "Bởi vì đã tu luyện qua  Minh Nguyệt Quyết, Viên Minh đối với lực lượng thần hồn của mình nhiều ít vẫn có chút tin tưởng, hắn lúc này đã tìm được một tảng đá trong rừng, nắm trong tay."
     },
     {
       "convert": "Vì Tiên Giả mà ta quyết định mua tài khoản của convertio.co:D 100$ convert đc 5000 pages (Chinese Simplified and Traditional OCR)",
-      "dich": "2.",
-      "suggest": "Vì Tiên Giả mà ta quyết định mua một tài khoản của convertio.co.d.100 để convertio.co.d.",
-      "similarity": []
-    },
-    {
-      "dich": "ba động: dao động dạng sóng."
+      "dich": "ba động: dao động dạng sóng.",
+      "suggest": "Vì Tiên Giả mà ta quyết định mua một tài khoản của convertio.co:D 100 để convert được 5000 pages."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "currentLine": 0,
+  "currentLine": 37,
   "next": {
     "id": 4,
     "title": "Chương 4: Luyện Cốt nhai"
@@ -12,13 +12,13 @@
     "id": 2,
     "title": "Chương 2: Thanh Ngưu trấn"
   },
-  "currentWorkingLine": 50,
+  "currentWorkingLine": 38,
   "changed": true,
-  "approved": true,
+  "approved": false,
   "lines": [
     {
       "convert": "Trong xe mùi hiển nhiên cũng khó ngửi, cái này cũng khó trách vốn nên chỉ có thể lợi dụng làm mười mấy người thùng xe chen vào gần ba mươi tên hài đồng",
-      "dich": "Không khí trong xe khá tù túng, điều này cũng phải thôi, hơn ba chục đứa trẻ chen chúc trong một chiếc xe",
+      "dich": "Không khí trong xe khá tù túng, điều này cũng phải thôi, thùng xe dành cho mười mấy người nhét vào hơn ba mươi tên hài đồng",
       "approved": true
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "convert": "Tới tham gia vào cửa khảo tra hài đồng theo ăn vận trang hoàng, theo xuất thân nhìn lên rõ ràng phân làm ba loại người",
-      "dich": "Tới tham gia kỳ khảo thí nhập môn lần này, từ cách ăn mặc và nói chuyện, hắn dễ dàng nhận thấy có ba dạng người",
+      "dich": "Tới tham gia kỳ khảo thí lần này, từ cách ăn mặc và nói chuyện, hắn dễ dàng nhận thấy có ba dạng người",
       "approved": true
     },
     {
@@ -52,13 +52,8 @@
       "approved": true
     },
     {
-      "convert": "Vũ Nham nhà mở một gian võ quán, trong nhà có chút giàu có, còn từ nhỏ luyện đi một tí công phu quyền cước,",
-      "dich": "Gia đình Vũ Nham mở một võ quán, thân gia có chút giàu có, bản thân hắn tuy còn nhỏ nhưng cũng có tập võ qua.",
-      "approved": true
-    },
-    {
-      "convert": "tuy rằng cũng không sao ư cao minh, nhưng đối phó với giống như Hàn Lập như vậy chỉ có một chút đần khí lực tịnh chưa bao giờ luyện tập qua võ tiểu hài tử, hay là dư xài",
-      "dich": "Công phu mặc dù không có gì cao minh, nhưng đối phó với những đứa trẻ một điểm khí lực cũng không có như Hàn Lập là dư sức",
+      "convert": "Vũ Nham nhà mở một gian võ quán, trong nhà có chút giàu có, còn từ nhỏ luyện đi một tí công phu quyền cước, tuy rằng cũng không sao ư cao minh, nhưng đối phó với giống như Hàn Lập như vậy chỉ có một chút đần khí lực tịnh chưa bao giờ luyện tập qua võ tiểu hài tử, hay là dư xài",
+      "dich": "Gia đình Vũ Nham mở một võ quán, thân gia có chút giàu có, bản thân hắn tuy còn nhỏ nhưng cũng có tập võ qua. Công phu mặc dù không có gì cao minh, nhưng đối phó với những đứa trẻ một điểm khí lực cũng không có như Hàn Lập là dư sức",
       "approved": true
     },
     {
@@ -67,73 +62,48 @@
       "approved": true
     },
     {
-      "convert": "Một loại người khác chính là vây quanh Vũ Nham những hài đồng này, cái này bộ phận người xuất thân đủ loại, trong nhà có mở cửa hàng đấy, có làm công đấy, có tay dựa nghệ ăn cơm. chờ một chút, nhưng đều có cùng một cái đặc điểm chính là: Đều là tại thành trấn trong lớn lên đấy, tự nhiên hoặc nhiều hoặc ít cùng nhà trong đại nhân học xong một chút quan sát nét mặt, bản lĩnh thấy lợi là làm,",
-      "dich": "Loại người thứ hai là những hài đồng ủng hộ Vũ Nham, có xuất thân từ đủ loại gia cảnh, có đứa trong nhà mở cửa hàng, có đứa phải đi làm công ... nói chung những hài tử này đều có điểm chung: đều lớn lên trong thành trấn, ít nhiều đã từng quan sát cách xử sự của những người có học vấn, xu hướng có lợi thì làm đã thành bản sự rồi.",
+      "convert": "Một loại người khác chính là vây quanh Vũ Nham những hài đồng này, cái này bộ phận người xuất thân đủ loại, trong nhà có mở cửa hàng đấy, có làm công đấy, có tay dựa nghệ ăn cơm. chờ một chút, nhưng đều có cùng một cái đặc điểm chính là:",
+      "dich": "Loại người thứ hai là những hài đồng ủng hộ Vũ Nham, có xuất thân từ đủ loại gia cảnh, có đứa trong nhà mở cửa hàng, có đứa phải đi làm công ... nói chung những hài tử này đều có điểm chung:.",
       "approved": true
     },
     {
-      "convert": "bởi vậy những người này đều vây quanh Vũ Nham, tịnh trái một tiếng \"Vũ thiếu gia\" phải một tiếng \"Vũ đại ca\" xưng hô,",
-      "dich": "Do đó những đứa trẻ này dốc sức ủng hộ Vũ Nham, một câu ‘Vũ thiếu gia’ hai câu ‘Vũ thiếu gia’ mà gọi.",
+      "convert": "Đều là tại thành trấn trong lớn lên đấy, tự nhiên hoặc nhiều hoặc ít cùng nhà trong đại nhân học xong một chút quan sát nét mặt, bản lĩnh thấy lợi là làm, bởi vậy những người này đều vây quanh Vũ Nham, tịnh trái một tiếng \"Vũ thiếu gia\" phải một tiếng \"Vũ đại ca\" xưng hô.",
+      "dich": "Đều lớn lên trong thành trấn, ít nhiều đã từng quan sát cách xử sự của những người có học vấn, xu hướng có lợi thì làm đã thành bản sự rồi. Do đó những đứa trẻ này dốc sức ủng hộ Vũ Nham, một câu ‘Vũ thiếu gia’ hai câu ‘Vũ đại ca’ mà gọi.",
       "approved": true
     },
     {
       "convert": "Vũ Nham xem ra đối với lần này sớm lấy tập mãi thành thói quen, vô cùng hưởng thụ những danh xưng này.",
-      "dich": "Vũ Nham trước sự tôn vinh của bọn trẻ như vậy cũng coi như bình thường, thậm chí còn có cảm giác hưởng thụ sự tôn vinh đó",
+      "dich": "Vũ Nham đối với việc này đã tập mãi thành quen, vô cùng hưởng thụ những danh xưng này.",
       "approved": true
     },
     {
-      "convert": "Cuối cùng một loại người chính là Hàn Lập loại người này,",
-      "dich": "Loại cuối cùng, tất nhiên là dạng người giống như Hàn Lập.",
+      "convert": "Cuối cùng một loại người chính là Hàn Lập loại người này, loại người này đều đến từ vắng vẻ thâm sơn cùng cốc, trong nhà đồng dạng đều là lên núi kiếm ăn, xuống sông uống nước, nghèo khổ vô cùng",
+      "dich": "Loại cuối cùng, tất nhiên là dạng người giống như Hàn Lập, đều đến từ thâm sơn cùng cốc, cả nhà đều lên núi kiếm ăn, xuống sông uống nước, nghèo khổ vô cùng.",
       "approved": true
     },
     {
-      "convert": "loại người này đều đến từ vắng vẻ thâm sơn cùng cốc, trong nhà đồng dạng đều là lên núi kiếm ăn, xuống sông uống nước, nghèo khổ vô cùng",
-      "dich": "Những đứa trẻ này đến từ vùng đất hoang vu hẻo lánh, gia cảnh bần hàn, có gì ăn đó.",
+      "convert": "Loại người này trong xe là ít nhất rồi, chỉ năm sáu người, thần thái hơn phân nửa bó tay bó chân không dám nói lớn tiếng, chỉ là xem người khác lên tiếng nói giỡn, cùng thỉnh thoảng lớn tiếng huyên náo cái kia bộ phận đồng tử tạo thành chênh lệch rõ ràng",
+      "dich": "Loại người như vậy trong xe rất ít, chỉ có tầm năm sáu đứa mà thôi. Thần thái của bọn chúng đa phần là e dè, không dám nói năng gì, chỉ ngồi nhìn người khác nói cười. Những tiểu hài tử này cùng với những đứa trẻ đang huyên náo còn lại tạo thành một khung cảnh đối lập rõ ràng",
       "approved": true
     },
     {
-      "convert": "Loại người này trong xe là ít nhất rồi, chỉ năm sáu người,",
-      "dich": "Loại người như vậy trong xe rất ít, chỉ có tầm năm sáu đứa mà thôi.",
+      "convert": "Xe ngựa theo Thanh Ngưu trấn xuất phát trên đường hướng tây chạy vội, dọc đường lại đi tốt mấy nơi, lại tiếp vài cái hài đồng, cuối cùng tại ngày thứ năm lúc chạng vạng tối chạy tới Thái Hà Sơn, Thất Huyền Môn luôn cửa chỗ ở",
+      "dich": "Xe ngựa xuất phát từ Thanh Ngưu trấn thẳng tiến về hướng Tây, trên lộ trình còn đi qua thêm vài địa phương, tiếp nhận thêm vài đứa trẻ nữa. Cuối cùng đến chiều ngày thứ năm thì cũng tới được Thái Hà Sơn, tổng đàn của Thất Huyền Môn",
       "approved": true
     },
     {
-      "convert": "thần thái hơn phân nửa bó tay bó chân không dám nói lớn tiếng, chỉ là xem người khác lên tiếng nói giỡn,",
-      "dich": "Thần thái của bọn chúng đa phần là e dè, không dám nói năng gì, chỉ ngồi nhìn người khác nói cười.",
+      "convert": "Tất cả hài tử vừa xuống xe, đều bị Thái Hà Sơn cái kia năm màu tà dương cảnh đẹp thật sâu mê hoặc, cho đến Vương hộ pháp lên tiếng thúc giục, mọi người mới thanh tỉnh lại tiếp tục đi lên phía trước",
+      "dich": "Hầu hết tiểu hài tử khi xuống xe đều bị cảnh quan tươi đẹp của Thái Hà Sơn làm cho mê mẩn. Chỉ đến khi Vương hộ pháp lên tiếng thúc giục, mọi người mới thanh tỉnh trở lại rồi tiếp tục đi tới",
       "approved": true
     },
     {
-      "convert": "cùng thỉnh thoảng lớn tiếng huyên náo cái kia bộ phận đồng tử tạo thành chênh lệch rõ ràng",
-      "dich": "Những tiểu hài tử này cùng với những đứa trẻ đang huyên náo còn lại tạo thành một khung cảnh đối lập rõ ràng",
+      "convert": "Thái Hà Sơn nguyên danh Lạc Phượng núi, tương truyền thời cổ một đầu ngũ sắc Thải Phượng rơi ở chỗ này, hóa thành núi này",
+      "dich": "Thái Hà Sơn nguyên danh gọi là Lạc Phượng sơn, tương truyền rằng nơi đây từng có một con phượng hoàng ngũ sắc rơi xuống rồi hóa thành núi này",
       "approved": true
     },
     {
-      "convert": "Xe ngựa theo Thanh Ngưu trấn xuất phát trên đường hướng tây chạy vội, dọc đường lại đi tốt mấy nơi, lại tiếp vài cái hài đồng,",
-      "dich": "Xe ngựa xuất phát từ Thanh Ngưu trấn thẳng tiến về hướng Tây, trên lộ trình còn đi qua thêm vài địa phương, tiếp nhận thêm vài đứa trẻ nữa.",
-      "approved": true
-    },
-    {
-      "convert": "cuối cùng tại ngày thứ năm lúc chạng vạng tối chạy tới Thải Hà sơn, Thất Huyền Môn luôn cửa chỗ ở",
-      "dich": "Cuối cùng đến chiều ngày thứ năm thì cũng tới được Thái Hà sơn, tổng đàn của Thất Huyền Môn",
-      "approved": true
-    },
-    {
-      "convert": "Tất cả hài tử vừa xuống xe, đều bị Thải Hà sơn cái kia năm màu tà dương cảnh đẹp thật sâu mê hoặc,",
-      "dich": "Hầu hết tiểu hài tử khi xuống xe đều bị cảnh quan tươi đẹp của Thái Hà sơn làm cho mê mẩn.",
-      "approved": true
-    },
-    {
-      "convert": "cho đến Vương hộ pháp lên tiếng thúc giục, mọi người mới thanh tỉnh lại tiếp tục đi lên phía trước",
-      "dich": "Chỉ đến khi Vương hộ pháp lên tiếng thúc giục, mọi người mới thanh tỉnh trở lại rồi tiếp tục đi tới",
-      "approved": true
-    },
-    {
-      "convert": "Thải Hà sơn nguyên danh Lạc Phượng núi, tương truyền thời cổ một đầu ngũ sắc Thải Phượng rơi ở chỗ này, hóa thành núi này",
-      "dich": "Thái Hà sơn nguyên danh gọi là Lạc Phượng sơn, tương truyền rằng nơi đây từng có một con phượng hoàng ngũ sắc rơi xuống rồi hóa thành núi này",
-      "approved": true
-    },
-    {
-      "convert": "Sau đó bởi vì tới đây người phát hiện núi này tại tà dương thời gian xinh đẹp dị thường, giống như màu ngũ sắc bao phủ, lại bị người cải thành Thải Hà sơn",
-      "dich": "Về sau, có kẻ phát hiện cảnh sắc ngọn núi vào lúc mặt trời xuống mỹ lệ vô cùng, như có đám mây đỏ rực bao phủ đỉnh núi, do vậy nơi đây được người ta đổi tên thành Thái Hà sơn",
+      "convert": "Sau đó bởi vì tới đây người phát hiện núi này tại tà dương thời gian xinh đẹp dị thường, giống như màu ngũ sắc bao phủ, lại bị người cải thành Thái Hà Sơn",
+      "dich": "Về sau, có kẻ phát hiện cảnh sắc ngọn núi vào lúc mặt trời xuống mỹ lệ vô cùng, như có đám mây đỏ rực bao phủ đỉnh núi, do vậy nơi đây được người ta đổi tên thành Thái Hà Sơn",
       "approved": true
     },
     {
@@ -142,8 +112,8 @@
       "approved": true
     },
     {
-      "convert": "Thải Hà sơn là Kính Châu cảnh nội thứ hai núi lớn, ngoại trừ một tòa khác trăm Mãng Sơn, liền đếm núi này chiếm diện tích phổ biến nhất, trong phạm vi mười mấy dặm đều là núi này sơn mạch chỗ",
-      "dich": "Thái Hà sơn là một trong những ngọn núi lớn của Kính châu, diện tích chỉ nhỏ hơn Bách Mãng sơn một chút, phương viên mười dặm xung quanh đều là núi non chập trùng",
+      "convert": "Thái Hà Sơn là Kính Châu cảnh nội thứ hai núi lớn, ngoại trừ một tòa khác trăm Mãng Sơn, liền đếm núi này chiếm diện tích phổ biến nhất, trong phạm vi mười mấy dặm đều là núi này sơn mạch chỗ",
+      "dich": "Thái Hà Sơn là một trong những ngọn núi lớn của Kính Châu, diện tích chỉ nhỏ hơn Bách Mãng sơn một chút, phương viên mười dặm xung quanh đều là núi non chập trùng",
       "approved": true
     },
     {
@@ -152,13 +122,8 @@
       "approved": true
     },
     {
-      "convert": "Thải Hà sơn ngọn núi cao nhất \"Lạc Nhật Phong\" càng là hiểm ác vô cùng, chẳng những kỳ Cao dốc đứng, hơn nữa theo chân núi đến đỉnh núi chỉ một con đường có thể đi, Thất Huyền Môn đem Tổng đường liền để ở nơi này về sau,",
-      "dich": "Ngọn chủ phong của Thái Hà sơn là Lạc Nhật phong càng hiểm ác vô cùng, chẳng những là đỉnh cao nhất, mà ở đó cũng chỉ có duy nhất một con đường độc đạo dẫn lên núi, do vậy mà Thất Huyền Môn đem tổng đàn đặt lên đỉnh núi này.",
-      "approved": true
-    },
-    {
-      "convert": "lại đang con đường này hiểm yếu chỗ, liên tiếp thiết lập mười ba nơi hoặc sáng hoặc tối đồn biên phòng, có thể xưng là trên là không sơ hở tý nào, vô tư",
-      "dich": "Con đường này không những hiểm trở, mà dọc theo con đường tông môn còn thiết lập mười ba trạm gác cả minh lẫn ám, có thể nói là vạn vô nhất thất, không có gì để phải lo lắng",
+      "convert": "Thái Hà Sơn ngọn núi cao nhất \"Lạc Nhật Phong\" càng là hiểm ác vô cùng, chẳng những kỳ Cao dốc đứng, hơn nữa theo chân núi đến đỉnh núi chỉ một con đường có thể đi, Thất Huyền Môn đem Tổng đường liền để ở nơi này về sau, lại đang con đường này hiểm yếu chỗ, liên tiếp thiết lập mười ba nơi hoặc sáng hoặc tối đồn biên phòng, có thể xưng là trên là không sơ hở tý nào, vô tư",
+      "dich": "Ngọn chủ phong của Thái Hà Sơn là Lạc Nhật Phong càng hiểm ác vô cùng, chẳng những là đỉnh cao nhất, mà ở đó cũng chỉ có duy nhất một con đường độc đạo dẫn lên núi, do vậy mà Thất Huyền Môn đem tổng đàn đặt lên đỉnh núi này. Con đường này không những hiểm trở, mà dọc theo con đường tông môn còn thiết lập mười ba trạm gác cả minh lẫn ám, có thể nói là vạn vô nhất thất, không có gì để phải lo lắng",
       "approved": true
     },
     {
@@ -172,13 +137,8 @@
       "approved": true
     },
     {
-      "convert": "\"Nhạc đường chủ, trên đường đi chậm trễ chút thời gian, lão phiền Nâm Lão phí tâm.\" Vương hộ pháp đứng ở trước đám người, cung kính hướng một vị lão giả mặt đỏ thi cái lễ,",
-      "dich": "\"Nhạc đường chủ, trên đường đi có chút chậm trễ, phiền ngài để tâm rồi.\" Vương hộ pháp đứng đầu đám người, cung kính thi lễ về phía vị lão giả mặt mũi hồng hào.",
-      "approved": true
-    },
-    {
-      "convert": "thay đổi trên đường đi một mực bướng bỉnh thần sắc, trên mặt lộ ra vài phần quyến rũ sắc",
-      "dich": "Bộ mặt ngang tàng khi đi đường của gã đã được thay bằng một thái độ trông rất xiểm nịnh",
+      "convert": "\"Nhạc đường chủ, trên đường đi chậm trễ chút thời gian, lão phiền Nâm Lão phí tâm.\" Vương hộ pháp đứng ở trước đám người, cung kính hướng một vị lão giả mặt đỏ thi cái lễ, thay đổi trên đường đi một mực bướng bỉnh thần sắc, trên mặt lộ ra vài phần quyến rũ sắc",
+      "dich": "\"Nhạc đường chủ, trên đường đi có chút chậm trễ, phiền ngài để tâm rồi.\" Vương hộ pháp đứng đầu đám người, cung kính thi lễ về phía vị lão giả mặt mũi hồng hào. Bộ mặt ngang tàng khi đi đường của gã đã được thay bằng một thái độ trông rất xiểm nịnh",
       "approved": true
     },
     {
@@ -212,38 +172,18 @@
       "approved": true
     },
     {
-      "convert": "Đi tại lên núi trên thềm đá, tất cả tiểu hài tử đều hưng phấn không thôi, nhưng không người nào dám nói chuyện lớn tiếng,",
-      "dich": "Đi trên con đường đá dẫn lên núi, đám tiểu hài tử đều hưng phấn mãi không thôi, nhưng không có ai dám lớn tiếng nói chuyện.",
+      "convert": "Đi tại lên núi trên thềm đá, tất cả tiểu hài tử đều hưng phấn không thôi, nhưng không người nào dám nói chuyện lớn tiếng, tuy rằng mọi người niên kỷ cũng không lớn, cũng đều biết nơi này chính là quyết định tương lai mình vận mạng địa phương",
+      "dich": "Đi trên con đường đá dẫn lên núi, đám tiểu hài tử đều hưng phấn mãi không thôi, nhưng không có ai dám lớn tiếng nói chuyện. Tuy bọn chúng đều chưa trưởng thành, nhưng cũng hiểu được nơi này sẽ quyết định vận mệnh tương lai của mình",
       "approved": true
     },
     {
-      "convert": "tuy rằng mọi người niên kỷ cũng không lớn, cũng đều biết nơi này chính là quyết định tương lai mình vận mạng địa phương",
-      "dich": "Tuy bọn chúng đều chưa trưởng thành, nhưng cũng hiểu được nơi này sẽ quyết định vận mệnh tương lai của mình",
+      "convert": "Vương hộ pháp một bên ở phía trước dẫn đường, một bên mặt mỉm cười cùng trên đường đi gặp phải người chào hỏi, có thể nhìn ra hắn bên trong môn quen thuộc rất nhiều người, nhân duyên không sai",
+      "dich": "Vương hộ pháp vừa đi trước dẫn đội, vừa tươi cười chào hỏi những người gặp trên đường. Có thể nhìn ra gã tại môn nội quen biết khá nhiều người, sinh hoạt trong môn sau này cũng lạc quan",
       "approved": true
     },
     {
-      "convert": "Vương hộ pháp một bên ở phía trước dẫn đường, một bên mặt mỉm cười cùng trên đường đi gặp phải người chào hỏi,",
-      "dich": "Vương hộ pháp vừa đi trước dẫn đội, vừa tươi cười chào hỏi những người gặp trên đường.",
-      "approved": true
-    },
-    {
-      "convert": "có thể nhìn ra hắn bên trong môn quen thuộc rất nhiều người, nhân duyên không sai",
-      "dich": "Có thể nhìn ra gã tại môn nội quen biết khá nhiều người, sinh hoạt trong môn sau này cũng lạc quan",
-      "approved": true
-    },
-    {
-      "convert": "Trên đường gặp phải người phần lớn mặc thanh đoạn y, trên người hoặc vác lấy đao, hoặc lưng đeo kiếm,",
-      "dich": "Dọc đường chỉ thấy mọi người ở đây đều mặc áo bó ngắn màu xanh, trên thân hoặc đeo đao, hoặc dắt kiếm.",
-      "approved": true
-    },
-    {
-      "convert": "ngẫu nhiên một chút xích thụ không quyền người bên hông cũng căng phồng đấy, không biết suy đoán lên cao ư đồ vật,",
-      "dich": "Thỉnh thoảng có người đi tay không nhưng ở thắt lưng phồng lên, khó mà đoán được bên trong là cái gì.",
-      "approved": true
-    },
-    {
-      "convert": "theo hành động cử chỉ lên, đó có thể thấy được những người này thân thủ kiện tráng, đều có một thân thật tốt công phu trong người",
-      "dich": "Từ cử chỉ hành vi, có thể nhìn ra người đó thân thủ mạnh mẽ, chắc hẳn phải mang trong mình một thân công phu không sai",
+      "convert": "Trên đường gặp phải người phần lớn mặc thanh đoạn y, trên người hoặc vác lấy đao, hoặc lưng đeo kiếm, ngẫu nhiên một chút xích thụ không quyền người bên hông cũng căng phồng đấy, không biết suy đoán lên cao ư đồ vật, theo hành động cử chỉ lên, đó có thể thấy được những người này thân thủ kiện tráng, đều có một thân thật tốt công phu trong người",
+      "dich": "Dọc đường chỉ thấy mọi người ở đây đều mặc áo bó ngắn màu xanh, trên thân hoặc đeo đao, hoặc dắt kiếm. Thỉnh thoảng có người đi tay không nhưng ở thắt lưng phồng lên, khó mà đoán được bên trong là cái gì. Từ cử chỉ hành vi, có thể nhìn ra người đó thân thủ mạnh mẽ, chắc hẳn phải mang trong mình một thân công phu không sai",
       "approved": true
     },
     {

@@ -15,1554 +15,575 @@
     {
       "convert": "\"Ngươi muốn cám ơn thì cám ơn hắn đi, hai chúng ta cũng không có xuất lực, không dám giành công.\"",
       "dich": "\"Nếu người muốn cám ơn thì cám ơn hắn đi, hai chúng ta không ra sức, không dám giành công.\"",
-      "suggest": "\"Ngươi muốn cám ơn thì cám ơn hắn đi, hai chúng ta cũng không có xuất lực, không dám giành công.\"",
-      "similarity": [
-        [
-          0,
-          0.66
-        ]
-      ]
+      "suggest": "\"Ngươi muốn cám ơn thì cám ơn hắn đi, hai chúng ta cũng không có xuất lực, không dám giành công.\""
     },
     {
       "convert": "Xích Thuật nhìn Viên Minh một chút, đối thanh niên tóc đỏ nói.",
       "dich": "Xích Thuật nhìn Viên Minh, xong nói với thanh niên tóc đỏ.",
-      "suggest": "Xích Thuật nhìn Viên Minh một chút, nói với thanh niên tóc đỏ.",
-      "similarity": [
-        [
-          1,
-          0.66
-        ],
-        [
-          3,
-          0.14
-        ],
-        [
-          7,
-          0.11
-        ]
-      ]
+      "suggest": "Xích Thuật nhìn Viên Minh một chút, nói với thanh niên tóc đỏ."
     },
     {
       "convert": "\"Đa tạ vị sư huynh này, hôm nay may mắn mà có ngươi, nếu không ta phiền phức cũng lớn.\"",
       "dich": "\"Đa tạ vị sư huynh này, hôm nay nhờ có ngươi, nếu không ta chắc sẽ gặp rắc rối lớn.\"",
-      "suggest": "\"Đa tạ vị sư huynh này, hôm nay may mắn có ngươi, nếu không phiền toái của ta cũng lớn.\"",
-      "similarity": [
-        [
-          2,
-          0.56
-        ]
-      ]
+      "suggest": "\"Đa tạ vị sư huynh này, hôm nay may mắn có ngươi, nếu không phiền phức của ta cũng lớn.\""
     },
     {
       "convert": "Thanh niên tóc đỏ gấp hướng Viên Minh chắp tay cảm ơn.",
       "dich": "Thanh niên tóc đỏ vội chắp tay nói cám ơn với Viên Minh.",
-      "suggest": "Thanh niên tóc đỏ gấp rút nói với Viên Minh.",
-      "similarity": [
-        [
-          1,
-          0.16
-        ],
-        [
-          3,
-          0.37
-        ],
-        [
-          7,
-          0.2
-        ]
-      ]
+      "suggest": "Thanh niên tóc đỏ gấp chắp tay cảm ơn."
     },
     {
       "convert": "\"Sư huynh hai chữ không dám nhận, tại hạ Hỏa Luyện Đường Viên Minh, vừa mới tiến Bích La Động không lâu, hai vị này là Luyện Lô Đường đồ đệ Mộc Ly cùng Luật Quy Đường đồ đệ Xích Thuật, không biết các hạ tính danh?\"",
-      "dich": "\"Không dám nhận hai chữ sư huynh, tại hạ Hỏa Luyện đường Viên Minh, vừa vào Bích La Động chưa lâu, hai vị này là Mộc Ly, đệ tử Luyện Lô đường và Xích Thuật, đệ tử Luật Quy đường, không biết các hạ tên gì?\"",
-      "suggest": "\"Sư huynh hai chữ không dám nhận, tại hạ là Hỏa Luyện Đường Viên Minh, vừa mới tiến vào Bích La Động không lâu, hai vị này là đồ đệ Mộc Ly và luật quy đường. Không biết các hạ tên gì?\"",
-      "similarity": [
-        [
-          4,
-          0.34
-        ]
-      ]
+      "dich": "\"Không dám nhận hai chữ sư huynh, tại hạ Hỏa Luyện Đường Viên Minh, vừa vào Bích La Động chưa lâu, hai vị này là Mộc Ly, đệ tử Luyện Lô Đường và Xích Thuật, đệ tử Luật Quy Đường, không biết các hạ tên gì?\"",
+      "suggest": "\"Hai chữ sư huynh không dám nhận, tại hạ là Viên Minh, vừa mới tiến Bích La Động không lâu, hai vị này là đồ đệ Mộc Ly và Luật Quy Đường, không biết các hạ tên là gì?\""
     },
     {
       "convert": "Viên Minh không có giải thích, giới thiệu Mộc Ly hai người sau hỏi.",
       "dich": "Viên Minh không giải thích mà giới thiệu hai người Mộc Ly, sau đó hỏi.",
-      "suggest": "Viên Minh không giải thích thêm, giới thiệu hai người Mộc Ly hỏi.",
-      "similarity": [
-        [
-          5,
-          0.54
-        ]
-      ]
+      "suggest": "Viên Minh không giải thích gì, giới thiệu hai người Mộc Ly ra hỏi."
     },
     {
       "convert": "\"Tại hạ Lặc Cống, Ngự Thú Đường đồ đệ.\"",
-      "dich": "\"Tại hạ Lặc Cống, đệ tử Ngự Thú đường.\"",
-      "suggest": "\"Tại hạ Lặc Cống, đồ đệ của Ngự Thú Đường.\"",
-      "similarity": [
-        [
-          6,
-          0.45
-        ],
-        [
-          25,
-          0.12
-        ]
-      ]
+      "dich": "\"Tại hạ Lặc Cống, đệ tử Ngự Thú Đường.\"",
+      "suggest": "\"Tại hạ Lặc Cống, đồ đệ Ngự Thú Đường.\""
     },
     {
       "convert": "Thanh niên tóc đỏ gãi đầu một cái, vội vàng tự giới thiệu.",
       "dich": "Thanh niên tóc đỏ gãi gãi đầu, vội vàng giới thiệu.",
-      "suggest": "Thanh niên tóc đỏ gãi gãi đầu một cái, vội vàng tự giới thiệu.",
-      "similarity": [
-        [
-          1,
-          0.1
-        ],
-        [
-          3,
-          0.17
-        ],
-        [
-          7,
-          0.54
-        ]
-      ]
+      "suggest": "Thanh niên tóc đỏ gãi gãi đầu, vội vàng tự giới thiệu."
     },
     {
       "convert": "\"Nguyên lai là Lặc Cống sư huynh, cái này Hỏa Điêu ta từng gặp, là Tam động chủ mến yêu Linh thú, ngươi vì sao muốn dẫn nó chỗ này?\"",
       "dich": "\"Thì ra là Lặc Cống sư huynh, ta từng gặp con chồn lửa này, nó là linh thú yêu thích của Tam động chủ, sao ngươi phải dẫn nó tới chỗ này?\"",
-      "suggest": "\"Ra là Lặc Cống sư huynh, Hỏa Điêu này ta từng gặp, là Linh thú được Tam động chủ mến yêu, vì sao ngươi lại dẫn nó tới đây?\"",
-      "similarity": [
-        [
-          8,
-          0.25
-        ]
-      ]
+      "suggest": "\"Thì ra là Lặc Cống sư huynh, Hỏa Điêu này ta từng gặp, là linh thú được Tam động chủ mến yêu, vì sao ngươi lại dẫn nó tới đây?\""
     },
     {
       "convert": "Viên Minh đem Hỏa Điêu đưa tới, hỏi.",
       "dich": "Viên Minh đưa chồn lửa tới rồi hỏi.",
-      "suggest": "Viên Minh cầm Hỏa Điêu đưa tới, hỏi.",
-      "similarity": [
-        [
-          9,
-          0.13
-        ],
-        [
-          31,
-          0.13
-        ],
-        [
-          52,
-          0.11
-        ]
-      ]
+      "suggest": "Viên Minh đưa Hỏa Điêu tới, hỏi."
     },
     {
       "convert": "Lặc Cống vội vàng đưa tay tiếp được, có thể Hỏa Điêu vừa tới trong tay hắn, đột nhiên mãnh liệt giằng co, trong miệng càng là chi chi thét lên, móng vuốt ở thanh niên trên tay hung hăng vồ một hồi.",
       "dich": "Lặc Cống vội vươn tay ra tiếp, có điều chồn lửa vừa vào tay y thì bỗng giãy dụa kịch liệt, miệng còn không ngừng gào thét chi chi, đồng thời còn hung hăng vung chảo cào một hồi lên tay y.",
-      "suggest": "Lặc Cống vội vàng đưa tay tiếp nhận, nhưng khi mũi tên lửa vừa tới trong tay hắn thì đột nhiên giằng co dữ dội, miệng hét lên giận dữ, móng vuốt hung hăng bấu vào cổ tay thanh niên kia.",
-      "similarity": []
+      "suggest": "Lặc Cống vội vàng đưa tay tiếp, nhưng khi con Hỏa Điêu vừa tới trong tay hắn, đột nhiên giằng co kịch liệt, miệng thét lên một tiếng, móng vuốt hung hăng vồ tới trên tay thanh niên."
     },
     {
       "convert": "Hỏa Điêu móng vuốt có chút sắc bén, Lặc Cống trên tay lập tức vạch ra mấy đạo đao cắt vết thương, máu tươi cốt cốt chảy ra.",
       "dich": "Móng vuốt của chồn lửa khá sắc, lập tức cào tay Lặc Cống rách mấy đường, máu tươi chảy ra ròng ròng.",
-      "suggest": "Móng vuốt Hỏa Điêu có chút sắc bén, móng tay Lặc Cống lập tức vạch ra mấy vết thương, máu tươi chảy ra.",
-      "similarity": [
-        [
-          11,
-          0.23
-        ]
-      ]
+      "suggest": "Móng vuốt Hỏa Điêu có phần sắc bén, móng vuốt sắc bén của nó lập tức vạch mấy đường đao cắt vết thương, máu tươi chảy ra."
     },
     {
       "convert": "Hắn kêu đau một tiếng, bàn tay buông lỏng, Hỏa Điêu rớt xuống.",
       "dich": "Y đau đớn kêu lên, đồng thời bàn tay buông lỏng để chồn lửa rơi xuống.",
-      "suggest": "Hắn kêu đau một tiếng, bàn tay buông lỏng, Hỏa Điêu rớt xuống.",
-      "similarity": [
-        [
-          12,
-          0.18
-        ]
-      ]
+      "suggest": "Hắn kêu đau một tiếng, buông lỏng tay áo, bắn Hỏa Điêu xuống."
     },
     {
       "convert": "Viên Minh vội vàng đưa tay, tiếp được Hỏa Điêu.",
       "dich": "Viên Minh vội vàng vươn tay ra đỡ lấy con chồn lửa.",
-      "suggest": "Viên Minh vội vàng đưa tay nhận lấy Hỏa Điêu.",
-      "similarity": [
-        [
-          13,
-          0.22
-        ],
-        [
-          107,
-          0.1
-        ]
-      ]
+      "suggest": "Viên Minh vội vàng đưa tay ra tiếp lấy Hỏa Điêu."
     },
     {
       "convert": "Nhắc tới cũng kỳ, Hỏa Điêu vừa đến Viên Minh trên tay, lập tức trở nên ôn thuần, chẳng những không giãy dụa đả thương người, ngược lại dùng đầu nhẹ cọ thân thể của hắn.",
       "dich": "Nhắc tới cũng lạ, chồn lửa vừa vào tay Viên Minh thì lập tức trở nên ngoan ngoan, chẳng những không giãy dụa làm hắn bị thương, trái lại còn đưa đầu cọ nhẹ vào người hắn.",
-      "suggest": "Nghĩ đến đây thôi, Hỏa Điêu vừa chạm vào bàn tay Viên Minh lập tức trở nên ôn hòa, chẳng những không giãy dụa đả thương người, ngược lại còn dùng đầu nhẹ cọ vào người hắn.",
-      "similarity": [
-        [
-          14,
-          0.29
-        ]
-      ]
+      "suggest": "Nhắc tới cũng kỳ, con Hỏa Điêu vừa đến trên tay Viên Minh, lập tức trở nên dịu dàng lạ thường, chẳng những không giãy dụa đả thương người, trái lại còn dùng đầu cọ nhẹ vào thân thể hắn."
     },
     {
       "convert": "Nhìn thấy cảnh này, Lặc Cống, Mộc Ly, Xích Thuật đều lộ ra vẻ kinh ngạc.",
       "dich": "Nhìn thấy cảnh này, Lặc Cống, Mộc Ly, Xích Thuật cùng lộ vẻ kinh ngạc.",
-      "suggest": "Nhìn thấy cảnh này, Lặc Cống, Mộc Ly, Xích Thuật đều lộ vẻ kinh ngạc.",
-      "similarity": [
-        [
-          15,
-          0.85
-        ],
-        [
-          43,
-          0.13
-        ]
-      ]
+      "suggest": "Nhìn thấy cảnh này, Lặc Cống, Mộc Ly, Xích Thuật đều lộ vẻ kinh ngạc."
     },
     {
-      "convert": "\"Không nghĩ tới Viên sư đệ không chỉ biết luyện khí, còn tinh thông ngự thú thuật a!\"",
+      "convert": "\"Không nghĩ tới Viên sư đệ không chỉ biết luyện khí, còn tinh thông Ngự Thú Thuật a!\"",
       "dich": "\"Không ngờ Viên sư đệ chẳng những biết luyện khí mà còn tinh thông thuật ngự thú nữa.\"",
-      "suggest": "\"Không ngờ Viên sư đệ không chỉ biết luyện khí mà còn tinh thông thuật ngự thú a!\"",
-      "similarity": [
-        [
-          16,
-          0.67
-        ]
-      ]
+      "suggest": "\"Không ngờ Viên sư đệ không chỉ biết luyện khí, còn tinh thông thuật ngự thú a!\""
     },
     {
       "convert": "Lặc Cống nói.",
       "dich": "Lặc Cống nói.",
-      "suggest": "Lặc Cống nói.",
-      "similarity": [
-        [
-          17,
-          1
-        ],
-        [
-          34,
-          0.18
-        ],
-        [
-          40,
-          0.11
-        ],
-        [
-          50,
-          0.15
-        ],
-        [
-          52,
-          0.11
-        ],
-        [
-          54,
-          0.18
-        ]
-      ]
+      "suggest": "Lặc Cống nói."
     },
     {
       "convert": "\"Viên mỗ mới vào tông môn, chỗ nào hiểu được cái gì ngự thú chi thuật, chỉ bất quá ta lúc trước may mắn ở Thập Vạn Đại Sơn bên trong ngẫu nhiên gặp Tam động chủ, đi theo bên người nàng, mang qua đầu này Hỏa Điêu một đoạn thời gian, có thể là nó còn nhớ rõ ta đi.\"",
       "dich": "\"Viên mỗ mới vào tông môn, nào có biết gì về thuật ngự thú, nhưng có điều ta lúc trước từng may mắn gặp được Tam động chủ trong Thập Vạn Đại Sơn, sau đó lúc đi theo bên người nàng có một khoảng thời gian bế con chồn lửa này, có thể là nó vẫn nhớ mặt ta chăng?\"",
-      "suggest": "\"Viên mỗ mới nhập tông, chưa bao giờ hiểu rõ thuật ngự thú, chỉ có điều lúc trước ta may mắn gặp được tam động chủ ở Thập Vạn Đại Sơn, đi theo bên người nàng qua bên người nàng một đoạn, có lẽ nó còn nhớ tới ta không?\"",
-      "similarity": [
-        [
-          18,
-          0.25
-        ]
-      ]
+      "suggest": "\"Viên mỗ mới nhập tông, sao lại không hiểu chút ít thuật ngự thú, chỉ có điều lúc trước ta may mắn ở Thập Vạn Đại sơn ngẫu nhiên gặp được Tam động chủ, đi theo bên người nàng, có lẽ nó còn nhớ ta.\""
     },
     {
       "convert": "Viên Minh nửa thật nửa giả giải thích nói.",
       "dich": "Viên Minh nửa thật nửa giả giải thích.",
-      "suggest": "Viên Minh nửa thật nửa giả giải thích.",
-      "similarity": [
-        [
-          9,
-          0.11
-        ],
-        [
-          19,
-          1
-        ],
-        [
-          40,
-          0.18
-        ],
-        [
-          43,
-          0.11
-        ],
-        [
-          50,
-          0.11
-        ],
-        [
-          52,
-          0.11
-        ],
-        [
-          54,
-          0.11
-        ],
-        [
-          85,
-          0.11
-        ]
-      ]
+      "suggest": "Viên Minh nửa thật nửa giả giải thích."
     },
     {
-      "convert": "\"Nguyên lai là dạng này.\"",
-      "dich": "\"Thì ra là như vậy.\"",
-      "suggest": "\"Thì ra là thế này.\"",
-      "similarity": [
-        [
-          20,
-          0.41
-        ]
-      ]
-    },
-    {
-      "convert": "Lặc Cống ồ một tiếng, ánh mắt dường như có chút thất vọng.",
-      "dich": "Lặc Cống ngạc nhiên ồ lên, ánh mắt dường như có hơi thất vọng.",
-      "suggest": "Lặc Cống ồ một tiếng, ánh mắt dường như có chút thất vọng.",
-      "similarity": [
-        [
-          21,
-          0.43
-        ]
-      ]
+      "convert": "\"Nguyên lai là dạng này.\" Lặc Cống ồ một tiếng, ánh mắt dường như có chút thất vọng.",
+      "dich": "\"Thì ra là như vậy.\" Lặc Cống ngạc nhiên ồ lên, ánh mắt dường như có hơi thất vọng.",
+      "suggest": "\"Thì ra là thế này.\" Lặc Cống ồ lên, ánh mắt lộ vẻ thất vọng."
     },
     {
       "convert": "Mộc Ly cùng Xích Thuật nghe nói Viên Minh cùng Tam động chủ quen biết, liếc nhau, nhìn về phía Viên Minh ánh mắt trong bất tri bất giác có chút biến hóa.",
       "dich": "Mộc Ly và Xích Thuật nghe Viên Minh có quen biết Tam động chủ liền liếc nhìn nhau, ánh mắt nhìn Viên Minh bất giác có chút thay đổi.",
-      "suggest": "Mộc Ly và Xích Thuật nghe nói Viên Minh và tam động chủ quen biết, liếc mắt nhìn về phía Viên Minh trong ánh mắt bất tri bất giác có chút biến hóa.",
-      "similarity": [
-        [
-          22,
-          0.28
-        ]
-      ]
+      "suggest": "Mộc Ly và Xích Thuật nghe nói Viên Minh quen biết tam động chủ, liếc mắt nhìn Viên Minh, ánh mắt bất tri bất giác có chút biến hóa."
     },
     {
       "convert": "Dát...",
       "dich": "Kéc ...",
-      "suggest": "Dát...",
-      "similarity": [
-        [
-          17,
-          0.16
-        ],
-        [
-          40,
-          0.11
-        ],
-        [
-          52,
-          0.11
-        ]
-      ]
+      "suggest": "Dát ..."
     },
     {
       "convert": "Một tiếng chói tai réo vang vang lên, Kim Tình Điêu bay tới, Lam Kha cùng A Cổ Lạp đứng tại điêu trên lưng, hiển nhiên là chú ý tới tình huống bên này, chạy tới.",
-      "dich": "Một tiếng chim kêu chói tai vang lên, Kim Tình điêu theo tiếng bay tới, Lam Kha và A Cổ Lạp đứng trên lưng điêu, hiển nhiên là do để ý thấy tình huống bên này mà bay tới.",
-      "suggest": "Một tiếng 'rắc rắc' vang lên, Kim Tình Điêu bay tới, Lam Kha và A Cổ Lạp đứng trên lưng nó, hiển nhiên là chú ý tới tình hình bên này, chạy tới.",
-      "similarity": [
-        [
-          24,
-          0.44
-        ]
-      ]
+      "dich": "Một tiếng chim kêu chói tai vang lên, Kim Tình Điêu theo tiếng bay tới, Lam Kha và A Cổ Lạp đứng trên lưng điêu, hiển nhiên là do để ý thấy tình huống bên này mà bay tới.",
+      "suggest": "Một tiếng 'vù vù' vang lên, Kim Tình Điêu bay tới, Lam Kha và A Cổ Lạp đứng trên lưng điêu, hiển nhiên là chú ý tới tình hình bên này, vội vàng chạy tới."
     },
     {
       "convert": "\"Lặc Cống, ngươi thế nào cũng ở đây?\"",
       "dich": "\"Lặc Cống, sao ngươi cũng ở đây?\"",
-      "suggest": "\"Lặc Cống, sao ngươi lại ở đây?\"",
-      "similarity": [
-        [
-          6,
-          0.13
-        ],
-        [
-          25,
-          0.7
-        ]
-      ]
+      "suggest": "\"Lặc Cống, ngươi sao lại ở đây?\""
     },
     {
       "convert": "Lam Kha từ điêu trên lưng nhảy xuống, nhìn về phía Lặc Cống một chút sau hỏi, tựa hồ cùng Lặc Cống quen biết.",
       "dich": "Lam Kha nhảy từ trên lưng điêu xuống, đưa mắt nhìn về phía Lặc Cống rồi hỏi, có vẻ như có quen biết Lặc Cống.",
-      "suggest": "Lam Kha nhảy từ trên lưng Lặc Cống xuống, nhìn về phía Lặc Cống hỏi.",
-      "similarity": [
-        [
-          26,
-          0.34
-        ]
-      ]
+      "suggest": "Lam Kha nhảy từ trên lưng Hổ xuống, nhìn về phía Lặc Cống một chút, tựa hồ như đã quen biết với Lặc Cống."
     },
     {
       "convert": "A Cổ Lạp cũng theo sát phía sau nhảy xuống, hắn quần áo chỗ ngực ẩn ẩn biến lớn thêm không ít, hiển nhiên cái này thời gian qua một lát, lại thu hoạch không nhỏ.",
       "dich": "A Cổ Lạp cũng lập tức nhảy xuống theo, chỗ ngực áo gã lờ mờ thấy phồng lên khá nhiều, hiển nhiên là trong khoảng thời gian vừa có lại thu hoạch được thêm không ít.",
-      "suggest": "A Cổ Lạp cũng theo sát phía sau, quần áo chỗ ngực hắn cũng thay đổi không ít, hiển nhiên trong thời gian ngắn vừa rồi thu hoạch không nhỏ.",
-      "similarity": [
-        [
-          27,
-          0.13
-        ]
-      ]
+      "suggest": "A Cổ Lạp cũng nhảy xuống theo sát, bộ ngực của hắn ẩn ẩn biến lớn thêm không ít, hiển nhiên thời gian qua cũng có thu hoạch không nhỏ."
     },
     {
       "convert": "\"Lam Kha sư tỷ, vẫn là bởi vì cái này Hỏa Điêu.\"",
       "dich": "\"Lam Kha sư tỷ, vẫn là do con chồn lửa này thôi.\"",
-      "suggest": "\"Lam Kha sư tỷ, vẫn bởi vì Hỏa Điêu này sao?\"",
-      "similarity": [
-        [
-          28,
-          0.4
-        ],
-        [
-          42,
-          0.15
-        ]
-      ]
+      "suggest": "\"Lam Kha sư tỷ, cũng vì Hỏa Điêu này mà ra.\""
     },
     {
       "convert": "Lặc Cống gật đầu lên tiếng chào, khẽ cười khổ nói.",
       "dich": "Lặc Cống gật đầu chào hỏi rồi cười khổ đáp.",
-      "suggest": "Lặc Cống gật đầu lên tiếng chào, khẽ cười khổ nói.",
-      "similarity": [
-        [
-          29,
-          0.25
-        ]
-      ]
+      "suggest": "Lặc Cống gật đầu lên tiếng chào, khẽ cười khổ nói."
     },
     {
       "convert": "\"Ngươi sẽ không phải là tiếp Tam động chủ nhiệm vụ kia a?\"",
       "dich": "\"Không phải ngươi đã tiếp nhận nhiệm vụ của Tam động chủ đó chứ?\"",
-      "suggest": "\"Ngươi không phải là nhiệm vụ của tam động chủ sao?\"",
-      "similarity": [
-        [
-          30,
-          0.13
-        ],
-        [
-          42,
-          0.13
-        ],
-        [
-          45,
-          0.11
-        ]
-      ]
+      "suggest": "\"Ngươi không phải là tiếp nhận nhiệm vụ của Tam động chủ sao?\""
     },
     {
       "convert": "Lam Kha nhìn về phía Viên Minh trong tay Hỏa Điêu, hỏi.",
       "dich": "Lam Kha liếc nhìn con chồn lửa trong tay Viên Minh, hỏi.",
-      "suggest": "Lam Kha nhìn Hỏa Điêu trong tay Viên Minh, hỏi.",
-      "similarity": [
-        [
-          1,
-          0.12
-        ],
-        [
-          31,
-          0.49
-        ]
-      ]
+      "suggest": "Lam Kha nhìn Hỏa Điêu trong tay Viên Minh, hỏi."
     },
     {
       "convert": "\"Đúng vậy a, có chút cân nhắc không chu toàn.",
       "dich": "\"Đúng vậy, có điều cân nhắc không chu toàn lắm.",
-      "suggest": "\"Đúng vậy, có chút cẩn thận có chút không chu toàn.",
-      "similarity": [
-        [
-          32,
-          0.37
-        ]
-      ]
+      "suggest": "\"Đúng vậy, có chút lo lắng không chu toàn."
     },
     {
-      "convert": "Nhiệm vụ này so với ta dự liệu muốn khó làm rất nhiều, hôm nay nếu không phải Viên sư đệ bọn hắn hỗ trợ, suýt nữa làm nện, xem ra ta ngự thú thuật thiên phú không đủ, nhiệm vụ này vẫn là dừng ở đây đi.\"",
+      "convert": "Nhiệm vụ này so với ta dự liệu muốn khó làm rất nhiều, hôm nay nếu không phải Viên sư đệ bọn hắn hỗ trợ, suýt nữa làm nện, xem ra ta Ngự Thú Thuật thiên phú không đủ, nhiệm vụ này vẫn là dừng ở đây đi.\"",
       "dich": "Nhiệm vụ này còn khó hơn ta tưởng tượng lúc trước nhiều, hôm nay nếu không phải được bọn Viên sư đệ hỗ trợ thì suýt nữa đã hỏng việc, xem ra thiên phú về thuật ngự thú của ta không đủ, tốt nhất là dừng nhiệm vụ ở đây thôi.\"",
-      "suggest": "Nhiệm vụ này so với ta dự tính còn khó hơn rất nhiều, hôm nay nếu không có Viên sư đệ hỗ trợ, suýt nữa đã đánh ngã ta. Nhiệm vụ này vẫn nên dừng lại ở đây.\"",
-      "similarity": [
-        [
-          33,
-          0.23
-        ]
-      ]
+      "suggest": "Nhiệm vụ này so với ta dự tính khó khăn hơn rất nhiều, hôm nay nếu không có Viên sư đệ hỗ trợ, suýt nữa làm gãy chân, xem ra thiên phú của ta không đủ, nhiệm vụ này vẫn nên dừng lại đây.\""
     },
     {
       "convert": "Lặc Cống thở dài.",
       "dich": "Lặc Cống thở dài đáp.",
-      "suggest": "Lặc Cống thở dài nói.",
-      "similarity": [
-        [
-          17,
-          0.27
-        ],
-        [
-          34,
-          0.54
-        ],
-        [
-          50,
-          0.15
-        ],
-        [
-          54,
-          0.18
-        ]
-      ]
+      "suggest": "Lặc Cống thở dài."
     },
     {
       "convert": "\"Hai vị đang nói cái gì?",
       "dich": "\"Hai vị đang nói gì vậy?",
-      "suggest": "\"Hai vị đang nói cái gì vậy?",
-      "similarity": [
-        [
-          35,
-          0.61
-        ]
-      ]
+      "suggest": "\"Hai vị đang nói cái gì?"
     },
     {
       "convert": "Đừng chỉ cố lấy chính các ngươi, cũng cho chúng ta nghe một chút, Lặc Cống sư huynh tại thi hành tông môn nhiệm vụ?\"",
       "dich": "Đừng có chỉ nói cho hai người các ngươi biết, kể cho chúng ta nghe chút coi, Lặc Cống sư huynh là đang chấp hành nhiệm vụ tông môn á?\"",
-      "suggest": "Đừng chỉ nói cho riêng các ngươi, cũng cho chúng ta nghe một chút nhiệm vụ của Lặc Cống sư huynh trong tông môn nhé!\"",
-      "similarity": [
-        [
-          36,
-          0.21
-        ]
-      ]
+      "suggest": "Đừng chỉ cố lấy chính các ngươi, cũng nói cho chúng ta biết một chút về Lặc Cống sư huynh trong việc thi hành nhiệm vụ tông môn?\""
     },
     {
       "convert": "Mộc Ly nhíu mày hỏi.",
       "dich": "Mộc Ly nhíu mày hỏi.",
-      "suggest": "Mộc Ly nhíu mày hỏi.",
-      "similarity": [
-        [
-          37,
-          1
-        ],
-        [
-          52,
-          0.17
-        ]
-      ]
+      "suggest": "Mộc Ly nhíu mày hỏi."
     },
     {
       "convert": "Bọn hắn ở đây thu thập Hỏa Phác Ngọc, cũng không nguyện ý bị quấy nhiễu đến sự tình khác ở bên trong.",
-      "dich": "Bọn họ tới đây để thu thập Hỏa Phác ngọc, thực sự không muốn nhúng tay vào chuyện khác.",
-      "suggest": "Bọn hắn ở đây thu thập Hỏa Phác Ngọc cũng không muốn bị quấy nhiễu đến chuyện khác.",
-      "similarity": [
-        [
-          38,
-          0.19
-        ]
-      ]
+      "dich": "Bọn họ tới đây để thu thập Hỏa Phác Ngọc, thực sự không muốn nhúng tay vào chuyện khác.",
+      "suggest": "Bọn họ ở đây thu thập Hỏa Phác Ngọc cũng không muốn bị quấy nhiễu đến chuyện khác."
     },
     {
       "convert": "\"Mộc Ly sư đệ không cần phải lo lắng, ta nói nhiệm vụ không phải khác, chính là chăm sóc đầu này Hỏa Điêu, từ Tam động chủ ban phát, cũng sẽ không ảnh hưởng đến chúng ta thu thập Hỏa Phác Ngọc.\"",
-      "dich": "\"Mộc Ly sư đệ không cần lo lắng, nhiệm vụ mà ta nói không phải cái gì khác, mà chính là chuyện chăm sóc con chồn lửa này, đây là nhiệm vụ do Tam động chủ ban bố, sẽ không ảnh hưởng đến việc chúng ta thu thập Hỏa Phác ngọc.\"",
-      "suggest": "\"Mộc Ly sư đệ không cần phải lo lắng, nhiệm vụ của ta không phải khác, chính là chăm sóc Hỏa Điêu do tam động chủ ban phát, sẽ không ảnh hưởng đến việc chúng ta thu thập Hỏa Phác Ngọc.\"",
-      "similarity": [
-        [
-          39,
-          0.44
-        ]
-      ]
+      "dich": "\"Mộc Ly sư đệ không cần lo lắng, nhiệm vụ mà ta nói không phải cái gì khác, mà chính là chuyện chăm sóc con chồn lửa này, đây là nhiệm vụ do Tam động chủ ban bố, sẽ không ảnh hưởng đến việc chúng ta thu thập Hỏa Phác Ngọc.\"",
+      "suggest": "\"Mộc Ly sư đệ không cần lo lắng, nhiệm vụ ta nói không phải khác, chính là chăm sóc Hỏa Điêu này, do Tam động chủ ban phát cũng sẽ không ảnh hưởng đến việc chúng ta thu thập Hỏa Phác Ngọc.\""
     },
     {
       "convert": "Lam Kha nói.",
       "dich": "Lam Kha giải thích.",
-      "suggest": "Lam Kha nói.",
-      "similarity": [
-        [
-          17,
-          0.32
-        ],
-        [
-          40,
-          0.24
-        ],
-        [
-          52,
-          0.11
-        ]
-      ]
+      "suggest": "Lam Kha nói."
     },
     {
       "convert": "\"Chăm sóc Hỏa Điêu?",
       "dich": "\"Chăm sóc chồn lửa?",
-      "suggest": "\"Chăm sóc Hỏa Điêu?",
-      "similarity": [
-        [
-          41,
-          0.32
-        ]
-      ]
+      "suggest": "\"Chăm sóc Hỏa Điêu?"
     },
     {
       "convert": "Vẫn còn bực này nhiệm vụ?\"",
       "dich": "Còn có loại nhiệm vụ này sao?\"",
-      "suggest": "Vẫn còn nhiệm vụ nào khác?\"",
-      "similarity": [
-        [
-          42,
-          0.13
-        ]
-      ]
+      "suggest": "Vẫn còn nhiệm vụ như thế này sao?\""
     },
     {
       "convert": "Viên Minh mắt lộ ra kinh ngạc.",
       "dich": "Viên Minh mắt lộ vẻ kinh ngạc.",
-      "suggest": "Mắt Viên Minh lộ vẻ kinh ngạc.",
-      "similarity": [
-        [
-          9,
-          0.11
-        ],
-        [
-          15,
-          0.19
-        ],
-        [
-          19,
-          0.11
-        ],
-        [
-          43,
-          0.59
-        ],
-        [
-          52,
-          0.13
-        ],
-        [
-          85,
-          0.12
-        ]
-      ]
+      "suggest": "Viên Minh lộ vẻ kinh ngạc."
     },
     {
       "convert": "Chiếu khán một con Linh thú mà thôi, còn cần ban bố nhiệm vụ?",
       "dich": "Trông coi một con linh thú thôi mà cũng phải ban bố nhiệm vụ?",
-      "suggest": "Chỉ chiếu khán một con Linh thú thôi sao, còn cần ban bố nhiệm vụ?",
-      "similarity": [
-        [
-          44,
-          0.28
-        ],
-        [
-          49,
-          0.13
-        ]
-      ]
+      "suggest": "Chiếu khán một con Linh thú mà thôi, còn cần ban bố nhiệm vụ?"
     },
     {
       "convert": "Như Hỏa Điêu thực tế tinh nghịch, giam lại chính là.",
       "dich": "Nếu chồn lửa thực sự quậy phá, giam lại không phải là xong sao?",
-      "suggest": "Nếu Hỏa Điêu thực sự hung hăng bắt lấy thì hắn chính là bị bắt lại.",
-      "similarity": []
+      "suggest": "Nếu như Hỏa Điêu thực sự tinh nghịch, giam lỏng hắn lại chính là một tên khốn."
     },
     {
       "convert": "\"Viên sư đệ ngươi không hiểu ngự thú, không rõ ràng ở trong đó môn đạo.",
       "dich": "\"Viên sư đệ ngươi không biết ngự thú, không rõ môn đạo trong đó.",
-      "suggest": "\"Viên sư đệ ngươi không hiểu rõ về ngự thú, không rõ ràng về môn đạo trong đó.",
-      "similarity": [
-        [
-          46,
-          0.56
-        ]
-      ]
+      "suggest": "\"Viên sư đệ ngươi không hiểu ngự thú, không rõ tông môn ở trong đó."
     },
     {
       "convert": "Linh thú bồi dưỡng có thể cũng không phải là chỉ là ăn ngon uống ngon là được, càng phải cẩn thận chiếu cố tâm tình của bọn nó, dẫn dắt tính tình của bọn nó, đầu này Hỏa Điêu vẫn ở tại trẻ nhỏ kỳ, chính là hoạt bát hiếu động thời điểm, thời gian dài giam giữ sẽ ảnh hưởng nó trưởng thành, Tam động chủ ngày thường bận chuyện, không có thời gian, cho nên mới ban bố nhiệm vụ này.\"",
       "dich": "Nuôi dưỡng linh thú không phải cứ cho ăn ngon uống đủ là xong, còn phải cẩn thận để ý cảm xúc, uốn nắn tính tình của bọn nó.",
-      "suggest": "Bồi dưỡng Linh Thú cũng không phải chỉ ăn ngon uống tốt là được, càng phải chú ý giữ gìn tâm tình của bọn nó, dẫn dắt tính tình của bọn nó. Đầu Hỏa Điêu này vẫn ở trong lứa tuổi thơ ấu, chính vì vậy mà ba động chủ ngày thường bận việc, không có thời gian, cho nên mới ban bố nhiệm vụ này.\"",
-      "similarity": []
+      "suggest": "Linh thú bồi dưỡng cũng không phải chỉ ăn ngon mặc đẹp là được, càng phải chú ý tâm tình của bọn nó, dẫn dắt tính tình của bọn nó, đầu Hỏa Điêu này vẫn còn ở trong độ tuổi của trẻ nhỏ, chính là do thời gian dài giam giữ nó sẽ ảnh hưởng không tốt đến sự trưởng thành của bọn nó, Tam động chủ ngày thường bận chuyện, không có thời gian, cho nên mới ban bố nhiệm vụ này.\""
     },
     {
       "convert": "Lặc Cống nói.",
       "dich": "Con chồn này vẫn đang trong giai đoạn trẻ con, chính là thời kỳ hoạt bát hiếu động, giam cầm thời gian dài sẽ ảnh hưởng tới sự trưởng thành của nó.",
-      "suggest": "Lặc Cống nói.",
-      "similarity": [
-        [
-          17,
-          1
-        ],
-        [
-          34,
-          0.18
-        ],
-        [
-          40,
-          0.11
-        ],
-        [
-          50,
-          0.15
-        ],
-        [
-          52,
-          0.11
-        ],
-        [
-          54,
-          0.18
-        ]
-      ]
+      "suggest": "Lặc Cống nói."
     },
     {
       "convert": "\"Thì ra là thế, chỉ bất quá ta ở Hành Chấp Đường bên trong, tựa hồ không nhìn thấy nhiệm vụ này?\"",
       "dich": "Tam động chủ thường bận rộn không có thời gian nên mới ban bố nhiệm vụ này.\"",
-      "suggest": "\"Thì ra là thế, chỉ có điều trong Hành Chấp Đường ta lại không thấy nhiệm vụ này.\"",
-      "similarity": [
-        [
-          49,
-          0.18
-        ],
-        [
-          51,
-          0.26
-        ]
-      ]
+      "suggest": "\"Thì ra là thế, chỉ có điều trong Hành Chấp Đường ta không thấy nhiệm vụ này?\""
     },
     {
       "convert": "Viên Minh hỏi.",
       "dich": "Lặc Cống giải thích một tràng.",
-      "suggest": "Viên Minh hỏi.",
-      "similarity": [
-        [
-          9,
-          0.13
-        ],
-        [
-          17,
-          0.16
-        ],
-        [
-          19,
-          0.11
-        ],
-        [
-          37,
-          0.16
-        ],
-        [
-          40,
-          0.11
-        ],
-        [
-          43,
-          0.12
-        ],
-        [
-          52,
-          0.3
-        ],
-        [
-          85,
-          0.12
-        ]
-      ]
+      "suggest": "Viên Minh hỏi."
     },
     {
       "convert": "\"Hành Chấp Đường nhiều người phức tạp, Tam động chủ cũng không đem nhiệm vụ này trực tiếp tuyên bố xuất hiện, chỉ cùng chúng ta Ngự Thú Đường người lên tiếng chào, cho nên nhiệm vụ trên tấm bia đá không có biểu hiện.\"",
-      "dich": "\"Ra là vậy, có điều ta hình như không thấy nhiệm vụ này trong Hành Chấp đường?\"",
-      "suggest": "\"Hành Chấp Đường nhiều người phức tạp, tam động chủ cũng không trực tiếp tuyên bố nhiệm vụ này, chỉ cùng mọi người Ngự Thú Đường chúng ta lên tiếng chào, cho nên nhiệm vụ trên tấm bia đá không có hiện tượng giả.\"",
-      "similarity": [
-        [
-          53,
-          0.21
-        ]
-      ]
+      "dich": "\"Ra là vậy, có điều ta hình như không thấy nhiệm vụ này trong Hành Chấp Đường?\"",
+      "suggest": "\"Hành Chấp Đường nhiều người phức tạp, Tam động chủ cũng không trực tiếp tuyên bố nhiệm vụ này ra mắt, chỉ lên tiếng chào người Ngự Thú Đường chúng ta, cho nên nhiệm vụ trên tấm bia đá này không có biểu hiện gì khác.\""
     },
     {
       "convert": "Lặc Cống nói.",
       "dich": "Viên Minh lại hỏi.",
-      "suggest": "Lặc Cống nói.",
-      "similarity": [
-        [
-          17,
-          1
-        ],
-        [
-          34,
-          0.18
-        ],
-        [
-          40,
-          0.11
-        ],
-        [
-          50,
-          0.15
-        ],
-        [
-          52,
-          0.11
-        ],
-        [
-          54,
-          0.18
-        ]
-      ]
+      "suggest": "Lặc Cống nói."
     },
     {
       "convert": "Viên Minh ồ một tiếng, chính muốn nói gì, trong tay Hỏa Điêu đột nhiên bỗng nhiên thoáng giãy dụa, từ Viên Minh trong ngực nhảy ra ngoài, rơi trên mặt đất.",
-      "dich": "\"Hành Chấp đường nhiều người phức tạp, Tam động chủ vẫn chưa tuyên bố nhiệm vụ ra ngoài, chỉ dặn dò người Ngự Thú đường chúng ta nên trên bia đá nhiệm vụ mới không hiển thị.\"",
-      "suggest": "Viên Minh ồ một tiếng, hắn đang định nói gì đó, Hỏa Điêu trong tay đột nhiên giãy dụa một cái rồi nhảy từ trong ngực Viên Minh ra, rơi xuống mặt đất.",
-      "similarity": [
-        [
-          55,
-          0.34
-        ],
-        [
-          100,
-          0.1
-        ]
-      ]
+      "dich": "\"Hành Chấp Đường nhiều người phức tạp, Tam động chủ vẫn chưa tuyên bố nhiệm vụ ra ngoài, chỉ dặn dò người Ngự Thú Đường chúng ta nên trên bia đá nhiệm vụ mới không hiển thị.\"",
+      "suggest": "Viên Minh ồ lên, đang định nói gì đó nhưng Hỏa Điêu trong tay lại bất ngờ giãy dụa, nhảy từ trong ngực Viên Minh ra, rơi xuống đất."
     },
     {
       "convert": "Viên Minh giật mình, đang muốn đưa tay lại bắt, Hỏa Điêu nhưng không có đào tẩu, há miệng cắn Viên Minh quần áo, đem nó hướng nơi xa lôi kéo.",
       "dich": "Lặc Cống giải thích thêm.",
-      "suggest": "Viên Minh giật mình, đang định đưa tay lại bắt Hỏa Điêu, nhưng Hỏa Điêu không bỏ chạy, há miệng cắn quần áo Viên Minh rồi kéo nó đi.",
-      "similarity": [
-        [
-          56,
-          0.2
-        ]
-      ]
+      "suggest": "Viên Minh giật mình, toan đưa tay bắt lại thì Hỏa Điêu không hề trốn thoát, nó há miệng cắn quần áo Viên Minh, lôi hắn đi xa."
     },
     {
-      "convert": "\"Cạc cạc cạc!\"",
+      "convert": "\"Cạc cạc cạc!\" Lam Kha Kim Tình Điêu cũng phát ra tiếng kêu chói tai, hoảng sợ nhìn về phía núi lửa cự phong.",
       "dich": "Viên Minh ồ một tiếng, đang muốn nói gì đó thì con chồn lửa trong tay đột nhiên giãy dụa, từ ngực Viên Minh nhảy xuống dưới đất.",
-      "suggest": "\"Cạc cạc cạc!\"",
-      "similarity": [
-        [
-          57,
-          0.18
-        ],
-        [
-          96,
-          0.21
-        ]
-      ]
-    },
-    {
-      "convert": "Lam Kha Kim Tình Điêu cũng phát ra tiếng kêu chói tai, hoảng sợ nhìn về phía núi lửa cự phong.",
-      "dich": "Viên Minh giật mình toan đưa tay bắt lại, nhưng chồn lửa lại không chạy trốn mà há miệng cắn quần Viên Minh, lôi hắn về phía xa.",
-      "suggest": "Lam Kha cùng Điêu Thuyền phát ra tiếng kêu chói tai, hoảng sợ nhìn về phía ngọn núi khổng lồ.",
-      "similarity": [
-        [
-          58,
-          0.62
-        ]
-      ]
+      "suggest": "\"Cạc cạc!\" Kim Tình Điêu cũng kêu lên mấy tiếng chói tai, hoảng sợ nhìn về phía cự phong đang phun trào."
     },
     {
       "convert": "Mọi người tại đây đều là sững sờ.",
-      "dich": "\"Kéc kéc kéc!\"",
-      "suggest": "Mọi người đều sững sờ.",
-      "similarity": [
-        [
-          59,
-          0.22
-        ]
-      ]
+      "dich": "Viên Minh giật mình toan đưa tay bắt lại, nhưng chồn lửa lại không chạy trốn mà há miệng cắn quần Viên Minh, lôi hắn về phía xa.",
+      "suggest": "Mọi người ở đây đều sửng sốt."
     },
     {
       "convert": "Vào thời khắc này, dưới chân bọn hắn mặt đất đột nhiên kịch liệt lắc lư một cái, lấy mọi người tại đây thực lực, cũng suýt nữa ngã sấp xuống.",
-      "dich": "Kim Tình điêu của Lam Kha cũng phát ra tiếng kêu chói tai, hoảng sợ nhìn về phía ngọn núi lửa khổng lồ.",
-      "suggest": "Vào lúc này, mặt đất dưới chân bọn họ đột nhiên kịch liệt rung chuyển, với thực lực của mọi người ở đây cũng suýt chút nữa ngã sấp xuống.",
-      "similarity": [
-        [
-          60,
-          0.46
-        ]
-      ]
+      "dich": "\"Kéc kéc kéc!\" Kim Tình Điêu của Lam Kha cũng phát ra tiếng kêu chói tai, hoảng sợ nhìn về phía ngọn núi lửa khổng lồ.",
+      "suggest": "Vào thời khắc này, mặt đất dưới chân bọn họ đột nhiên rung lên kịch liệt, với thực lực của bọn họ tại đây cũng suýt nữa ngã xuống."
     },
     {
       "convert": "Không chờ bọn họ giữ vững thân thể, mặt đất lắc lư cái thứ hai, sau đó là cái thứ ba...",
       "dich": "Mọi người ở đây nhất thời sững sờ.",
-      "suggest": "Không chờ bọn họ giữ vững thân thể, mặt đất lắc lư lần nữa, tiếp đó là lần thứ ba...",
-      "similarity": [
-        [
-          61,
-          0.36
-        ]
-      ]
+      "suggest": "Không chờ bọn họ giữ vững thân thể, mặt đất đã lắc lư lần thứ hai, thứ ba..."
     },
     {
       "convert": "Viên Minh trên mặt thất sắc, đỡ lấy bên cạnh một tảng đá lớn, cái này mới miễn cưỡng ổn định thân hình.",
       "dich": "Đúng vào lúc này, mặt đất dưới chân bọn họ đột nhiên rung một cái mạnh tới mức lấy thực lực mấy người ở đây cũng suýt ngã xuống.",
-      "suggest": "Viên Minh thất sắc, đỡ lấy một tảng đá lớn bên cạnh, lúc này mới miễn cưỡng ổn định thân hình.",
-      "similarity": [
-        [
-          62,
-          0.51
-        ]
-      ]
+      "suggest": "Viên Minh mặt mũi thất sắc, đỡ một tảng đá lớn bên cạnh, lúc này mới miễn cưỡng ổn định thân hình."
     },
     {
       "convert": "Vào thời khắc này ù ù thanh âm từ lòng đất cuồn cuộn mà đến, giống như vô số cổn lôi oanh minh, mặt đất run rẩy kịch liệt, tựa hồ có một cỗ bái không thể cản cự lực đột nhiên bộc phát.",
       "dich": "Không đợi bọn họ ổn định thân thể, mặt đất rung chuyển lần thứ hai, tiếp đó là lần thứ ba ...",
-      "suggest": "Đúng lúc này những tiếng ù ù từ lòng đất cuồn cuộn tuôn ra, giống như vô số lôi phong oanh tạc, mặt đất run rẩy kịch liệt, tựa hồ có một cỗ áp lực không thể cản nổi đột nhiên bộc phát.",
-      "similarity": [
-        [
-          63,
-          0.23
-        ]
-      ]
+      "suggest": "Đúng lúc này, âm thanh ù ù từ lòng đất cuồn cuộn tuôn ra, giống như vô số đợt sóng cuồn cuộn, mặt đất rung lắc kịch liệt, tựa hồ có một cỗ lực lượng không thể cản nổi đột nhiên bộc phát."
     },
     {
       "convert": "Ở đây mấy người ở cỗ này cự lực trước mặt, giống như trong cuồng phong cây giống, căn bản bất lực phản kháng mảy may, thân thể trực tiếp bị ném bay ra ngoài.",
       "dich": "Viên Minh tái mặt, vội bám vào một tảng đá lớn bên cạnh mới miễn cưỡng ổn định thân hình.",
-      "suggest": "Mấy người ở đây thấy rõ ràng sức mạnh của cỗ lôi phong này, giống như cây cối trong cơn cuồng phong, căn bản không có khả năng phản kháng, thân thể trực tiếp bị ném văng ra ngoài.",
-      "similarity": [
-        [
-          64,
-          0.21
-        ]
-      ]
+      "suggest": "Mấy người ở đây dưới sự tấn công của cự lực này, giống như cây cối trong cơn cuồng phong, cơ bản không thể phản kháng chút nào, trực tiếp bị ném văng ra ngoài."
     },
     {
       "convert": "Ngay sau đó, \"Ầm ầm\" một tiếng vang thật lớn từ đằng xa truyền đến!",
       "dich": "Vào lúc này, tiếng ầm ầm từ dưới lòng đất dồn dập truyền đến, giống như vô số sấm sét nổ vang, mặt đất rung chuyển dữ dội, tựa như có cỗ cự lực không thể ngăn trở đột nhiên bộc phát.",
-      "suggest": "Ngay sau đó, \"Ầm ầm\", một tiếng nổ thật lớn truyền tới từ đằng xa!",
-      "similarity": [
-        [
-          65,
-          0.36
-        ]
-      ]
+      "suggest": "Ngay tiếp đó, một tiếng 'ầm ầm' thật lớn từ đằng xa truyền tới!"
     },
     {
       "convert": "Viên Minh miễn cưỡng ngẩng đầu, thần sắc lập tức đại biến.",
       "dich": "Mấy người ở đây đứng trước cỗ lực này chẳng khác gì cây con đứng trước giông bão, cơ bản không có hề có sức phản kháng, thân thể lập tức bị ném bay ra ngoài.",
-      "suggest": "Viên Minh miễn cưỡng ngẩng đầu, thần sắc lập tức đại biến.",
-      "similarity": [
-        [
-          66,
-          0.52
-        ]
-      ]
+      "suggest": "Viên Minh miễn cưỡng ngẩng đầu lên, thần sắc lập tức đại biến."
     },
     {
       "convert": "Chỉ gặp miệng núi lửa kịch liệt lắc lư, một đạo thô to vô cùng nham tương này trụ phun ra ngoài, vô số xích hồng nham tương dọc theo cự Phong Sơn thể trút xuống.",
       "dich": "Ngay sau đó, một tiếng \"Ầm ầm\" cực lớn từ đằng xa truyền đến!",
-      "suggest": "Chỉ thấy miệng núi lửa kịch liệt lắc lư, một trụ nham tương thô to phun ra ngoài, vô số lỗ chỗ lõm xuống từ trên đó.",
-      "similarity": [
-        [
-          67,
-          0.15
-        ]
-      ]
+      "suggest": "Chỉ thấy miệng núi lửa lắc lư kịch liệt, một cột nham tương cực lớn phun ra ngoài, vô số nham tương đỏ thẫm từ trong đó chảy xuống."
     },
     {
       "convert": "Mấy người vị trí, cũng có nham tương cuốn tới.",
       "dich": "Viên Minh cố gắng ngẩng đầu nhìn lên, thần sắc lập tức đại biến.",
-      "suggest": "Vị trí mấy người này, cũng có nham tương cuốn tới.",
-      "similarity": [
-        [
-          68,
-          0.18
-        ]
-      ]
+      "suggest": "Mấy người ở vị trí mấy người cũng có nham tương cuốn tới."
     },
     {
       "convert": "Viên Minh lập tức thôi động Phi Mao Thuật, hóa thành một con vượn trắng hình thái.",
       "dich": "Chỉ thấy miệng núi lửa chấn động kịch liệt, rồi một cột dung nham cực kỳ to lớn phun trào ra, vô số dung nham đỏ lửa dọc theo ngọn núi khổng lồ trút xuống.",
-      "suggest": "Viên Minh lập tức ngưng động Phi Mao Thuật, hóa thành một con vượn trắng hình dáng vượn trắng.",
-      "similarity": [
-        [
-          69,
-          0.26
-        ]
-      ]
+      "suggest": "Viên Minh lập tức thôi động Phi Mao Thuật, hóa thành hình thái một con vượn trắng."
     },
     {
       "convert": "Vượn trắng lực lớn thân chìm, so với người hình dạng trạng thái thì ổn định rất nhiều, hướng phía dưới núi lảo đảo nghiêng ngã chạy như điên.",
       "dich": "Chỗ mấy người cũng có dung nham cuốn tới.",
-      "suggest": "Thân chìm của con Vượn trắng lớn hơn nhiều so với hình dạng người bình thường, nghiêng ngả chạy như điên xuống núi.",
-      "similarity": [
-        [
-          70,
-          0.18
-        ]
-      ]
+      "suggest": "Thân chìm của con vượn trắng lớn hơn nhiều so với hình dạng người, ổn định hơn rất nhiều, lảo đảo nghiêng ngả chạy như điên xuống núi."
     },
     {
       "convert": "Lam Kha mấy người cũng vội vàng thi triển giương thủ đoạn, hướng nơi xa bỏ mạng mà chạy.",
-      "dich": "Viên Minh lập tức thôi động Phi Mao thuật, hóa thành hình thái vượn trắng.",
-      "suggest": "Mấy người Lam Kha cũng vội vàng thi triển thủ đoạn, liều lĩnh bỏ chạy.",
-      "similarity": [
-        [
-          71,
-          0.42
-        ]
-      ]
+      "dich": "Viên Minh lập tức thôi động Phi Mao Thuật, hóa thành hình thái vượn trắng.",
+      "suggest": "Mấy người Lam Kha cũng vội vàng thi triển thủ đoạn, bỏ mạng ở nơi xa."
     },
     {
       "convert": "Lúc này, mỗi người chỉ có thể lo lắng bản thân, căn bản không quản được người khác.",
       "dich": "Vượn trắng lực lớn thân nặng, trạng thái ổn định hơn nhiều so với lúc ở dạng người, lập tức lao người lồm cồm chạy như điên xuống phía dưới núi.",
-      "suggest": "Giờ phút này mỗi người chỉ có thể lo cho bản thân, không thể quản gì khác.",
-      "similarity": [
-        [
-          72,
-          0.39
-        ]
-      ]
+      "suggest": "Lúc này, mỗi người chỉ có thể lo cho bản thân, không thể quản được người khác."
     },
     {
       "convert": "Viên Minh lộn nhào hướng nơi xa bỏ chạy, không biết té ngã bao nhiêu lần, cuối cùng đến chân núi.",
       "dich": "Đám Lam Kha ai cũng vội vàng thi triển thủ đoạn, chạy trối chết về phía xa.",
-      "suggest": "Viên Minh nhào về phía xa chạy trốn, không biết đã ngã bao nhiêu lần mới tới được chân núi.",
-      "similarity": [
-        [
-          73,
-          0.2
-        ]
-      ]
+      "suggest": "Viên Minh lộn nhào bỏ chạy về phía xa xa, không biết đã té ngã bao nhiêu lần, cuối cùng tới chân núi."
     },
     {
       "convert": "Nếu không phải vượn trắng hình thái da dày thịt béo, sớm đã đụng đầu rơi máu chảy.",
       "dich": "Lúc này, mỗi người chỉ có thể lo cho bản thân mình, cơ bản không thể quan tâm người khác được.",
-      "suggest": "Nếu không phải da vượn trắng hình thái dày, chắc đã đụng phải đầu rơi máu chảy.",
-      "similarity": [
-        [
-          74,
-          0.12
-        ]
-      ]
+      "suggest": "Nếu không phải da vượn trắng có hình dạng dày chắc đã đụng đầu rơi máu chảy rồi."
     },
     {
       "convert": "Mặc dù có vượn da phòng hộ, hắn cũng bị té mặt mũi bầm dập, miệng mũi đổ máu, trong đầu càng là ông ông tác hưởng.",
       "dich": "Viên Minh liên tục lăn lộn chạy về phía xa xa, không biết té ngã bao nhiêu nhiều, cuối cùng cũng đến được chân núi.",
-      "suggest": "Mặc dù có da vượn phòng hộ, nhưng hắn cũng bị té ngã, miệng mũi chảy máu, trong đầu lại cộng hưởng theo.",
-      "similarity": [
-        [
-          75,
-          0.28
-        ]
-      ]
+      "suggest": "Mặc dù có tấm da vượn phòng hộ, nhưng hắn vẫn bị té, mặt mũi chảy máu, đầu óc quay cuồng theo ông ông."
     },
     {
       "convert": "Có thể bây giờ không phải là lúc nghỉ ngơi, lao nhanh nham tương đã đến phía sau hắn cách đó không xa, đem trên đường hết thảy đều hòa tan bao phủ.",
       "dich": "Nếu không phải hình thái vượn trắng da dày thịt béo thì hắn đã sớm ngã vỡ đầu chảy máu.",
-      "suggest": "Nhưng bây giờ không phải lúc nghỉ ngơi, tia nham tương đã đến phía sau hắn cách đó không xa, bao phủ tất cả mọi thứ trên đường.",
-      "similarity": [
-        [
-          76,
-          0.24
-        ]
-      ]
+      "suggest": "Nhưng bây giờ không phải lúc nghỉ ngơi, nham tương lao nhanh tới cách hắn không xa, bao phủ hết thảy mọi thứ trên đường."
     },
     {
-      "convert": "\"Chi chi chi...\"",
+      "convert": "\"Chi chi chi...\" Hỏa Điêu tiếng kêu từ tiền phương truyền đến, nhanh nhẹn hướng bên phải một tòa núi thấp chạy vội, căn bản không nhận lắc lư mặt đất ảnh hưởng.",
       "dich": "Dù có da vượn bảo vệ, hắn vẫn bị va đập cho mặt mày bầm dập, miệng mũi chảy máu, trong đầu còn ong ong choáng váng.",
-      "suggest": "\"Chi chi chi ...\"",
-      "similarity": [
-        [
-          20,
-          0.12
-        ]
-      ]
-    },
-    {
-      "convert": "Hỏa Điêu tiếng kêu từ tiền phương truyền đến, nhanh nhẹn hướng bên phải một tòa núi thấp chạy vội, căn bản không nhận lắc lư mặt đất ảnh hưởng.",
-      "dich": "Nhưng hiện tại không phải lúc nghỉ ngơi, bởi dung nham đã cuồn cuộn chảy tới chỗ cách không xa sau lưng hắn, hòa tan mọi thứ trên đường đi của nó.",
-      "suggest": "Tiếng gào rú từ tiền phương truyền tới, nhanh chóng chạy về phía một ngọn núi thấp bên phải, cơ bản không chịu ảnh hưởng bởi lực lắc lư của mặt đất.",
-      "similarity": [
-        [
-          77,
-          0.25
-        ]
-      ]
+      "suggest": "\"Chi chi chi ...\" Hỏa Điêu gào lên từ phía trước, nhanh nhẹn chạy về phía một ngọn núi thấp bên phải, cơ bản không chịu ảnh hưởng từ việc lắc lư mặt đất."
     },
     {
       "convert": "Viên Minh nhãn tình sáng lên, cũng lập tức hướng nơi đó bỏ chạy, rất nhanh tới núi thấp phía dưới.",
-      "dich": "\"Chi chi chi ...\" Tiếng chồn lửa kêu từ phía trước truyền đến, nhìn lại thấy nó đang vội vàng chạy về phía một ngọn núi thấp, cơ bản không bị mặt đất lắc lư ảnh hưởng.",
-      "suggest": "Ánh mắt Viên Minh sáng lên, lập tức bỏ chạy về phía đó, rất nhanh đã tới phía dưới.",
-      "similarity": [
-        [
-          78,
-          0.25
-        ],
-        [
-          103,
-          0.1
-        ]
-      ]
+      "dich": "Nhưng hiện tại không phải lúc nghỉ ngơi, bởi dung nham đã cuồn cuộn chảy tới chỗ cách không xa sau lưng hắn, hòa tan mọi thứ trên đường đi của nó.",
+      "suggest": "Viên Minh sáng mắt lên, lập tức bỏ chạy về phía đó, rất nhanh đã tới phía dưới ngọn núi thấp."
     },
     {
       "convert": "Hắn thôi động vượn trắng da thú, mười ngón mọc ra sắc bén vượn trảo, tuỳ tiện đâm vào núi đá bên trong, hướng núi thấp đỉnh chóp nhanh chóng leo lên.",
-      "dich": "Viên Minh mắt sáng lên, cũng lập tức chạy về phía đó, chỉ sau thoáng chốc đã tới chân ngọn núi thấp.",
-      "suggest": "Hắn điều khiển con vượn trắng da thú, mười ngón tay mọc ra trảo sắc bén, tùy tiện đâm vào đỉnh núi rồi nhanh chóng leo lên.",
-      "similarity": [
-        [
-          79,
-          0.18
-        ]
-      ]
+      "dich": "\"Chi chi chi ...\" Tiếng chồn lửa kêu từ phía trước truyền đến, nhìn lại thấy nó đang vội vàng chạy về phía một ngọn núi thấp, cơ bản không bị mặt đất lắc lư ảnh hưởng.",
+      "suggest": "Hắn thôi động da vượn trắng, mười ngón tay mọc ra móng vuốt sắc bén, tùy tiện đâm vào trong núi đá, leo lên đỉnh núi thấp."
     },
     {
       "convert": "Cuồn cuộn nham tương lao nhanh chảy xuôi, bay thẳng đến dưới núi vài dặm, mới chậm rãi dừng lại, hết thảy tất cả đều bị xích hồng nham tương nuốt hết.",
-      "dich": "Hắn thôi động tấm da vượn trắng, tức thì mười ngón mọc ra móng tay sắc bén, dễ dàng đâm vào trong núi đá, rồi nhanh chóng leo lên đỉnh ngọn núi thấp.",
-      "suggest": "Dòng nham tương cuồn cuộn chảy xuôi, đến khi cách mặt núi vài dặm mới chậm rãi dừng lại, toàn bộ nham tương đều bị nham tương đỏ nuốt hết.",
-      "similarity": []
+      "dich": "Viên Minh mắt sáng lên, cũng lập tức chạy về phía đó, chỉ sau thoáng chốc đã tới chân ngọn núi thấp.",
+      "suggest": "Nham tương cuồn cuộn chảy cuồn cuộn, bay thẳng xuống núi vài dặm mới chậm rãi dừng lại, toàn bộ đều bị nham tương đỏ thẫm nuốt hết."
     },
     {
       "convert": "Núi lửa phun trào đưa tới động cũng dần dần lắng lại, mặt đất chậm rãi khôi phục lại bình tĩnh.",
-      "dich": "Dung nham cuồn cuộn cuốn qua, chảy thẳng tới chỗ cách chân núi mấy dặm mới từ từ dừng lại, mọi thứ nơi dung nham chảy qua đều bị nó nuốt chửng.",
-      "suggest": "Ngọn núi lửa phun trào đưa tới động cũng dần lắng xuống, mặt đất chậm rãi khôi phục lại trạng thái bình tĩnh.",
-      "similarity": [
-        [
-          81,
-          0.42
-        ]
-      ]
+      "dich": "Hắn thôi động tấm da vượn trắng, tức thì mười ngón mọc ra móng tay sắc bén, dễ dàng đâm vào trong núi đá, rồi nhanh chóng leo lên đỉnh ngọn núi thấp.",
+      "suggest": "Ngọn lửa phun trào kéo theo sự tĩnh lặng trên mặt đất cũng dần lắng xuống, mặt đất cũng từ từ khôi phục lại vẻ tĩnh lặng."
     },
     {
       "convert": "Viên Minh lúc này đã leo đến núi thấp đỉnh núi, giải trừ Phi Mao Thuật biến thân, ngã chổng vó nằm xuống, lòng vẫn còn sợ hãi miệng lớn thở dốc.",
-      "dich": "Địa chấn do núi lửa phun trào cũng dần dần lắng lại, mặt đất chậm rãi khôi phục lại vẻ tĩnh lặng.",
-      "suggest": "Viên Minh lúc này đã leo tới đỉnh núi thấp, giải trừ biến thân bằng thuật Phi Mao, nằm chổng vó trên mặt đất, trong lòng vẫn còn sợ hãi tiếng hô hấp của miệng lớn thở dốc.",
-      "similarity": [
-        [
-          82,
-          0.32
-        ]
-      ]
+      "dich": "Dung nham cuồn cuộn cuốn qua, chảy thẳng tới chỗ cách chân núi mấy dặm mới từ từ dừng lại, mọi thứ nơi dung nham chảy qua đều bị nó nuốt chửng.",
+      "suggest": "Viên Minh lúc này đã leo tới đỉnh núi thấp, giải trừ Phi Mao Thuật biến thân, ngã chổng vó nằm xuống, trong lòng vẫn còn sợ hãi, miệng lớn thở dốc."
     },
     {
       "convert": "Hỏa Điêu nằm sấp ở bên cạnh hắn, lộ ra có chút yên tĩnh.",
-      "dich": "Viên Minh lúc này đã leo gần tới đỉnh ngọn núi thấp, hắn giải trừ biến thân Phi Mao thuật rồi ngã ngửa ra đất, miệng thở hổn hển, lòng vẫn còn sợ hãi.",
-      "suggest": "Hỏa Điêu nằm sấp bên cạnh hắn, lộ ra vẻ yên tĩnh.",
-      "similarity": [
-        [
-          83,
-          0.4
-        ]
-      ]
+      "dich": "Địa chấn do núi lửa phun trào cũng dần dần lắng lại, mặt đất chậm rãi khôi phục lại vẻ tĩnh lặng.",
+      "suggest": "Hỏa Điêu nằm sấp bên cạnh gã, lộ vẻ khá yên tĩnh."
     },
     {
       "convert": "\"Hỏa Sàm Nhi, lần này đa tạ ngươi.\"",
-      "dich": "Chồn lửa nằm sấp bên cạnh hắn, trông khá bình tĩnh.",
-      "suggest": "\"Hỏa Sàm Nhi, lần này đa tạ ngươi.\"",
-      "similarity": [
-        [
-          84,
-          1
-        ]
-      ]
+      "dich": "Viên Minh lúc này đã leo gần tới đỉnh ngọn núi thấp, hắn giải trừ biến thân Phi Mao Thuật rồi ngã ngửa ra đất, miệng thở hổn hển, lòng vẫn còn sợ hãi.",
+      "suggest": "\"Hỏa Sàm Nhi, lần này đa tạ ngươi.\""
     },
     {
       "convert": "Viên Minh khẽ vuốt Hỏa Điêu đầu.",
-      "dich": "\"Hỏa Sàm Nhi, lần này đa tạ ngươi.\"",
-      "suggest": "Viên Minh khẽ vuốt ve Hỏa Điêu.",
-      "similarity": [
-        [
-          9,
-          0.11
-        ],
-        [
-          19,
-          0.11
-        ],
-        [
-          43,
-          0.12
-        ],
-        [
-          52,
-          0.13
-        ],
-        [
-          85,
-          0.37
-        ]
-      ]
+      "dich": "Chồn lửa nằm sấp bên cạnh hắn, trông khá bình tĩnh.",
+      "suggest": "Viên Minh khẽ vuốt đầu Hỏa Điêu."
     },
     {
       "convert": "Vừa mới nếu không phải Hỏa Điêu nhắc nhở, kịp thời chạy tới toà này trên ngọn núi thấp tránh nạn, hiện tại tám thành đã bị nham tương nuốt hết, hài cốt không còn.",
-      "dich": "Viên Minh khẽ vuốt đầu chồn lửa.",
-      "suggest": "Vừa mới rồi không được Hỏa Điêu nhắc nhở, hắn kịp thời chạy tới ngọn núi thấp nhất tránh nạn. Hiện giờ tám thành của tám thành đã bị nham tương nuốt mất, hài cốt không còn.",
-      "similarity": [
-        [
-          86,
-          0.25
-        ]
-      ]
+      "dich": "\"Hỏa Sàm Nhi, lần này đa tạ ngươi.\"",
+      "suggest": "Vừa mới rồi không được Hỏa Điêu nhắc nhở, đã kịp chạy tới ngọn núi thấp này tránh nạn, hiện giờ tám thành đã bị nham tương nuốt sạch, hài cốt không còn."
     },
     {
       "convert": "Hắn nhắm mắt nghỉ ngơi một lát, đứng dậy nhìn về phía chung quanh, tìm kiếm những người khác tung tích.",
-      "dich": "Vừa mới đây nếu không có chồn lửa nhắc nhở để hắn kịp thời chạy tới ngọn núi thấp này lánh nạn thì hiện tại có tới tám phần đã bị dung nham nuốt chửng, xương cốt cũng không còn.",
-      "suggest": "Hắn nhắm mắt nghỉ ngơi một lát, sau đó đứng dậy nhìn xung quanh, tìm kiếm tung tích của những người khác.",
-      "similarity": [
-        [
-          87,
-          0.67
-        ]
-      ]
+      "dich": "Viên Minh khẽ vuốt đầu chồn lửa.",
+      "suggest": "Hắn nhắm mắt nghỉ ngơi một lát, xong đứng dậy nhìn xung quanh, tìm kiếm tung tích những người khác."
     },
     {
       "convert": "Lam Kha, Mộc Ly bọn người có linh thú phi hành, chỉ cần có thể kịp thời triệu hoán, bay lên giữa không trung, hẳn là có thể chạy ra thăng thiên.",
-      "dich": "Hắn nhắm mắt nghỉ ngơi một lát, xong đứng dậy đưa mắt nhìn xung quanh, tìm kiếm tung tích những người khác.",
-      "suggest": "Đám người Lam Kha, Mộc Ly đều có Linh thú phi hành, chỉ cần có thể kịp thời triệu hoán lên không trung, hẳn là có thể bay lên trời rồi chạy trốn.",
-      "similarity": [
-        [
-          88,
-          0.48
-        ]
-      ]
+      "dich": "Vừa mới đây nếu không có chồn lửa nhắc nhở để hắn kịp thời chạy tới ngọn núi thấp này lánh nạn thì hiện tại có tới tám phần đã bị dung nham nuốt chửng, xương cốt cũng không còn.",
+      "suggest": "Đám người Lam Kha, Mộc Ly có linh thú phi hành, chỉ cần có thể kịp thời triệu hoán, bay lên không trung là có thể chạy thoát."
     },
     {
       "convert": "Cái kia Lặc Cống tựa hồ không có linh thú phi hành, không biết có hay không trốn tới.",
-      "dich": "Đám Lam Kha, Mộc Ly có linh thú phi hành, chỉ cần có thể kịp thời triệu hoán, bay lên không trung thì hẳn có thể chạy thoát.",
-      "suggest": "Lặc Cống kia tựa hồ không có linh thú phi hành, không biết có trốn tới hay không?",
-      "similarity": [
-        [
-          88,
-          0.15
-        ],
-        [
-          89,
-          0.54
-        ]
-      ]
+      "dich": "Hắn nhắm mắt nghỉ ngơi một lát, xong đứng dậy đưa mắt nhìn xung quanh, tìm kiếm tung tích những người khác.",
+      "suggest": "Lặc Cống kia tựa như không có linh thú phi hành, không biết có trốn thoát hay không?"
     },
     {
       "convert": "Chung quanh khắp nơi đều là xích hồng dung nham, đừng nói người, chim chóc đều không có một con.",
-      "dich": "Lặc Cống kia hình như không có linh thú phi hành, không biết có chạy thoát được không.",
-      "suggest": "Khắp nơi đều là dung nham màu đỏ, đừng nói là súc vật, chim chóc cũng không có một con.",
-      "similarity": [
-        [
-          90,
-          0.35
-        ]
-      ]
+      "dich": "Đám Lam Kha, Mộc Ly có linh thú phi hành, chỉ cần có thể kịp thời triệu hoán, bay lên không trung thì hẳn có thể chạy thoát.",
+      "suggest": "Xung quanh đều là dung nham màu đỏ thẫm, đừng nói là người, chim chóc cũng không có một con."
     },
     {
       "convert": "Viên Minh lắc đầu, xem xét núi thấp tình huống chung quanh.",
-      "dich": "Khắp nơi xung quanh đều là dung nham đỏ lửa, đừng nói người, chim chóc cũng không thấy con nào.",
-      "suggest": "Viên Minh lắc đầu, quan sát tình hình xung quanh.",
-      "similarity": [
-        [
-          91,
-          0.33
-        ]
-      ]
+      "dich": "Lặc Cống kia hình như không có linh thú phi hành, không biết có chạy thoát được không.",
+      "suggest": "Viên Minh lắc đầu, quan sát tình hình xung quanh ngọn núi."
     },
     {
       "convert": "Nơi này ba mặt đã bị nham tương bao trùm, cũng may hậu phương vẫn còn một phiến khu vực không có dung nham, lưu lại một cái thông đạo.",
-      "dich": "Viên Minh lắc đầu, xem xét tình hình quanh ngọn núi thấp.",
-      "suggest": "Ba mặt nơi này đã bị nham tương bao trùm, cũng may hậu phương vẫn còn một khu vực không có dung nham, còn lưu lại một thông đạo dẫn tới nơi này.",
-      "similarity": [
-        [
-          92,
-          0.32
-        ]
-      ]
+      "dich": "Khắp nơi xung quanh đều là dung nham đỏ lửa, đừng nói người, chim chóc cũng không thấy con nào.",
+      "suggest": "Nơi này ba mặt đã bị nham tương bao phủ, cũng may phía sau vẫn còn một khu vực không có dung nham, để lại một thông đạo."
     },
     {
       "convert": "Viên Minh suy nghĩ một chút, ôm lấy Hỏa Điêu, hướng nơi đó đi tới.",
+      "dich": "Viên Minh lắc đầu, xem xét tình hình quanh ngọn núi thấp.",
+      "suggest": "Viên Minh suy nghĩ một chút rồi ôm Hỏa Điêu, đi tới đó."
+    },
+    {
+      "convert": "\"Chi chi chi...\" Dọc đường nơi nào đó, Hỏa Điêu đột nhiên hưng phấn hét rầm lên, con mắt gắt gao nhìn chằm chằm cách đó không xa một mảnh nham tương, ánh mắt bên trong lộ ra khát vọng.",
       "dich": "Nơi này ba mặt đã bị dung nham bao trùm, cũng mau phía sau còn có một khu vực không có dung nham, lưu lại một lối đi.",
-      "suggest": "Viên Minh suy nghĩ một chút, sau đó ôm lấy Hỏa Điêu, đi về phía đó.",
-      "similarity": [
-        [
-          93,
-          0.32
-        ]
-      ]
-    },
-    {
-      "convert": "\"Chi chi chi...\"",
-      "dich": "Viên Minh suy nghĩ một chút rồi ôm lấy chồn lửa, cất bước đi tới nơi đó.",
-      "suggest": "\"Chi chi chi ...\"",
-      "similarity": [
-        [
-          20,
-          0.12
-        ]
-      ]
-    },
-    {
-      "convert": "Dọc đường nơi nào đó, Hỏa Điêu đột nhiên hưng phấn hét rầm lên, con mắt gắt gao nhìn chằm chằm cách đó không xa một mảnh nham tương, ánh mắt bên trong lộ ra khát vọng.",
-      "dich": "\"Chi chi chi ...\" Dọc đường đi, chồn lửa đột nhiên hưng phấn kêu ầm lên, con mắt gắt gao nhìn chằm chằm vào một mảnh dung nham cách đó không xa, trong mắt lộ vẻ khao khát.",
-      "suggest": "Dọc đường, Hỏa Điêu đột nhiên hưng phấn hét rầm lên, hai mắt gắt gao nhìn chằm chằm vào một mảnh nham tương cách đó không xa, trong mắt lộ ra khát vọng cháy bỏng.",
-      "similarity": [
-        [
-          94,
-          0.43
-        ]
-      ]
+      "suggest": "\"Chi chi chi ...\" Dọc đường, Hỏa Điêu đột nhiên hưng phấn hét lớn, đưa mắt gắt gao nhìn chằm chằm vào một mảng nham tương cách đó không xa, ánh mắt lộ ra khát vọng."
     },
     {
       "convert": "Viên Minh dừng bước lại, nhìn về phía Hỏa Điêu ánh mắt chỗ rơi chỗ.",
-      "dich": "Viên Minh dừng bước lại, nhìn tới chỗ mà chồn lửa đang đặt ánh mắt lên.",
-      "suggest": "Viên Minh dừng bước, nhìn về phía Hỏa Điêu.",
-      "similarity": [
-        [
-          95,
-          0.17
-        ]
-      ]
+      "dich": "Viên Minh suy nghĩ một chút rồi ôm lấy chồn lửa, cất bước đi tới nơi đó.",
+      "suggest": "Viên Minh dừng bước lại, nhìn về phía Hỏa Điêu, ánh mắt rơi lệ."
     },
     {
-      "convert": "\"Ồ!\"",
-      "dich": "\"Ồ!\"",
-      "suggest": "\"Ồ!\"",
-      "similarity": [
-        [
-          57,
-          0.18
-        ],
-        [
-          96,
-          1
-        ]
-      ]
-    },
-    {
-      "convert": "Hắn nhíu mày lại, bấm niệm pháp quyết điểm ra.",
-      "dich": "Hắn nhíu mày, bấm niệm pháp quyết điểm tới.",
-      "suggest": "Hắn nhíu mày, bấm niệm pháp quyết.",
-      "similarity": [
-        [
-          37,
-          0.11
-        ],
-        [
-          97,
-          0.7
-        ]
-      ]
+      "convert": "\"Ồ!\" Hắn nhíu mày lại, bấm niệm pháp quyết điểm ra.",
+      "dich": "\"Chi chi chi ...\" Dọc đường đi, chồn lửa đột nhiên hưng phấn kêu ầm lên, con mắt gắt gao nhìn chằm chằm vào một mảnh dung nham cách đó không xa, trong mắt lộ vẻ khao khát.",
+      "suggest": "\"Ồ!\" Hắn nhíu mày, bấm niệm pháp quyết."
     },
     {
       "convert": "Nham tương khu vực mặt đất ầm ầm một vang, một cái thô to gai gỗ một bốc lên mà ra, đã bị thiêu đến cháy đen.",
-      "dich": "Nền đất khu vực dung nham nổ ầm một tiếng, theo đó một cây gai gỗ thô to đã bị đốt cháy đen nhô ra.",
-      "suggest": "Mặt đất nham tương nổ vang lên, một cái gai gỗ thô to bốc lên, lập tức bị đốt cháy thành than.",
-      "similarity": [
-        [
-          98,
-          0.15
-        ]
-      ]
+      "dich": "Viên Minh dừng bước lại, nhìn tới chỗ mà chồn lửa đang đặt ánh mắt lên.",
+      "suggest": "Mặt đất nham tương ầm ầm rung lên, một cái gai gỗ thô to bốc lên, đã bị đốt đen sì."
     },
     {
       "convert": "Gai gỗ bên trong ngoan cường lộ ra đạo đạo lục quang, chống cự lấy nham tương thiêu đốt, đột nhiên uốn lượn hướng ra phía ngoài hất lên, giống như đại thủ hắt nước.",
-      "dich": "Bên trong cây gai gỗ kiên cường tỏa ra những tia sáng màu lục, chống lại sự thiêu đốt của dung nham, rồi đột nhiên uốn cong hất ra ngoài, giống một bàn tay lớn hắt nước.",
-      "suggest": "Bên trong gai gỗ ngoan cường lộ ra ánh sáng màu xanh lục, chống cự lại sự thiêu đốt của nham tương, đột nhiên uốn lượn hướng ra ngoài hất mạnh một phát, giống như đại thủ hắt nước.",
-      "similarity": [
-        [
-          99,
-          0.21
-        ]
-      ]
+      "dich": "\"Ồ!\" Hắn nhíu mày, bấm niệm pháp quyết điểm tới.",
+      "suggest": "Trong gai gỗ ngoan cường lộ ra ánh sáng xanh lục, chống cự lại sự thiêu đốt của nham tương, đột nhiên uốn lượn hướng ra ngoài, giống như một cây đại thủ hắt nước."
     },
     {
       "convert": "\"Soạt\" một tiếng, một mảnh nham tương bị gai gỗ vung bay ra, rơi vào Viên Minh trước người cách đó không xa.",
-      "dich": "\"Rào\" một tiếng, một mảng dung nham bị gai gỗ hất tung ra, rơi xuống chỗ không xa trước người Viên Minh.",
-      "suggest": "\"Rầm\" một tiếng, một mảnh nham tương bị gai gỗ vung lên, rơi vào trước người Viên Minh cách đó không xa.",
-      "similarity": [
-        [
-          100,
-          0.31
-        ]
-      ]
+      "dich": "Nền đất khu vực dung nham nổ ầm một tiếng, theo đó một cây gai gỗ thô to đã bị đốt cháy đen nhô ra.",
+      "suggest": "\"Soạt!\" Một mảnh nham tương bị gai gỗ vung lên, rơi thẳng về phía Viên Minh cách đó không xa."
     },
     {
       "convert": "Một cái hình sợi dài đồ vật từ trong nham tương lăn ra, lại là một khối hỏa hồng sắc vật thể, chừng dài một thước, hiện ra uốn lượn hình, tựa như là cái nào đó dị thú loan giác.",
-      "dich": "Một thứ hình sợi dài từ dung nham lăn ra, nhìn kỹ thì là vật thể màu đỏ lửa, dài khoảng một thước, hình dạng hơi cong, trông giống như sừng của một con dị thú nào đó.",
-      "suggest": "Một vật thể hình sợi dài từ trong nham tương lăn ra, lại là một khối đá màu đỏ sẫm dài chừng một thước, hiện ra uốn lượn giống như một con báo gấm nào đó.",
-      "similarity": [
-        [
-          101,
-          0.15
-        ]
-      ]
+      "dich": "Bên trong cây gai gỗ kiên cường tỏa ra những tia sáng màu lục, chống lại sự thiêu đốt của dung nham, rồi đột nhiên uốn cong hất ra ngoài, giống một bàn tay lớn hắt nước.",
+      "suggest": "Một vật hình sợi dài từ trong nham tương lăn ra, hóa thành một khối nham tương màu đỏ lửa dài một thước, uốn lượn hình dáng như một cái sừng của dị thú nào đó."
     },
     {
       "convert": "Loan giác toàn thân lóng lánh hồng quang, giống như có hỏa diễm ở phía trên thiêu đốt.",
-      "dich": "Cả cái sừng tỏa ánh sáng đỏ lấp lánh, giống như trên mặt có lửa nóng thiêu đốt.",
-      "suggest": "Ánh sáng trắng khắp người lóng lánh hồng quang, giống như có ngọn lửa đang thiêu đốt phía trên vậy.",
-      "similarity": []
+      "dich": "\"Rào\" một tiếng, một mảng dung nham bị gai gỗ hất tung ra, rơi xuống chỗ không xa trước người Viên Minh.",
+      "suggest": "Toàn thân Loan Giác tỏa ánh sáng đỏ rực, giống như có ngọn lửa thiêu đốt phía trên vậy."
     },
     {
       "convert": "Viên Minh nhãn tình sáng lên, căn này hỏa hồng độc giác mặc dù không có tản mát ra nhiều ít linh lực ba động, nhưng chỉ nhìn một cách đơn thuần cái này ngoại hình liền không thể coi thường, xa không phải Hỏa Phác Ngọc có thể so sánh, hẳn là một kiện phẩm giai không thấp linh tài.",
-      "dich": "Ánh mắt Viên Minh sáng lên, cái sừng đỏ lửa này dù không có tỏa ra bao nhiêu linh lực chấn động, nhưng chỉ nhìn bề ngoài thôi cũng đã không thể xem thường, Hỏa Phác ngọc còn xa mới có thể so sánh, hẳn là một kiện linh tài phẩm cấp không thấp.",
-      "suggest": "Ánh mắt Viên Minh sáng lên, căn Hỏa Hồng Độc Giác này mặc dù không có tản mát ra nhiều Linh lực ba động, nhưng chỉ nhìn ngoại hình đơn thuần thì không thể coi thường, hơn nữa ngoại hình của nó còn không thấp hơn Hỏa Phác Ngọc, hẳn là một kiện Linh tài phẩm giai không thấp.",
-      "similarity": [
-        [
-          103,
-          0.27
-        ]
-      ]
+      "dich": "Một thứ hình sợi dài từ dung nham lăn ra, nhìn kỹ thì là vật thể màu đỏ lửa, dài khoảng một thước, hình dạng hơi cong, trông giống như sừng của một con dị thú nào đó.",
+      "suggest": "Viên Minh sáng mắt lên, con Hỏa hồng độc giác này mặc dù không tỏa ra nhiều linh lực như Hỏa Phác Ngọc, nhưng chỉ nhìn một cách đơn thuần thì không thể coi thường, nếu không phải Hỏa Phác Ngọc thì không thể nào so sánh được, hẳn là một kiện Linh tài phẩm giai không thấp."
     },
     {
       "convert": "Hỏa Điêu trước đó như phát điên phóng tới nham tương, hẳn là chính là vì vật này?",
-      "dich": "Chồn lửa trước đó như phát điên lao đến dung nham, hẳn chính là vì thứ này?",
-      "suggest": "Hỏa Điêu lúc trước như phát điên phóng tới nham tương, chẳng lẽ là vì vật này ư?",
-      "similarity": [
-        [
-          104,
-          0.11
-        ]
-      ]
+      "dich": "Cả cái sừng tỏa ánh sáng đỏ lấp lánh, giống như trên mặt có lửa nóng thiêu đốt.",
+      "suggest": "Hỏa Điêu trước đó như phát điên phóng tới nham tương, hẳn là vì thứ này?"
     },
     {
       "convert": "Hỏa Điêu reo hò một tiếng, hóa thành một đạo tàn ảnh bổ nhào qua, cắn một cái vào hỏa hồng độc giác, xem ra đúng là muốn đem hắn nuốt mất.",
-      "dich": "Chồn lửa hò reo một tiếng, xong lập tức hóa thành một dải bóng mờ nhào qua, cắn vào cái sừng đỏ lửa, trông bộ dáng y như muốn nuốt chửng nó.",
-      "suggest": "Hỏa Điêu reo hò một tiếng, hóa thành một cái bóng mờ màu xám xịt bổ nhào qua, cắn một cái vào độc giác đỏ hồng, xem ra đúng là muốn nuốt hắn mất.",
-      "similarity": [
-        [
-          105,
-          0.14
-        ]
-      ]
+      "dich": "Ánh mắt Viên Minh sáng lên, cái sừng đỏ lửa này dù không có tỏa ra bao nhiêu linh lực chấn động, nhưng chỉ nhìn bề ngoài thôi cũng đã không thể xem thường, Hỏa Phác Ngọc còn xa mới có thể so sánh, hẳn là một kiện linh tài phẩm cấp không thấp.",
+      "suggest": "Hỏa Điêu reo hò một tiếng, hóa thành một bóng mờ bổ nhào qua, cắn một cái vào độc giác màu đỏ lửa, xem ra đúng là muốn nuốt hắn vào trong."
     },
     {
       "convert": "\"Dừng tay, không đúng, im miệng!\"",
-      "dich": "\"Dừng tay, không phải, dừng miệng!\"",
-      "suggest": "\"Dừng tay, không đúng, im miệng!\"",
-      "similarity": [
-        [
-          106,
-          0.48
-        ]
-      ]
+      "dich": "Chồn lửa trước đó như phát điên lao đến dung nham, hẳn chính là vì thứ này?",
+      "suggest": "\"Dừng tay, không đúng, im miệng!\""
     },
     {
       "convert": "Viên Minh vội vàng nhào tới, bắt lấy hỏa hồng độc giác một chỗ khác.",
-      "dich": "Viên Minh vội vào nhào tới, tóm lấy một phần khác trên cái sừng.",
-      "suggest": "Viên Minh vội vàng nhào tới, bắt lấy độc giác của hỏa hồng độc giác.",
-      "similarity": [
-        [
-          13,
-          0.16
-        ],
-        [
-          107,
-          0.15
-        ]
-      ]
+      "dich": "Chồn lửa hò reo một tiếng, xong lập tức hóa thành một dải bóng mờ nhào qua, cắn vào cái sừng đỏ lửa, trông bộ dáng y như muốn nuốt chửng nó.",
+      "suggest": "Viên Minh vội vàng nhào tới, túm lấy một cái sừng màu đỏ lửa khác."
     },
     {
       "convert": "Thứ này cũng không phải Hỏa Phác Ngọc loại kia đê giai linh tài, bất luận một cái nào cao giai linh tài giá trị đều là cực lớn, để Hỏa Điêu cứ như vậy ăn hết coi như thiệt thòi lớn.",
-      "dich": "Thứ này không phải linh tài cấp thấp như Hỏa Phác ngọc, bất kỳ kiện linh tài cấp cao nào cũng có giá trị rất lớn, để chồn lửa cứ thế ăn hết thì quá thiệt thòi.",
-      "suggest": "Thứ này cũng không phải là Linh tài đê giai như Hỏa Phác Ngọc, bất luận là Linh tài cao giai nào, giá cả đều cực lớn, để Hỏa Điêu cứ như vậy mà ăn mất một món ngon thì thiệt thòi lớn.",
-      "similarity": []
+      "dich": "\"Dừng tay, không phải, dừng miệng!\"",
+      "suggest": "Thứ này cũng không phải là loại Linh tài đê giai như Hỏa Phác Ngọc, bất luận là Linh tài cao giai nào cũng đều có giá trị cực lớn, để Hỏa Điêu cứ như vậy mà bị mất đi cũng coi như là thiệt thòi lớn."
     },
     {
       "convert": "Hỏa Điêu gắt gao cắn hỏa hồng độc giác, lực lượng lớn đến kinh người, Viên Minh dùng tới hơn phân nửa khí lực, vậy mà cũng đoạt này không dưới.",
-      "dich": "Chồn lửa ra sức cắn chặt cái sừng đỏ lửa, lực cắn mạnh kinh người, Viên Minh dùng phân nửa khí lực mà cũng không giật ra được.",
-      "suggest": "Hỏa hồng độc giác cắn chặt vào độc giác, lực lượng cực lớn, Viên Minh dùng hơn phân nửa sức lực cũng đoạt được thứ này.",
-      "similarity": [
-        [
-          109,
-          0.12
-        ]
-      ]
+      "dich": "Viên Minh vội vào nhào tới, tóm lấy một phần khác trên cái sừng.",
+      "suggest": "Hỏa điêu gắt gao cắn vào độc giác màu đỏ lửa, lực lượng kinh người, Viên Minh dùng hơn phân nửa khí lực, vậy mà cũng đoạt được món hời này."
     },
     {
       "convert": "Hắn thầm gấp, đang muốn thi triển chút khác thủ đoạn đoạt lấy loan giác, đột nhiên phát hiện Hỏa Điêu răng căn bản không cắn nổi vật này, sắc bén răng ngay cả một điểm ấn ký cũng không thể lưu lại.",
-      "dich": "Hắn thầm cuống quýt, đang định thi triển ít thủ đoạn để đoạt lấy cái sừng cong, bỗng phát hiện răng chồn lửa căn bản không cắn nổi vật này, hàm răng sắc nhọn của nó thậm chí còn không lưu lại được một vết xước trên sừng.",
-      "suggest": "Hắn đang muốn thi triển một chút thủ đoạn đoạt lấy loan giác, đột nhiên phát hiện Hỏa Điêu răng căn bản không cắn nổi vật này, ngay cả một điểm ấn ký cũng không lưu lại.",
-      "similarity": [
-        [
-          110,
-          0.2
-        ]
-      ]
+      "dich": "Thứ này không phải linh tài cấp thấp như Hỏa Phác Ngọc, bất kỳ kiện linh tài cấp cao nào cũng có giá trị rất lớn, để chồn lửa cứ thế ăn hết thì quá thiệt thòi.",
+      "suggest": "Hắn thầm gấp gáp, đang định thi triển một chút thủ đoạn đoạt lấy loan giác thì đột nhiên phát hiện Hỏa Điêu căn bản không cắn nổi thứ này, ngay cả một điểm ấn ký cũng không lưu lại."
     },
     {
       "convert": "Viên Minh yên lòng, không còn cướp đoạt, mỉm cười nhìn Hỏa Điêu.",
-      "dich": "Viên Minh yên lòng không tranh giành nữa, chỉ mỉm cười nhìn chồn lửa.",
-      "suggest": "Viên Minh yên lòng, không cướp đoạt, mỉm cười nhìn Hỏa Điêu.",
-      "similarity": [
-        [
-          111,
-          0.24
-        ]
-      ]
+      "dich": "Chồn lửa ra sức cắn chặt cái sừng đỏ lửa, lực cắn mạnh kinh người, Viên Minh dùng phân nửa khí lực mà cũng không giật ra được.",
+      "suggest": "Viên Minh yên tâm, không cướp bóc nữa, mỉm cười nhìn Hỏa Điêu."
     },
     {
       "convert": "Hỏa Điêu đối độc giác cắn lại cắn, gặm răng đều ê ẩm, cũng không cắn nổi cái này độc giác mảy may, chỉ có thể có chút hậm hực địa bất đắc dĩ từ bỏ.",
-      "dich": "Chồn lửa cắn đi cắn lại, cắn đến mỏi nhừ răng cũng không gặm cái sừng này được chút nào, chỉ đành hậm hực từ bỏ.",
-      "suggest": "Hỏa Điêu đối với độc giác cắn, nhai răng đều ê ẩm, cũng không cắn nổi con độc giác này, chỉ có thể bất đắc dĩ bất đắc dĩ từ bỏ ý nghĩ này.",
-      "similarity": []
+      "dich": "Hắn thầm cuống quýt, đang định thi triển ít thủ đoạn để đoạt lấy cái sừng cong, bỗng phát hiện răng chồn lửa căn bản không cắn nổi vật này, hàm răng sắc nhọn của nó thậm chí còn không lưu lại được một vết xước trên sừng.",
+      "suggest": "Hỏa Điêu đối với độc giác cắn lại, răng nhai ê ẩm, cũng không cắn nổi con độc giác này, chỉ có thể bất đắc dĩ ngậm nó vào, bất đắc dĩ ngậm nó vào."
     },
     {
       "convert": "Viên Minh gặp đây, lúc này mới đem hỏa hồng loan giác cầm lên, tiến đến trước mắt quan sát tỉ mỉ.",
-      "dich": "Viên Minh thấy vậy mới cầm cái sừng cong màu đỏ lửa lên, đưa lại trước mắt cẩn thận quan sát.",
-      "suggest": "Viên Minh thấy vậy, lúc này mới cầm quả cầu lửa đỏ lên, tiến tới gần quan sát tỉ mỉ.",
-      "similarity": [
-        [
-          113,
-          0.16
-        ]
-      ]
+      "dich": "Viên Minh yên lòng không tranh giành nữa, chỉ mỉm cười nhìn chồn lửa.",
+      "suggest": "Viên Minh thấy vậy, lúc này mới cầm quả cầu lửa lên, tiến tới gần quan sát tỉ mỉ."
     },
     {
       "convert": "Vật này xúc tu lửa nóng, lại không nóng bỏng, cầm ở trong tay có chút dễ chịu, độc giác đường vân bên trên ẩn hiện một chút kỳ dị hỏa diễm đồ án, nhìn tựa như là trời sinh.",
-      "dich": "Vật chạm tay có cảm giác nóng nhưng không bỏng, cầm ở trong tay còn khá dễ chịu, đường vân trên sừng ẩn hiện một ít đồ án hỏa diễm kỳ dị, thoạt nhìn hình như là trời sinh.",
-      "suggest": "Xúc tu này nóng bỏng, lại không nóng bỏng, cầm trong tay có chút thoải mái, đường vân trên xúc tu ẩn hiện một ít đồ án kỳ dị, trông tựa như trời sinh vậy.",
-      "similarity": [
-        [
-          114,
-          0.25
-        ]
-      ]
+      "dich": "Chồn lửa cắn đi cắn lại, cắn đến mỏi nhừ răng cũng không gặm cái sừng này được chút nào, chỉ đành hậm hực từ bỏ.",
+      "suggest": "Xúc tu này nóng nhưng không nóng, cầm trong tay có chút dễ chịu, trên đường vân trên lưỡi dao có ẩn hiện đồ án hỏa diễm kỳ dị, nhìn qua giống như trời sinh vậy."
     },
     {
       "convert": "\"Cuối cùng là cái gì dị thú sừng?",
-      "dich": "\"Rốt cuộc là sừng dị thú gì mà ở trong dung nham vẫn có thể bảo tồn hoàn hảo như vậy?\"",
-      "suggest": "'Cuối cùng là cái gì?",
-      "similarity": []
+      "dich": "Viên Minh thấy vậy mới cầm cái sừng cong màu đỏ lửa lên, đưa lại trước mắt cẩn thận quan sát.",
+      "suggest": "\"Rốt cuộc là cái sừng dị thú gì?"
     },
     {
       "convert": "Ở trong nham tương cũng có thể bảo tồn hoàn hảo?\"",
-      "dich": "Viên Minh thầm nghĩ trong lòng, lông mày đột nhiên nhướng lên.",
-      "suggest": "Không phải nham tương ở trong nham tương cũng có thể bảo tồn hoàn hảo sao?\"",
-      "similarity": [
-        [
-          115,
-          0.25
-        ]
-      ]
+      "dich": "Vật chạm tay có cảm giác nóng nhưng không bỏng, cầm ở trong tay còn khá dễ chịu, đường vân trên sừng ẩn hiện một ít đồ án hỏa diễm kỳ dị, thoạt nhìn hình như là trời sinh.",
+      "suggest": "Trong nham tương có thể bảo tồn hoàn hảo sao?\""
     },
     {
       "convert": "Viên Minh thầm nghĩ trong lòng, đuôi lông mày đột nhiên vẩy một cái.",
-      "dich": "Hắn lúc này đang đứng cách dung nham không xa, nhiệt độ xung quanh cao không chịu nổi, đó giờ vẫn luôn phải ra sức vận công chống cự, nhưng sau khi cầm cái sừng này lên, cảm giác nóng bỏng xung quanh đột nhiên dịu đi rất nhiều, tựa như cái sừng này đang ngăn chặn sức nóng xung quanh?",
-      "suggest": "Viên Minh thầm nghĩ, đuôi lông mày đột nhiên run lên.",
-      "similarity": [
-        [
-          116,
-          0.4
-        ]
-      ]
+      "dich": "\"Rốt cuộc là sừng dị thú gì mà ở trong dung nham vẫn có thể bảo tồn hoàn hảo như vậy?\"",
+      "suggest": "Viên Minh thầm nghĩ, xong đột nhiên nhíu mày."
     },
     {
       "convert": "Hắn lúc này đứng tại dung nham cách đó không xa, chung quanh khốc nhiệt không chịu nổi, một mực tại toàn lực vận công chống cự, nhưng cầm đến hỏa hồng độc giác về sau, chung quanh cực nóng đột nhiên cũng giảm bớt rất nhiều, hỏa hồng độc giác tựa hồ ở ngăn cách chung quanh nhiệt lực?",
-      "suggest": "Lúc này hắn đứng ở cách đó không xa, xung quanh nóng bức không chịu được, luôn luôn vận công chống cự. Nhưng khi cầm Hỏa Hồng Độc Giác lên, nhiệt độ xung quanh đột nhiên giảm bớt đi rất nhiều. Hỏa hồng độc giác trông như có khả năng ngăn cách nhiệt độ xung quanh với nhiệt độ xung quanh vậy.",
-      "similarity": [
-        [
-          117,
-          0.19
-        ]
-      ]
+      "dich": "Viên Minh thầm nghĩ trong lòng, lông mày đột nhiên nhướng lên.",
+      "suggest": "Hắn đứng cách dung nham không xa, xung quanh nóng bức không chịu nổi, toàn lực vận công chống cự nhưng khi cầm được Hỏa Hồng Độc Giác, nhiệt độ xung quanh đột nhiên giảm đi rất nhiều, Hỏa Hồng Độc Giác dường như ngăn cách nhiệt độ xung quanh với không khí xung quanh?"
+    },
+    {
+      "dich": "Hắn lúc này đang đứng cách dung nham không xa, nhiệt độ xung quanh cao không chịu nổi, đó giờ vẫn luôn phải ra sức vận công chống cự, nhưng sau khi cầm cái sừng này lên, cảm giác nóng bỏng xung quanh đột nhiên dịu đi rất nhiều, tựa như cái sừng này đang ngăn chặn sức nóng xung quanh?"
     }
   ]
 }

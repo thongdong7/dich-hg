@@ -1,4 +1,5 @@
 {
+  "currentLine": 108,
   "next": {
     "id": 73,
     "title": "Chương 73: Chạy tới nham tương"
@@ -16,1716 +17,657 @@
       "convert": "\"Trần Uyển sư tỷ, cái này Viên Minh có vấn đề gì không?\"",
       "dich": "\"Trần Uyển sư tỷ, Viên Minh này có vấn đề gì sao?\"",
       "suggest": "\"Trần Uyển sư tỷ, Viên Minh này có vấn đề gì không?\"",
-      "similarity": [
-        [
-          0,
-          0.84
-        ],
-        [
-          4,
-          0.3
-        ],
-        [
-          89,
-          0.14
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ đem Trần Uyển thần sắc biến hóa để ở trong mắt, nhẹ giọng hỏi.",
       "dich": "Thiếu phụ xinh đẹp chú ý thấy vẻ mặt Trần Uyển thay đổi, bèn nhỏ giọng hỏi.",
-      "suggest": "Thiếu phụ mỹ mạo để ý tới thần sắc của Trần Uyển, nhẹ giọng hỏi.",
-      "similarity": [
-        [
-          1,
-          0.12
-        ]
-      ]
+      "suggest": "Thiếu phụ xinh đẹp để ý tới thần sắc Trần Uyển, nhẹ giọng hỏi.",
+      "approved": true
     },
     {
       "convert": "\"Không có, ta chỉ là đang cảm thán Viên Minh sư đệ tiến bộ rất nhanh, chắc hẳn ngày bình thường tu luyện rất chăm chỉ.\"",
       "dich": "\"Không có, ta chỉ là đang cảm thán Viên Minh sư đệ tiến bộ rất nhanh, chắc hẳn ngày thường tu luyện rất chăm chỉ.\"",
       "suggest": "\"Không có, ta chỉ cảm thán Viên Minh sư đệ tiến bộ rất nhanh, chắc hẳn ngày thường tu luyện rất chăm chỉ.\"",
-      "similarity": [
-        [
-          2,
-          0.87
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "Trần Uyển cười nói.",
       "dich": "Trần Uyển cười đáp.",
       "suggest": "Trần Uyển cười nói.",
-      "similarity": [
-        [
-          3,
-          0.43
-        ],
-        [
-          7,
-          0.13
-        ],
-        [
-          13,
-          0.13
-        ],
-        [
-          55,
-          0.12
-        ],
-        [
-          66,
-          0.12
-        ],
-        [
-          90,
-          0.11
-        ],
-        [
-          99,
-          0.25
-        ],
-        [
-          118,
-          0.11
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "\"Trần Uyển sư muội ngươi cùng Viên Minh quen biết?\"",
       "dich": "\"Trần Uyển sư tỷ với Viên Minh quen biết nhau à?\"",
-      "suggest": "\"Trần Uyển sư muội, người quen của Viên Minh?\"",
-      "similarity": [
-        [
-          0,
-          0.21
-        ],
-        [
-          4,
-          0.25
-        ]
-      ]
+      "suggest": "\"Trần Uyển sư muội quen biết Viên Minh?\"",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ mắt lộ ra ngoài ý muốn.",
       "dich": "Mắt thiếu phụ xinh đẹp toát ra vẻ ngạc nhiên.",
-      "suggest": "Mắt thiếu phụ mỹ mạo lộ vẻ bất ngờ.",
-      "similarity": [
-        [
-          5,
-          0.16
-        ]
-      ]
+      "suggest": "Mắt thiếu phụ lộ vẻ bất ngờ.",
+      "approved": true
     },
     {
-      "convert": "\"Không tính là quen biết, Viên sư đệ là phi mao thú nô xuất thân.\"",
+      "convert": "\"Không tính là quen biết, Viên sư đệ là Phi Mao thú nô xuất thân.\"",
       "dich": "\"Không tính là quen biết, Viên sư đệ xuất thân Phi Mao thú nô.\"",
-      "suggest": "\"Không tính là quen biết, Viên sư đệ là con nuôi của Phi Mao thú nô.\"",
-      "similarity": [
-        [
-          6,
-          0.7
-        ],
-        [
-          63,
-          0.13
-        ]
-      ]
+      "suggest": "\"Không tính là quen biết, Viên sư đệ là người của Phi Mao thú nô.\"",
+      "approved": true
     },
     {
       "convert": "Trần Uyển giật mình, bật thốt lên nói.",
       "dich": "Trần Uyển giật mình, buột miệng nói.",
-      "suggest": "Trần Uyển giật mình, buột miệng nói.",
-      "similarity": [
-        [
-          3,
-          0.11
-        ],
-        [
-          7,
-          1
-        ],
-        [
-          13,
-          0.13
-        ]
-      ]
+      "suggest": "Trần Uyển giật mình, bật thốt lên.",
+      "approved": true
     },
     {
-      "convert": "Mỹ mạo thiếu phụ hơi kinh ngạc, Bích La Động phi mao thú nô rất nhiều, nhưng cực ít có người có thể thoát ly thú nô thân phận, trở thành ký danh đệ tử.",
+      "convert": "Mỹ mạo thiếu phụ hơi kinh ngạc, Bích La Động Phi Mao thú nô rất nhiều, nhưng cực ít có người có thể thoát ly thú nô thân phận, trở thành ký danh đệ tử.",
       "dich": "Thiếu phụ xinh đẹp hơi kinh ngạc, bởi Bích La Động có rất nhiều Phi Mao thú nô nhưng lại có rất ít người có thể thoát ly thân phận thú nô, trở thành đệ tử ký danh.",
-      "suggest": "Thiếu phụ mỹ mạo hơi kinh ngạc, Phi Mao thú nô ở Bích La Động rất nhiều, nhưng rất ít người thoát khỏi thân phận thú nô, trở thành ký danh đệ tử.",
-      "similarity": [
-        [
-          8,
-          0.36
-        ]
-      ]
+      "suggest": "Thiếu phụ có chút kinh ngạc, Phi Mao thú nô ở Bích La Động rất nhiều, nhưng rất ít người thoát ly thân phận thú nô, trở thành đệ tử ký danh.",
+      "approved": true
     },
     {
-      "convert": "Bất quá, phàm là có thể từ phi mao thú nô bên trong bò lên, đều không phải hạng người bình thường, bọn hắn Ngự Thú Đường đồ đệ cảm xúc sâu nhất, cái kia ngày nay leo lên treo thưởng bảng \"Mã Tinh Không\" bắt đầu từ phi mao thú nô tấn thăng đi lên, tiến vào Ngự Thú Đường sau tu vi đột nhiên tăng mạnh, càng ở thời gian cực ngắn liền nắm giữ ngự thú thuật, thuần phục nhiều mặt lợi hại Linh thú.",
-      "dich": "Có điều, phàm là kẻ có thể leo lên từ trong số Phi Mao thú nô đều không phải hạng tầm thường, đệ tử Ngự Thú đường bọn nàng cảm thụ rõ nhất điều này, cái tên Mã Tinh Không nằm đầu bảng treo thưởng kia ban đầu cũng là đi lên từ Phi Mao thú nô, sau khi tiến vào Ngự Thú đường thì tu vi đột nhiên tăng mạnh, chỉ trong thời gian cực ngắn đã nắm giữ Ngự Thú thuật, thuần phục được nhiều linh thú lợi hại.",
-      "suggest": "Bất quá, phàm là có thể bò từ trong lòng Phi Mao thú nô tiến lên đều không phải là loại người bình thường, đồ đệ của Ngự Thú Đường trước đây được liệt vào hàng ngũ ngũ đồ đệ của bọn hắn cảm xúc sâu nhất, từ khi gã tiến vào Ngự Thú Đường, tu vi đột nhiên tăng mạnh, trong thời gian cực ngắn đã nắm giữ thuật ngự thú, thuần phục rất nhiều Linh Thú lợi hại.",
-      "similarity": [
-        [
-          9,
-          0.26
-        ]
-      ]
+      "convert": "Bất quá, phàm là có thể từ Phi Mao thú nô bên trong bò lên, đều không phải hạng người bình thường, bọn hắn Ngự Thú Đường đồ đệ cảm xúc sâu nhất, cái kia ngày nay leo lên treo thưởng bảng \"Mã Tinh Không\" bắt đầu từ Phi Mao thú nô tấn thăng đi lên, tiến vào Ngự Thú Đường sau tu vi đột nhiên tăng mạnh, càng ở thời gian cực ngắn liền nắm giữ Ngự Thú Thuật, thuần phục nhiều mặt lợi hại Linh thú.",
+      "dich": "Có điều, phàm là kẻ có thể leo lên từ trong số Phi Mao thú nô đều không phải hạng tầm thường, đệ tử Ngự Thú Đường bọn nàng cảm thụ rõ nhất điều này, cái tên Mã Tinh Không nằm đầu bảng treo thưởng kia ban đầu cũng là đi lên từ Phi Mao thú nô, sau khi tiến vào Ngự Thú Đường thì tu vi đột nhiên tăng mạnh, chỉ trong thời gian cực ngắn đã nắm giữ Ngự Thú Thuật, thuần phục được nhiều linh thú lợi hại.",
+      "suggest": "Bất quá, phàm là những người có thể từ trong Phi Mao thú nô bò lên, đều không phải hạng người bình thường. Đồ đệ Ngự Thú Đường ngày nay sau khi leo lên vị trí treo thưởng là Diệp sư huynh, đệ tử của bọn họ sau khi tiến vào Ngự Thú Đường lập tức tăng mạnh, trong thời gian ngắn liền nắm giữ được thuật ngự thú, thuần phục được rất nhiều Linh thú lợi hại.",
+      "approved": true
     },
     {
       "convert": "Nếu không phải hắn về sau phản bội chạy trốn, ngày nay Bích La Động thêm ra một gã Trúc Cơ kỳ trưởng lão cũng có nhiều khả năng.",
       "dich": "Nếu không phải y sau đấy lại đào tẩu, rất có thẻ Bích La Động bây giờ đã có thêm một trưởng lão Trúc Cơ kỳ.",
-      "suggest": "Nếu không phải hắn phản bội chạy trốn, ngày nay Bích La Động có thêm một vị trưởng lão Trúc Cơ kỳ nữa cũng có khả năng.",
-      "similarity": [
-        [
-          10,
-          0.24
-        ]
-      ]
+      "suggest": "Nếu không phải sau này hắn phản bội chạy trốn, hiện tại Bích La Động có thêm một trưởng lão Trúc Cơ kỳ nữa cũng có khả năng.",
+      "approved": true
     },
     {
       "convert": "\"Lam Kha sư muội, nhiệm vụ lần này, có thể hay không trông nom một lần Viên Minh?",
       "dich": "\"Lam Kha sư muội, nhiệm vụ lần này, không biết có thể trông nom Viên Minh một chút không?",
-      "suggest": "\"Lam Kha sư muội, nhiệm vụ lần này có thể trông nom Viên Minh một lần hay không?",
-      "similarity": [
-        [
-          11,
-          0.67
-        ]
-      ]
+      "suggest": "\"Lam Kha sư muội, nhiệm vụ lần này, có thể trông nom Viên Minh một lần không?",
+      "approved": true
     },
     {
       "convert": "Hắn là sư tôn tự mình mang về tông môn, dặn dò ta chiếu cố một hai, chớ để hắn tại nhiệm vụ bên trong mất mạng.\"",
       "dich": "Hắn là người sư tôn đích thân dẫn về tông môn, dặn ta chiếu cố hắn một chút, đừng để hắn mất mạng khi làm nhiệm vụ.\"",
-      "suggest": "Hắn là sư tôn tự mình mang về tông môn, dặn dò ta một hai chớ để hắn mất mạng trong nhiệm vụ.\"",
-      "similarity": [
-        [
-          12,
-          0.3
-        ]
-      ]
+      "suggest": "Hắn là sư tôn tự mình đưa về tông môn, dặn dò ta cẩn thận một chút, chớ để hắn mất mạng trong lúc làm nhiệm vụ.\"",
+      "approved": true
     },
     {
       "convert": "Trần Uyển suy nghĩ một chút về sau, nói như thế.",
       "dich": "Trần Uyển ngẫm nghĩ một hồi rồi nói.",
-      "suggest": "Trần Uyển suy nghĩ một chút, sau đó nói như thế.",
-      "similarity": []
+      "suggest": "Trần Uyển suy nghĩ một chút rồi nói.",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ nghe vậy khẽ giật mình, trong lòng đối với Viên Minh càng cao hơn nhìn mấy lần, gật đầu nói: \"Tốt, ta sẽ chăm sóc tốt hắn.\"",
       "dich": "Thiếu phụ xinh đẹp nghe thế khẽ giật mình, trong lòng càng coi trọng Viên Minh thêm mấy lần, gật đầu đáp: \"Được, ta sẽ chiếu cố hắn thật tốt.\"",
-      "suggest": "Thiếu phụ mỹ mạo nghe vậy khẽ giật mình, trong lòng càng quan tâm Viên Minh hơn, gật đầu nói: \"Tốt, ta sẽ chăm sóc hắn.\"",
-      "similarity": [
-        [
-          14,
-          0.27
-        ]
-      ]
+      "suggest": "Thiếu phụ xinh đẹp nghe vậy khẽ giật mình, trong lòng càng đánh giá Viên Minh thêm mấy lần, gật đầu nói: \"Tốt, ta sẽ chăm sóc hắn tốt.\"",
+      "approved": true
     },
     {
       "convert": "Hai nữ lại rảnh rỗi hàn huyên vài câu, lúc này mới chia tay....",
-      "dich": "Hai nàng lại tán gẫu thêm vài câu rồi mới chia tay.",
-      "suggest": "Hai nữ lại rảnh rỗi hàn huyên vài câu, lúc này mới chia tay....",
-      "similarity": [
-        [
-          15,
-          0.16
-        ]
-      ]
+      "dich": "Hai nàng lại tán gẫu thêm vài câu rồi mới chia tay...",
+      "suggest": "Hai nữ tử lại trò chuyện thêm vài câu, lúc này mới chia tay...",
+      "approved": true
     },
     {
       "convert": "Viên Minh rất mau tới đến sơn môn nơi đó, những người khác còn không có đến, hắn ở phụ cận tìm một chỗ khoanh chân ngồi xuống, chờ đợi.",
-      "dich": "...",
-      "suggest": "Viên Minh rất nhanh đã tới trước sơn môn, những người khác còn chưa tới, hắn tìm một chỗ khoanh chân ngồi xuống, chờ đợi.",
-      "similarity": [
-        [
-          17,
-          0.38
-        ]
-      ]
+      "dich": "Viên Minh đến chỗ sơn môn rất nhanh, thấy những người khác còn chưa tới, bèn tìm một nơi gần đó khoanh chân ngồi xuống chờ đợi.",
+      "suggest": "Viên Minh rất nhanh đã tới được sơn môn, những người khác còn chưa tới, hắn tìm một chỗ khoanh chân ngồi xuống, chờ đợi.",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ bọn người không để cho hắn chờ quá lâu, rất nhanh lần lượt đến.",
-      "dich": "Viên Minh đến chỗ sơn môn rất nhanh, thấy những người khác còn chưa tới, bèn tìm một nơi gần đó khoanh chân ngồi xuống chờ đợi.",
-      "suggest": "Đám người thiếu phụ mỹ mạo không để hắn đợi lâu, rất nhanh đã đi đến.",
-      "similarity": [
-        [
-          18,
-          0.19
-        ]
-      ]
+      "dich": "Đám người thiếu phụ xinh đẹp không để hắn phải chờ lâu, chỉ sau một lát đã có mặt.",
+      "suggest": "Đám thiếu phụ xinh đẹp không để cho hắn chờ lâu, rất nhanh đã tới.",
+      "approved": true
     },
     {
       "convert": "Viên Minh phát hiện, hắc phu đại hán, mắt tam giác thanh niên, A Cổ Lạp ba cái bên hông đều nhiều một cái màu trắng Linh Thú Đại, phía trên thêu lên Ngự Thú Đường tiêu ký.",
-      "dich": "Đám người thiếu phụ xinh đẹp không để hắn phải chờ lâu, chỉ sau một lát đã có mặt.",
-      "suggest": "Viên Minh phát hiện, đại hán áo đen, đại hán mắt tam giác, bên hông có ba cây Linh Thú Đại màu trắng, trên mỗi cây đều có thêu một quyển Tiêu Ký của Ngự Thú Đường.",
-      "similarity": [
-        [
-          19,
-          0.14
-        ]
-      ]
+      "dich": "Viên Minh phát hiện bên hông đại hán da đen, thanh niên mắt xếch và A Cổ Lạp đều có thêm một túi linh thú màu trắng, bên trên có thêu tiêu ký của Ngự Thú Đường.",
+      "suggest": "Viên Minh phát hiện, ba người đại hán mắt tam giác, mắt tam giác, ba cái túi da màu trắng bên hông, trên túi có thêu tiêu ký màu trắng Ngự Thú Đường.",
+      "approved": true
     },
     {
       "convert": "\"Người đến đông đủ, vậy chúng ta chuẩn bị đi thôi!\"",
-      "dich": "Viên Minh phát hiện bên hông đại hán da đen, thanh niên mắt xếch và A Cổ Lạp đêì có thêm một túi linh thú màu trắng, bên trên có thêu tiêu ký của Ngự Thú đường.",
-      "suggest": "\"Đại sảnh đã đủ, vậy chúng ta hãy chuẩn bị đi thôi!\"",
-      "similarity": [
-        [
-          20,
-          0.56
-        ]
-      ]
+      "dich": "\"Người đã đến đủ, vậy chúng ta chuẩn bị đi thôi!\"",
+      "suggest": "\"Đã có người đến đông đủ, vậy chúng ta chuẩn bị đi thôi!\"",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ hướng Viên Minh nhẹ gật đầu về sau, mở miệng nói.",
-      "dich": "\"Người đã đến đủ, vậy chúng ta chuẩn bị đi thôi!\"",
-      "suggest": "Thiếu phụ mỹ mạo nhẹ gật đầu, sau đó mở miệng nói.",
-      "similarity": [
-        [
-          7,
-          0.11
-        ],
-        [
-          21,
-          0.22
-        ]
-      ]
+      "dich": "Thiếu phụ xinh đẹp khẽ gật đầu với Viên Minh rồi mở miệng nói.",
+      "suggest": "Thiếu phụ xinh đẹp gật đầu với Viên Minh, sau đó mở miệng nói.",
+      "approved": true
     },
     {
       "convert": "Bích La Động đối đồ đệ quản khống khắc nghiệt, bất luận kẻ nào muốn rời khỏi, đều phải ở sơn môn lối vào đăng ký, mà lại phải có lý do hợp lý.",
-      "dich": "Thiếu phụ xinh đẹp khẽ gật đầu với Viên Minh rồi mở miệng nói.",
-      "suggest": "Bích La Động đối với đồ đệ quản khống rất khắc nghiệt, bất luận kẻ nào muốn rời khỏi sơn môn đều phải đăng ký ở cửa vào sơn môn, mà lại phải có lý do hợp lý.",
-      "similarity": [
-        [
-          22,
-          0.26
-        ]
-      ]
+      "dich": "Bích La Động quản lý đệ tử rất nghiêm ngặt, bất kỳ ai muốn rời đi đều phải đăng ký ở lối vào sơn môn, hơn nữa còn phải có lý do chính đáng.",
+      "suggest": "Bích La Động quản lý đồ đệ rất khắc nghiệt, bất luận kẻ nào muốn rời khỏi, đều phải đăng ký ở cửa vào sơn môn, mà lại phải có lý do hợp lý.",
+      "approved": true
     },
     {
       "convert": "Viên Minh bọn người ra ngoài chấp hành nhiệm vụ, lý do hợp lý, đăng ký hạ tính danh về sau, rất mau tới đến tông môn bên ngoài.",
-      "dich": "Bích La Động quản lý đệ tử rất nghiêm ngặt, bất kỳ ai muốn rời đi đều phải đăng ký ở lối vào sơn môn, hơn nữa còn phải có lý do chính đáng.",
-      "suggest": "Đám người Viên Minh ra ngoài chấp hành nhiệm vụ, vì lý do hợp lý nên sau khi đăng ký tính danh mới nhanh chóng đi tới bên ngoài tông môn.",
-      "similarity": [
-        [
-          23,
-          0.45
-        ]
-      ]
+      "dich": "Bọn người Viên Minh ra ngoài chấp hành nhiệm, lý do hợp lý, sau khi đăng ký tên họ xong, rất nhanh đã đến khu vực bên ngoài tông môn.",
+      "suggest": "Bọn Viên Minh ra ngoài chấp hành nhiệm vụ, lý do hợp lý, sau khi đăng ký tính danh xong liền nhanh chóng tới tông môn.",
+      "approved": true
     },
     {
       "convert": "Mỹ mạo thiếu phụ vỗ bên hông Linh Thú Đại, một đạo bóng xám từ đó bay ra, giữa không trung một chút xoay quanh sau rơi xuống, lại là một con lớn lạ thường màu xám phi cầm.",
-      "dich": "Bọn người Viên Minh ra ngoài chấp hành nhiệm, lý do hợp lý, sau khi đăng ký tên họ xong, rất nhanh đã đến khu vực bên ngoài tông môn.",
-      "suggest": "Thiếu phụ mỹ mạo vỗ vỗ Linh Thú bên hông, một cái bóng xám từ trong đó bay ra, xoay quanh không trung rồi hạ xuống, là một con Linh Thú màu xám lớn lạ thường.",
-      "similarity": [
-        [
-          24,
-          0.22
-        ]
-      ]
+      "dich": "Thiếu phụ xinh đẹp vỗ túi linh thú bên hông, tức thì một cái bóng xám từ bên trong túi bay ra, lượn vòng trong không trung một thoáng rồi rơi xuống, nhìn kỹ thì là một con phi cầm màu xám to lớn lạ thường.",
+      "suggest": "Thiếu phụ xinh đẹp vỗ vỗ túi linh thú bên hông, một bóng xám từ bên hông bay ra, xoay quanh một vòng rồi hạ xuống, không ngờ lại là một con chim lớn màu xám lớn lạ thường.",
+      "approved": true
     },
     {
       "convert": "Này chim hai cánh triển khai chừng hai trượng, thân thể béo tốt, đầu lại có vẻ rất nhỏ, bộ mặt dị thường bằng phẳng, giống như một con cú mèo, nhìn có chút xấu xí, duy nhất đáng chú ý chính là kia hai con con mắt màu vàng kim, giống như đèn sáng sáng tỏ.",
-      "dich": "Thiếu phụ xinh đẹp vỗ túi linh thú bên hông, tức thì một cái bóng xám từ bên trong túi bay ra, lượn vòng trong không trung một thoáng rồi rơi xuống, nhìn kỹ thì là một con phi cầm màu xám to lớn lạ thường.",
-      "suggest": "Hai cánh của con chim này dài chừng hai trượng, thân thể béo tốt, đầu lại hơi thấp, bộ mặt giống như một con cú mèo, nhìn có chút xấu xí. Điều duy nhất gây chú ý ở đây là hai con mắt màu vàng kim kia, giống như một ngọn đèn sáng.",
-      "similarity": [
-        [
-          25,
-          0.36
-        ]
-      ]
-    },
-    {
-      "convert": "\"Đây là Kim Tình Điêu!\"",
       "dich": "Chim này có sải cánh khoảng hai trượng, thân thể béo tốt nhưng đầu lại rất nhỏ, khuôn mặt phẳng dị thường, trông giống như một con cú mèo, nhìn qua hơi xấu xí, điểm đáng chú ý duy nhất trên người nó chính là hai con mắt màu vàng kim sáng như đèn.",
-      "suggest": "\"Đây là Kim Tình Điêu!\"",
-      "similarity": [
-        [
-          26,
-          0.59
-        ]
-      ]
+      "suggest": "Hai cánh của con chim này dài chừng hai trượng, thân thể béo tốt, đầu lại có vẻ rất nhỏ, bộ mặt dị thường giống như một cú mèo, nhìn có chút xấu xí, duy nhất đáng chú ý là hai con mắt màu vàng kim kia lại có màu vàng kim, trông có chút xấu xí. Điều duy nhất đáng chú ý là hai con mắt kia có màu vàng kim, trông như hai ngọn đèn sáng vậy.",
+      "approved": true
     },
     {
-      "convert": "Hắc phu đại hán ngạc nhiên lên tiếng.",
-      "dich": "\"Đây là Kim Tình điêu!\"",
-      "suggest": "Hắc phu đại hán ngạc nhiên nói.",
-      "similarity": [
-        [
-          27,
-          0.11
-        ],
-        [
-          99,
-          0.12
-        ]
-      ]
+      "convert": "\"Đây là Kim Tình Điêu!\" Hắc phu đại hán ngạc nhiên lên tiếng.",
+      "dich": "\"Đây là Kim Tình Điêu!\" Đại hán da đen ngạc nhiên lên tiếng.",
+      "suggest": "\"Đây là Kim Tình Điêu!\" Hắc phu đại hán ngạc nhiên nói.",
+      "approved": true
     },
     {
       "convert": "Viên Minh nhìn về phía đại hán, vừa mới đăng ký tính danh thời điểm, hắn đã biết rõ ràng những người khác tính danh cùng thân phận.",
-      "dich": "Đại hán da đen ngạc nhiên lên tiếng.",
-      "suggest": "Viên Minh nhìn đại hán, lúc vừa mới đăng ký tính danh, hắn đã biết rõ tên tuổi những người khác và thân phận của những người khác.",
-      "similarity": [
-        [
-          28,
-          0.24
-        ]
-      ]
+      "dich": "Viên Minh nhìn về phía đại hán, vừa rồi khi đăng ký tên hộ, hắn đã biết được tên và thân phận của mấy người này.",
+      "suggest": "Viên Minh nhìn về phía đại hán, lúc vừa mới đăng ký tính danh, hắn đã biết rõ tên tuổi và thân phận những người khác.",
+      "approved": true
     },
     {
-      "convert": "Hắc phu đại hán tên là mộc cách, là Luyện Lô Đường đồ đệ, mắt tam giác thanh niên gọi là Xích Thuật, luật quy Đường Môn dưới, mà mỹ mạo thiếu phụ tên là Lam Kha, chính là Ngự Thú Đường đồ đệ.",
-      "dich": "Viên Minh nhìn về phía đại hán, vừa rồi khi đăng ký tên hộ, hắn đã biết được tên và thân phận của mấy người này.",
-      "suggest": "Đại hán tên là mộc cách, là đồ đệ của Luyện Lô Đường, tên đệ tử đầu bảng là Xích Thuật, luật quy định Đường Môn, mà thiếu phụ xinh đẹp tên Lam Kha tên là Lam Kha, chính là đồ đệ của Ngự Thú Đường.",
-      "similarity": [
-        [
-          29,
-          0.28
-        ]
-      ]
+      "convert": "Hắc phu đại hán tên là Mộc Ly, là Luyện Lô Đường đồ đệ, mắt tam giác thanh niên gọi là Xích Thuật, Luật Quy Đường Môn dưới, mà mỹ mạo thiếu phụ tên là Lam Kha, chính là Ngự Thú Đường đồ đệ.",
+      "dich": "Đại hán da đen tên Mộc Ly, là đệ tử Luyện Lô Đường, thanh niên mắt xếch gọi là Xích Thuật, môn hạ Luật Quy Đường, còn thiếu phụ xinh đẹp tên là Lam Kha, chính là đệ tử Ngự Thú Đường.",
+      "suggest": "Đại hán áo đen tên là mộc cách, là đồ đệ của Luyện Lô Đường, mắt tam giác gọi là Xích Thuật, Luật Quy Đường môn dưới, thiếu phụ xinh đẹp tên là Lam Kha, chính là đồ đệ của Ngự Thú Đường.",
+      "approved": true
     },
     {
       "convert": "\"Vài ngày trước liền nghe nói Lam Kha sư tỷ độc lập thu phục một con Linh thú, nghĩ không ra là Kim Tình Điêu, chúc mừng!\"",
-      "dich": "Đại hán da đen tên Mộc Ly, là đệ tử Luyện Lô đường, thanh niên mắt xếch gọi là Xích Thuật, môn hạ Luật Quy đường, còn thiếu phụ xinh đẹp tên là Lam Kha, chính là đệ tử Ngự Thú đường.",
-      "suggest": "\"Vài ngày trước nghe nói Lam sư tỷ độc lập thu phục một con Linh thú, không nghĩ ra là Kim Tình Điêu, chúc mừng!\"",
-      "similarity": [
-        [
-          30,
-          0.34
-        ]
-      ]
+      "dich": "\"Mấy ngày trước nghe nói Lam Kha sư tỷ một mình thu phục được một con linh thú, không ngờ lại là Kim Tình Điêu, chúc mừng!\"",
+      "suggest": "\"Vài ngày trước nghe nói Lam Kha sư tỷ độc lập thu phục một con Linh thú, không nghĩ ra là Kim Tình Điêu, chúc mừng!\"",
+      "approved": true
     },
     {
       "convert": "Một bên từ đầu đến cuối không có nói chuyện qua Xích Thuật cũng mở miệng, trong giọng nói lại lộ ra rõ ràng hâm mộ.",
-      "dich": "\"Mấy ngày trước nghe nói Lam Kha sư tỷ một mình thu phục được một con linh thú, không ngờ lại là Kim Tình điêu, chúc mừng!\"",
-      "suggest": "Xích Thuật bên cạnh từ đầu đến cuối cũng mở miệng, trong giọng nói lộ ra sự hâm mộ.",
-      "similarity": []
+      "dich": "Xích Thuật ở bên cạnh đó giờ không nói nửa câu lại đột nhiên lên tiếng chúc mừng, nhưng trong ngữ điệu lộ rõ vẻ ghen tị.",
+      "suggest": "Xích Thuật một bên từ đầu đến cuối không mở miệng nói chuyện với gã, trong giọng nói lộ ra vẻ hâm mộ.",
+      "approved": true
     },
     {
       "convert": "Kim Tình Điêu là Thập Vạn Đại Sơn đặc hữu một loại phi cầm hung thú, mặc dù chiến lực không mạnh, nhưng tốc độ phi hành cực nhanh, sức chịu đựng cũng là thượng giai, hay hơn chính là, này điêu thị lực vô cùng tốt, có thể nhìn thấy bên ngoài mấy dặm tình huống, mặc kệ là dùng vu đi đường, vẫn là điều tra, đều là nhân tuyển tốt nhất.",
-      "dich": "Xích Thuật ở bên cạnh đó giờ không nói nửa câu lại đột nhiên lên tiếng chúc mừng, nhưng trong ngữ điệu lộ rõ vẻ ghen tị.",
-      "suggest": "Kim Tình Điêu là một hung thú thuộc chi Thập Vạn Đại Sơn, mặc dù chiến lực không mạnh nhưng tốc độ phi hành cực nhanh, sức chịu đựng cũng thuộc hàng thượng giai. Hơn nữa, thị lực của nó vô cùng tốt, có thể nhìn thấy tình huống bên ngoài mấy dặm, cho dù là dùng vu đi đường, hay là điều tra, đều là lựa chọn tốt nhất.",
-      "similarity": [
-        [
-          32,
-          0.47
-        ]
-      ]
+      "dich": "Kim Tình Điêu là một loại phi cầm hung thú chỉ Thập Vạn Đại Sơn mới có, dù chiến lực không mạnh nhưng tốc độ phi hành cực nhanh, sức chịu đựng cũng thuộc hàng cao, điểm tuyệt diệu hơn chính là điêu này có thị lực cực tốt, có thể nhìn thấy tình huống ở cách nó mấy dặm, bất kể là dùng để đi đường, hay là điều tra đều là lựa chọn hàng đầu.",
+      "suggest": "Kim Tình Điêu là một loại hung thú đặc hữu của Thập Vạn Đại Sơn, mặc dù chiến lực không mạnh nhưng tốc độ phi hành cực nhanh, sức chịu đựng cũng thuộc hàng thượng giai. Cái quan trọng hơn cả là thị lực của nó rất tốt, có thể nhìn thấy tình hình bên ngoài mấy dặm, bất kể là dùng vu đi đường, hay là điều tra, đều là những người được chọn tốt nhất.",
+      "approved": true
     },
     {
       "convert": "Chỉ tiếc Kim Tình Điêu tính tình kịch liệt, thà chết chứ không chịu khuất phục, rất khó thuần phục, toàn bộ Bích La Động cũng không có vài đầu Kim Tình Điêu Linh thú, Xích Thuật mới có thể như vậy hâm mộ.",
-      "dich": "Kim Tình điêu là một loại phi cầm hung thú chỉ Thập Vạn Đại Sơn mới có, dù chiến lực không mạnh nhưng tốc độ phi hành cực nhanh, sức chịu đựng cũng thuộc hàng cao, điểm tuyệt diệu hơn chính là điêu này có thị lực cực tốt, có thể nhìn thấy tình huống ở cách nó mấy dặm, bất kể là dùng để đi đường, hay là điều tra đều là lựa chọn hàng đầu.",
-      "suggest": "Chỉ tiếc Kim Tình Điêu tính tình kịch liệt, thà chết chứ không chịu khuất phục, rất khó thuần phục, toàn bộ Bích La Động cũng không có mấy đầu Linh Thú Kim Tình Điêu, Xích Thuật mới có thể hâm mộ được như vậy.",
-      "similarity": [
-        [
-          33,
-          0.35
-        ]
-      ]
+      "dich": "Chỉ tiếc Kim Tình Điêu tâm tính quyết liệt, thà chết không khuất phục nên rất khó thuần phục, cả Bích La Động cũng không có mấy con Kim Tình Điêu, bởi thế Xích Thuật mới tỏ ra ghen tị như vậy.",
+      "suggest": "Chỉ tiếc Kim Tình Điêu tính tình kịch liệt, thà chết chứ không chịu khuất phục, rất khó thuần phục, toàn bộ Bích La Động cũng chỉ có vài con Kim Tình Điêu, Thuật Kim Tình mới có thể hâm mộ như vậy.",
+      "approved": true
     },
     {
       "convert": "\"Xích Thuật sư đệ quá khen, ta cũng là may mắn, lúc này mới thành công.\"",
-      "dich": "Chỉ tiếc Kim Tình điêu tâm tính quyết liệt, thà chết không khuất phục nên rất khó thuần phục, cả Bích La Động cũng không có mấy con Kim Tình điêu, bởi thế Xích Thuật mới tỏ ra ghen tị như vậy.",
-      "suggest": "\"Xích Thuật sư đệ quá khen, ta cũng là may mắn, lúc này mới thành công.\"",
-      "similarity": [
-        [
-          34,
-          0.69
-        ]
-      ]
+      "dich": "\"Xích Thuật sư đệ quá khen, ta cũng là may mắn mới thành công thu phục nó.\"",
+      "suggest": "\"Xích Thuật sư đệ quá khen rồi, ta cũng là may mắn, lúc này mới thành công.\"",
+      "approved": true
     },
     {
       "convert": "Lam Kha khiêm tốn cười nói, nhưng trong tươi cười mang theo một tia không che giấu được tự đắc, hiển nhiên đối thu phục đầu này Linh thú rất là đắc ý.",
-      "dich": "\"Xích Thuật sư đệ quá khen, ta cũng là may mắn mới thành công thu phục nó.\"",
-      "suggest": "Lam Kha khiêm tốn cười nói, nhưng trong tươi cười lại mang theo một chút tự đắc không thể che dấu được, hiển nhiên đối với việc thu phục đầu Linh Thú này rất đắc ý.",
-      "similarity": [
-        [
-          35,
-          0.51
-        ]
-      ]
+      "dich": "Lam Kha khiêm tốn cười nói, nhưng trong nụ cười lại mang theo một tia tự đắc không thể giấu được, hiển nhiên là rất đắc ý với việc thu phục con linh thú này.",
+      "suggest": "Lam Kha khiêm tốn cười nói, nhưng trong tươi cười lại mang theo một tia tự đắc không thể che dấu được, hiển nhiên đối với việc thu phục con Linh thú này rất là đắc ý.",
+      "approved": true
     },
     {
       "convert": "Viên Minh đối ngự thú cảm thấy hứng thú, hiếu kì đánh giá đến Kim Tình Điêu.",
-      "dich": "Lam Kha khiêm tốn cười nói, nhưng trong nụ cười lại mang theo một tia tự đắc không thể giấu được, hiển nhiên là rất đắc ý với việc thu phục con linh thú này.",
+      "dich": "Viên Minh cảm thấy khá hứng thú với chuyện ngự thú, hiếu kỳ quan sát Kim Tình Điêu.",
       "suggest": "Viên Minh đối với ngự thú cảm thấy hứng thú, hiếu kì đánh giá Kim Tình Điêu.",
-      "similarity": [
-        [
-          36,
-          0.14
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "Kim Tình Điêu tựa hồ phát giác Viên Minh ánh mắt, nhìn lại.",
-      "dich": "Viên Minh cảm thấy khá hứng thú với chuyện ngự thú, hiếu kỳ quan sát Kim Tình điêu.",
-      "suggest": "Kim Tình Điêu dường như phát hiện ra ánh mắt của Viên Minh, nhìn lại.",
-      "similarity": [
-        [
-          37,
-          0.4
-        ]
-      ]
+      "dich": "Kim Tình Điêu tựa hồ phát giác ánh mắt của Viên Minh, liền nhìn lại.",
+      "suggest": "Kim Tình Điêu dường như phát giác ánh mắt Viên Minh, nhìn lại.",
+      "approved": true
     },
     {
-      "convert": "\"Cục cục...\"",
-      "dich": "Kim Tình điêu tựa hồ phát giác ánh mắt của Viên Minh, liền nhìn lại.",
-      "suggest": "\"Cục cục ...\"",
-      "similarity": [
-        [
-          55,
-          0.17
-        ],
-        [
-          100,
-          0.15
-        ],
-        [
-          113,
-          0.11
-        ]
-      ]
-    },
-    {
-      "convert": "Này điêu phát ra một tiếng khẽ kêu.",
+      "convert": "\"Cục cục...\" Này điêu phát ra một tiếng khẽ kêu.",
       "dich": "\"Cục ...\" Điêu này khẽ kêu một tiếng.",
-      "suggest": "Đầu cốt quỷ hình người phát ra một tiếng kêu khẽ.",
-      "similarity": []
+      "suggest": "\"Cục cục ...\" Con điêu này khẽ kêu lên.",
+      "approved": true
     },
     {
       "convert": "Viên Minh khẽ giật mình, chẳng biết tại sao, hắn từ Kim Tình Điêu tiếng kêu bên trong cảm thấy một chút thân cận chi ý.",
-      "dich": "Viên Minh hơi giật mình, chẳng biết tại sao, hắn cảm nhận được một chút ý thân cận từ trong tiếng kêu của Kim Tình điêu.",
-      "suggest": "Viên Minh khẽ giật mình, chẳng biết tại sao, từ trong tiếng kêu của Kim Tình Điêu hắn lại cảm thấy thân cận hơn một chút.",
-      "similarity": [
-        [
-          39,
-          0.51
-        ],
-        [
-          61,
-          0.11
-        ]
-      ]
+      "dich": "Viên Minh hơi giật mình, chẳng biết tại sao, hắn cảm nhận được một chút ý thân cận từ trong tiếng kêu của Kim Tình Điêu.",
+      "suggest": "Viên Minh khẽ giật mình, chẳng biết tại sao, hắn cảm nhận được một chút thân cận từ tiếng Kim Tình Điêu truyền tới.",
+      "approved": true
     },
     {
       "convert": "\"Tam động chủ Hỏa Điêu đối ta có chút thân cận, cái này Kim Tình Điêu tựa hồ cũng không ghét ta, hẳn là ta có thân cận động vật đặc chất?",
-      "dich": "\"Chồn lửa của Tam động chủ cũng có phần thân cận với ta, Kim Tình điêu này có vẻ cũng không ghét ta, chẳng lẽ ta có đặc tính dễ gần động vật sao?",
-      "suggest": "\"Tam động chủ Hỏa Điêu đối với ta có chút thân cận, nhưng con Kim Tình Điêu này dường như không ghét ta, chắc là do ta có động vật đặc biệt?",
-      "similarity": [
-        [
-          40,
-          0.14
-        ]
-      ]
+      "dich": "\"Chồn lửa của Tam động chủ cũng có phần thân cận với ta, Kim Tình Điêu này có vẻ cũng không ghét ta, chẳng lẽ ta có đặc tính dễ gần động vật sao?",
+      "suggest": "\"Tam động chủ Hỏa Điêu có chút thân cận với ta, nhưng Kim Tình Điêu này dường như không ghét ta, hẳn là nó có đặc điểm giống động vật đặc thù?",
+      "approved": true
     },
     {
       "convert": "Vì sao trước đây cùng những cái kia Thập Vạn Đại Sơn hung thú thật không có loại cảm giác này.\"",
       "dich": "Nếu thế vì sao trước đây lại không có loại cảm giác này với đám hung thú trong Thập Vạn Đại Sơn?\"",
-      "suggest": "Vì sao trước đây mình và những hung thú kia không có loại cảm giác này?\"",
-      "similarity": [
-        [
-          41,
-          0.29
-        ]
-      ]
+      "suggest": "Vì sao trước đây cùng với những hung thú Thập Vạn Đại Sơn kia lại không có cảm giác này?\"",
+      "approved": true
     },
     {
       "convert": "Hắn có chút trượng nhị hòa thượng, không nghĩ ra.",
       "dich": "Hắn có chút trượng nhị hòa thượng, nghĩ không ra.",
-      "suggest": "Hắn có chút không hiểu nổi, không thể nghĩ ra.",
-      "similarity": [
-        [
-          42,
-          0.14
-        ]
-      ]
+      "suggest": "Hắn có chút bất an, không nghĩ ra được.",
+      "approved": true
     },
     {
       "convert": "\"Thời điểm không còn sớm, lại nói chuyện phiếm xuống dưới, chỉ sợ muốn chậm trễ nhiệm vụ, cái này liền lên đường đi.\"",
       "dich": "\"Thời gian không còn sớm, còn tán gẫu nữa e là sẽ trễ nải nhiệm vụ, chúng ta lập tức lên đường thôi.\"",
-      "suggest": "\"Thời gian không còn sớm nữa, nói chuyện phiếm một chút, chỉ sợ sẽ làm chậm trễ nhiệm vụ, vậy lập tức lên đường thôi.\"",
-      "similarity": [
-        [
-          43,
-          0.39
-        ]
-      ]
+      "suggest": "\"Thời gian không còn sớm, chúng ta hãy nói chuyện phiếm một chút, sợ rằng sẽ bị chậm trễ nhiệm vụ, vậy thì lập tức lên đường thôi.\"",
+      "approved": true
     },
     {
       "convert": "Lam Kha nhảy lên Kim Tình Điêu lưng.",
-      "dich": "Lam Kha nhảy lên lưng Kim Tình điêu.",
-      "suggest": "Lam Kha nhảy lên lưng Kim Tình Điêu.",
-      "similarity": [
-        [
-          44,
-          0.75
-        ],
-        [
-          45,
-          0.11
-        ],
-        [
-          59,
-          0.11
-        ],
-        [
-          69,
-          0.11
-        ],
-        [
-          90,
-          0.11
-        ],
-        [
-          99,
-          0.1
-        ]
-      ]
+      "dich": "Lam Kha nhảy lên lưng Kim Tình Điêu.",
+      "suggest": "Lam Kha nhảy lên lưng Điêu Thuyền.",
+      "approved": true
     },
     {
       "convert": "Viên Minh nghe vậy, cũng nhảy lên.",
       "dich": "Viên Minh nghe vậy cũng nhảy lên theo.",
-      "suggest": "Viên Minh nghe vậy cũng nhảy lên.",
-      "similarity": [
-        [
-          44,
-          0.11
-        ],
-        [
-          45,
-          0.75
-        ],
-        [
-          56,
-          0.12
-        ],
-        [
-          66,
-          0.13
-        ],
-        [
-          101,
-          0.13
-        ],
-        [
-          114,
-          0.13
-        ]
-      ]
+      "suggest": "Viên Minh nghe vậy, cũng nhảy lên theo.",
+      "approved": true
     },
     {
       "convert": "Kim Tình Điêu lưng rộng lớn, đứng hai người, vẫn có rất lớn đất trống.",
-      "dich": "Lưng Kim Tình điêu rất lớn, hai người đứng mà chỗ trống còn rất nhiều.",
-      "suggest": "Lưng Kim Tình Điêu rộng lớn, đứng giữa hai người, vẫn có rất lớn đất trống.",
-      "similarity": [
-        [
-          46,
-          0.13
-        ]
-      ]
+      "dich": "Lưng Kim Tình Điêu rất lớn, hai người đứng mà chỗ trống còn rất nhiều.",
+      "suggest": "Lưng Kim Tình Điêu rộng lớn, đứng giữa hai người, vẫn có một khoảng đất trống rất lớn.",
+      "approved": true
     },
     {
       "convert": "Này điêu phát ra kêu lên một tiếng bén nhọn, chấn động hai cánh, dễ dàng liền nói khởi hai người, xông thẳng tới chân trời mà đi.",
       "dich": "Điêu này kêu lên một tiếng chói tai, vỗ hai cánh, nhẹ nhàng chở hai người bay thẳng về phía chân trời.",
-      "suggest": "Con chim nhỏ kêu lên một tiếng bén nhọn, chấn động hai cánh, sau đó dễ dàng nhấn mạnh hai người, xông thẳng tới chân trời.",
-      "similarity": [
-        [
-          47,
-          0.16
-        ]
-      ]
+      "suggest": "Con chim ưng này kêu lên một tiếng bén nhọn, rung chuyển hai cánh, dễ dàng tóm được hai người, xông thẳng về phía chân trời.",
+      "approved": true
     },
     {
       "convert": "Mộc cách ba người cũng triệu hồi ra mướn được Linh thú, lại là ba đầu Bạch Hạc, hình thể so với Kim Tình Điêu nhỏ không ít, nhưng nói khởi bọn hắn dư xài, đuổi theo.",
-      "dich": "Ba người Mộc Ly cũng triệu hồi linh thú mới thuê được ra, cả ba đều là hạc trắng, hình thể tuy nhỏ hơn Kim Tình điêu không ít, nhưng để chở bọn họ đuổi theo thì vẫn rất thoải mái.",
-      "suggest": "Ba người thợ săn cũng triệu hồi ra Linh thú thuê được, lại là ba đầu Bạch Hạc, hình thể so với Kim Tình Điêu không nhỏ hơn mấy. Nói tóm lại bọn hắn dư xài, không đuổi theo.",
-      "similarity": []
+      "dich": "Ba người Mộc Ly cũng triệu hồi linh thú mới thuê được ra, cả ba đều là hạc trắng, hình thể tuy nhỏ hơn Kim Tình Điêu không ít, nhưng để chở bọn họ đuổi theo thì vẫn rất thoải mái.",
+      "suggest": "Ba người thợ săn cũng triệu hồi linh thú ra thuê, nhưng đó là ba con sói xanh, hình thể nhỏ hơn Kim Tình Điêu nhiều, nhưng nói chung bọn chúng dư xài, bám theo.",
+      "approved": true
     },
     {
       "convert": "Kim Tình Điêu tốc độ rất nhanh, hết thảy chung quanh cấp tốc lui lại, Bích La Động sơn môn rất nhanh liền bị xa xa để qua đằng sau, biến thành một cái chấm đen nhỏ.",
-      "dich": "Kim Tình điêu có tốc độ bay rất nhanh, mọi thứ xung quanh nhanh chóng lui lại, sơn môn Bích La Động chỉ chốc lát đã trở thành một chấm nhỏ nằm tít mãi phía sau.",
-      "suggest": "Tốc độ Kim Tình Điêu rất nhanh, tất cả mọi thứ xung quanh nhanh chóng lui lại, sơn môn Bích La động rất nhanh đã bị một đám mây đen nhỏ che khuất, biến thành một chấm đen nhỏ.",
-      "similarity": [
-        [
-          49,
-          0.37
-        ]
-      ]
+      "dich": "Kim Tình Điêu có tốc độ bay rất nhanh, mọi thứ xung quanh nhanh chóng lui lại, sơn môn Bích La Động chỉ chốc lát đã trở thành một chấm nhỏ nằm tít mãi phía sau.",
+      "suggest": "Tốc độ của Kim Tình Điêu rất nhanh, tất cả mọi thứ xung quanh nhanh chóng lui lại, Bích La Động rất nhanh đã bị chặn lại đằng sau, biến thành một chấm đen nhỏ.",
+      "approved": true
     },
     {
       "convert": "Viên Minh thấy cảnh này, trong lòng cũng âm thầm hâm mộ.",
       "dich": "Viên Minh thấy cảnh này, trong lòng cũng âm thầm ước ao.",
       "suggest": "Viên Minh thấy cảnh này, trong lòng cũng thầm hâm mộ.",
-      "similarity": [
-        [
-          50,
-          0.63
-        ],
-        [
-          112,
-          0.17
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "Như hắn có được như thế một con Linh thú, về sau mặc kệ là chấp hành tông môn nhiệm vụ, vẫn là làm sự tình khác, đều sẽ thuận tiện rất nhiều.",
       "dich": "Nếu hắn có được một con linh thú thế này, sau này bất kể là chấp hành nhiệm vụ tông môn hay làm chuyện gì khác đều sẽ thuận lợi hơn nhiều.",
-      "suggest": "Nếu hắn có được một con Linh thú như thế, sau này mặc kệ là chấp hành nhiệm vụ tông môn, hay là làm những chuyện khác, đều sẽ thuận tiện hơn rất nhiều.",
-      "similarity": [
-        [
-          51,
-          0.37
-        ]
-      ]
+      "suggest": "Như hắn có được một con Linh thú như thế, sau này mặc kệ là chấp hành nhiệm vụ tông môn, hay là làm những chuyện khác đều thuận tiện hơn rất nhiều.",
+      "approved": true
     },
     {
-      "convert": "Chỉ tiếc, hắn tiến vào Bích La Động mới nửa tháng, chớ nói Bích La Động hạch tâm ngự thú thuật, chính là Khu vật thuật cũng không thể đổi được.",
-      "dich": "Đáng tiếc hắn mới vào Bích La Động nửa tháng, đừng nói tới Ngự Thú thuật là hạch tâm của Bích La Động, chỉ là Khu Vật thuật thôi cũng chưa thể đổi được.",
-      "suggest": "Chỉ tiếc, hắn mới tiến vào Bích La Động chưa được nửa tháng, chớ nói là ngự thú hạch tâm Bích La Động, ngay cả Thuật Khu Vật cũng không đổi được.",
-      "similarity": [
-        [
-          52,
-          0.22
-        ]
-      ]
+      "convert": "Chỉ tiếc, hắn tiến vào Bích La Động mới nửa tháng, chớ nói Bích La Động hạch tâm Ngự Thú Thuật, chính là Khu Vật Thuật cũng không thể đổi được.",
+      "dich": "Đáng tiếc hắn mới vào Bích La Động nửa tháng, đừng nói tới Ngự Thú Thuật là hạch tâm của Bích La Động, chỉ là Khu Vật Thuật thôi cũng chưa thể đổi được.",
+      "suggest": "Chỉ tiếc, hắn mới tiến vào Bích La Động được nửa tháng, chớ nói đến thuật ngự thú của Bích La Động, ngay cả thuật Khu Vật cũng không thể đổi được.",
+      "approved": true
     },
     {
       "convert": "\"Viên sư đệ, ngươi tốt nhất thấp ép xuống thân thể, Kim Tình Điêu tốc độ phi hành nhanh, chớ có bị mang theo kình phong thổi xuống đi.\"",
-      "dich": "\"Viên sư đệ, người tốt nhất nên ép người xuống, Kim Tình điêu bay rất nhanh, đừng để bị kình phong kéo xuống đấy.\"",
-      "suggest": "\"Viên sư đệ, ngươi tốt nhất là hạ thấp thân thể xuống, tốc độ phi hành của Kim Tình Điêu càng nhanh, càng không nên để bị kình phong cuốn xuống.\"",
-      "similarity": [
-        [
-          53,
-          0.22
-        ]
-      ]
+      "dich": "\"Viên sư đệ, người tốt nhất nên ép người xuống, Kim Tình Điêu bay rất nhanh, đừng để bị kình phong kéo xuống đấy.\"",
+      "suggest": "\"Viên sư đệ, ngươi tốt nhất là ép thấp người xuống, tốc độ Kim Tình Điêu phi hành nhanh, chớ để bị kình phong thổi ngược lại.\"",
+      "approved": true
     },
     {
       "convert": "Lam Kha gặp Viên Minh suy nghĩ xuất thần, nhắc nhở.",
       "dich": "Lam Kha thấy Viên Minh thẫn thờ suy nghĩ, bèn lên tiếng nhắc nhở.",
-      "suggest": "Lam Kha thấy Viên Minh suy nghĩ xuất thần, nhắc nhở.",
-      "similarity": [
-        [
-          54,
-          0.34
-        ],
-        [
-          112,
-          0.11
-        ]
-      ]
+      "suggest": "Lam Kha thấy Viên Minh suy nghĩ xuất thần, liền nhắc nhở.",
+      "approved": true
     },
     {
-      "convert": "\"Vâng.\"",
-      "dich": "\"Vâng.\"",
-      "suggest": "\"Vâng.\"",
-      "similarity": [
-        [
-          3,
-          0.11
-        ],
-        [
-          55,
-          1
-        ],
-        [
-          66,
-          0.16
-        ],
-        [
-          90,
-          0.11
-        ],
-        [
-          99,
-          0.16
-        ],
-        [
-          100,
-          0.15
-        ],
-        [
-          113,
-          0.11
-        ],
-        [
-          118,
-          0.18
-        ]
-      ]
-    },
-    {
-      "convert": "Viên Minh ngồi xuống.",
-      "dich": "Viên Minh đáp xong liền ngồi xuống.",
-      "suggest": "Viên Minh ngồi xuống.",
-      "similarity": [
-        [
-          3,
-          0.11
-        ],
-        [
-          45,
-          0.11
-        ],
-        [
-          55,
-          0.12
-        ],
-        [
-          56,
-          0.26
-        ],
-        [
-          66,
-          0.28
-        ],
-        [
-          90,
-          0.11
-        ],
-        [
-          99,
-          0.12
-        ],
-        [
-          101,
-          0.15
-        ],
-        [
-          114,
-          0.18
-        ],
-        [
-          118,
-          0.11
-        ]
-      ]
+      "convert": "\"Vâng.\" Viên Minh ngồi xuống.",
+      "dich": "\"Vâng.\" Viên Minh đáp xong liền ngồi xuống.",
+      "suggest": "\"Vâng.\" Viên Minh đáp.",
+      "approved": true
     },
     {
       "convert": "Kim Tình Điêu khẽ kêu một tiếng, Viên Minh quanh người lông vũ đột nhiên chi lăng, che ở trước người hắn, chạm mặt tới khí lưu lập tức bị ngăn lại hơn phân nửa.",
-      "dich": "Kim Tình điêu khẽ kêu một tiếng, ngay tiếp đó lông vũ quanh người Viên Minh đột nhiên xòe lên, che trước người hắn, theo đó khí lưu thổi vào mặt lập tức bị chặn đi hơn phân nửa.",
-      "suggest": "Kim Tình Điêu khẽ kêu lên một tiếng, Lông vũ trên người Viên Minh đột nhiên lăng không che dấu, chắn trước người hắn, khí lưu chạm vào lập tức bị chặn lại hơn nửa.",
-      "similarity": [
-        [
-          57,
-          0.27
-        ]
-      ]
+      "dich": "Kim Tình Điêu khẽ kêu một tiếng, ngay tiếp đó lông vũ quanh người Viên Minh đột nhiên xòe lên, che trước người hắn, theo đó khí lưu thổi vào mặt lập tức bị chặn đi hơn phân nửa.",
+      "suggest": "Kim Tình Điêu khẽ kêu lên, lông vũ trên người Viên Minh đột nhiên xoay tròn, che khuất trước người gã, luồng khí lưu vừa chạm vào lập tức bị chặn lại hơn nửa.",
+      "approved": true
     },
     {
       "convert": "\"A, đầu này Kim Tình Điêu mặc dù bị ta thu phục, tính tình vẫn cao ngạo, cực ít thân cận người khác, bất quá xem ra tựa hồ rất thích Viên sư đệ ngươi, ngược lại là rất hiếm thấy.\"",
-      "dich": "\"Ồ, con Kim Tình điêu này dù bị ta thu phục nhưng tính tình vẫn cao ngạo, rất ít thận cận người khác, nhưng xem ra lại có vẻ thích Viên sư đệ ngươi, đúng là rất hiếm thấy.\"",
-      "suggest": "\"A, đầu Kim Tình Điêu này mặc dù bị ta thu phục, tính tình vẫn cao ngạo, ít tiếp xúc với người khác, bất quá xem ra tựa hồ ngươi rất thích Viên sư đệ, trái lại rất hiếm thấy.\"",
-      "similarity": [
-        [
-          58,
-          0.35
-        ]
-      ]
+      "dich": "\"Ồ, con Kim Tình Điêu này dù bị ta thu phục nhưng tính tình vẫn cao ngạo, rất ít thận cận người khác, nhưng xem ra lại có vẻ thích Viên sư đệ ngươi, đúng là rất hiếm thấy.\"",
+      "suggest": "\"A, con Kim Tình Điêu này mặc dù bị ta thu phục, nhưng tính tình vẫn cao ngạo, cực ít thân cận với người khác, bất quá xem ra nó rất thích Viên sư đệ ngươi, trái lại còn rất hiếm thấy.\"",
+      "approved": true
     },
     {
       "convert": "Lam Kha mặt lộ vẻ kinh ngạc.",
       "dich": "Lam Kha lộ vẻ kinh ngạc.",
       "suggest": "Lam Kha lộ vẻ kinh ngạc.",
-      "similarity": [
-        [
-          44,
-          0.11
-        ],
-        [
-          59,
-          1
-        ],
-        [
-          69,
-          0.12
-        ],
-        [
-          90,
-          0.16
-        ],
-        [
-          99,
-          0.17
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "\"Viên mỗ từ nhỏ đã rất thụ động vật yêu thích, có thể là nguyên nhân này đi.\"",
       "dich": "\"Viên mỗ từ nhỏ đã được động vật yêu thích, có thể là vì thế chăng.\"",
-      "suggest": "\"Viên mỗ từ nhỏ đã rất yêu động vật, có lẽ vì nguyên nhân này mà thành.\"",
-      "similarity": [
-        [
-          60,
-          0.31
-        ]
-      ]
+      "suggest": "\"Viên mỗ từ nhỏ đã rất thích động vật, có lẽ là vì nguyên nhân này.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh cũng chẳng biết tại sao có thể như vậy, tuỳ tiện qua loa tắc trách một cái lí do thoái thác.",
       "dich": "Viên Minh cũng chẳng biết tại sao lại như vậy, chỉ đành kiếm đại một lý do lấp liếm cho qua chuyện.",
-      "suggest": "Viên Minh cũng chẳng biết tại sao mình lại có thể tùy tiện ngắt lời một câu như vậy được, tùy tiện đưa ra một lí do thoái thác.",
-      "similarity": [
-        [
-          39,
-          0.1
-        ],
-        [
-          61,
-          0.22
-        ]
-      ]
+      "suggest": "Viên Minh cũng không biết tại sao lại có thể như vậy, tùy tiện nói một câu tắc trách.",
+      "approved": true
     },
     {
       "convert": "\"Trên đời vẫn còn bực này dị năng?",
       "dich": "\"Trên đời còn có dị năng bực này?",
-      "suggest": "\"Trên đời vẫn còn dị năng cấp này sao?",
-      "similarity": [
-        [
-          62,
-          0.2
-        ]
-      ]
+      "suggest": "\"Trên đời này còn dị năng loại nào nữa?",
+      "approved": true
     },
     {
-      "convert": "Nếu thật là dạng này, Viên sư đệ ngươi ngược lại là một cái tu luyện ngự thú thuật nhân tài.\"",
-      "dich": "Nếu thật là như thế, Viên sư đệ ngươi trái lại là một nhân tài tu luyện Ngự Thú thuật đó.\"",
-      "suggest": "Nếu thật sự là như vậy, Viên sư đệ chẳng phải là một nhân tài tu luyện ngự thú sao!\"",
-      "similarity": [
-        [
-          6,
-          0.12
-        ],
-        [
-          63,
-          0.34
-        ]
-      ]
+      "convert": "Nếu thật là dạng này, Viên sư đệ ngươi ngược lại là một cái tu luyện Ngự Thú Thuật nhân tài.\"",
+      "dich": "Nếu thật là như thế, Viên sư đệ ngươi trái lại là một nhân tài tu luyện Ngự Thú Thuật đó.\"",
+      "suggest": "Nếu thật sự là như thế, Viên sư đệ ngươi quả thực là một nhân tài tu luyện thuật ngự thú.\"",
+      "approved": true
     },
     {
       "convert": "Lam Kha vẫn có chút kinh nghi bất định, nói.",
       "dich": "Lam Kha vẫn có chút kinh nghi bất định, nói.",
-      "suggest": "Lam Kha vẫn có chút nghi hoặc, nói.",
-      "similarity": [
-        [
-          64,
-          0.44
-        ],
-        [
-          99,
-          0.1
-        ],
-        [
-          112,
-          0.12
-        ]
-      ]
+      "suggest": "Lam Kha vẫn có chút nghi hoặc, hỏi.",
+      "approved": true
     },
     {
-      "convert": "\"Bản môn ngự thú thuật, Ngự Thú Đường bên ngoài đệ tử khác cũng có thể học tập?\"",
-      "dich": "\"Đệ tử ngoài Ngự Thú đường cũng có thể học tập Ngự Thú thuật của bản môn sao?\"",
-      "suggest": "\"Bản môn ngự thú thuật, những đệ tử khác ở Ngự Thú đường có thể học được?\"",
-      "similarity": [
-        [
-          65,
-          0.14
-        ]
-      ]
+      "convert": "\"Bản môn Ngự Thú Thuật, Ngự Thú Đường bên ngoài đệ tử khác cũng có thể học tập?\"",
+      "dich": "\"Đệ tử ngoài Ngự Thú Đường cũng có thể học tập Ngự Thú Thuật của bản môn sao?\"",
+      "suggest": "\"Bản môn Ngự Thú Thuật, đệ tử bên ngoài Ngự Thú Đường cũng có thể học tập?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh hỏi.",
       "dich": "Viên Minh hỏi.",
       "suggest": "Viên Minh hỏi.",
-      "similarity": [
-        [
-          3,
-          0.11
-        ],
-        [
-          45,
-          0.11
-        ],
-        [
-          55,
-          0.16
-        ],
-        [
-          56,
-          0.12
-        ],
-        [
-          66,
-          1
-        ],
-        [
-          71,
-          0.12
-        ],
-        [
-          90,
-          0.11
-        ],
-        [
-          99,
-          0.16
-        ],
-        [
-          101,
-          0.15
-        ],
-        [
-          114,
-          0.18
-        ],
-        [
-          118,
-          0.18
-        ]
-      ]
+      "approved": true
     },
     {
-      "convert": "\"Đương nhiên có thể, bản môn ngự thú chi thuật rất nhiều, chỉ cần là Bích La Động đồ đệ đều có thể học tập, Quy Tàng các bên trong liền có thể tiến hành mượn đọc.",
-      "dich": "\"Tất nhiên có thể, thuật ngự thú của bản môn rất nhiều, chỉ cần là đệ tử Bích La Động thì đều có thể học, cứ vào Quy Tàng các là có thể mượn đọc.",
-      "suggest": "\"Đương nhiên là có thể rồi, thuật ngự thú của bản môn rất phong phú, chỉ cần là đồ đệ Bích La Động đều có thể học, Quy Tàng Các bên trong cũng có thể tiến hành mượn đọc.",
-      "similarity": [
-        [
-          67,
-          0.4
-        ]
-      ]
+      "convert": "\"Đương nhiên có thể, bản môn ngự thú chi thuật rất nhiều, chỉ cần là Bích La Động đồ đệ đều có thể học tập, Quy Tàng Các bên trong liền có thể tiến hành mượn đọc.",
+      "dich": "\"Tất nhiên có thể, thuật ngự thú của bản môn rất nhiều, chỉ cần là đệ tử Bích La Động thì đều có thể học, cứ vào Quy Tàng Các là có thể mượn đọc.",
+      "suggest": "\"Đương nhiên là có thể rồi, thuật ngự thú của bản môn rất nhiều, chỉ cần là đồ đệ Bích La Động đều có thể học tập, Quy Tàng Các bên trong cũng có thể tiến hành mượn đọc.",
+      "approved": true
     },
     {
-      "convert": "Chỉ là Quy Tàng các bên trong thu nạp điển tịch tương đối hỗn tạp, không thành hệ thống, thậm chí trong đó khả năng tồn tại một chút chỗ nhầm lẫn, cần bản thân phân biệt, mà bản môn chính thống ngự thú bí pháp thì cần muốn đi Ngự Thú Đường, bất quá không phải Ngự Thú Đường đồ đệ đi dự thính, cần có minh xác lý do.\"",
-      "dich": "Có điều điển tịch trong Quy Tàng các tương đối hỗn tạp, không thành hệ thống, thậm chí trong đó có thể có một số điểm sai sót, cần tự mình phân biệt, còn bí pháp ngự thú chính thống của bản môn thì phải tới Ngự Thú đường, có điều nếu không phải đệ tử Ngự Thú đường mà muốn tới nghe thì cần có lý do chính đáng.\"",
-      "suggest": "Chỉ có điều, trong Quy Tàng các có rất nhiều điển tịch thu nạp khác nhau, có nhiều điểm không thành hệ thống, thậm chí có một vài chỗ nhầm lẫn cần bản thân phân biệt. Mà ngự thú bí pháp chính thống của bổn môn thì cần phải đi Ngự Thú Đường, nhưng đồ đệ của Ngự Thú đường phải đi theo. Nhưng cần phải có lý do chính đáng.\"",
-      "similarity": [
-        [
-          68,
-          0.27
-        ]
-      ]
+      "convert": "Chỉ là Quy Tàng Các bên trong thu nạp điển tịch tương đối hỗn tạp, không thành hệ thống, thậm chí trong đó khả năng tồn tại một chút chỗ nhầm lẫn, cần bản thân phân biệt, mà bản môn chính thống ngự thú bí pháp thì cần muốn đi Ngự Thú Đường, bất quá không phải Ngự Thú Đường đồ đệ đi dự thính, cần có minh xác lý do.\"",
+      "dich": "Có điều điển tịch trong Quy Tàng Các tương đối hỗn tạp, không thành hệ thống, thậm chí trong đó có thể có một số điểm sai sót, cần tự mình phân biệt, còn bí pháp ngự thú chính thống của bản môn thì phải tới Ngự Thú Đường, có điều nếu không phải đệ tử Ngự Thú Đường mà muốn tới nghe thì cần có lý do chính đáng.\"",
+      "suggest": "Chỉ là nội dung các điển tịch trong Quy Tàng tương đối hỗn tạp, không có hệ thống, thậm chí có thể có một vài chỗ trùng lặp, cần bản thân phân biệt. Mà bí pháp ngự thú chính thống của bổn môn thì cần phải đi Ngự Thú Đường, nhưng đồ đệ của bổn môn phải đi dự thính, có điều không phải là đệ tử Ngự Thú Đường thì cần phải có lý do chính xác.\"",
+      "approved": true
     },
     {
       "convert": "Lam Kha vừa cười vừa nói.",
       "dich": "Lam Kha vừa cười vừa giảng giải.",
-      "suggest": "Lam Kha cười nói.",
-      "similarity": [
-        [
-          3,
-          0.13
-        ],
-        [
-          44,
-          0.11
-        ],
-        [
-          55,
-          0.12
-        ],
-        [
-          59,
-          0.15
-        ],
-        [
-          66,
-          0.12
-        ],
-        [
-          69,
-          0.13
-        ],
-        [
-          90,
-          0.24
-        ],
-        [
-          99,
-          0.35
-        ],
-        [
-          118,
-          0.11
-        ]
-      ]
+      "suggest": "Lam Kha vừa cười vừa nói.",
+      "approved": true
     },
     {
       "convert": "\"A, bình thường cần gì lý do?\"",
       "dich": "\"A, bình thường cần lý do gì?\"",
       "suggest": "\"A, bình thường cần lý do gì?\"",
-      "similarity": [
-        [
-          70,
-          1
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "Viên Minh tim đập thình thịch, hỏi.",
       "dich": "Viên Minh tim đập thình thịch, vội hỏi.",
-      "suggest": "Viên Minh tim đập thình thịch, hỏi.",
-      "similarity": [
-        [
-          45,
-          0.11
-        ],
-        [
-          56,
-          0.11
-        ],
-        [
-          66,
-          0.13
-        ],
-        [
-          71,
-          0.71
-        ],
-        [
-          101,
-          0.11
-        ],
-        [
-          114,
-          0.11
-        ]
-      ]
+      "suggest": "Viên Minh trái tim đập thình thịch, hỏi.",
+      "approved": true
     },
     {
       "convert": "\"Cực thường quy, không phải là Ngự Thú Đường đồ đệ ở Hành Chấp Đường tiếp liên quan tới ngự thú nhiệm vụ, tự nhiên có thể đương nhiên đi học tập, ngoài ra, thụ trưởng lão hoặc động chủ phân phó lời nói, cũng có thể.\"",
-      "dich": "\"Thông thường nhất, đệ tử không thuộc Ngự Thú đường nhận nhiệm vụ có liên quan đến ngự thú từ Hành Chấp đường, tự nhiên có thể học như một lẽ đương nhiên.",
-      "suggest": "\"Cực thường quy, không phải là đồ đệ của Ngự Thú đường trực tiếp nhận nhiệm vụ ngự thú, đương nhiên có thể đương nhiên đi học, ngoài ra, theo trưởng lão hoặc động chủ phân phó, cũng có thể.\"",
-      "similarity": []
+      "dich": "\"Thông thường nhất, đệ tử không thuộc Ngự Thú Đường nhận nhiệm vụ có liên quan đến ngự thú từ Hành Chấp Đường, tự nhiên có thể học như một lẽ đương nhiên. Ngoài ra, người nhận lệnh từ động chủ hoặc trưởng lão cũng có thể.\"",
+      "suggest": "\"Cực bình thường, không phải là đồ đệ Ngự Thú Đường trực tiếp làm nhiệm vụ liên quan đến ngự thú, đương nhiên có thể đương nhiên đi học, ngoài ra, theo trưởng lão hoặc động chủ phân phó cũng có thể.\"",
+      "approved": true
     },
     {
       "convert": "Lam Kha tựa hồ đối với Viên Minh cảm nhận không ác, hỏi gì đáp nấy.",
-      "dich": "Ngoài ra, người nhận lệnh từ động chủ hoặc trưởng lão cũng có thể.\"",
-      "suggest": "Lam Kha dường như không có cảm giác gì với Viên Minh, hỏi gì đáp nấy.",
-      "similarity": [
-        [
-          74,
-          0.43
-        ]
-      ]
+      "dich": "Lam Kha dường như không có ác cảm với Viên Minh, hắn hỏi gì nàng đáp đó.",
+      "suggest": "Lam Kha dường như không có cảm giác bất hảo với Viên Minh, hỏi gì đáp nấy.",
+      "approved": true
     },
     {
       "convert": "Viên Minh như có điều suy nghĩ nhẹ gật đầu....",
-      "dich": "Lam Kha dường như không có ác cảm với Viên Minh, hắn hỏi gì nàng đáp đó.",
-      "suggest": "Viên Minh như đang suy nghĩ điều gì, khẽ gật đầu....",
-      "similarity": [
-        [
-          21,
-          0.12
-        ],
-        [
-          75,
-          0.34
-        ]
-      ]
+      "dich": "Viên Minh như có điều suy nghĩ, khẽ gật đầu...",
+      "suggest": "Viên Minh như có điều suy nghĩ nhẹ gật đầu...",
+      "approved": true
     },
     {
       "convert": "Một canh giờ sau, một đoàn người bay qua trăm dặm khoảng cách, đi vào một chỗ màu xám trắng dãy núi.",
-      "dich": "Viên Minh như có điều suy nghĩ, khẽ gật đầu.",
-      "suggest": "Một canh giờ sau, đoàn người vượt qua trăm dặm, đi vào một dãy núi màu xám trắng cách đó trăm dặm.",
-      "similarity": [
-        [
-          77,
-          0.34
-        ]
-      ]
+      "dich": "Sau một canh giờ, một đoàn người bay qua quãng đường hơn trăm dặm, đi tới một dãy núi màu xám trắng.",
+      "suggest": "Một canh giờ sau, đoàn người vượt qua trăm dặm đường, đi tới một dãy núi màu xám trắng.",
+      "approved": true
     },
     {
       "convert": "Nơi này khắp nơi đều là bén nhọn tảng đá, răng sói xen vào nhau tinh tế cắm trên mặt đất, bầu trời bày biện ra nồng đậm u ám sắc, nhưng không có một chút xíu muốn mưa cảm giác, không khí khô nóng, tràn đầy gay mũi mùi lưu hoàng.",
-      "dich": "...",
-      "suggest": "Khắp nơi đều là những tảng đá sắc nhọn, răng sói chen chúc nhau cắm trên mặt đất, bầu trời bày biện u ám, nhưng không có một chút cảm giác thèm khát mưa, không khí khô nóng, tỏa ra mùi lưu huỳnh cay mũi.",
-      "similarity": [
-        [
-          78,
-          0.23
-        ]
-      ]
+      "dich": "Nơi này khắp nơi đều là đá tảng sắc nhọn, như răng sói nằm đan xen trên mặt đất, bầu trời một màu xám xịt, nhưng chẳng có cảm giác gì như sắp mưa, không khí thì khô nóng và tràn ngập mùi lưu huynh gay mũi.",
+      "suggest": "Nơi này khắp nơi đều là những tảng đá nhọn hoắt, răng sói chen chúc nhau cắm trên mặt đất, bầu trời tỏa ra sắc thái u ám, nhưng không có một chút cảm giác muốn mưa, không khí khô nóng, tràn ngập mùi lưu huỳnh gay mũi.",
+      "approved": true
     },
     {
       "convert": "Sở hữu mùi ngọn nguồn là ở giữa dãy núi chỗ một tòa cự đại núi lửa, núi này dị thường cao lớn, cơ hồ thẳng nhập trong mây, khổng lồ ngọn núi phóng xuống mảng lớn bóng tối, để cho người ta nhịn không được sinh lòng kính sợ.",
-      "dich": "Sau một canh giờ, một đoàn người bay qua quãng đường hơn trăm dặm, đi tới một dãy núi màu xám trắng.",
-      "suggest": "Mùi núi này sở hữu ngọn nguồn từ một ngọn núi lửa khổng lồ nằm giữa dãy núi, ngọn núi này dị thường cao lớn, cơ hồ nằm trong mây, ngọn núi này phản chiếu vào trong mây, khiến cho người ta không nhịn được sinh lòng kính sợ.",
-      "similarity": [
-        [
-          79,
-          0.17
-        ],
-        [
-          80,
-          0.13
-        ]
-      ]
+      "dich": "Ngọn nguồn của thứ mùi này là một ngọn núi lửa khổng lồ nằm ở phía trung tâm dãy núi, ngọn núi cao dị thường, gần như chạm vào mây. Ngọn núi khổng lồ tạo ra một bóng râm to lớn, khiến người ta không nhịn được sinh lòng kính sợ.",
+      "suggest": "Sở hữu mùi này là một ngọn núi lửa nằm ở giữa dãy núi, núi này cao lớn dị thường, cơ hồ nằm lọt thỏm giữa mây, phóng xuống một mảng lớn bóng tối, khiến cho người ta không nhịn được sinh lòng kính sợ.",
+      "approved": true
     },
     {
       "convert": "Miệng núi lửa lúc này vẫn rung động ầm ầm, hướng ra phía ngoài phun ra ra cuồn cuộn khói đặc.",
-      "dich": "Nơi này khắp nơi đều là đá tảng sắc nhọn, như răng sói nằm đan xen trên mặt đất, bầu trời một màu xám xịt, nhưng chẳng có cảm giác gì như sắp mưa, không khí thì khô nóng và tràn ngập mùi lưu huynh gay mũi.",
-      "suggest": "Miệng núi lửa lúc này vẫn đang rung lắc ầm ầm, hướng ra phía ngoài phun ra từng luồng khói đặc quánh.",
-      "similarity": [
-        [
-          81,
-          0.11
-        ]
-      ]
+      "dich": "Miệng núi lửa giờ phút này vẫn ầm ầm rung động, cuồn cuộn phun ra những cột khói dày đặc.",
+      "suggest": "Miệng núi lửa lúc này vẫn rung lắc, phun ra khói đặc cuồn cuộn.",
+      "approved": true
     },
     {
       "convert": "\"Đây cũng là trong tháp núi lửa đi.\"",
-      "dich": "Ngọn nguồn của thứ mùi này là một ngọn núi lửa khổng lồ nằm ở phía trung tâm dãy núi, ngọn núi cao dị thường, gần như chạm vào mây.",
-      "suggest": "\"Đây cũng là tháp núi lửa a.\"",
-      "similarity": [
-        [
-          26,
-          0.1
-        ],
-        [
-          82,
-          0.13
-        ]
-      ]
+      "dich": "\"Đây chính là núi lửa Tháp Lý sao.\"",
+      "suggest": "\"Đây cũng là tháp núi lửa trong tháp.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh thầm nghĩ trong lòng, ánh mắt bốn phía băn khoăn, đánh giá quanh mình hoàn cảnh.",
-      "dich": "Ngọn núi khổng lồ tạo ra một bóng râm to lớn, khiến người ta không nhịn được sinh lòng kính sợ.",
-      "suggest": "Viên Minh thầm nghĩ trong lòng, ánh mắt bốn phía quan sát xung quanh.",
-      "similarity": [
-        [
-          83,
-          0.39
-        ]
-      ]
+      "dich": "Viên Minh thầm nghĩ trong lòng, đảo mắt nhìn một vòng đánh giá hoàn cảnh xung quanh.",
+      "suggest": "Viên Minh thầm nghĩ, ánh mắt nhìn quanh quan sát hoàn cảnh xung quanh.",
+      "approved": true
     },
     {
       "convert": "Căn cứ nhiệm vụ giới thiệu, Hỏa Phác Ngọc sinh ra từ lòng đất nham tương, sẽ theo núi lửa phun trào đi vào mặt đất, bọn hắn những người này cần phải làm là từ làm lạnh dung nham ở bên trong đem nó tìm ra.",
-      "dich": "Miệng núi lửa giờ phút này vẫn ầm ầm rung động, cuồn cuộn phun ra những cột khói dày đặc.",
-      "suggest": "Căn cứ theo nhiệm vụ giới thiệu, nham tương sinh ra từ nham tương, sẽ theo núi lửa phun trào đi vào trong lòng đất, việc bọn họ cần làm bây giờ là tìm kiếm nó từ bên trong.",
-      "similarity": [
-        [
-          84,
-          0.24
-        ]
-      ]
+      "dich": "Căn cứ lời giới thiệu nhiệm vụ, Hỏa Phác Ngọc sinh ra từ dung nham dưới lòng đất, sẽ theo núi lửa phun trào mà lên mặt đất, việc mà bọn hắn cần làm là tìm ra chúng từ trong dung nham đã nguội.",
+      "suggest": "Căn cứ nhiệm vụ giới thiệu, Hỏa Phác Ngọc được sinh ra từ nham tương dưới lòng đất, sẽ theo núi lửa phun trào đi vào trong mặt đất, việc bọn họ cần làm là tìm ra nó từ trong dung nham.",
+      "approved": true
     },
     {
       "convert": "Đương nhiên, tại không có ngưng kết nham tương bên trong tìm kiếm Hỏa Phác Ngọc lại càng dễ, điều kiện tiên quyết là có thể nhẫn nại ở nham tương nhiệt độ cao.",
-      "dich": "\"Đây chính là núi lửa Tháp Lý sao.\"",
-      "suggest": "Đương nhiên, trong môi trường không có trữ vật hình thành từ nham tương lại càng dễ, điều kiện tiên quyết là có thể nhẫn nại ở nhiệt độ cực cao của nham tương.",
-      "similarity": [
-        [
-          85,
-          0.22
-        ]
-      ]
+      "dich": "Đương nhiên, tìm kiếm Hỏa Phác Ngọc trong dung nham chưa hoàn toàn nguội đi sẽ dễ dàng hơn, nhưng điều kiện tiên quyết là có thể chịu đựng được nhiệt độ cao của dung nham.",
+      "suggest": "Đương nhiên, tìm kiếm Hỏa Phác Ngọc trong nham tương lại càng dễ dàng hơn, điều kiện tiên quyết là phải kiên trì ở trong nham tương có nhiệt độ cao.",
+      "approved": true
     },
     {
       "convert": "\"Hiện tại mùa này, chính là Hỏa Nham Xà sinh động thời kì, làm việc cần cẩn thận.",
-      "dich": "Viên Minh thầm nghĩ trong lòng, đảo mắt nhìn một vòng đánh giá hoàn cảnh xung quanh.",
-      "suggest": "\"Hiện giờ chính là mùa sinh động của Hỏa Nham Xà, mọi việc cần phải hết sức cẩn thận.",
-      "similarity": [
-        [
-          86,
-          0.11
-        ]
-      ]
+      "dich": "\"Mùa này chính là giai đoạn Hỏa Nham Xà hoạt động, làm việc phải cẩn thận.",
+      "suggest": "\"Hiện tại chính là mùa sinh động nhất của Hỏa Nham Xà, làm việc cần cẩn thận.",
+      "approved": true
     },
     {
       "convert": "Vì đề cao hiệu suất, chúng ta cứ dựa theo trước đó thương lượng xong, chia hai đội đi.",
-      "dich": "Căn cứ lời giới thiệu nhiệm vụ, Hỏa Phác ngọc sinh ra từ dung nham dưới lòng đất, sẽ theo núi lửa phun trào mà lên mặt đất, việc mà bọn hắn cần làm là tìm ra chúng từ trong dung nham đã nguội.",
+      "dich": "Để nâng cao hiệu suất, chúng ta cứ dựa theo kế hoạch đã bàn lúc trước, chia ra hai đội đi.",
       "suggest": "Vì đề cao hiệu suất, chúng ta cứ dựa theo thương lượng trước đó, chia làm hai đội.",
-      "similarity": [
-        [
-          87,
-          0.4
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "Ta cùng A Cổ Lạp, Viên Minh một đội, Xích Thuật cùng mộc cách hai vị sư đệ một đội.",
-      "dich": "Đương nhiên, tìm kiếm Hỏa Phác ngọc trong dung nham chưa hoàn toàn nguội đi sẽ dễ dàng hơn, nhưng điều kiện tiên quyết là có thể chịu đựng được nhiệt độ cao của dung nham.",
-      "suggest": "Ta và A Cổ Lạp, Viên Minh một đội, Xích Thuật và Mộc cách hai vị sư đệ một đội.",
-      "similarity": [
-        [
-          88,
-          0.62
-        ]
-      ]
+      "dich": "Ta cùng A Cổ Lạp, Viên Minh một đội, hai vị sư đệ Xích Thuật và Mộc Ly một đội.",
+      "suggest": "Ta và A Cổ Lạp, Viên Minh một đội, Xích Thuật và Mộc Thuật cách hai vị sư đệ một đội.",
+      "approved": true
     },
     {
       "convert": "Mọi người nhưng có ý kiến?\"",
-      "dich": "\"Mùa này chính là giai đoạn Hỏa Nham xà hoạt động, làm việc phải cẩn thận.",
+      "dich": "Mọi người có ý kiến gì không?\"",
       "suggest": "Mọi người có ý kiến gì không?\"",
-      "similarity": [
-        [
-          89,
-          1
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "Lam Kha nói.",
-      "dich": "Để nâng cao hiệu suất, chúng ta cứ dựa theo kế hoạch đã bàn lúc trước, chia ra hai đội đi.",
+      "dich": "Lam Kha lên tiếng.",
       "suggest": "Lam Kha nói.",
-      "similarity": [
-        [
-          3,
-          0.11
-        ],
-        [
-          44,
-          0.11
-        ],
-        [
-          55,
-          0.16
-        ],
-        [
-          59,
-          0.15
-        ],
-        [
-          66,
-          0.16
-        ],
-        [
-          69,
-          0.12
-        ],
-        [
-          90,
-          0.24
-        ],
-        [
-          99,
-          1
-        ],
-        [
-          118,
-          0.18
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "Những người khác lắc đầu, biểu thị không dị nghị.",
-      "dich": "Ta cùng A Cổ Lạp, Viên Minh một đội, hai vị sư đệ Xích Thuật và Mộc Ly một đội.",
-      "suggest": "Những người khác lắc đầu, biểu thị không dị nghị.",
-      "similarity": [
-        [
-          91,
-          0.53
-        ]
-      ]
+      "dich": "Những người khác cùng lắc đầu, biểu thị không có dị nghị.",
+      "suggest": "Những người khác lắc đầu, tỏ vẻ không dị nghị.",
+      "approved": true
     },
     {
       "convert": "Vào thời khắc này, một tiếng cổn lôi tiếng vang từ miệng núi lửa truyền ra, phụ cận mặt đất kịch liệt lắc lư, một đạo đỏ bừng nham tương hỏa trụ từ đó phun trào, sau đó lên núi phong dưới đáy tràn-chảy.",
-      "dich": "Mọi người có ý kiến gì không?\"",
-      "suggest": "Vào lúc này, một tiếng nổ nhỏ từ miệng núi lửa truyền ra, mặt đất xung quanh rung lắc kịch liệt, một cột lửa đỏ bừng từ trong đó phun trào ra, tiếp đó thì xuống phía dưới núi lửa phun trào ra.",
-      "similarity": [
-        [
-          92,
-          0.25
-        ]
-      ]
+      "dich": "Đúng vào lúc này, một tiếng to như sấm nổ từ trong miệng núi lửa truyền đến, mặt đất xung quanh lắc lư dữ dội, đồng thời một cột dung nham màu đỏ lửa từ trong đó phun ra, sau đó xuôi theo sườn núi chảy xuống phía chân núi.",
+      "suggest": "Đúng lúc này, một tiếng 'rào rào' từ miệng núi lửa truyền ra, mặt đất xung quanh lắc lư kịch liệt, một cột lửa đỏ bừng từ dưới đất phun trào lên, tiếp đó lại phun trào lên trên đỉnh núi.",
+      "approved": true
     },
     {
       "convert": "Viên Minh bọn người chỗ đứng khoảng cách miệng núi lửa vẫn còn thật xa một đoạn, dưới chân thổ địa y nguyên ù ù rung động, giống như địa chấn.",
-      "dich": "Lam Kha lên tiếng.",
-      "suggest": "Khoảng cách giữa bọn Viên Minh và miệng núi lửa vẫn còn cách một đoạn khá xa. Thổ địa dưới chân cứ ù ù rung động, giống như địa chấn vậy.",
-      "similarity": [
-        [
-          93,
-          0.27
-        ]
-      ]
+      "dich": "Đám Viên Minh đứng cách miệng núi lửa một quãng khá xa mà mặt đất dưới chân cũng ù ù rung động, giống như động đất vậy.",
+      "suggest": "Chỗ bọn Viên Minh đứng cách miệng núi lửa còn cách một đoạn rất xa, đất dưới chân vẫn ù ù rung động, giống như địa chấn vậy.",
+      "approved": true
     },
     {
       "convert": "\"Núi lửa phun trào!",
-      "dich": "Những người khác cùng lắc đầu, biểu thị không có dị nghị.",
+      "dich": "\"Núi lửa phun trào!",
       "suggest": "\"Núi lửa phun trào!",
-      "similarity": [
-        [
-          94,
-          1
-        ]
-      ]
+      "approved": true
     },
     {
       "convert": "Quá tốt rồi, khẳng định có mới Hỏa Phác Ngọc xuất hiện, lần này nói không chừng có thể thu hoạch lớn!\"",
-      "dich": "Đúng vào lúc này, một tiếng to như sấm nổ từ trong miệng núi lửa truyền đến, mặt đất xung quanh lắc lư dữ dội, đồng thời một cột dung nham màu đỏ lửa từ trong đó phun ra, sau đó xuôi theo sườn núi chảy xuống phía chân núi.",
-      "suggest": "Quá tốt rồi, khẳng định có Hỏa Phác Ngọc mới xuất hiện, lần này nói không chừng có thể thu được rất nhiều lợi ích!\"",
-      "similarity": [
-        [
-          95,
-          0.46
-        ]
-      ]
+      "dich": "Quá tốt, chắc chắn sẽ có Hỏa Phác Ngọc mới xuất hiện, lần này nói không chừng có thể thu hoạch lớn.\"",
+      "suggest": "Quá tốt rồi, khẳng định lần này có Hỏa Phác Ngọc xuất hiện, nói không chừng lần này có thể thu hoạch được rất lớn!\"",
+      "approved": true
     },
     {
       "convert": "Mộc cách hưng phấn nói một tiếng, hướng nham tương chỗ chạy đi.",
-      "dich": "Đám Viên Minh đứng cách miệng núi lửa một quãng khá xa mà mặt đất dưới chân cũng ù ù rung động, giống như động đất vậy.",
-      "suggest": "Mộc cách hưng phấn nói một tiếng, sau đó lập tức chạy về phía nham tương.",
-      "similarity": [
-        [
-          96,
-          0.11
-        ]
-      ]
+      "dich": "Mộc Ly phấn khích nói, đoạn nhanh chân chạy về phía dung nham.",
+      "suggest": "Mộc Cách hưng phấn nói một tiếng, chạy về phía nham tương.",
+      "approved": true
     },
     {
       "convert": "Xích Thuật đuổi sát phía sau, cảnh giác quét mắt chung quanh.",
-      "dich": "\"Núi lửa phun trào!",
-      "suggest": "Xích Thuật đuổi theo, cảnh giác quét mắt xung quanh.",
-      "similarity": [
-        [
-          97,
-          0.16
-        ]
-      ]
+      "dich": "Xích Thuật đuổi sát theo sau, đồng thời không quên cảnh giác đảo mắt nhìn xung quanh.",
+      "suggest": "Xích Thuật đuổi sát theo sau, cảnh giác quét mắt xung quanh.",
+      "approved": true
     },
     {
       "convert": "\"Chúng ta cũng đi thôi, sau đó hai vị sư đệ phụ trách cảnh giác Hỏa Nham Xà, ta khu động Kim Tình Điêu tìm kiếm Hỏa Phác Ngọc, thu hoạch dựa theo bốn, ba, ba tỉ lệ phân phối, như thế nào?\"",
-      "dich": "Quá tốt, chắc chắn sẽ có Hỏa Phác ngọc mới xuất hiện, lần này nói không chừng có thể thu hoạch lớn.\"",
-      "suggest": "\"Chúng ta đi thôi, sau đó hai vị sư đệ phụ trách cảnh giác Hỏa Nham Xà, ta khu động Kim Tình Điêu tìm kiếm Hỏa Phác Ngọc, thu hoạch dựa theo bốn, ba, ba tỷ lệ phân phối, thế nào?\"",
-      "similarity": [
-        [
-          98,
-          0.33
-        ]
-      ]
+      "dich": "\"Chúng ta đi thôi, tiếp đây hai vị sư đệ phụ trách canh chừng Hỏa Nham xa, ta điều khiển Kim Tình Điêu tìm Hỏa Phác Ngọc, thu hoạch thì chia theo tỉ lệ bốn, ba, ba, được không?\"",
+      "suggest": "\"Chúng ta đi thôi, sau đó hai vị sư đệ phụ trách cảnh giác Hỏa Nham Xà, ta khu động Kim Tình Điêu tìm Hỏa Phác Ngọc, thu hoạch dựa theo tỷ lệ bốn, ba, bốn phân phối, được không?\"",
+      "approved": true
     },
     {
       "convert": "Lam Kha nói.",
-      "dich": "Mộc Ly phấn khích nói, đoạn nhanh chân chạy về phía dung nham.",
+      "dich": "Lam Kha nói.",
       "suggest": "Lam Kha nói.",
-      "similarity": [
-        [
-          3,
-          0.11
-        ],
-        [
-          44,
-          0.11
-        ],
-        [
-          55,
-          0.16
-        ],
-        [
-          59,
-          0.15
-        ],
-        [
-          66,
-          0.16
-        ],
-        [
-          69,
-          0.12
-        ],
-        [
-          90,
-          0.24
-        ],
-        [
-          99,
-          1
-        ],
-        [
-          118,
-          0.18
-        ]
-      ]
+      "approved": true
     },
     {
-      "convert": "\"Không có vấn đề.\"",
-      "dich": "Xích Thuật đuổi sát theo sau, đồng thời không quên cảnh giác đảo mắt nhìn xung quanh.",
-      "suggest": "\"Không có vấn đề gì.\"",
-      "similarity": [
-        [
-          0,
-          0.17
-        ],
-        [
-          55,
-          0.13
-        ],
-        [
-          100,
-          0.61
-        ],
-        [
-          113,
-          0.13
-        ]
-      ]
-    },
-    {
-      "convert": "Viên Minh gật đầu.",
-      "dich": "\"Chúng ta đi thôi, tiếp đây hai vị sư đệ phụ trách canh chừng Hỏa Nham xa, ta điều khiển Kim Tình điêu tìm Hỏa Phác ngọc, thu hoạch thì chia theo tỉ lệ bốn, ba, ba, được không?\"",
-      "suggest": "Viên Minh gật đầu.",
-      "similarity": [
-        [
-          3,
-          0.11
-        ],
-        [
-          45,
-          0.11
-        ],
-        [
-          55,
-          0.12
-        ],
-        [
-          56,
-          0.12
-        ],
-        [
-          66,
-          0.28
-        ],
-        [
-          75,
-          0.16
-        ],
-        [
-          90,
-          0.11
-        ],
-        [
-          99,
-          0.12
-        ],
-        [
-          101,
-          0.43
-        ],
-        [
-          114,
-          0.19
-        ],
-        [
-          118,
-          0.11
-        ]
-      ]
+      "convert": "\"Không có vấn đề.\" Viên Minh gật đầu.",
+      "dich": "\"Không có vấn đề.\" Viên Minh gật đầu đồng ý.",
+      "suggest": "\"Không có vấn đề gì.\" Viên Minh gật đầu.",
+      "approved": true
     },
     {
       "convert": "Có thể có ba phần thu nhập, hắn đã rất hài lòng.",
-      "dich": "Lam Kha nói.",
-      "suggest": "Có thể có được ba phần thu nhập, hắn đã rất hài lòng rồi.",
-      "similarity": [
-        [
-          102,
-          0.57
-        ]
-      ]
+      "dich": "Có thể nhận được ba phần, hắn đã rất hài lòng rồi.",
+      "suggest": "Có ba phần thu nhập, hắn đã rất hài lòng.",
+      "approved": true
     },
     {
       "convert": "A Cổ Lạp lông mày nhăn nhăn, tựa hồ có chút bất mãn, nhưng cũng không nói gì thêm.",
-      "dich": "\"Không có vấn đề.\"",
-      "suggest": "Lông mày A Cổ Lạp nhăn nhó, tựa hồ có chút bất mãn, nhưng cũng không nói thêm gì nữa.",
-      "similarity": [
-        [
-          103,
-          0.19
-        ]
-      ]
+      "dich": "A Cổ Lạp nhíu nhíu mày, có vẻ hơi bất mãn nhưng cũng không nói gì thêm.",
+      "suggest": "A Cổ Lạp nhíu mày, tựa hồ có chút bất mãn, nhưng cũng không nói gì thêm.",
+      "approved": true
     },
     {
       "convert": "Ba người cũng bắt đầu hướng miệng núi lửa tới gần, phương hướng cùng Xích Thuật hai người hơi có sai lầm, rất nhanh đã tới miệng núi lửa phụ cận.",
-      "dich": "Viên Minh gật đầu đồng ý.",
-      "suggest": "Ba người cũng bắt đầu đi tới gần miệng núi lửa, tuy phương hướng và phương pháp hai người va chạm hơi sai một chút nhưng rất nhanh đã tới cạnh miệng núi lửa.",
-      "similarity": [
-        [
-          104,
-          0.33
-        ]
-      ]
+      "dich": "Ba người cũng bắt đầu tiến về phía miệng núi lửa, hướng đi hơi lệch so với hai người Xích Thuật, chỉ chốc lát đã tới gần miệng núi lửa.",
+      "suggest": "Ba người cũng bắt đầu hướng miệng núi lửa tới gần, tuy nhiên phương hướng và tốc độ của hai người Xích Thuật hơi lệch một chút, rất nhanh đã tới cạnh miệng núi lửa.",
+      "approved": true
     },
     {
       "convert": "Ba người ở khoảng cách dung nham núi lửa khu vực trăm trượng địa phương liền dừng bước lại, nhiệt độ của nơi này đã cao đến khoa trương mức độ, hút vào phổi không khí đều là nóng bỏng, ngũ tạng lục phủ đau rát đau nhức.",
-      "dich": "Có thể nhận được ba phần, hắn đã rất hài lòng rồi.",
-      "suggest": "Ba người đứng ở chỗ cách núi lửa trăm trượng liền dừng bước lại, nhiệt độ nơi này đã cao đến mức độ khoa trương, không khí hít vào phổi đều nóng bỏng, ngũ tạng lục phủ đau nhức không thôi.",
-      "similarity": [
-        [
-          105,
-          0.33
-        ]
-      ]
+      "dich": "Ba người tới chỗ cách khu vực dung nham núi lửa khoảng trăm trượng liền dừng lại, nhiệt độ nơi này đã cao đến dọa người, không khí hút vào phổi đều nỏng bỏng làm lục phủ ngũ tạng có cảm giác đau rát.",
+      "suggest": "Ba người dừng bước lại cách khu vực núi lửa trăm trượng, nhiệt độ nơi này đã cao tới mức độ khoa trương, không khí hít vào phổi đều nóng ran, ngũ tạng lục phủ đau nhức.",
+      "approved": true
     },
     {
       "convert": "A Cổ Lạp tay lấy ra màu lam phù lục, dán tại ngực, bên ngoài thân lập tức hiện ra một đoàn như nước chảy lam quang, bị nướng màu đỏ bừng khuôn mặt khôi phục nhanh chóng như lúc ban đầu.",
-      "dich": "A Cổ Lạp nhíu nhíu mày, có vẻ hơi bất mãn nhưng cũng không nói gì thêm.",
-      "suggest": "A Cổ Lạp lấy ra Phù lục màu lam, dán vào ngực, bên ngoài cơ thể lập tức hiện lên một luồng ánh sáng lam như nước chảy mây trôi, khuôn mặt đỏ bừng nhanh chóng khôi phục như lúc ban đầu.",
-      "similarity": [
-        [
-          106,
-          0.23
-        ]
-      ]
+      "dich": "A Cổ Lạp đưa tay lấy ra một tấm phù lục màu lam, dán nó lên ngực, tức thì bên ngoài thân gã xuất hiện một tầng ánh sáng màu làm như nước chảy, khuôn mặt bị nhiệt độ cao nướng đến đỏ bừng rất nhanh khôi phục lại như lúc ban đầu.",
+      "suggest": "A Cổ Lạp lấy ra phù lục màu lam dán vào ngực, bên ngoài cơ thể lập tức hiện lên một vầng hào quang như nước chảy mây trôi, khuôn mặt đỏ bừng vì bị nướng đỏ bừng khôi phục lại dáng vẻ ban đầu.",
+      "approved": true
     },
     {
       "convert": "Lam Kha cũng lấy ra một viên nước Lam Ngọc bội, treo ở bên hông, trên ngọc bội sáng lên một đoàn lam quang, bảo vệ hắn thân thể.",
-      "dich": "Ba người cũng bắt đầu tiến về phía miệng núi lửa, hướng đi hơi lệch so với hai người Xích Thuật, chỉ chốc lát đã tới gần miệng núi lửa.",
-      "suggest": "Lam Kha cũng lấy ra một viên Lam Ngọc bội, treo bên hông, trên ngọc bội sáng lên một đoàn lam quang, bảo vệ thân thể hắn.",
-      "similarity": [
-        [
-          107,
-          0.17
-        ]
-      ]
+      "dich": "Lam Kha cũng lấy ra một miếng ngọc bội màu xanh nước biển, treo nó ở bên hông, một tầng ánh sáng màu lam từ ngọc bội bừng lên, chắn quanh người nàng.",
+      "suggest": "Lam Kha cũng lấy ra một viên Lam Ngọc bội, treo bên hông, trên ngọc bội sáng lên một vầng hào quang bảo vệ thân thể hắn.",
+      "approved": true
     },
     {
       "convert": "Viên Minh không có hai người bảo vật cùng thủ đoạn, chỉ có thể yên lặng vận khởi Cửu Nguyên Quyết chống cự chung quanh khốc nhiệt.",
-      "dich": "Ba người tới chỗ cách khu vực dung nham núi lửa khoảng trăm trượng liền dừng lại, nhiệt độ nơi này đã cao đến dọa người, không khí hút vào phổi đều nỏng bỏng làm lục phủ ngũ tạng có cảm giác đau rát.",
-      "suggest": "Viên Minh không có nhiều bảo vật cùng phương pháp, chỉ có thể yên lặng vận khởi Cửu Nguyên Quyết đối kháng với không khí khắc nghiệt chung quanh.",
-      "similarity": [
-        [
-          108,
-          0.26
-        ]
-      ]
+      "dich": "Viên Minh không có thủ đoạn và bảo vật như hai người, chỉ có thể lặng lẽ vận khởi Cửu Nguyên Quyết chống chọi nhiệt độ cao xung quanh.",
+      "suggest": "Viên Minh không có bảo vật và thủ đoạn gì, chỉ có thể yên lặng vận khởi Cửu Nguyên Quyết chống lại không khí xung quanh ác liệt lạ thường.",
+      "approved": true
     },
     {
       "convert": "Theo một cỗ thanh lương chi ý từ đan điền dâng lên, tràn ngập đến toàn thân các nơi, loại kia bị thiêu đốt cảm giác lập tức hóa giải mấy phần.",
-      "dich": "A Cổ Lạp đưa tay lấy ra một tấm phù lục màu lam, dán nó lên ngực, tức thì bên ngoài thân gã xuất hiện một tầng ánh sáng màu làm như nước chảy, khuôn mặt bị nhiệt độ cao nướng đến đỏ bừng rất nhanh khôi phục lại như lúc ban đầu.",
-      "suggest": "Theo một ý nghĩ lương thiện từ trong đan điền dâng lên, tràn ngập khắp cơ thể, cảm giác bị thiêu đốt lập tức hóa giải mấy phần.",
-      "similarity": [
-        [
-          109,
-          0.26
-        ]
-      ]
+      "dich": "Theo một cảm giác mát lạnh từ đan điền dâng lên, tràn đến khắp nơi trong người, loại cảm giác như bị thiêu đốt kia lập tức dịu đi mấy phần.",
+      "suggest": "Theo một luồng khí thanh lương từ đan điền dâng lên, tràn ngập khắp cơ thể, loại cảm giác bị thiêu đốt kia lập tức được hóa giải mấy phần.",
+      "approved": true
     },
     {
       "convert": "\"Viên sư đệ không có chuẩn bị chống cự nhiệt độ cao thủ đoạn?",
-      "dich": "Lam Kha cũng lấy ra một miếng ngọc bội màu xanh nước biển, treo nó ở bên hông, giống như A Cổ Lạp, một tầng ánh sáng màu lam từ ngọc bội bừng lên, chắn quanh người nàng.",
-      "suggest": "\"Viên sư đệ không có chuẩn bị chống cự với nhiệt độ cao sao?",
-      "similarity": [
-        [
-          110,
-          0.47
-        ]
-      ]
+      "dich": "\"Viên sư đệ không chuẩn bị thủ đoạn để chống lại nhiệt độ cao sao?",
+      "suggest": "\"Viên sư đệ không có chuẩn bị chống cự với nhiệt độ cao?",
+      "approved": true
     },
     {
       "convert": "Tìm kiếm Hỏa Phác Ngọc không phải nhất thời bán hội liền có thể hoàn thành, chỉ dựa vào vận khởi pháp lực hộ thể, có thể không kiên trì được bao lâu.\"",
-      "dich": "Viên Minh không có thủ đoạn và bảo vật như hai người, chỉ có thể lặng lẽ vận khởi Cửu Nguyên Quyết chống chọi nhiệt độ cao xung quanh.",
-      "suggest": "Tìm kiếm Hỏa Phác Ngọc không phải chỉ trong một thời gian ngắn là có thể hoàn thành, chỉ dựa vào vận khởi Pháp lực hộ thể, có lẽ cũng không kiên trì được bao lâu.\"",
-      "similarity": [
-        [
-          111,
-          0.28
-        ]
-      ]
+      "dich": "Việc tìm Hỏa Phác Ngọc không phải nhất thời nửa khắc là có thể hoàn thành, chỉ dựa cách vận pháp lực hộ thể, chống chịu không được lâu đâu.\"",
+      "suggest": "Tìm kiếm Hỏa Phác Ngọc không phải chỉ cần ra mắt một lần là có thể hoàn thành, mà chỉ cần vận khởi pháp lực hộ thể, có thê không kiên trì được bao lâu.\"",
+      "approved": true
     },
     {
       "convert": "Lam Kha gặp này đôi mi thanh tú cau lại, nói.",
-      "dich": "Theo một cảm giác mát lạnh từ đan điền dâng lên, tràn đến khắp nơi trong người, loại cảm giác như bị thiêu đốt kia lập tức dịu đi mấy phần.",
+      "dich": "Lam Kha thấy cảnh này, đôi mi thanh tú cau lại, nói.",
       "suggest": "Lam Kha thấy đôi mi thanh tú của nàng cau lại, nói.",
-      "similarity": [
-        [
-          54,
-          0.1
-        ],
-        [
-          64,
-          0.13
-        ],
-        [
-          112,
-          0.49
-        ]
-      ]
+      "approved": true
     },
     {
-      "convert": "\"Không sao, ta kiên trì ở.\"",
-      "dich": "\"Viên sư đệ không chuẩn bị thủ đoạn để chống lại nhiệt độ cao sao?",
-      "suggest": "\"Không sao, ta vẫn kiên trì.\"",
-      "similarity": [
-        [
-          100,
-          0.12
-        ],
-        [
-          113,
-          0.46
-        ]
-      ]
-    },
-    {
-      "convert": "Viên Minh lắc đầu nói.",
-      "dich": "Việc tìm Hỏa Phác ngọc không phải nhất thời nửa khắc là có thể hoàn thành, chỉ dựa cách vận pháp lực hộ thể, chống chịu không được lâu đâu.\"",
-      "suggest": "Viên Minh lắc đầu nói.",
-      "similarity": [
-        [
-          45,
-          0.11
-        ],
-        [
-          56,
-          0.12
-        ],
-        [
-          66,
-          0.21
-        ],
-        [
-          99,
-          0.19
-        ],
-        [
-          101,
-          0.16
-        ],
-        [
-          114,
-          0.54
-        ]
-      ]
+      "convert": "\"Không sao, ta kiên trì ở.\" Viên Minh lắc đầu nói.",
+      "dich": "\"Không sao, ta trụ được.\" Viên Minh lắc đầu đáp.",
+      "suggest": "\"Không sao, ta kiên trì ở đây.\" Viên Minh lắc đầu nói.",
+      "approved": true
     },
     {
       "convert": "\"Kia Viên sư đệ ngươi lượng sức mà đi, chống đỡ không nổi thời điểm nhớ kỹ nói một tiếng, không nên miễn cưỡng.\"",
-      "dich": "Lam Kha thấy cảnh này, đôi mi thanh tú cau lại, nói.",
-      "suggest": "\"Kia Viên sư đệ ngươi cứ mạnh mẽ đi, khi chống đỡ không nổi thì nhớ nói một tiếng cho ta biết, không nên miễn cưỡng.\"",
-      "similarity": [
-        [
-          115,
-          0.37
-        ]
-      ]
+      "dich": "\"Vậy Viên sư đệ ngươi lượng sức mà làm, khi chống đỡ không nổi nữa thì nhớ nói một tiếng, đừng có cố quá.\"",
+      "suggest": "\"Kia Viên sư đệ ngươi cứ gắng sức mà đi, lúc chống đỡ không nổi mới nói một tiếng, không nên miễn cưỡng.\"",
+      "approved": true
     },
     {
       "convert": "Lam Kha nhắc nhở một câu, cất bước đi về phía trước.",
-      "dich": "\"Không sao, ta trụ được.\"",
-      "suggest": "Lam Kha nhắc lại một câu, rồi cất bước đi về trước.",
-      "similarity": [
-        [
-          116,
-          0.29
-        ]
-      ]
-    },
-    {
-      "dich": "Viên Minh lắc đầu đáp."
-    },
-    {
-      "dich": "\"Vậy Viên sư đệ ngươi lượng sức mà làm, khi chống đỡ không nổi nữa thì nhớ nói một tiếng, đừng có cố quá.\""
-    },
-    {
-      "dich": "Lam Kha nhắc một câu xong lập tức cất bước đi về phía trước."
-    },
-    {
-      "dich": "Chú giải:"
-    },
-    {
-      "dich": "1."
-    },
-    {
-      "dich": "Nhị trượng hòa thượng: Thành ngữ TQ, ý nghĩa là không sờ được đầu óc (cao quá mà) = không hiểu chuyện gì xảy ra, xuất phát từ cuốn Kim Bình Mai Truyền Kỳ, cụ thể ở hồi 6 cuốn này có đoạn: Đám bảo an các phương thấy cảnh này thì giống y như nhị trượng hòa thượng, nghĩ không ra, bất giác chân mềm nhũn, bình bịch quỳ hết xuống."
+      "dich": "Lam Kha nhắc một câu xong lập tức cất bước đi về phía trước.",
+      "suggest": "Lam Kha nhắc nhở một câu, rồi cất bước đi về phía trước.",
+      "approved": true
     }
-  ]
+  ],
+  "currentWorkingLine": 109,
+  "changed": true
 }

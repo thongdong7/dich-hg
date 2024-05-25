@@ -15,1090 +15,463 @@
     {
       "convert": "\"Trầm tâm tĩnh khí, ý thủ đan điền, lấy tâm dẫn thần, lấy pháp khu vật, tâm thần tương hợp, hồn ngưng một chỗ, tâm hướng tới, khí chỗ hướng về.\"",
       "dich": "\"Trầm tâm tĩnh khí, ý thủ đan điền, dĩ tâm dẫn thần, dĩ pháp khu vật, tâm thần tương hợp, hồn ngưng nhất xử, tâm chi sở hướng, khí chi sở vãng.\"",
-      "suggest": "\"Trầm tâm tĩnh khí, ý thủ đan điền, lấy tâm dẫn thần, lấy pháp khu vật, tâm thần tương hợp, hồn ngưng tại chỗ, tâm hướng tới, khí chỗ hướng về.\"",
-      "similarity": [
-        [
-          0,
-          0.57
-        ],
-        [
-          22,
-          0.28
-        ]
-      ]
+      "suggest": "\"Trầm tâm tĩnh khí, ý thủ đan điền, ý thủ đan điền, lấy tâm dẫn thần, lấy pháp khu vật, tâm thần tương hợp, hồn ngưng một chỗ, khí hướng về phía.\""
     },
     {
       "convert": "Viên Minh nhắm hai mắt, một bên vận khởi pháp lực hướng phía trong tay tảng đá vượt qua, một bên ở trong lòng mặc niệm khởi khẩu quyết.",
       "dich": "Viên Minh nhắm hai mắt lại, vừa vận khởi pháp lực truyền tới phía hòn đá trong tay, vừa thầm niệm khẩu quyết trong lòng.",
-      "suggest": "Viên Minh nhắm hai mắt lại, vừa vận khởi Pháp lực vượt qua tảng đá còn đang cầm trong tay, vừa thầm niệm khẩu quyết.",
-      "similarity": [
-        [
-          1,
-          0.58
-        ],
-        [
-          23,
-          0.22
-        ]
-      ]
+      "suggest": "Viên Minh nhắm hai mắt, vận khởi pháp lực vượt qua tảng đá trong tay, vừa thầm niệm khẩu quyết."
     },
     {
       "convert": "Sau một lát, hắn chỉ cảm thấy trong lòng bàn tay có chút phát nhiệt, chỗ cầm tảng đá bao phủ lên một tầng nhàn nhạt thanh sắc quang mang, mặt ngoài ẩn ẩn có nhỏ bé lưu quang chuyển động.",
       "dich": "Sau một lát, hắn chỉ cảm thấy lòng bàn tay hơi nóng lên, chỗ cầm hòn đá phủ một tầng hào quang mờ mờ màu xanh, mặt ngoài tầng hào quang còn thấy những tia sáng nhỏ lưu chuyển qua lại.",
-      "suggest": "Sau một lát, hắn chỉ cảm thấy trong lòng bàn tay có chút phát nóng, chỗ cầm tảng đá phủ lên một tầng sáng màu xanh nhạt, bên ngoài ẩn ẩn có lưu quang chuyển động.",
-      "similarity": [
-        [
-          2,
-          0.26
-        ]
-      ]
+      "suggest": "Sau một lát, hắn chỉ cảm thấy lòng bàn tay có chút phát nhiệt, tảng đá cầm trên tay tỏa ra một tầng sáng màu xanh nhạt, mặt ngoài ẩn ẩn có lưu quang chuyển động nhỏ."
     },
     {
-      "convert": "\"Khởi!\"",
-      "dich": "\"Lên!\"",
-      "suggest": "\"Lên!\"",
-      "similarity": [
-        [
-          3,
-          1
-        ],
-        [
-          33,
-          0.18
-        ]
-      ]
-    },
-    {
-      "convert": "Viên Minh đột nhiên mở mắt, trong miệng một tiếng quát nhẹ.",
-      "dich": "Viên Minh đột nhiên mở mắt, miệng quát khẽ một tiếng.",
-      "suggest": "Viên Minh đột nhiên mở mắt, trong miệng quát nhẹ một tiếng.",
-      "similarity": [
-        [
-          4,
-          0.58
-        ],
-        [
-          34,
-          0.15
-        ]
-      ]
+      "convert": "\"Khởi!\" Viên Minh đột nhiên mở mắt, trong miệng một tiếng quát nhẹ.",
+      "dich": "\"Lên!\" Viên Minh đột nhiên mở mắt, miệng quát khẽ một tiếng.",
+      "suggest": "\"Đứng lại!\" Viên Minh mở to mắt, quát nhẹ một tiếng."
     },
     {
       "convert": "Trong cơ thể hắn pháp lực cũng không tự giác địa phồng lên mà ra, theo trong lòng bàn tay tràn vào tảng đá bên trong, có thể trong tay hắn tảng đá, lại chỉ là thanh sắc quang mang bỗng nhiên một bành trướng, lập tức quang mang thu vào, không có động tĩnh.",
       "dich": "Pháp lực trong cơ thể hắn cũng bất giác tự căng trào ra, xuôi theo lòng bàn tay chảy vào trong hòn đá, có điều tảng đá lại chỉ bừng lên hào quang màu xanh trong tích tắc rồi tắt đi, không hề động đậy.",
-      "suggest": "Pháp lực trong cơ thể hắn cũng không tự giác mà phồng lên lên, từ lòng bàn tay tràn vào trong tảng đá, nhưng tại sao viên đá trong tay hắn lại chỉ là quang mang màu xanh nhạt, ngay lập tức thu vào, không có động tĩnh.",
-      "similarity": [
-        [
-          5,
-          0.2
-        ]
-      ]
+      "suggest": "Pháp lực trong cơ thể hắn không tự giác phồng lên, từ trong lòng bàn tay tràn vào trong tảng đá, nhưng tảng đá trong tay hắn lại chỉ là một vầng hào quang bỗng nhiên bành trướng, lập tức thu vào, không hề có động tĩnh."
     },
     {
       "convert": "Viên Minh ánh mắt ngưng tụ, cũng không nhụt chí, dù sao bất luận cái gì thuật pháp cũng không thể một lần thành công.",
       "dich": "Viên Minh híp mắt cau mày, nhưng hắn cũng không nản chí, dù sao bất kể pháp thuật gì cũng không thể thử một lần đã thành công.",
-      "suggest": "Ánh mắt Viên Minh ngưng tụ, cũng không nhụt chí, dù sao bất luận là thuật pháp nào cũng không thể thành công một lần.",
-      "similarity": [
-        [
-          6,
-          0.22
-        ]
-      ]
+      "suggest": "Viên Minh nheo mắt lại, cũng không nản chí, dù sao bất luận thuật pháp nào cũng không thể một lần thành công."
     },
     {
       "convert": "Hắn lần nữa nhắm mắt, vận pháp thử mấy lần, lại đều không có cái gì tiến triển.",
       "dich": "Hắn lần nữa nhắm mặt, vận chuyển pháp lực thử thêm mấy lần nhưng không tiến triển gì.",
-      "suggest": "Hắn nhắm mắt lại, vận pháp thử mấy lần, nhưng đều không có tiến triển gì cả.",
-      "similarity": [
-        [
-          7,
-          0.12
-        ]
-      ]
+      "suggest": "Hắn lần nữa nhắm mắt lại, thử vận pháp mấy lần nhưng đều không có tiến triển gì."
     },
     {
       "convert": "\"Đây là vì sao  không phải là bởi vì pháp lực rót vào không đủ?",
       "dich": "\"Này là vì sao ... Không phải là do pháp lực rót vào không đủ chứ?",
-      "suggest": "\"Tại sao ư? Không phải là bởi vì Pháp lực rót vào không đủ?",
-      "similarity": [
-        [
-          8,
-          0.27
-        ]
-      ]
+      "suggest": "\"Vậy vì sao? Không phải là do Pháp lực rót vào không đủ hay sao?"
     },
     {
       "convert": "Cái gọi là tâm thần tương hợp, là tâm thần ta không đủ chuyên chú, hay là lý giải không chiếm được vị \"",
       "dich": "Cái gọi là tâm thần tương hợp kia, là tâm thần ta chưa đủ tập trung, hay là lý giải chưa đúng trọng tâm?\"",
-      "suggest": "Cái gọi là tâm thần tương hợp, là tâm thần ta không đủ chuyên chú, hay là suy nghĩ không hợp lý \"",
-      "similarity": [
-        [
-          9,
-          0.39
-        ],
-        [
-          22,
-          0.16
-        ]
-      ]
+      "suggest": "Cái gọi là tâm thần tương hợp, là tâm thần ta không đủ chuyên chú, lý giải không được tốt.\""
     },
     {
       "convert": "Viên Minh âm thầm suy nghĩ lấy.",
       "dich": "Viên Minh âm thầm suy nghĩ.",
-      "suggest": "Viên Minh âm thầm suy nghĩ.",
-      "similarity": [
-        [
-          10,
-          1
-        ],
-        [
-          20,
-          0.15
-        ],
-        [
-          40,
-          0.18
-        ]
-      ]
+      "suggest": "Viên Minh thầm suy nghĩ."
     },
     {
       "convert": "Nghĩ như vậy, hắn liền tĩnh tọa điều tức một lát, lần nữa nếm thử.",
       "dich": "Nghĩ như vậy, hắn liền tĩnh tọa điều tức một lát rồi thử lại lần nữa.",
-      "suggest": "Nghĩ vậy, hắn tĩnh tọa điều tức một lát, lại lần nữa nếm thử.",
-      "similarity": [
-        [
-          11,
-          0.43
-        ]
-      ]
+      "suggest": "Nghĩ vậy, hắn liền tĩnh tọa điều tức một lát, sau đó lại thử nghiệm lần nữa."
     },
     {
       "convert": "Một bên Hỏa Sàm Nhi không rõ ràng cho lắm, gặp hắn ôm trong ngực một khối đá khi thì phát ra thanh mang, nhịn không được tiến lên, nhô ra móng vuốt nhỏ sờ đụng một cái, gặp không có nguy hiểm gì, liền gan lớn mấy phần, tiến lên gảy.",
       "dich": "Hỏa Sàm Nhi ở bên cạnh không hiểu cho lắm, thấy hắn khối đá hắn ôm trong ngực kia thỉnh thoảng lại lại lóe sáng, nhịn không được bước tới, thò vuốt nhỏ đẩy nhẹ một cái, không thấy có gì nguy hiểm liền to gan bước tới gảy gảy.",
-      "suggest": "Hỏa Sàm Nhi ở một bên không hiểu gì lắm, thấy một khối đá trong ngực hắn phát ra âm thanh mang theo như có như không, không nhịn được tiến lên, thò tay vào sờ soạng một cái, thấy không có nguy hiểm gì liền mạnh mẽ tiến lên.",
-      "similarity": [
-        [
-          12,
-          0.12
-        ]
-      ]
+      "suggest": "Hỏa Sàm Nhi bên cạnh không rõ ràng lắm, thấy một khối đá trong ngực hắn lúc thì tỏa ánh sáng xanh, nhịn không được tiến lên, đưa tay sờ sờ một cái, thấy không có vấn đề gì liền gan lớn thêm mấy phần, tiến lên gảy."
     },
     {
       "convert": "Viên Minh một phen nếm thử, lần nữa cuối cùng đều là thất bại.",
       "dich": "Lần thử thêm của Viên Minh rốt cuộc vẫn là thất bại.",
-      "suggest": "Viên Minh sau một phen thử nghiệm, cuối cùng đều thất bại.",
-      "similarity": [
-        [
-          13,
-          0.14
-        ]
-      ]
+      "suggest": "Viên Minh thử một lần nữa, kết quả đều thất bại."
     },
     {
       "convert": "\"Có lẽ chính như trong sách ghi chép, loại này không thấu đáo linh tính phổ thông sự vật, khó mà câu thông, không cách nào phù hợp, thao túng thực tế không dễ.\"",
       "dich": "\"Có lẽ đúng như trong sách có ghi, đồ vật bình thường không đủ linh tính kiểu này khó mà câu thông, không cách nào khế hợp nên điều khiển thực sự không dễ.\"",
-      "suggest": "\"Có lẽ theo như trong sách ghi chép, loại sự vật không thấu đáo này rất khó câu thông, không thể nào câu thông, thao túng thực tế không dễ.\"",
-      "similarity": [
-        [
-          14,
-          0.19
-        ]
-      ]
+      "suggest": "\"Có lẽ chính như trong sách ghi chép, loại sự vật không thấu đáo về Linh tính này, khó mà câu thông, không cách nào phù hợp, thao túng thực tế không dễ.\""
     },
     {
       "convert": "Hắn than nhẹ một tiếng, cầm trong tay tảng đá tiện tay ném đi, ngược lại là dọa chính chơi đến vui mừng Hỏa Sàm Nhi nhảy một cái.",
       "dich": "Hắn khẽ than, đoạn ném hòn đá trong tay đi, bất ngờ dọa cho Hỏa Sàm Nhi đang say sưa nghịch giật nảy cả mình.",
-      "suggest": "Hắn thở phào một tiếng, tiện tay ném tảng đá đang cầm trong tay đi, ngược lại dọa nạt Hỏa Sàm Nhi.",
-      "similarity": [
-        [
-          15,
-          0.14
-        ]
-      ]
+      "suggest": "Hắn than nhẹ một tiếng, tiện tay ném tảng đá trong tay đi, ngược lại dọa cho Hỏa Sàm Nhi đang vui mừng nhảy nhót vui sướng một cái."
     },
     {
-      "convert": "Viên Minh tinh tế suy nghĩ trong chốc lát, đưa tay ở bên hông trên Túi Trữ Vật một vòng, trước người lúc này lóe lên ánh bạc, Thanh Ngư kiếm chợt nổi lên, rơi vào trước người hắn.",
-      "dich": "Viên Minh tỉ mỉ suy nghĩ chốc lát, vòng tay qua túi trữ vật bên hông, tức thì ánh bạc lóe lên trước người, Thanh Ngư kiếm bỗng hiện ra, rơi vào chỗ trước người hắn.",
-      "suggest": "Viên Minh tinh tế suy nghĩ một lát, sau đó đưa tay lên túi trữ vật bên hông, lúc này trước người lóe lên ánh bạc, thanh Ngư kiếm lóe lên rồi lao vút về phía trước, rơi vào trước người hắn.",
-      "similarity": [
-        [
-          16,
-          0.24
-        ]
-      ]
+      "convert": "Viên Minh tinh tế suy nghĩ trong chốc lát, đưa tay ở bên hông trên Túi Trữ Vật một vòng, trước người lúc này lóe lên ánh bạc, Thanh Ngư Kiếm chợt nổi lên, rơi vào trước người hắn.",
+      "dich": "Viên Minh tỉ mỉ suy nghĩ chốc lát, vòng tay qua túi trữ vật bên hông, tức thì ánh bạc lóe lên trước người, Thanh Ngư Kiếm bỗng hiện ra, rơi vào chỗ trước người hắn.",
+      "suggest": "Viên Minh cẩn thận suy nghĩ một lát, đưa tay sờ sờ túi trữ vật bên hông, lúc này trước người lóe lên ánh bạc, Thanh Ngư Kiếm lóe lên rồi rơi vào trước người hắn."
     },
     {
-      "convert": "Hắn đưa tay một cái nắm chặt Thanh Ngư kiếm, một cái tay khác nhẹ nhàng vuốt nhẹ mấy lần thân kiếm, đồng thời thôi động trong đan điền pháp lực hướng trong kiếm vượt qua, lập tức trường kiếm mặt ngoài một tầng mơ hồ thanh quang dạo chơi lưu chuyển, ẩn ẩn mang theo một tia linh động.",
-      "dich": "Hắn đưa một tay tóm lấy Thanh Ngư kiếm, tay kia nhẹ nhàng vuốt ve thân kiếm mấy lần, đồng thời thôi động pháp lực trong đan điền chảy qua phía thanh kiếm, lập tực mặt ngoài thanh trường kiếm xuất hiện một tầng ánh sáng xanh mờ mờ lưu chuyển, mơ hồ mang theo một tia linh động.",
-      "suggest": "Hắn đưa một tay nắm chặt thanh Ngư Kiếm, một tay khác nhẹ nhàng vuốt ve mấy lần thân kiếm, đồng thời pháp lực trong đan điền lưu chuyển xung quanh, ẩn ẩn mang theo một chút linh động.",
-      "similarity": [
-        [
-          17,
-          0.21
-        ]
-      ]
+      "convert": "Hắn đưa tay một cái nắm chặt Thanh Ngư Kiếm, một cái tay khác nhẹ nhàng vuốt nhẹ mấy lần thân kiếm, đồng thời thôi động trong đan điền pháp lực hướng trong kiếm vượt qua, lập tức trường kiếm mặt ngoài một tầng mơ hồ thanh quang dạo chơi lưu chuyển, ẩn ẩn mang theo một tia linh động.",
+      "dich": "Hắn đưa một tay tóm lấy Thanh Ngư Kiếm, tay kia nhẹ nhàng vuốt ve thân kiếm mấy lần, đồng thời thôi động pháp lực trong đan điền chảy qua phía thanh kiếm, lập tực mặt ngoài thanh trường kiếm xuất hiện một tầng ánh sáng xanh mờ mờ lưu chuyển, mơ hồ mang theo một tia linh động.",
+      "suggest": "Hắn đưa hai tay nắm chặt Thanh Ngư Kiếm, một tay khác vuốt nhẹ thân kiếm, đồng thời thôi động pháp lực trong đan điền bay về phía trong kiếm, lập tức mặt ngoài thanh trường kiếm xuất hiện một tầng sáng mờ mờ thanh quang, ẩn ẩn mang theo một chút linh động."
     },
     {
       "convert": "Đem pháp lực tán đi, thân kiếm thanh quang không còn, liền cùng bình thường trường kiếm bằng đồng thau không có gì khác biệt.",
       "dich": "Khi pháp lực tán đi, ánh sáng trên thân kiếm cũng biến mất, không khác gì một thanh kiếm đồng thau bình thường.",
-      "suggest": "Đem pháp lực tán đi, thanh quang quanh thân kiếm không còn, giống như trường kiếm bằng đồng thau bình thường.",
-      "similarity": [
-        [
-          18,
-          0.31
-        ]
-      ]
+      "suggest": "Đem pháp lực tán đi, thân kiếm quang mang không còn, thanh quang trên thân kiếm cũng không khác gì trường kiếm bằng đồng thau bình thường."
     },
     {
       "convert": "\"Nếu muốn bàn về có linh tính chi vật, tay ta đầu cũng liền một thanh này nửa pháp khí tương đối có tư cách được cho.\"",
       "dich": "\"Nếu muốn nói về vật có linh tính, trong tay ta cũng chỉ mỗi thanh kiếm nửa pháp khí này là tạm xem như đủ tư cách.\"",
-      "suggest": "\"Nếu bàn về vật có linh tính, tay ta cũng chỉ có một thanh pháp khí này là đủ tư cách cho ngươi.\"",
-      "similarity": [
-        [
-          19,
-          0.37
-        ]
-      ]
+      "suggest": "\"Nếu bàn về vật có linh tính, ta cũng chỉ có thể dùng một thanh pháp khí này làm vật sở hữu.\""
     },
     {
       "convert": "Viên Minh tự lẩm bẩm một tiếng.",
       "dich": "Viên Minh lẩm bẩm tự nói.",
-      "suggest": "Viên Minh thì thào tự nói.",
-      "similarity": [
-        [
-          10,
-          0.15
-        ],
-        [
-          20,
-          0.31
-        ]
-      ]
+      "suggest": "Viên Minh lẩm bẩm một câu."
     },
     {
       "convert": "Lập tức, hắn hai mắt khép hờ, hai tay bưng lấy trường kiếm, tâm thần lực chú ý tất cả đều hướng phía trên thân kiếm tập trung.",
       "dich": "Ngay tiếp đó, hắn khép hờ hai mắt, hai tay bưng trường kiếm, tập trung toàn bộ tâm thần lên trên thân kiếm.",
-      "suggest": "Ngay tức khắc, hai mắt hắn khép hờ, hai tay bưng lấy trường kiếm, toàn bộ tinh thần chú ý đều tập trung lên thân kiếm.",
-      "similarity": [
-        [
-          21,
-          0.21
-        ]
-      ]
+      "suggest": "Lập tức, hai mắt hắn khép hờ, hai tay cầm trường kiếm, tâm thần chú ý tất cả đều tập trung lên thân kiếm."
     },
     {
       "convert": "\"Lấy tâm dẫn thần, lấy pháp khu vật, tâm thần tương hợp, hồn ngưng một chỗ ....\"",
       "dich": "\"Dĩ tâm dẫn thần, dĩ pháp khu vật, tâm thần tương hợp, hồn ngưng nhất xử...\"",
-      "suggest": "\"Lấy tâm dẫn thần, lấy pháp khu, tâm thần tương hợp, hồn ngưng tụ ...\"",
-      "similarity": [
-        [
-          0,
-          0.25
-        ],
-        [
-          9,
-          0.1
-        ],
-        [
-          22,
-          0.52
-        ]
-      ]
+      "suggest": "\"Lấy tâm dẫn thần, lấy pháp khu vật, tâm thần tương hợp, hồn ngừng một chỗ ...\""
     },
     {
       "convert": "Hắn một bên vận khởi pháp lực hướng phía Thanh Ngư trên thân kiếm vượt qua, một bên ở trong lòng mặc niệm khởi khẩu quyết.",
-      "dich": "Hắn vừa vận khởi pháp lực truyền qua phía Thanh Ngư kiếm, vừa thầm niệm khẩu quyết trong lòng.",
-      "suggest": "Hắn vừa vận khởi Pháp lực vận lên thân kiếm, vừa thầm niệm khẩu quyết.",
-      "similarity": [
-        [
-          1,
-          0.22
-        ],
-        [
-          23,
-          0.41
-        ]
-      ]
+      "dich": "Hắn vừa vận khởi pháp lực truyền qua phía Thanh Ngư Kiếm, vừa thầm niệm khẩu quyết trong lòng.",
+      "suggest": "Hắn vừa vận khởi pháp lực vượt qua thân kiếm thanh ngư, vừa thầm niệm khẩu quyết."
     },
     {
       "convert": "Rất nhanh, Thanh Ngư trên thân kiếm lần nữa sáng lên thanh quang, cũng theo pháp lực không ngừng rót vào, triển lộ ra một tia phong duệ chi khí.",
       "dich": "Rất nhanh, mặt ngoài thanh kiếm lần nữa bừng lên hào quang màu xanh, đồng thời theo pháp lực liên tục rót vào, triển lộ ra một tia phong duệ chi khí.",
-      "suggest": "Rất nhanh, thanh quang trên thân kiếm trên Thanh Ngư lại sáng lên, tiếp đó là do Pháp lực không ngừng rót vào, trên thanh kiếm lộ ra một tia khí phong duệ.",
-      "similarity": [
-        [
-          24,
-          0.14
-        ]
-      ]
+      "suggest": "Rất nhanh, Thanh Ngư trên thân kiếm lại lần nữa sáng lên ánh sáng xanh, cũng theo pháp lực không ngừng rót vào, biểu hiện ra một tia khí phong duệ."
     },
     {
       "convert": "Viên Minh tâm niệm vừa động, lần này ngay cả mở miệng phát ra tiếng cũng không có.",
       "dich": "Viên Minh lần này chỉ suy nghĩ trong đầu, không hề mở miệng lên tiếng.",
-      "suggest": "Tâm niệm Viên Minh vừa động, lần này ngay cả tiếng mở miệng cũng không có.",
-      "similarity": []
+      "suggest": "Viên Minh thầm động tâm, lần này ngay cả mở miệng ra cũng không có."
     },
     {
-      "convert": "Lúc này, Hỏa Sàm Nhi chính cẩn thận từng li từng tí tới gần, đưa móng vuốt lại muốn đi gảy Thanh Ngư kiếm.",
-      "dich": "Lúc này, Hỏa Sàm Nhi đang cẩn thận từng li từng tí tới gần, đưa móng vuốt toan khảy Thanh Ngư kiếm.",
-      "suggest": "Lúc này, Hỏa Sàm Nhi đang cẩn thận từng li từng tí tới gần, đưa móng vuốt lên định gảy thanh Ngư kiếm.",
-      "similarity": [
-        [
-          26,
-          0.77
-        ]
-      ]
+      "convert": "Lúc này, Hỏa Sàm Nhi chính cẩn thận từng li từng tí tới gần, đưa móng vuốt lại muốn đi gảy Thanh Ngư Kiếm.",
+      "dich": "Lúc này, Hỏa Sàm Nhi đang cẩn thận từng li từng tí tới gần, đưa móng vuốt toan khảy Thanh Ngư Kiếm.",
+      "suggest": "Lúc này, Hỏa Sàm Nhi đang cẩn thận từng li từng tí tới gần, đưa móng vuốt định gảy Thanh Ngư Kiếm."
     },
     {
-      "convert": "Nhưng lại tại nó đến gần một nháy mắt, một màn kỳ dị lại xuất hiện, Thanh Ngư kiếm đột nhiên từ Viên Minh lòng bàn tay bắn lên, lơ lửng ở cách chưởng cao ba tấc địa phương, tả diêu hữu hoảng địa, nhìn xem tùy thời đều muốn đến rơi xuống dáng vẻ.",
-      "dich": "Nhưng đúng vào khi móng vuốt nó sắp chạm vào thanh kiếm, một màn kỳ dị thình lình xuất hiện, Thanh Ngư kiếm đột nhiên từ lòng bàn tay Viên Minh bật lên, nằm lơ lửng trên không chỗ cách bàn tay hắn ba tấc, đảo phải lắc trái, trông bộ dạng như có thể rơi xuống bất cứ lúc nào.",
-      "suggest": "Nhưng ngay khi nó đến gần, một màn kỳ dị lại xuất hiện, thanh Ngư kiếm từ trong lòng bàn tay Viên Minh đột nhiên từ lòng bàn tay bắn lên, lơ lửng ở nơi cách chưởng chừng ba tấc, tả diêu hữu hoảng, nhìn xem đều muốn rớt xuống.",
-      "similarity": [
-        [
-          27,
-          0.23
-        ]
-      ]
+      "convert": "Nhưng lại tại nó đến gần một nháy mắt, một màn kỳ dị lại xuất hiện, Thanh Ngư Kiếm đột nhiên từ Viên Minh lòng bàn tay bắn lên, lơ lửng ở cách chưởng cao ba tấc địa phương, tả diêu hữu hoảng địa, nhìn xem tùy thời đều muốn đến rơi xuống dáng vẻ.",
+      "dich": "Nhưng đúng vào khi móng vuốt nó sắp chạm vào thanh kiếm, một màn kỳ dị thình lình xuất hiện, Thanh Ngư Kiếm đột nhiên từ lòng bàn tay Viên Minh bật lên, nằm lơ lửng trên không chỗ cách bàn tay hắn ba tấc, đảo phải lắc trái, trông bộ dạng như có thể rơi xuống bất cứ lúc nào.",
+      "suggest": "Nhưng ngay khi nó tới gần, một màn kỳ dị lại xuất hiện. Thanh Ngư Kiếm từ lòng bàn tay Viên Minh bắn lên, lơ lửng ở chỗ cách ba tấc, chớp lóe lên, xoay tròn ở chỗ cách xa ba tấc, thân hình vô cùng hoảng hốt, nhìn xem tùy thời đều muốn rớt xuống."
     },
     {
       "convert": "Hỏa Sàm Nhi lập tức một cái giật mình, bỗng nhiên kiên quyết ngoi lên nhảy lên lên, trực tiếp nhảy tới một bên trên cây.",
       "dich": "Hỏa Sàm Nhi bị giật mình, lập tức nhảy dựng lên, trực tiếp nhảy lên trên cây cổ thụ gần đấy.",
-      "suggest": "Hỏa Sàm Nhi giật mình, bỗng nhiên mạnh mẽ ngoi lên nhảy lên, trực tiếp nhảy tới một thân cây.",
-      "similarity": [
-        [
-          28,
-          0.27
-        ]
-      ]
+      "suggest": "Hỏa Sàm Nhi giật nảy mình, bỗng nhiên kiên quyết ngoi lên, trực tiếp nhảy qua một gốc cây cạnh đó."
     },
     {
-      "convert": "Viên Minh vừa mới cao hứng, tâm thần một phần, Thanh Ngư kiếm lập tức kịch liệt lắc lư mấy lần, trực tiếp thân kiếm hướng xuống địa cắm vào trên mặt đất, lâm vào gần nửa đoạn.",
-      "dich": "Viên Minh vừa mới vui mừng thì tâm thần nhất thời mất tập trung, Thanh Ngư kiếm lập tức lắc lư kịch liệt mấy lần, thân kiếm rớt thẳng xuống đất, nửa lưỡi kiếm cắm ngập vào lòng đất.",
-      "suggest": "Viên Minh vừa mới cao hứng, tinh thần một phần thì thanh Thanh Ngư kiếm liền lắc lư mấy lần, trực tiếp cắm thẳng xuống mặt đất, lâm vào tình trạng gần nửa đoạn.",
-      "similarity": [
-        [
-          29,
-          0.13
-        ]
-      ]
+      "convert": "Viên Minh vừa mới cao hứng, tâm thần một phần, Thanh Ngư Kiếm lập tức kịch liệt lắc lư mấy lần, trực tiếp thân kiếm hướng xuống địa cắm vào trên mặt đất, lâm vào gần nửa đoạn.",
+      "dich": "Viên Minh vừa mới vui mừng thì tâm thần nhất thời mất tập trung, Thanh Ngư Kiếm lập tức lắc lư kịch liệt mấy lần, thân kiếm rớt thẳng xuống đất, nửa lưỡi kiếm cắm ngập vào lòng đất.",
+      "suggest": "Viên Minh vừa cao hứng, tinh thần vừa mới ổn định, Thanh Ngư Kiếm lập tức lắc lư kịch liệt mấy lần, trực tiếp nện thẳng xuống mặt đất, rơi vào trạng thái nửa đường đứt đoạn."
     },
     {
       "convert": "Có thể dù là như thế, Viên Minh trong lòng cũng là mừng rỡ không thôi, hắn lúc này đem trường kiếm rút lên, lần nữa nếm thử.",
       "dich": "Nhưng dù như vậy, Viên Minh trong lòng vẫn mừng rỡ không thôi, hắn lập tức rút trường kiếm lên rồi thử thêm lần nữa.",
-      "suggest": "Nhưng cho dù là như thế, trong lòng Viên Minh cũng mừng rỡ không thôi, hắn nhanh chóng rút đoản kiếm ra, lần nữa thử nếm thử.",
-      "similarity": [
-        [
-          30,
-          0.22
-        ]
-      ]
+      "suggest": "Nhưng cho dù là như thế, trong lòng Viên Minh vẫn rất mừng rỡ, hắn lập tức cầm kiếm lên, lần nữa thử nghiệm."
     },
     {
-      "convert": "Thanh Ngư kiếm thôi động cùng tảng đá thôi động hoàn toàn khác biệt, xa so với hắn tưởng tượng muốn thuận lợi, có thể thử mấy lần về sau, hắn liền phát hiện một vài vấn đề.",
-      "dich": "So với việc thôi động hòn đá thì thôi động Thanh Ngư kiếm hoàn toàn khác biệt, thuận lợi hơn hắn tưởng tượng rất nhiều, có điều sau mấy lần thử, hắn liền phát hiện ra một số vấn đề.",
-      "suggest": "Thanh Ngư Kiếm cùng với tảng đá hoàn toàn khác biệt, vượt xa sự tưởng tượng của hắn. Sau khi thử mấy lần, hắn liền phát hiện ra một vài vấn đề.",
-      "similarity": [
-        [
-          31,
-          0.28
-        ]
-      ]
+      "convert": "Thanh Ngư Kiếm thôi động cùng tảng đá thôi động hoàn toàn khác biệt, xa so với hắn tưởng tượng muốn thuận lợi, có thể thử mấy lần về sau, hắn liền phát hiện một vài vấn đề.",
+      "dich": "So với việc thôi động hòn đá thì thôi động Thanh Ngư Kiếm hoàn toàn khác biệt, thuận lợi hơn hắn tưởng tượng rất nhiều, có điều sau mấy lần thử, hắn liền phát hiện ra một số vấn đề.",
+      "suggest": "Thanh Ngư Kiếm và tảng đá thôi động hoàn toàn khác so với tưởng tượng của hắn, có điều sau khi thử mấy lần, hắn liền phát hiện ra một vài vấn đề."
     },
     {
-      "convert": "Mặc dù Thanh Ngư kiếm có thể như ước nguyện của hắn địa bốc lên bay lên, có thể mỗi lần đều so với hắn tâm niệm suy nghĩ chậm hơn một bậc, luôn cảm giác có chút không trôi chảy, có chút  phản ứng trì độn cảm giác.",
-      "dich": "Thanh Ngư kiếm mặc dù có thể bay lên theo ý hắn, nhưng mỗi lần đều chậm hơn một nhịp so với tâm niệm suy nghĩ của hắn, luôn có cảm giác có hơi không trôi chảy, phản ứng có chút chậm chạp.",
-      "suggest": "Mặc dù Thanh Ngư Kiếm có thể bay lên, bay lên như ý nguyện của hắn, nhưng mỗi lần nó bay lên đều chậm hơn một bậc so với suy nghĩ của hắn, luôn có cảm giác không trôi chảy, có chút phản ứng trì độn.",
-      "similarity": [
-        [
-          32,
-          0.41
-        ]
-      ]
+      "convert": "Mặc dù Thanh Ngư Kiếm có thể như ước nguyện của hắn địa bốc lên bay lên, có thể mỗi lần đều so với hắn tâm niệm suy nghĩ chậm hơn một bậc, luôn cảm giác có chút không trôi chảy, có chút  phản ứng trì độn cảm giác.",
+      "dich": "Thanh Ngư Kiếm mặc dù có thể bay lên theo ý hắn, nhưng mỗi lần đều chậm hơn một nhịp so với tâm niệm suy nghĩ của hắn, luôn có cảm giác có hơi không trôi chảy, phản ứng có chút chậm chạp.",
+      "suggest": "Mặc dù Thanh Ngư Kiếm có thể bay lên không như ý nguyện của hắn, nhưng mỗi lần đều cho hắn cảm giác suy nghĩ chậm hơn một bậc, luôn cảm thấy có chút không trôi chảy, có chút phản ứng trì độn."
     },
     {
-      "convert": "\"Đi cho ta!\"",
-      "dich": "\"Đi cho ta!\"",
-      "suggest": "\"Đi cho ta!\"",
-      "similarity": [
-        [
-          3,
-          0.21
-        ],
-        [
-          33,
-          1
-        ]
-      ]
+      "convert": "\"Đi cho ta!\" Viên Minh cũng chỉ hướng trước, quát khẽ một tiếng.",
+      "dich": "\"Đi cho ta!\" Viên Minh chỉ tay về trước, quát khẽ một tiếng.",
+      "suggest": "\"Đi cho ta!\" Viên Minh cũng chỉ về phía trước quát khẽ một tiếng."
     },
     {
-      "convert": "Viên Minh cũng chỉ hướng trước, quát khẽ một tiếng.",
-      "dich": "Viên Minh chỉ tay về trước, quát khẽ một tiếng.",
-      "suggest": "Viên Minh cũng chỉ về phía trước quát khẽ một tiếng.",
-      "similarity": [
-        [
-          4,
-          0.33
-        ],
-        [
-          34,
-          0.4
-        ],
-        [
-          85,
-          0.11
-        ]
-      ]
+      "convert": "Thanh Ngư Kiếm lúc này lung la lung lay hướng phía phía trước bay thẳng mà đi, còn không có bay ra xa ba trượng, lẫn nhau ở giữa cấu kết pháp lực thế thì đoạn mất ra.",
+      "dich": "Thanh Ngư Kiếm lập tức lung la lung lay bay thẳng về phía trước, nhưng chưa bay được ra xa ba trượng, pháp lực kết nối giữa đôi bên đã đứt đoạn.",
+      "suggest": "Thanh Ngư Kiếm lúc này đang lung la lung lay bay thẳng về phía trước, còn chưa bay được ba trượng đã bị pháp lực cấu kết với nhau phá hỏng mất."
     },
     {
-      "convert": "Thanh Ngư kiếm lúc này lung la lung lay hướng phía phía trước bay thẳng mà đi, còn không có bay ra xa ba trượng, lẫn nhau ở giữa cấu kết pháp lực thế thì đoạn mất ra.",
-      "dich": "Thanh Ngư kiếm lập tức lung la lung lay bay thẳng về phía trước, nhưng chưa bay được ra xa ba trượng, pháp lực kết nối giữa đôi bên đã đứt đoạn.",
-      "suggest": "Thanh Ngư kiếm lúc này lung la lung lay bay thẳng về phía trước, còn chưa bay được tới ba trượng thì pháp lực cấu kết với nhau đã đứt đoạn.",
-      "similarity": [
-        [
-          35,
-          0.43
-        ]
-      ]
-    },
-    {
-      "convert": "Thanh Ngư kiếm lập tức \"Loảng xoảng\" một tiếng, thẳng tắp địa rơi vào trên mặt đất.",
-      "dich": "Thanh Ngư kiếm lập tức 'loảng xoảng' một tiếng, rơi thẳng lên đất.",
-      "suggest": "Thanh Ngư kiếm của hắn lập tức 'lách cách' một tiếng, rơi thẳng xuống mặt đất.",
-      "similarity": [
-        [
-          36,
-          0.32
-        ]
-      ]
+      "convert": "Thanh Ngư Kiếm lập tức \"Loảng xoảng\" một tiếng, thẳng tắp địa rơi vào trên mặt đất.",
+      "dich": "Thanh Ngư Kiếm lập tức 'loảng xoảng' một tiếng, rơi thẳng lên đất.",
+      "suggest": "Thanh Ngư Kiếm lập tức \"xoẹt\" một tiếng, rơi thẳng xuống mặt đất."
     },
     {
       "convert": "\"Mặc dù có chút không tốt lắm chưởng khống, nhưng thi triển phương thức hẳn là như thế, siêng năng luyện tập hẳn là có thể biểu hiện càng tốt hơn.",
       "dich": "\"Dù khống chế chưa được tốt lắm, nhưng phương thức thi triển chắc là vậy, chăm chỉ luyện tập hẳn là có thể biểu hiện tốt hơn nữa.",
-      "suggest": "\"Mặc dù có chút không tốt lắm về chưởng khống, nhưng phương thức thi triển cũng phải như thế, siêng năng luyện tập hẳn sẽ có hiệu quả tốt hơn.",
-      "similarity": [
-        [
-          37,
-          0.22
-        ]
-      ]
+      "suggest": "\"Mặc dù có chút không tốt lắm về chưởng khống, nhưng phương thức thi triển đúng là như thế, siêng năng luyện tập chắc chắn sẽ có biểu hiện tốt hơn."
     },
     {
-      "convert": "Xem ra cái này Khu vật thuật dùng tại cái này nửa pháp khí bên trên, hay là so với không có chút nào linh tính sự vật muốn thuận tiện rất nhiều.",
-      "dich": "Xem ra Khu Vật thuật này dùng trên kiện nửa pháp khí này thuận tiện hơn nhiều so với đồ vật không có chút linh tính nào.",
-      "suggest": "Xem ra thuật Khu Vật này nếu dùng ở trên một nửa pháp khí của nó, so với việc không có chút linh tính nào thì thuận tiện hơn rất nhiều.",
-      "similarity": [
-        [
-          38,
-          0.27
-        ]
-      ]
+      "convert": "Xem ra cái này Khu Vật Thuật dùng tại cái này nửa pháp khí bên trên, hay là so với không có chút nào linh tính sự vật muốn thuận tiện rất nhiều.",
+      "dich": "Xem ra Khu Vật Thuật này dùng trên kiện nửa pháp khí này thuận tiện hơn nhiều so với đồ vật không có chút linh tính nào.",
+      "suggest": "Xem ra thuật Khu Vật này dùng trên một nửa pháp khí của nó, đúng là thuận tiện hơn rất nhiều so với việc dùng một kiện pháp khí không có linh tính."
     },
     {
       "convert": "Đúng, ta vẫn còn cái này .... \"",
       "dich": "Đúng rồi, ta còn có cái này ...\"",
-      "suggest": "Đúng, ta vẫn còn cái này ..... '",
-      "similarity": []
+      "suggest": "Đúng, ta còn ...\""
     },
     {
       "convert": "Viên Minh âm thầm suy nghĩ, trong lòng dâng lên một cái ý nghĩ.",
       "dich": "Viên Minh âm thầm ngẫm nghĩ, trong lòng chợt nổi lên một ý nghĩ.",
-      "suggest": "Viên Minh âm thầm suy nghĩ, trong lòng nổi lên một ý nghĩ.",
-      "similarity": [
-        [
-          10,
-          0.28
-        ],
-        [
-          40,
-          0.61
-        ]
-      ]
+      "suggest": "Viên Minh thầm suy nghĩ, trong đầu dâng lên một ý nghĩ."
     },
     {
       "convert": "Hắn đứng dậy kiểm tra một hồi bốn phía, phát hiện bốn phía cũng không có dấu người, liền tâm niệm",
       "dich": "Hắn đứng dậy kiểm tra xung quanh một hồi, phát hiện bốn phía không có bóng người, mới khẽ động tâm niệm, gọi lư hương màu xanh từ trên cánh tay ra.",
-      "suggest": "Hắn đứng dậy kiểm tra bốn phía một hồi, phát hiện bốn phía đều không có dấu chân người, trong đầu liền nảy ra ý nghĩ",
-      "similarity": [
-        [
-          41,
-          0.29
-        ]
-      ]
+      "suggest": "Hắn đứng dậy kiểm tra bốn phía một hồi, phát hiện bốn phía đều không có dấu chân người, liền nảy sinh ý định đi kiểm tra"
     },
     {
       "convert": "Khẽ động, đem thanh sắc lư hương từ trên cánh tay kêu gọi ra.",
-      "dich": "Kế đó, Viên Minh truyền pháp lực vào trong lư hương rồi lần nữa thi triển khu vật thuật.",
-      "suggest": "Khẽ động, lắc lư hương trên cánh tay, kêu lên.",
-      "similarity": []
+      "dich": "Kế đó, Viên Minh truyền pháp lực vào trong lư hương rồi lần nữa thi triển Khu Vật Thuật.",
+      "suggest": "Khẽ động, đưa lư hương màu xanh từ trên cánh tay kêu lên."
     },
     {
-      "convert": "Sau đó, Viên Minh đem pháp lực độ nhập lư hương, lần nữa thi triển khởi Khu vật thuật.",
+      "convert": "Sau đó, Viên Minh đem pháp lực độ nhập lư hương, lần nữa thi triển khởi Khu Vật Thuật.",
       "dich": "Lần này, hắn vừa nghĩ chứ chưa kịp phát chỉ lệnh, lư hương đã khoan thai bay lên, lơ lửng trước người Viên Minh.",
-      "suggest": "Sau đó, Viên Minh đặt Pháp lực vào lư hương, tiếp tục thi triển Thuật Khu Vật.",
-      "similarity": [
-        [
-          42,
-          0.17
-        ],
-        [
-          62,
-          0.12
-        ]
-      ]
+      "suggest": "Tiếp đó, Viên Minh rót pháp lực vào lư hương, lần nữa thi triển thuật Khu Vật."
     },
     {
       "convert": "Lần này, hắn ý nghĩ vừa lên, thậm chí chưa kịp phát ra chỉ lệnh, lư hương liền đã khoan thai trôi nổi mà lên, lơ lửng ở Viên Minh trước người.",
       "dich": "Viên Minh thấy thế mừng rõ, lập tức vừa động tâm niệm, đồng thời phất một tay lên, lư hương liền lảo đảo lượn vòng bay ra, lướt về phía xa.",
-      "suggest": "Lúc này, ý nghĩ trong đầu hắn vừa khởi động, thậm chí chưa kịp ra lệnh, lư hương đã nhẹ nhàng trôi nổi trên không trung, lơ lửng trước người Viên Minh.",
-      "similarity": [
-        [
-          43,
-          0.32
-        ],
-        [
-          86,
-          0.11
-        ]
-      ]
+      "suggest": "Ý nghĩ trong đầu hắn vừa lóe lên, thậm chí chưa kịp ra lệnh, lư hương đã khoan thai trôi nổi, lơ lửng trước người Viên Minh."
     },
     {
       "convert": "Viên Minh thấy thế vui mừng, lúc này tâm niệm vừa động, một tay phất lên, lư hương liền lắc lắc ung dung địa lượn vòng mà ra, hướng phía nơi xa bay khỏi ra ngoài.",
-      "dich": "Khác với Thanh Ngư kiếm chỉ có thể bay ra xa ba trượng, lư hương thực tế sau khi bay ra một khoảng gần mười trượng thì liên hệ với Viên Minh mới gần như đứt mất.",
-      "suggest": "Viên Minh thấy thế vui mừng, lúc này tâm niệm vừa động, một tay phất lên, lư hương liền lắc lư, ung dung bay về phía xa xa.",
-      "similarity": [
-        [
-          44,
-          0.25
-        ]
-      ]
+      "dich": "Khác với Thanh Ngư Kiếm chỉ có thể bay ra xa ba trượng, lư hương thực tế sau khi bay ra một khoảng gần mười trượng thì liên hệ với Viên Minh mới gần như đứt mất.",
+      "suggest": "Viên Minh thấy thế vui mừng, lúc này tâm niệm vừa động, một tay phất lên, lư hương liền ung dung lượn vòng, bay thật nhanh về phía xa xa."
     },
     {
-      "convert": "Cùng Thanh Ngư kiếm chỉ có thể bay ra xa ba trượng khác biệt, lư hương đúng là bay ra gần xa mười trượng về sau, cùng Viên Minh ở giữa liên hệ mới cơ hồ bên trong gãy mất ra.",
+      "convert": "Cùng Thanh Ngư Kiếm chỉ có thể bay ra xa ba trượng khác biệt, lư hương đúng là bay ra gần xa mười trượng về sau, cùng Viên Minh ở giữa liên hệ mới cơ hồ bên trong gãy mất ra.",
       "dich": "Viên Minh liền vội vàng đứng lên, chạy tới nhặt lư hương về, nhanh hơn chồn lửa hiếu kỳ một bước.",
-      "suggest": "Thanh Ngư Kiếm cũng chỉ có thể bay xa ba trượng so với Thanh Ngư Kiếm, nhưng lư hương phải bay xa hơn mười trượng so với Viên Minh mới cơ hồ gãy mất.",
-      "similarity": [
-        [
-          45,
-          0.2
-        ]
-      ]
+      "suggest": "Khác với Thanh Ngư Kiếm chỉ có thể bay xa ba trượng, lư hương sau khi bay xa hơn mười trượng mới cơ hồ đứt gãy trong liên hệ với Viên Minh."
     },
     {
       "convert": "Viên Minh liền vội vàng đứng lên, chạy tới, trước vu hiếu kì Hỏa Chồn một bước, đem lư hương nhặt được trở về.",
       "dich": "Hỏa Sàm Nhi vô cùng tò mò về cái lư hương biết bay này, lập tức leo lên tính tranh giành với Viên Minh.",
-      "suggest": "Viên Minh vội vàng đứng dậy, chạy tới gần đám mây lửa hiếu kì, nhặt đám mây đen đang bay về phía trước.",
-      "similarity": [
-        [
-          46,
-          0.12
-        ]
-      ]
+      "suggest": "Viên Minh vội vàng đứng lên, chạy tới trước con vu ưng hiếu kì, bước một bước nhặt lư hương lên."
     },
     {
       "convert": "Hỏa Sàm Nhi đối cái này sẽ chỉ phi lư hương rất là hiếu kì, bò lên liền muốn cùng Viên Minh tranh đoạt.",
       "dich": "\"Ngươi tiểu gia hỏa này, không được lộn xộn, tự tìm cái gì chơi đi, còn phá rối nữa là bữa sau nhịn đấy.\"",
-      "suggest": "Hỏa Sàm Nhi đối với cái quạt này rất hiếu kì, leo lên để tranh đoạt cùng Viên Minh.",
-      "similarity": [
-        [
-          47,
-          0.12
-        ]
-      ]
+      "suggest": "Hỏa Sàm Nhi đối với cái lư hương này rất hiếu kì, nó bò lên muốn tranh đoạt với Viên Minh."
     },
     {
       "convert": "\"Ngươi tiểu gia hỏa này, không được lộn xộn, bản thân tìm một chút sự tình làm đi, lại quấy rối, bữa tiếp theo liền bị đói đi.\"",
       "dich": "Viên Minh một tay tóm chồn lửa ném ra ngoài, bưng lư hương lên, đưa đến trước mắt cẩn thận xem xét một vòng.",
-      "suggest": "\"Ngươi tiểu tử này, không được lộn xộn, bản thân phải tìm một chút việc làm đi, nếu không bữa tiếp theo sẽ bị đói.\"",
-      "similarity": [
-        [
-          48,
-          0.27
-        ]
-      ]
+      "suggest": "\"Tiểu gia hỏa ngươi không được lộn xộn, tự mình tìm một chuyện giải quyết đi, đừng để sau này bị đói.\""
     },
     {
       "convert": "Viên Minh một tay lấy Hỏa Chồn ném ra ngoài, chợt bưng lư hương, tiến đến trước mắt cẩn thận tra xét một vòng.",
-      "dich": "Từ phản ứng trong lần đầu thi triển Khu Vật thuật mà xét, hắn đã vững tin cái lư hương này tối thiểu là một bảo vật cấp pháp khí, điều này khiến hắn có chút hưng phấn.",
-      "suggest": "Viên Minh một tay nhặt Hỏa Tinh ném ra ngoài, tay kia chợt cầm lư hương tiến tới gần cẩn thận quan sát.",
-      "similarity": [
-        [
-          49,
-          0.21
-        ]
-      ]
+      "dich": "Từ phản ứng trong lần đầu thi triển Khu Vật Thuật mà xét, hắn đã vững tin cái lư hương này tối thiểu là một bảo vật cấp pháp khí, điều này khiến hắn có chút hưng phấn.",
+      "suggest": "Viên Minh ném con Hỏa Chồn ra ngoài, xong lại bưng lư hương lên, cẩn thận quan sát một vòng."
     },
     {
-      "convert": "Từ lần đầu thi triển Khu vật thuật phản ứng đến xem, hắn đã vững tin cái này lư hương ít nhất là kiện pháp khí cấp bậc bảo vật, điều này làm hắn có chút hưng phấn.",
-      "dich": "Viên Minh ngẫm nghĩ một chút rồi lại lần nữa thi triển Khu Vật thuật, điều khiển lư hương bay lên, đồng thời thử tăng lượng pháp lực rót vào, xem xem có thể kích phát ra thần thông gì không.",
-      "suggest": "Từ phản ứng đầu tiên của khu vật thuật, hắn đã tin tưởng lư hương này ít nhất là một kiện pháp khí cấp bậc, điều này làm cho hắn có chút hưng phấn.",
-      "similarity": [
-        [
-          50,
-          0.25
-        ]
-      ]
+      "convert": "Từ lần đầu thi triển Khu Vật Thuật phản ứng đến xem, hắn đã vững tin cái này lư hương ít nhất là kiện pháp khí cấp bậc bảo vật, điều này làm hắn có chút hưng phấn.",
+      "dich": "Viên Minh ngẫm nghĩ một chút rồi lại lần nữa thi triển Khu Vật Thuật, điều khiển lư hương bay lên, đồng thời thử tăng lượng pháp lực rót vào, xem xem có thể kích phát ra thần thông gì không.",
+      "suggest": "Từ phản ứng đầu tiên khi thi triển Khu Vật Thuật, hắn đã tin lư hương này ít nhất phải là bảo vật cấp bậc kiện pháp khí, điều này làm cho hắn có chút hưng phấn."
     },
     {
-      "convert": "Viên Minh suy nghĩ một chút về sau, liền lần nữa thi triển Khu vật thuật, thao túng lư hương bay lên, cũng nếm thử gia tăng pháp lực độ nhập, nhìn xem có thể hay không kích phát ra cái gì thần thông tới.",
+      "convert": "Viên Minh suy nghĩ một chút về sau, liền lần nữa thi triển Khu Vật Thuật, thao túng lư hương bay lên, cũng nếm thử gia tăng pháp lực độ nhập, nhìn xem có thể hay không kích phát ra cái gì thần thông tới.",
       "dich": "Có điều thử qua mấy lần mà vẫn không thu hoạch được gì, lư hương này vẫn y như một khối đá cứng đầu, không hề triển lộ ra bất kỳ uy năng gì khác.",
-      "suggest": "Viên Minh suy nghĩ một chút, sau đó lại lần nữa thi triển Thuật Khu Vật, điều khiển lư hương bay lên, cũng nếm thử gia tăng Pháp lực, xem có thể kích phát được thần thông gì không.",
-      "similarity": [
-        [
-          51,
-          0.45
-        ]
-      ]
+      "suggest": "Viên Minh suy nghĩ một chút, lại lần nữa thi triển Khu Vật Thuật, điều khiển lư hương bay lên, cũng thử gia tăng độ nhập của pháp lực, xem có thể kích phát ra thần thông gì hay không."
     },
     {
       "convert": "Có thể trải qua nếm thử xuống tới, nhưng thủy chung không thu hoạch được gì, cái này lư hương từ đầu đến cuối tựa như là một khối ngoan thạch, không có triển lộ khác bất luận cái gì uy năng.",
       "dich": "\"Có phải là do ta vẫn chưa luyện hóa nó không?\"",
-      "suggest": "Trải qua nhiều lần thử nghiệm, nhưng cho đến nay vẫn không thu hoạch được gì, lư hương này từ đầu đến cuối tựa như một khối đá ngoan thạch, không có bất kỳ uy năng nào khác.",
-      "similarity": [
-        [
-          52,
-          0.36
-        ]
-      ]
+      "suggest": "Trải qua thử nghiệm một hồi, nhưng thủy chung không thu hoạch được gì, lư hương này từ đầu đến cuối tựa như một khối đá ngoan thạch, không có bất cứ uy năng nào khác."
     },
     {
       "convert": "\"Có phải hay không là bởi vì ta cũng không đem luyện hóa duyên cớ?\"",
       "dich": "Viên Minh cân nhắc một hồi, xong liền hạ quyết tâm, định dùng khẩu quyết luyện hóa mà Tam động chủ dạy hắn để luyện hóa lư hương này.",
-      "suggest": "\"Có phải là vì ta không luyện hóa được đệ tử sao?\"",
-      "similarity": [
-        [
-          53,
-          0.24
-        ]
-      ]
+      "suggest": "\"Có phải là bởi vì ta không luyện hóa được bí thuật này không?\""
     },
     {
       "convert": "Viên Minh một phen tư lượng, liền hạ một cái quyết định, định dùng Tam động chủ dạy hắn",
-      "dich": "Ngay trong ngày nắm giữ được khẩu quyết luyện hóa, hắn đã đi luyện hóa thử Thanh Ngư kiếm, kết quả phát hiện nó chỉ là kiện nửa pháp khí, căn bản không đủ điều kiện luyện hóa nên đành phải coi như thôi.",
-      "suggest": "Viên Minh sau một phen lưỡng lự, liền đưa ra quyết định, dùng tam động chủ dạy cho hắn",
-      "similarity": []
+      "dich": "Ngay trong ngày nắm giữ được khẩu quyết luyện hóa, hắn đã đi luyện hóa thử Thanh Ngư Kiếm, kết quả phát hiện nó chỉ là kiện nửa pháp khí, căn bản không đủ điều kiện luyện hóa nên đành phải coi như thôi.",
+      "suggest": "Viên Minh suy nghĩ một hồi liền đưa ra quyết định, định dùng Tam động chủ dạy hắn một phen"
     },
     {
       "convert": "luyện hóa khẩu quyết, đem cái này lư hương luyện hóa.",
       "dich": "Nói làm liền làm, Viên Minh lúc này tay nâng lư hương, trong miệng ngâm tụng khẩu quyết, thử nghiệm luyện bảo.",
-      "suggest": "Luyện hóa khẩu quyết, dùng lư hương này luyện hóa.",
-      "similarity": []
+      "suggest": "Khẩu quyết luyện hóa lư hương này, đem lư hương này luyện hóa."
     },
     {
-      "convert": "Sớm tại nắm giữ luyện hóa khẩu quyết cùng ngày, hắn liền đã thử qua đi luyện hóa Thanh Ngư kiếm, kết quả phát hiện đây chỉ là kiện nửa pháp khí, căn bản không có đủ luyện hóa điều kiện, đành phải coi như thôi.",
+      "convert": "Sớm tại nắm giữ luyện hóa khẩu quyết cùng ngày, hắn liền đã thử qua đi luyện hóa Thanh Ngư Kiếm, kết quả phát hiện đây chỉ là kiện nửa pháp khí, căn bản không có đủ luyện hóa điều kiện, đành phải coi như thôi.",
       "dich": "Nháy mắt tiếp theo, một lực bài xích mãnh liệt từ trong tỏa ra, đồng thời tầng tầng những đạo phù văn cấm chế màu vàng kim hiện ra, Viên Minh còn chưa kịp nhìn rõ đã bị ánh sáng màu vàng kim đánh văng ra.",
-      "suggest": "Ngay sau khi nắm giữ được khẩu quyết luyện hóa, hắn đã thử luyện hóa Thanh Ngư kiếm, kết quả phát hiện đây chỉ là kiện pháp khí nửa kiện, căn bản không có điều kiện luyện hóa, đành phải xem như bỏ qua.",
-      "similarity": [
-        [
-          55,
-          0.49
-        ]
-      ]
+      "suggest": "Ngay ngày hôm sau, hắn đã thử luyện hóa Thanh Ngư Kiếm, kết quả phát hiện Thanh Ngư Kiếm chỉ là kiện nửa pháp khí, căn bản không đủ điều kiện để luyện hóa, đành phải thôi."
     },
     {
       "convert": "Nói làm liền làm, Viên Minh lúc này tay nâng lư hương, trong miệng ngâm tụng luyện vật khẩu quyết, nếm thử luyện bảo.",
       "dich": "Cả người hắn từ dưới đất bay lên, đâm vào một gốc cây cách đó bảy tám trượng mới ngừng lại.",
-      "suggest": "Nói là làm, Viên Minh lúc này tay nâng lư hương, miệng ngâm tụng khẩu quyết luyện vật, nếm thử luyện bảo.",
-      "similarity": [
-        [
-          56,
-          0.6
-        ]
-      ]
+      "suggest": "Nói là làm ngay, Viên Minh lúc này tay nâng lư hương, miệng ngâm tụng khẩu quyết luyện vật, nếm thử luyện bảo."
     },
     {
       "convert": "Tiếp theo một cái chớp mắt, một cỗ mãnh liệt lực bài xích từ đó phát tán mà ra, từng đạo phù văn màu vàng cấm chế tầng tầng hiển hiện, Viên Minh còn chưa kịp thấy rõ, liền bị kim quang bắn ra.",
       "dich": "Chồn lửa đang nằm sấp trên tàng cây thấy cảnh này, lập tức cứng cổ sững người, cơ bản không hiểu chuyện gì vừa xảy ra.",
-      "suggest": "Chỉ nháy mắt sau đó, một cỗ áp lực cực mạnh từ trong đó phát ra, từng đạo Phù văn màu vàng cấm chế xuất hiện, Viên Minh còn chưa kịp nhìn rõ thì đã bị kim quang bắn ra.",
-      "similarity": [
-        [
-          57,
-          0.21
-        ]
-      ]
+      "suggest": "Chớp mắt tiếp theo, một cỗ áp lực mãnh liệt từ trong cơ thể phát tán ra, từng đạo Phù văn màu vàng cấm chế hiện ra tầng tầng lớp lớp, Viên Minh còn chưa kịp nhìn rõ đã bị kim quang bắn ngược ra."
     },
     {
       "convert": "Cả người hắn từ nguyên địa bay lên, đâm vào bảy tám trượng bên ngoài một gốc trên cây, mới ngừng lại được.",
-      "dich": "\"Ài, lực cấm chế mạnh quá!\"",
-      "suggest": "Cả người hắn bay lên, đâm vào một gốc cây cách đó chừng bảy, tám trượng rồi dừng lại.",
-      "similarity": [
-        [
-          58,
-          0.51
-        ]
-      ]
+      "dich": "\"Ài, lực cấm chế mạnh quá!\" Viên Minh vừa xoa ngực, vừa thở dài.",
+      "suggest": "Cả người hắn bay lên trời, đâm vào một gốc cây cách đó bảy tám trượng mới dừng lại."
     },
     {
       "convert": "Ghé vào trên cây Hỏa Chồn thấy cảnh này, trực tiếp cứng cổ sững sờ ngay tại chỗ, căn bản không rõ chuyện gì xảy ra.",
-      "dich": "Viên Minh vừa xoa ngực, vừa thở dài.",
-      "suggest": "Ghé lên Hỏa Thiềm trên cây, thấy một cảnh này liền cứng cổ cứng cổ cứng cổ, căn bản không biết chuyện gì đang xảy ra.",
-      "similarity": []
+      "dich": "Dù không thể luyện hóa lư hương, Viên Minh lại có chút vui mừng khó tả.",
+      "suggest": "Hỏa Chồn trên cây vừa thấy cảnh này liền cứng cổ cứng cổ, sững sờ tại chỗ, căn bản không biết chuyện gì xảy ra."
     },
     {
       "convert": "\"Ai, thật mạnh cấm chế chi lực \"",
-      "dich": "Dù không thể luyện hóa lư hương, Viên Minh lại có chút vui mừng khó tả.",
-      "suggest": "\"Ai da, lực cấm chế thật mạnh sao?!\"",
-      "similarity": [
-        [
-          60,
-          0.25
-        ]
-      ]
+      "dich": "Từ tầng tầng lớp lớp phù vằn trong cấm chế kia, hắn không khó để để nhìn ra, lư hương này nhất định là một pháp khí hiếm có, thậm chí có thể là bảo bối trong truyền thuyết...",
+      "suggest": "\"Ai, lực cấm chế thật mạnh!\""
     },
     {
       "convert": "Viên Minh một bên xoa ngực, một bên thở dài.",
-      "dich": "Từ tầng tầng lớp lớp phù vằn trong cấm chế kia, hắn không khó để để nhìn ra, lư hương này nhất định là một pháp khí hiếm có, thậm chí có thể là bảo bối trong truyền thuyết.",
-      "suggest": "Viên Minh vừa xoa bóp ngực, vừa thở dài.",
-      "similarity": [
-        [
-          61,
-          0.71
-        ]
-      ]
+      "dich": "Trong nháy mắt, hơn nửa tháng lại trôi qua.",
+      "suggest": "Viên Minh vừa xoa bóp ngực, vừa thở dài."
     },
     {
       "convert": "Mặc dù không thể luyện hóa lư hương, Viên Minh lại có chút không hiểu vui vẻ.",
-      "dich": "...",
-      "suggest": "Mặc dù không thể luyện hóa lư hương nhưng Viên Minh lại có chút không hiểu nổi.",
-      "similarity": [
-        [
-          62,
-          0.48
-        ]
-      ]
+      "dich": "Ở một chỗ nào đó trong Thập Vạn Đại Sơn, một con hung thú báo đốm cao chừng nửa thân người đang cẩn thận tiến lên, một bên cảnh giác tập trung nghe ngóng động tĩnh xung quanh, một bên tìm kiếm con mồi bỏ bụng.",
+      "suggest": "Mặc dù không thể luyện hóa lư hương nhưng Viên Minh lại có chút không hiểu."
     },
     {
       "convert": "Từ kia tầng tầng lớp lớp phù văn trong cấm chế, hắn không khó coi ra, cái này lư hương nhất định là kiện hiếm có pháp khí, thậm chí có thể là truyền thuyết kia bên trong bảo bối.",
-      "dich": "Trong nháy mắt, hơn nửa tháng lại trôi qua.",
-      "suggest": "Từ tầng tầng lớp lớp phù văn trong đó, hắn có thể đoán được lư hương này nhất định là kiện pháp khí hiếm có, thậm chí có thể là bảo bối trong truyền thuyết.",
-      "similarity": [
-        [
-          63,
-          0.58
-        ]
-      ]
+      "dich": "Một tiếng \"soạt\" bỗng vang lên ở phía trước rừng cây, tiếp đấy, một con thú nhỏ trông như hồ ly, cả người một màu đỏ lửa nhảy ra, vui sướng chạy về phía trước.",
+      "suggest": "Từ cấm chế tầng tầng lớp lớp trong pháp khí, hắn có thể nhận ra lư hương này nhất định là kiện pháp khí hiếm có, thậm chí có thể là bảo bối trong truyền thuyết."
     },
     {
-      "convert": "Nghĩ tới chỗ này, hắn liền không còn không biết tự lượng sức mình nếm thử luyện hóa, mà là tiếp tục luyện tập khởi Khu vật thuật tới.",
-      "dich": "Ở một chỗ nào đó trong Thập Vạn Đại Sơn, một con hung thú báo đốm cao chừng nửa thân người đang cẩn thận tiến lên, một bên cảnh giác tập trung nghe ngóng động tĩnh xung quanh, một bên tìm kiếm con mồi bỏ bụng.",
-      "suggest": "Nghĩ tới đây, hắn không còn ngại ngùng mà dùng hết sức mình để luyện hóa thuật Khu Vật nữa, tiếp tục luyện tập thuật Khu Vật.",
-      "similarity": []
+      "convert": "Nghĩ tới chỗ này, hắn liền không còn không biết tự lượng sức mình nếm thử luyện hóa, mà là tiếp tục luyện tập khởi Khu Vật Thuật tới.",
+      "dich": "Hung thú báo đốm trong mắt mừng vui, lập tức nhảo tới, tức thì cây rừng trong phạm vi mấy trượng xung quanh ào ào rung động, gió tanh thổi loạn.",
+      "suggest": "Nghĩ tới đây, hắn không còn tự lượng sức mình thử luyện hóa, mà tiếp tục luyện tập Thuật Khu Vật."
     },
     {
       "convert": "Trong nháy mắt, lại hơn phân nửa trăng có thừa.",
-      "dich": "Một tiếng \"soạt\" bỗng vang lên ở phía trước rừng cây, tiếp đấy, một con thú nhỏ trông như hồ ly, cả người một màu đỏ lửa nhảy ra, vui sướng chạy về phía trước.",
-      "suggest": "Trong nháy mắt, hơn phân nửa vầng trăng đã cạn sạch.",
-      "similarity": [
-        [
-          65,
-          0.32
-        ]
-      ]
+      "dich": "Thú nhỏ màu đỏ lửa lộ vẻ kinh hãi, há mồm phun ra một luồng lửa màu đỏ, đánh về phía hung thú báo đốm, có điều ngọn lửa màu đỏ kia uy lực quá yếu, còn chưa tới gần báo đốm đã bị cuồng phong đánh tan.",
+      "suggest": "Trong nháy mắt, hơn phân nửa là trăng tròn."
     },
     {
       "convert": "Thập Vạn Đại Sơn nơi nào đó, một con cao cỡ nửa người báo đốm hung thú cẩn thận giữa khu rừng tiến lên, một bên cảnh giác nhìn chăm chú lên động tĩnh chung quanh, một bên tìm kiếm no bụng con mồi.",
-      "dich": "Hung thú báo đốm trong mắt mừng vui, lập tức nhảo tới, tức thì cây rừng trong phạm vi mấy trượng xung quanh ào ào rung động, gió tanh thổi loạn.",
-      "suggest": "Ở một chỗ nào đó trong Thập Vạn Đại Sơn, một con hung thú nửa người nhưng cao hơn nửa người kia đang cảnh giác nhìn xung quanh, vừa tìm kiếm một con mồi vừa tìm kiếm mồi ngon.",
-      "similarity": [
-        [
-          66,
-          0.36
-        ]
-      ]
+      "dich": "Lợi trảo như sắt thép của báo đốm nhoáng cái đã xuất hiện trên đỉnh đầu con thú nhỏ rồi chụp nhanh xuống.",
+      "suggest": "Ở một chỗ nào đó trong Thập Vạn Đại Sơn, một con hung thú báo đốm cao nửa người, cẩn thận đi lại giữa khu rừng, vừa cảnh giác nhìn xung quanh, vừa tìm kiếm con mồi no bụng."
     },
     {
       "convert": "Phía trước rừng cây \"'Rầm Ào Ào'\" một vang, nhảy lên ra một con toàn thân đỏ choét sắc, tương tự hồ ly tiểu thú, vui sướng hướng trước mặt chạy.",
-      "dich": "Thú nhỏ màu đỏ lửa lộ vẻ kinh hãi, há mồm phun ra một luồng lửa màu đỏ, đánh về phía hung thú báo đốm, có điều ngọn lửa màu đỏ kia uy lực quá yếu, còn chưa tới gần báo đốm đã bị cuồng phong đánh tan.",
-      "suggest": "Rừng cây phía trước ''Rầm Ào Ào'' một tiếng, một con thú nhỏ toàn thân màu đỏ choét, giống hệt hồ ly, vui sướng chạy về phía trước.",
-      "similarity": [
-        [
-          67,
-          0.31
-        ]
-      ]
+      "dich": "Đúng vào thời khắc này, một thanh trường kiếm màu xanh từ khoảng rừng phía trước bắn vọt tới, lấy thế sét đánh không kịp bưng tai, đâm về phía ngực hung thú.",
+      "suggest": "Rừng cây phía trước bỗng 'rầm rầm rầm', một con thú nhỏ toàn thân đỏ choét, bộ dáng như hồ ly, vui sướng chạy về phía trước."
     },
     {
       "convert": "Báo đốm hung thú trong mắt đại hỉ, lập tức bay nhào đi lên, mấy trượng phạm vi bên trong rừng cây \"Ào ào\" vang lớn, gió tanh loạn vũ.",
-      "dich": "Lợi trảo như sắt thép của báo đốm nhoáng cái đã xuất hiện trên đỉnh đầu con thú nhỏ rồi chụp nhanh xuống.",
-      "suggest": "Con báo đốm cực kỳ vui mừng, lập tức bay nhào lên, trong phạm vi mấy trượng xung quanh, gió tanh nổi lên, xé gió khuấy động không khí.",
-      "similarity": [
-        [
-          68,
-          0.26
-        ]
-      ]
+      "dich": "Hung thú báo đốm gầm lên một tiếng, dậm bốn vó đạp mạnh một cái lên mặt đất, thân thể to lớn tức tốc lướt ngang, vừa vặn tránh thoát một kích của trường kiếm màu xanh trong đường tơ kẽ tóc.",
+      "suggest": "Hung thú báo đốm trong mắt tràn đầy vẻ vui mừng, lập tức nhào tới, trong phạm vi mấy trượng xung quanh rừng cây \"Ầm ầm\" tiếng gió rít, gió tanh nổi lên cuồn cuộn."
     },
     {
       "convert": "Hỏa hồng tiểu thú mặt lộ vẻ kinh hãi, há mồm phun ra một cỗ màu đỏ hỏa diễm, đánh về phía báo đốm hung thú, nhưng mà màu đỏ hỏa diễm uy lực quá yếu, còn không có tới gần báo đốm, liền bị cuồng phong xé nát.",
-      "dich": "Đúng vào thời khắc này, một thanh trường kiếm màu xanh từ khoảng rừng phía trước bắn vọt tới, lấy thế sét đánh không kịp bưng tai, đâm về phía ngực hung thú.",
-      "suggest": "Mặt mũi tiểu thú Hỏa hồng lộ vẻ kinh hãi, há miệng phun ra một luồng hỏa diễm màu đỏ đánh về phía hung thú kia nhưng uy lực hỏa diễm màu đỏ quá yếu, còn chưa tới gần đã bị cuồng phong đánh cho nát bét.",
-      "similarity": [
-        [
-          69,
-          0.4
-        ]
-      ]
+      "dich": "Nhưng thanh kiếm kia lại đột nhiên bẻ hướng bay, tiếp tục đâm tới hung thú báo đốm như có một bàn tay vô hình đang nắm thân kiếm.",
+      "suggest": "Tiểu thú màu đỏ lửa lộ vẻ kinh hãi, há mồm phun ra một luồng hỏa diễm màu đỏ, đánh về phía hung thú báo đốm, nhưng hỏa diễm màu đỏ quá yếu, chưa tới gần đã bị cuồng phong xé rách."
     },
     {
       "convert": "Báo đốm như sắt thép lợi trảo nhoáng một cái liền xuất hiện ở tiểu thú đỉnh đầu, vồ mạnh mà xuống.",
-      "dich": "Hung thú báo đốm gầm lên một tiếng, dậm bốn vó đạp mạnh một cái lên mặt đất, thân thể to lớn tức tốc lướt ngang, vừa vặn tránh thoát một kích của trường kiếm màu xanh trong đường tơ kẽ tóc.",
-      "suggest": "Con báo đốm như có thép vừa vặn xuất hiện trên đỉnh đầu con thú, vồ mạnh một cái.",
-      "similarity": [
-        [
-          70,
-          0.29
-        ]
-      ]
+      "dich": "Một tiếng \"phập\" nhỏ vang lên, trường kiếm màu xanh đâm vào tim báo đốm, cắm ngập tới tận chuôi.",
+      "suggest": "Con báo đốm như sắt thép nhoáng cái đã xuất hiện trên đỉnh đầu con thú, vồ mạnh một cái."
     },
     {
       "convert": "Vào thời khắc này, một thanh trường kiếm màu xanh từ tiền phương trong rừng bắn ra, lấy thế sét đánh không kịp bưng tai, đâm về báo đốm hung thú ngực.",
-      "dich": "Nhưng thanh kiếm kia lại đột nhiên bẻ hướng bay, tiếp tục đâm tới hung thú báo đốm như có một bàn tay vô hình đang nắm thân kiếm.",
-      "suggest": "Đúng lúc này, một thanh trường kiếm màu xanh xuất hiện trong rừng, với thế sét đánh không kịp bưng tai, đâm vào ngực hung thú báo đốm.",
-      "similarity": [
-        [
-          71,
-          0.45
-        ],
-        [
-          74,
-          0.1
-        ]
-      ]
+      "dich": "Trong thanh âm rầm rầm từ rừng cây phía trước, thân ảnh Viên Minh bước ra.",
+      "suggest": "Đúng lúc này, một thanh trường kiếm màu xanh từ trong rừng bắn ra, dùng thế sét đánh không kịp bưng tai, đâm thẳng vào ngực hung thú báo đốm."
     },
     {
       "convert": "Báo đốm hung thú hét lớn một tiếng, bốn vó tại mặt đất bỗng nhiên đạp một cái, cao lớn thân thể hướng bên cạnh lướt ngang lái đi, hiểm hiểm né tránh trường kiếm màu xanh một kích.",
-      "dich": "Một tiếng \"phập\" nhỏ vang lên, trường kiếm màu xanh đâm vào tim báo đốm, cắm ngập tới tận chuôi.",
-      "suggest": "Hung thú báo đốm hét lớn một tiếng, bốn vó trên mặt đất đột nhiên đạp mạnh xuống đất, thân hình to lớn nghiêng ngả tránh né một kích của thanh trường kiếm màu xanh.",
-      "similarity": [
-        [
-          71,
-          0.11
-        ],
-        [
-          72,
-          0.2
-        ]
-      ]
+      "dich": "\"Tiểu gia hỏa nhà ngươi, đã sớm nói ngươi, nơi này cực kỳ nguy hiểm, khắp nơi chạy loạn rồi có chuyện thì ta gánh không nổi đâu.\"",
+      "suggest": "Hung thú báo đốm hét lớn một tiếng, bốn vó trên mặt đất bỗng nhiên đạp mạnh xuống đất, thân hình cao lớn lướt ngang qua bên cạnh, tránh né một kích trả thù của thanh kiếm màu xanh."
     },
     {
       "convert": "Nhưng mà chuôi này trường kiếm màu xanh bay vụt phương hướng đột nhiên lệch ra, tiếp tục đâm hướng báo đốm hung thú, giống như có một bàn tay vô hình cầm thân kiếm.",
-      "dich": "Trong thanh âm rầm rầm từ rừng cây phía trước, thân ảnh Viên Minh bước ra.",
-      "suggest": "Nhưng trường kiếm màu xanh này khi bay vụt ra phía sau đột nhiên lệch ra, tiếp tục đâm về phía hung thú báo đốm, trông như có một bàn tay vô hình nắm giữ thân kiếm vậy.",
-      "similarity": [
-        [
-          69,
-          0.12
-        ],
-        [
-          71,
-          0.1
-        ],
-        [
-          73,
-          0.29
-        ]
-      ]
+      "dich": "Hắn xách con thú nhỏ lên, gõ gõ cái đầu của nó.",
+      "suggest": "Nhưng trường kiếm màu xanh bay vụt qua phía trước lại đột nhiên lệch ra, tiếp tục đâm về phía hung thú báo đốm, trông như có một bàn tay vô hình nắm lấy chuôi kiếm."
     },
     {
       "convert": "\"Phốc\" một tiếng vang nhỏ, trường kiếm màu xanh đâm vào báo đốm tim, cắm thẳng chí kiếm chuôi.",
-      "dich": "\"Tiểu gia hỏa nhà ngươi, đã sớm nói ngươi, nơi này cực kỳ nguy hiểm, khắp nơi chạy loạn rồi có chuyện thì ta gánh không nổi đâu.\"",
-      "suggest": "\"Phốc\", một tiếng nổ nhỏ vang lên, trường kiếm màu xanh đâm vào tim báo đốm, cắm thẳng chí kiếm.",
-      "similarity": [
-        [
-          74,
-          0.58
-        ]
-      ]
+      "dich": "Con thú nhỏ gục đầu xuống, bộ dáng như biết lỗi.",
+      "suggest": "Một tiếng 'phốc' nhỏ vang lên, thanh kiếm màu xanh đâm vào tim báo đốm, cắm thẳng vào chuôi đoản kiếm."
     },
     {
       "convert": "Báo đốm hung thú phát ra một tiếng thê lương gào thét, nghiêng nghiêng ngã trên mặt đất, giãy dụa một lát sau bất động.",
-      "dich": "Hắn xách con thú nhỏ lên, gõ gõ cái đầu của nó.",
-      "suggest": "Con báo đốm phát ra những tiếng gào rú thê lương, nghiêng mình ngã xuống đất, giãy dụa một hồi rồi bất động.",
-      "similarity": []
+      "dich": "\"Đừng có làm cái bộ này nữa!",
+      "suggest": "Hung thú báo đốm phát ra một tiếng gào rú thê lương, nghiêng ngả ngã xuống đất, giãy dụa một lúc rồi bất động."
     },
     {
       "convert": "Phía trước rừng cây \"Rầm rầm\" âm thanh bên trong, Viên Minh thân ảnh đi ra.",
-      "dich": "Con thú nhỏ gục đầu xuống, bộ dáng như biết lỗi.",
-      "suggest": "Trong rừng cây vang lên những tiếng 'ầm rầm', bóng dáng Viên Minh bước ra.",
-      "similarity": [
-        [
-          75,
-          0.25
-        ]
-      ]
+      "dich": "Còn không nghe lời thì vào trong túi!\"",
+      "suggest": "Trong rừng cây vang lên tiếng 'rầm rầm', bóng dáng Viên Minh bước ra."
     },
     {
       "convert": "\"Ngươi tiểu gia hỏa này, đã sớm cùng ngươi đã nói, nơi này rất là nguy hiểm, chạy loạn khắp nơi xảy ra chuyện rồi ta có thể đảm đương không nổi.\"",
-      "dich": "\"Đừng có làm cái bộ này nữa!",
-      "suggest": "\"Tiểu tử ngươi, đã sớm nói với ngươi nơi này rất nguy hiểm, chạy loạn khắp nơi, ta không thể đảm đương nổi.\"",
-      "similarity": [
-        [
-          76,
-          0.21
-        ]
-      ]
+      "dich": "Viên Minh thấy cảnh này, thực sự vừa bực mình vừa buồn cười, trợn mắt trừng nó xong rồi vẫn đặt nó lên đầu vai.",
+      "suggest": "\"Tiểu gia hỏa ngươi nói cho ta biết, nơi này rất nguy hiểm, chạy loạn khắp nơi xảy ra chuyện, ta sao có thể đảm đương nổi.\""
     },
     {
       "convert": "Hắn nắm lên hỏa hồng tiểu thú, gõ gõ đầu của nó.",
-      "dich": "Còn không nghe lời thì vào trong túi!\"",
-      "suggest": "Hắn cầm lấy con chim nhỏ màu hỏa hồng, gõ gõ đầu của nó.",
-      "similarity": [
-        [
-          77,
-          0.24
-        ]
-      ]
+      "dich": "Tiếp xúc lâu với Hỏa Sàm Nhi, hắn cuối cùng hiểu rõ vì sao Lặc Cống lại nói chồn lửa nghịch ngợm, con vật nhỏ này dù lá gan không lớn nhưng đối với mọi thứ đều đầy lòng tò mò, căn bản không chịu ngồi yên, chỉ cần hơi không để ý một chút là chạy loạn khắp nơi, khiến người ta đau đầu không thôi.",
+      "suggest": "Hắn nắm tiểu thú màu đỏ lửa, gõ gõ đầu nó."
     },
     {
       "convert": "Hỏa hồng tiểu thú rủ xuống đầu, một bộ nhận lầm biểu lộ.",
-      "dich": "Viên Minh thấy cảnh này, thực sự vừa bực mình vừa buồn cười, trợn mắt trừng nó xong rồi vẫn đặt nó lên đầu vai.",
-      "suggest": "Tiểu thú nhỏ tóc đỏ rủ xuống đầu, lộ ra biểu tình nhận lầm.",
-      "similarity": []
+      "dich": "Trong tông môn không có quá nhiều chỗ có thể đi, các loại khuôn sáo quy củ cũng không ít, Viên Minh ngây ngốc lâu cảm thấy không được thoải mái lắm, một ngày này liền dứt khoát dẫn theo Hỏa Sàm Nhi đến Thập Vạn Đại Sơn, tới nơi mà hắn từng sinh sống một khoảng thời gian khi còn là Phi Mao thú nô, đặng giải sầu một chút.",
+      "suggest": "Tiểu thú màu đỏ lửa rủ xuống đầu, lộ vẻ nhận lầm."
     },
     {
       "convert": "\"Đừng lại tới đây một bộ!",
-      "dich": "Tiếp xúc lâu với Hỏa Sàm Nhi, hắn cuối cùng hiểu rõ vì sao Lặc Cống lại nói chồn lửa nghịch ngợm, con vật nhỏ này dù lá gan không lớn nhưng đối với mọi thứ đều đầy lòng tò mò, căn bản không chịu ngồi yên, chỉ cần hơi không để ý một chút là chạy loạn khắp nơi, khiến người ta đau đầu không thôi.",
-      "suggest": "\"Đừng có tới đây một mình!",
-      "similarity": [
-        [
-          79,
-          0.19
-        ]
-      ]
+      "dich": "Viên Minh khẽ vuốt tiểu gia hỏa lông xù trên vai mấy lần, sau đó kết động pháp quyết Khu Vật Thuật, hư không kéo một cái.",
+      "suggest": "\"Đừng có tới đây làm gì!"
     },
     {
       "convert": "Lại không nghe lời, liền quan trong túi đi!\"",
-      "dich": "Trong tông môn không có quá nhiều chỗ có thể đi, các loại khuôn sáo quy củ cũng không ít, Viên Minh ngây ngốc lâu cảm thấy không được thoải mái lắm, một ngày này liền dứt khoát dẫn theo Hỏa Sàm Nhi đến Thập Vạn Đại Sơn, tới nơi mà hắn từng sinh sống một khoảng thời gian khi còn là Phi Mao thú nô, đặng giải sầu một chút.",
-      "suggest": "Nếu không nghe lời, hãy cầm cái túi bỏ vào trong túi!\"",
-      "similarity": [
-        [
-          80,
-          0.32
-        ]
-      ]
+      "dich": "\"Vèo\" một tiếng.",
+      "suggest": "Nếu không nghe lời thì cứ bỏ vào trong túi!\""
     },
     {
       "convert": "Viên Minh gặp tình hình này, thật sự là vừa bực mình vừa buồn cười, hướng hắn trợn trắng mắt, hay là đem đặt ở bản thân đầu vai.",
-      "dich": "Viên Minh khẽ vuốt tiểu gia hỏa lông xù trên vai mấy lần, sau đó kết động pháp quyết Khu Vật thuật, hư không kéo một cái.",
-      "suggest": "Viên Minh thấy vậy thật sự là vừa bực mình vừa buồn cười, hướng hắn trợn trắng mắt, muốn đè hắn xuống giường.",
-      "similarity": [
-        [
-          81,
-          0.28
-        ]
-      ]
+      "dich": "Thanh Ngư Kiếm đang cắm trong ngực báo đốm bay ngược trở về, lơ lửng trước người hắn đồng thời rung động nhè nhẹ.",
+      "suggest": "Viên Minh thấy thế, thật sự là vừa bực mình vừa buồn cười, đưa đầu vai của hắn lên, thay hắn đặt lên vai mình."
     },
     {
       "convert": "Theo cùng Hỏa Sàm Nhi tiếp xúc làm sâu sắc, hắn cuối cùng minh bạch Lặc Cống tại sao lại nói Hỏa Chồn làm ầm ĩ, vật nhỏ này lá gan mặc dù không lớn, lại đối các loại sự vật đều đầy lòng hiếu kỳ, căn bản không chịu ngồi yên, hơi bất lưu thần liền đến chỗ tán loạn, làm người đau đầu không thôi.",
-      "dich": "\"Vèo\" một tiếng.",
-      "suggest": "Sau khi cùng Hỏa Sàm Nhi tiếp xúc với nhau, cuối cùng hắn cũng hiểu được tại sao Lặc Cống lại nói Hỏa Chồn làm ầm ĩ, con vật nhỏ này mặc dù không lớn nhưng lại rất hiếu kỳ với các loại sự vật, căn bản không chịu ngồi yên, tinh thần bị phân tán đi, làm cho người ta đau đầu không thôi.",
-      "similarity": [
-        [
-          82,
-          0.32
-        ]
-      ]
-    },
-    {
-      "convert": "Trong tông môn không địa phương có thể đi quá nhiều, các loại khuôn sáo quy củ cũng không ít, Viên Minh ngốc lâu cảm thấy có mấy phần không được tự nhiên, một ngày này liền dứt khoát mang theo Hỏa Sàm Nhi đi vào Thập Vạn Đại Sơn, đi vào cái này hắn trước đây với tư cách phi mao thú nô sinh sống một quãng thời gian địa phương, giải sầu một chút.",
-      "dich": "Thanh Ngư kiếm đang cắm trong ngực báo đốm bay ngược trở về, lơ lửng trước người hắn đồng thời rung động nhè nhẹ.",
-      "suggest": "Trong tông môn không có nhiều chỗ để đi, các loại khuôn sáo cũng không nhiều, Viên Minh ngốc lâu cảm thấy có chút không thoải mái, ngày hôm nay liền dẫn theo Hỏa Sàm Nhi đi vào Thập Vạn Đại Sơn, nơi này hắn sống với tư cách Phi Mao thú nô một thời gian, giải sầu một chút.",
-      "similarity": [
-        [
-          83,
-          0.35
-        ]
-      ]
-    },
-    {
-      "convert": "Viên Minh khẽ vuốt mấy lần đầu vai lông xù tiểu gia hỏa, sau đó kết động Khu vật thuật pháp quyết, hư không một dẫn.",
       "dich": "Viên Minh thấy thế, trên mặt lộ vẻ hài lòng.",
-      "suggest": "Viên Minh khẽ vuốt ve tiểu hài đồng tóc xù, sau đó kết động thuật Khu Vật, một đường dẫn tới không gian.",
-      "similarity": [
-        [
-          84,
-          0.24
-        ]
-      ]
+      "suggest": "Sau khi tiếp xúc với Hỏa Sàm Nhi sâu sắc, hắn cuối cùng cũng hiểu được tại sao Lặc Cống lại nói Hỏa Chồn làm ầm ĩ, vật nhỏ này mặc dù không lớn, nhưng đối với các loại sự vật đều rất hiếu kỳ, căn bản không chịu ngồi yên, một chút bất lưu thần liền đến chỗ tán loạn, làm cho người ta đau đầu không thôi."
+    },
+    {
+      "convert": "Trong tông môn không địa phương có thể đi quá nhiều, các loại khuôn sáo quy củ cũng không ít, Viên Minh ngốc lâu cảm thấy có mấy phần không được tự nhiên, một ngày này liền dứt khoát mang theo Hỏa Sàm Nhi đi vào Thập Vạn Đại Sơn, đi vào cái này hắn trước đây với tư cách Phi Mao thú nô sinh sống một quãng thời gian địa phương, giải sầu một chút.",
+      "dich": "Trong khoảng thời gian này, với sự luyện tập không ngừng, hắn ngày càng thuần thục trong việc dùng Khu Vật Thuật điều khiển Thanh Ngư Kiếm, không chỉ độ ổn định, tính chính xác có bước tiến dài, mà khoảng cách thôi động từ ba trượng trước đây, hiện tại đã tăng lên bảy, tám trượng, hơn nữa bằng vào sự hiểu biết thấu đáo của hắn thì phương diện này hẳn là còn có không gian để phát triển thêm.",
+      "suggest": "Trong tông môn không có nhiều chỗ để đi, các loại quy định cũng không ít, Viên Minh ngốc lâu cảm thấy có vài phần không được tự nhiên, một ngày này liền dứt khoát dẫn theo Hỏa Sàm Nhi đi vào Thập Vạn Đại Sơn, nơi mà hắn trước đây từng là Phi Mao thú nô sống, giải sầu một chút."
+    },
+    {
+      "convert": "Viên Minh khẽ vuốt mấy lần đầu vai lông xù tiểu gia hỏa, sau đó kết động Khu Vật Thuật pháp quyết, hư không một dẫn.",
+      "dich": "Vừa nghĩ đến đây, nhu cầu có được một kiện pháp khí chân chính của hắn càng trở nên bức thiết.",
+      "suggest": "Viên Minh vuốt ve nhẹ nhàng bả vai tiểu gia hỏa lông xù, sau đó kết động thuật Khu Vật, một đường dẫn ra ngoài."
     },
     {
       "convert": "\"Vèo\" một tiếng.",
-      "dich": "Trong khoảng thời gian này, với sự luyện tập không ngừng, hắn ngày càng thuần thục trong việc dùng Khu Vật thuật điều khiển Thanh Ngư kiếm, không chỉ độ ổn định, tính chính xác có bước tiến dài, mà khoảng cách thôi động từ ba trượng trước đây, hiện tại đã tăng lên bảy, tám trượng, hơn nữa bằng vào sự hiểu biết thấu đáo của hắn thì phương diện này hẳn là còn có không gian để phát triển thêm.",
-      "suggest": "\"Vèo\" một tiếng.",
-      "similarity": [
-        [
-          3,
-          0.12
-        ],
-        [
-          4,
-          0.11
-        ],
-        [
-          34,
-          0.13
-        ],
-        [
-          85,
-          1
-        ]
-      ]
+      "dich": "*Chú giải*",
+      "suggest": "\"Vèo\" một tiếng."
     },
     {
-      "convert": "Cắm vào báo đốm ngực Thanh Ngư kiếm bay ngược mà quay về, lơ lửng ở trước người hắn, rung động nhè nhẹ.",
-      "dich": "Vừa nghĩ đến đây, nhu cầu có được một kiện pháp khí chân chính của hắn càng trở nên bức thiết.",
-      "suggest": "Thanh Ngư kiếm cắm vào ban công ngực hắn bay ngược về, lơ lửng trước người hắn, rung động nhè nhẹ.",
-      "similarity": [
-        [
-          43,
-          0.14
-        ],
-        [
-          86,
-          0.44
-        ]
-      ]
+      "convert": "Cắm vào báo đốm ngực Thanh Ngư Kiếm bay ngược mà quay về, lơ lửng ở trước người hắn, rung động nhè nhẹ.",
+      "dich": "1.",
+      "suggest": "Thanh Ngư Kiếm cắm vào ngực con báo đốm bay ngược trở về, lơ lửng trước người hắn, rung rung nhè nhẹ."
     },
     {
       "convert": "Viên Minh gặp đây, trên mặt lộ ra vẻ hài lòng.",
-      "dich": "*Chú giải*",
-      "suggest": "Viên Minh thấy vậy, trên mặt lộ vẻ hài lòng.",
-      "similarity": [
-        [
-          87,
-          0.73
-        ]
-      ]
-    },
-    {
-      "convert": "Trong khoảng thời gian này đến, ở hắn không ngừng luyện tập phía dưới, thông qua Khu vật thuật điều khiển khởi Thanh Ngư kiếm tới là càng phát ra thành thạo, không gần như chỉ ở bình ổn độ cùng tinh chuẩn tính phương diện có bước tiến dài, thôi động khoảng cách cũng từ đây trước ba trượng tăng lên tới ngày nay bảy tám trượng, mà theo lấy bản thân đi sâu vào, ở phương diện này hẳn là còn có thể có chỗ tăng tiến.",
-      "dich": "1.",
-      "suggest": "Trong khoảng thời gian này, dưới sự không ngừng luyện tập, Triệu Chứng Thanh Ngư Kiếm càng ngày càng thành thạo, không những thế còn có thể điều khiển được khoảng cách với chuẩn mực bình ổn từ ba trượng trước đây tăng lên tới bảy tám trượng, mà theo bản thân đã đi sâu vào trong đó, có lẽ còn có thể có chỗ tăng tiến tiếp theo.",
-      "similarity": [
-        [
-          88,
-          0.16
-        ]
-      ]
-    },
-    {
-      "convert": "Đáng tiếc là Thanh Ngư kiếm dù sao chỉ là một kiện nửa pháp khí, cùng chân chính pháp khí có chỗ khác biệt, tăng thêm hắn tu vi cùng pháp lực không đủ, đi thẳng về thẳng đơn giản điều khiển không có vấn đề gì, một khi muốn làm động tác phức tạp gì liền không được.",
       "dich": "phong duệ chi khí: Khí thế, khí sắc bén.",
-      "suggest": "Đáng tiếc Thanh Ngư Kiếm dù sao cũng chỉ là một kiện pháp khí, hoàn toàn khác so với pháp khí chân chính, hơn nữa tu vi cùng pháp lực không đủ, đi thẳng về phía trước không có vấn đề gì, một khi muốn làm một việc gì đó không được.",
-      "similarity": []
+      "suggest": "Viên Minh thấy vậy, trên mặt lộ vẻ hài lòng."
+    },
+    {
+      "convert": "Trong khoảng thời gian này đến, ở hắn không ngừng luyện tập phía dưới, thông qua Khu Vật Thuật điều khiển khởi Thanh Ngư Kiếm tới là càng phát ra thành thạo, không gần như chỉ ở bình ổn độ cùng tinh chuẩn tính phương diện có bước tiến dài, thôi động khoảng cách cũng từ đây trước ba trượng tăng lên tới ngày nay bảy tám trượng, mà theo lấy bản thân đi sâu vào, ở phương diện này hẳn là còn có thể có chỗ tăng tiến.",
+      "suggest": "Trong khoảng thời gian này, dưới sự không ngừng luyện tập của hắn, Thanh Ngư Kiếm càng ngày càng thành thạo, không giống như chỉ ở phương diện bình ổn độ và chuẩn tính bình thường mà đã có bước tiến dài, khoảng cách từ ba trượng trước ba trượng tăng lên tới bảy tám trượng, mà theo bản thân hắn tiến sâu vào trong hơn nữa, hẳn là còn có thể có thêm một bước tiến dài nữa."
+    },
+    {
+      "convert": "Đáng tiếc là Thanh Ngư Kiếm dù sao chỉ là một kiện nửa pháp khí, cùng chân chính pháp khí có chỗ khác biệt, tăng thêm hắn tu vi cùng pháp lực không đủ, đi thẳng về thẳng đơn giản điều khiển không có vấn đề gì, một khi muốn làm động tác phức tạp gì liền không được.",
+      "suggest": "Đáng tiếc Thanh Ngư Kiếm dù sao cũng chỉ là một kiện nửa pháp khí, hoàn toàn khác với pháp khí chân chính, tu vi hắn không đủ, điều khiển một cách đơn giản không có vấn đề gì, một khi muốn làm động tác phức tạp thì không được."
     },
     {
       "convert": "Vừa nghĩ đến đây, hắn đối với có thể có được một kiện chân chính pháp khí ý nghĩ, càng thêm khẩn cấp.",
-      "suggest": "Vừa nghĩ đến đây, ý nghĩ có thể có được một kiện pháp khí chân chính lại càng thêm khẩn cấp.",
-      "similarity": [
-        [
-          89,
-          0.47
-        ]
-      ]
+      "suggest": "Vừa nghĩ đến đây, hắn đối với việc có thể có được một kiện pháp khí chân chính càng thêm khẩn cấp."
     },
     {
       "convert": "(các vị đạo hữu, lên khung thủ trăng, bốn canh cầu phiếu vé a ^)",
-      "suggest": "Các vị đạo hữu, lên thuyền, dùng bốn canh giờ mua vé.",
-      "similarity": []
+      "suggest": "(các vị đạo hữu, lên đỉnh trăng, bốn canh giờ cầu phiếu.)"
     }
   ]
 }
