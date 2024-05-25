@@ -6,6 +6,6 @@ per_device_train_batch_size = 12
 per_device_eval_batch_size = 12
 
 checkpoint = "VietAI/vit5-base"
-checkpoint = "google/mt5-small"
+# checkpoint = "google/mt5-small"
 
 prefix = "dịch sang tiên hiệp: "
