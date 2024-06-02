@@ -6,7 +6,11 @@ per_device_train_batch_size = 12
 per_device_eval_batch_size = 12
 
 # checkpoint = "VietAI/vit5-base"
-checkpoint = "google/mt5-small"
+checkpoint = "google/mt5-base"
 
 # prefix = "dịch sang tiên hiệp: "
-prefix = "translate from chinese to vietnamese: "
+prefix = "translate from Chinese to Vietnamese: "
+
+
+source_lang = "zh"
+target_lang = "vi"

@@ -28,6 +28,8 @@ from .model_config import (
     per_device_eval_batch_size,
     checkpoint,
     prefix,
+    source_lang,
+    target_lang,
 )
 
 start = time.time()
@@ -108,9 +110,6 @@ def load_tokenizer():
 
 tokenizer = load_tokenizer()
 
-source_lang = "zh"
-target_lang = "vi"
-
 
 def preprocess_function(examples):
     inputs = [prefix + example[source_lang] for example in examples["translation"]]
@@ -134,8 +133,8 @@ print("Tokenizing test data...")
 tokenized_test_data = test_data.map(preprocess_function, batched=True)
 
 print("Sample tokenized data:", tokenized_train_data[0])
-# print("Done")
-# exit(1)
+print("Done")
+exit(1)
 
 data_collator = DataCollatorForSeq2Seq(tokenizer=tokenizer, model=checkpoint)
 
