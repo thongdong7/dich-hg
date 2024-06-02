@@ -1,376 +1,681 @@
 {
+  "currentLine": 5,
+  "lines": [
+    {
+      "chinese": {
+        "index": 0,
+        "raw": "不知过了多久，袁铭逐渐恢复意识，从地上缓缓坐起。",
+        "text": "Không biết qua bao lâu, Viên Minh dần dần khôi phục ý thức, từ dưới đất chậm rãi ngồi dậy."
+      },
+      "dich": "Không biết qua bao lâu, Viên Minh dần dần tỉnh lại, từ dưới đất chậm rãi ngồi dậy.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 1,
+        "raw": "周围雾气缭绕飘荡，抬起头也根本看不到太阳，无法判断自己究竟昏迷了多久。",
+        "text": "Chung quanh sương mù lượn lờ phiêu đãng, ngẩng đầu cũng căn bản nhìn không tới thái dương, vô pháp phán đoán chính mình đến cùng hôn mê bao lâu."
+      },
+      "dich": "Xung quanh sương mù lượn lờ phiêu đãng, ngẩng đầu cũng không thấy mặt trời nên không biết mình rốt cuộc đã hôn mê bao lâu.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 2,
+        "raw": "他脑子还有些发蒙，甩了甩头后才回想起昏迷前的事情，急忙朝周围望去。",
+        "text": "Hắn đầu óc còn có chút không rõ, lắc đầu sau mới hồi tưởng lại chuyện trước khi hôn mê 情, vội vàng hướng chung quanh nhìn lại."
+      },
+      "dich": "Đầu óc hắn vẫn còn hơi choáng váng, sau khi lắc lắc đầu một hồi mới nhớ lại được chuyện trước lúc hôn mê, vội vàng nhìn xung quanh.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 3,
+        "raw": "紫黑妖藤的意志虽然被他用驭兽术压垮，但以此物的坚韧，未必死了。",
+        "text": "Tím đen yêu đằng đích ý chí tuy rằng bị hắn dùng Ngự Thú Thuật đè sập, nhưng dùng cái này vật đích cứng cỏi, chưa hẳn chết."
+      },
+      "dich": "Tử hắc yêu đằng dù đã bị hắn dùng Ngự Thú Thuật đè sập ý chí, nhưng với độ cứng cỏi của nó thì chưa chắc đã chết hẳn.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 4,
+        "raw": "周围一片静谧，别说妖藤，虫子也没有一只。",
+        "text": "Chung quanh một mảnh yên tĩnh, đừng nói yêu đằng, sâu cũng không có một con."
+      },
+      "dich": "Xung quanh một mảnh tĩnh mịch, đừng nói yêu đằng, côn trùng cũng chẳng thấy con nào.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 5,
+        "raw": "青鱼剑斜斜插在旁边地上，剑刃处微现清辉。",
+        "text": "Thanh Ngư Kiếm tà tà cắm ở bên cạnh địa thượng, mũi kiếm chỗ hơi chút hiện thanh huy."
+      },
+      "dich": "Thanh Ngư Kiếm cắm nghiêng trên mặt đất cạnh đấy, lưỡi kiếm tỏa ánh sáng xanh yếu ớt.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 6,
+        "raw": "“没看到妖藤的尸体，说明此物确实没死，难道其遁地逃走了？”袁铭喃喃自语道。",
+        "text": "“Không thấy được yêu đằng đích thi thể, thuyết minh vật ấy xác thực không chết, chẳng lẽ nó độn địa trốn?” Viên Minh tự lẩm bẩm."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 7,
+        "raw": "他刚才陷入了昏迷，妖藤如果还活着，为何不趁机杀了自己，莫非被驭兽术打怕了？",
+        "text": "Hắn vừa mới lâm vào hôn mê, yêu đằng nếu còn sống, vi gì không thừa cơ giết mình, chẳng lẽ bị Ngự Thú Thuật đánh sợ?"
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 8,
+        "raw": "他用力拍了拍脸颊，站了起来。",
+        "text": "Hắn dùng 力 vỗ vỗ hai má, đứng lên."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 9,
+        "raw": "“咦！”袁铭突然发现另一个异状，自己不知何时解除了披毛术，而且那张黑蟾兽皮也不见了踪影。",
+        "text": "“Di!” Viên Minh đột nhiên phát hiện một cái khác dị trạng, chính mình chẳng biết lúc nào giải trừ Phi Mao Thuật, hơn nữa tấm kia hắc thiềm da thú cũng không thấy rồi bóng dáng."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 10,
+        "raw": "“紫黑妖藤不见倒也罢了，它有可能自行逃走，黑蟾兽皮为何也会消失？莫非刚刚有人来过？”袁铭想到一个可能，急忙检查身上的东西。",
+        "text": "“Tím đen yêu đằng không thấy ngược lại cũng thôi, nó có khả năng tự hành đào tẩu, hắc thiềm da thú vi gì cũng sẽ tiêu thất? Chẳng lẽ vừa mới có người đến qua?” Viên Minh nghĩ đến một cái khả năng, vội vàng kiểm tra thứ ở trên thân."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 11,
+        "raw": "储物袋里面的东西都还在，没有东西丢失，神秘香炉也化为印记，静静寄宿在他手臂内，并无异常，连显眼的青鱼剑都没丢，看起来不像是有人来过。",
+        "text": "Trong Túi Trữ Vật mặt đồ vật đều còn tại, không có đồ vật mất đi, thần bí lư hương cũng hóa thành ấn ký, yên tĩnh ký túc tại cánh tay hắn nội, cũng không dị thường, liền rành rành đích Thanh Ngư Kiếm đều không vứt, thoạt nhìn không giống như là có người đến qua."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 12,
+        "raw": "袁铭沉默的拿起青鱼剑，正要在附近寻觅一番，神情突然一动，朝一个方向望去。",
+        "text": "Viên Minh trầm mặc đích cầm lấy Thanh Ngư Kiếm, đang muốn tại phụ cận tìm kiếm một phen, vẻ mặt đột nhiên khẽ động, hướng một cái phương hướng nhìn lại."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 13,
+        "raw": "那里似乎有什么东西，和他心神相连，只是这种联系非常微弱，他也感应不清楚。",
+        "text": "Nơi đó tựa hồ có đồ vật gì, cùng hắn tâm thần tương liên, chỉ là mối liên hệ này phi thường yếu ớt, hắn cũng cảm ứng không rõ ràng."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 14,
+        "raw": "“什么东西？”袁铭颇为惊讶。",
+        "text": "“Thứ gì?” Viên Minh có chút kinh ngạc."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 15,
+        "raw": "能够产生心神联系，必定是高深秘法，类似驭兽术，或者是滴血认主的法器宝物。",
+        "text": "Có thể sinh ra tâm thần liên hệ, nhất định là cao thâm bí pháp, cùng loại Ngự Thú Thuật, hay là nhỏ máu nhận chủ đích pháp khí bảo vật."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 16,
+        "raw": "他的驭兽术还未驯服灵兽，身上唯一滴血认主过的东西就是神秘香炉，此炉现在好端端待在右臂的香炉印记内，还会有什么东西和他产生心神联系？",
+        "text": "Hắn Ngự Thú Thuật còn chưa thuần phục linh thú, trên thân duy nhất nhỏ máu nhận chủ qua đồ vật chính là thần bí lư hương, lô này hiện tại yên lành đợi bên phải cánh tay đích lư hương ấn ký nội, còn sẽ có thứ gì cùng hắn sinh ra tâm thần liên hệ?"
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 17,
+        "raw": "袁铭不得要领，很快不再费神多想，在附近寻觅黑蟾之皮，却没有任何发现。",
+        "text": "Viên Minh không bắt được trọng điểm, rất nhanh không còn hao tâm tốn sức suy nghĩ nhiều, tại phụ cận tìm kiếm hắc thiềm chi da, nhưng không có bất luận phát hiện gì."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 18,
+        "raw": "“算了，黑蟾之皮不过是辅助之物，丢便丢了。”他叹了口气，盘膝坐下，运转九元诀恢复法力。",
+        "text": "“Là xong, hắc thiềm chi da bất quá là phụ trợ chi vật, vứt liền ném đi.” hắn thở dài, khoanh chân ngồi xuống, vận chuyển Cửu Nguyên Quyết khôi phục pháp lực."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 19,
+        "raw": "片刻之后，袁铭的法力恢复全满，力量重新回到他身上。",
+        "text": "Sau một lát, Viên Minh đích pháp lực khôi phục toàn mãn, lực lượng lần nữa trở lại trên người hắn."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 20,
+        "raw": "只是他被紫黑妖藤吸走了小半气血，筋骨有些疲软，好在对行动无碍。",
+        "text": "Chỉ là hắn bị tím đen yêu đằng hút đi non nửa khí huyết, cơ bắp xương có chút mệt mỏi mềm, may mà đối hành động không ngại."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 21,
+        "raw": "袁铭取出白猿之皮，却没有施展披毛术，而是围在腰间，朝远处奔去。",
+        "text": "Viên Minh lấy ra vượn trắng chi da, nhưng không có thi triển Phi Mao Thuật, mà là vây quanh ở bên hông, hướng viễn xứ chạy đi."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 22,
+        "raw": "那里的异动始终牵动着他的心神，还是查清楚比较好。",
+        "text": "Nơi đó dị động thủy chung dẫn động tới tinh thần của hắn, vẫn là tra rõ ràng tương đối tốt."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 23,
+        "raw": "一刻钟后，袁铭来到一处数亩大小的沼泽水洼旁，和他心神联系之物就在水中。",
+        "text": "Một khắc đồng hồ sau, Viên Minh đi tới một chỗ vài mẫu lớn nhỏ đầm lầy vũng nước bên cạnh, cùng hắn tâm thần liên hệ chi vật ngay tại thủy trung."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 24,
+        "raw": "距离近了，他和水洼内的心神感应加强了很多，已经感应到了那是什么。",
+        "text": "Cự ly gần, hắn cùng trong vũng nước tâm thần cảm ứng tăng cường rất nhiều, đã cảm ứng được rồi đó là cái gì."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 25,
+        "raw": "“不会吧！”袁铭有些难以置信，此事太过匪夷所思。",
+        "text": "“Không thể nào!” Viên Minh có chút khó có thể tin, việc này quá mức không thể tưởng tượng."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 26,
+        "raw": "就在此刻，水洼突然炸开，大股水浪剧烈翻滚，一头灰色凶物从水底冒出，却是一头数丈长的灰色凶鳄。",
+        "text": "Vào thời khắc này, vũng nước đột nhiên nổ tung, đại cổ sóng nước kịch liệt quay cuồng, một đầu màu xám hung vật từ đáy nước tỏa ra, lại là một đầu cao vài trượng đích màu xám hung ngạc."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 27,
+        "raw": "此鳄鱼脑袋竟然是暗红色，尤其一双眼睛通红似血，看起来异常凶厉。",
+        "text": "Này cá sấu cái đầu vậy mà là màu đỏ sậm, nhất là một đôi mắt đỏ bừng như máu, thoạt nhìn dị thường hung lệ."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 28,
+        "raw": "“不好，是成年血头鳄！”袁铭认得此兽。",
+        "text": "“Bất hảo, là trưởng thành máu 头 ngạc!” Viên Minh nhận ra con thú này."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 29,
+        "raw": "成年的血头鳄实力起码有一级中阶巅峰，全身鳞甲异常坚韧，力大无穷，更善于水战，是最厉害的中阶凶兽之一。",
+        "text": "Thành niên máu 头 ngạc thực lực ít nhất có cấp một trung giai đỉnh phong, toàn thân lân giáp dị thường cứng cỏi, lực lớn vô cùng, càng giỏi về thuỷ chiến, là lợi hại nhất trung giai hung thú một trong."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 30,
+        "raw": "然而这只血头鳄此刻却神情惶恐，快速扭动身躯，朝远处仓皇逃去。",
+        "text": "Nhưng mà cái này máu 头 ngạc lúc này nhưng vẻ mặt sợ hãi, nhanh chóng vặn vẹo thân thể, hướng viễn xứ hốt hoảng bỏ chạy."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 31,
+        "raw": "未等其逃出多远，一道细长的紫黑事物破水而出，卷住血头鳄的身体，迅疾异常的绕了几圈，却是一根紫黑藤条。",
+        "text": "Không chờ nó chạy ra bao xa, một đạo dài nhỏ đích tím đen sự vật vọt ra khỏi mặt nước, quấn lấy máu 头 ngạc đích thân thể, nhanh chóng dị thường lượn quanh vài vòng, lại là một cây tím đen đằng điều."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 32,
+        "raw": "藤条上面光秃秃的，一片叶子也没有，藤身通体晶莹剔透，隐隐能看到里面有丝丝血线，诡异异常。",
+        "text": "Đằng điều thượng diện trụi lủi đích, một chiếc lá cũng không có, dây leo 身 toàn thân trong suốt trong sáng, ẩn ẩn năng nhìn thấy bên trong có từng tia từng tia tơ máu, quỷ dị dị thường."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 33,
+        "raw": "袁铭瞳孔猛地一缩。",
+        "text": "Viên Minh đồng tử bỗng nhiên co rụt lại."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 34,
+        "raw": "这紫黑藤条虽然形态大变，但他看得出，此物正是之前差点要了他小命的紫黑妖藤！",
+        "text": "Này tím đen đằng điều tuy rằng hình thái đại biến, nhưng hắn nhìn ra được, vật ấy chính là trước đó kém chút muốn rồi hắn mạng nhỏ đích tím đen yêu đằng!"
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 35,
+        "raw": "血头鳄奋力挣扎，可紫黑妖藤坚韧异常，任凭血头鳄如何挣扎，都无法挣脱。",
+        "text": "Máu 头 ngạc ra sức giãy dụa, khả tím đen yêu đằng cứng cỏi dị thường, mặc cho máu 头 ngạc giãy giụa như thế nào, đều không thể thoát khỏi."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 36,
+        "raw": "妖藤一端“嗤嗤”作响，变得尖锐，而后蓦然射出，打在血头鳄的背脊。",
+        "text": "Yêu đằng một mặt “xuy xuy” rung động, trở nên bén nhọn, sau đó bỗng nhiên bắn ra, đánh vào máu 头 ngạc đích lưng."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 37,
+        "raw": "“噗”的一声轻响，妖藤竟然轻易洞穿其坚韧的皮肤，刺入其身体。",
+        "text": "“Phốc” đích một tiếng vang nhỏ, yêu đằng vậy mà dễ dàng xuyên thủng nó cứng cỏi đích làn da, đâm vào nó thân thể."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 38,
+        "raw": "血头鳄发出凄厉惨叫，粗长的身躯剧烈颤抖，幅度越来越小。",
+        "text": "Máu 头 ngạc phát ra kêu thê lương thảm thiết, to dài đích thân thể run rẩy kịch liệt, biên độ càng ngày càng nhỏ."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 39,
+        "raw": "几个呼吸之后，此鳄彻底没有了气息，浮肿的尸体漂浮在了水面上。",
+        "text": "Mấy hơi thở sau đó, này ngạc triệt để không có khí tức, phù thũng đích thi thể phiêu phù ở rồi trên mặt nước."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 40,
+        "raw": "水中“哗啦”一响，一道黑影缓缓冒出，却是一只拳头大小的黑色蟾蜍，背后生长着一个圆鼓鼓的紫黑色鼓包，看起来像是某种植物的数片叶子收拢而成，周围长着十几个毒囊，幽冷的双目望向血头鳄。",
+        "text": "Thủy trung “rầm” một vang, một đạo hắc ảnh chậm rãi tỏa ra, lại là một nắm đấm lớn nhỏ hắc sắc thiềm thừ, sau lưng sinh trưởng một cái vòng tròn phình đích màu tím đen nốt mụt, thoạt nhìn như là nào đó thực vật đích mấy mảnh lá cây thu nạp mà thành, chung quanh trưởng thành mười mấy túi độc, u lãnh đích hai mắt nhìn phía máu 头 ngạc."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 41,
+        "raw": "袁铭脸上勉强保持平静，眼神中的惊疑却无论如何也遮掩不住。",
+        "text": "Viên Minh trên mặt miễn cưỡng giữ vững bình tĩnh, nhãn thần bên trong kinh nghi nhưng vô luận như thế nào cũng không che giấu được."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 42,
+        "raw": "这只黑色蟾蜍，无论从肤色还是形态，都和他的蛤蟆兽皮一模一样，就是个头变小了许多。",
+        "text": "Cái này hắc sắc thiềm thừ, vô luận từ màu da vẫn là hình thái, đều cùng hắn cóc da thú giống nhau như đúc, chính là cái đầu nhỏ đi rất nhiều."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 43,
+        "raw": "一张兽皮竟然凭空复活，天下竟然有此等奇事！",
+        "text": "Một trương da thú vậy mà đột nhiên phục sinh, thiên hạ vậy mà có bậc này chuyện lạ!"
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 44,
+        "raw": "那紫黑妖藤赫然是从蟾蜍背后的鼓包中射出，一股血红光芒顺着藤身快速流回蟾蜍背部，蟾蜍体表泛起丝丝血光，很快便又消散，身躯却隐隐增大了一分。",
+        "text": "Kia tím đen yêu đằng rõ ràng là từ thiềm thừ sau lưng đích nốt mụt trung bắn ra, một luồng huyết hồng quang mang theo dây leo 身 nhanh chóng lưu hồi thiềm thừ phần lưng, thiềm thừ bên ngoài thân nổi lên nhè nhẹ huyết quang, rất nhanh liền lại tiêu tán, thân thể nhưng ẩn ẩn tăng lên một phần."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 45,
+        "raw": "紫黑妖藤飞射而回，没入蟾蜍背后鼓包，消失不见。",
+        "text": "Tím đen yêu đằng bay vụt mà quay về, chìm vào thiềm thừ sau lưng nốt mụt, biến mất không thấy gì nữa."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 46,
+        "raw": "蟾蜍似乎感应到了什么，转头看向附近的袁铭，眼中透出一抹惊色，转身欲逃。",
+        "text": "Thiềm thừ tựa hồ cảm ứng được rồi gì, quay đầu nhìn về phía phụ cận Viên Minh, trong mắt lộ ra một vòng kinh sắc, chuyển thân muốn trốn."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 47,
+        "raw": "“过来！”袁铭面色微沉，冷喝出声，右手掐动一个法诀，指尖黑光闪动。",
+        "text": "“Qua tới!” Viên Minh sắc mặt hơi trầm xuống, quát lạnh lên tiếng, tay phải kết động một cái pháp quyết, đầu ngón tay hắc quang chớp động."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 48,
+        "raw": "黑蟾身体一颤，竟然没有动弹。",
+        "text": "Hắc thiềm thân thể run lên, vậy mà không có nhúc nhích."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 49,
+        "raw": "袁铭面露诧异之色，将驭兽术催动到最大，那只黑蟾才不情不愿的转身游了过来，跳到袁铭身前。",
+        "text": "Viên Minh mắt lộ vẻ kinh ngạc, đem Ngự Thú Thuật thúc động đến lớn nhất, con kia hắc thiềm mới không tình nguyện xoay người bơi tới, nhảy đến Viên Minh trước người."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 50,
+        "raw": "他抬手按在黑蟾脑袋上，手掌涌出一层浓郁黑气，滚滚没入其体内。",
+        "text": "Hắn giơ tay đặt tại hắc thiềm trên đầu, bàn tay trào ra một tầng nồng đậm hắc khí, cuồn cuộn chìm vào nó thể nội."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 51,
+        "raw": "片刻之后，他收回了手掌，脸上露出复杂的神色，有惊讶，也有喜悦，但更多的是不解。",
+        "text": "Sau một lát, hắn thu hồi bàn tay, trên mặt lộ ra phức tạp đích thần sắc, có kinh ngạc, cũng có tin mừng duyệt, nhưng càng nhiều là không hiểu."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 52,
+        "raw": "袁铭刚刚用驭兽术，配合神魂之力检查过，原先的黑蟾兽皮不知为何确实长出了五脏六腑，体内也有神魂波动，变成了一个活物。",
+        "text": "Viên Minh vừa mới dụng Ngự Thú Thuật, phối hợp thần hồn chi lực kiểm tra qua, ban đầu hắc thiềm da thú chẳng biết tại sao xác thực mọc ra rồi ngũ tạng lục phủ, thể nội cũng có thần hồn ba động, biến thành một cái vật còn sống."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 53,
+        "raw": "而紫黑妖藤则通过黑蟾的背部鼓包，与其五脏六腑生长在了一起，变成了其体内一个器官般的存在，每次心脏鼓动，蟾蜍血液除了经由体内血管，还能通过紫黑妖藤传递到身躯各处。",
+        "text": "Mà tím đen yêu đằng thì thông qua hắc thiềm đích phần lưng nốt mụt, thà ngũ tạng lục phủ sinh trưởng ở cùng nhau, biến thành nó thể nội một cái khí quan kiểu đích tồn tại, mỗi lần tâm tạng cổ động, thiềm thừ huyết dịch trừ bỏ đi qua thể nội mạch máu, còn có thể thông qua tím đen yêu đằng truyền lại đến thân thể các nơi."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 54,
+        "raw": "眼前这只黑蟾看起来是一头黑纹毒蟾，其实却是两个截然不同的生物，彼此融合后形成的怪胎。",
+        "text": "Trước mắt cái này hắc thiềm thoạt nhìn là một đầu hoa văn độc thiềm, kỳ thực lại là hai cái hoàn toàn khác biệt đích sinh vật, lẫn nhau dung hợp sau hình thành quái thai."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 55,
+        "raw": "而紫黑妖藤体内寄宿着一个符文印记，正是驭兽符文，其中蕴含着袁铭的神魂之力，看起来是他的神魂凝聚而成的。",
+        "text": "Mà tím đen yêu đằng thể nội ký túc lấy một cái ký hiệu ấn ký, chính là ngự Thú Phù văn, ẩn chứa trong đó Viên Minh đích thần hồn chi lực, thoạt nhìn là thần hồn của hắn ngưng tụ mà thành."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 56,
+        "raw": "袁铭刚才便感应到了自己与这个驭兽符文之间的一丝联系，只是觉得难以置信，可事实摆在眼前，由不得他质疑。",
+        "text": "Viên Minh vừa mới liền cảm ứng được rồi mình cùng cái này ngự Thú Phù văn ở giữa một tia liên hệ, chẳng qua là cảm thấy khó có thể tin, khả sự thực bày ở trước mắt, không thể theo hắn nghi ngờ."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 57,
+        "raw": "无论如何，他这算是误打误撞收服了一头灵兽。",
+        "text": "Vô luận như thế nào, hắn đây coi như là đánh bậy đánh bạ thu phục rồi một đầu linh thú."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 58,
+        "raw": "以他如今炼气期的修为，已无法再收服第二头灵兽，除非他杀了妖藤，毁掉其体内的驭兽符文。",
+        "text": "Dĩ hắn ngày nay Luyện Khí kỳ đích tu vi, đã không còn cách nào thu phục con thứ hai linh thú, trừ phi hắn giết yêu đằng, hủy đi nó thể nội đích ngự Thú Phù văn."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 59,
+        "raw": "“算了，妖藤就妖藤吧，此藤的能力还算不错，如今又和这黑蟾融合一体，说不定会衍生出特别的神通呢？”他权衡再三，还是选择留下此藤。",
+        "text": "“Là xong, yêu đằng liền yêu đằng nhỉ, này dây leo đích năng lực coi như không tệ, ngày nay lại cùng này hắc thiềm dung hợp một thể, nói không chừng có thể diễn sinh ra đặc biệt thần thông nhỉ?” hắn cân nhắc liên tục, vẫn là lựa chọn lưu lại này dây leo."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 60,
+        "raw": "袁铭盘膝在黑蟾身前坐下，继续用驭兽术和其沟通，探查其体内情况。",
+        "text": "Viên Minh khoanh chân tại hắc thiềm trước người ngồi xuống, tiếp tục dụng Ngự Thú Thuật cùng nó câu thông, tra xét nó thể nội tình huống."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 61,
+        "raw": "更重要的是，需得了解黑蟾现在的神通本领。",
+        "text": "Quan trọng hơn chính là, cần hiểu rõ hắc thiềm hiện tại đích thần thông bản lĩnh."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 62,
+        "raw": "足足半日之后，他停下施法，眼中透出一抹喜色。",
+        "text": "Ước chừng tầm nửa ngày sau, hắn dừng lại thi pháp, trong mắt lộ ra một vòng sắc mặt vui mừng."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 63,
+        "raw": "正如他先前猜测，黑蟾和妖藤融合一体后，二者的神通都发生了很大变化，其中最显著的一点是两者的神通开始相融，如今的妖藤也蕴含黑蟾的毒液，使得藤条临阵对敌时的攻击力大增。",
+        "text": "Chính 如 hắn lúc trước suy đoán, hắc thiềm cùng yêu đằng dung hợp một thể sau, hai người đích thần thông đều phát sinh rồi biến hóa rất lớn, trong đó rõ rệt nhất đích một điểm là cả hai đích thần thông bắt đầu tương dung, ngày nay đích yêu đằng cũng ẩn chứa hắc thiềm đích nọc độc, khiến cho đằng điều lâm trận đối địch thời đích công kích lực đại tăng."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 64,
+        "raw": "之前紫黑妖藤能轻易洞穿血头鳄的皮肤，正是因为这一点。",
+        "text": "Trước đó tím đen yêu đằng năng dễ dàng xuyên thủng máu 头 ngạc đích làn da, chính là bởi vì điểm này."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 65,
+        "raw": "再有就是，黑蟾也具备了与妖藤一样的强大自愈能力，结合妖藤的噬血特性，其自愈能力实则已达到了变态的程度，只要不受到致命的伤害，便能快速痊愈。",
+        "text": "Lại có chính là, hắc thiềm cũng cụ bị cùng yêu đằng đồng dạng đích cường đại tự lành năng lực, kết hợp yêu đằng đích phệ huyết đặc tính, nó tự lành năng lực kì thực đã đạt đến biến thái đích trình độ, chỉ cần không chịu đến trí mạng thương tổn, liền có thể nhanh chóng khỏi hẳn."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 66,
+        "raw": "“以后好好跟着我吧！”袁铭轻轻吐出一口气，这黑蟾变成了怪物般的存在，自己收此物做灵兽，或许不是坏事。",
+        "text": "“Về sau hảo hảo theo ta đi!” Viên Minh nhẹ nhàng thở ra một hơi, này hắc thiềm biến thành quái vật kiểu đích tồn tại, chính mình thu vật ấy làm linh thú, có lẽ không phải hoại sự."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 67,
+        "raw": "黑蟾看了袁铭一眼，没有动弹。",
+        "text": "Hắc thiềm nhìn Viên Minh một chút, không có nhúc nhích."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 68,
+        "raw": "袁铭见此，略一加大法力催动驭兽术，黑蟾这才不太情愿的叫了一声，纵身跳上了他的肩膀，蹲伏在了那里。",
+        "text": "Viên Minh kiến này, hơi chút tăng lớn pháp lực thúc động Ngự Thú Thuật, hắc thiềm lúc này mới không quá tình nguyện đích kêu một tiếng, nhún người nhảy lên bờ vai của hắn, núp tại rồi nơi đó."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 69,
+        "raw": "“这只黑蟾为变异所生，我施加的驭兽术符文又是铭刻于妖藤体内，对此兽的禁锢力度也不知究竟如何……不过这小东西黑不溜秋，躲起来倒是不易被人发现。”他心中暗道。",
+        "text": "“Cái này hắc thiềm vi biến dị sở sinh, ta gây đích Ngự Thú Thuật ký hiệu lại là khắc sâu tại yêu đằng thể nội, đối với cái này 兽 đích giam cầm cường độ cũng không biết đến cùng như thế nào ... ... chẳng qua vật nhỏ này đen thui, trốn đi cũng không dễ bị người phát hiện.” trong lòng của hắn ám đạo."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 70,
+        "raw": "袁铭很快继续前进，如今收服灵兽的事情告一段落，有了这黑蟾傍身，实力提升不少，打算继续探索一下这座岛屿。",
+        "text": "Viên Minh rất nhanh tiếp tục đi tới, ngày nay thu phục linh thú sự tình có một kết thúc, có rồi này hắc thiềm bàng thân, thực lực đề thăng không ít, tính toán tiếp tục thăm dò một chút tòa hòn đảo này."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 71,
+        "raw": "最重要的是，他想寻找到那只四目金猿。",
+        "text": "Nặng nhất muốn là, hắn muốn tìm ra con kia bốn mắt Kim Viên."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 72,
+        "raw": "那些红芯灵桃的效果，袁铭难以忘却，若能寻到，配合九元诀的神妙功效，他在短时间内将修为提升到炼气八层，甚至炼气九层都大有可能。",
+        "text": "Những cái kia đỏ tâm 灵 đào đích hiệu quả, Viên Minh khó có thể quên đi, nếu có thể tìm được, phối hợp Cửu Nguyên Quyết đích thần diệu công hiệu, hắn trong khoảng thời gian ngắn đem tu vi tăng lên tới luyện khí tám tầng, thậm chí luyện khí chín tầng đều có nhiều khả năng."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 73,
+        "raw": "……",
+        "text": "... ..."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 74,
+        "raw": "两日之后。",
+        "text": "Hai ngày sau đó."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 75,
+        "raw": "袁铭来到岛上一处矮山区域，这里的矮山呈现灰黑色，山石内透出浓郁的阴气，空气也充斥着一股阴寒之感，让人感觉颇为不适。",
+        "text": "Viên Minh đi tới ở trên đảo một chỗ núi thấp khu vực, nơi này núi thấp hiện ra màu xám đen, núi đá nội lộ ra âm khí nồng nặc, không khí cũng tràn ngập lấy một luồng âm hàn cảm giác, khiến người ta cảm thấy có chút không thoải mái."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 76,
+        "raw": "矮山内的植被也甚为稀少，显然承受不住此地逼人的阴气。",
+        "text": "Núi thấp nội đích thảm thực vật cũng thật là ít ỏi, hiển nhiên không chịu nổi nơi đây bức người đích âm khí."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 77,
+        "raw": "袁铭带着黑蟾进去其中，开始四处寻找。",
+        "text": "Viên Minh mang theo hắc thiềm đi vào trong đó, bắt đầu tìm kiếm khắp nơi."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 78,
+        "raw": "这两日来，他在岛屿各处搜寻，虽然没能找到四目金猿所在的区域，收获却也不小，发现了七八份珍贵灵材，若拿到宗门兑换也能换到不少贡献值。",
+        "text": "Hai ngày qua, hắn tại hòn đảo các nơi sưu tầm, tuy rằng không thể tìm được bốn mắt Kim Viên sở tại đích khu vực, thu hoạch nhưng cũng không nhỏ, phát hiện bảy tám phần trân quý linh tài, như giành được tông môn đổi cũng có thể đổi được không ít điểm cống hiến."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 79,
+        "raw": "只是这座岛屿大得惊人，他找了三日，仍然没有寻到上次登岛的地方。",
+        "text": "Chỉ là tòa hòn đảo này to đến kinh người, hắn tìm ba ngày, vẫn cứ không có tìm được lần trước lên đảo đích địa phương."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 80,
+        "raw": "这令他有些暗暗焦急，这次申请的离宗时间只有五天，如今已经没剩多少，再找不到，就只能等下次了。",
+        "text": "Điều này làm hắn có chút âm thầm lo lắng, lần này xin ly tông thời gian chỉ có năm ngày, ngày nay đã không thừa bao nhiêu, lại tìm không đến, cũng chỉ có thể chờ lần sau rồi."
+      },
+      "dich": null
+    },
+    {
+      "chinese": {
+        "index": 81,
+        "raw": "(本章完)",
+        "text": "(Tấu chương xong)"
+      },
+      "dich": null
+    }
+  ],
   "next": {
     "id": 101,
-    "title": "Chương 101: Trợ chiến"
+    "title": "Chương 101"
   },
   "previous": {
     "id": 99,
-    "title": "Chương 99: Yêu đằng"
+    "title": "Chương 99"
   },
   "title": {
     "convert": "Chương 100",
     "dich": "Chương 100"
   },
-  "lines": [
-    {
-      "convert": "Không biết qua rồi bao lâu, Viên Minh dần dần khôi phục ý thức, từ địa thượng chậm rãi ngồi dậy",
-      "suggest": "Không biết qua bao lâu, Viên Minh dần dần khôi phục ý thức, từ trên mặt đất chậm rãi ngồi dậy"
-    },
-    {
-      "convert": "Chung quanh vụ khí lượn lờ phiêu đãng, ngẩng đầu cũng căn bản nhìn không tới thái dương, vô pháp phán đoán chính mình rốt cục hôn mê bao lâu.",
-      "suggest": "Vụ khí xung quanh lượn lờ phiêu đãng, ngẩng đầu lên cũng không thể nhìn rõ được mặt trời đã lên đỉnh bao lâu rồi."
-    },
-    {
-      "convert": "Hắn đầu óc còn có chút không rõ, lắc đầu sau mới hồi tưởng lại trước khi hôn mê sự tình, vội vàng hướng chung quanh nhìn lại.",
-      "suggest": "Đầu óc hắn vẫn còn mơ hồ, sau khi lắc lắc đầu mới nhớ lại chuyện xảy ra trước khi hôn mê, vội vàng nhìn xung quanh."
-    },
-    {
-      "convert": "Tử hắc yêu đằng ý chí tuy rằng bị hắn dùng Ngự Thú Thuật đè sập, vốn lấy vật này cứng cỏi, chưa hẳn chết rồi.",
-      "suggest": "Ý chí con Yêu đằng kia mặc dù bị hắn dùng Ngự Thú Thuật đè bẹp, nhưng với vật này lại cứng cỏi như vậy, chưa chắc đã chết rồi."
-    },
-    {
-      "convert": "Chung quanh một phiến yên tĩnh, đừng nói yêu đằng, trùng tử cũng không có một cái.",
-      "suggest": "Xung quanh hoàn toàn yên tĩnh, đừng nói là Yêu đằng, trùng tử cũng không có một con."
-    },
-    {
-      "convert": "Thanh Ngư Kiếm nghiêng nghiêng cắm ở bên cạnh địa thượng, mũi kiếm chỗ hơi hiện chói xanh.",
-      "suggest": "Thanh Ngư Kiếm nghiêng nghiêng cắm trên mặt đất bên cạnh, mũi kiếm hơi hiện lên ánh sáng xanh."
-    },
-    {
-      "convert": "\"Không thấy được yêu đằng thi thể, nói rõ vật này xác thực không chết, chẳng lẽ kia độn địa đào tẩu rồi?\"",
-      "suggest": "\"Không thấy thi thể Yêu đằng thi thể, chứng tỏ vật này thực sự không chết, chẳng lẽ lại độn địa đào tẩu?\""
-    },
-    {
-      "convert": "Viên Minh lẩm bẩm tự nói.",
-      "suggest": "Viên Minh lẩm bẩm tự nói."
-    },
-    {
-      "convert": "Hắn vừa rồi hãm nhập hôn mê, yêu đằng nếu như còn sống sót, vì sao không thừa cơ diệt sát chính mình, chẳng lẽ bị Ngự Thú Thuật sợ?",
-      "suggest": "Hắn vừa rồi hôn mê bất tỉnh, nếu Yêu đằng còn sống, sao không thừa cơ diệt sát mình, chẳng lẽ bị Ngự Thú Thuật sợ hãi?"
-    },
-    {
-      "convert": "Hắn dùng lực vỗ vỗ gò má, đứng thẳng lên.",
-      "suggest": "Hắn dùng lực vỗ vỗ hai gò má, đứng thẳng lên."
-    },
-    {
-      "convert": "\"Ồ!\" Viên Minh đột nhiên phát hiện một cái khác dị trạng, chính mình chẳng biết lúc nào giải trừ Phi Mao Thuật, mà lại kia trương hắc thiềm da thú cũng không thấy bóng dáng.",
-      "suggest": "\"Ồ!\" Viên Minh đột nhiên phát hiện một dị trạng khác, chẳng biết từ lúc nào mình đã giải trừ Phi Mao Thuật, mà miếng da thú màu đen kia cũng không thấy đâu nữa."
-    },
-    {
-      "convert": "\"Tử hắc yêu đằng không thấy ngược lại cũng thôi, nó có khả năng tự hành đào tẩu, hắc thiềm da thú vì sao cũng sẽ biến mất?",
-      "suggest": "\"Tử Yêu đằng không thấy ngược lại thôi, nó có khả năng tự động đào tẩu, nhưng vì sao da thú đen nhánh cũng sẽ biến mất?"
-    },
-    {
-      "convert": "Chẳng lẽ vừa mới có người đã tới?\"",
-      "suggest": "Chẳng lẽ vừa rồi có người tới?\""
-    },
-    {
-      "convert": "Viên Minh nghĩ đến một cái khả năng, vội vàng kiểm tra thân thượng đông tây.",
-      "suggest": "Viên Minh nghĩ tới một khả năng, vội vàng kiểm tra trên người."
-    },
-    {
-      "convert": "Túi trữ vật bên trong đông tây cũng còn tại, không có đông tây thất lạc, thần bí lư hương cũng hóa thành ấn ký, lẳng lặng ký túc tại hắn cánh tay nội, tịnh không dị thường, liền dễ thấy Thanh Ngư Kiếm cũng không mất, nhìn lên tới không giống là có người đã tới.",
-      "suggest": "Túi trữ vật bên trong vẫn còn đó, không có gì biến động, lư hương thần bí cũng hóa thành ấn ký, lẳng lặng nằm ở bên trong cánh tay hắn, không có gì dị thường, Thanh Ngư Kiếm cũng không mất, nhìn qua không giống có người tới."
-    },
-    {
-      "convert": "Viên Minh trầm mặc cầm lấy Thanh Ngư Kiếm, đang muốn tại phụ cận tìm kiếm một phen, thần tình đột nhiên khẽ động, hướng một cái phương hướng nhìn lại.",
-      "suggest": "Viên Minh trầm mặc cầm Thanh Ngư Kiếm, đang định tìm kiếm xung quanh một phen, bỗng nhiên thần tình khẽ động, nhìn về một hướng."
-    },
-    {
-      "convert": "Nơi đó tựa hồ có cái gì đông tây, cùng tâm thần hắn tương liên, chỉ là chủng này liên hệ phi thường yếu ớt, hắn cũng cảm ứng không rõ ràng.",
-      "suggest": "Nơi đó tựa như có cái gì đó, tương đồng với tâm thần hắn, chỉ là loại liên hệ này phi thường yếu ớt, hắn không cảm ứng được."
-    },
-    {
-      "convert": "\"Cái gì đông tây?\"",
-      "suggest": "\"Đồ gì?\""
-    },
-    {
-      "convert": "Viên Minh tương đối kinh ngạc.",
-      "suggest": "Viên Minh khá kinh ngạc."
-    },
-    {
-      "convert": "Có thể sản sinh tâm thần liên hệ, nhất định là cao thâm bí pháp, cùng loại Ngự Thú Thuật, hoặc là nhỏ máu nhận chủ pháp khí bảo vật.",
-      "suggest": "Có thể sản sinh ra liên hệ tâm thần, nhất định phải là bí pháp cao thâm, cùng loại Ngự Thú Thuật, hoặc là pháp khí nhỏ máu nhận chủ."
-    },
-    {
-      "convert": "Hắn Ngự Thú Thuật còn chưa thuần phục linh thú, thân thượng duy nhất nhỏ máu nhận chủ qua đông tây tựu là thần bí lư hương, này lư hiện tại hảo ngay ngắn nán tại cánh tay phải lư hương ấn ký nội, còn sẽ có cái gì đông tây cùng hắn sản sinh tâm thần liên hệ?",
-      "suggest": "Hắn Ngự Thú Thuật còn chưa thuần phục được linh thú, thứ duy nhất nhỏ máu trên người còn nhận chủ được chính là lư hương thần bí, lư hương này hiện tại đang nằm ngay ngắn trên ấn ký lư hương, còn có liên hệ gì với tâm thần hắn nữa?"
-    },
-    {
-      "convert": "Viên Minh không bắt được trọng điểm, rất nhanh không hề hao tâm tốn sức nghĩ nhiều, tại phụ cận tìm kiếm hắc thiềm chi bì, lại không có bất kỳ phát hiện.",
-      "suggest": "Viên Minh không bắt được trọng điểm, rất nhanh không hề hao tâm tốn sức nghĩ nhiều, tìm kiếm trong vùng lân cận mà không phát hiện được bất kỳ phát hiện nào."
-    },
-    {
-      "convert": "\"Được rồi, hắc thiềm chi bì bất quá là phụ trợ chi vật, mất liền mất đi.\"",
-      "suggest": "\"Được rồi, túi da cá sấu đen chỉ là vật phụ trợ, mất là mất.\""
-    },
-    {
-      "convert": "Hắn thở thật dài, khoanh chân ngồi xuống, vận chuyển Cửu Nguyên Quyết khôi phục pháp lực.",
-      "suggest": "Hắn thở dài, khoanh chân ngồi xuống, vận chuyển Cửu Nguyên Quyết khôi phục pháp lực."
-    },
-    {
-      "convert": "Khoảnh khắc sau đó, Viên Minh pháp lực khôi phục toàn mãn, lực lượng trọng tân trở lại hắn thân thượng.",
-      "suggest": "Khoảnh khắc sau, pháp lực Viên Minh khôi phục hoàn toàn, lực lượng lại quay trở về trên người hắn."
-    },
-    {
-      "convert": "Chỉ là hắn bị tử hắc yêu đằng hút đi non nửa khí huyết, gân cốt có chút mềm nhũn, cũng may đối hành động không ngại.",
-      "suggest": "Chỉ là hắn bị con yêu ưng đen hút đi non nửa khí huyết, gân cốt có chút mềm nhũn, may mà đối phương không có vấn đề gì."
-    },
-    {
-      "convert": "Viên Minh lấy ra bạch viên chi bì, nhưng không có thi triển Phi Mao Thuật, mà là vây tại bên hông, hướng nơi xa chạy đi.",
-      "suggest": "Viên Minh lấy một tấm da vượn trắng ra, nhưng không có thi triển Phi Mao Thuật, mà vây bên hông, chạy trốn về phía xa."
-    },
-    {
-      "convert": "Nơi đó dị động thủy chung tác động lấy hắn tâm thần, vẫn là tra rõ ràng tương đối hảo.",
-      "suggest": "Dị động đó thủy chung tác động tâm thần hắn, vẫn là tra xét rõ ràng."
-    },
-    {
-      "convert": "Một khắc chuông sau, Viên Minh đi đến một chỗ vài mẫu lớn nhỏ đầm lầy vũng nước bên, cùng tâm thần hắn liên hệ chi vật tựu tại trong nước.",
-      "suggest": "Một khắc sau, Viên Minh đi tới một đầm lầy lớn chừng vài mẫu, liên hệ với những thứ hắn quan tâm nhất trong đầu liền chìm vào trong nước."
-    },
-    {
-      "convert": "Cự ly tới gần, hắn cùng vũng nước nội tâm thần cảm ứng tăng cường rất nhiều, đã cảm ứng được đó là cái gì.",
-      "suggest": "Khoảng cách gần như vậy, cảm ứng trong lòng hắn và vũng nước tăng lên rất nhiều, hắn đã cảm ứng được đó là cái gì."
-    },
-    {
-      "convert": "\"Không thể nào!\" Viên Minh có chút khó có thể tin, chuyện này quá mức không thể tưởng tượng.",
-      "suggest": "\"Không thể nào!\" Viên Minh có chút khó tin, chuyện này quá mức không thể tưởng tượng nổi."
-    },
-    {
-      "convert": "Vào thời khắc này, vũng nước đột nhiên nổ tung, đại cổ thủy lãng kịch liệt phiên cổn, một đầu hôi sắc hung vật từ đáy nước toát ra, chính là một đầu cao vài trượng hôi sắc hung ngạc.",
-      "suggest": "Đúng lúc này, vũng nước bỗng nổ tung, một dòng nước như thác đổ, kịch liệt đổ xuống, một con hung thú có lông xám trắng từ dưới nước trồi lên, chính là một con hung thú có chiều cao vài trượng."
-    },
-    {
-      "convert": "Này ngạc ngư não đại dĩ nhiên là ám hồng sắc, hơn nữa một đôi mắt đỏ bừng như máu, nhìn lên tới dị thường hung lệ.",
-      "suggest": "Đầu con cá sấu đen này không ngờ lại có màu đỏ như máu, hơn nữa còn có một đôi mắt đỏ bừng như máu, trông hung lệ lạ thường."
-    },
-    {
-      "convert": "\"Bất hảo, là trưởng thành Huyết Đầu Ngạc!\"",
-      "suggest": "\"Khá lắm, là Huyết Đầu Ngạc trưởng thành!\""
-    },
-    {
-      "convert": "Viên Minh nhận ra này thú.",
-      "suggest": "Viên Minh nhận ra thú này."
-    },
-    {
-      "convert": "Trưởng thành Huyết Đầu Ngạc thực lực tối thiểu có nhất cấp trung giai đỉnh phong, toàn thân lân giáp dị thường cứng cỏi, lực lớn vô cùng, càng thiện về thuỷ chiến, là lợi hại nhất trung giai hung thú một trong.",
-      "suggest": "Thực lực Huyết Đầu Ngạc trưởng thành tối thiểu có một cấp bậc trung giai, giáp xác toàn thân vô cùng cứng cỏi, lực lượng vô cùng mạnh mẽ, càng thêm thiện chiến về thuỷ chiến, là một trong những hung thú lợi hại nhất."
-    },
-    {
-      "convert": "Nhưng mà cái này Huyết Đầu Ngạc lúc này lại thần tình kinh hoảng, cấp tốc vặn vẹo thân thể, hướng nơi xa hoảng loạn bỏ chạy.",
-      "suggest": "Nhưng Huyết Đầu Ngạc này lúc này thần tình kinh hoảng, cấp tốc vặn vẹo thân thể, điên cuồng chạy trốn về phía xa."
-    },
-    {
-      "convert": "Không chờ kia chạy ra bao xa, một đạo dài mảnh tử hắc sự vật vạch nước mà ra, quấn lấy Huyết Đầu Ngạc thân thể, nhanh chóng dị thường lượn quanh vài vòng, lại là một cây tử hắc dây đằng.",
-      "suggest": "Không chờ nó chạy được bao xa, một vật đen nhánh dài mảnh lập tức bắn vọt ra, quấn lấy thân thể Huyết Đầu Ngạc, nhanh chóng lượn vòng vài vòng, lại là một sợi dây thừng màu đen."
-    },
-    {
-      "convert": "Dây đằng thượng diện trơ trụi trụi đấy, một phiến lá cây cũng không có, đằng thân toàn thân tinh oánh",
-      "suggest": "Trên dây đằng này trơ trụi, một phiến lá cũng không có, cả người nổi da gà"
-    },
-    {
-      "convert": "Long lanh, ẩn ẩn có thể nhìn thấy bên trong có nhè nhẹ tơ máu, quỷ dị dị thường.",
-      "suggest": "Trong suốt, mơ hồ có thể thấy được bên trong có tơ máu nhè nhẹ, quỷ dị dị thường."
-    },
-    {
-      "convert": "Viên Minh đồng tử mãnh liệt một co.",
-      "suggest": "Viên Minh giật nảy mình."
-    },
-    {
-      "convert": "Này tử hắc dây đằng tuy rằng hình thái đại biến, nhưng hắn nhìn ra được, vật này chính là trước kia kém chút đã muốn hắn mạng nhỏ tử hắc yêu đằng!",
-      "suggest": "Hình thái sợi dây màu đen này tuy có thay đổi, nhưng hắn nhìn ra được, sợi dây đen này chính là con yêu ưng đen trước kia kém chút nữa đã lấy đi cái mạng nhỏ của hắn!"
-    },
-    {
-      "convert": "Huyết Đầu Ngạc ra sức vùng vẫy, có thể tử hắc yêu đằng cứng cỏi dị thường, mặc cho Huyết Đầu Ngạc thế nào vùng vẫy, đều vô pháp tránh thoát.",
-      "suggest": "Huyết Đầu Ngạc ra sức giãy dụa, nhưng con Yêu thú màu đen cứng cỏi dị thường, cho dù nó vùng vẫy thế nào thì Huyết Đầu Ngạc cũng không thể tránh thoát."
-    },
-    {
-      "convert": "Yêu đằng một đoàn \"Xuy xuy\" rung động, biến đổi bén nhọn, sau đó bỗng nhiên bắn ra, đánh vào Huyết Đầu Ngạc sống lưng.",
-      "suggest": "Một đoàn 'Xuy xuy' yêu quái rung động, biến thành sắc nhọn, sau đó bỗng nhiên bắn ngược ra, đánh vào sống lưng Huyết Đầu Ngạc."
-    },
-    {
-      "convert": "\"Phốc\" một tiếng vang nhỏ, yêu đằng vậy mà dễ dàng xuyên thủng kia cứng cỏi làn da, đâm vào kia thân thể.",
-      "suggest": "Một tiếng 'phốc' nhỏ vang lên, con Yêu đằng vậy mà dễ dàng xuyên thủng lớp da rắn chắc kia, đâm vào thân thể hắn."
-    },
-    {
-      "convert": "Huyết Đầu Ngạc phát ra thê lương kêu thảm, to dài thân thể kịch liệt run rẩy, biên độ càng ngày càng nhỏ.",
-      "suggest": "Huyết Đầu Ngạc kêu thảm thiết, thân thể to lớn kịch liệt run rẩy, biên độ càng lúc càng nhỏ."
-    },
-    {
-      "convert": "Mấy cái hô hấp sau đó, này ngạc triệt để không có khí tức, sưng vù thi thể phiêu phù tại mặt nước thượng.",
-      "suggest": "Sau mấy nhịp thở, thi thể con cá sấu này hoàn toàn không còn chút khí tức, tung mình phiêu phù trên mặt nước."
-    },
-    {
-      "convert": "Trong nước \"Sột soạt\" một vang, một đạo hắc ảnh chậm rãi toát ra, chính là một cái nắm tay lớn nhỏ hắc sắc thiềm thừ, sau lưng sinh trưởng một cái tròn trịa tử hắc sắc bao trống, nhìn lên tới như là nào đó thực vật mấy phiến lá cây thu hẹp mà thành, chung quanh mọc ra hơn mười cái túi độc, u lãnh đôi mắt nhìn hướng Huyết Đầu Ngạc.",
-      "suggest": "Một tiếng 'sột soạt' vang lên, một bóng đen từ trong nước chậm rãi thoát ra, đó là một cái túi màu đen lớn bằng nắm tay, sau lưng mọc ra hơn mười cái túi độc, nhìn qua giống như một cái túi độc do một loại thực vật nào đó thu hẹp lại, xung quanh mọc ra hơn mười cái túi độc, u lãnh đưa mắt nhìn về phía Huyết Đầu Ngạc."
-    },
-    {
-      "convert": "Viên Minh trên mặt miễn cưỡng bảo trì bình tĩnh, trong ánh mắt kinh nghi lại vô luận thế nào cũng không thể che lấp.",
-      "suggest": "Viên Minh miễn cưỡng bảo trì bình tĩnh, trong mắt tràn ngập vẻ kinh nghi, nhưng bất luận như thế nào cũng không thể che dấu được sự kinh nghi trong mắt."
-    },
-    {
-      "convert": "Cái này hắc sắc thiềm thừ, vô luận từ màu da vẫn là hình thái, đều cùng hắn cóc nhái da thú giống nhau như đúc, tựu là cái đầu biến nhỏ đi rất nhiều.",
-      "suggest": "Cái đầu đen bóng này vô cùng hẹp hòi, bất luận từ hình thái hay kích thước, đều giống như da cóc của hắn, đầu nhỏ hơn rất nhiều."
-    },
-    {
-      "convert": "Một trương da thú vậy mà bằng không phục sinh, thiên hạ vậy mà có như thế chuyện lạ!",
-      "suggest": "Một tấm da thú mà bằng không phục sinh, thiên hạ sao lại có chuyện lạ như thế!"
-    },
-    {
-      "convert": "Kia tử hắc yêu đằng rõ ràng là từ thiềm thừ sau lưng bao trống trung bắn ra, một cỗ huyết hồng quang mang thuận theo đằng thân cấp tốc chảy về thiềm thừ phần lưng, thiềm thừ thể biểu nổi lên nhè nhẹ huyết quang, rất nhanh liền lại tiêu tán, thân thể lại ẩn ẩn tăng lên một phân.",
-      "suggest": "Con Yêu thú kia rõ ràng từ trong cái trống dưới lưng con gấu bắn ra, một luồng ánh sáng đỏ máu nhanh chóng chảy về phía phần lưng con gấu, sau đó thân thể nó nổi lên những tia máu đỏ tươi, rất nhanh liền tiêu tán, thân thể lại ẩn ẩn tăng thêm một phân."
-    },
-    {
-      "convert": "Tử hắc yêu đằng bay vụt trở lại, chui vào thiềm thừ sau lưng bao trống, biến mất không thấy.",
-      "suggest": "Con Yêu thú đen bay vụt trở lại, chui vào trong cái bao trống sau lưng, biến mất không thấy bóng dáng."
-    },
-    {
-      "convert": "Thiềm thừ tựa hồ cảm ứng được cái gì, quay đầu nhìn hướng phụ cận Viên Minh, nhãn trung lộ ra một mạt kinh hãi, quay người muốn trốn.",
-      "suggest": "Thiềm thừ tựa hồ cảm ứng được điều gì, quay đầu nhìn về phía Viên Minh, trong mắt lộ ra vẻ kinh hãi, quay người muốn chạy trốn."
-    },
-    {
-      "convert": "\"Qua tới!\" Viên Minh sắc mặt hơi trầm, quát lạnh lên tiếng, tay phải bấm niệm một cái pháp quyết, đầu ngón tay hắc quang thiểm động.",
-      "suggest": "\"Qua tới!\" Viên Minh quát lạnh một tiếng, tay phải bấm niệm pháp quyết, đầu ngón tay cái lóe ánh sáng màu đen."
-    },
-    {
-      "convert": "Hắc thiềm thân thể một rung, vậy mà không có động đậy.",
-      "suggest": "Thân thể bị trói chặt của con gấu đen bỗng nhiên không nhúc nhích."
-    },
-    {
-      "convert": "Viên Minh mặt lộ kinh ngạc chi sắc, đem Ngự Thú Thuật thôi động đến lớn nhất, cái kia hắc thiềm mới không tình nguyện xoay người du ngoạn qua tới, nhảy đến Viên Minh trước thân.",
-      "suggest": "Viên Minh lộ vẻ kinh ngạc, thôi động Ngự Thú Thuật đến kích thước lớn nhất, con cá sấu đen kia mới không tình nguyện xoay người du ngoạn qua trước người Viên Minh, nhảy tới trước người Viên Minh."
-    },
-    {
-      "convert": "Hắn đưa tay đặt tại hắc thiềm não đại thượng, bàn tay tuôn ra nhất tầng nồng đậm hắc khí, cuồn cuộn chui vào kia thể nội.",
-      "suggest": "Hắn đưa tay đặt lên đại não, trong lòng bàn tay tuôn ra một tầng khí đen nồng đậm, cuồn cuộn chui vào trong cơ thể."
-    },
-    {
-      "convert": "Khoảnh khắc sau đó, hắn thu hồi bàn tay, trên mặt lộ ra phức tạp thần sắc, có kinh ngạc, cũng có vui sướng, nhưng càng nhiều chính là khó hiểu.",
-      "suggest": "Ngay sau đó, hắn thu bàn tay lại, trên mặt lộ ra thần sắc phức tạp, có kinh ngạc, cũng có vui sướng, nhưng càng nhiều càng khó hiểu."
-    },
-    {
-      "convert": "Viên Minh vừa mới dùng Ngự Thú Thuật, phối hợp thần hồn chi lực kiểm tra qua, trước kia hắc thiềm da thú chẳng biết tại sao xác thực dài ra ngũ tạng lục phủ, thể nội cũng có thần hồn ba động, biến thành một cái vật sống.",
-      "suggest": "Viên Minh vừa mới dùng Ngự Thú Thuật phối hợp thần hồn kiểm tra qua, tấm da trước kia chẳng biết tại sao lại dài thêm lục phủ ngũ tạng lục phủ, trong cơ thể cũng có thần hồn ba động, biến thành một vật sống."
-    },
-    {
-      "convert": "Mà tử hắc yêu đằng thì thông qua hắc thiềm phần lưng bao trống, cùng kia ngũ tạng lục phủ sinh trưởng thành một khối, biến thành kia thể nội một cái khí quan loại tồn tại, mỗi lần trái tim cổ động, thiềm thừ huyết dịch trừ đi qua thể nội huyết quản, còn có thể thông qua tử hắc yêu đằng truyền đạt đến thân thể các nơi.",
-      "suggest": "Mà Tử Hắc Yêu Đằng thông qua phần lưng của con gấu đen, phân thành hai phần: phần lưng và phần lưng, cùng ngũ tạng lục phủ sinh trưởng thành một khối, biến thành một khí quan có hình dáng giống như khí quan, mỗi khi trái tim cổ động, huyết dịch thiềm thừ trừ huyết quản ra ngoài còn có thể truyền tới các nơi trong cơ thể."
-    },
-    {
-      "convert": "Trước mắt cái này hắc thiềm thoạt nhìn là một đầu Hắc Văn Độc Thiềm, kỳ thực chính là hai cái hoàn toàn bất đồng sinh vật, đó đây dung hợp sau hình thành quái thai.",
-      "suggest": "Trước mắt con cá sấu đen này thoạt nhìn giống một con Độc Thiềm, kỳ thực lại là hai sinh vật hoàn toàn khác nhau, sau khi dung hợp lại hình thành quái thai."
-    },
-    {
-      "convert": "Mà tử hắc yêu đằng thể nội ký túc lấy một cái phù văn ấn ký, chính là ngự thú phù văn, ẩn chứa trong đó lấy Viên Minh thần hồn chi lực, thoạt nhìn là hắn thần hồn ngưng tụ mà thành.",
-      "suggest": "Mà trong cơ thể Tử Hắc Yêu Đằng có một ấn ký, chính là ấn ký của ngự thú, ẩn chứa thần hồn lực của Viên Minh, thoạt nhìn chính là lực lượng thần hồn mà hắn ngưng tụ ra."
-    },
-    {
-      "convert": "Viên Minh vừa rồi liền cảm ứng được mình cùng cái này ngự thú phù văn chính giữa một tia liên hệ, chỉ là cảm thấy khó có thể tin, có thể sự thật bày tại trước mắt, cũng không phải hắn nghi vấn.",
-      "suggest": "Viên Minh vừa rồi liền cảm ứng được một chút liên hệ giữa mình và Phù văn ngự thú, chỉ là cảm thấy khó có thể tin, nhưng sự thật hiện ra trước mắt, cũng không phải nghi vấn của hắn."
-    },
-    {
-      "convert": "Vô luận thế nào, hắn đây coi như là đánh bậy đánh bạ thu phục được một đầu linh thú.",
-      "suggest": "Bất luận như thế nào, hắn cũng coi như là đánh bậy đánh bạ thu phục được một đầu Linh Thú."
-    },
-    {
-      "convert": "Lấy hắn như nay Luyện Khí kỳ tu vi, đã vô pháp lại thu phục đệ nhị đầu linh thú, trừ phi hắn diệt sát yêu đằng, hủy diệt kia thể nội ngự thú phù văn.",
-      "suggest": "Với tu vi Luyện Khí kỳ hiện tại của hắn, không cách nào thu phục được con Linh thú thứ hai, trừ phi hắn diệt sát Yêu đằng, hủy diệt phù văn ngự thú trong cơ thể."
-    },
-    {
-      "convert": "\"Được rồi, yêu đằng tựu yêu đằng a, này đằng năng lực coi như không tệ, như nay lại cùng này hắc thiềm dung hợp nhất thể, nói không chừng lại diễn sinh ra đặc biệt thần thông đâu?\"",
-      "suggest": "\"Được rồi, Yêu đằng tựu yêu đằng đi, năng lực của nó cũng coi như không tệ, hôm nay lại dung hợp với Hắc Thiềm, nói không chừng sẽ diễn sinh ra thần thông đặc biệt nào đó?\""
-    },
-    {
-      "convert": "Hắn cân nhắc nhiều lần, vẫn là tuyển chọn lưu xuống này đằng.",
-      "suggest": "Hắn cân nhắc rất nhiều lần, cuối cùng vẫn chọn cách lưu lại."
-    },
-    {
-      "convert": "Viên Minh khoanh chân tại hắc thiềm trước thân ngồi xuống, tiếp tục dùng Ngự Thú Thuật cùng kia câu thông, dò xét kia thể nội tình huống.",
-      "suggest": "Viên Minh khoanh chân ngồi xuống trước cái hố đen, tiếp tục dùng Ngự Thú Thuật câu thông với hắn, dò xét tình hình trong cơ thể."
-    },
-    {
-      "convert": "Càng trọng yếu chính là, cần lý giải hắc thiềm hiện tại thần thông bản lĩnh.",
-      "suggest": "Quan trọng hơn cả là, cần lý giải bản lĩnh thần thông hiện tại của con người."
-    },
-    {
-      "convert": "Ước chừng tầm nửa ngày sau, hắn dừng lại thi pháp, nhãn trung lộ ra một mạt hỉ sắc.",
-      "suggest": "Khoảng nửa ngày sau, hắn ngừng thi pháp, trong mắt lộ ra vẻ mừng như bắt được vàng."
-    },
-    {
-      "convert": "Chính như hắn lúc trước suy đoán, hắc thiềm cùng yêu đằng dung hợp nhất thể sau, nhị giả thần thông đều phát sinh rất lớn biến hóa, kia trung nhất lộ rõ một điểm là cả hai thần thông bắt đầu tương dung, như nay yêu đằng cũng ẩn chứa hắc thiềm độc dịch, khiến cho dây đằng lâm trận đối địch lúc lực công kích đại tăng.",
-      "suggest": "Đúng như hắn dự đoán, sau khi Hắc thiềm và Yêu đằng dung hợp nhất thể, hai thần thông của yêu đằng đều phát sinh biến hóa rất lớn, trong đó rõ ràng nhất là hai thần thông bắt đầu tương dung, mà trong đó cũng ẩn chứa độc dịch của yêu đằng, khiến cho lực công kích của yêu đằng lúc lâm trận tăng lên rất nhiều."
-    },
-    {
-      "convert": "Trước đó tử hắc yêu đằng có thể dễ dàng xuyên thủng Huyết Đầu Ngạc làn da, chính là bởi vì này một điểm.",
-      "suggest": "Trước đó con Yêu thú này có thể dễ dàng xuyên thủng da Huyết Đầu Ngạc chính là vì một điểm này."
-    },
-    {
-      "convert": "Còn có tựu là, hắc thiềm cũng có đủ cùng yêu đằng một dạng cường đại tự lành năng lực, kết hợp yêu đằng phệ huyết đặc tính, kia tự lành năng lực kì thực đã đạt đến biến thái trình độ, chỉ cần không bị đến trí mệnh thương hại, liền có thể cấp tốc khỏi hẳn.",
-      "suggest": "Còn có một loại năng lực tự lành mạnh mẽ khác với yêu đằng, kết hợp với đặc tính của yêu đằng, năng lực tự lành này kì thực đã đạt đến trình độ biến thái, chỉ cần không bị trí mạng thương tổn, là có thể nhanh chóng khỏi hẳn."
-    },
-    {
-      "convert": "\"Về sau hảo hảo cùng theo ta đi!\"",
-      "suggest": "\"Sau này cứ ở nhà với ta!\""
-    },
-    {
-      "convert": "Viên Minh nhẹ nhàng phun ra một hơi thở, này hắc thiềm biến thành quái vật loại tồn tại, chính mình thu vật này làm linh thú, có lẽ không phải chuyện xấu.",
-      "suggest": "Viên Minh nhẹ nhàng thở ra một hơi, con cá sấu đen này đã biến thành sinh vật, tự mình thu nó làm linh thú có lẽ không phải chuyện xấu."
-    },
-    {
-      "convert": "Hắc thiềm nhìn Viên Minh một mắt, không có động đậy.",
-      "suggest": "Viên Minh lạnh lùng nhìn Viên Minh, không nhúc nhích."
-    },
-    {
-      "convert": "Viên Minh gặp này, một chút gia tăng pháp lực thôi động Ngự Thú Thuật, hắc thiềm mới lại không quá tình nguyện kêu lấy một tiếng, tung người nhảy lên rồi hắn bả vai, núp tại nơi đó.",
-      "suggest": "Viên Minh thấy cảnh này, muốn gia tăng pháp lực thôi động Ngự Thú Thuật, hắc thiềm mới không tình nguyện kêu lên một tiếng, tung người nhảy lên bả vai hắn rồi núp ở đó."
-    },
-    {
-      "convert": "\"Cái này hắc thiềm là biến dị sở sinh, ta thi hành Ngự Thú Thuật phù văn lại là minh khắc tại yêu đằng thể nội, đối này thú cấm cố lực độ cũng không biết rốt cục thế nào...... Bất quá này tiểu đông tây đen thủi đen thui, trốn đi trái lại không dễ bị người phát hiện.\"",
-      "suggest": "\"Heo thiềm này là sở sinh biến dị, ta thi triển Ngự Thú Thuật lại khắc vào trong cơ thể Yêu đằng, đối với lực cấm cố của nó cũng không biết rút cuộc là thế nào, bất quá lực cấm cố của nó quá yếu, trốn đi không dễ bị người phát hiện.\""
-    },
-    {
-      "convert": "Hắn thầm nghĩ trong lòng.",
-      "suggest": "Hắn thầm nghĩ."
-    },
-    {
-      "convert": "Viên Minh rất nhanh tiếp tục đi tới, như nay thu phục linh thú sự tình báo một giai đoạn, có rồi này hắc thiềm kề thân, thực lực đề thăng không ít, tính toán tiếp tục thăm dò một nhoáng hòn đảo này.",
-      "suggest": "Viên Minh rất nhanh đã đi tới. Hiện tại hắn đã có tin tức tình báo về việc thu phục Linh thú, có Hắc Thiềm kề thân, thực lực có thể tăng lên không ít."
-    },
-    {
-      "convert": "Tối trọng yếu chính là, hắn muốn tìm kiếm được cái kia bốn mắt kim viên.",
-      "suggest": "Quan trọng nhất là, hắn phải tìm được bốn viên Kim Viên kia."
-    },
-    {
-      "convert": "Những thứ kia Hồng Tâm Linh Đào hiệu quả, Viên Minh khó mà quên mất, nếu có thể tìm được, phối hợp Cửu Nguyên Quyết thần diệu công hiệu, hắn tại thời gian ngắn nội đem tu vi tăng lên tới Luyện Khí bát tầng, thậm chí Luyện Khí cửu tầng đều có nhiều khả năng.",
-      "suggest": "Những hiệu quả của Hồng Tâm Linh Đào kia, Viên Minh khó mà quên được, nếu có thể tìm được, phối hợp với Cửu Nguyên Quyết, trong thời gian ngắn có thể tu vi tăng lên tới Luyện Khí bát tầng, thậm chí cửu tầng đều có khả năng."
-    },
-    {
-      "convert": "Hai ngày sau.",
-      "suggest": "Hai ngày sau."
-    },
-    {
-      "convert": "Viên Minh đi đến đảo thượng một chỗ ải sơn khu vực, nơi đây ải sơn hiện ra hôi hắc sắc, núi đá nội lộ ra nồng đậm âm khí, không khí cũng tràn ngập lấy một cỗ âm hàn chi cảm, khiến người cảm giác tương đối khó chịu.",
-      "suggest": "Viên Minh đi tới một khu vực ải sơn, nơi đây ải sơn hôi thối, trong núi đá lộ ra âm khí nồng đậm, không khí cũng tràn ngập một cảm giác âm hàn, khiến cho người ta cảm thấy vô cùng khó chịu."
-    },
-    {
-      "convert": "Ải sơn nội thảm thực vật cũng thật là thưa thớt, hiển nhiên không chịu nổi nơi đây bức người âm khí.",
-      "suggest": "Thảm thực vật trong Ải Sơn cũng rất thưa thớt, hiển nhiên là không chịu nổi âm khí bức người nơi đây."
-    },
-    {
-      "convert": "Viên Minh kèm lấy hắc thiềm tiến qua kia trung, bắt đầu tìm kiếm khắp nơi.",
-      "suggest": "Viên Minh cầm theo con dao màu đen, bắt đầu tìm kiếm khắp nơi."
-    },
-    {
-      "convert": "Hai ngày qua, hắn tại hòn đảo các nơi sưu tầm, tuy rằng không có thể tìm tới bốn mắt kim viên sở tại khu vực, thu hoạch lại cũng không nhỏ, phát hiện bảy tám phần trân quý linh tài, như cầm đến tông môn hối đoái cũng có thể đổi đến không ít điểm cống hiến.",
-      "suggest": "Hai ngày qua, hắn sưu tầm khắp nơi trên hòn đảo, tuy không thể tìm được khu vực có kim viên như ở khu vực của hắn, nhưng thu hoạch cũng không nhỏ, phát hiện được bảy tám phần linh tài trân quý, nếu đem ra tông môn hối đoái cũng có thể đổi được không ít điểm cống hiến."
-    },
-    {
-      "convert": "Chỉ là hòn đảo này lớn đến kinh người, hắn tìm ba ngày, nhưng vẫn không có tìm được lần trước lên đảo địa phương.",
-      "suggest": "Chỉ có điều hòn đảo này quá lớn, hắn tìm ba ngày mà vẫn không tìm được địa điểm trước khi lên đảo."
-    },
-    {
-      "convert": "Điều này làm hắn có chút âm thầm lo lắng, lần này thân thỉnh rời tông thời gian chỉ có năm ngày, như nay đã không thừa nhiều ít, lại tìm không thấy, cũng chỉ có thể đợi lần sau rồi.",
-      "suggest": "Điều này làm cho hắn có chút lo lắng, lần này thân thỉnh rời tông chỉ còn năm ngày, hôm nay đã không còn nhiều lắm, nếu tìm không thấy cũng chỉ có thể đợi lần sau."
-    }
-  ]
+  "currentWorkingLine": 0,
+  "changed": true
 }

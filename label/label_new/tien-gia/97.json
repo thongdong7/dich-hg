@@ -1,503 +1,811 @@
 {
+  "currentLine": 87,
+  "changed": true,
+  "currentWorkingLine": 0,
+  "lines": [
+    {
+      "chinese": {
+        "index": 0,
+        "raw": "袁铭驻足而立，目光看向沼泽和紫枫林，眉梢挑动。",
+        "text": "Viên Minh dừng chân mà đứng, ánh mắt nhìn về phía đầm lầy cùng Tử Phong rừng, đuôi lông mày khiêu động."
+      },
+      "dich": "Viên Minh dừng chân đứng lại, đưa mắt nhìn về phía rừng phong tím và đầm lầy, tràng mày hơi nhíu lại.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 1,
+        "raw": "一座岛屿罢了，环境竟然如此复杂多变，而且每个区域的地形环境，植被草木都截然不同，若说是天然形成，那也太过巧合。",
+        "text": "Một hòn đảo bãi rồi, hoàn cảnh vậy mà phức tạp như vậy hay thay đổi, hơn nữa mỗi cái khu vực đích địa hình hoàn cảnh, thảm thực vật thảo mộc đều hoàn toàn khác biệt, nếu nói là thiên nhiên hình thành, vậy cũng quá mức trùng hợp."
+      },
+      "dich": "Chỉ là một hòn đảo thôi mà hoàn cảnh lại phức tạp, nhiều thay đổi như vậy, hơn nữa hoàn cảnh địa hình, thảm thực vật mỗi khu vực lại hoàn toàn khác nhau, nếu nói là tự nhiên hình thành thì thực sự trùng hợp quá mức.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 2,
+        "raw": "“看来有人故意为之，莫非就是那位黑木大师？”",
+        "text": "“Xem ra có người cố ý hành động, chẳng lẽ chính là vị kia hắc mộc đại sư?”"
+      },
+      "dich": "“Xem ra là có người cố ý tạo ra, chắc là vị Hắc Mộc đại sư kia?”",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 3,
+        "raw": "黑木大师的遗骸就在这座岛上，以此人的能耐，确实能做到这种事，而且根据那本手札上的记载，此人的确是一个有着天马行空思维的人。",
+        "text": "Hắc mộc đại sư di hài ngay tại trên toà đảo này, lấy người này đích năng lực, xác thực có thể làm được loại sự tình này, hơn nữa căn cứ quyển kia bản chép tay thượng đích ghi chép, người này thật là một cái có thiên mã hành không tư duy đích người."
+      },
+      "dich": "Di hài Hắc Mộc đại sư ở ngay trên đảo này, lấy năng lực của y thì đúng là có thể làm ra chuyện này được. Thêm nữa, căn cứ theo nội dung trên bản chép tay kia, người này đúng là một kẻ có tư duy thiên mã hành không.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 4,
+        "raw": "再想的深一些，这座岛上的那些凶兽，恐怕也是黑木大师抓来的，难怪都那么罕见。",
+        "text": "Lại nghĩ đích sâu một chút, trên toà đảo này đích những hung thú kia, chỉ sợ cũng là hắc mộc đại sư chộp tới đích, khó trách đều như vậy hiếm thấy."
+      },
+      "dich": "Lại nghĩ kỹ thêm một chút, những hung thú trên đảo này chỉ e cũng là do Hắc Mộc đại sự đem đến, khó trách đều hiếm thấy như vậy.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 5,
+        "raw": "袁铭很快摇摇头，迈步前进。",
+        "text": "Viên Minh rất nhanh lắc đầu, cất bước tiến tới."
+      },
+      "dich": "Viên Minh rất nhanh lắc đầu, cất bước tiến lên.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 6,
+        "raw": "不管这里是黑木大师所为也好，别的什么人干的也罢，都和他没有关系，他只想抓一头合适的灵兽罢了。",
+        "text": "Mặc kệ nơi này là hắc mộc đại sư gây nên cũng hảo, cái gì khác người làm cũng được, đều cùng hắn không có quan hệ, hắn chỉ muốn tóm một đầu thích hợp linh thú bãi rồi."
+      },
+      "dich": "Mặc kệ nơi này là do Hắc Mộc đại sự hay ai đó làm ra thì cũng đều không liên quan tới hắn, hắn chỉ muốn bắt một con linh thú phù hợp mà thôi.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 7,
+        "raw": "在沼泽中走了一段，袁铭甚感泥泞难行，取出蛤蟆之皮，施展披毛术，化为了蛤蟆形态。",
+        "text": "Tại trong đầm lầy tẩu rồi một đoạn, Viên Minh thậm cảm lầy lội khó đi, lấy ra cóc chi da, thi triển Phi Mao Thuật, biến thành cóc hình thái."
+      },
+      "dich": "Đi một đoạn trong đầm lầy, Viên Minh thấy bùn đất khó nhấc chân, bèn lấy tấm da cóc ra, thi triển Phi Mao Thuật biến thành hình thái cóc.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 8,
+        "raw": "这些天里，他已经查清了这蛤蟆之皮的来历，出自一种名为黑纹毒蟾的水生凶兽，比白猿变身更适合这种潮湿泥泞的环境中行动。",
+        "text": "Những ngày này, hắn đã tra rõ này cóc chi da đích lai lịch, xuất từ một loại tên là hoa văn độc thiềm đích sống dưới nước hung thú, so vượn trắng biến thân càng thích hợp loại này ẩm ướt lầy lội đích hoàn cảnh trung hành động."
+      },
+      "dich": "Thời gian qua, hắn đã điều tra rõ lai lịch của tấm da cóc này. Nó được lấy ra từ một loại hung thú sống dưới nước tên là Hắc Văn độc thiềm (cóc độc vân đen), hiển nhiên so với biến thân vượn trắng thì hình thái này thích hợp để hành động trong hoàn cảnh bùn lầy ẩm ướt này nhiều.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 9,
+        "raw": "自从冥月诀第一层圆满后，对披毛术反噬的抵抗能力大增，倒也不用像之前那样小心翼翼，而且黑蟾变身引发的煞气要远逊于白猿之皮。",
+        "text": "Từ Minh Nguyệt Quyết tầng thứ nhất viên mãn sau, đối Phi Mao Thuật phản phệ đích năng lực chống cự tăng nhiều, thật cũng không cần giống trước đó để ý như vậy cẩn thận, hơn nữa hắc thiềm biến thân đưa tới sát khí muốn thua xa tại vượn trắng chi da."
+      },
+      "dich": "Từ sau khi Minh Nguyệt Quyết tầng thứ nhất viên mãn, khả năng chống lại Phi Mao Thuật phản phệ của hắn đã tăng nhiều, theo đó cũng không cần phải cẩn thận để ý như trước, hơn nữa sát khí sinh ra từ việc biến thân cóc đen còn kém tấm da vượn rất nhiều.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 10,
+        "raw": "化身黑蟾形态后，袁铭行动自如了很多，那些泥泞不再沾染双脚，遇到一些水洼也能轻易度过。",
+        "text": "Hóa thân hắc thiềm hình thái sau, Viên Minh hành động tự nhiên rất nhiều, những cái kia lầy lội không còn lây dính hai chân, gặp phải một chút vũng nước cũng có thể dễ dàng độ qua."
+      },
+      "dich": "Sau khi hóa thân dạng cóc, Viên Minh hành động thoải mái hơn rất nhiều, bùn lầy không còn mút chặt hai chân, đồng thời nếu gặp phải một vài vũng nước cũng có thể dễ dàng nhảy qua.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 11,
+        "raw": "他颇为满意，加快了脚步。",
+        "text": "Hắn có chút vừa ý, tăng nhanh cước bộ."
+      },
+      "dich": "Hắn hài lòng cất bước nhanh hơn.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 12,
+        "raw": "就在此刻，一些叶片宽大的绿色植物出现在前方，中间盛开着几朵粉红色的盆状花朵，看起来仿佛荷花一般，微风中送来一缕幽香。",
+        "text": "Vào thời khắc này, một chút phiến lá rộng lớn đích thực vật xanh xuất hiện ở phía trước, ở giữa nở rộ lấy mấy đóa phấn hồng sắc đích bồn trạng đóa hoa, thoạt nhìn phảng phất hoa sen bình thường, trong gió nhẹ đưa tới một sợi mùi thơm."
+      },
+      "dich": "Vào thời khắc này, một bụi cây màu lục với phiến lá to bản xuất hiện trước mắt, ở giữa có mấy đóa hoa hình chậu màu hồng phấn đã bung nở, thoạt nhìn khá giống hoa sen, theo gió thoảng qua tỏa ra một mùi hương thơm ngát.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 13,
+        "raw": "袁铭正要靠近些看看，脑袋突然一昏，双腿也有些发软。",
+        "text": "Viên Minh đang muốn tới gần chút nhìn xem, cái đầu đột nhiên một bộ, hai chân cũng có chút như nhũn ra."
+      },
+      "dich": "Đang khi định bước tới nhìn kỹ hơn, Viên Minh chợt thấy đầu óc choáng váng, hai chân cũng như nhũn ra.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 14,
+        "raw": "“花香有毒！”",
+        "text": "“Mùi hoa có độc!”"
+      },
+      "dich": "“Hương hoa có độc!”",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 15,
+        "raw": "他心神一凛，立刻后退。",
+        "text": "Hắn tâm thần rùng mình, lập tức lui về phía sau."
+      },
+      "dich": "Hắn rùng mình, lập tức lui lại.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 16,
+        "raw": "一道绿影从碧绿莲叶下射出，咬向他的小腿，却是一头扁头绿蛇。",
+        "text": "Một đạo bóng xanh từ xanh biếc lá sen hạ bắn ra, cắn về phía bắp chân của hắn, lại là một đầu dẹp 头 lục xà."
+      },
+      "dich": "Một cái bóng mầu xanh từ dưới lá sen xanh bắn vọt ra, cắn về phía bắp chân của hắn, nhìn kỹ thì là một con rắn đầu bẹt.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 17,
+        "raw": "袁铭强撑身体向后一跃，勉强躲开绿蛇的袭击，右手掐诀点出。",
+        "text": "Viên Minh ráng chống đỡ thân thể hướng về sau nhảy lên, miễn cưỡng né tránh lục xà đích tập kích, tay phải bắt quyết điểm ra."
+      },
+      "dich": "Viên Minh gắng chống người nhảy lui về phía sau, vừa vặn tránh được đòn đánh lén của con rắn, đồng thời nhấc tay phải bấm niệm pháp quyết rồi điểm tới.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 18,
+        "raw": "附近的花草上泛起丝丝绿光，一根根草茎突然尽数活了过来，扑向那头绿蛇。",
+        "text": "Phụ cận hoa cỏ thượng nổi lên nhè nhẹ lục quang, căn căn nhánh cỏ đột nhiên hết thảy sống qua tới, nhào về phía đầu kia lục xà."
+      },
+      "dich": "Từng tia sáng xanh nổi lên trên đám cỏ cây xung quanh, ngay sau đó, những nhánh cỏ kia bỗng như sống dậy, nhào về phía con rắn.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 19,
+        "raw": "绿蛇也是一惊，急忙左躲右闪，那些草茎从四面八方包围了它，绿蛇根本避无可避，很快便被缠住。",
+        "text": "Lục xà cũng là cả kinh, vội vàng tránh trái tránh phải, những cái kia nhánh cỏ từ bốn phương tám hướng bao vây nó, lục xà căn bản tránh cũng không thể tránh, rất nhanh liền bị cuốn lấy."
+      },
+      "dich": "Rắn xanh cả kinh, vội vàng tránh phải né trái, nhưng những nhánh cỏ kia bao vây nó từ khắp bốn phía xung quanh, cơ bản là muốn tránh cũng không tránh hết, rất nhanh liền bị quấn lấy.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 20,
+        "raw": "这些草茎彼此交错穿搭，眨眼间形成一个草笼，将绿蛇禁锢在里面。",
+        "text": "Những này nhánh cỏ lẫn nhau đan xen mặc dựng, trong chớp mắt hình thành một cái cỏ lồng, đem lục xà giam cầm ở bên trong."
+      },
+      "dich": "Những nhánh cỏ kia đan xen vào nhau, chỉ chớp mắt đã tạo thành một cái lồng cỏ, nhốt rắn xanh vào bên trong.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 21,
+        "raw": "绿蛇身上有灵力波动，实力不弱，而这些草茎最多手指粗，按理说一挣便断，可无论绿蛇如何扭动身躯，都无法挣脱出来，反而被越缠越紧，最后彻底动弹不得。",
+        "text": "Lục xà trên thân có linh lực ba động, thực lực không kém, mà những này nhánh cỏ nhiều nhất to bằng ngón tay, theo lý thuyết thoáng giãy dụa liền cắt đứt, nhưng vô luận lục xà như thế nào vặn vẹo thân thể, đều không thể thoát khỏi ra, ngược lại bị càng quấn càng chặt, tối hậu triệt để động đậy không được."
+      },
+      "dich": "Trên người rắn xanh có linh lực ba động, thực lực không kém, trong khi những nhánh cỏ kia to nhất cũng chỉ bằng ngón tay, theo lý thuyết thì chỉ cần nó cựa quậy chút sẽ bị gãy hết, thế nhưng bất luận rắn xanh quay cuồng xoắn vặn thân thể thế nào cũng không thoát ra được, trái lại càng lúc càng bị quấn chặt, cuối cùng không thể động đậy gì nữa.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 22,
+        "raw": "袁铭后退了好一段距离，彻底远离了那些粉红莲花才停下，盘膝坐下运转九元诀，试图化解毒素。",
+        "text": "Viên Minh lui về sau hảo một khoảng cách, triệt để cách xa những cái kia phấn hồng liên hoa mới dừng lại, khoanh chân ngồi xuống vận chuyển Cửu Nguyên Quyết, thử đồ hóa giải độc tố."
+      },
+      "dich": "Viên Minh lùi lại một quãng đủ để tránh xa những bông sen màu hồng phấn kia, rồi mới dừng lại, khoanh chân ngồi xuống vận chuyển Cửu Nguyên Quyết để hóa giải độc tố.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 23,
+        "raw": "进阶炼气六层后，他的法力又浑厚了一些，已经能够渗透到五脏六腑，随着法力的运转，头昏酸软的感觉快速消退，很快恢复了过来。",
+        "text": "Tiến giai luyện khí sáu tầng sau, pháp lực của hắn lại hùng hậu một chút, đã có thể rướm thấu đến ngũ tạng lục phủ, theo pháp lực đích vận chuyển, đầu choáng váng bủn rủn đích cảm giác nhanh chóng biến mất, rất nhanh khôi phục lại."
+      },
+      "dich": "Sau khi tấn cấp Luyện Khí tầng sáu, pháp lực của hắn lại hùng hậu thêm một chút, đã có thể thẩm thấu đến lục phủ ngũ tạng, theo sự vận chuyển của pháp lực, cảm giác đầu váng chân run nhanh chóng biến mất, cả người khôi phục lại như trước.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 24,
+        "raw": "袁铭这才起身，看向动弹不得的青蛇，目光微微闪动。",
+        "text": "Viên Minh lúc này mới đứng dậy, nhìn về phía động đậy không được đích Thanh Xà, ánh mắt hơi hơi chớp động."
+      },
+      "dich": "Viên Minh lúc này mới đứng dậy, nhìn về phía rắn xanh bị trói cứng, ánh mắt khẽ chớp động.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 25,
+        "raw": "这个草笼正是木牢术，他还是第一次在实战中施展。",
+        "text": "Cái này cỏ lồng chính là mộc lao thuật, hắn còn là lần đầu tiên trong thực chiến thi triển."
+      },
+      "dich": "Lồng cỏ này chính là Mộc Lao Thuật mà hắn lần đầu tiên thi triển trong thực chiến.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 26,
+        "raw": "和木刺术不同，木牢术需要依靠附近的植物禁锢敌人，因此这个法术威力的大小，一定程度上取决于用何种植物施展这个法术。",
+        "text": "Cùng Mộc Thứ Thuật bất đồng, mộc lao thuật cần dựa vào phụ cận thực vật giam cầm địch nhân, bởi vậy pháp thuật này uy lực đích lớn nhỏ, trình độ nhất định quyết định bởi tại dụng loại thực vật nào thi triển pháp thuật này."
+      },
+      "dich": "Khác với Mộc Thứ Thuật, Mộc Lao Thuật cần dựa vào thực vật xung quanh để giam cầm kẻ địch, vậy nên uy lực của pháp thuật lớn hay nhỏ phụ thuộc không ít vào loại thực vật dùng để thi triển pháp thuật này.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 27,
+        "raw": "这些草茎质地脆弱，形成的牢笼竟然能困住这头绿蛇，若是用其他坚韧树木施展木牢术，禁锢之能必定更大。",
+        "text": "Những này nhánh cỏ tính chất yếu ớt, hình thành nhà giam vậy mà năng vây khốn đầu này lục xà, nếu như dụng cái khác cứng cỏi cây cối thi triển mộc lao thuật, giam cầm chi năng nhất định càng lớn."
+      },
+      "dich": "Những nhánh cỏ kia thân mình yếu ớt, vậy mà lồng giam tạo ra từ chúng vẫn có thể vây khốn con rắn xanh, nếu dùng những cây côi cứng rắn hơn để thi triển Mộc Lao Thuật, hiệu quả giam cầm nhất định sẽ lớn hơn.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 28,
+        "raw": "袁铭抬手一招，数根木刺从粉色莲花附近冒出，将几朵花绞的粉碎，空气中的幽香很快彻底消散。",
+        "text": "Viên Minh giơ tay một chiêu, vài gốc gai gỗ từ hồng nhạt liên hoa phụ cận tỏa ra, đem mấy đóa hoa xoắn đích đập tan, trong không khí đích mùi thơm rất nhanh triệt để tiêu tán."
+      },
+      "dich": "Viên Minh nhấc tay vẫy nhẹ, tức thì mấy cây gai gỗ từ chỗ quanh đám hoa sen màu hồng trồi lên, chọc mấy đóa hoa vỡ nát, mùi hương trong không khí theo đó nhanh chóng tiêu tan.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 29,
+        "raw": "他在原地等了一阵，这才走过去，抓住绿蛇脑袋，口中念念有词。",
+        "text": "Hắn tại nguyên chỗ đợi một trận, lúc này mới đi qua đi, bắt lấy lục xà cái đầu, trong miệng lẩm bẩm."
+      },
+      "dich": "Hắn đứng nguyên tại chỗ chờ một lúc rồi mới đi qua, tóm đầu con rắn, miệng lẩm bẩm.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 30,
+        "raw": "一缕缕黑气从他掌心涌出，越来越多，渐渐淹没了绿蛇的脑袋。",
+        "text": "Hàng luồng hắc khí từ hắn lòng bàn tay trào ra, càng ngày càng nhiều, dần dần bao phủ rồi lục xà đích cái đầu."
+      },
+      "dich": "Từng sợi khói đen từ lòng bàn tay hắn tuôn ra, càng lúc càng nhiều, dần dần bao phủ đầu con rắn.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 31,
+        "raw": "与此同时，袁铭眉心处开始浮现出一些淡淡的银色纹路，快速朝手臂蔓延，很快抵达。",
+        "text": "Cùng lúc đó, Viên Minh chỗ mi tâm bắt đầu hiện ra một chút nhàn nhạt màu bạc hoa văn, nhanh chóng hướng cánh tay lan tràn, rất nhanh tới."
+      },
+      "dich": "Cùng lúc đó, chỗ mi tâm Viên Minh bắt đầu xuất hiện một ít đường vân màu bạc. Những đường vân màu bạc này sau đó nhanh chóng lan tràn xuống phía cánh tay, nhoáng cái đã lan tới bàn tay.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 32,
+        "raw": "“噗”的一声轻响，他掌心的黑气狂舞而起，化为一根根黑色触手，朝绿蛇脑袋钻去。",
+        "text": "“Phốc” đích một tiếng vang nhỏ, hắn lòng bàn tay đích hắc khí cuồng vũ mà khởi, hóa thành căn căn hắc sắc chạm tay, hướng lục xà cái đầu chui qua."
+      },
+      "dich": "Một tiếng “phốc” nhỏ vang lên, khói đen trong lòng bàn tay hắn quay cuồng bốc lên, hóa thành những xúc to đen chui vào trong đầu rắn xanh.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 33,
+        "raw": "绿蛇突然面露痛苦之色，不停的挣扎。",
+        "text": "Lục xà đột nhiên mặt lộ vẻ vẻ thống khổ, không ngừng giãy dụa."
+      },
+      "dich": "Rắn xanh đột nhiên lộ vẻ thống khổ, không ngừng giãy dụa.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 34,
+        "raw": "然而袁铭的手好像铁箍般，牢牢抓住绿蛇，手中的黑色越发浓郁，更快的钻进绿蛇脑袋。",
+        "text": "Nhưng mà Viên Minh đích tay dường như vòng sắt kiểu, tóm chặt lấy lục xà, trong tay hắc sắc càng phát nồng đậm, càng nhanh đích tiến vào lục xà cái đầu."
+      },
+      "dich": "Nhưng bàn tay Viên Minh như kềm sắt tóm chặt rắn xanh, đồng thời khói đen từ trong tay tỏa ra càng lúc càng dày, chui vào đầu rắn xanh cũng nhanh hơn.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 35,
+        "raw": "绿蛇痛苦之色更重，嘴里发出嘶哑的叫声。",
+        "text": "Lục xà vẻ thống khổ càng nặng, miệng trong phát ra khàn khàn đích tiếng kêu."
+      },
+      "dich": "Vẻ thống khổ của rắn xanh càng nặng nề hơn, miệng phát ra những tiếng kêu khàn khàn.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 36,
+        "raw": "时间一点点过去，绿蛇脑袋里突然发出砰的一声轻响，似乎有什么东西爆裂开，此蛇的身体变得柔软，没有了气息。",
+        "text": "Thời gian từng chút một qua đi, lục xà trong đầu đột nhiên phát ra phịch một tiếng vang nhỏ, tựa hồ có đồ vật gì bạo liệt ra, rắn này đích thân thể trở nên mềm mại, không có khí tức."
+      },
+      "dich": "Một lúc lâu trôi qua, trong đầu rắn xanh đột nhiên phát ra một tiếng ‘bụp’ nhỏ, nghe như có thứ gì đó nổ tung, theo đó thân thể con rắn liền mềm oặt, không còn hơi thở.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 37,
+        "raw": "袁铭表情一僵，放开了手。",
+        "text": "Viên Minh biểu tình cứng đờ, buông ra tay."
+      },
+      "dich": "Viên Minh mặt mũi cứng đờ, buông tay ra.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 38,
+        "raw": "“驭兽术果然艰难，我已经尽可能的小心，仍然毁了此蛇的神魂。”他叹了口气。",
+        "text": "“Ngự Thú Thuật quả nhiên gian nan, ta đã tận khả năng đích cẩn thận, vẫn cứ hủy rắn này đích thần hồn.” hắn thở dài."
+      },
+      "dich": "“Ngự Thú Thuật quả nhiên gian nan, ta đã cẩn thận hết mức mà vẫn hủy mất thần hồn của con rắn này.”",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 39,
+        "raw": "这些天他暗中练习，自认已经将驭兽术练习的滚瓜烂熟，想不到实际尝试施展时才发现，完全不是那么回事。",
+        "text": "Những ngày này hắn âm thầm luyện tập, tự nhận đã đem Ngự Thú Thuật luyện tập thuộc làu, nghĩ không ra thực tế thử thi triển thời mới phát hiện, hoàn toàn không phải có chuyện như vậy."
+      },
+      "dich": "Những ngày qua hắn âm thầm luyện tập, tự thấy mình đã nắm vững từng chi tiết của Ngự Thú Thuật, không ngờ lúc thực hành mới phát hiện, hoàn toàn không phải như vậy.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 40,
+        "raw": "驭兽术关键在于压服凶兽神志，然而神魂本就脆弱，稍不留神便会直接被击杀。",
+        "text": "Ngự Thú Thuật mấu chốt ở chỗ áp đảo hung thú thần chí, nhưng mà thần hồn vốn là yếu ớt, hơi bất lưu thần liền sẽ trực tiếp bị kích sát."
+      },
+      "dich": "Điểm mấu chốt của Ngự Thú Thuật là việc áp đảo thần chí của hung thú, nhưng thần hồn vốn rất mỏng manh, chỉ hơi mất tập trung là sẽ thành đánh chết ngay.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 41,
+        "raw": "“看来，要多练习才行。”袁铭心中暗道，继续前进。",
+        "text": "“Xem ra, muốn bao nhiêu luyện tập mới được.” Viên Minh thầm nghĩ trong lòng, tiếp tục đi tới."
+      },
+      "dich": "“Xem ra còn cần phải tập luyện nhiều hơn mới được.” Viên Minh thầm nghĩ trong lòng, tiếp tục đi tới.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 42,
+        "raw": "半日之后，沼泽一处水草茂盛的地方。",
+        "text": "Tầm nửa ngày sau, đầm lầy một chỗ bèo tươi tốt đích địa phương."
+      },
+      "dich": "Khoảng nửa ngày sau, tại một chỗ cỏ nước tốt tươi trong đầm lầy.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 43,
+        "raw": "袁铭用木牢术禁锢住一头半人高的灰狐凶兽，手掌按在灰狐脑袋上，一股股黑气蜂拥注入其中。",
+        "text": "Viên Minh dụng mộc lao thuật cầm cố lại một đầu cao cỡ nửa người đích tro hồ hung thú, bàn tay đặt tại tro hồ trên đầu, nhiều luồng hắc khí chen chúc rót vào trong đó."
+      },
+      "dich": "Viên Minh dùng Mộc Lao Thuật giam cầm một con hung thú cáo xám cao bằng nửa người thường, bàn tay đặt trên đầu nó, đồng thời một đám khói đen chen chúc chui vào trong đó.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 44,
+        "raw": "灰狐痛苦悲鸣，身体颤抖不已。",
+        "text": "Tro hồ thống khổ than khóc, thân thể run rẩy không thôi."
+      },
+      "dich": "Cáo xám thống khổ rên rỉ, thân thể không ngừng run rẩy.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 45,
+        "raw": "袁铭毫不理会，嘴里念念有词，继续施法。",
+        "text": "Viên Minh không chút nào để ý, miệng lẩm bẩm, tiếp tục thi pháp."
+      },
+      "dich": "Viên Minh vẫn không hề bận tâm, miệng lẩm nhẩm, tiếp tục thi pháp.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 46,
+        "raw": "这已经是他第五次尝试收服凶兽，前面四次尽数失败，凶兽全都神魂爆裂而亡。",
+        "text": "Đây đã là hắn lần thứ năm thử thu phục hung thú, phía trước bốn lần hết thảy thất bại, hung thú tất cả đều thần hồn bạo liệt mà chết."
+      },
+      "dich": "Đây đã là lần thứ năm hắn thử nghiệm thu phục hung thú, bốn lần trước đều thất bại, toàn bộ hung thú đều thần hồn nổ tung mà chết.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 47,
+        "raw": "不过每次失败，袁铭都会总结经验，对驭兽术的使用越发娴熟，他感觉距离成功已经越来越近。",
+        "text": "Chẳng qua mỗi lần thất bại, Viên Minh đều sẽ tổng kết kinh nghiệm, đối Ngự Thú Thuật đích sử dụng càng phát thành thạo, hắn cảm giác cự ly thành công đã càng ngày càng gần."
+      },
+      "dich": "Có điều mỗi lần thất bại, Viên Minh đều tổng kết kinh nghiệm, từ đó hắn sử dụng Ngự Thú Thuật càng thêm thuần thục, cảm giác khoảng cách đến lúc thành công đã càng lúc càng gần.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 48,
+        "raw": "时间很快过了一刻钟，灰狐还在痛苦挣扎，神魂却没有爆裂。",
+        "text": "Thời gian qua rất nhanh rồi một khắc đồng hồ, tro hồ còn tại thống khổ giãy dụa, thần hồn nhưng không có bạo liệt."
+      },
+      "dich": "Thời gian một khắc đồng hồ trôi qua rất nhanh, cáo xám vẫn đang giãy dụa nhưng thần hồn nó không bị nổ tung.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 49,
+        "raw": "它眼中的凶光越来越弱，又过了一会，终于低鸣一声，传来屈服的意念。",
+        "text": "Nó trong mắt đích hung quang càng ngày càng yếu, lại qua một lúc, cuối cùng khẽ kêu một tiếng, truyền đến khuất phục đích ý niệm."
+      },
+      "dich": "Hung quang trong mắt nó càng ngày càng yếu, thêm một lúc nữa, rốt cuộc kêu khẽ một tiếng tỏ ý khuất phục.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 50,
+        "raw": "“终于成了！”袁铭眸中一喜，却突然停止了施法，收回了手掌，禁锢住灰狐的木笼也随之散开。",
+        "text": "“Cuối cùng thành!” Viên Minh trong mắt vui vẻ, lại đột nhiên đình chỉ thi pháp, thu hồi bàn tay, cầm cố lại tro hồ đích lồng gỗ cũng theo đó tản ra."
+      },
+      "dich": "“Cuối cùng cũng thành!” Viên Minh mừng rỡ, lập tức dừng thi pháp, thu tay lại, lồng cây giam giữ cáo xám theo đó cũng tán đi.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 51,
+        "raw": "灰狐恢复了自由，愣了一下才反应过来，转身朝远处逃走，眨眼间消失在沼泽深处。",
+        "text": "Tro hồ khôi phục rồi tự do, sửng sốt một chút mới phản ứng được, chuyển thân hướng viễn xứ đào tẩu, trong chớp mắt tiêu thất tại đầm lầy chỗ sâu."
+      },
+      "dich": "Cáo xám khôi phục tự do, thoáng sửng sốt một chút rồi mới kịp phản ứng, xoay người chạy trốn về phía xa, chỉ chớp mắt đã biến mất ở chỗ sâu trong đầm lầy.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 52,
+        "raw": "袁铭目送灰狐逃走，没有任何举动。",
+        "text": "Viên Minh nhìn theo tro hồ đào tẩu, không có bất kỳ cái gì cử động."
+      },
+      "dich": "Viên Minh đưa mắt nhìn cáo xám chạy trốn, không có bất kỳ hành động nào.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 53,
+        "raw": "根据三洞主给他的骨简所述，用驭兽术控制灵兽，牵扯到了神魂之力，炼气期修士的神魂太弱，只能收服操控一头灵兽。",
+        "text": "Căn cứ Tam động chủ cho hắn xương giản thuật, dụng Ngự Thú Thuật khống chế linh thú, liên lụy đến rồi thần hồn chi lực, Luyện Khí kỳ tu sĩ đích thần hồn quá yếu, chỉ có thể thu phục thao túng một đầu linh thú."
+      },
+      "dich": "Căn cứ theo nội dung trong cốt giản mà Tam động chủ đưa cho hắn, việc dùng Ngự Thú Thuật khống chế linh thú có liên hệ mật thiết đến lực lượng thần hồn, thần hồn của tu sĩ Luyện Khí kỳ quá yếu, chỉ có thể thu phục, điều khiển một con linh thú.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 54,
+        "raw": "这只灰狐只是一头一级中阶凶兽，也没有特别的能力，袁铭自然不会选其当自己的灵兽。",
+        "text": "Cái này tro hồ chỉ là một đầu cấp một trung giai hung thú, cũng không có năng lực đặc biệt, Viên Minh đương nhiên sẽ không tuyển nó đương chính mình đích linh thú."
+      },
+      "dich": "Cáo xám chỉ là một con hung thú cấp một bậc trung, hơn nữa không có năng lực đặc biệt gì, Viên Minh đương nhiên sẽ không chọn nó làm linh thú của mình.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 55,
+        "raw": "他继续往前行去，寻找属意的凶兽。",
+        "text": "Hắn tiếp tục hướng về phía trước đi, tìm kiếm hướng vào đích hung thú."
+      },
+      "dich": "Hắn tiếp tục đi tới phía trước để tìm kiếm hung thú.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 56,
+        "raw": "这片沼泽地面积之广，远在之前的紫枫林，黑松林之上，沼泽内生活的凶兽也多，可惜实力却都很一般，都是下阶，中阶的水平，远远不能和上次遇到的四目金猿，黑色巨鸦，地行妖相比，没有收为灵兽的价值。",
+        "text": "Mảnh này đầm lầy diện tích rộng, ở xa trước đó đích Tử Phong rừng, rừng tùng đen phía trên, trong đầm lầy sinh hoạt đích hung thú cũng nhiều, đáng tiếc thực lực lại đều rất bình thường, đều là hạ giai, trung giai đích trình độ, xa xa không thể cùng lần trước gặp phải bốn mắt Kim Viên, hắc sắc cự quạ, đi 妖 so với, không có thu làm linh thú giá trị."
+      },
+      "dich": "Diện tích đầm lầy này lớn hơn nhiều so với rừng phong tím và rừng tùng đen trước đó, trong đầm lầy cũng có rất nhiều hung thú sinh sống, đáng tiếc thực lực của chúng đều ở mức trung bình, hơn nữa đều là trình độ bậc thấp, bậc trung, còn xa mới so được với kim viên bốn mắt, cự nha màu đen hay địa hành yêu, không đáng để thu làm linh thú.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 57,
+        "raw": "一直到天黑，袁铭也没能寻到合适的收服对象。",
+        "text": "Mãi cho đến trời tối, Viên Minh cũng không thể tìm được thích hợp thu phục đối tượng."
+      },
+      "dich": "Mãi tới khi trời tối, Viên Minh vẫn chưa thể tìm được đối tượng phù hợp để thu phục.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 58,
+        "raw": "他没有着急，也没有离开此地，取出一顶帐篷，在一处地面还算干燥的地方扎营休息。",
+        "text": "Hắn không có gấp, cũng không có rời khỏi nơi đây, lấy ra một đỉnh lều trại, tại một chỗ mặt đất còn tính khô ráo đích địa phương hạ trại nghỉ ngơi."
+      },
+      "dich": "Hắn không vội cũng không rời khỏi chỗ này, trái lại còn lấy ra một cái lều vải, tìm chỗ mặt đất tương đối khô ráo hạ trại nghỉ ngơi.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 59,
+        "raw": "因为在陌生的环境，这一夜袁铭都没有睡觉，一直在闭目打坐，倒也没有发生意外。",
+        "text": "Vì tại xa lạ hoàn cảnh, một đêm này Viên Minh đều không có ngủ, một mực tại nhắm mắt đả tọa, cũng không có xảy ra bất trắc."
+      },
+      "dich": "Do ở trong một môi trường xa lạ, Viên Minh cả đêm không ngủ, một mực nhắm mắt ngồi thiền định, cũng may không xảy ra nguy hiểm gì.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 60,
+        "raw": "第二天，袁铭继续出发。",
+        "text": "Ngày thứ hai, Viên Minh tiếp tục xuất phát."
+      },
+      "dich": "Ngày hôm sau, Viên Minh tiếp tục lên đường.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 61,
+        "raw": "前方沼泽的水洼越来越少，干燥区域开始增加。",
+        "text": "Tiền phương đầm lầy đích vũng nước càng ngày càng ít, khô ráo khu vực bắt đầu gia tăng."
+      },
+      "dich": "Đầm lầy phía trước càng ngày càng thấy ít nước đọng, khu vực khô ráo bắt đầu gia tăng.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 62,
+        "raw": "“终于要离开这片区域了。”袁铭面色一松，略微加快脚步。",
+        "text": "“Cuối cùng phải rời khỏi khu vực này rồi.” Viên Minh sắc mặt buông lỏng, hơi tăng nhanh cước bộ."
+      },
+      "dich": "“Cuối cùng cũng sắp ra khỏi chỗ này.” Viên Minh thần sắc thoáng thả lỏng, bước chân nhanh hơn một chút.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 63,
+        "raw": "这片沼泽淤泥遍地，腐臭弥漫，环境相当恶劣，能离开这里，他也颇为高兴。",
+        "text": "Mảnh này đầm lầy nước bùn khắp nơi, mùi hôi tràn ngập, hoàn cảnh tương đương ác liệt, năng rời đi nơi này, hắn cũng có chút cao hứng."
+      },
+      "dich": "Mảnh đầm lầy toàn bùn đất này khắp nơi tràn ngập mùi hôi thối, môi trường tương đối khắc nghiệt, có thể rời khỏi chỗ này hắn cũng khá vui vẻ.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 64,
+        "raw": "往前走出里许，袁铭突然停住了脚步。",
+        "text": "Đi lên phía trước ra gần dặm, Viên Minh đột nhiên dừng lại cước bộ."
+      },
+      "dich": "Đi tới trước thêm gần một dặm, Viên Minh đột nhiên dừng bước.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 65,
+        "raw": "前方出现一片碧绿色的莲叶，中间点缀着一朵朵粉色大花，正是之前遇到过的剧毒莲花。",
+        "text": "Tiền phương xuất hiện xanh lục bát ngát sắc đích lá sen, ở giữa điểm xuyết lấy nhiều đóa hồng nhạt đại hoa, chính là trước đó gặp được đích kịch độc liên hoa."
+      },
+      "dich": "Đằng trước xuất hiện một bãi sen lá xanh ngắt, ở giữa điểm xuyết những đóa hoa lớn màu hồng, chính là loại sen độc mà hắn gặp lúc trước.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 66,
+        "raw": "和之前的几株碧莲不同，这里莲丛的面积异常大，将前方区域尽数占据，以袁铭的视力也看不到尽头，一朵朵粉红莲叶耸立其中，迎风荡漾，不知有几千朵。",
+        "text": "Cùng trước đó đích vài cọng Bích Liên bất đồng, chỗ này sen lùm đích diện tích dị thường đại, đem tiền phương khu vực hết thảy chiếm cứ, dĩ Viên Minh đích thị lực cũng không nhìn thấy phần cuối, nhiều đóa phấn hồng lá sen cao vút trong đó, đón gió nhộn nhạo, không biết có mấy ngàn đóa."
+      },
+      "dich": "Khác với mấy cây sen xanh trước đó, bãi sen này chiếm diện tích lớn dị thường, gần như chiếm hết khu vực đằng trước, lấy thị lực của Viên Minh cũng không nhìn thấy điểm cuối, từng đóa từng đóa hoa sen màu hồng phấn đứng trong đó, theo gió dập dờn, không biết có mấy ngàn đóa.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 67,
+        "raw": "袁铭远远看到那些粉色莲花，停住了脚步。",
+        "text": "Viên Minh xa xa nhìn thấy những cái kia hồng nhạt liên hoa, dừng lại cước bộ."
+      },
+      "dich": "Viên Minh thấy những đóa sen hồng kia từ phía xa xa, bèn dừng bước.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 68,
+        "raw": "这么多莲花聚集，花粉之毒的浓度必定不是之前可比，中招就麻烦了。",
+        "text": "Nhiều như vậy liên hoa tụ tập, phấn hoa chi độc độ dày nhất định không phải trước đó có thể so sánh, trúng chiêu liền phiền toái."
+      },
+      "dich": "Nhiều hoa sen như vậy tập ở một chỗ, nồng độ phấn độc chắc chắn hơn xa trước kia, bị trúng phải sẽ rất phiền phức.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 69,
+        "raw": "袁铭朝旁边行去，打算绕过这片莲丛。",
+        "text": "Viên Minh hướng bên cạnh bước đi, tính toán vượt qua mảnh này sen lùm."
+      },
+      "dich": "Viên Minh cất bước đi về phía bên cạnh, dự định vòng qua bãi sen này.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 70,
+        "raw": "就在此刻，“嗤嗤”的声音从花丛中传出，接着一条条绿色毒蛇密密麻麻的游走而出，正是之前那种绿蛇，足有四五十条之多，尽数朝袁铭扑了过去。",
+        "text": "Vào thời khắc này, “xuy xuy” đích thanh âm từ trong bụi hoa truyền ra, tiếp theo một loạt điều lục sắc độc xà rậm rạp đích chạy mà ra, chính là trước đó loại kia lục xà, chừng bốn năm mươi cái nhiều, hết thảy hướng Viên Minh nhào qua."
+      },
+      "dich": "Đúng vào lúc này, liên tiếp những tiếng ‘xì xì’ từ trong bãi sen truyền ra, tiếp đó là vô số những con rắn độc màu xanh nối đuôi nhau lao ra, đếm sơ có khoảng bốn, năm mươi con, tất cả đều nhào về phía Viên Minh.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 71,
+        "raw": "袁铭面色微变，却也没有太在意，转身便朝远处飞退。",
+        "text": "Viên Minh hơi biến sắc mặt, nhưng cũng không có quá để ý, chuyển thân liền hướng viễn xứ bay ngược."
+      },
+      "dich": "Viên Minh hơi biến sắc nhưng cũng không lo lắng lắm, chỉ quay người bay ngược về phía xa.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 72,
+        "raw": "这么开阔的距离，绿蛇不可能追得上他。",
+        "text": "Thế này khoáng đạt đích cự ly, lục xà không thể đuổi được hắn."
+      },
+      "dich": "Khoảng cách lớn như vậy, bầy rắn xanh không có khả năng đuổi kịp hắn.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 73,
+        "raw": "果然，绿蛇们追了一段距离便停了下来，对着袁铭嘶叫一阵，尽数返回了花丛。",
+        "text": "Quả nhiên, lục xà nhóm đuổi theo một khoảng cách liền ngừng lại, đối Viên Minh gào rít một trận, hết thảy quay trở về bụi hoa."
+      },
+      "dich": "Quả nhiên, đám rắn xanh kia đuổi được một đoạn liền dừng lại, gào rít dọa dẫm Viên Minh một hồi rồi quay về chỗ bãi sen.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 74,
+        "raw": "袁铭眉梢一动，刚刚那些绿蛇的叫声，带着威胁的意思，似乎在警告他不要靠近。",
+        "text": "Viên Minh đuôi lông mày khẽ động, vừa mới những cái kia lục xà đích tiếng kêu, mang theo uy hiếp ý tứ, tựa hồ đang cảnh cáo hắn không nên tới gần."
+      },
+      "dich": "Viên Minh hơi chau mày híp mắt như ngẫm nghĩ. Tiếng kêu của đám rắn xanh vừa rồi mang theo ý uy hiếp, tựa như đang cảnh cáo hắn không được đến gần.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 75,
+        "raw": "“我刚才距离花丛颇远，按理说应该没有走进那些绿蛇的攻击范围，它们却如此警惕，莫非花丛里有什么东西？”他心下泛起一丝好奇。",
+        "text": "“Ta vừa mới cự ly bụi hoa tương đối xa, theo lý thuyết hẳn là không có đi vào những cái kia lục xà đích công kích phạm vi, chúng nó nhưng như thế cảnh giác, chẳng lẽ trong bụi hoa có đồ vật gì?” tâm hắn hạ nổi lên một tia hiếu kỳ."
+      },
+      "dich": "“Ta vừa rồi còn cách bãi sen tương đối xa, theo lý thuyết hẳn là chưa đi vào phạm vi công kích của đám rắn kia. Bọn chúng lại cảnh giác như thế, hẳn là trong bãi sen có thứ gì đó?” Lòng hắn nổi lên một tia hiếu kỳ.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 76,
+        "raw": "考虑片刻，袁铭还是摇摇头，放弃了探查的想法。",
+        "text": "Cân nhắc chốc lát, Viên Minh vẫn là lắc đầu, buông tha rồi tra xét đích cách nghĩ."
+      },
+      "dich": "Sau khi cân nhắc một hồi, Viên Minh vẫn lắc đầu bỏ ý định tới tra xét.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 77,
+        "raw": "花丛内遍布花毒，还有那些绿蛇毒蛇，他并无手段能够应对这些危险，还是不要多事为好。",
+        "text": "Trong bụi hoa trải rộng hoa độc, còn có những cái kia lục xà độc xà, hắn cũng không thủ đoạn có thể ứng đối những nguy hiểm này, vẫn là không cần nhiều sự cho thỏa đáng."
+      },
+      "dich": "Trong bãi sen không chỉ có hoa độc trải rộng, còn những con rắn lục kia nữa, hắn cũng không đủ thủ đoạn để đối phó những nguy hiểm này, tốt hơn là không nên nhiều chuyện.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 78,
+        "raw": "袁铭沿着花丛边缘，向前绕行而去。",
+        "text": "Viên Minh dọc theo bụi hoa biên duyên, hướng về phía trước đi vòng mà đi."
+      },
+      "dich": "Viên Minh men theo rìa bãi sen, đi vòng về phía trước.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 79,
+        "raw": "嘎嘎嘎……",
+        "text": "Cạc cạc dát ... ..."
+      },
+      "dich": "Kéc kéc kéc ...",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 80,
+        "raw": "一阵刺耳叫声从后方沼泽内传来，听起来是某种鸟鸣，尖锐而悠长，显然来者个头不小。",
+        "text": "Một trận chói tai tiếng kêu từ phía sau trong đầm lầy truyền đến, nghe là nào đó chim hót, bén nhọn mà kéo dài, hiển nhiên người tới cái đầu không nhỏ."
+      },
+      "dich": "Một tràng những tiếng kêu chói tai từ trong đầm lầy sau lưng truyền tới, nghe giống như tiếng hót của loại chim nào đó. Tiếng hót này vừa kéo dài vừa chói tai, hiển nhiên là chủ nhân thanh âm này cũng không nhỏ.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 81,
+        "raw": "“鸟类凶兽！”袁铭眉头皱起，急忙躲进附近一片茂密草丛。",
+        "text": "“Loài chim hung thú!” Viên Minh mày nhăn lại, vội vàng trốn vào phụ cận một mảnh rậm rạp bụi cỏ."
+      },
+      "dich": "“Hung thú loài chim!” Viên Minh cau mày, vội vàng trốn vào trong một bụi cỏ gần đó.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 82,
+        "raw": "十万大山中，任何动静都不能小视，说不定就会冒出一头厉害凶物，另外他有香炉在手，随时能够飞天遁走，并不在意普通的陆行凶兽，对鸟类凶兽却颇为忌惮。",
+        "text": "Thập Vạn Đại Sơn trung, bất luận cái gì động tĩnh cũng không thể coi thường, nói không chừng liền sẽ tỏa ra một đầu lợi hại hung vật, cái khác hắn có lư hương nơi tay, tùy thời có thể phi thiên bỏ chạy, chẳng hề để ý phổ thông đích lục hành hung thú, đối loài chim hung thú nhưng có chút kiêng kị."
+      },
+      "dich": "Bên trong Thập Vạn Đại Sơn, không thể xem thường bất kỳ động tĩnh gì, nói không chừng ngay sau đó sẽ có một hung vật lợi hại xông ra. Hơn nữa dù hắn có lư hương trong tay, lúc nào cũng có thể bay lên trời bỏ chạy nên không cần để tâm những hung thú chạy bộ bình thường, nhưng với hung thú loài chim lại có chút kiêng kỵ.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 83,
+        "raw": "袁铭刚刚藏好，一道巨大的白影从沼泽深处飞出，恰好从其头顶飞纵而过。",
+        "text": "Viên Minh vừa mới nấp kỹ, một đạo thật lớn đích bóng trắng từ đầm lầy chỗ sâu bay ra, vừa khéo từ đỉnh đầu bay vút mà qua."
+      },
+      "dich": "Khi Viên Minh vừa nấp kỹ xong, một cái bóng trắng khổng lồ từ chỗ sâu trong đầm lầy bay ra, lướt qua ngay trên đầu hắn.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 84,
+        "raw": "袁铭看清白影真身，是一只数丈长的大雕，眼若铜铃，双爪乌黑，羽毛呈现雪白色，体型之硕不在之前的黑色巨鸦之下，一看便知是某种猛禽凶兽。",
+        "text": "Viên Minh xem rõ bóng trắng chân thân, là một con cao vài trượng đích đại điêu, mắt như chuông đồng, hai móng đen nhánh, lông chim hiện ra tuyết bạch sắc, hình thể chi to lớn không lúc trước đích hắc sắc cự quạ phía dưới, xem xét liền biết là nào đó ác điểu hung thú."
+      },
+      "dich": "Viên Minh thấy rõ chân thân của bóng trắng kia, đó là một con đại điêu thân cao mấy trượng, mắt như chuông đồng, song trảo đen nhánh, lông vũ một màu trắng như tuyết, hình thể to lớn không kém con cự nha màu đen khi trước, nhìn qua liền biết là loại hung thú mãnh cầm nào đó.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 85,
+        "raw": "白雕淡黄色的眼珠瞥了袁铭藏身的草丛一眼，没有理会，直奔花丛中央而去，瞬息之间消失不见。",
+        "text": "Bạch điêu màu vàng nhạt đích con mắt liếc Viên Minh ẩn thân đích bụi cỏ một chút, không để ý đến, băng băng chạy đến trong bụi hoa mà đi, trong nháy mắt biến mất không thấy gì nữa."
+      },
+      "dich": "Bạch điêu đưa con mắt màu vàng nhạt liếc nhìn Viên Minh giấu mình trong bụi cỏ một chút rồi không để ý tới nữa, bay thẳng tới chỗ trung tâm bãi sen, chỉ nháy mắt đã không thấy đâu nữa.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 86,
+        "raw": "袁铭从草丛中站立而起，眺望半空。",
+        "text": "Viên Minh từ trong bụi cỏ đứng thẳng mà khởi, nhìn ra xa giữa không trung."
+      },
+      "dich": "Viên Minh từ trong bụi cỏ đứng lên, nhìn lên không trung phía xa.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 87,
+        "raw": "“那白雕看起来实力不弱，视力也很强，隔着雾气也能发现我，似乎是只不错的灵兽，可惜它的速度太快，用香炉也不可能追上，更别提将之降服了。”",
+        "text": "“Kia bạch điêu thoạt nhìn thực lực không kém, thị lực cũng rất mạnh, cách sương mù cũng có thể phát hiện ta, tựa hồ là chỉ không tệ đích linh thú, đáng tiếc nó tốc độ quá nhanh, dụng lư hương cũng không thể đuổi kịp, càng miễn bàn đem hàng phục.”"
+      },
+      "dich": "“Bạch điêu kia xem ra thực lực không yếu, thị lực cũng rất mạnh, có sương mù che mắt mà vẫn có thể phát hiện ta, có vẻ là một linh thú không tồi, đáng tiếc tốc độ của nó quá nhanh, dùng lư hương cũng không thể đuổi kịp, nói gì tới chuyện hàng phục.”",
+      "approved": true
+    }
+  ],
   "next": {
     "id": 98,
-    "title": "Chương 98: Dựa thế"
+    "title": "Chương 98"
   },
   "previous": {
     "id": 96,
-    "title": "Chương 96: Lại thăm đảo sương mù"
+    "title": "Chương 96"
   },
   "title": {
     "convert": "Chương 97",
     "dich": "Chương 97"
-  },
-  "lines": [
-    {
-      "convert": "Viên Minh ngừng chân mà đứng, mục quang nhìn hướng đầm lầy cùng Tử Phong Lâm, chân mày thiêu động.",
-      "dich": "Viên Minh dừng chân đứng lại, đưa mắt nhìn về phía rừng phong tím và đầm lầy, tràng mày hơi nhíu lại.",
-      "suggest": "Viên Minh ngừng bước, ánh mắt nhìn về phía đầm lầy và Tử Phong Lâm, hai hàng lông mày nhíu chặt lại."
-    },
-    {
-      "convert": "Một hòn đảo mà thôi, hoàn cảnh vậy mà như thế phức tạp đa biến, hơn nữa mỗi cái khu vực địa hình hoàn cảnh, thảm thực vật thảo mộc đều hoàn toàn bất đồng, nếu nói là thiên nhiên hình thành, kia cũng quá mức xảo hợp.",
-      "dich": "Chỉ là một hòn đảo thôi mà hoàn cảnh lại phức tạp, nhiều thay đổi như vậy, hơn nữa hoàn cảnh địa hình, thảm thực vật mỗi khu vực lại hoàn toàn khác nhau, nếu nói là tự nhiên hình thành thì thực sự trùng hợp quá mức.",
-      "suggest": "Một hòn đảo mà hoàn cảnh lại phức tạp đa biến như thế, hơn nữa mỗi khu vực địa hình hoàn cảnh đều hoàn toàn khác nhau, nếu nói là tự nhiên hình thành, thì cũng quá mức xảo hợp."
-    },
-    {
-      "convert": "\"Nhìn tới có người cố ý làm tới, chẳng lẽ tựu là vị kia Hắc Mộc đại sư?\"",
-      "dich": "\"Xem ra là có người cố ý tạo ra, chắc là vị Hắc Mộc đại sư kia?\"",
-      "suggest": "\"Xem ra có người cố ý làm tới, chẳng lẽ chính là đại sư Hắc Mộc kia?\""
-    },
-    {
-      "convert": "Hắc Mộc đại sư di hài ngay tại trên toà đảo này, lấy người này năng lực, xác thực có thể làm tới này chủng sự, hơn nữa căn cứ kia bản chép tay thượng ghi chép, người này đích xác là một cái có thêm thiên mã hành không tư duy người.",
-      "dich": "Di hài Hắc Mộc đại sư ở ngay trên đảo này, lấy năng lực của y thì đúng là có thể làm ra chuyện này được.",
-      "suggest": "Di hài đại sư Hắc Mộc đại sư ở trên hòn đảo này, với năng lực của người này, xác thực có thể làm được loại chuyện này, hơn nữa căn cứ vào những ghi chép trên bản ghi chép kia, người này đích xác là một người có thiên mã hành không."
-    },
-    {
-      "convert": "Còn muốn sâu một chút, trên toà đảo này những thứ kia hung thú, chỉ sợ cũng là Hắc Mộc đại sư chộp tới đấy, khó trách đều như vậy hiếm thấy.",
-      "dich": "Thêm nữa, căn cứ theo nội dung trên bản chép tay kia, người này đúng là một kẻ có tư duy thiên mã hành không.",
-      "suggest": "Còn muốn sâu thêm một chút, chỉ sợ những hung thú trên hòn đảo này cũng do đại sư Hắc Mộc săn được, khó trách đều hiếm thấy như vậy."
-    },
-    {
-      "convert": "Viên Minh rất nhanh lắc lắc đầu, cất bước tiến lên.",
-      "dich": "Lại nghĩ kỹ thêm một chút, những hung thú trên đảo này chỉ e cũng là do Hắc Mộc đại sự đem đến, khó trách đều hiếm thấy như vậy.",
-      "suggest": "Viên Minh nhanh chóng lắc lắc đầu, cất bước tiến lên."
-    },
-    {
-      "convert": "Không quản nơi này là Hắc Mộc đại sư gây nên cũng tốt, cái gì khác người khô cũng được, đều cùng hắn không có quan hệ, hắn chỉ muốn trảo một đầu thích hợp linh thú mà thôi.",
-      "dich": "Viên Minh rất nhanh lắc đầu, cất bước tiến lên.",
-      "suggest": "Không quản nơi này là do đại sư Hắc Mộc gây nên hay là người khô, cái gì khác cũng được, đều không quan hệ gì với hắn cả, hắn chỉ muốn bắt một con linh thú thích hợp mà thôi."
-    },
-    {
-      "convert": "Tại đầm lầy trung đi một đoạn, Viên Minh cảm thấy lầy lội khó đi, lấy ra cóc nhái chi bì, thi triển Phi Mao Thuật, hóa thành cóc nhái hình thái.",
-      "dich": "Mặc kệ nơi này là do Hắc Mộc đại sự hay ai đó làm ra thì cũng đều không liên quan tới hắn, hắn chỉ muốn bắt một con linh thú phù hợp mà thôi.",
-      "suggest": "Đi một đoạn trong đầm lầy, Viên Minh cảm thấy lầy lội khó đi, lấy một miếng da cóc ra, thi triển Phi Mao Thuật, hóa thành hình dạng cóc."
-    },
-    {
-      "convert": "Những ngày này, hắn đã tra rõ này cóc nhái chi bì lai lịch, xuất từ một chủng tên là Hắc Văn Độc Thiềm thủy sinh hung thú, so bạch viên biến thân càng thích hợp chủng này ẩm ướt lầy lội hoàn cảnh trung hành động.",
-      "dich": "Đi một đoạn trong đầm lầy, Viên Minh thấy bùn đất khó nhấc chân, bèn lấy tấm da cóc ra, thi triển Phi Mao Thuật biến thành hình thái cóc.",
-      "suggest": "Những ngày này, hắn đã tra rõ lai lịch của con cóc này, xuất xứ từ một hung thú tên Hắc Văn Độc Thiềm, hung thú biến thân từ vượn trắng này, càng thích hợp với những hành động dưới nước khô ráo lầy lội này."
-    },
-    {
-      "convert": "Từ khi Minh Nguyệt Quyết tầng thứ nhất viên mãn sau, đối Phi Mao Thuật phản phệ đề kháng năng lực đại tăng, đảo cũng không cần giống trước đó như thế cẩn thận chặt chẽ, hơn nữa hắc thiềm biến thân dẫn phát sát khí muốn thua xa tại bạch viên chi bì.",
-      "dich": "Thời gian qua, hắn đã điều tra rõ lai lịch của tấm da cóc này.",
-      "suggest": "Từ khi Minh Nguyệt Quyết viên mãn, năng lực đề kháng với Phi Mao Thuật tăng lên rất nhiều, đảo cũng không cần phải cẩn thận chặt chẽ như trước, hơn nữa biến thân hắc thiềm dẫn phát sát khí còn thua xa bạch viên."
-    },
-    {
-      "convert": "Hóa thân hắc thiềm hình thái sau, Viên Minh hành động tự nhiên rất nhiều, những thứ kia lầy lội không hề tiêm nhiễm song cước, gặp được một chút vũng nước cũng có thể dễ dàng độ qua.",
-      "dich": "Nó được lấy ra từ một loại hung thú sống dưới nước tên là Hắc Văn độc thiềm(cóc độc vân đen), hiển nhiên so với biến thân vượn trắng thì hình thái này thích hợp để hành động trong hoàn cảnh bùn lầy ẩm ướt này nhiều.",
-      "suggest": "Sau khi hóa thân thành hình thái hắc thiềm, hành động của Viên Minh tự nhiên cũng nhiều hơn, những chỗ lầy lội kia không hề bị tiêm nhiễm song cước, chỉ cần chạm vào một vũng nước cũng có thể dễ dàng vượt qua."
-    },
-    {
-      "convert": "Hắn tương đối vừa ý, tăng nhanh cước bộ.",
-      "dich": "Từ sau khi Minh Nguyệt Quyết tầng thứ nhất viên mãn, khả năng chống lại Phi Mao Thuật phản phệ của hắn đã tăng nhiều, theo đó cũng không cần phải cẩn thận để ý như trước, hơn nữa sát khí sinh ra từ việc biến thân cóc đen còn kém tấm da vượn rất nhiều.",
-      "suggest": "Hắn khá hài lòng, tăng tốc bước đi."
-    },
-    {
-      "convert": "Vào thời khắc này, một chút phiến lá rộng lớn lục sắc thực vật xuất hiện tại tiền phương, trung gian nở rộ lấy mấy đóa phấn hồng sắc hình chậu đóa hoa, nhìn lên tới phảng phất hoa sen một dạng, trong gió nhẹ đưa tới một đám mùi thơm.",
-      "dich": "Sau khi hóa thân dạng cóc, Viên Minh hành động thoải mái hơn rất nhiều, bùn lầy không còn mút chặt hai chân, đồng thời nếu gặp phải một vài vũng nước cũng có thể dễ dàng nhảy qua.",
-      "suggest": "Đúng lúc này, một vài phiến lá màu xanh biếc xuất hiện trước mặt, ở giữa những phiến lá mọc đầy hoa phấn hồng, trông chúng giống như hoa sen, trong gió nhẹ thổi tới một đám hương thơm thoang thoảng."
-    },
-    {
-      "convert": "Viên Minh đang muốn tới gần chút nhìn xem, não đại đột nhiên mê man, hai chân cũng có chút phát mềm.",
-      "dich": "Hắn hài lòng cất bước nhanh hơn.",
-      "suggest": "Viên Minh đang định tới gần xem một chút thì đột nhiên đầu óc choáng váng, hai chân cũng có chút mềm nhũn."
-    },
-    {
-      "convert": "\"Hương hoa có độc!\"",
-      "dich": "Vào thời khắc này, một bụi cây màu lục với phiến lá to bản xuất hiện trước mắt, ở giữa có mấy đóa hoa hình chậu màu hồng phấn đã bung nở, thoạt nhìn khá giống hoa sen, theo gió thoảng qua tỏa ra một mùi hương thơm ngát.",
-      "suggest": "\"Hương hoa có độc!\""
-    },
-    {
-      "convert": "Tâm thần hắn một run, lập tức lui lại.",
-      "dich": "Đang khi định bước tới nhìn kỹ hơn, Viên Minh chợt thấy đầu óc choáng váng, hai chân cũng như nhũn ra.",
-      "suggest": "Tâm thần hắn run lên, lập tức lui lại."
-    },
-    {
-      "convert": "Một đạo lục ảnh từ bích lục lá sen hạ bắn ra, cắn hướng hắn bắp chân, chính là một đầu đầu dẹp lục xà.",
-      "dich": "\"Hương hoa có độc!\"",
-      "suggest": "Một bóng xanh lục từ trong tấm bích lục bắn ra, cắn thẳng vào bắp chân hắn, đúng là một con chuột lớn."
-    },
-    {
-      "convert": "Viên Minh cường chống thân thể hướng sau một nhảy, miễn cưỡng né tránh lục xà tập kích, tay phải bấm quyết điểm ra.",
-      "dich": "Hắn rùng mình, lập tức lui lại.",
-      "suggest": "Viên Minh gồng người nhảy lên, miễn cưỡng né tránh sự tập kích của lục xà, tay phải bấm quyết."
-    },
-    {
-      "convert": "Phụ cận hoa cỏ thượng nổi lên nhè nhẹ lục quang, từng căn cọng cỏ đột nhiên toàn bộ sống lại, nhào hướng đầu kia lục xà.",
-      "dich": "Một cái bóng mầu xanh từ dưới lá sen xanh bắn vọt ra, cắn về phía bắp chân của hắn, nhìn kỹ thì là một con rắn đầu bẹt.",
-      "suggest": "Trên từng phiến hoa cỏ xung quanh bỗng nhiên nổi lên ánh sáng xanh nhè nhẹ, từng cọng cỏ đột nhiên sống lại, nhào về phía đầu lục xà kia."
-    },
-    {
-      "convert": "Lục xà cũng là cả kinh, vội vàng tránh trái tránh phải, những thứ kia cọng cỏ từ bốn phương tám hướng bao vây nó, lục xà căn bản tránh cũng không thể tránh, rất nhanh liền bị quấn lấy.",
-      "dich": "Viên Minh gắng chống người nhảy lui về phía sau, vừa vặn tránh được đòn đánh lén của con rắn, đồng thời nhấc tay phải bấm niệm pháp quyết rồi điểm tới.",
-      "suggest": "Lục xà cũng cả kinh, vội vàng tránh trái tránh phải, những cọng cỏ kia từ bốn phương tám hướng vây khốn nó, nó căn bản không thể tránh né, rất nhanh bị quấn lấy."
-    },
-    {
-      "convert": "Những thứ này cọng cỏ đó đây giao thoa xuyên mắc, trong chớp mắt hình thành một cái lồng cỏ, đem lục xà cấm cố tại bên trong.",
-      "dich": "Từng tia sáng xanh nổi lên trên đám cỏ cây xung quanh, ngay sau đó, những nhánh cỏ kia bỗng như sống dậy, nhào về phía con rắn.",
-      "suggest": "Những cọng cỏ này giao thoa với nhau, trong nháy mắt hình thành một cái lồng, nhốt lục xà vào bên trong."
-    },
-    {
-      "convert": "Lục xà trên người có linh lực ba động, thực lực không kém, mà những thứ này cọng cỏ tối đa ngón tay thô, theo lý thuyết một tránh liền đoạn, có thể vô luận lục xà thế nào vặn vẹo thân thể, đều vô pháp tránh thoát xuất ra, ngược lại bị càng quấn càng chặt, tối hậu triệt để không thể động đậy.",
-      "dich": "Rắn xanh cả kinh, vội vàng tránh phải né trái, nhưng những nhánh cỏ kia bao vây nó từ khắp bốn phía xung quanh, cơ bản là muốn tránh cũng không tránh hết, rất nhanh liền bị quấn lấy.",
-      "suggest": "Linh lực trên người con chuột lớn có ba động, thực lực không kém. Mà ngón tay cái của con chuột này tối đa chỉ bằng ngón tay cái, theo lý thuyết một tránh một lọt, có thể bất luận nó vặn vẹo thân thể thế nào, cũng không cách nào thoát ra được, ngược lại càng vặn vẹo càng chặt, cuối cùng không thể động đậy."
-    },
-    {
-      "convert": "Viên Minh lui về sau hảo một đoạn cự ly, triệt để cách xa những thứ kia phấn hồng hoa sen mới dừng lại, khoanh chân ngồi xuống vận chuyển Cửu Nguyên Quyết, ý đồ hóa giải độc tố.",
-      "dich": "Những nhánh cỏ kia đan xen vào nhau, chỉ chớp mắt đã tạo thành một cái lồng cỏ, nhốt rắn xanh vào bên trong.",
-      "suggest": "Viên Minh lui lại sau một đoạn ngắn, hoàn toàn cách xa những đóa hoa hồng phấn kia mới dừng lại, khoanh chân ngồi xuống vận chuyển Cửu Nguyên Quyết, ý đồ hóa giải độc tố."
-    },
-    {
-      "convert": "Tiến giai Luyện Khí lục tầng sau, hắn pháp lực lại hùng hậu một chút, đã có thể thẩm thấu đến ngũ tạng lục phủ, tùy theo pháp lực vận chuyển, đầu choáng bủn rủn cảm giác cấp tốc biến mất, rất nhanh khôi phục rồi qua tới.",
-      "dich": "Trên người rắn xanh có linh lực ba động, thực lực không kém, trong khi những nhánh cỏ kia to nhất cũng chỉ bằng ngón tay, theo lý thuyết thì chỉ cần nó cựa quậy chút sẽ bị gãy hết, thế nhưng bất luận rắn xanh quay cuồng xoắn vặn thân thể thế nào cũng không thoát ra được, trái lại càng lúc càng bị quấn chặt, cuối cùng không thể động đậy gì nữa.",
-      "suggest": "Sau khi tiến giai Luyện Khí tầng thứ bảy, pháp lực của hắn đã có thể thâm nhập vào trong ngũ tạng lục phủ, tùy theo pháp lực vận chuyển mà cảm giác đầu choáng chóng mặt nhanh chóng biến mất, rất nhanh khôi phục lại."
-    },
-    {
-      "convert": "Viên Minh mới lại khởi thân, nhìn hướng không thể động đậy thanh xà, mục quang hơi hơi thiểm động.",
-      "dich": "Viên Minh lùi lại một quãng đủ để tránh xa những bông sen màu hồng phấn kia, rồi mới dừng lại, khoanh chân ngồi xuống vận chuyển Cửu Nguyên Quyết để hóa giải độc tố.",
-      "suggest": "Viên Minh mới khởi động cơ thể, nhìn về phía con rắn không thể động đậy kia, ánh mắt có phần thất vọng."
-    },
-    {
-      "convert": "Cái này lồng cỏ chính là Mộc Lao Thuật, hắn vẫn là lần thứ nhất tại thực chiến trung thi triển.",
-      "dich": "Sau khi tấn cấp Luyện Khí tầng sáu, pháp lực của hắn lại hùng hậu thêm một chút, đã có thể thẩm thấu đến lục phủ ngũ tạng, theo sự vận chuyển của pháp lực, cảm giác đầu váng chân run nhanh chóng biến mất, cả người khôi phục lại như trước.",
-      "suggest": "Lồng cỏ này chính là Mộc Lao Thuật, đây là lần đầu tiên hắn thi triển nó trong thực chiến."
-    },
-    {
-      "convert": "Cùng Mộc Thứ Thuật bất đồng, Mộc Lao Thuật ham muốn dựa vào phụ cận thực vật cấm cố địch nhân, bởi vậy cái này pháp thuật uy lực lớn nhỏ, nhất định trình độ thượng quyết định bởi tại dùng chủng nào thực vật thi triển cái này pháp thuật.",
-      "dich": "Viên Minh lúc này mới đứng dậy, nhìn về phía rắn xanh bị trói cứng, ánh mắt khẽ chớp động.",
-      "suggest": "Khác với Mộc Thứ Thuật, Mộc Lao Thuật muốn dựa vào thực vật để cấm cố địch nhân, bởi vậy uy lực của pháp thuật này quyết định bởi trình độ thi triển loại pháp thuật này."
-    },
-    {
-      "convert": "Những thứ này cọng cỏ tính chất yếu ớt, hình thành lồng giam vậy mà có thể vây khốn này đầu lục xà, như là dùng cái khác cứng cỏi thụ mộc thi triển Mộc Lao Thuật, cấm cố chi năng nhất định càng lớn.",
-      "dich": "Lồng cỏ này chính là Mộc Lao thuật mà hắn lần đầu tiên thi triển trong thực chiến.",
-      "suggest": "Những cọng cỏ này có tính chất yếu ớt, hình thành lồng giam, có thể dùng những cây gỗ cứng cỏi để thi triển Mộc Lao Thuật, năng lực cấm cố nhất định càng lớn."
-    },
-    {
-      "convert": "Viên Minh đưa tay một chiêu, vài căn cọc gỗ từ phấn sắc hoa sen phụ cận toát ra, đem mấy đóa hoa xoắn bột mịn, không khí trung mùi thơm rất nhanh triệt để tiêu tán.",
-      "dich": "Khác với Mộc Thứ Thuật, Mộc Lao thuật cần dựa vào thực vật xung quanh để giam cầm kẻ địch, vậy nên uy lực của pháp thuật lớn hay nhỏ phụ thuộc không ít vào loại thực vật dùng để thi triển pháp thuật này.",
-      "suggest": "Viên Minh vung tay một chiêu, vài cái cọc gỗ từ xung quanh có rải bột phấn, khiến mùi thơm của hoa sen rất nhanh bị thổi bay."
-    },
-    {
-      "convert": "Hắn tại nguyên địa chờ đợi một trận, mới lại đi qua, trảo lấy lục xà não đại, khẩu trung niệm niệm từ ngữ.",
-      "dich": "Những nhánh cỏ kia thân mình yếu ớt, vậy mà lồng giam tạo ra từ chúng vẫn có thể vây khốn con rắn xanh, nếu dùng những cây côi cứng rắn hơn để thi triển Mộc Lao thuật, hiệu quả giam cầm nhất định sẽ lớn hơn.",
-      "suggest": "Hắn đứng nguyên tại chỗ chờ đợi một hồi lâu mới đi tới, cầm lấy cái đầu lục xà não, trong miệng niệm chú ngữ."
-    },
-    {
-      "convert": "Từng sợi hắc khí từ hắn chưởng tâm tuôn ra, càng ngày càng nhiều, dần dần che mất lục xà não đại.",
-      "dich": "Viên Minh nhấc tay vẫy nhẹ, tức thì mấy cây gai gỗ từ chỗ quanh đám hoa sen màu hồng trồi lên, chọc mấy đóa hoa vỡ nát, mùi hương trong không khí theo đó nhanh chóng tiêu tan.",
-      "suggest": "Từng sợi khí đen từ chưởng tâm hắn tuôn ra, càng ngày càng nhiều, dần dần che mất đại não của con chuột lớn."
-    },
-    {
-      "convert": "Cùng lúc đó, Viên Minh chỗ mi tâm bắt đầu hiện ra một chút nhàn nhạt ngân sắc hoa văn, cấp tốc hướng cánh tay lan tràn, rất nhanh đến nơi.",
-      "dich": "Hắn đứng nguyên tại chỗ chờ một lúc rồi mới đi qua, tóm đầu con rắn, miệng lẩm bẩm.",
-      "suggest": "Cùng lúc đó, mi tâm Viên Minh bắt đầu xuất hiện một vài hoa văn màu bạc nhàn nhạt, nhanh chóng lan tràn ra cánh tay."
-    },
-    {
-      "convert": "\"Phốc\" một tiếng vang nhỏ, hắn chưởng tâm hắc khí cuồng vũ mà lên, hóa thành từng căn hắc sắc xúc tua, hướng lục xà não đại chui vào.",
-      "dich": "Từng sợi khói đen từ lòng bàn tay hắn tuôn ra, càng lúc càng nhiều, dần dần bao phủ đầu con rắn.",
-      "suggest": "Một tiếng 'phốc' nhỏ vang lên, hắc khí trong tay hắn điên cuồng vũ động, hóa thành từng sợi từng sợi hắc khí, chui thẳng vào trong đầu con chuột lớn màu đen."
-    },
-    {
-      "convert": "Lục xà đột nhiên mặt lộ thống khổ chi sắc, không ngừng vùng vẫy.",
-      "dich": "Cùng lúc đó, chỗ mi tâm Viên Minh bắt đầu xuất hiện một ít đường vân màu bạc.",
-      "suggest": "Mặt Lục Xà đột nhiên lộ vẻ thống khổ, không ngừng giãy dụa."
-    },
-    {
-      "convert": "Nhưng mà Viên Minh tay giống như vòng sắt loại, một mực trảo lấy lục xà, thủ trung hắc sắc càng phát ra nồng đậm, càng nhanh tiến vào lục xà não đại.",
-      "dich": "Những đường vân màu bạc này sau đó nhanh chóng lan tràn xuống phía cánh tay, nhoáng cái đã lan tới bàn tay.",
-      "suggest": "Nhưng Viên Minh tay giống như vòng sắt, một mực bám lấy lục xà, trong tay hắc sắc càng phát ra nồng đậm hơn, nhanh chóng tiến vào trong não bộ lục xà."
-    },
-    {
-      "convert": "Lục xà thống khổ chi sắc càng nặng, trong miệng phát ra khàn khàn tiếng kêu.",
-      "dich": "Một tiếng \"phốc\" nhỏ vang lên, khói đen trong lòng bàn tay hắn quay cuồng bốc lên, hóa thành những xúc to đen chui vào trong đầu rắn xanh.",
-      "suggest": "Sắc mặt con gấu càng thêm đau khổ, miệng kêu lên những tiếng khàn khàn."
-    },
-    {
-      "convert": "Thời gian từng điểm qua đi, lục xà não đại trong đột nhiên phát ra phanh một tiếng nhẹ vang, tựa hồ có cái gì đông tây bạo liệt ra, rắn này thân thể biến đổi mềm mại, không có khí tức.",
-      "dich": "Rắn xanh đột nhiên lộ vẻ thống khổ, không ngừng giãy dụa.",
-      "suggest": "Thời gian từng chút một trôi qua, trong đầu lục xà đột nhiên phát ra một tiếng phanh nhẹ, tựa như có thứ gì đó nổ tung ra, thân thể rắn này trở nên mềm mại, không có khí tức."
-    },
-    {
-      "convert": "Viên Minh biểu tình cứng đờ, buông tay ra.",
-      "dich": "Nhưng bàn tay Viên Minh như kềm sắt tóm chặt rắn xanh, đồng thời khói đen từ trong tay tỏa ra càng lúc càng dày, chui vào đầu rắn xanh cũng nhanh hơn.",
-      "suggest": "Viên Minh mặt cứng đơ, buông tay ra."
-    },
-    {
-      "convert": "\"Ngự Thú Thuật quả nhiên gian nan, ta đã tận khả năng cẩn thận, nhưng vẫn hủy rắn này thần hồn.\"",
-      "dich": "Vẻ thống khổ của rắn xanh càng nặng nề hơn, miệng phát ra những tiếng kêu khàn khàn.",
-      "suggest": "\"Ngự Thú Thuật quả nhiên gian nan, ta đã tận sức cẩn thận, nhưng vẫn hủy mất thần hồn rắn này.\""
-    },
-    {
-      "convert": "Hắn thở thật dài.",
-      "dich": "Một lúc lâu trôi qua, trong đầu rắn xanh đột nhiên phát ra một tiếng 'bụp' nhỏ, nghe như có thứ gì đó nổ tung, theo đó thân thể con rắn liền mềm oặt, không còn hơi thở.",
-      "suggest": "Hắn thở dài."
-    },
-    {
-      "convert": "Vài ngày nay hắn ám trung luyện tập, tự nhận đã đem Ngự Thú Thuật luyện tập thuộc như cháo, không nghĩ tới thực tế nếm thử thi triển lúc mới phát hiện, hoàn toàn không phải có chuyện như vậy.",
-      "dich": "Viên Minh mặt mũi cứng đờ, buông tay ra.",
-      "suggest": "Mấy ngày nay hắn luyện tập trong phòng, tự nhận đã luyện Ngự Thú Thuật từ lâu rồi, không ngờ khi thử nghiệm thi triển mới phát hiện ra điều này, hoàn toàn không phải là như vậy."
-    },
-    {
-      "convert": "Ngự Thú Thuật mấu chốt ở chỗ áp đảo hung thú thần chí, nhưng mà thần hồn vốn liền yếu ớt, hơi không lưu ý liền sẽ trực tiếp bị kích sát.",
-      "dich": "\"Ngự Thú Thuật quả nhiên gian nan, ta đã cẩn thận hết mức mà vẫn hủy mất thần hồn của con rắn này.\"",
-      "suggest": "Điểm mấu chốt của Ngự Thú Thuật là áp đảo thần chí hung thú, nhưng thần hồn vốn đã yếu ớt, chỉ cần hơi lơ là là sẽ bị tấn công trực tiếp."
-    },
-    {
-      "convert": "\"Nhìn tới, muốn nhiều luyện tập mới được.\"",
-      "dich": "Những ngày qua hắn âm thầm luyện tập, tự thấy mình đã nắm vững từng chi tiết của Ngự Thú Thuật, không ngờ lúc thực hành mới phát hiện, hoàn toàn không phải như vậy.",
-      "suggest": "\"Xem ra phải luyện tập nhiều mới được.\""
-    },
-    {
-      "convert": "Viên Minh thầm nghĩ trong lòng, tiếp tục đi tới.",
-      "dich": "Điểm mấu chốt của Ngự Thú Thuật là việc áp đảo thần chí của hung thú, nhưng thần hồn vốn rất mỏng manh, chỉ hơi mất tập trung là sẽ thành đánh chết ngay.",
-      "suggest": "Viên Minh thầm nghĩ xong liền tiếp tục đi tới."
-    },
-    {
-      "convert": "Tầm nửa ngày sau, đầm lầy một chỗ thủy thảo tươi tốt địa phương.",
-      "dich": "\"Xem ra còn cần phải tập luyện nhiều hơn mới được.\"",
-      "suggest": "Tầm nửa ngày sau, một chỗ trong đầm lầy có một đầm lầy trù phú."
-    },
-    {
-      "convert": "Viên Minh dùng Mộc Lao Thuật cấm cố trụ một đầu cao cỡ nửa người hôi hồ hung thú, bàn tay đặt tại hôi hồ não đại thượng, từng cỗ hắc khí chen chúc chú nhập kia trung.",
-      "dich": "Viên Minh thầm nghĩ trong lòng, tiếp tục đi tới.",
-      "suggest": "Viên Minh dùng Thuật Mộc Lao cấm chế một hung thú nửa người nửa người, đặt một bàn tay lên đầu của nó, từng cỗ khí đen cuồn cuộn tràn vào trong."
-    },
-    {
-      "convert": "Hôi hồ thống khổ rên rỉ, thân thể run rẩy không thôi.",
-      "dich": "Khoảng nửa ngày sau, tại một chỗ cỏ nước tốt tươi trong đầm lầy.",
-      "suggest": "Hôi hồ thống khổ rên rỉ, thân thể run rẩy không thôi."
-    },
-    {
-      "convert": "Viên Minh không chút nào để ý, trong miệng niệm niệm từ ngữ, tiếp tục thi pháp.",
-      "dich": "Viên Minh dùng Mộc Lao thuật giam cầm một con hung thú cáo xám cao bằng nửa người thường, bàn tay đặt trên đầu nó, đồng thời một đám khói đen chen chúc chui vào trong đó.",
-      "suggest": "Viên Minh không thèm để ý, miệng niệm từ, tiếp tục thi pháp."
-    },
-    {
-      "convert": "Đây đã là hắn lần thứ năm nếm thử thu phục hung thú, tiền diện bốn lần toàn bộ thất bại, hung thú toàn bộ thần hồn bạo liệt mà chết.",
-      "dich": "Cáo xám thống khổ rên rỉ, thân thể không ngừng run rẩy.",
-      "suggest": "Đây đã là lần thứ năm hắn nếm thử thu phục hung thú, bốn lần đều thất bại, hung thú toàn thân điên cuồng mà chết."
-    },
-    {
-      "convert": "Bất quá mỗi lần thất bại, Viên Minh đều sẽ tổng kết kinh nghiệm, đối Ngự Thú Thuật sử dụng càng phát ra thành thạo, hắn cảm giác cự ly thành công đã càng ngày càng gần.",
-      "dich": "Viên Minh vẫn không hề bận tâm, miệng lẩm nhẩm, tiếp tục thi pháp.",
-      "suggest": "Tuy nhiên mỗi lần thất bại, Viên Minh đều tổng kết kinh nghiệm, sử dụng Ngự Thú Thuật càng ngày càng thành thạo, hắn cảm giác được khoảng cách thành công càng lúc càng gần."
-    },
-    {
-      "convert": "Thời gian qua rất nhanh một khắc chuông, hôi hồ vẫn tại thống khổ vùng vẫy, thần hồn nhưng không có bạo liệt.",
-      "dich": "Đây đã là lần thứ năm hắn thử nghiệm thu phục hung thú, bốn lần trước đều thất bại, toàn bộ hung thú đều thần hồn nổ tung mà chết.",
-      "suggest": "Thời gian trôi qua rất nhanh, nhưng hồ ly vẫn đang thống khổ vùng vẫy, thần hồn vẫn không hề bạo liệt."
-    },
-    {
-      "convert": "Nó nhãn trung hung quang càng ngày càng yếu, lại qua một hồi, chung quy vang trầm một tiếng, truyền đến khuất phục ý niệm.",
-      "dich": "Có điều mỗi lần thất bại, Viên Minh đều tổng kết kinh nghiệm, từ đó hắn sử dụng Ngự Thú Thuật càng thêm thuần thục, cảm giác khoảng cách đến lúc thành công đã càng lúc càng gần.",
-      "suggest": "Hung quang trong mắt nó càng ngày càng yếu, lại qua một hồi, cuối cùng truyền đến một ý niệm khuất phục."
-    },
-    {
-      "convert": "\"Chung quy thành rồi!\" Viên Minh trong mắt vui vẻ, lại đột nhiên đình chỉ thi pháp, thu hồi bàn tay, cấm cố trụ hôi hồ lồng gỗ cũng tùy theo tản ra.",
-      "dich": "Thời gian một khắc đồng hồ trôi qua rất nhanh, cáo xám vẫn đang giãy dụa nhưng thần hồn nó không bị nổ tung.",
-      "suggest": "\"Chung quy thành!\" Viên Minh vui vẻ, nhưng đột nhiên đình chỉ thi pháp, thu bàn tay lại, lồng gỗ giữ lại hồ ly cũng theo đó tản ra."
-    },
-    {
-      "convert": "Hôi hồ khôi phục rồi tự do, sửng sốt một chút mới kịp phản ứng, quay người hướng nơi xa đào tẩu, trong chớp mắt biến mất tại đầm lầy chỗ sâu.",
-      "dich": "Hung quang trong mắt nó càng ngày càng yếu, thêm một lúc nữa, rốt cuộc kêu khẽ một tiếng tỏ ý khuất phục.",
-      "suggest": "Hôi hồ khôi phục lại tự do, hơi sửng sốt một chút mới kịp phản ứng, quay người chạy trốn về phía xa, chỉ chớp mắt đã biến mất ở sâu trong đầm lầy."
-    },
-    {
-      "convert": "Viên Minh đưa mắt nhìn hôi hồ đào tẩu, không có bất kỳ cử động.",
-      "dich": "\"Cuối cùng cũng thành!\" Viên Minh mừng rỡ, lập tức dừng thi pháp, thu tay lại, lồng cây giam giữ cáo xám theo đó cũng tán đi.",
-      "suggest": "Viên Minh đưa mắt nhìn con hồ ly chạy trốn, không có bất kỳ động tĩnh nào."
-    },
-    {
-      "convert": "Căn cứ Tam động chủ cấp hắn cốt giản sở thuật, dùng Ngự Thú Thuật khống chế linh thú, liên lụy đến thần hồn chi lực, Luyện Khí kỳ tu sĩ thần hồn quá yếu, chỉ có thể thu phục thao khống một đầu linh thú.",
-      "dich": "Cáo xám khôi phục tự do, thoáng sửng sốt một chút rồi mới kịp phản ứng, xoay người chạy trốn về phía xa, chỉ chớp mắt đã biến mất ở chỗ sâu trong đầm lầy.",
-      "suggest": "Căn cứ vào sở thuật cốt giản mà Tam động chủ cấp cho hắn, dùng Ngự Thú Thuật khống chế linh thú, liên quan đến thần hồn lực, tu sĩ Luyện Khí kỳ thần hồn quá yếu, chỉ có thể thu phục được một đầu linh thú."
-    },
-    {
-      "convert": "Cái này hôi hồ chỉ là một đầu nhất cấp trung giai hung thú, cũng không có đặc biệt năng lực, Viên Minh tự nhiên không lại chọn kia đương chính mình linh thú.",
-      "dich": "Viên Minh đưa mắt nhìn cáo xám chạy trốn, không có bất kỳ hành động nào.",
-      "suggest": "Con hồ ly này chỉ là một hung thú cấp một bậc trung, cũng không có năng lực đặc biệt gì, Viên Minh đương nhiên sẽ không chọn con linh thú của mình."
-    },
-    {
-      "convert": "Hắn tiếp tục hướng về phía trước đi, tìm kiếm vừa ý hung thú.",
-      "dich": "Căn cứ theo nội dung trong cốt giản mà Tam động chủ đưa cho hắn, việc dùng Ngự Thú Thuật khống chế linh thú có liên hệ mật thiết đến lực lượng thần hồn, thần hồn của tu sĩ Luyện Khí kỳ quá yếu, chỉ có thể thu phục, điều khiển một con linh thú.",
-      "suggest": "Hắn lại tiếp tục tiến về trước, tìm kiếm hung thú vừa ý."
-    },
-    {
-      "convert": "Phiến này đầm lầy diện tích rộng rãi, xa tại trước đó Tử Phong Lâm, Hắc Tùng Lâm phía trên, đầm lầy nội sinh sống hung thú cũng nhiều, đáng tiếc thực lực lại cũng rất bình thường, đều là hạ giai, trung giai trình độ, xa xa không thể cùng lần trước gặp được bốn mắt kim viên, hắc sắc cự nha, Địa Hành Yêu so sánh, không có thu làm linh thú giá trị.",
-      "dich": "Cáo xám chỉ là một con hung thú cấp một bậc trung, hơn nữa không có năng lực đặc biệt gì, Viên Minh đương nhiên sẽ không chọn nó làm linh thú của mình.",
-      "suggest": "Diện tích đầm lầy này khá rộng, hơn xa những đầm lầy trước đó như Tử Phong Lâm, Hắc Tùng Lâm, ..., hung thú sinh sống cũng nhiều, đáng tiếc thực lực lại bình thường, đều là trình độ trung giai, trung giai, xa xa không thể so sánh với bốn con chim nhỏ màu vàng kim, đen sì, Địa Hành Yêu, không có giá trị linh thú."
-    },
-    {
-      "convert": "Mãi cho đến trời tối, Viên Minh cũng không thể tìm được thích hợp thu phục đối tượng.",
-      "dich": "Hắn tiếp tục đi tới phía trước để tìm kiếm hung thú.",
-      "suggest": "Mãi cho đến tận đêm, Viên Minh vẫn chưa tìm được đối tượng thích hợp để thu phục."
-    },
-    {
-      "convert": "Hắn không có sốt ruột, cũng không có ly khai nơi đây, lấy ra một đỉnh trướng bồng, tại một chỗ mặt đất coi như khô ráo địa phương hạ trại nghỉ ngơi.",
-      "dich": "Diện tích đầm lầy này lớn hơn nhiều so với rừng phong tím và rừng tùng đen trước đó, trong đầm lầy cũng có rất nhiều hung thú sinh sống, đáng tiếc thực lực của chúng đều ở mức trung bình, hơn nữa đều là trình độ bậc thấp, bậc trung, còn xa mới so được với kim viên bốn mắt, cự nha màu đen hay địa hành yêu, không đáng để thu làm linh thú.",
-      "suggest": "Hắn không sốt ruột, cũng không rời khỏi nơi đây, lấy một cái lều bạt trên mặt đất, hạ trại nghỉ ngơi tại một nơi khô ráo, khô ráo."
-    },
-    {
-      "convert": "Bởi vì tại lạ lẫm hoàn cảnh, một đêm này Viên Minh đều không có ngủ, một mực đang nhắm mắt đả tọa, thật cũng không có phát sinh ngoài ý muốn.",
-      "dich": "Mãi tới khi trời tối, Viên Minh vẫn chưa thể tìm được đối tượng phù hợp để thu phục.",
-      "suggest": "Bởi vì trong hoàn cảnh khác thường, một đêm này Viên Minh không ngủ, vẫn đang nhắm mắt đả tọa, thật sự không có phát sinh bất ngờ nào."
-    },
-    {
-      "convert": "Ngày hôm sau, Viên Minh tiếp tục xuất phát.",
-      "dich": "Hắn không vội cũng không rời khỏi chỗ này, trái lại còn lấy ra một cái lều vải, tìm chỗ mặt đất tương đối khô ráo hạ trại nghỉ ngơi.",
-      "suggest": "Ngày hôm sau, Viên Minh tiếp tục xuất phát."
-    },
-    {
-      "convert": "Tiền phương đầm lầy vũng nước càng ngày càng ít, khô ráo khu vực bắt đầu gia tăng.",
-      "dich": "Do ở trong một môi trường xa lạ, Viên Minh cả đêm không ngủ, một mực nhắm mắt ngồi thiền định, cũng may không xảy ra nguy hiểm gì.",
-      "suggest": "Nước sông đầm lầy càng lúc càng ít, độ ẩm không khí quanh đó bắt đầu gia tăng."
-    },
-    {
-      "convert": "\"Chung quy phải ly khai phiến này khu vực.\"",
-      "dich": "Ngày hôm sau, Viên Minh tiếp tục lên đường.",
-      "suggest": "\"Chắc chắn phải rời khỏi khu vực này.\""
-    },
-    {
-      "convert": "Viên Minh sắc mặt buông lỏng, hơi chút tăng nhanh cước bộ.",
-      "dich": "Đầm lầy phía trước càng ngày càng thấy ít nước đọng, khu vực khô ráo bắt đầu gia tăng.",
-      "suggest": "Viên Minh thả lỏng thần sắc, cước bộ nhanh hơn một chút."
-    },
-    {
-      "convert": "Phiến này đầm lầy bùn lắng khắp nơi, xú khí tràn ngập, hoàn cảnh tương đối ác liệt, có thể ly khai nơi đây, hắn cũng tương đối cao hứng.",
-      "dich": "\"Cuối cùng cũng sắp ra khỏi chỗ này.\"",
-      "suggest": "Đầm lầy bùn lầy khắp nơi, xú khí tràn ngập, hoàn cảnh tương đối ác liệt, có thể rời khỏi nơi đây, hắn cũng khá cao hứng."
-    },
-    {
-      "convert": "Hướng phía trước đi ra gần dặm, Viên Minh đột nhiên dừng lại cước bộ.",
-      "dich": "Viên Minh thần sắc thoáng thả lỏng, bước chân nhanh hơn một chút.",
-      "suggest": "Đi được nửa dặm về phía trước, Viên Minh đột nhiên dừng bước."
-    },
-    {
-      "convert": "Tiền phương xuất hiện một phiến bích lục sắc lá sen, trung gian điểm xuyết lấy từng đóa phấn sắc đại hoa, chính là trước kia gặp được qua kịch độc hoa sen.",
-      "dich": "Mảnh đầm lầy toàn bùn đất này khắp nơi tràn ngập mùi hôi thối, môi trường tương đối khắc nghiệt, có thể rời khỏi chỗ này hắn cũng khá vui vẻ.",
-      "suggest": "Tiền phương xuất hiện một phiến lá sen màu xanh biếc, ở giữa điểm xuyết từng đóa hoa phấn, chính là hoa sen mà hắn đã gặp trước đây."
-    },
-    {
-      "convert": "Cùng trước đó vài cọng bích liên bất đồng, nơi đây bụi sen diện tích dị thường lớn, đem tiền phương khu vực toàn bộ chiếm cứ, lấy Viên Minh thị lực cũng nhìn không tới đầu cuối, từng đóa phấn hồng lá sen đứng vững kia trung, đón gió nhộn nhạo, không biết có mấy nghìn đóa.",
-      "dich": "Đi tới trước thêm gần một dặm, Viên Minh đột nhiên dừng bước.",
-      "suggest": "Khác với vài cọng bích liên trước đây, bụi sen nơi đây có diện tích dị thường lớn, toàn bộ khu vực xung quanh đều chiếm cứ, với thị lực của Viên Minh cũng không thể nhìn ra đầu cuối, từng đóa hoa sen màu phấn hồng đứng vững giữa không trung, đón gió thổi tới, không biết có mấy nghìn đóa."
-    },
-    {
-      "convert": "Viên Minh xa xa nhìn thấy những thứ kia phấn sắc hoa sen, dừng lại cước bộ.",
-      "dich": "Đằng trước xuất hiện một bãi sen lá xanh ngắt, ở giữa điểm xuyết những đóa hoa lớn màu hồng, chính là loại sen độc mà hắn gặp lúc trước.",
-      "suggest": "Viên Minh từ xa xa thấy những đóa sen màu phấn hồng kia, dừng bước lại."
-    },
-    {
-      "convert": "Như vậy nhiều hoa sen tụ tập, phấn hoa chi độc độ dày nhất định không là trước kia có thể so, trúng chiêu tựu phiền toái rồi.",
-      "dich": "Khác với mấy cây sen xanh trước đó, bãi sen này chiếm diện tích lớn dị thường, gần như chiếm hết khu vực đằng trước, lấy thị lực của Viên Minh cũng không nhìn thấy điểm cuối, từng đóa từng đóa hoa sen màu hồng phấn đứng trong đó, theo gió dập dờn, không biết có mấy ngàn đóa.",
-      "suggest": "Nhiều hoa sen tụ tập như vậy, độ dày của phấn hoa nhất định không phải như trước kia, trúng chiêu sẽ phiền toái."
-    },
-    {
-      "convert": "Viên Minh hướng bên cạnh tiến qua, dự định vượt qua phiến này bụi sen.",
-      "dich": "Viên Minh thấy những đóa sen hồng kia từ phía xa xa, bèn dừng bước.",
-      "suggest": "Viên Minh bước qua bên cạnh, toan vượt qua bụi sen kia."
-    },
-    {
-      "convert": "Vào thời khắc này, \"Xuy xuy\" thanh âm từ bụi hoa trung truyền ra, tiếp lấy từng đầu lục sắc độc xà rậm rạp chằng chịt du tẩu mà ra, chính là trước kia chủng kia lục xà, chừng khoảng bốn năm mươi đầu đông đúc, toàn bộ hướng Viên Minh nhào tới.",
-      "dich": "Nhiều hoa sen như vậy tập ở một chỗ, nồng độ phấn độc chắc chắn hơn xa trước kia, bị trúng phải sẽ rất phiền phức.",
-      "suggest": "Đúng lúc này, tiếng 'Xuy xuy' từ trong bụi hoa truyền ra, tiếp đó là từng con độc xà màu xanh rậm rạp chằng chịt du tẩu ra, chính là những con đông đúc trước kia, chừng bốn năm mươi con nhào tới tấn công Viên Minh."
-    },
-    {
-      "convert": "Viên Minh sắc mặt khẽ biến, lại cũng không có quá để ý, quay người liền hướng nơi xa bay ngược.",
-      "dich": "Viên Minh cất bước đi về phía bên cạnh, dự định vòng qua bãi sen này.",
-      "suggest": "Viên Minh khẽ biến sắc mặt, nhưng cũng không quá để tâm, quay người bay ngược về phía xa."
-    },
-    {
-      "convert": "Như vậy khoáng đạt cự ly, lục xà không khả năng đuổi đến thượng hắn.",
-      "dich": "Đúng vào lúc này, liên tiếp những tiếng 'xì xì' từ trong bãi sen truyền ra, tiếp đó là vô số những con rắn độc màu xanh nối đuôi nhau lao ra, đếm sơ có khoảng bốn, năm mươi con, tất cả đều nhào về phía Viên Minh.",
-      "suggest": "Cự ly ngắn như vậy, lục xà không có khả năng đuổi kịp hắn."
-    },
-    {
-      "convert": "Quả nhiên, lục xà đám đuổi một đoạn cự ly liền ngừng lại, đối với Viên Minh tê khiếu một trận, toàn bộ quay trở về bụi hoa.",
-      "dich": "Viên Minh hơi biến sắc nhưng cũng không lo lắng lắm, chỉ quay người bay ngược về phía xa.",
-      "suggest": "Quả nhiên, đám lục xà đuổi được một đoạn thì dừng lại, đánh cho đám tê khiếu Viên Minh một trận, xong liền quay trở về bụi hoa."
-    },
-    {
-      "convert": "Viên Minh chân mày khẽ động, vừa mới những thứ kia lục xà tiếng kêu, kèm lấy uy hiếp ý tứ, tựa hồ đang cảnh cáo hắn không nên tới gần.",
-      "dich": "Khoảng cách lớn như vậy, bầy rắn xanh không có khả năng đuổi kịp hắn.",
-      "suggest": "Viên Minh khẽ nhíu mày, những tiếng lục xà kêu vang kia, kèm theo ý uy hiếp, tựa hồ đang cảnh cáo hắn không nên tới gần."
-    },
-    {
-      "convert": "\"Ta vừa rồi cự ly bụi hoa tương đối xa, theo lý thuyết tương ứng không có đi tiến những thứ kia lục xà phạm vi công kích, chúng nó lại như thế cảnh giác, chẳng lẽ trong bụi hoa có cái gì đông tây?\"",
-      "dich": "Quả nhiên, đám rắn xanh kia đuổi được một đoạn liền dừng lại, gào rít dọa dẫm Viên Minh một hồi rồi quay về chỗ bãi sen.",
-      "suggest": "\"Vừa rồi ta cách bụi hoa tương đối xa, theo lý thuyết thì chúng sẽ không đi vào phạm vi công kích của những con lục xà kia, chúng nó lại càng cảnh giác như thế, chẳng lẽ trong bụi hoa có thứ gì đó lạ?\""
-    },
-    {
-      "convert": "Hắn tâm trạng nổi lên một tia hiếu kỳ.",
-      "dich": "Viên Minh hơi chau mày híp mắt như ngẫm nghĩ.",
-      "suggest": "Trong lòng hắn nổi lên một chút tò mò."
-    },
-    {
-      "convert": "Cân nhắc khoảnh khắc, Viên Minh vẫn là lắc lắc đầu, buông tha dò xét tưởng pháp.",
-      "dich": "Tiếng kêu của đám rắn xanh vừa rồi mang theo ý uy hiếp, tựa như đang cảnh cáo hắn không được đến gần.",
-      "suggest": "Trong khi cân nhắc, Viên Minh vẫn lắc lắc đầu, buông tha cho việc suy nghĩ."
-    },
-    {
-      "convert": "Trong bụi hoa trải rộng hoa độc, còn có những thứ kia lục xà độc xà, hắn tịnh không thủ đoạn có thể ứng đối thứ này nguy hiểm, vẫn là không nên đa sự cho thỏa đáng.",
-      "dich": "\"Ta vừa rồi còn cách bãi sen tương đối xa, theo lý thuyết hẳn là chưa đi vào phạm vi công kích của đám rắn kia.",
-      "suggest": "Trong bụi hoa đầy hoa độc, còn có những độc xà lục xà kia, hắn cũng không có thủ đoạn để đối phó với thứ nguy hiểm này, vẫn nên đa sự cho thỏa đáng."
-    },
-    {
-      "convert": "Viên Minh dọc theo bụi hoa biên giới, hướng trước lượn quanh mà đi.",
-      "dich": "Bọn chúng lại cảnh giác như thế, hẳn là trong bãi sen có thứ gì đó?\"",
-      "suggest": "Viên Minh men theo rìa bụi hoa, lượn trước về phía trước."
-    },
-    {
-      "convert": "Quác quác quác......",
-      "dich": "Lòng hắn nổi lên một tia hiếu kỳ.",
-      "suggest": "Quác quác ..."
-    },
-    {
-      "convert": "Một trận chói tai tiếng kêu từ hậu phương đầm lầy nội truyền đến, nghe lên là nào đó chim hót, bén nhọn mà kéo dài, hiển nhiên kẻ đến cái đầu không nhỏ.",
-      "dich": "Sau khi cân nhắc một hồi, Viên Minh vẫn lắc đầu bỏ ý định tới tra xét.",
-      "suggest": "Một tràng tiếng kêu chói tai từ bên trong đầm lầy truyền tới, nghe như tiếng chim hót líu lo, dài dằng dặc, hiển nhiên kẻ đến là kẻ có cái đầu."
-    },
-    {
-      "convert": "\"Loại chim hung thú!\" Viên Minh chân mày nhăn lại, vội vàng trốn vào phụ cận một phiến rậm rạp bụi cỏ.",
-      "dich": "Trong bãi sen không chỉ có hoa độc trải rộng, còn những con rắn lục kia nữa, hắn cũng không đủ thủ đoạn để đối phó những nguy hiểm này, tốt hơn là không nên nhiều chuyện.",
-      "suggest": "\"Hung thú hạng nhất!\" Viên Minh cau mày, vội vàng trốn vào một bụi cỏ rậm rạp xung quanh."
-    },
-    {
-      "convert": "Thập Vạn Đại Sơn trung, bất luận động tĩnh cũng không thể coi thường, nói không chừng sẽ lại toát ra một đầu lợi hại hung vật, mặt khác hắn có lư hương tại tay, tùy thời có thể phi thiên bỏ chạy, tịnh không để ý phổ thông lục hành hung thú, đối loại chim hung thú lại tương đối kiêng kị.",
-      "dich": "Viên Minh men theo rìa bãi sen, đi vòng về phía trước.",
-      "suggest": "Thập Vạn Đại sơn, bất luận động tĩnh gì cũng không thể coi thường, nói không chừng sẽ sinh ra một hung vật lợi hại, mặt khác hắn có lư hương trên tay, tùy thời có thể phi thiên bỏ chạy, cũng không để ý hung thú như những loài chim khác, đối với hung thú như chim sẻ lại càng kiêng kị."
-    },
-    {
-      "convert": "Viên Minh vừa mới giấu kỹ, một đạo to lớn bạch ảnh từ đầm lầy chỗ sâu bay ra, vừa đúng từ kia đỉnh đầu bay vút mà qua.",
-      "dich": "Kéc kéc kéc ...",
-      "suggest": "Viên Minh vừa mới giấu kỹ, một bóng trắng to lớn từ chỗ sâu trong đầm lầy bay ra, vừa vặn bay vút lên đỉnh đầu."
-    },
-    {
-      "convert": "Viên Minh thấy rõ bạch ảnh chân thân, là một cái cao vài trượng đại điêu, mắt như chuông đồng, hai móng ô hắc, lông chim hiện ra tuyết bạch sắc, hình thể tới to không tại trước đó hắc sắc cự nha phía dưới, một nhìn liền biết là nào đó mãnh cầm hung thú.",
-      "dich": "Một tràng những tiếng kêu chói tai từ trong đầm lầy sau lưng truyền tới, nghe giống như tiếng hót của loại chim nào đó.",
-      "suggest": "Viên Minh thấy rõ chân thân là một đại điêu cao vài trượng, mắt như chuông đồng, hai móng chim màu trắng như lông chim, thân hình to lớn không thua kém gì những con gấu đen trước đây, vừa nhìn đã biết đó là một hung thú nào đó."
-    },
-    {
-      "convert": "Bạch điêu đạm hoàng sắc con mắt liếc Viên Minh ẩn thân bụi cỏ một mắt, không để ý đến, thẳng đến trong bụi hoa mà đi, trong nháy mắt biến mất không thấy.",
-      "dich": "Tiếng hót này vừa kéo dài vừa chói tai, hiển nhiên là chủ nhân thanh âm này cũng không nhỏ.",
-      "suggest": "Con chim nhỏ màu trắng liếc mắt nhìn bụi cỏ ẩn thân Viên Minh một cái, không thèm để ý, bay thẳng vào trong bụi hoa, chỉ nháy mắt đã biến mất không thấy đâu nữa."
-    },
-    {
-      "convert": "Viên Minh từ bụi cỏ trung đứng thẳng mà lên, trông ngóng không trung.",
-      "dich": "\"Hung thú loài chim!\" Viên Minh cau mày, vội vàng trốn vào trong một bụi cỏ gần đó.",
-      "suggest": "Viên Minh đứng thẳng người lên, nhìn trời."
-    },
-    {
-      "convert": "\"Kia bạch điêu nhìn lên tới thực lực không kém, thị lực cũng rất mạnh, cách trở vụ khí cũng có thể phát hiện ta, tựa hồ là chỉ không tệ linh thú, đáng tiếc nó tốc độ quá nhanh, dùng lư hương cũng không khả năng đuổi theo, càng miễn bàn đem nó hàng phục.\"",
-      "dich": "Bên trong Thập Vạn Đại Sơn, không thể xem thường bất kỳ động tĩnh gì, nói không chừng ngay sau đó sẽ có một hung vật lợi hại xông ra.",
-      "suggest": "\"Thạch Điêu này nhìn qua thực lực không kém, thị lực cũng rất mạnh, thậm chí còn có thể nhận ra ta, có điều tốc độ của nó rất nhanh, dùng lư hương cũng không thể đuổi kịp, càng miễn bàn việc hàng phục nó.\""
-    },
-    {
-      "dich": "Hơn nữa dù hắn có lư hương trong tay, lúc nào cũng có thể bay lên trời bỏ chạy nên không cần để tâm những hung thú chạy bộ bình thường, nhưng với hung thú loài chim lại có chút kiêng kỵ."
-    },
-    {
-      "dich": "Khi Viên Minh vừa nấp kỹ xong, một cái bóng trắng khổng lồ từ chỗ sâu trong đầm lầy bay ra, lướt qua ngay trên đầu hắn."
-    },
-    {
-      "dich": "Viên Minh thấy rõ chân thân của bóng trắng kia, đó là một con đại điêu thân cao mấy trượng, mắt như chuông đồng, song trảo đen nhánh, lông vũ một màu trắng như tuyết, hình thể to lớn không kém con cự nha màu đen khi trước, nhìn qua liền biết là loại hung thú mãnh cầm nào đó."
-    },
-    {
-      "dich": "Bạch điêu đưa con mắt màu vàng nhạt liếc nhìn Viên Minh giấu mình trong bụi cỏ một chút rồi không để ý tới nữa, bay thẳng tới chỗ trung tâm bãi sen, chỉ nháy mắt đã không thấy đâu nữa."
-    },
-    {
-      "dich": "Viên Minh từ trong bụi cỏ đứng lên, nhìn lên không trung phía xa."
-    },
-    {
-      "dich": "\"Bạch điêu kia xem ra thực lực không yếu, thị lực cũng rất mạnh, có sương mù che mắt mà vẫn có thể phát hiện ta, có vẻ là một linh thú không tồi, đáng tiếc tốc độ của nó quá nhanh, dùng lư hương cũng không thể đuổi kịp, nói gì tới chuyện hàng phục.\""
-    },
-    {
-      "dich": "***Chú giải***"
-    },
-    {
-      "dich": "1."
-    },
-    {
-      "dich": "Thiên mã hành không: Tư duy độc đáo, sức sáng tạo liên tưởng mạnh mẽ, không theo khuôn sáo như thiên mã bay trên bầu trời."
-    }
-  ]
+  }
 }

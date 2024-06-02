@@ -59,21 +59,36 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "突然，他目光一凝，看向不远处一株大树。",
+        "text": "Đột nhiên, ánh mắt của hắn ngưng tụ, nhìn về phía cách đó không xa một cây đại thụ .",
+        "index": 1
+      }
     },
     {
       "convert": "Trên cây một cây tinh tế phân trên cành, ngồi xổm lấy một con cao nửa thước ngân miêu, nhìn Hòa gia miêu không xê xích bao nhiêu.",
       "dich": "Tại một cành nhánh rất nhỏ trên cây đó, một con mèo màu bạc cao nửa thước đang ngồi chồm hỗm, nhìn bộ dáng nó cũng không khác mèo nhà là mấy.",
       "suggest": "Trên một cành cây tinh tế có một con chim nhỏ cao nửa xích đang ngồi xổm một bên, nhìn con chim nhỏ màu bạc này cũng không xê xích gì.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "树上一根纤细分枝上，蹲坐着一只半尺高的银猫，看起来和家猫差不多大小。",
+        "text": "Trên cây một cây tinh tế phân trên cành, ngồi xổm lấy một con nửa thước cao ngân mèo, thoạt nhìn Hòa gia mèo không xê xích bao nhiêu .",
+        "index": 2
+      }
     },
     {
       "convert": "Mèo này toàn thân lông tóc đều là màu trắng bạc, không có một tia tạp mao, nhìn phi thường Tuyệt vời, hai con mắt một con hiện lên kim hoàng sắc, một cái khác hiện lên màu hổ phách, giống như hai viên chiếu lấp lánh bảo thạch, chính hướng Viên Minh nơi này nhìn tới.",
       "dich": "Con mèo này có bộ lông toàn thân đều là màu bạc, không có một sợi khác màu, thoạt nhìn vô cùng xinh xắn. Hai mắt nó, một có màu vàng kim óng ánh, một lại có màu hổ phách, nhìn như hai viên đá quý sáng lấp lánh đang hướng thẳng về phía Viên Minh.",
       "suggest": "Lông tóc con mèo này toàn thân đều là màu trắng bạc, không có một sợi tạp mao nào cả, nhìn phi thường tuyệt vời, hai mắt một con hiện lên màu vàng kim, một con khác hiện lên màu hổ phách, giống như hai viên bảo thạch lấp lánh đang lấp lánh ở đây, đang chiếu sáng Viên Minh.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "此猫全身毛发都是银白色，没有一丝杂毛，看起来非常漂亮，两只眼睛一只呈金黄色，另一只呈琥珀色，好像两颗闪闪发光的宝石，正朝袁铭这里看来。",
+        "text": "Mèo này toàn thân lông tóc đều là màu trắng bạc, không có một tia tạp mao, thoạt nhìn phi thường xinh đẹp, hai con mắt một con trình kim hoàng sắc, một cái khác trình màu hổ phách, dường như hai viên chiếu lấp lánh đích bảo thạch, chính hướng Viên Minh chỗ này xem ra .",
+        "index": 3
+      }
     },
     {
       "convert": "Hai ánh mắt đụng nhau, ngân miêu lúc này quay người bay tán loạn ra ngoài, tại từng cây trên cây nhanh nhẹn dị thường nhảy vọt, trong nháy mắt không thấy bóng dáng.",
@@ -85,7 +100,12 @@
           0.14
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "二者视线碰在一起，银猫当即转身飞窜出去，在一株株树上敏捷异常的跳跃，瞬间不见了踪影。",
+        "text": "Hai người tầm mắt đụng nhau, ngân mèo lúc này chuyển thân bay tán loạn đi ra, tại một gốc cây cây thượng nhanh nhẹn dị thường nhảy vọt, trong nháy mắt không thấy bóng dáng .",
+        "index": 4
+      }
     },
     {
       "convert": "\"Chạy cái gì, cũng sẽ không ăn ngươi!",
@@ -127,14 +147,24 @@
           0.35
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "片刻后，他轻咦一声，盯着不远处的草丛地面，停下了脚步。",
+        "text": "Một lát sau, hắn khẽ di một tiếng, nhìn chằm chằm cách đó không xa bụi cỏ mặt đất, dừng bước .",
+        "index": 6
+      }
     },
     {
       "convert": "Chỗ kia trên mặt đất, có một cái nhàn nhạt hình người dấu chân, nhìn giẫm ngấn còn rất mới.",
       "dich": "Tại mặt đất nơi đó, có một dấu chân người mờ nhạt, trông vết tích còn khá mới.",
       "suggest": "Trên mặt đất kia có một cái dấu chân nhàn nhạt hình người, thoạt nhìn còn rất mới.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "那处地面上，有一个浅浅的人形脚印，看踩痕还很新。",
+        "text": "Chỗ kia trên mặt đất, có một cái thiển thiển hình người dấu chân, coi đạp vết còn rất mới .",
+        "index": 7
+      }
     },
     {
       "convert": "Viên Minh suy nghĩ một chút, hướng dấu chân phương hướng đi tới đi đến.",
@@ -146,7 +176,12 @@
           0.33
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭略一沉吟，朝脚印前进方向走去。",
+        "text": "Viên Minh suy nghĩ một chút, hướng dấu chân phương hướng đi tới đi đến .",
+        "index": 8
+      }
     },
     {
       "convert": "Dấu chân chủ nhân cũng không che giấu hành tung ý tứ, theo dõi cũng không khó khăn.",
@@ -158,7 +193,12 @@
           0.15
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "脚印的主人并无掩饰行踪的意思，跟踪起来并不困难。",
+        "text": "Dấu chân đích chủ nhân cũng không che giấu hành tung đích ý tứ, theo dõi lên tới chẳng hề khó khăn .",
+        "index": 9
+      }
     },
     {
       "convert": "Ước chừng đi một khắc đồng hồ dáng vẻ, phía trước xuất hiện một mảnh cứng rắn núi đá địa, dấu chân ở chỗ này im bặt mà dừng, đã mất đi tung tích.",
@@ -170,7 +210,12 @@
           0.26
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "约莫走了一刻钟的样子，前方出现了一片坚硬的山石地，脚印在这里戛然而止，失去了踪迹。",
+        "text": "Ước chừng tẩu rồi một khắc chuông dáng vẻ, tiền phương xuất hiện rồi một mảnh cứng rắn đích núi đá địa, dấu chân ở chỗ này im bặt mà dừng, mất đi rồi tung tích .",
+        "index": 10
+      }
     },
     {
       "convert": "Viên Minh nhíu nhíu mày, tại nguyên chỗ im lặng nửa ngày, tiếp tục đi tới.",
@@ -182,14 +227,24 @@
           0.44
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭皱了皱眉，在原地默然半晌，继续前进。",
+        "text": "Viên Minh nhíu nhíu mày, tại nguyên chỗ im lặng sau một lúc lâu, tiếp tục đi tới .",
+        "index": 11
+      }
     },
     {
       "convert": "Đương đi ra mảnh này núi đá địa về sau, phía trước tầm mắt sáng lên, xuất hiện một mảnh thanh mênh mông hồ nước.",
       "dich": "Sau khi đi qua vùng đất đá kia, một vùng hồ nước trong xanh phủ sương mịt mờ xuất hiện khiến tầm nhìn phía trước sáng bừng lên.",
       "suggest": "Sau khi đi ra khỏi phiến đá, tầm mắt hắn sáng lên, phía trước hiện lên một hồ nước mênh mông.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "当走出这片山石地后，前方视野一亮，出现一片青茫茫的湖泊。",
+        "text": "Đương đi ra mảnh này núi đá địa sau, tiền phương tầm nhìn sáng lên, xuất hiện một mảnh thanh mờ mịt đích hồ nước .",
+        "index": 12
+      }
     },
     {
       "convert": "Hồ này diện tích không đại, đại khái mười mấy mẫu, nhìn không có chút rung động nào, xung quanh mọc đầy tề nhân cao cỏ dại, lúc này rõ ràng là ngày mùa hè, hồ nước phụ cận nhiệt độ lại so trong rừng phải rõ ràng thấp không ít.",
@@ -201,7 +256,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "此湖面积不大，大概十几亩，看起来波澜不惊，周边长满了齐人高的杂草，此刻明明是夏日，湖泊附近的温度却比丛林里要明显低了不少。",
+        "text": "Hồ này diện tích không lớn, đại khái mươi mấy mẫu, thoạt nhìn ba đào không sợ hãi, xung quanh mọc đầy rồi tề nhân cao cỏ dại, lúc này rõ ràng là ngày mùa hè, hồ nước phụ cận đích độ ấm so với tùng lâm trong muốn rõ ràng thấp không ít .",
+        "index": 13
+      }
     },
     {
       "convert": "Viên Minh đi vào hồ nước bên cạnh ngồi xổm người xuống, dùng tay đụng đụng nước hồ, một cỗ thấm lòng người phách hàn ý thẩm thấu tới.",
@@ -213,7 +273,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭来到湖泊边蹲下身子，用手碰了碰湖水，一股沁人心魄的寒意渗透过来。",
+        "text": "Viên Minh đi tới hồ nước bên ngồi xổm người xuống tử, dụng tay đụng đụng hồ nước, một luồng tẩm hồn phách người đích hàn ý rướm xuyên thấu qua tới .",
+        "index": 14
+      }
     },
     {
       "convert": "Vào thời khắc này, một bên bụi cỏ \"Soạt\" một vang, một đạo ngân ảnh bay tán loạn xuất hiện.",
@@ -225,7 +290,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在此刻，一旁的草丛“哗啦”一响，一道银影飞窜出来。",
+        "text": "Vào thời khắc này, một bên đích bụi cỏ “ rầm ” một vang, một đạo ngân ảnh bay tán loạn ra .",
+        "index": 15
+      }
     },
     {
       "convert": "Viên Minh vừa làm ra nghênh kích chi thế, nhưng khi thấy rõ về sau, hơi có chút kinh ngạc.",
@@ -237,7 +307,12 @@
           0.31
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭刚做出迎击之势，但当看清楚后，微微有些惊讶。",
+        "text": "Viên Minh vừa làm ra đón đánh chi thế, nhưng khi sau khi thấy rõ, hơi có chút kinh ngạc .",
+        "index": 16
+      }
     },
     {
       "convert": "Đạo này thân ảnh màu bạc không phải những vật khác, chính là trước đây không lâu gặp phải con kia ngân miêu, lúc này trong miệng nó ngậm một khối màu đen đồ vật, cái đuôi kiều lão cao.",
@@ -249,7 +324,12 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这道银色身影不是别的东西，正是不久前遇到的那只银猫，此时的它嘴里叼着一块黑色东西，尾巴翘的老高。",
+        "text": "Đạo này thân ảnh màu bạc không phải những vật khác, chính là trước đây không lâu gặp phải đích con kia ngân mèo, lúc này đích trong miệng nó ngậm lấy một khối hắc sắc đồ vật, đuôi giơ đích lão cao .",
+        "index": 17
+      }
     },
     {
       "convert": "Nhìn thấy Viên Minh, ngân miêu giống như là bị sợ hãi, lập tức quay người lại chui vào bụi cỏ, miệng bên trong màu đen đồ vật lại rớt xuống.",
@@ -261,7 +341,12 @@
           0.37
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "看到袁铭，银猫像是受惊了一般，立刻转身又钻进了草丛，嘴里的黑色东西却掉了下来。",
+        "text": "Nhìn thấy Viên Minh, ngân mèo như là bị sợ hãi bình thường, lập tức chuyển thân lại chui vào bụi cỏ, miệng trong đích hắc sắc đồ vật nhưng rớt xuống .",
+        "index": 18
+      }
     },
     {
       "convert": "\"Lại là cái này ngân miêu.\"",
@@ -301,7 +386,12 @@
           0.23
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他有些遗憾的叹了口气，说起来，他还挺喜欢那只外形俊美的银猫，若能捉住驯养起来，修炼之余也能逗着解闷。",
+        "text": "Hắn có chút tiếc nuối thở dài, nói lên tới, hắn còn thật thích con kia ngoại hình tuấn mỹ đích ngân mèo, nếu có thể bắt được thuần dưỡng lên tới, tu luyện sau khi cũng có thể đùa với giải buồn .",
+        "index": 20
+      }
     },
     {
       "convert": "Viên Minh tiếp tục hướng phía trước, đột nhiên nghĩ tới một chuyện, quay người về sau đi mấy bước, từ dưới đất nhặt lên một vật, chính là miêu vừa mới ngậm khối kia màu đen đồ vật, cầm tới trước mắt một chút dò xét.",
@@ -313,7 +403,12 @@
           0.15
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭继续向前，突然想起一事，转身往后走几步，从地上捡起一物，正是猫刚刚叼着的那块黑色东西，拿到眼前略一打量。",
+        "text": "Viên Minh tiếp tục hướng phía trước, đột nhiên nghĩ tới một chuyện, chuyển thân về sau đi vài bước, từ dưới đất nhặt lên một vật, chính là mèo vừa mới ngậm lấy đích khối kia hắc sắc đồ vật, giành được trước mắt hơi chút đánh giá .",
+        "index": 21
+      }
     },
     {
       "convert": "Thứ này nhìn tựa như là một khối thuộc da, phía trên miêu tả lấy tinh mỹ hoa văn, tuyệt đối là nhân công chế tạo đồ vật.",
@@ -325,7 +420,12 @@
           0.18
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这东西看起来好像是一块皮革，上面描绘着精美的花纹，绝对是人工制造的东西。",
+        "text": "Thứ này thoạt nhìn tựa như là một khối thuộc da, thượng diện miêu tả lấy tinh mỹ đích hoa văn, tuyệt đối là nhân công chế tạo đồ vật .",
+        "index": 22
+      }
     },
     {
       "convert": "\"Cái này rừng sâu núi thẳm tuyệt sẽ không có loại vật này, hẳn là là ai lưu lại?\"",
@@ -361,7 +461,12 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他再度仔细打量手中的黑色皮革，送到鼻下嗅了嗅。",
+        "text": "Hắn lại lần nữa quan sát tỉ mỉ trong tay đích hắc sắc thuộc da, đưa đến dưới mũi ngửi ngửi .",
+        "index": 24
+      }
     },
     {
       "convert": "Một cỗ mùi tanh xông vào mũi, lại không phải động vật miệng tanh hôi, mà là một loại gần như với cây rong hư thối hương vị.",
@@ -373,7 +478,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一股腥味扑鼻而来，却不是动物嘴巴的腥臭，而是一种近似于水草腐烂的味道。",
+        "text": "Một luồng mùi xông vào mũi, lại không phải động vật miệng đích tanh hôi, mà là một loại gần như tại bèo hư thối đích mùi vị .",
+        "index": 25
+      }
     },
     {
       "convert": "Viên Minh xoay chuyển ánh mắt, nhìn về phía xanh biếc hồ nước, sau đó ở bên hồ tìm tòi, rất nhanh liền có điều phát hiện.",
@@ -385,7 +495,12 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭目光一转，看向碧绿湖泊，而后在湖边搜寻起来，很快便有所发现。",
+        "text": "Viên Minh xoay chuyển ánh mắt, nhìn về phía xanh biếc hồ nước, sau đó ở bên hồ tìm tòi, rất nhanh liền có điều phát hiện .",
+        "index": 26
+      }
     },
     {
       "convert": "Tại một chỗ bên hồ ẩm ướt thổ bên trên, in mấy cái nhàn nhạt vuốt mèo dấu vết.",
@@ -397,14 +512,24 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "在一处湖边的湿土上，印着几个浅浅的猫爪印。",
+        "text": "Tại một chỗ bên hồ ướt thổ thượng, in mấy cái thiển thiển đích vuốt mèo ấn .",
+        "index": 27
+      }
     },
     {
       "convert": "Viên Minh theo trảo ấn đẩy ra phụ cận một chỗ tươi tốt bụi cỏ, con ngươi có chút co rụt lại.",
       "dich": "Viên Minh theo dấu chân mèo, rẽ một khoảng cỏ dại tươi tốt cạnh đó ra, tức thì đồng tử hơi co lại.",
       "suggest": "Viên Minh từ trên trảo ấn đẩy một bụi cỏ tươi tốt ra xa, hai mắt co rụt lại.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭顺着爪印拨开附近一处茂盛的草丛，瞳孔微微一缩。",
+        "text": "Viên Minh theo trảo ấn đẩy ra phụ cận một chỗ tươi tốt đích bụi cỏ, đồng tử hơi hơi co rụt lại .",
+        "index": 28
+      }
     },
     {
       "convert": "Trước mắt rõ ràng là một bộ thân hình cao lớn thi thể, nửa người trên cơ hồ đã thành hài cốt, nửa người dưới thì khắc vào bên hồ nước bùn bên trong, hiển nhiên đã chết đi thật lâu, trên người quần áo đã cua nát, trên người mặc một kiện áo da màu đen, con kia ngân miêu ngậm chính là áo da mảnh vỡ.",
@@ -416,7 +541,12 @@
           0.33
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "眼前赫然是一具身形高大的尸体，上半身几乎已成骸骨，下半身则嵌进了湖边的淤泥里，显然已经死去很久，身上的衣物已经泡烂，上身穿着一件黑色皮衣，那只银猫叼着的正是皮衣碎片。",
+        "text": "Trước mắt rõ ràng là một bộ thân hình cao lớn đích thi thể, nửa người trên cơ hồ đã thành hài cốt, nửa người dưới thì khắc vào bên hồ nước bùn trong, hiển nhiên đã chết đi thật lâu, trên người quần áo đã ngâm nát, trên người mặc một kiện áo da màu đen, con kia ngân mèo ngậm lấy đích chính là áo da toái phiến .",
+        "index": 29
+      }
     },
     {
       "convert": "Viên Minh ánh mắt rơi vào thi thể phần eo, nơi đó quấn quanh lấy một khối màu đen da thú, nhìn chính là một khối phi mao da thú.",
@@ -428,7 +558,12 @@
           0.48
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭视线落在尸体腰部，那里缠绕着一块黑色的兽皮，看起来正是一块披毛兽皮。",
+        "text": "Viên Minh tầm mắt rơi vào thi thể phần eo, nơi đó quấn quanh lấy một khối hắc sắc đích da thú, thoạt nhìn chính là một khối khoác lông da thú .",
+        "index": 30
+      }
     },
     {
       "convert": "Hắn tại bên cạnh thi thể ngồi xổm xuống, đưa tay loay hoay hai lần, đem màu đen da thú hiểu xuống dưới.",
@@ -452,7 +587,12 @@
           0.1
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他在尸体旁边蹲了下来，伸手摆弄两下，将黑色兽皮解了下来。",
+        "text": "Hắn tại bên cạnh thi thể ngồi xổm xuống tới, thò tay loay hoay hai lần, đem hắc sắc da thú giải xuống dưới .",
+        "index": 31
+      }
     },
     {
       "convert": "Vật này cùng hắn vượn trắng da thú hoàn toàn khác biệt, toàn thân không có một cọng lông tóc, che kín từng đạo ảm đạm màu trắng đường vân, trên sống lưng còn che kín cùng loại lân giáp chất keo vật, tựa hồ là cái nào đó sống dưới nước hung thú vỏ ngoài.",
@@ -464,7 +604,12 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "此物和他的白猿兽皮截然不同，通体没有一根毛发，布满一道道黯淡的白色纹路，背脊上面还布满类似鳞甲的胶质物，似乎是某个水生凶兽的外皮。",
+        "text": "Vật ấy cùng hắn vượn trắng da thú hoàn toàn khác biệt, toàn thân không có một cọng lông tóc, đầy một đạo đạo ảm đạm đích màu trắng hoa văn, trên sống lưng còn đầy cùng loại lân giáp đích chất keo vật, tựa hồ là một cái nào đó sống dưới nước hung thú đích vỏ ngoài .",
+        "index": 32
+      }
     },
     {
       "convert": "Trương này da thú địa phương khác cơ bản không tổn hao gì, chỉ có phía sau lưng vị trí có một đạo lớn chừng bàn tay vết nứt, tựa hồ bị cái nào đó lợi khí xuyên qua.",
@@ -476,7 +621,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这张兽皮其他地方基本无损，唯有后背位置有一道巴掌大小的裂口，似乎被某個利器贯穿。",
+        "text": "Trương này da thú địa phương khác cơ bản không tổn hao gì, chỉ có phía sau lưng vị trí có một đạo lớn chừng bàn tay đích nứt ra, tựa hồ bị nào đó 個 lợi khí xỏ xuyên qua .",
+        "index": 33
+      }
     },
     {
       "convert": "Viên Minh đem thi thể từ nước bùn bên trong cẩn thận kéo ra ngoài, phía sau lưng vị trí trái tim xương sườn gãy mất mấy cây, hẳn là bị thứ gì từ sau tập kích hình thành vết thương trí mạng.",
@@ -488,7 +638,12 @@
           0.28
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭将尸体从淤泥内小心拉了出来，其后背心脏位置的肋骨断了几根，应该是被什么东西从后袭击形成的致命伤。",
+        "text": "Viên Minh đem thi thể từ nước bùn nội cẩn thận kéo ra ngoài, sau đó ngực bẩn vị trí đích xương sườn đoạn mất mấy cây, hẳn là bị thứ gì từ sau tập kích hình thành vết thương trí mệnh .",
+        "index": 34
+      }
     },
     {
       "convert": "Hắn tại thi thể phụ cận tìm một hồi, cũng không phát hiện cái gì khác manh mối, người này trữ huyết túi cũng chưa nhìn thấy.",
@@ -504,7 +659,12 @@
           0.23
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他在尸体附近寻找了一会，并未发现别的什么线索，此人的储血袋也并未看到。",
+        "text": "Hắn tại thi thể phụ cận tìm kiếm rồi một lúc, không hề phát hiện cái gì khác manh mối, người này đích trữ máu túi cũng chưa nhìn thấy .",
+        "index": 35
+      }
     },
     {
       "convert": "\"Xem ra người này tám thành cũng không phải là chết bởi hung thú, mà là bị khác Phi Mao thú nô đánh chết.\"",
@@ -551,14 +711,24 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "披毛兽奴，是兽，亦是奴。",
+        "text": "Phi Mao thú nô, là 兽, cũng là nô .",
+        "index": 37
+      }
     },
     {
       "convert": "Bị khốn ở Thập Vạn Đại Sơn bên trong, mạnh được yếu thua, kẻ phù hợp mới có thể sinh tồn, làm ngươi nhìn chằm chằm con mồi ngo ngoe muốn động thời điểm, bản thân sao lại không phải trong mắt người khác con mồi?",
       "dich": "Bị nhốt trong Thập Đại Vạn Sơn, nhược nhục cường thực, thích giả sinh tồn, khi ngươi chăm chú quan sát con mồi rục rịch, bản thân làm sao biết mình không phải con mồi trong mắt kẻ khác?",
       "suggest": "Trong Thập Vạn Đại Sơn, mạnh được yếu thua chỉ có thể sinh tồn, chỉ có người phù hợp mới có thể sinh tồn, làm ngươi cứ nhìn chằm chằm vào con mồi mà không dám động đậy, bản thân sao lại không phải là con mồi trong mắt người khác?",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "被困于十万大山之中，弱肉强食，适者生存，当你盯着猎物蠢蠢欲动之时，自己又何尝不是别人眼中的猎物？",
+        "text": "Bị nhốt tại Thập Vạn Đại Sơn bên trong, cá lớn nuốt cá bé, kẻ phù hợp mới có thể sinh tồn, khi ngươi nhìn chằm chằm con mồi rục rịch thời điểm, chính mình sao lại không phải trong mắt người khác đích con mồi ?",
+        "index": 38
+      }
     },
     {
       "convert": "\"Đúng rồi, Hô Hỏa trưởng lão đã mịt mờ đề cập, những này phi mao da thú là Bích La Động phí hết không ít tâm tư mới luyện chế ra tới chi vật, có chút trân quý, mỗi tấm da thú bên trong đều sắp đặt pháp lực tiêu ký, một khi Phi Mao thú nô chết đi, tông môn sẽ phái người theo ấn ký thu hồi da thú, bọn hắn vì sao không lấy đi cái này một khối?\"",
@@ -598,7 +768,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他看向黑色兽皮的破裂处，若有所思，掐诀解除白猿变身，运起法力注入黑色兽皮内，催动披毛术，兽皮却毫无动静。",
+        "text": "Hắn nhìn về phía hắc sắc da thú đích rạn nứt chỗ, như có điều suy nghĩ, bắt quyết giải trừ vượn trắng biến thân, vận khởi pháp lực rót vào hắc sắc da thú nội, thúc động Phi Mao Thuật, da thú nhưng không hề có động tĩnh gì .",
+        "index": 40
+      }
     },
     {
       "convert": "\"Xem ra là hỏng, lúc này mới không người đến lấy đi đi, lãng phí một cách vô ích thời gian dài như vậy.\"",

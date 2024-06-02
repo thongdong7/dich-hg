@@ -1,4 +1,5 @@
 {
+  "currentLine": 110,
   "next": {
     "id": 94,
     "title": "Chương 94: Ly thể"
@@ -14,574 +15,836 @@
   "lines": [
     {
       "convert": "Ngày thứ hai.",
-      "dich": "Sáng sớm ngày hôm sau.",
-      "suggest": "Ngày thứ hai."
+      "dich": "Ngày thứ hai.",
+      "suggest": "Ngày thứ hai.",
+      "approved": true,
+      "chinese": {
+        "raw": "第二日。",
+        "text": "Ngày thứ hai .",
+        "index": 0
+      }
     },
     {
       "convert": "Viên Minh một buổi sáng sớm, như cũ vẫn là trước hoàn thành luyện phôi, sau đó mới tại Phương Cách sư huynh chỉ điểm hạ, xuyên qua hỏa phường đi khí lư.",
-      "dich": "Viên Minh vẫn như thường lệ, đầu tiên hoàn thành việc rèn phôi, sau đó mới theo lời Phương Cách sư huynh chỉ, băng qua Hỏa phường đi tới khí lư.",
-      "suggest": "Viên Minh một buổi sáng sớm, vẫn như cũ, trước khi luyện phôi mới đi theo sư huynh Phương Cách đến phường thị."
+      "dich": "Viên Minh sáng sớm vẫn như thường lệ, đầu tiên hoàn thành việc rèn phôi, sau đó mới theo lời Phương Cách sư huynh chỉ, băng qua Hỏa phường đi tới khí lư.",
+      "suggest": "Viên Minh một buổi sáng sớm, vẫn như cũ, trước khi luyện phôi mới đi theo sư huynh Phương Cách đến phường thị.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭一大清早，依旧还是先完成了炼胚，而后才在方格师兄的指点下，穿过火坊去了器庐。",
+        "text": "Viên Minh một buổi sáng sớm, như trước vẫn là trước hoàn thành 炼 phôi, sau đó mới tại ô vuông sư huynh chỉ điểm, xuyên qua lửa phường đi khí lư .",
+        "index": 1
+      }
     },
     {
       "convert": "Khí lư nằm ở hỏa phường hậu phương, là một tòa độc lập xuất ra cỡ nhỏ viện lạc.",
       "dich": "Khí lư là một tòa viện lạc độc lập cỡ nhỏ nằm ở phía sau Hỏa phường.",
-      "suggest": "Khí lư nằm ở hậu phương hỏa phường, là một viện lạc cỡ nhỏ được xây dựng độc lập."
+      "suggest": "Khí lư nằm ở hậu phương hỏa phường, là một viện lạc cỡ nhỏ được xây dựng độc lập.",
+      "approved": true,
+      "chinese": {
+        "raw": "器庐位于火坊后方，是一座独立出来的小型院落。",
+        "text": "Khí lư ở vào lửa phường hậu phương, là một tòa độc lập ra đích tiểu hình sân nhỏ .",
+        "index": 2
+      }
     },
     {
       "convert": "So sánh với hỏa phường bên kia náo nhiệt hỗn tạp, vẻn vẹn hơn mười bước chi cách khí lư, tựu lộ ra u tĩnh an bình quá nhiều.",
       "dich": "Hai bên cách nhau chỉ vỏn vẹn mười mấy bước chân, nhưng so với với Hỏa phường bên kia ồn ào hối hả, Khí lư có vẻ u tĩnh an bình hơn rất nhiều.",
-      "suggest": "So với náo nhiệt náo nhiệt bên kia đường, chỉ cách không khí náo nhiệt hơn mười bước đã khiến không gian yên tĩnh hơn rất nhiều."
+      "suggest": "So với náo nhiệt náo nhiệt bên kia đường, chỉ cách không khí náo nhiệt hơn mười bước đã khiến không gian yên tĩnh hơn rất nhiều.",
+      "approved": true,
+      "chinese": {
+        "raw": "相比于火坊那边的热闹杂乱，仅仅十数步之隔的器庐，就显得幽静安宁了太多。",
+        "text": "So với tại lửa phường bên kia náo nhiệt lộn xộn, vẻn vẹn hơn mười bước chi 隔 đích khí lư, liền lộ ra u tĩnh an bình quá nhiều .",
+        "index": 3
+      }
     },
     {
       "convert": "Viên Minh bước nhanh đi vào viện nội phòng chính, đầu tiên nhìn thấy một tòa trưng bày lấy các chủng vật phẩm bày khắp sảnh, kia trung đại bộ phận vừa có hỏa phường bên kia các đệ tử hằng ngày chế tạo bộ yên chi loại đông tây, cũng có một chút đao thương kiếm kích binh khí.",
-      "dich": "Viên Minh rảo bước đi vào sảnh giữa của viện.",
-      "suggest": "Viên Minh bước nhanh vào trong phòng chính, đầu tiên nhìn thấy một gian hàng bày biện các loại vật phẩm. Trong đó phần lớn là các đệ tử của Hỏa phường, còn có một ít binh khí đao thương kiếm kích."
+      "dich": "Viên Minh rảo bước đi vào sảnh giữa của viện. Thứ đầu tiên hắn thấy là một phòng trưng bày triển lãm các loại vật phẩm, đại bộ phận trong đó là các đồ vật kiểu như bộ yên ngựa mà các đệ tử Hỏa phường bên kia làm ra mỗi ngày, ngoài ra còn có một ít binh khí đao thương kiếm kích.",
+      "suggest": "Viên Minh bước nhanh vào trong phòng chính, đầu tiên nhìn thấy một gian hàng bày biện các loại vật phẩm. Trong đó phần lớn là các đệ tử của Hỏa phường, còn có một ít binh khí đao thương kiếm kích.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭快步走入院内中堂，首先看到的一座陈列着各种物品的展示厅，其中大部分既有火坊那边弟子们日常打造的鞍鞯之类的东西，也有一些刀枪剑戟的兵器。",
+        "text": "Viên Minh bước nhanh đi vào trong viện phòng chính, đầu tiên nhìn thấy đích một tòa trưng bày lấy các loại vật phẩm đích bày ra sảnh, trong đó đại bộ phận đã có lửa phường bên kia các đệ tử ngày thường chế tạo bộ yên ngựa các loại đồ vật, cũng có một chút đao thương kiếm kích đích binh khí .",
+        "index": 4
+      }
     },
     {
       "convert": "Hắn không tự giác thả chậm cước bộ, hành tẩu kia trung, tả hữu dò xét rực rỡ muôn màu binh khí, chỉ thấy phía trên chỉ có một bộ phận tuyên khắc có từng đạo kỳ dị phù văn, liền biết tương ứng đều là pháp khí.",
-      "dich": "Thứ đầu tiên hắn thấy là một phòng trưng bày triển lãm các loại vật phẩm, đại bộ phận trong đó là các đồ vật kiểu như bộ yên ngựa mà các đệ tử Hỏa phường bên kia làm ra mỗi ngày, ngoài ra còn có một ít binh khí đao thương kiếm kích.",
-      "suggest": "Hắn không tự giác thả chậm cước bộ, cẩn thận quan sát khắp nơi trong bình đài, chỉ thấy phía trên chỉ có từng đạo phù văn kỳ dị khắc từng đạo phù văn, có thể đoán được đó đều là pháp khí."
+      "dich": "Hắn bất giác thả chậm bước chân đi giữa chúng, quan sát dàn binh khí chói mắt hai bên trái phải, chỉ thấy một số ít trên đó được khắc những đường phù văn kỳ dị, liền biết đó hẳn đều là pháp khí.",
+      "suggest": "Hắn không tự giác thả chậm cước bộ, cẩn thận quan sát khắp nơi trong bình đài, chỉ thấy phía trên chỉ có từng đạo phù văn kỳ dị khắc từng đạo phù văn, có thể đoán được đó đều là pháp khí.",
+      "approved": true,
+      "chinese": {
+        "raw": "他不自觉的放慢了脚步，行走其中，左右打量琳琅满目的兵器，只见其上只有少部分镌刻有一道道奇异符文，便知应该都是法器。",
+        "text": "Hắn không tự chủ thả chậm cước bộ, hành tẩu trong đó, tả hữu đánh giá rực rỡ muôn màu đích binh khí, chỉ kiến trên đó chỉ có số ít phân khắc có từng đạo kỳ dị ký hiệu, liền biết cũng đều là pháp khí .",
+        "index": 5
+      }
     },
     {
       "convert": "\"Thật xinh đẹp a?\"",
-      "dich": "Hắn bất giác thả chậm bước chân đi giữa chúng, quan sát dàn binh khí chói mắt hai bên trái phải, chỉ thấy một số ít trên đó được khắc những đường phù văn kỳ dị, liền biết đó hẳn đều là pháp khí.",
-      "suggest": "\"Thật xinh đẹp a?\""
+      "dich": "\"Đẹp quá nhỉ?\"",
+      "suggest": "\"Thật xinh đẹp a?\"",
+      "approved": true
     },
     {
       "convert": "Lúc này, một cái thanh âm bỗng nhiên từ phía sau vang lên.",
-      "dich": "\"Đẹp quá nhỉ?\"",
-      "suggest": "Đúng lúc này, một giọng nói bỗng nhiên vang lên từ phía sau."
+      "dich": "Lúc này, một giọng nói bỗng từ phía sau vang lên.",
+      "suggest": "Đúng lúc này, một giọng nói bỗng nhiên vang lên từ phía sau.",
+      "approved": true
     },
     {
       "convert": "Viên Minh vội vàng quay đầu, lập tức nhìn thấy một cái thân mặc đoản bào, tóc ngắn tán loạn, râu ria xồm xàm trung niên nam tử, chính một tay đào lấy đám tai, một tay kẹp lấy từng bó bạch sắc ống giấy, đứng tại không xa lắm.",
-      "dich": "Lúc này, một giọng nói bỗng từ phía sau vang lên.",
-      "suggest": "Viên Minh vội vàng quay đầu, lập tức nhìn thấy một nam tử trung niên mặc trường bào, tóc ngắn rũ rượi, râu quai nón xồm xàm, một tay mân mê từng ống giấy màu trắng, đứng cách hắn không xa."
+      "dich": "Viên Minh vội vàng quay đầu, thấy ngay một nam tử trung niên râu ria xồm xoàm, tóc ngắn rối bù, thân mang áo ngắn, một tay ngoáy tai, tay kia cầm một bó ống giấy màu trắng, đứng ở cách đó không xa.",
+      "suggest": "Viên Minh vội vàng quay đầu, lập tức nhìn thấy một nam tử trung niên mặc trường bào, tóc ngắn rũ rượi, râu quai nón xồm xàm, một tay mân mê từng ống giấy màu trắng, đứng cách hắn không xa.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭连忙回头，旋即看到一个身着短袍，短发散乱，胡子拉碴的中年男子，正一手掏着耳朵，一手夹着一捆捆白色纸筒，站在不远处。",
+        "text": "Viên Minh vội vàng hồi đầu, lát sau nhìn thấy một cái thân mặc đoản bào, tóc ngắn tán loạn, râu ria xồm xàm đích nam tử trung niên, chính một tay đào lấy tai, một tay mang theo một bó trói màu trắng ống giấy, đứng tại cách đó không xa .",
+        "index": 7
+      }
     },
     {
       "convert": "Người kia bên hông treo đấy, là cùng Trần Uyển Phương Cách một dạng nội môn đệ tử lục sắc yêu bài, hơn phân nửa tựu là vị kia sư huynh rồi.",
-      "dich": "Viên Minh vội vàng quay đầu, thấy ngay một nam tử trung niên râu ria xồm xoàm, tóc ngắn rối bù, thân mang áo ngắn, một tay ngoáy tai, tay kia cầm một bó ống giấy màu trắng, đứng ở cách đó không xa.",
-      "suggest": "Bên hông người này là một yêu bài màu xanh lục cùng với Trần Uyển Phương Cách, hơn phân nửa là sư huynh của vị sư huynh kia."
+      "dich": "Bên hôm người kia treo một tấm lệnh bài đệ tử nội môn màu lục giống cái của Trần Uyển, Phương Cách, hẳn đây chính là vị sư huynh kia.",
+      "suggest": "Bên hông người này là một yêu bài màu xanh lục cùng với Trần Uyển Phương Cách, hơn phân nửa là sư huynh của vị sư huynh kia.",
+      "approved": true,
+      "chinese": {
+        "raw": "那人腰间悬挂着的，是和陈婉方格一样的内门弟子绿色腰牌，多半就是那位师兄了。",
+        "text": "Nhân yêu kia gian giắt đích, là cùng trần uyển ô vuông đồng dạng đích nội môn đệ tử lục sắc lệnh bài, hơn phân nửa chính là vị sư huynh kia rồi .",
+        "index": 8
+      }
     },
     {
       "convert": "\"Gặp qua A Mộc Hợp sư huynh.\" Viên Minh lập tức hành lễ.",
-      "dich": "Bên hôm người kia treo một tấm lệnh bài đệ tử nội môn màu lục giống cái của Trần Uyển, Phương Cách, hẳn đây chính là vị sư huynh kia.",
-      "suggest": "\"Gặp qua A Mộc Hợp sư huynh.\" Viên Minh lập tức hành lễ."
+      "dich": "\"Bái kiến A Mộc Hợp sư huynh.\" Viên Minh lập tức hành lễ.",
+      "suggest": "\"Gặp qua A Mộc Hợp sư huynh.\" Viên Minh lập tức hành lễ.",
+      "approved": true
     },
     {
       "convert": "\"Những thứ này pháp khí thật xinh đẹp a, đặc biệt là những thứ kia phù văn, đường nét phác hoạ kết hợp quả thực là nghệ thuật.\"",
-      "dich": "\"Bái kiến A Mộc Hợp sư huynh.\" Viên Minh lập tức hành lễ.",
-      "suggest": "\"Những pháp khí này thật xinh đẹp a, đặc biệt là phù văn, đường nét phối hợp quả thực là nghệ thuật.\""
+      "dich": "\"Mấy pháp khí này quá đẹp, đặc biệt là những phù văn kia, đường nét phác họa kết hợp quá thực là một nghệ thuật.\"",
+      "suggest": "\"Những pháp khí này thật xinh đẹp a, đặc biệt là phù văn, đường nét phối hợp quả thực là nghệ thuật.\"",
+      "approved": true
     },
     {
       "convert": "Kia nhìn lên tới có chút lôi thôi trung niên nam tử đi lên đến đây, mục quang rơi vào bày khắp trong tủ pháp khí thượng, tán thán nói.",
-      "dich": "\"Mấy pháp khí này quá đẹp, đặc biệt là những phù văn kia, đường nét phác họa kết hợp quá thực là một nghệ thuật.\"",
-      "suggest": "Nam tử trung niên nhìn có chút lôi thôi kia đi tới, ánh mắt nhìn vào những pháp khí bày trong tủ, tán thán nói."
+      "dich": "Nam tử trung niên trông hơi lôi thôi kia đi lên phía trước, ánh mắt rơi vào mấy pháp khí trong tủ trưng bày, lên tiếng ngợi khen.",
+      "suggest": "Nam tử trung niên nhìn có chút lôi thôi kia đi tới, ánh mắt nhìn vào những pháp khí bày trong tủ, tán thán nói.",
+      "approved": true
     },
     {
       "convert": "Viên Minh thấy thế, tử tế bắt đầu đánh giá những thứ kia pháp khí thượng phù văn.",
-      "dich": "Nam tử trung niên trông hơi lôi thôi kia đi lên phía trước, ánh mắt rơi vào mấy pháp khí trong tủ trưng bày, lên tiếng ngợi khen.",
-      "suggest": "Viên Minh thấy thế, bắt đầu cẩn thận đánh giá phù văn trên những pháp khí kia."
+      "dich": "Viên Minh thấy thế bèn quan sát kỹ phù văn trên những pháp khí kia.",
+      "suggest": "Viên Minh thấy thế, bắt đầu cẩn thận đánh giá phù văn trên những pháp khí kia.",
+      "approved": true
     },
     {
       "convert": "Này nhìn kỹ, hắn cũng không khỏi có chút sửng sốt rồi.",
-      "dich": "Viên Minh thấy thế bèn quan sát kỹ phù văn trên những pháp khí kia.",
-      "suggest": "Nhìn kỹ lại, hắn cũng có chút sửng sốt."
+      "dich": "Cẩn thận nhìn một lần khiến hắn cũng không nhịn được có chút sửng sốt.",
+      "suggest": "Nhìn kỹ lại, hắn cũng có chút sửng sốt.",
+      "approved": true,
+      "chinese": {
+        "raw": "这仔细一看，他也不禁有些愣住了。",
+        "text": "Này nhìn kỹ, hắn cũng không nhịn được có chút ngây ngẩn cả người .",
+        "index": 12
+      }
     },
     {
       "convert": "Nguyên bản chỉ cho là đơn giản đường nét phác hoạ, chờ hắn trút xuống thần niệm, tử tế quan sát lúc vậy mà giống như vật sống một dạng vặn vẹo khởi lai.",
-      "dich": "Cẩn thận nhìn một lần khiến hắn cũng không nhịn được có chút sửng sốt.",
-      "suggest": "Đường nét phác thảo ban đầu chỉ là đơn giản, nhưng khi hắn trút thần niệm xuống, cẩn thận quan sát thì giống như vật sống vậy."
+      "dich": "Vốn chỉ xem là đường nét phác đơn giản, nhưng khi hắn tập trung thần niệm, khi nhìn kỹ lại thấy chúng như những vật sống nhúc nhích.",
+      "suggest": "Đường nét phác thảo ban đầu chỉ là đơn giản, nhưng khi hắn trút thần niệm xuống, cẩn thận quan sát thì giống như vật sống vậy.",
+      "approved": true,
+      "chinese": {
+        "raw": "原本只当是简单的线条勾勒，等他倾注神念，仔细观察时竟然如同活物一般扭动起来。",
+        "text": "Nguyên bản chỉ coi là giản đơn đích đường cong phác hoạ, chờ hắn trút xuống thần niệm, tỉ mỉ quan sát thời vậy mà như cùng sống vật bình thường uốn éo .",
+        "index": 13
+      }
     },
     {
       "convert": "Có đường nét nhu hòa vặn vẹo như lưu thủy cuồn cuộn, có đường nét rậm rạp phục chế như thảo mộc tăng trưởng, có đường nét kịch liệt vặn vẹo như hỏa diễm bốc lên .....",
-      "dich": "Vốn chỉ xem là đường nét phác đơn giản, nhưng khi hắn tập trung thần niệm, khi nhìn kỹ lại thấy chúng như những vật sống nhúc nhích.",
-      "suggest": "Có đường nét nhu hòa uốn lượn như lưu thủy cuồn cuộn, có đường nét rậm rạp tăng trưởng như thảo mộc, có đường nét kịch liệt vặn vẹo như sóng lửa, có đường nét kịch liệt vặn vẹo như sóng lửa bốc lên ..."
+      "dich": "Có đường nét mềm mại uốn lượn như nước chảy, có đường nét sinh sôi dày đặc như cây cối vút lên, lại có đường nét xoắn vặn dữ dội như ngọn lửa bốc lên ...",
+      "suggest": "Có đường nét nhu hòa uốn lượn như lưu thủy cuồn cuộn, có đường nét rậm rạp tăng trưởng như thảo mộc, có đường nét kịch liệt vặn vẹo như sóng lửa, có đường nét kịch liệt vặn vẹo như sóng lửa bốc lên ...",
+      "approved": true
     },
     {
       "convert": "Viên Minh này một nhìn, tựu thật giống hãm vào một dạng, mục quang ngưng tụ, ngây ngốc bất động.",
-      "dich": "Có đường nét mềm mại uốn lượn như nước chảy, có đường nét sinh sôi dày đặc như cây cối vút lên, lại có đường nét xoắn vặn dữ dội như ngọn lửa bốc lên ...",
-      "suggest": "Viên Minh vừa nhìn thấy, liền như bị chìm vào trong đó, ánh mắt ngưng tụ, ngây ngốc bất động."
+      "dich": "Viên Minh nhìn xem mà giống như bị rơi vào trong đó, ánh mắt ngưng tụ, ngây người bất động.",
+      "suggest": "Viên Minh vừa nhìn thấy, liền như bị chìm vào trong đó, ánh mắt ngưng tụ, ngây ngốc bất động.",
+      "approved": true
     },
     {
       "convert": "Không biết qua rồi bao lâu, hắn bả vai bị người mãnh liệt một đập, trước mắt dị tượng mới đột nhiên biến mất, khôi phục rồi thần chí.",
-      "dich": "Viên Minh nhìn xem mà giống như bị rơi vào trong đó, ánh mắt ngưng tụ, ngây người bất động.",
-      "suggest": "Không biết qua bao lâu, bả vai hắn bị người đánh cho rung động, dị tượng trước mắt mới đột nhiên biến mất, khôi phục thần trí."
+      "dich": "Không biết qua bao lâu, bờ vai hắn thình lình bị người ta vỗ một cái, dị tượng trước mắt lúc này mới đột nhiên biến mất, đầu óc khôi phục lại thần chí.",
+      "suggest": "Không biết qua bao lâu, bả vai hắn bị người đánh cho rung động, dị tượng trước mắt mới đột nhiên biến mất, khôi phục thần trí.",
+      "approved": true,
+      "chinese": {
+        "raw": "不知过了多久，他的肩膀被人猛地一拍，眼前异象才陡然消失，恢复了神志。",
+        "text": "Không biết qua bao lâu, bờ vai của hắn bị người bỗng nhiên một nhịp, trước mắt dị tượng mới đột nhiên tiêu thất, khôi phục rồi thần chí .",
+        "index": 16
+      }
     },
     {
       "convert": "Hắn mờ mịt quay đầu, nhìn thấy kia lôi thôi sư huynh, chính chau mày địa nhìn hắn chăm chú.",
-      "dich": "Không biết qua bao lâu, bờ vai hắn thình lình bị người ta vỗ một cái, dị tượng trước mắt lúc này mới đột nhiên biến mất, đầu óc khôi phục lại thần chí.",
-      "suggest": "Hắn mờ mịt quay đầu lại, nhìn thấy vị sư huynh kia đang chau mày nhìn hắn chăm chú."
+      "dich": "Hắn mờ mịt quay đầu, thấy vị sư huynh lôi thôi kia đang cau mày chằm chằm nhìn hắn.",
+      "suggest": "Hắn mờ mịt quay đầu lại, nhìn thấy vị sư huynh kia đang chau mày nhìn hắn chăm chú.",
+      "approved": true,
+      "chinese": {
+        "raw": "他茫然回头，看到那邋遢师兄，正眉头紧皱地盯着他看。",
+        "text": "Hắn mù mờ hồi đầu, nhìn thấy kia lôi thôi sư huynh, chính chau mày mà nhìn chằm chằm vào hắn coi .",
+        "index": 17
+      }
     },
     {
       "convert": "\"Ngươi thấy được cái gì?\"",
-      "dich": "Hắn mờ mịt quay đầu, thấy vị sư huynh lôi thôi kia đang cau mày chằm chằm nhìn hắn.",
-      "suggest": "\"Ngươi thấy cái gì?\""
+      "dich": "\"Ngươi nhìn thấy cái gì?\"",
+      "suggest": "\"Ngươi thấy cái gì?\"",
+      "approved": true
     },
     {
       "convert": "Lôi thôi sư huynh truy vấn.",
-      "dich": "\"Ngươi nhìn thấy cái gì?\"",
-      "suggest": "Lôi sư huynh truy hỏi."
+      "dich": "Sư huynh lôi thôi hỏi.",
+      "suggest": "Lôi sư huynh truy hỏi.",
+      "approved": true
     },
     {
       "convert": "Viên Minh dừng một chút, mới đưa chính mình vừa mới chứng kiến cảm giác, đầu đuôi gốc ngọn địa giảng ra tới.",
-      "dich": "Sư huynh lôi thôi hỏi.",
-      "suggest": "Viên Minh dừng một chút, sau đó mới kể lại cảm giác đầu đuôi mà mình vừa chứng kiến."
+      "dich": "Viên Minh dừng một chút rồi mới thành thật kể hết những gì mình mới thấy ra.",
+      "suggest": "Viên Minh dừng một chút, sau đó mới kể lại cảm giác đầu đuôi mà mình vừa chứng kiến.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭顿了顿，才将自己方才所见所感，一五一十地讲了出来。",
+        "text": "Viên Minh dừng ngừng, mới đưa chính mình mới sở kiến nhận thấy, đầu đuôi gốc ngọn địa giảng rồi ra .",
+        "index": 19
+      }
     },
     {
       "convert": "Lôi thôi sư huynh nghiêm túc nghe lấy, chân mày càng nhăn càng chặt, như là có cái gì lớn nghi hoặc một dạng, thật lâu không nói.",
-      "dich": "Viên Minh dừng một chút rồi mới thành thật kể hết những gì mình mới thấy ra.",
-      "suggest": "Lôi sư huynh nghiêm túc nghe, hai hàng lông mày càng nhíu chặt lại, tựa như có điều gì đó nghi hoặc, im lặng không nói."
+      "dich": "Sư huynh lôi thôi nghiêm túc lắng nghe, tràng mày càng lúc càng nhíu chặt, tựa như có điều nghi hoặc gì đó rất lớn, im lặng mất một hồi lâu.",
+      "suggest": "Lôi sư huynh nghiêm túc nghe, hai hàng lông mày càng nhíu chặt lại, tựa như có điều gì đó nghi hoặc, im lặng không nói.",
+      "approved": true,
+      "chinese": {
+        "raw": "邋遢师兄认真听着，眉头越皱越紧，像是有什么大疑惑一般，良久无语。",
+        "text": "Lôi thôi sư huynh nghiêm túc nghe ngóng, đầu mi càng nhăn càng chặt, như là có cái gì đại nghi hoặc bình thường, thật lâu sau không còn gì để nói .",
+        "index": 20
+      }
     },
     {
       "convert": "Viên Minh nhìn tới hắn biểu tình biến hóa, tâm cũng cùng theo treo lên, không biết là chuyện gì xảy ra.",
-      "dich": "Sư huynh lôi thôi nghiêm túc lắng nghe, tràng mày càng lúc càng nhíu chặt, tựa như có điều nghi hoặc gì đó rất lớn, im lặng mất một hồi lâu.",
-      "suggest": "Viên Minh nhìn biểu tình biến hóa của hắn, tâm cũng theo đó mà căng thẳng, không biết là chuyện gì xảy ra."
+      "dich": "Viên Minh quan sát nét mặt y biến đổi, trái tim cũng căng thẳng theo, không biết là xảy ra chuyện gì.",
+      "suggest": "Viên Minh nhìn biểu tình biến hóa của hắn, tâm cũng theo đó mà căng thẳng, không biết là chuyện gì xảy ra.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭看着他的表情变化，心也跟着悬了起来，不知道是怎么回事。",
+        "text": "Viên Minh nhìn hắn biểu tình biến hóa, tâm cũng theo treo lên, không biết là sao lại thế này .",
+        "index": 21
+      }
     },
     {
       "convert": "Ngay tại hắn có chút thấp thỏm bất an thời điểm, chợt thấy kia sư huynh tràn đầy râu ria mặt đột nhiên buông lỏng, hắc hắc cười ha hả.",
-      "dich": "Viên Minh quan sát nét mặt y biến đổi, trái tim cũng căng thẳng theo, không biết là xảy ra chuyện gì.",
-      "suggest": "Ngay khi hắn đang thấp thỏm bất an, chợt thấy gương mặt tràn đầy râu của vị sư huynh kia đột nhiên buông lỏng, cười ha hả mấy tiếng."
+      "dich": "Ngay khi hắn có chút lo lắng bất an, chợt thấy cái cằm đầy gốc râu của vị sư huynh kia giãn ra, rồi y bật cười ha hả.",
+      "suggest": "Ngay khi hắn đang thấp thỏm bất an, chợt thấy gương mặt tràn đầy râu của vị sư huynh kia đột nhiên buông lỏng, cười ha hả mấy tiếng.",
+      "approved": true,
+      "chinese": {
+        "raw": "就在他有些忐忑不安的时候，忽见那师兄满是胡茬的脸突然一松，哈哈大笑起来。",
+        "text": "Ngay tại hắn có chút thổn thức bất an thời điểm, chợt thấy cái kia sư huynh tràn đầy gốc râu cằm đích mặt đột nhiên buông lỏng, cười ha ha lên tới .",
+        "index": 22
+      }
     },
     {
       "convert": "Này một nhoáng, Viên Minh tựu càng thêm không biết làm sao rồi.",
-      "dich": "Ngay khi hắn có chút lo lắng bất an, chợt thấy cái cằm đầy gốc râu của vị sư huynh kia giãn ra, rồi y bật cười ha hả.",
-      "suggest": "Một thoáng này, Viên Minh càng thêm không biết làm sao."
+      "dich": "Điều này làm Viên Minh càng thêm bối rối.",
+      "suggest": "Một thoáng này, Viên Minh càng thêm không biết làm sao.",
+      "approved": true
     },
     {
       "convert": "\"Ha ha ha, không nghĩ tới là người trong đồng đạo a, ta là A Mộc Hợp, tiểu huynh đệ ngươi tên gì danh tự?\"",
-      "dich": "Điều này làm Viên Minh càng thêm bối rối.",
-      "suggest": "\"Ha ha, không ngờ lại là bạn tốt trong đồng đạo a, ta tên A Mộc Hợp, tiểu huynh đệ ngươi tên gì?\""
+      "dich": "\"Ha ha ha, không ngờ là người đồng đạo nha. Ta gọi A Mộc Hợp, tiểu huynh đệ ngươi tên là gì?\"",
+      "suggest": "\"Ha ha, không ngờ lại là bạn tốt trong đồng đạo a, ta tên A Mộc Hợp, tiểu huynh đệ ngươi tên gì?\"",
+      "approved": true
     },
     {
       "convert": "Lôi thôi sư huynh một đập Viên Minh bả vai, cao giọng cười to nói, chấn động Viên Minh đám tai một trận phát mộng.",
-      "dich": "\"Ha ha ha, không ngờ là người đồng đạo nha.",
-      "suggest": "Lôi thôi sư huynh đấm mạnh vào bả vai Viên Minh, lớn tiếng cười nói, chấn cho đám tai Viên Minh phát mộng."
+      "dich": "Sư huynh lôi thôi vỗ vai Viên Minh, cao giọng cười nói sang sảng, chấn cho lỗ tai Viên Minh ong ong một hồi.",
+      "suggest": "Lôi thôi sư huynh đấm mạnh vào bả vai Viên Minh, lớn tiếng cười nói, chấn cho đám tai Viên Minh phát mộng.",
+      "approved": true
     },
     {
       "convert": "Còn không đợi Viên Minh trả lời, viện trung mấy cái cửa sổ đóng chặt ốc tử trong liền có tức giận mắng tiếng truyền đến:",
-      "dich": "Ta gọi A Mộc Hợp, tiểu huynh đệ ngươi tên là gì?\"",
-      "suggest": "Không đợi Viên Minh trả lời, trong mấy cái cửa sổ đóng chặt ở góc phòng đã truyền đến một giọng mắng chửi tức giận:"
+      "dich": "Viên Minh còn chưa kịp trả lời, chợt nghe một loạt những tiếng chửi mắng từ trong mấy gian phòng cửa sổ đóng chặt truyền ra:",
+      "suggest": "Không đợi Viên Minh trả lời, trong mấy cái cửa sổ đóng chặt ở góc phòng đã truyền đến một giọng mắng chửi tức giận:",
+      "approved": true,
+      "chinese": {
+        "raw": "还不等袁铭答话，院中几个门窗紧闭的屋子里就有怒骂声传来：",
+        "text": "Còn không đợi Viên Minh trả lời, trong viện mấy cửa cửa sổ đóng chặt đích trong phòng liền có tiếng mắng chửi truyền đến :",
+        "index": 25
+      }
     },
     {
       "convert": "\"A Mộc Hợp, bế lại ngươi miệng chó ......\"",
-      "dich": "Sư huynh lôi thôi vỗ vai Viên Minh, cao giọng cười nói sang sảng, chấn cho lỗ tai Viên Minh ong ong một hồi.",
-      "suggest": "\"A Mộc Hợp, bế ngươi miệng chó ...\""
+      "dich": "\"A Mộc Hợp, ngậm cái miệng chó của ngươi vào ...\"",
+      "suggest": "\"A Mộc Hợp, bế ngươi miệng chó ...\"",
+      "approved": true
     },
     {
       "convert": "\"A Mộc Hợp, cười nữa bạt ngươi đầu lưỡi ......\"",
-      "dich": "Viên Minh còn chưa kịp trả lời, chợt nghe một loạt những tiếng chửi mắng từ trong mấy gian phòng cửa sổ đóng chặt truyền ra:",
-      "suggest": "\"A Mộc Hợp, cười nữa đi, nhổ đầu ngươi ra đi ...\""
+      "dich": "\"A Mộc Hợp, còn cười nữa ta rút lưỡi ngươi ...\"",
+      "suggest": "\"A Mộc Hợp, cười nữa đi, nhổ đầu ngươi ra đi ...\"",
+      "approved": true
     },
     {
       "convert": "\"A Mộc Hợp, an tĩnh ......\"",
-      "dich": "\"A Mộc Hợp, ngậm cái miệng chó của ngươi vào ...\"",
-      "suggest": "\"A Mộc Hợp, an tĩnh ...\""
+      "dich": "\"A Mộc Hợp, im lặng ...\"",
+      "suggest": "\"A Mộc Hợp, an tĩnh ...\"",
+      "approved": true
     },
     {
       "convert": "A Mộc Hợp nghe vậy, lập tức im bặt, sau đó hạ thấp giọng, đối Viên Minh nói ra: \"Đi mau, đi mau, mấy cái lão gia hỏa chính tại cấp pháp khí khắc phù khai linh, một lát nữa thất bại rồi, lại nên trách chúng ta rồi.\"",
-      "dich": "\"A Mộc Hợp, còn cười nữa ta rút lưỡi ngươi ...\"",
-      "suggest": "A Mộc Hợp nghe vậy, lập tức im bặt, sau đó hạ thấp giọng, đối Viên Minh nói: \"Đi mau, đi mau, mấy lão gia hỏa kia đang cấp pháp khí khắc phù khai linh, một lát nữa thất bại, chúng ta lại trách chúng ta.\""
+      "dich": "A Mộc Hợp nghe thế vội nín bặt, sau đó hạ giọng nói với Viên Minh: \"Đi mau, đi mai, mấy lão già kia đang khắc phù khai linh cho pháp khí, chút nữa thất bại lại đổ lên đầu chúng ta.\"",
+      "suggest": "A Mộc Hợp nghe vậy, lập tức im bặt, sau đó hạ thấp giọng, đối Viên Minh nói: \"Đi mau, đi mau, mấy lão gia hỏa kia đang cấp pháp khí khắc phù khai linh, một lát nữa thất bại, chúng ta lại trách chúng ta.\"",
+      "approved": true,
+      "chinese": {
+        "raw": "阿木合闻言，立马噤声，然后压低声音，对袁铭说道：“快走，快走，那几个老家伙正在给法器刻符开灵，一会儿失败了，又该怪我们了。”",
+        "text": "阿 mộc hợp nghe vậy, lập tức im bặt, nhưng sau hạ giọng, đối Viên Minh nói : “ đi mau, đi mau, mấy cái kia lão gia hỏa ngay tại cho pháp khí 刻 phù khai 灵, một lúc nhi thất bại rồi, lại này trách chúng ta rồi . ”",
+        "index": 30
+      }
     },
     {
       "convert": "Nói lấy, tựu dắt lấy Viên Minh tay áo hướng hậu viện phương hướng đi đến.",
-      "dich": "\"A Mộc Hợp, im lặng ...\"",
-      "suggest": "Nói xong, hắn dắt tay áo Viên Minh đi về phía hậu viện."
+      "dich": "Nói đoạn, y liền kéo tay áo Viên Minh đi tới phía hậu viện.",
+      "suggest": "Nói xong, hắn dắt tay áo Viên Minh đi về phía hậu viện.",
+      "approved": true,
+      "chinese": {
+        "raw": "说着，就拽着袁铭的袖子往后院方向走去。",
+        "text": "Nói, liền lôi lấy Viên Minh đích tay áo hướng hậu viện phương hướng đi đến .",
+        "index": 31
+      }
     },
     {
       "convert": "Viên Minh đi theo phía sau hắn, liền nghe đến một trận thanh âm cực thấp lảm nhảm niệm: \"Bà nương không sinh em bé, thì trách cạnh giường không thêu hoa, từng ngày đấy, người không làm quái lộ bất bình ......\"",
-      "dich": "A Mộc Hợp nghe thế vội nín bặt, sau đó hạ giọng nói với Viên Minh: \"Đi mau, đi mai, mấy lão già kia đang khắc phù khai linh cho pháp khí, chút nữa thất bại lại đổ lên đầu chúng ta.\"",
-      "suggest": "Viên Minh đi theo phía sau hắn, liền nghe một tràng thanh âm cực thấp lảm nhảm: \"Bà nương không sinh con, thì trách giường chiếu không thêu hoa, ngày nào cũng thế, người không làm chuyện quái dị ...\""
+      "dich": "Viên Minh đi theo sau lưng y, liền nghe được một tràng những tiếng lầu bầu cực nhỏ: \"Bà nương không sinh em bé lại đổ tại cạnh giường không chịu thêu hoa, qua mấy ngày nữa, ngươi chớ có đổ cho đường không bằng phẳng ...\"",
+      "suggest": "Viên Minh đi theo phía sau hắn, liền nghe một tràng thanh âm cực thấp lảm nhảm: \"Bà nương không sinh con, thì trách giường chiếu không thêu hoa, ngày nào cũng thế, người không làm chuyện quái dị ...\"",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭跟在他身后，就听到一阵声音极低的碎碎念：“婆娘不生娃，就怪炕边没绣花，一天天的，人不行怪路不平……”",
+        "text": "Viên Minh đi theo phía sau hắn, liền nghe được một trận thanh âm cực thấp đích nghĩ linh tinh : “ bà vợ bất sinh con nít, thì trách kháng bên không thêu hoa, một ngày thiên đích, người không được quái lộ bất bình ... ... ”",
+        "index": 32
+      }
     },
     {
       "convert": "Viên Minh bỗng thấy, kẻ này oán niệm sâu nặng a.",
-      "dich": "Nói đoạn, y liền kéo tay áo Viên Minh đi tới phía hậu viện.",
-      "suggest": "Viên Minh bỗng thấy, kẻ này thầm oán niệm sâu đậm."
+      "dich": "Viên Minh chợt cảm giác, tên này oán niệm sâu nặng quá ha.",
+      "suggest": "Viên Minh bỗng thấy, kẻ này thầm oán niệm sâu đậm.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭顿感，此子怨念深重啊。",
+        "text": "Viên Minh bỗng cảm thấy, người này oán niệm sâu nặng a .",
+        "index": 33
+      }
     },
     {
       "convert": "Hai người một đường đi đến hậu viện một tòa ốc nội, A Mộc Hợp buông xuống thủ thượng ống giấy, quay người đóng lại cửa phòng.",
-      "dich": "Viên Minh đi theo sau lưng y, liền nghe được một tràng những tiếng lầu bầu cực nhỏ: \"Bà nương không sinh em bé lại đổ tại cạnh giường không chịu thêu hoa, qua mấy ngày nữa, ngươi chớ có đổ cho đường không bằng phẳng ...\"",
-      "suggest": "Hai người một đường đi tới một căn phòng trong hậu viện, A Mộc Hợp buông ống giấy trên tay xuống, quay người đóng cửa phòng lại."
+      "dich": "Hai người đi một mạch vào trong một gian phòng ở hậu viện. Lúc này, A Mộc Hợp mới thả ống giấy trên tay xuống, quay người khép cửa phòng lại.",
+      "suggest": "Hai người một đường đi tới một căn phòng trong hậu viện, A Mộc Hợp buông ống giấy trên tay xuống, quay người đóng cửa phòng lại.",
+      "approved": true,
+      "chinese": {
+        "raw": "两人一路来到后院一座屋内，阿木合放下手上的纸筒，转身关上了房门。",
+        "text": "Hai người một đường đi tới hậu viện một tòa trong phòng, 阿 mộc hợp thả tay xuống thượng đích ống giấy, chuyển thân khép cửa phòng lại .",
+        "index": 34
+      }
     },
     {
       "convert": "Viên Minh mục quang một quét ốc nội, không khỏi có chút kinh ngạc.",
-      "dich": "Viên Minh chợt cảm giác, tên này oán niệm sâu nặng quá ha.",
-      "suggest": "Viên Minh đảo mắt nhìn vào trong phòng, không khỏi có chút kinh ngạc."
+      "dich": "Viên Minh đưa mắt quét quanh gian phòng, nhất thời không khỏi kinh ngạc.",
+      "suggest": "Viên Minh đảo mắt nhìn vào trong phòng, không khỏi có chút kinh ngạc.",
+      "approved": true
     },
     {
       "convert": "Chỉ thấy địa phương không tính quá lớn ốc lý, trang trí nhét được tràn tràn đầy đầy, có thể khăng khăng cùng A Mộc Hợp lôi thôi hình tượng cực kỳ không hợp, ốc tử trong trái lại thu thập được mười phần sạch sẽ.",
-      "dich": "Hai người đi một mạch vào trong một gian phòng ở hậu viện.",
-      "suggest": "Chỉ thấy nơi này không tính là quá lớn, đồ đạc bày biện đầy đủ nhưng vẫn khăng khăng giữ nguyên hình tượng lôi thôi với A Mộc Hợp, trong căn phòng này thực sự không được sạch sẽ chút nào."
+      "dich": "Chỉ thấy trong phòng căn phòng diện tích không lớn lắm bày biện đầy đồ đạc, có điều trái ngược với với hình tượng lôi thôi của A Mộc Hợp, gian phòng được sắp xếp vô cùng ngăn nắp, gọn gàng.",
+      "suggest": "Chỉ thấy nơi này không tính là quá lớn, đồ đạc bày biện đầy đủ nhưng vẫn khăng khăng giữ nguyên hình tượng lôi thôi với A Mộc Hợp, trong căn phòng này thực sự không được sạch sẽ chút nào.",
+      "approved": true,
+      "chinese": {
+        "raw": "只见地方不算太大的屋里，陈设塞得满满当当，可偏偏与阿木合邋遢的形象极为不符，屋子里倒是收拾得十分整洁。",
+        "text": "Chỉ kiến giải phương không tính quá lớn đích trong phòng, trần thiết nhét được đầy ắp, khả hết lần này tới lần khác cùng 阿 mộc hợp lôi thôi đích hình tượng cực kì không hợp, trong phòng ngược lại thu thập được thập phần sạch sẽ .",
+        "index": 36
+      }
     },
     {
       "convert": "Trừ bắc tường để đó một trương giường hẹp, Viên Minh trước mặt đặt hai trương bàn vuông ngoại, ốc lý đông tường cùng tây tường, toàn bộ bày biện một loạt cao đến một người mộc đầu giá sách, bên trong chỉnh tề chồng chất lấy từng cái hình tròn ống giấy.",
-      "dich": "Lúc này, A Mộc Hợp mới thả ống giấy trên tay xuống, quay người khép cửa phòng lại.",
-      "suggest": "Trừ giường hẹp phía bắc, trước mặt Viên Minh đặt hai bàn vuông, bàn vuông ở hai bên, tường phía Đông và Tây, toàn bộ đều bày biện một giá sách cao tới một người lớn, bên trong chỉnh tề treo từng ống giấy hình tròn."
+      "dich": "Ngoại trừ một chiếc giường ở sát bức tường phía bắc và hai chiếc bàn vuông trước mặt Viên Minh, sát các bức tường phía đông và phía tây của căn phòng đều bày một dãy giá sách bằng gỗ cao ngang đầu người, bên trong xếp những ống giấy tròn ngăn nắp.",
+      "suggest": "Trừ giường hẹp phía bắc, trước mặt Viên Minh đặt hai bàn vuông, bàn vuông ở hai bên, tường phía Đông và Tây, toàn bộ đều bày biện một giá sách cao tới một người lớn, bên trong chỉnh tề treo từng ống giấy hình tròn.",
+      "approved": true,
+      "chinese": {
+        "raw": "除了北墙放着一张床榻，袁铭跟前搁着两张方桌外，屋里东墙和西墙，全都摆着一排一人来高的木头书架，里面整齐码放着一个个圆形纸筒。",
+        "text": "Trừ bỏ bắc tường đặt vào một cái giường, Viên Minh sắp tới đặt hai tấm bàn vuông ngoại, trong phòng tường đông cùng tây tường, tất cả đều bày biện một dãy cao đến một người đích đầu gỗ giá sách, bên trong chỉnh tề xếp chồng chất lấy từng cái hình tròn ống giấy .",
+        "index": 37
+      }
     },
     {
       "convert": "Mà hắn trước thân hai trương bàn vuông, thì bị ghép thành một khối, thành rồi một trương bàn dài, thượng diện bên trái nhất chỉnh tề trưng bày giá bút, mực cùng nghiên mực, bên cạnh là một xấp chồng chất chỉnh tề giấy trắng.",
-      "dich": "Viên Minh đưa mắt quét quanh gian phòng, nhất thời không khỏi kinh ngạc.",
-      "suggest": "Mà hai cái bàn trước mặt hắn, lại được ghép thành một khối, trên bàn dài phía trước là một cái bàn dài, bên trái bàn có sắp xếp các loại bút, mực và nghiên mực, bên cạnh là một xấp giấy trắng chỉnh tề."
+      "dich": "Hai chiếc bàn vuông trước mặt được ghép lại với nhau thành một chiếc bàn dài, phía trên bên trái có đặt ngay ngắn giá bút, mực và nghiên mực, bên cạnh là một xấp giấy trắng được gấp lại một cách chỉnh tề.",
+      "suggest": "Mà hai cái bàn trước mặt hắn, lại được ghép thành một khối, trên bàn dài phía trước là một cái bàn dài, bên trái bàn có sắp xếp các loại bút, mực và nghiên mực, bên cạnh là một xấp giấy trắng chỉnh tề.",
+      "approved": true,
+      "chinese": {
+        "raw": "而他身前的两张方桌，则被并在了一起，成了一张长桌，上面最左边整齐摆放着笔架，墨和砚台，旁边是一沓叠放整齐的白纸。",
+        "text": "Mà trước người hắn đích hai tấm bàn vuông, thì cũng bị ở cùng nhau, thành một trương bàn dài, thượng diện bên trái nhất chỉnh tề trưng bày giá bút, mực cùng nghiên mực, bên cạnh là một xấp chồng chất chỉnh tề đích giấy trắng .",
+        "index": 38
+      }
     },
     {
       "convert": "Tại dưới đáy bàn, thì là tịnh bài phóng lấy ba cái bện trúc đại khung, bên trong đầy đủ nặn thành đoàn trang giấy.",
-      "dich": "Chỉ thấy trong phòng căn phòng diện tích không lớn lắm bày biện đầy đồ đạc, có điều trái ngược với với hình tượng lôi thôi của A Mộc Hợp, gian phòng được sắp xếp vô cùng ngăn nắp, gọn gàng.",
-      "suggest": "Dưới đáy bàn, là ba cái khung bằng đồng, bên trong có đầy đủ giấy tờ được gấp lại."
+      "dich": "Dưới gầm bàn có ba cái giỏ lớn bằng trúc xếp cạnh nhau, trong đó chất đầy giấy đã bị vò thành cục.",
+      "suggest": "Dưới đáy bàn, là ba cái khung bằng đồng, bên trong có đầy đủ giấy tờ được gấp lại.",
+      "approved": true,
+      "chinese": {
+        "raw": "在桌子底下，则是并排放着三个竹编的大框，里面盛满了揉成团的纸张。",
+        "text": "Tại dưới đáy bàn, thì là song song đặt vào ba cái hàng tre trúc đích đại khung, bên trong đựng rồi vê thành 团 đích trang giấy .",
+        "index": 39
+      }
     },
     {
       "convert": "Để Viên Minh có chút không hiểu là, khung trúc bên cạnh còn để đó một cái chứa nước thùng gỗ, bên trong tối như mực đấy, chiếu đến nhàn nhạt gợn sóng.",
-      "dich": "Ngoại trừ một chiếc giường ở sát bức tường phía bắc và hai chiếc bàn vuông trước mặt Viên Minh, sát các bức tường phía đông và phía tây của căn phòng đều bày một dãy giá sách bằng gỗ cao ngang đầu người, bên trong xếp những ống giấy tròn ngăn nắp.",
-      "suggest": "Điều khiến Viên Minh có chút không hiểu là bên cạnh khung trúc còn để một thùng gỗ chứa nước, bên trong tối om như mực, ánh trăng mờ ảo chiếu xuống."
+      "dich": "Điều khiến Viên Minh hơi khó hiểu chính là, bên cạnh giỏ trúc còn đặt một thùng gỗ đựng nước, bên trong đen kịa, lờ mờ chiếu ra những gợn sóng lăn tăn.",
+      "suggest": "Điều khiến Viên Minh có chút không hiểu là bên cạnh khung trúc còn để một thùng gỗ chứa nước, bên trong tối om như mực, ánh trăng mờ ảo chiếu xuống.",
+      "approved": true,
+      "chinese": {
+        "raw": "让袁铭有些不解的是，竹筐的旁边还放着一个盛水的木桶，里面黑漆漆的，映着浅浅的波纹。",
+        "text": "Khiến Viên Minh có chút không hiểu là, giỏ trúc đích bên cạnh còn đặt vào một cái chứa nước đích thùng gỗ, bên trong đen như mực, chiếu đến thiển thiển đích sóng gợn .",
+        "index": 40
+      }
     },
     {
       "convert": "\"Tiểu huynh đệ, ngươi vừa nói, ngươi tên gì ấy nhỉ?\"",
-      "dich": "Hai chiếc bàn vuông trước mặt được ghép lại với nhau thành một chiếc bàn dài, phía trên bên trái có đặt ngay ngắn giá bút, mực và nghiên mực, bên cạnh là một xấp giấy trắng được gấp lại một cách chỉnh tề.",
-      "suggest": "\"Tiểu huynh đệ, ngươi vừa nói, ngươi tên gì nhỉ?\""
+      "dich": "\"Tiểu huynh đệ, người vừa mới nói, ngươi tên là gì?\"",
+      "suggest": "\"Tiểu huynh đệ, ngươi vừa nói, ngươi tên gì nhỉ?\"",
+      "approved": true
     },
     {
       "convert": "A Mộc Hợp nhìn hướng Viên Minh, truy vấn.",
-      "dich": "Dưới gầm bàn có ba cái giỏ lớn bằng trúc xếp cạnh nhau, trong đó chất đầy giấy đã bị vò thành cục.",
-      "suggest": "A Mộc Hợp nhìn Viên Minh, hỏi."
+      "dich": "A Mộc Hợp nhìn Viên Minh hỏi.",
+      "suggest": "A Mộc Hợp nhìn Viên Minh, hỏi.",
+      "approved": true
     },
     {
       "convert": "Viên Minh mới lại được không, nhanh chóng tự báo danh hào.",
-      "dich": "Điều khiến Viên Minh hơi khó hiểu chính là, bên cạnh giỏ trúc còn đặt một thùng gỗ đựng nước, bên trong đen kịa, lờ mờ chiếu ra những gợn sóng lăn tăn.",
-      "suggest": "Viên Minh mới nhận được không, nhanh chóng tự xưng danh hào."
+      "dich": "Viên Minh lúc này mới rảnh rỗi, vội vàng xưng tên.",
+      "suggest": "Viên Minh mới nhận được không, nhanh chóng tự xưng danh hào.",
+      "approved": true
     },
     {
       "convert": "\"Viên Minh ...... giống như nghe ai nói qua ......\"",
-      "dich": "\"Tiểu huynh đệ, người vừa mới nói, ngươi tên là gì?\"",
-      "suggest": "\"Viên Minh ... hình như nghe ai nói qua ...\""
+      "dich": "\"Viên Minh, hình như từng nghe ai nhắc qua ...\"",
+      "suggest": "\"Viên Minh ... hình như nghe ai nói qua ...\"",
+      "approved": true
     },
     {
       "convert": "A Mộc Hợp gãi gãi có chút lộn xộn đầu tóc.",
-      "dich": "A Mộc Hợp nhìn Viên Minh hỏi.",
-      "suggest": "A Mộc Hợp gãi gãi mái tóc lộn xộn của mình."
+      "dich": "A Mộc Hợp gãi gãi mái tóc hơi rối của mình.",
+      "suggest": "A Mộc Hợp gãi gãi mái tóc lộn xộn của mình.",
+      "approved": true
     },
     {
-      "convert": "Lập tức, hắn lại lắc lắc đầu, tựa hồ không nhớ ra được là ai nói qua, lại cảm thấy không quá quan trọng,",
-      "dich": "Viên Minh lúc này mới rảnh rỗi, vội vàng xưng tên.",
-      "suggest": "Lập tức, hắn lại lắc lắc đầu, tựa hồ không nhớ ra là ai nói, lại cảm thấy không quan trọng"
-    },
-    {
-      "convert": "Mở miệng truy vấn:",
-      "dich": "\"Viên Minh, hình như từng nghe ai nhắc qua ...\"",
-      "suggest": "Mở miệng hỏi:"
+      "convert": "Lập tức, hắn lại lắc lắc đầu, tựa hồ không nhớ ra được là ai nói qua, lại cảm thấy không quá quan trọng, mở miệng truy vấn:",
+      "dich": "Bỗng nhiên, y lại lắc đầu tựa như không nhớ ra được là ai từng nói, đồng thời cảm thấy nó không quá quan trọng, bèn mở miệng hỏi:",
+      "suggest": "Lập tức, hắn lại lắc lắc đầu, tựa hồ không nhớ ra là ai nói, lại cảm thấy không quan trọng. Mở miệng hỏi:",
+      "approved": true
     },
     {
       "convert": "\"Một dạng đệ tử sẽ không tới khí lư bên này, ngươi là có chuyện gì a, cứ nói đừng ngại.\"",
-      "dich": "A Mộc Hợp gãi gãi mái tóc hơi rối của mình.",
-      "suggest": "\"Một đệ tử không tới khí lư này, ngươi có chuyện gì cứ nói đừng ngại.\""
+      "dich": "\"Đệ tử bình thường sẽ không tới khí lư bên này, ngươi có chuyện gì, cứ nói đừng ngại.\"",
+      "suggest": "\"Một đệ tử không tới khí lư này, ngươi có chuyện gì cứ nói đừng ngại.\"",
+      "approved": true,
+      "chinese": {
+        "raw": "“一般弟子不会来器庐这边，你是有什么事吧，但说无妨。”",
+        "text": "“ đệ tử bình thường sẽ không tới khí lư bên này, ngươi là có chuyện gì nhỉ, cứ nói đừng ngại . ”",
+        "index": 45
+      }
     },
     {
       "convert": "\"Ta hôm qua hoàn thành nghìn chùy luyện phôi, Tam động chủ mệnh ta tới cùng sư huynh học tập họa phù.\"",
-      "dich": "Bỗng nhiên, y lại lắc đầu tựa như không nhớ ra được là ai từng nói, đồng thời cảm thấy nó không quá quan trọng, bèn mở miệng hỏi:",
-      "suggest": "\"Ta hôm qua hoàn thành nghìn chùy luyện phôi, tam động chủ mệnh ta tới học họa phù cùng sư huynh.\""
+      "dich": "\"Ta hôm qua hoàn thành mục tiêu rèn phôi ngàn búa, Tam động chủ lệnh ta đến chỗ sư huynh học vẽ phù.\"",
+      "suggest": "\"Ta hôm qua hoàn thành nghìn chùy luyện phôi, tam động chủ mệnh ta tới học họa phù cùng sư huynh.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh nói ra.",
-      "dich": "\"Đệ tử bình thường sẽ không tới khí lư bên này, ngươi có chuyện gì, cứ nói đừng ngại.\"",
-      "suggest": "Viên Minh nói."
+      "dich": "Viên Minh đáp.",
+      "suggest": "Viên Minh nói.",
+      "approved": true
     },
     {
       "convert": "A Mộc Hợp nghe vậy, nhẹ gật đầu, nói ra: \"Không sai, không sai, thượng một cái hoàn thành nghìn chùy luyện phôi người vẫn là ......\"",
-      "dich": "\"Ta hôm qua hoàn thành mục tiêu rèn phôi ngàn búa, Tam động chủ lệnh ta đến chỗ sư huynh học vẽ phù.\"",
-      "suggest": "A Mộc Hợp nghe vậy, khẽ gật đầu, đáp: \"Không sai, không sai, người hoàn thành nghìn chùy luyện phôi vẫn là ......\""
+      "dich": "A Mộc Hợp nghe thế khẽ gật đầu, nói: \"Không tệ, không tệ, người gần nhất hoàn thành ngàn búa rèn phôi chính là ...\"",
+      "suggest": "A Mộc Hợp nghe vậy, khẽ gật đầu, đáp: \"Không sai, không sai, người hoàn thành nghìn chùy luyện phôi vẫn là ......\"",
+      "approved": true,
+      "chinese": {
+        "raw": "阿木合闻言，点了点头，说道：“不错，不错，上一个完成千锤炼胚的人还是……”",
+        "text": "阿 mộc hợp nghe vậy, gật gật đầu, nói : “ không tệ, không tệ, cái trước hoàn thành nghìn rèn luyện phôi đích người vẫn là ... ... ”",
+        "index": 47
+      }
     },
     {
       "convert": "\"Vẫn là thượng một cá nhân.\" Hắn nghĩ nửa ngày, vẫn là nghĩ không ra người kia danh tự.",
-      "dich": "Viên Minh đáp.",
-      "suggest": "\"Vẫn là một người.\" Hắn nghĩ nửa ngày, vẫn không nghĩ ra tên người kia."
+      "dich": "\"Chính là người gần nhất.\" Y nghĩ một lúc lâu mà vẫn không nghĩ ra được tên họ người kia.",
+      "suggest": "\"Vẫn là một người.\" Hắn nghĩ nửa ngày, vẫn không nghĩ ra tên người kia.",
+      "approved": true
     },
     {
       "convert": "Viên Minh nghe được một trận không nói.",
-      "dich": "A Mộc Hợp nghe thế khẽ gật đầu, nói: \"Không tệ, không tệ, người gần nhất hoàn thành ngàn búa rèn phôi chính là ...\"",
-      "suggest": "Viên Minh nghe xong không nói gì nữa."
+      "dich": "Viên Minh nghe xong chỉ biết câm nín.",
+      "suggest": "Viên Minh nghe xong không nói gì nữa.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭听得一阵无语。",
+        "text": "Viên Minh nghe được không còn gì để nói .",
+        "index": 49
+      }
     },
     {
       "convert": "\"Vừa mới ngươi nói nhìn những thứ kia phù văn sẽ có bất đồng cảm ngộ, này rất không tồi, nói rõ ngươi hoặc là tại họa phù một chuyện thượng rất có thiên tư, hoặc là chính là trời sinh thần hồn cường đại.\"",
-      "dich": "\"Chính là người gần nhất.\" Y nghĩ một lúc lâu mà vẫn không nghĩ ra được tên họ người kia.",
-      "suggest": "\"Vừa rồi ngươi nói nhìn những phù văn kia sẽ có cảm ngộ khác nhau, điều này rất tốt, nói rõ ngươi hoặc là trong lúc họa phù nói chuyện, hoặc là trời sinh thần hồn cường đại.\""
+      "dich": "\"Vừa rồi người nói, khi nhìn những phù văn kia sẽ có cảm ngộ khác nhau, điều này rất tốt, nó nói rõ ngươi hoặc là thiên tư rất cao trên phương diện vẽ phù, hoặc là kẻ trời sinh thần hồn cường đại.\"",
+      "suggest": "\"Vừa rồi ngươi nói nhìn những phù văn kia sẽ có cảm ngộ khác nhau, điều này rất tốt, nói rõ ngươi hoặc là trong lúc họa phù nói chuyện, hoặc là trời sinh thần hồn cường đại.\"",
+      "approved": true
     },
     {
       "convert": "A Mộc Hợp không có chút cảm giác lúng túng, mở miệng nói ra.",
-      "dich": "Viên Minh nghe xong chỉ biết câm nín.",
-      "suggest": "A Mộc Hợp không hề cảm thấy lúng túng, mở miệng nói."
+      "dich": "A Mộc Hợp cũng không thấy xấu hổ chút nào, đường hoàng nói.",
+      "suggest": "A Mộc Hợp không hề cảm thấy lúng túng, mở miệng nói.",
+      "approved": true
     },
     {
       "convert": "Viên Minh suy nghĩ một chút, liền cảm thấy đại xác suất là hậu giả, hơn nữa hắn thần hồn cũng không phải trời sinh cường đại, mà là tu luyện < Minh Nguyệt Quyết > làm nên.",
-      "dich": "\"Vừa rồi người nói, khi nhìn những phù văn kia sẽ có cảm ngộ khác nhau, điều này rất tốt, nó nói rõ ngươi hoặc là thiên tư rất cao trên phương diện vẽ phù, hoặc là kẻ trời sinh thần hồn cường đại.\"",
-      "suggest": "Viên Minh suy nghĩ một chút, lập tức cảm thấy xác suất có thể là hậu giả rất cao, hơn nữa thần hồn hắn cũng không phải trời sinh cường đại, mà là tu luyện Minh Nguyệt Quyết."
+      "dich": "Viên Minh nghĩ ngẫm liền cảm thấy khả năng lớn là cái sau, hơn nữa thần hồn của hắn cũng không phải trời sinh cường đại, mà là do tu luyện Minh Nguyệt Quyết tạo ra.",
+      "suggest": "Viên Minh suy nghĩ một chút, lập tức cảm thấy xác suất có thể là hậu giả rất cao, hơn nữa thần hồn hắn cũng không phải trời sinh cường đại, mà là tu luyện Minh Nguyệt Quyết.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭想了想，便觉得大概率是后者，并且他的神魂也不是天生强大，而是修炼《冥月诀》所致。",
+        "text": "Viên Minh nghĩ nghĩ, liền cảm giác xác suất lớn là cái sau, mà còn thần hồn của hắn cũng không phải thiên sinh cường đại, mà là tu luyện 《 Minh Nguyệt quyết 》 bố trí .",
+        "index": 51
+      }
     },
     {
       "convert": "Một nghĩ đến đây, hắn lại vô thức nghĩ tới kia cái thần bí ngân miêu, bất quá cái này ý niệm chỉ là một lóe rồi mất.",
-      "dich": "A Mộc Hợp cũng không thấy xấu hổ chút nào, đường hoàng nói.",
-      "suggest": "Nghĩ tới đây, hắn lại vô thức nghĩ tới con mèo bạc thần bí kia, bất quá ý niệm này chỉ lóe lên mà thôi."
+      "dich": "Vừa nghĩ tới đây, hắn lại vô thức nhớ tới con mèo bạc thần bí kia, có điều ý nghĩ này chỉ thoáng lướt qua.",
+      "suggest": "Nghĩ tới đây, hắn lại vô thức nghĩ tới con mèo bạc thần bí kia, bất quá ý niệm này chỉ lóe lên mà thôi.",
+      "approved": true,
+      "chinese": {
+        "raw": "一念及此，他又下意识想到了那只神秘的银猫，不过这个念头只是一闪即逝。",
+        "text": "Vừa nghĩ đến đây, hắn lại theo bản năng nghĩ tới con kia thần bí đích ngân mèo, chẳng qua ý nghĩ này chỉ là một cái thoáng lướt qua .",
+        "index": 52
+      }
     },
     {
       "convert": "\"Sư huynh, vì sao ta sẽ có như thế cảm ứng?\"",
-      "dich": "Viên Minh nghĩ ngẫm liền cảm thấy khả năng lớn là cái sau, hơn nữa thần hồn của hắn cũng không phải trời sinh cường đại, mà là do tu luyện Minh Nguyệt Quyết tạo ra.",
-      "suggest": "\"Sư huynh, vì sao ta lại có cảm ứng như thế?\""
+      "dich": "\"Sư huynh, tại sao ta lại có cảm ứng như vậy?\"",
+      "suggest": "\"Sư huynh, vì sao ta lại có cảm ứng như thế?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh truy vấn.",
-      "dich": "Vừa nghĩ tới đây, hắn lại vô thức nhớ tới con mèo bạc thần bí kia, có điều ý nghĩ này chỉ thoáng lướt qua.",
-      "suggest": "Viên Minh truy hỏi."
+      "dich": "Viên Minh hỏi.",
+      "suggest": "Viên Minh truy hỏi.",
+      "approved": true
     },
     {
       "convert": "\"Ngươi thấy được những thứ kia pháp khí thượng phù văn, đều là kinh qua quán linh đấy, đã có rồi câu thông thiên địa linh khí cơ bản thuộc tính, đương ngươi thần hồn trút xuống, lại thần niệm đầy đủ chăm chú thời điểm, liền tự nhiên mà vậy có thể nhìn thấy được.\"",
-      "dich": "\"Sư huynh, tại sao ta lại có cảm ứng như vậy?\"",
-      "suggest": "\"Ngươi thấy được phù văn trên pháp khí kia đều là đã trải qua quán linh, đã có thuộc tính cơ bản của Linh Khí câu thông thiên địa, khi thần hồn ngươi trút xuống, lại có thần niệm đầy đủ, tự nhiên có thể nhìn thấy được.\""
+      "dich": "\"Những phù văn trên pháp khí mà ngươi thấy đều đã trải qua quán linh, đã có có thuộc tính cơ bản câu thông thiên địa linh khí, khi ngươi dồn thần hồn xuống, lại thêm thần niệm đủ chuyên chú, tự nhiên có thể nhìn thấy.\"",
+      "suggest": "\"Ngươi thấy được phù văn trên pháp khí kia đều là đã trải qua quán linh, đã có thuộc tính cơ bản của Linh Khí câu thông thiên địa, khi thần hồn ngươi trút xuống, lại có thần niệm đầy đủ, tự nhiên có thể nhìn thấy được.\"",
+      "approved": true
     },
     {
       "convert": "A Mộc Hợp nói ra.",
-      "dich": "Viên Minh hỏi.",
-      "suggest": "A Mộc Hợp nói."
+      "dich": "A Mộc Hợp giải thích.",
+      "suggest": "A Mộc Hợp nói.",
+      "approved": true
     },
     {
       "convert": "Viên Minh bừng tỉnh, trách không được lúc trước nhìn Hắc Mộc trưởng lão chép tay thượng hội chế phù văn lúc, tựu không có chủng kia cảm thụ.",
-      "dich": "\"Những phù văn trên pháp khí mà ngươi thấy đều đã trải qua quán linh, đã có có thuộc tính cơ bản câu thông thiên địa linh khí, khi ngươi dồn thần hồn xuống, lại thêm thần niệm đủ chuyên chú, tự nhiên có thể nhìn thấy.\"",
-      "suggest": "Viên Minh bừng tỉnh, trách không được lúc trước khi nhìn Phù văn do trưởng lão Hắc Mộc viết lúc trước, hắn đã không có cảm thụ loại cảm thụ này."
+      "dich": "Viên Minh giật mình, trách không được lúc trước khi nhìn phù văn trong bản chép tay của Hắc Mộc trưởng lão lại không có loại cảm giác đó.",
+      "suggest": "Viên Minh bừng tỉnh, trách không được lúc trước khi nhìn Phù văn do trưởng lão Hắc Mộc viết lúc trước, hắn đã không có cảm thụ loại cảm thụ này.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭恍然，怪不得先前看黑木长老手札上绘制的符文时，就没有那种感受了。",
+        "text": "Viên Minh bừng tỉnh, trách không được lúc trước coi hắc mộc trưởng lão bản chép tay thượng vẽ đích ký hiệu thời, liền không có loại kia cảm thụ .",
+        "index": 55
+      }
     },
     {
       "convert": "\"Nếu như ngươi đến rồi, ta hôm nay tựu bắt đầu dạy ngươi, từ nhận phù bắt đầu.\"",
-      "dich": "A Mộc Hợp giải thích.",
-      "suggest": "\"Nếu ngươi đã đến, hôm nay ta sẽ bắt đầu dạy ngươi, bắt đầu từ nhận Phù.\""
+      "dich": "\"Vì ngươi đã ở đây, hôm nay ta sẽ bắt đầu dạy ngươi luôn, bắt đầu từ việc nhận biết phù.\"",
+      "suggest": "\"Nếu ngươi đã đến, hôm nay ta sẽ bắt đầu dạy ngươi, bắt đầu từ nhận Phù.\"",
+      "approved": true
     },
     {
       "convert": "A Mộc Hợp nói ra.",
-      "dich": "Viên Minh giật mình, trách không được lúc trước khi nhìn phù văn trong bản chép tay của Hắc Mộc trưởng lão lại không có loại cảm giác đó.",
-      "suggest": "A Mộc Hợp nói."
+      "dich": "A Mộc Hợp nói.",
+      "suggest": "A Mộc Hợp nói.",
+      "approved": true
     },
     {
       "convert": "Nói lấy, hắn liền xoay người từ trên giá sách lấy ra một bản thủ công đinh chế thư sách, bày tại trên bàn dài, mở ra.",
-      "dich": "\"Vì ngươi đã ở đây, hôm nay ta sẽ bắt đầu dạy ngươi luôn, bắt đầu từ việc nhận biết phù.\"",
-      "suggest": "Nói xong, hắn xoay người lấy một cuốn thư sách bằng đinh từ trên giá sách ra, đặt lên bàn dài, mở ra."
+      "dich": "Nói xong, y liền xoay người lấy một cuốn sách đóng gáy bằng tay từ trên giá sách xuống, đặt lên bàn rồi mở ra.",
+      "suggest": "Nói xong, hắn xoay người lấy một cuốn thư sách bằng đinh từ trên giá sách ra, đặt lên bàn dài, mở ra.",
+      "approved": true
     },
     {
       "convert": "\"Cái này có chứa cung tròn vặn vẹo đường nét đấy, là hỏa diễm văn, cái này ba đầu tuyến văn ngang hàng vặn vẹo đấy, là thủy lãng văn, cái này góc cạnh rõ ràng đấy, là thổ nham văn ......\"",
-      "dich": "A Mộc Hợp nói.",
-      "suggest": "\"Cái này có chứa đường cong của cung tròn, là hỏa diễm văn, ba đường cong ngang hàng vặn vẹo, là thủy lãng văn, góc cạnh rõ ràng là thổ nham văn ...\""
+      "dich": "\"Cái có các đường xoắn vòng cung là hỏa diễm văn, cái có ba đường song song lượn sóng này là thủy lãng văn, cái có góc cạnh rõ ràng là thổ nham văn ...\"",
+      "suggest": "\"Cái này có chứa đường cong của cung tròn, là hỏa diễm văn, ba đường cong ngang hàng vặn vẹo, là thủy lãng văn, góc cạnh rõ ràng là thổ nham văn ...\"",
+      "approved": true
     },
     {
       "convert": "A Mộc Hợp một bên lật giấy, vừa nói.",
-      "dich": "Nói xong, y liền xoay người lấy một cuốn sách đóng gáy bằng tay từ trên giá sách xuống, đặt lên bàn rồi mở ra.",
-      "suggest": "A Mộc Hợp vừa lật giấy, vừa nói."
+      "dich": "A Mộc Hợp vừa lật sách vừa nói.",
+      "suggest": "A Mộc Hợp vừa lật giấy, vừa nói.",
+      "approved": true
     },
     {
       "convert": "Viên Minh nhìn ở trong mắt, chân mày không khỏi hơi nhíu khởi lai.",
-      "dich": "\"Cái có các đường xoắn vòng cung là hỏa diễm văn, cái có ba đường song song lượn sóng này là thủy lãng văn, cái có góc cạnh rõ ràng là thổ nham văn ...\"",
-      "suggest": "Viên Minh nhìn vào trong mắt, không khỏi nhíu mày."
+      "dich": "Viên Minh thu hết vào trong mắt, lông mày không khỏi hơi nhíu lại.",
+      "suggest": "Viên Minh nhìn vào trong mắt, không khỏi nhíu mày.",
+      "approved": true
     },
     {
       "convert": "Hắn phát hiện, A Mộc Hợp cấp hắn nhìn những thứ này phù văn, cùng hắn tại Hắc Mộc trưởng lão chép tay trong nhìn thấy gắt gao không giống nhau, cùng hắn lúc trước tại bên ngoài pháp khí nhìn lên đến đấy, cũng không giống nhau dạng.",
-      "dich": "A Mộc Hợp vừa lật sách vừa nói.",
-      "suggest": "Hắn phát hiện, những phù văn mà A Mộc Hợp đưa cho hắn không giống nhau so với những gì hắn nhìn thấy ở trong tay trưởng lão Hắc Mộc trưởng lão, cùng với pháp khí mà hắn nhìn thấy bên ngoài cũng không giống nhau."
-    },
-    {
-      "convert": "\"...\"",
-      "dich": "Viên Minh thu hết vào trong mắt, lông mày không khỏi hơi nhíu lại.",
-      "suggest": "\"...\""
+      "dich": "Hắn phát hiện những phù văn mà A Mộc Hợp cho hắn xem, so với những cái hắn thấy trong bản chép tay của Hắc Mộc trưởng lão có khác biệt rất lớn, thậm chí so với những cái mới thấy trên pháp khí ban nãy cũng không giống.",
+      "suggest": "Hắn phát hiện, những phù văn mà A Mộc Hợp đưa cho hắn không giống nhau so với những gì hắn nhìn thấy ở trong tay trưởng lão Hắc Mộc trưởng lão, cùng với pháp khí mà hắn nhìn thấy bên ngoài cũng không giống nhau.",
+      "approved": true
     },
     {
       "convert": "\"Khép miệng.\" Viên Minh lời còn chưa hỏi ra lời, tựu bị một tiếng trách mắng đánh gãy.",
-      "dich": "Hắn phát hiện những phù văn mà A Mộc Hợp cho hắn xem, so với những cái hắn thấy trong bản chép tay của Hắc Mộc trưởng lão có khác biệt rất lớn, thậm chí so với những cái mới thấy trên pháp khí ban nãy cũng không giống.",
-      "suggest": "\"Cút ngay.\" Viên Minh còn chưa kịp hỏi ra lời, đã bị một tiếng mắng chửi đánh gãy."
+      "dich": "\"Ngậm miệng.\" Viên Minh còn chưa lên tiếng hỏi đã bị một tiếng quát lớn cắt ngang.",
+      "suggest": "\"Cút ngay.\" Viên Minh còn chưa kịp hỏi ra lời, đã bị một tiếng mắng chửi đánh gãy.",
+      "approved": true
     },
     {
       "convert": "Viên Minh bị dọa một khiêu, nhìn hướng cái kia đột nhiên phẫn nộ sư huynh, có chút không biết làm sao.",
-      "dich": "\"Ngậm miệng.\" Viên Minh còn chưa lên tiếng hỏi đã bị một tiếng quát lớn cắt ngang.",
-      "suggest": "Viên Minh bị dọa cho giật mình, nhìn về phía sư huynh đột nhiên phẫn nộ đột nhiên, có chút không biết làm sao."
+      "dich": "Viên Minh giật nảy mình, nhìn về phía vị sư huynh đột nhiên nổi giận, nhất thời có chút lúng túng.",
+      "suggest": "Viên Minh bị dọa cho giật mình, nhìn về phía sư huynh đột nhiên phẫn nộ đột nhiên, có chút không biết làm sao.",
+      "approved": true
     },
     {
       "convert": "\"Ta giảng phù văn tri thức thời điểm, không cho phép đánh gãy.\"",
-      "dich": "Viên Minh giật nảy mình, nhìn về phía vị sư huynh đột nhiên nổi giận, nhất thời có chút lúng túng.",
-      "suggest": "\"Khi ta giảng Phù Văn, không được phép bẻ gãy.\""
+      "dich": "\"Lúc ta giảng tri thức phù văn, không được phép cắt ngang.\"",
+      "suggest": "\"Khi ta giảng Phù Văn, không được phép bẻ gãy.\"",
+      "approved": true
     },
     {
       "convert": "A Mộc Hợp lạnh giọng nói ra.",
-      "dich": "\"Lúc ta giảng tri thức phù văn, không được phép cắt ngang.\"",
-      "suggest": "A Mộc Hợp lạnh giọng nói."
+      "dich": "A Mộc Hợp nghiêm nghị ngói.",
+      "suggest": "A Mộc Hợp lạnh giọng nói.",
+      "approved": true
     },
     {
       "convert": "\"Minh bạch rồi.\" Viên Minh nuốt một ngụm nước bọt, thế mới biết vì cái gì Phương Cách sư huynh, biết nói A Mộc Hợp tính cách cổ quái.",
-      "dich": "A Mộc Hợp nghiêm nghị ngói.",
-      "suggest": "\"Ta hiểu rõ.\" Viên Minh nuốt khan một cái, thế mới biết vì sao Phương Cách sư huynh lại có tính cách cổ quái như vậy, biết đâu lại là do tính cách A Mộc Hợp."
+      "dich": "\"Đã rõ.\" Viên Minh nuốt nuốt bọt, thế mới biết vì cái gì mà Phương Cách sư huynh lại nói A Mộc Hợp tính tính cổ quái.",
+      "suggest": "\"Ta hiểu rõ.\" Viên Minh nuốt khan một cái, thế mới biết vì sao Phương Cách sư huynh lại có tính cách cổ quái như vậy, biết đâu lại là do tính cách A Mộc Hợp.",
+      "approved": true
     },
     {
       "convert": "A Mộc Hợp tiếp tục giảng giải, hướng mặt sau tiếp tục lật qua đi, Viên Minh mới phát hiện mặt sau phù văn bắt đầu \"Bình thường\" khởi lai, cùng hắn lúc trước đã thấy phù văn có thể đối ứng nổi lên rồi.",
-      "dich": "\"Đã rõ.\" Viên Minh nuốt nuốt bọt, thế mới biết vì cái gì mà Phương Cách sư huynh lại nói A Mộc Hợp tính tính cổ quái.",
-      "suggest": "A Mộc Hợp tiếp tục giảng giải, lật qua lật lại phía sau, Viên Minh lúc này mới phát hiện phù văn phía sau bắt đầu \"bình thường\", so với phù văn hắn thấy lúc trước thì khác xa nhau."
+      "dich": "A Mộc Hợp giảng tiếp, đồng thời tiếp tục lật sang phần sau. Viên Minh lúc này mới phát hiện phù văn đằng sau bắt đầu trở nên \"bình thường\", tương ứng với những phù văn mà hắn thấy trước đó.",
+      "suggest": "A Mộc Hợp tiếp tục giảng giải, lật qua lật lại phía sau, Viên Minh lúc này mới phát hiện phù văn phía sau bắt đầu \"bình thường\", so với phù văn hắn thấy lúc trước thì khác xa nhau.",
+      "approved": true
     },
     {
       "convert": "Đợi đến sở hữu phù văn bày khắp hoàn tất, A Mộc Hợp mới mở miệng truy vấn: \"Có cái gì không hiểu sao?",
-      "dich": "A Mộc Hợp giảng tiếp, đồng thời tiếp tục lật sang phần sau.",
-      "suggest": "Đợi đến khi toàn bộ Phù văn được bày ra, A Mộc Hợp mới mở miệng hỏi: \"Có cái gì không hiểu?"
+      "dich": "Đợi đến khi xem hết tất cả phù văn, A Mộc Hợp mới cất tiếng hỏi: \"Có cái gì không hiểu không?\"",
+      "suggest": "Đợi đến khi toàn bộ Phù văn được bày ra, A Mộc Hợp mới mở miệng hỏi: \"Có cái gì không hiểu?",
+      "approved": true
     },
     {
       "convert": "\"A, sư huynh, ta là muốn hỏi, mặt trước vài loại phù văn như thế nào cùng mặt sau khác biệt lớn như vậy?\"",
-      "dich": "Viên Minh lúc này mới phát hiện phù văn đằng sau bắt đầu trở nên \"bình thường\", tương ứng với những phù văn mà hắn thấy trước đó.",
-      "suggest": "\"A, sư huynh, ta muốn hỏi một điều, mấy loại Phù văn mặt trước có khác biệt lớn như vậy so với mặt sau?\""
+      "dich": "\"A, sư huynh, ta muốn hỏi, mấy loại phù văn đằng trước so với đằng sau sao lại khác biệt lớn như vậy?\"",
+      "suggest": "\"A, sư huynh, ta muốn hỏi một điều, mấy loại Phù văn mặt trước có khác biệt lớn như vậy so với mặt sau?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh hỏi vội.",
-      "dich": "Đợi đến khi xem hết tất cả phù văn, A Mộc Hợp mới cất tiếng hỏi: \"Có cái gì không hiểu không?\"",
-      "suggest": "Viên Minh hỏi dồn."
+      "dich": "Viên Minh vội hỏi.",
+      "suggest": "Viên Minh hỏi dồn.",
+      "approved": true
     },
     {
       "convert": "\"Mặt trước vài loại là cực kỳ cơ sở Ngũ Hành thuộc tính phù văn, giống như là học tập viết chữ bút họa, mặt sau phù văn phần lớn là chúng nó biến hình hoặc là gây dựng lại.",
-      "dich": "\"A, sư huynh, ta muốn hỏi, mấy loại phù văn đằng trước so với đằng sau sao lại khác biệt lớn như vậy?\"",
-      "suggest": "\"Mặt trước có vài loại Phù văn thuộc tính cơ sở, trông giống như là bút họa học tập, mặt sau phù văn phần lớn là chúng biến hình hoặc là tạo dựng lại."
+      "dich": "\"Mấy loại đằng trước là phù văn thuộc tính ngũ hành cơ bản nhất, tựa như học viết chữ vẽ tranh, phù văn đằng sau đa số là do chúng biến hình hoặc tổ hợp lại.",
+      "suggest": "\"Mặt trước có vài loại Phù văn thuộc tính cơ sở, trông giống như là bút họa học tập, mặt sau phù văn phần lớn là chúng biến hình hoặc là tạo dựng lại.",
+      "approved": true
     },
     {
       "convert": "Để ngươi học tập cái này, là phòng bị ngày sau gặp được, nhận không ra.\"",
-      "dich": "Viên Minh vội hỏi.",
-      "suggest": "Để ngươi học tập cái này là để phòng ngừa sau này gặp phải, không nhận ra.\""
+      "dich": "Cho ngươi học cái này là để phòng sau này nhìn thấy lại nhận không ra.\"",
+      "suggest": "Để ngươi học tập cái này là để phòng ngừa sau này gặp phải, không nhận ra.\"",
+      "approved": true
     },
     {
       "convert": "A Mộc Hợp giải thích nói.",
-      "dich": "\"Mấy loại đằng trước là phù văn thuộc tính ngũ hành cơ bản nhất, tựa như học viết chữ vẽ tranh, phù văn đằng sau đa số là do chúng biến hình hoặc tổ hợp lại.",
-      "suggest": "A Mộc Hợp giải thích."
+      "dich": "A Mộc Hợp giảng thích.",
+      "suggest": "A Mộc Hợp giải thích.",
+      "approved": true
     },
     {
       "convert": "\"Thì ra là thế.\" Viên Minh bừng tỉnh nói.",
-      "dich": "Cho ngươi học cái này là để phòng sau này nhìn thấy lại nhận không ra.\"",
-      "suggest": "\"Thì ra là thế.\" Viên Minh bừng tỉnh nói."
+      "dich": "\"Thì ra là vậy.\" Viên Minh giật mình nói.",
+      "suggest": "\"Thì ra là thế.\" Viên Minh bừng tỉnh nói.",
+      "approved": true
     },
     {
       "convert": "\"Ngươi vừa mới bắt đầu học, không cần phải gấp hạ bút, trước đem những thứ này phù văn bộ dạng toàn bộ nhớ kỹ, chỉ có làm tới trong lòng có phù, hạ tay mới có thể họa được đi ra.\"",
-      "dich": "A Mộc Hợp giảng thích.",
-      "suggest": "\"Ngươi mới bắt đầu học, không cần phải gấp gáp hạ bút, trước hết hãy nhớ kỹ những phù văn này, chỉ khi làm tới chỗ trong lòng có phù, mới có thể họa ra được.\""
+      "dich": "\"Người vừa mới bắt đầu học, không cần vội hạ bút, trước tiên ghi nhớ hết hình dạng những phù văn này, chỉ khi đạt đến trình độ trong tâm có phù, lúc hạ bút mới có thể vẽ ra được.\"",
+      "suggest": "\"Ngươi mới bắt đầu học, không cần phải gấp gáp hạ bút, trước hết hãy nhớ kỹ những phù văn này, chỉ khi làm tới chỗ trong lòng có phù, mới có thể họa ra được.\"",
+      "approved": true
     },
     {
       "convert": "A Mộc Hợp nói ra.",
-      "dich": "\"Thì ra là vậy.\" Viên Minh giật mình nói.",
-      "suggest": "A Mộc Hợp nói."
+      "dich": "A Mộc Hợp nói.",
+      "suggest": "A Mộc Hợp nói.",
+      "approved": true
     },
     {
       "convert": "\"Là.\" Viên Minh lập tức đáp ứng.",
-      "dich": "\"Người vừa mới bắt đầu học, không cần vội hạ bút, trước tiên ghi nhớ hết hình dạng những phù văn này, chỉ khi đạt đến trình độ trong tâm có phù, lúc hạ bút mới có thể vẽ ra được.\"",
-      "suggest": "\"Được.\" Viên Minh đáp ứng."
+      "dich": "\"Vâng.\" Viên Minh lập tức đáp.",
+      "suggest": "\"Được.\" Viên Minh đáp ứng.",
+      "approved": true
     },
     {
       "convert": "\"Ngươi trước từ hỏa diễm văn bắt đầu đi, tử tế nhìn rõ ràng, nhớ kỹ mỗi một cái chi tiết, lại đến nếm thử hội chế.\"",
-      "dich": "\"Vâng.\" Viên Minh lập tức đáp.",
-      "suggest": "\"Ngươi hãy bắt đầu từ hỏa diễm đi, cẩn thận nhìn cho kỹ, nhớ kỹ mỗi một chi tiết rồi mới đến thử nghiệm.\""
+      "dich": "\"Ngươi trước tiên bắt đầu từ hỏa diễm văn đi, nhìn cho kỹ vào, ghi nhớ từng chi tiết nhỏ, sau đó đến vẽ thử.\"",
+      "suggest": "\"Ngươi hãy bắt đầu từ hỏa diễm đi, cẩn thận nhìn cho kỹ, nhớ kỹ mỗi một chi tiết rồi mới đến thử nghiệm.\"",
+      "approved": true
     },
     {
       "convert": "A Mộc Hợp nói ra.",
-      "dich": "\"Ngươi trước tiên bắt đầu từ hỏa diễm văn đi, nhìn cho kỹ vào, ghi nhớ từng chi tiết nhỏ, sau đó đến vẽ thử.\"",
-      "suggest": "A Mộc Hợp nói."
+      "dich": "A Mộc Hợp căn dặn.",
+      "suggest": "A Mộc Hợp nói.",
+      "approved": true
     },
     {
       "convert": "Nói lấy, hắn lật đến hỏa diễm văn, để Viên Minh tử tế quan sát.",
-      "dich": "A Mộc Hợp căn dặn.",
-      "suggest": "Nói xong, hắn lật quyển Hỏa Diễm Văn lên, để Viên Minh cẩn thận quan sát."
+      "dich": "Nói đoạn, y lật đến hỏa diễm văn để Viên Minh tự quan sát kỹ.",
+      "suggest": "Nói xong, hắn lật quyển Hỏa Diễm Văn lên, để Viên Minh cẩn thận quan sát.",
+      "approved": true
     },
     {
       "convert": "\"Ta xem rõ rồi.\" Viên Minh chăm chú nhìn khoảnh khắc, gật đầu nói.",
-      "dich": "Nói đoạn, y lật đến hỏa diễm văn để Viên Minh tự quan sát kỹ.",
-      "suggest": "\"Ta xem rõ rồi.\" Viên Minh chăm chú nhìn một lúc, gật đầu nói."
+      "dich": "\"Ta xem kỹ rồi.\" Viên Minh chăm chú nhìn một lát rồi gật đầu nói.",
+      "suggest": "\"Ta xem rõ rồi.\" Viên Minh chăm chú nhìn một lúc, gật đầu nói.",
+      "approved": true
     },
     {
       "convert": "A Mộc Hợp nghe vậy, nhìn chằm chằm Viên Minh không nói lời nào, tựa hồ đối hắn qua loa rất là bất mãn.",
-      "dich": "\"Ta xem kỹ rồi.\" Viên Minh chăm chú nhìn một lát rồi gật đầu nói.",
-      "suggest": "A Mộc Hợp nghe vậy, nhìn chằm chằm Viên Minh không nói lời nào, tựa hồ rất bất mãn với việc hắn qua loa."
+      "dich": "A Mộc Hợp nghe thế, nhìn chằm chằm Viên Minh không nói lời nào, có vẻ rất bất mãn với thái độ qua loa của hắn.",
+      "suggest": "A Mộc Hợp nghe vậy, nhìn chằm chằm Viên Minh không nói lời nào, tựa hồ rất bất mãn với việc hắn qua loa.",
+      "approved": true
     },
     {
       "convert": "Viên Minh chỉ đành phải nhìn chằm chằm phù văn nhìn kỹ một hồi lâu, mới ngẩng đầu nói ra: \"Ta chân thực xem rõ rồi.\"",
-      "dich": "A Mộc Hợp nghe thế, nhìn chằm chằm Viên Minh không nói lời nào, có vẻ rất bất mãn với thái độ qua loa của hắn.",
-      "suggest": "Viên Minh chỉ đành phải nhìn chằm chằm vào phù văn một hồi lâu, sau đó mới ngẩng đầu nói: \"Ta thực sự nhìn rõ.\""
+      "dich": "Viên Minh đành phải tiếp tục cẩn thận nhìn chằm chằm phù văn thêm một lúc lâu nữa, rồi mới ngẩng đầu nói: \"Ta thực sự xem kỹ rồi.\"",
+      "suggest": "Viên Minh chỉ đành phải nhìn chằm chằm vào phù văn một hồi lâu, sau đó mới ngẩng đầu nói: \"Ta thực sự nhìn rõ.\"",
+      "approved": true
     },
     {
       "convert": "Hắn thần hồn không kém, hơn nữa có được xem qua là nhớ chi năng, cho nên tịnh không phải qua loa, mà là chân thực đã đem hỏa diễm văn chi tiết toàn bộ ghi tạc não hải.",
-      "dich": "Viên Minh đành phải tiếp tục cẩn thận nhìn chằm chằm phù văn thêm một lúc lâu nữa, rồi mới ngẩng đầu nói: \"Ta thực sự xem kỹ rồi.\"",
-      "suggest": "Thần hồn hắn không kém, hơn nữa còn có khả năng ghi nhớ, cho nên không phải xem qua loa, mà thật sự đã ghi tạc toàn bộ trong đầu Hỏa diễm văn."
+      "dich": "Hắn sở hữu thần hồn không yếu, đồng thời có được năng lực nhìn qua là không quên, thế nên cũng không thể nói là qua loa, mà thực sự đã ghi nhắc mọi chi tiết của hỏa diễm văn vào trong não hải.",
+      "suggest": "Thần hồn hắn không kém, hơn nữa còn có khả năng ghi nhớ, cho nên không phải xem qua loa, mà thật sự đã ghi tạc toàn bộ trong đầu Hỏa diễm văn.",
+      "approved": true
     },
     {
       "convert": "\"Thử xem đem nó họa ra tới đi.\" A Mộc Hợp bày tỏ một trang giấy, nói ra.",
-      "dich": "Hắn sở hữu thần hồn không yếu, đồng thời có được năng lực nhìn qua là không quên, thế nên cũng không thể nói là qua loa, mà thực sự đã ghi nhắc mọi chi tiết của hỏa diễm văn vào trong não hải.",
-      "suggest": "\"Thử vẽ nó ra đi.\" A Mộc Hợp bày ra một trang giấy, nói."
+      "dich": "\"Thử vẽ lại nó một lần xem.\" A Mộc Hợp mở một trang giấy ra, nói.",
+      "suggest": "\"Thử vẽ nó ra đi.\" A Mộc Hợp bày ra một trang giấy, nói.",
+      "approved": true
     },
     {
       "convert": "Nói xong, hắn lại từ giá bút thượng gỡ xuống một cái bút lông, liếm thượng nước mực, đưa cho Viên Minh.",
-      "dich": "\"Thử vẽ lại nó một lần xem.\" A Mộc Hợp mở một trang giấy ra, nói.",
-      "suggest": "Nói xong, hắn lại gỡ một cây bút lông từ giá bút xuống, liếm một chút nước rồi đưa cho Viên Minh."
+      "dich": "Dứt lời, y lại gỡ một cái bút lông từ trên giá bút xuống, quệt qua nước mực rồi đưa cho Viên Minh.",
+      "suggest": "Nói xong, hắn lại gỡ một cây bút lông từ giá bút xuống, liếm một chút nước rồi đưa cho Viên Minh.",
+      "approved": true
     },
     {
       "convert": "Viên Minh mới lại chú ý tới, nghiên mực trong nước mực không dụng nghiền nát, cũng không cố kết, hơn nữa nước mực trong hắc gợn hồng, có thể nhìn thấy rậm rạp chất cát vật, hiển nhiên không phải một dạng nước mực.",
-      "dich": "Dứt lời, y lại gỡ một cái bút lông từ trên giá bút xuống, quệt qua nước mực rồi đưa cho Viên Minh.",
-      "suggest": "Viên Minh lúc này mới để ý, mực trong ao không dùng để nghiền nát, cũng không cố kết, hơn nữa nước mực trong lờ mờ có thể thấy rõ những mảng cát rậm rạp, hiển nhiên không phải là mực mực."
+      "dich": "Viên Minh lúc này mới chú ý thấy, nước mực trong nghiên không cần mài, cũng chưa đông đặc, đồng thời trong nước mực đen còn hơi ửng đỏ, có thể nhìn thấy chất cát tinh mịn, hiển nhiên không phải mực bình thường.",
+      "suggest": "Viên Minh lúc này mới để ý, mực trong ao không dùng để nghiền nát, cũng không cố kết, hơn nữa nước mực trong lờ mờ có thể thấy rõ những mảng cát rậm rạp, hiển nhiên không phải là mực mực.",
+      "approved": true
     },
     {
       "convert": "Viên Minh đã không biết bao lâu không có sờ qua cán bút, nhận lấy lúc, lại tương đối tự nhiên cầm bút đề khởi, động tác tịnh không lộ vẻ cứng nhắc.",
-      "dich": "Viên Minh lúc này mới chú ý thấy, nước mực trong nghiên không cần mài, cũng chưa đông đặc, đồng thời trong nước mực đen còn hơi ửng đỏ, có thể nhìn thấy chất cát tinh mịn, hiển nhiên không phải mực bình thường.",
-      "suggest": "Viên Minh đã không biết bao lâu rồi chưa sờ tới cán bút, lúc nhận lại rất tự nhiên cầm bút lên, động tác không lộ vẻ cứng nhắc."
+      "dich": "Viên Minh không biết đã bao lâu không sờ tới cán bút, khi nhận lấy không ngờ lại khá tự nhiên cầm bút nhấc lên, động tác cũng không có vẻ cứng nhắc, giật cục.",
+      "suggest": "Viên Minh đã không biết bao lâu rồi chưa sờ tới cán bút, lúc nhận lại rất tự nhiên cầm bút lên, động tác không lộ vẻ cứng nhắc.",
+      "approved": true
     },
     {
       "convert": "Hắn mặc trên người Hỏa Luyện Đường gọn gàng y sam, cho nên không dụng một tay nhấc tay áo, một tay chấp bút, lập tức hít sâu một hơi thở, tử tế trong đầu quan tưởng một nhoáng hỏa diễm văn đường nét, lập tức bắt đầu phác hoạ khởi lai.",
-      "dich": "Viên Minh không biết đã bao lâu không sờ tới cán bút, khi nhận lấy không ngờ lại khá tự nhiên cầm bút nhấc lên, động tác cũng không có vẻ cứng nhắc, giật cục.",
-      "suggest": "Hắn mặc quần áo gọn gàng trên người, cho nên không cần một tay nhấc tay áo, một tay cầm bút, lập tức hít sâu một hơi, cẩn thận quan sát một chút đường nét trên bản đồ, lập tức bắt đầu phác thảo."
+      "dich": "Trên người hắn mặc quần áo ngắn của Hỏa Luyện Đường, vậy nên không cần xắn tay áo, cứ thế đưa một tay cầm bút, hít sâu một hơi, cẩn thận hồi tưởng đường nét hỏa diễm văn trong đầu một chút, xong lập tức bắt đầu phác họa.",
+      "suggest": "Hắn mặc quần áo gọn gàng trên người, cho nên không cần một tay nhấc tay áo, một tay cầm bút, lập tức hít sâu một hơi, cẩn thận quan sát một chút đường nét trên bản đồ, lập tức bắt đầu phác thảo.",
+      "approved": true
     },
     {
       "convert": "Tùy theo đầu bút lông xoay chuyển, một đầu hồng hắc đường nét bắt đầu tại giấy trắng thượng phác hoạ thành hình, đúng là ngoài ý muốn thuận hoạt.",
-      "dich": "Trên người hắn mặc quần áo ngắn của Hỏa Luyện Đường, vậy nên không cần xắn tay áo, cứ thế đưa một tay cầm bút, hít sâu một hơi, cẩn thận hồi tưởng đường nét hỏa diễm văn trong đầu một chút, xong lập tức bắt đầu phác họa.",
-      "suggest": "Đầu bút lông xoay tròn, một đường nét màu đỏ thẫm bắt đầu vẽ lên tờ giấy trắng, quả thực rất đẹp mắt."
+      "dich": "Theo đầu bút lông xoay chuyển, một đường nét màu đỏ đen bắt đầu phác họa thành hình trên giấy, hơn nữa còn lưu loát đến bất ngờ.",
+      "suggest": "Đầu bút lông xoay tròn, một đường nét màu đỏ thẫm bắt đầu vẽ lên tờ giấy trắng, quả thực rất đẹp mắt.",
+      "approved": true
     },
     {
       "convert": "A Mộc Hợp nhìn thấy một màn này, cũng không khỏi vén lên chân mày, có chút giật mình.",
-      "dich": "Theo đầu bút lông xoay chuyển, một đường nét màu đỏ đen bắt đầu phác họa thành hình trên giấy, hơn nữa còn lưu loát đến bất ngờ.",
-      "suggest": "A Mộc Hợp thấy một màn này, cũng không kìm được mà nhíu mày, có chút giật mình."
+      "dich": "Nhìn một màn này, A Mộc Hợp cũng không khỏi nhướng mày, có chút kinh ngạc.",
+      "suggest": "A Mộc Hợp thấy một màn này, cũng không kìm được mà nhíu mày, có chút giật mình.",
+      "approved": true
     },
     {
       "convert": "Hắn kinh ngạc tại Viên Minh vậy mà như thế tự tin, hạ bút thời điểm không có nửa điểm do dự, cho nên mảy may không tồn tại ham muốn đoạn bút tục miêu tình huống.",
-      "dich": "Nhìn một màn này, A Mộc Hợp cũng không khỏi nhướng mày, có chút kinh ngạc.",
-      "suggest": "Hắn kinh ngạc vì Viên Minh tự tin như vậy, lúc hạ bút không hề do dự, cho nên không có chút nào là do dự."
+      "dich": "Y kinh ngạc vì Viên Minh không ngờ lại tự tin hạ bút như vậy, thời điểm hạ bút không có chút do dự nào, thế nên không hề xuất hiện tình huống đoạn bút phải tô lại.",
+      "suggest": "Hắn kinh ngạc vì Viên Minh tự tin như vậy, lúc hạ bút không hề do dự, cho nên không có chút nào là do dự.",
+      "approved": true
     },
     {
       "convert": "Phải biết rằng, hội chế phù văn kiêng kỵ nhất đoạn bút, đoạn bút như đoạn khí, yêu cầu một bút hội chế, một mạch mà thành.",
-      "dich": "Y kinh ngạc vì Viên Minh không ngờ lại tự tin hạ bút như vậy, thời điểm hạ bút không có chút do dự nào, thế nên không hề xuất hiện tình huống đoạn bút phải tô lại.",
-      "suggest": "Phải biết rằng, hội chế phù văn kiêng kỵ nhất là đoạn bút, đoạn khí như đoạn khí, yêu cầu một bút hội chế, một mạch mà thành."
+      "dich": "Phải biết, vẽ phù văn tối kỵ đoạn bút, đoạn bút như tắt thở. Vậy nên việc này đòi hỏi người vẽ phải dùng một nét, vẽ một mạch mà thành.",
+      "suggest": "Phải biết rằng, hội chế phù văn kiêng kỵ nhất là đoạn bút, đoạn khí như đoạn khí, yêu cầu một bút hội chế, một mạch mà thành.",
+      "approved": true
     },
     {
       "convert": "Hắn rõ ràng không có nói qua, Viên Minh vậy mà liền làm đến rồi.",
-      "dich": "Phải biết, vẽ phù văn tối kỵ đoạn bút, đoạn bút như tắt thở.",
-      "suggest": "Hắn rõ ràng không nói qua, Viên Minh vậy mà lại đến."
+      "dich": "Y rõ ràng chưa nhắc đến vấn đề này, vậy mà Viên Minh lại làm được ngay.",
+      "suggest": "Hắn rõ ràng không nói qua, Viên Minh vậy mà lại đến.",
+      "approved": true
     },
     {
       "convert": "Đợi đến Viên Minh dừng bút, A Mộc Hợp nhíu mày truy vấn: \"Ta nói tiểu tử ngươi, phải hay không đã học qua họa phù rồi?\"",
-      "dich": "Vậy nên việc này đòi hỏi người vẽ phải dùng một nét, vẽ một mạch mà thành.",
-      "suggest": "Đợi Viên Minh ngừng bút, A Mộc Hợp nhíu mày truy hỏi: \"Ta hỏi tiểu tử ngươi, có phải ngươi đã học qua họa phù chưa?\""
+      "dich": "Đợi đến khi Viên Minh ngừng bút, A Mộc Hợp nhíu mày hỏi: \"Ta nói tiểu tử ngươi, có phải đã từng học vẽ phù phải không?\"",
+      "suggest": "Đợi Viên Minh ngừng bút, A Mộc Hợp nhíu mày truy hỏi: \"Ta hỏi tiểu tử ngươi, có phải ngươi đã học qua họa phù chưa?\"",
+      "approved": true
     },
     {
       "convert": "\"Không có.\" Viên Minh lắc đầu, nhưng trong lòng thì có chút sợ.",
-      "dich": "Y rõ ràng chưa nhắc đến vấn đề này, vậy mà Viên Minh lại làm được ngay.",
-      "suggest": "\"Không có.\" Viên Minh lắc đầu, nhưng trong lòng lại có chút sợ hãi."
+      "dich": "\"Không có.\" Viên Minh lắc đầu, nhưng trong lòng hơi hoảng.",
+      "suggest": "\"Không có.\" Viên Minh lắc đầu, nhưng trong lòng lại có chút sợ hãi.",
+      "approved": true
     },
     {
       "convert": "\"Đây mới là lạ, ngươi làm sao biết muốn một bút họa xong?\"",
-      "dich": "Đợi đến khi Viên Minh ngừng bút, A Mộc Hợp nhíu mày hỏi: \"Ta nói tiểu tử ngươi, có phải đã từng học vẽ phù phải không?\"",
-      "suggest": "\"Đây mới là lạ, ngươi làm sao biết muốn một bút vẽ xong?\""
+      "dich": "\"Thế này thì kỳ quái, làm sao ngươi biết cần một bút vẽ xong?\"",
+      "suggest": "\"Đây mới là lạ, ngươi làm sao biết muốn một bút vẽ xong?\"",
+      "approved": true
     },
     {
       "convert": "A Mộc Hợp truy vấn.",
-      "dich": "\"Không có.\" Viên Minh lắc đầu, nhưng trong lòng hơi hoảng.",
-      "suggest": "A Mộc Hợp truy hỏi."
+      "dich": "A Mộc Hợp hỏi.",
+      "suggest": "A Mộc Hợp truy hỏi.",
+      "approved": true
     },
     {
       "convert": "Họa phù muốn một mạch mà thành, Viên Minh là tại Hắc Mộc trưởng lão chép tay nhìn lên đến đấy, cho nên không kinh A Mộc Hợp nói đến, hắn liền đã biết rõ rồi.",
-      "dich": "\"Thế này thì kỳ quái, làm sao ngươi biết cần một bút vẽ xong?\"",
-      "suggest": "Họa phù muốn một mạch trưởng thành, Viên Minh là do được Hắc Mộc trưởng lão chép tay đưa cho, cho nên khi A Mộc Hợp nói ra, hắn đã biết rõ."
+      "dich": "Vẽ phù cần một mạch hoàn thành, điểm này Viên Minh đã thấy trong bản chép tay của Hắc Mộc trưởng lão, thế nên không cần A Mộc Hợp nhắc, hắn đã biết rồi.",
+      "suggest": "Họa phù muốn một mạch trưởng thành, Viên Minh là do được Hắc Mộc trưởng lão chép tay đưa cho, cho nên khi A Mộc Hợp nói ra, hắn đã biết rõ.",
+      "approved": true
     },
     {
       "convert": "Nhưng biết rõ cùng làm tới chính giữa, còn cách xa mười vạn tám nghìn dặm đây, đối này hắn chính mình cũng có chút ngoài ý muốn rồi.",
-      "dich": "A Mộc Hợp hỏi.",
-      "suggest": "Nhưng biết rằng ở chính giữa còn cách mười vạn tám nghìn dặm, đối với việc này của hắn cũng có chút bất ngờ."
-    },
-    {
-      "dich": "Vẽ phù cần một mạch hoàn thành, điểm này Viên Minh đã thấy trong bản chép tay của Hắc Mộc trưởng lão, thế nên không cần A Mộc Hợp nhắc, hắn đã biết rồi."
-    },
-    {
-      "dich": "Nhưng biết được và làm được lại là hai việc cách nhau mười vạn tám ngàn dặm, bởi thế mà với việc này, chính hắn cũng có chút bất ngờ."
+      "dich": "Nhưng biết được và làm được lại là hai việc cách nhau mười vạn tám ngàn dặm, bởi thế mà với việc này, chính hắn cũng có chút bất ngờ.",
+      "suggest": "Nhưng biết rằng ở chính giữa còn cách mười vạn tám nghìn dặm, đối với việc này của hắn cũng có chút bất ngờ.",
+      "approved": true
     }
-  ]
+  ],
+  "currentWorkingLine": 111,
+  "changed": true
 }

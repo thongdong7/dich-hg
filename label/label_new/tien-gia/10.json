@@ -114,7 +114,12 @@
           0.36
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "呼火长老点点头，隐去眼中厉色，从怀中取出一个玉瓶，倒出三枚淡紫色的药丸，分别递给三人：",
+        "text": "Hô hỏa trưởng lão điểm điểm 头, biến mất trong mắt tàn khốc, từ trong lòng lấy ra một cái bình ngọc, đổ ra ba cái màu tím nhạt đích dược hoàn, phân biệt đưa cho ba người :",
+        "index": 2
+      }
     },
     {
       "convert": "\"Ăn vào.\"",
@@ -186,7 +191,12 @@
           0.26
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭接过药丸，没有吞服，眼睛余光看向其他两人。",
+        "text": "Viên Minh tiếp nhận dược hoàn, không có nuốt, con mắt nhìn qua nhìn về phía hai người khác .",
+        "index": 4
+      }
     },
     {
       "convert": "\"Hô Hỏa trưởng lão, đây là gì đan dược?\"",
@@ -277,7 +287,12 @@
       "dich": "Thú nô mãnh hổ và lợn lòi nghe xong lời này thì không khỏi biến sắc.",
       "suggest": "Mãnh hổ thú nô và lợn rừng nghe lời này, sắc mặt không kìm được mà biến đổi.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "猛虎兽奴和野猪兽奴听了这话，神色不禁一变。",
+        "text": "Mãnh hổ 兽 nô cùng lợn rừng 兽 nô nghe lời này, thần sắc không khỏi biến đổi .",
+        "index": 7
+      }
     },
     {
       "convert": "Viên Minh cũng nhíu nhíu mày, Bích La Động đây là định dùng Hủ Tâm Đan khống chế bọn hắn những này Phi Mao thú nô.",
@@ -289,7 +304,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭也皱了皱眉，碧罗洞这是打算用腐心丹控制他们这些披毛兽奴。",
+        "text": "Viên Minh cũng nhíu nhíu mày, Bích La Động đây là định dùng mục nát tâm 丹 khống chế bọn họ những này Phi Mao thú nô .",
+        "index": 8
+      }
     },
     {
       "convert": "Nhưng mà người ở dưới mái hiên, không thể không cúi đầu.",
@@ -305,7 +325,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "然而人在屋檐下，不得不低头。",
+        "text": "Nhưng mà người ở dưới mái hiên, không thể không cúi đầu .",
+        "index": 9
+      }
     },
     {
       "convert": "Hai người khác mặc dù sắc mặt có chút khó coi, tại Hô Hỏa trưởng lão ánh mắt lạnh lùng nhìn chăm chú, cũng tuần tự ăn vào Hủ Tâm Đan.",
@@ -317,7 +342,12 @@
           0.47
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "其他两人虽面色有些难看，在呼火长老冷漠的目光注视下，也先后服下了腐心丹。",
+        "text": "Hai người khác mặc dù sắc mặt có chút khó coi, tại hô hỏa trưởng lão Lãnh mạc đích ánh mắt nhìn chăm chú, cũng lần lượt ăn vào rồi mục nát tâm 丹 .",
+        "index": 11
+      }
     },
     {
       "convert": "\"Các ngươi thông qua khảo nghiệm, bị truyền thụ Huyết Khí pháp, đã trở thành ta Bích La Động chính thức Phi Mao thú nô, về sau mỗi tháng ở đây nộp lên năm phần hung thú tinh huyết, liền có thể nhận lấy Hủ Tâm Đan giải dược.\"",

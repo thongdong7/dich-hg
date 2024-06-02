@@ -23,7 +23,12 @@
           0.22
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭摇了摇头，又打开一本奏折，里面则是工部一名侍郎关于修缮长春观天尊殿事宜的奏报，同样是长篇大论，看得袁铭兴致索然。",
+        "text": "Viên Minh lắc lắc đầu, lại mở ra một quyển tấu chương, bên trong thì là công bộ một thị lang về tu sửa Trường Xuân quan thiên tôn điện công việc đích tấu, đồng dạng là thao thao bất tuyệt, thấy Viên Minh hào hứng đần độn .",
+        "index": 1
+      }
     },
     {
       "convert": "Còn chưa xem xong, hắn liền vội vàng khép lại tấu chương ném tới một bên.",
@@ -35,7 +40,12 @@
           0.35
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "还没看完，他就匆匆合上奏折扔到了一边。",
+        "text": "Còn chưa xem xong, hắn liền vội vã khép lại tấu chương ném tới rồi một bên .",
+        "index": 2
+      }
     },
     {
       "convert": "\"Xem ra làm hoàng đế cũng không dễ dàng, nếu là ta, nhất định đem những này nói nhảm quan viên lôi ra đến, hảo hảo đánh một trận đánh gậy mới được.\"",
@@ -123,7 +133,12 @@
           0.41
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他揉着眉心，振奋了一下精神，又打开了第三本奏折。",
+        "text": "Hắn xoa mi tâm, phấn chấn rồi một chút tinh thần, lại mở ra rồi cuốn thứ ba tấu chương .",
+        "index": 4
+      }
     },
     {
       "convert": "Cái này tấu chương ngược lại là cùng trước mặt khác biệt, nhìn trả lời mười phần ngắn gọn già dặn, vừa mở đầu liền dùng ngắn gọn mấy câu hướng Hoàng đế bẩm tấu bản bang điều động tiến về Nam Cương sứ đoàn bị tập kích sự tình.",
@@ -135,7 +150,12 @@
           0.15
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这个奏章倒是和前面的不同，看起来言语十分简洁干练，一开头就用简练的几句话向皇帝禀奏了本邦派遣前往南疆使团遇袭的事情。",
+        "text": "Cái này tấu chương ngược lại cùng trước mặt bất đồng, thoạt nhìn ngôn ngữ thập phần ngắn gọn già giặn, vừa mở 头 liền dụng ngắn gọn đích mấy câu hướng hoàng đế bẩm tấu rồi vốn bang phái đi về phía trước Nam Cương sứ đoàn bị tập kích đích sự tình .",
+        "index": 5
+      }
     },
     {
       "convert": "\"Nguyên lai là tên võ tướng, quả nhiên cùng khoe chữ văn thần khác nhau rất lớn.\"",
@@ -299,14 +319,24 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "可他转念一想，自己完全不了解这少年皇帝和玉壶仙长的关系，贸然拒绝似乎不妥。",
+        "text": "Khả hắn nghĩ lại, chính mình hoàn toàn không biết thiếu niên này hoàng đế cùng bình ngọc tiên trưởng đích quan hệ, tùy tiện cự tuyệt tựa hồ không ổn .",
+        "index": 10
+      }
     },
     {
       "convert": "Huống chi thần hồn phụ thể thiếu niên Hoàng đế, quá mức không thể tưởng tượng, vị tiên trưởng này hẳn là không phát hiện được.",
       "dich": "Huống chi việc thần hồn phụ thể hoàng đế thiếu niên này quá sức tưởng tượng, vị tiên trưởng kia hắn là không phát giác được.",
       "suggest": "Huống chi, Hoàng đế thần hồn phụ thể của thiếu niên này, thật sự là không thể tưởng tượng nổi. Vị tiên trưởng này chắc chắn không phát hiện được.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "更何况神魂附体少年皇帝，太过匪夷所思，这位仙长应该察觉不到。",
+        "text": "Huống chi thần hồn phụ thể thiếu niên hoàng đế, quá mức không thể tưởng tượng, vị tiên trưởng này hẳn phải không phát hiện được .",
+        "index": 11
+      }
     },
     {
       "convert": "\"Mời tiến đến.\"",
@@ -374,14 +404,24 @@
           0.53
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "那阴柔男子答应一声，殿门随即被推了开来。",
+        "text": "Kia âm nhu nam tử đáp ứng một tiếng, cửa điện lập tức bị đẩy mở ra .",
+        "index": 13
+      }
     },
     {
       "convert": "Một gã người mặc đạo bào tím bầm già trên 80 tuổi lão giả cất bước tiến đến, hướng về hắn đánh một cái đạo môn chắp tay, trong miệng tụng nói:",
       "dich": "Một lão giả mặc tử kim đạo bào, tuổi hơn tám mươi cất bước tiến vào, chắp tay theo kiểu Đạo môn hướng về phía hắn, miệng tụng:",
       "suggest": "Một lão giả mặc áo bào tím bầm trên 80 tuổi, bước đến trước cửa một đạo môn, chắp tay trước ngực, miệng thì thào:",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一名身穿紫金道袍的耄耋老者迈步进来，向着他打了一個道门稽首，口里讼道：",
+        "text": "Một mặc đạo bào tím bầm đích già nua lão giả cất bước tiến vào, hướng về hắn đánh một đạo môn chắp tay, trong miệng tụng nói",
+        "index": 14
+      }
     },
     {
       "convert": "\"Phúc sinh Vô Lượng Thiên Tôn.\"",
@@ -417,7 +457,12 @@
           0.26
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭视线打量过去，就见老道长相貌清癯，面容虽然枯瘦，脸上皮肤却有容光，三缕长须垂在胸前，颇有仙风道骨。",
+        "text": "Viên Minh tầm mắt đánh giá qua đi, chỉ thấy lão đạo trưởng tướng mạo võ vàng, khuôn mặt tuy rằng gầy khô, trên mặt làn da đã có nét mặt, ba sợi râu dài rũ xuống trước ngực, rất có tiên phong đạo cốt .",
+        "index": 16
+      }
     },
     {
       "convert": "Thêm nữa người mặc có thêu Bát Quái vân văn đạo bào tím bầm, đầu đội tơ vàng tích lũy đám hoa sen bảo quan, cả người nhìn càng bằng thêm mấy phần Hoàng gia quý khí, để cho người ta nhìn đến không khỏi sinh lòng kính sợ.",
@@ -429,7 +474,12 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "加之身穿绣有八卦云纹的紫金道袍，头戴金丝攒簇的莲花宝冠，整个人看起来更平添几分皇家贵气，让人望之不由心生敬畏。",
+        "text": "Thêm mặc có thêu bát quái vân văn đích đạo bào tím bầm, đầu đội tơ vàng gom đám đích liên hoa bảo mũ, cả người thoạt nhìn càng bằng thêm mấy phần hoàng gia quý khí, để cho người ta nhìn đến bất giác sinh lòng kính sợ .",
+        "index": 17
+      }
     },
     {
       "convert": "\"Quốc sư không cần đa lễ, lần này đến đây, cần làm chuyện gì?\"",

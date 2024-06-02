@@ -1,4 +1,5 @@
 {
+  "currentLine": 86,
   "next": {
     "id": 87,
     "title": "Chương 87: Chuyến đi này không tệ"
@@ -14,442 +15,892 @@
   "lines": [
     {
       "convert": "Viên Minh biến thành vượn trắng cùng bốn mắt Kim Viên ở trong rừng một đuổi một chạy, rất nhanh đi tới vài dặm, một mảnh cao lớn dị thường rừng tùng đen xuất hiện ở phía trước.",
-      "dich": "Vượn trắng do Viên Minh biến thành cùng kim viên bốn mắt một chạy một đuổi trong rừng, nhoáng cái đã chạy được mấy dặm, chợt thấy một mảnh rừng hắc tùng(tùng đen) cao lớn dị thường xuất hiện ở phía trước.",
-      "suggest": "Viên Minh biến thành vượn trắng và bốn mắt Kim Viên rượt nhau một đuổi một chạy trong rừng, chỉ sau mấy dặm đã thấy một khu rừng tùng đen cao lớn xuất hiện ở phía trước."
+      "dich": "Vượn trắng do Viên Minh biến thành cùng kim viên bốn mắt một chạy một đuổi trong rừng, nhoáng cái đã chạy được mấy dặm, chợt thấy một mảnh rừng hắc tùng (tùng đen) cao lớn dị thường xuất hiện ở phía trước.",
+      "suggest": "Viên Minh biến thành vượn trắng và bốn mắt Kim Viên rượt nhau một đuổi một chạy trong rừng, chỉ sau mấy dặm đã thấy một khu rừng tùng đen cao lớn xuất hiện ở phía trước.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭所化白猿和四目金猿在林中一追一逃，很快前进了数里，一片高大异常的黑松林出现在前方。",
+        "text": "Viên Minh biến thành vượn trắng cùng bốn mắt kim viên ở trong rừng một đuổi một chạy, rất nhanh đi tới vài dặm, một mảnh cao lớn dị thường Hắc Tùng rừng xuất hiện ở phía trước .",
+        "index": 0
+      }
     },
     {
       "convert": "Những này hắc tùng mỗi một gốc đều có cỡ thùng nước, thân cây bày biện ra gang đen nhánh chi sắc, nhìn so với bình thường cây tùng kiên cố nhiều lắm, mà lại phi thường dày đặc, càng thích hợp tránh né Kim Viên truy sát.",
       "dich": "Mỗi gốc tùng đen đều to bằng thùng nước, thân cây một màu đen sì, thoạt nhìn cứng rắn hơn cây tùng bình thường nhiều, hơn nữa chúng mọc cực kỳ dày, vô cùng thích hợp để tránh né kim viên truy sát.",
-      "suggest": "Mỗi gốc cây đều có thùng nước cỡ thùng nước, thân cây bày biện màu đen bóng, trông chắc chắn hơn nhiều so với những cây tùng bình thường, hơn nữa lại phi thường dày đặc, thích hợp cho việc truy sát Kim Viên."
+      "suggest": "Mỗi gốc cây đều có thùng nước cỡ thùng nước, thân cây bày biện màu đen bóng, trông chắc chắn hơn nhiều so với những cây tùng bình thường, hơn nữa lại phi thường dày đặc, thích hợp cho việc truy sát Kim Viên.",
+      "approved": true,
+      "chinese": {
+        "raw": "这些黑松每一株都有水桶粗细，树干呈现出生铁般的黝黑之色，看起来比寻常松树坚固的多，而且非常密集，更适合躲避金猿的追杀。",
+        "text": "Những này Hắc Tùng mỗi một gốc đều có cỡ thùng nước, thân cây bày biện ra gang kiểu đích ngăm đen chi sắc, thoạt nhìn so tầm thường thả lỏng cây kiên cố đích nhiều, hơn nữa phi thường dày đặc, càng thích hợp tránh né kim viên đích đuổi giết .",
+        "index": 1
+      }
     },
     {
       "convert": "Viên Minh thân hình thoắt một cái, lướt vào rừng tùng đen bên trong.",
       "dich": "Viên Minh nhoáng người một cái, lướt thẳng vào trong rừng tùng đen.",
-      "suggest": "Viên Minh nhoáng người một cái, lướt vào bên trong rừng tùng."
+      "suggest": "Viên Minh nhoáng người một cái, lướt vào bên trong rừng tùng.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭身形一晃，掠入黑松林中。",
+        "text": "Viên Minh thân hình thoắt một cái, lướt vào Hắc Tùng trong rừng .",
+        "index": 2
+      }
     },
     {
       "convert": "Nhưng mà nguyên bản khí thế hung hăng bốn mắt Kim Viên đi vào rừng tùng bên cạnh về sau, lại dừng lại thân hình, bốn con mắt trừng trừng nhìn qua rừng chỗ sâu, một hồi vò đầu bứt tai, tựa hồ ở cố kỵ cái gì.",
       "dich": "Thế nhưng kim viên bốn mắt vốn đang hùng hổ đuổi theo khi tới cạnh rừng tùng lại dừng người lại, bốn con mắt nhìn chăm chăm vào phía sâu trong rừng, vò đầu bứt tai một trận như đang lo ngại điều gì đó.",
-      "suggest": "Nhưng khi bốn mắt Kim Viên vốn đang hung hăng nhìn chằm chằm vào cây tùng bên cạnh, lại đột nhiên dừng lại, hai mắt trừng trừng nhìn sâu vào trong rừng, một hồi vò đầu bứt tai, tựa hồ đang cố kỵ điều gì đó."
+      "suggest": "Nhưng khi bốn mắt Kim Viên vốn đang hung hăng nhìn chằm chằm vào cây tùng bên cạnh, lại đột nhiên dừng lại, hai mắt trừng trừng nhìn sâu vào trong rừng, một hồi vò đầu bứt tai, tựa hồ đang cố kỵ điều gì đó.",
+      "approved": true,
+      "chinese": {
+        "raw": "然而原本气势汹汹的四目金猿来到松林边后，却停住了身形，四只眼睛直勾勾的望着林子深处，一阵抓耳挠腮，似乎在顾忌什么。",
+        "text": "Nhưng mà nguyên bản khí thế hung hăng bốn mắt kim viên đi tới thả lỏng bìa rừng sau, nhưng dừng lại thân hình, bốn con mắt chằm chằm đích nhìn cánh rừng chỗ sâu, một trận vò đầu bứt tai, tựa hồ tại cố kỵ gì .",
+        "index": 3
+      }
     },
     {
       "convert": "Nhưng nhìn đến Viên Minh sắp trốn xa, Kim Viên bốn con mắt hung quang một thịnh, lại lần nữa đuổi theo.",
       "dich": "Nhưng khi thấy Viên Minh sắp trốn xa, bốn con mắt chợt bừng hung quang, lại lần nữa đuổi theo.",
-      "suggest": "Nhưng nhìn thấy Viên Minh sắp chạy xa, bốn con mắt Kim Viên lại sáng lên, tiếp tục đuổi theo."
+      "suggest": "Nhưng nhìn thấy Viên Minh sắp chạy xa, bốn con mắt Kim Viên lại sáng lên, tiếp tục đuổi theo.",
+      "approved": true,
+      "chinese": {
+        "raw": "可看到袁铭即将逃远，金猿四只眼睛凶光一盛，再度追了上去。",
+        "text": "Nhưng nhìn đến Viên Minh sắp trốn xa, kim viên bốn con mắt hung quang một thịnh, lại lần nữa đuổi theo .",
+        "index": 4
+      }
     },
     {
       "convert": "Viên Minh ở rừng tùng đen bên trong đi về phía trước một lát, chỉ cảm thấy trong lòng không khỏi dâng lên một hồi bất an cảm giác.",
       "dich": "Viên Minh vừa tiến vào rừng tùng được chốc lát, chợt thấy trong lòng không khỏi dâng lên một hồi cảm giác bất an.",
-      "suggest": "Viên Minh đi vào trong rừng một lát, chỉ cảm thấy trong lòng có một cảm giác bất an."
+      "suggest": "Viên Minh đi vào trong rừng một lát, chỉ cảm thấy trong lòng có một cảm giác bất an.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭在黑松林中前行了片刻，只觉心中没来由的涌起一阵不安之感。",
+        "text": "Viên Minh tại Hắc Tùng trong rừng đi về phía trước chốc lát, chỉ cảm thấy trong lòng không khỏi dâng lên một trận bất an cảm giác .",
+        "index": 5
+      }
     },
     {
       "convert": "Nơi này quá an tĩnh, thậm chí cho người ta một loại so trước đó sơn lâm còn muốn an tĩnh cảm giác.",
       "dich": "Nơi này quá yên tĩnh, thậm chí cho người ta một loại cảm giác tĩnh lặng hơn cả khoảng rừng trước đó.",
-      "suggest": "Nơi này quá an tĩnh, thậm chí còn cho người ta cảm giác an tĩnh hơn hẳn những nơi khác trong núi rừng."
+      "suggest": "Nơi này quá an tĩnh, thậm chí còn cho người ta cảm giác an tĩnh hơn hẳn những nơi khác trong núi rừng.",
+      "approved": true,
+      "chinese": {
+        "raw": "这里太安静了，甚至给人一种比之前的山林还要安静的感觉。",
+        "text": "Chỗ này thái an yên tĩnh, thậm chí cho người ta một loại so trước đó đích núi rừng còn muốn an tĩnh cảm giác .",
+        "index": 6
+      }
     },
     {
       "convert": "Hắn luôn cảm giác mình lại như không có đầu con ruồi như vậy xông loạn, có trời mới biết gặp được cái gì quái sự?",
       "dich": "Hắn luôn cảm giác mình lại như con ruồi không đầu, cứ thế bay loạn, có trời mới biết sẽ gặp phải quái sự gì?",
-      "suggest": "Hắn luôn cảm giác mình như có đầu con ruồi vậy xông loạn, có trời mới biết mình gặp phải chuyện quái dị gì?"
+      "suggest": "Hắn luôn cảm giác mình như có đầu con ruồi vậy xông loạn, có trời mới biết mình gặp phải chuyện quái dị gì?",
+      "approved": true,
+      "chinese": {
+        "raw": "他总觉得自己再如没头苍蝇这般乱闯的话，天知道会遇到什么怪事？",
+        "text": "Hắn luôn cảm giác mình lại 如 không 头 ruồi bọ kiểu này xông loạn thì, trời biết đạo sẽ gặp phải gì quái sự ?",
+        "index": 7
+      }
     },
     {
       "convert": "Ngay tại hắn dự định không tiếc pháp lực gọi ra lư hương, thông qua Khu Vật Thuật phi thiên đào tẩu thời điểm, một tiếng to lớn réo vang từ tiền phương vang lên, phá vỡ rừng tùng đen bên trong yên tĩnh.",
       "dich": "Ngay khi hắn dự định không tiếc pháp lực gọi lư hương ra, thông qua Khu Vật Thuật bay lên trời chạy trốn, một thanh âm to lớn chói tai chợt vang lên ở phía trước, đánh vỡ sự yên lặng trong rừng tùng.",
-      "suggest": "Ngay khi hắn định không tiếc pháp lực gọi lư hương ra, thông qua thuật Khu Vật bay lên trời, phá vỡ sự yên tĩnh trong rừng tùng."
+      "suggest": "Ngay khi hắn định không tiếc pháp lực gọi lư hương ra, thông qua thuật Khu Vật bay lên trời, phá vỡ sự yên tĩnh trong rừng tùng.",
+      "approved": true,
+      "chinese": {
+        "raw": "就在他打算不惜法力的唤出香炉，通过驱物术飞天逃走之时，一声巨大尖鸣从前方响起，打破了黑松林内的宁静。",
+        "text": "Ngay tại hắn tính toán không tiếc pháp lực đích gọi ra lư hương, thông qua Khu vật thuật phi thiên đào tẩu thời điểm, một tiếng thật lớn réo vang lúc trước phương vang lên, phá vỡ Hắc Tùng trong rừng đích yên tĩnh .",
+        "index": 8
+      }
     },
     {
       "convert": "Chỉ gặp một con màu đen cự nha từ tiền phương nơi nào đó bay ra.",
       "dich": "Chỉ thấy một con cự nha (quạ lớn) màu đen từ chỗ nào đó phía trước bay ra.",
-      "suggest": "Chỉ thấy một con chim nhỏ màu đen bay ra từ phía trước."
+      "suggest": "Chỉ thấy một con chim nhỏ màu đen bay ra từ phía trước.",
+      "approved": true,
+      "chinese": {
+        "raw": "只见一只黑色巨鸦从前方某处飞了出来。",
+        "text": "Chỉ kiến một con hắc sắc cự quạ lúc trước Phương mỗ chỗ bay ra .",
+        "index": 9
+      }
     },
     {
       "convert": "Này quạ chừng một tòa phòng ốc lớn như vậy, toàn thân lông đen, ánh mắt lại là tinh hồng sắc, to lớn hai cánh triển khai chừng dài hai, ba trượng, nhìn chằm chằm nhìn lại.",
       "dich": "Quạ này to như một gian phòng, toàn thân mọc đầy lông đen, ánh mắt lại mang màu đỏ tươi, đôi cánh to lớn dang ra dài đến hai, ba trượng, đang chằm chằm nhìn qua bên này.",
-      "suggest": "Con quạ này lớn chừng một căn phòng lớn, toàn thân lông đen, ánh mắt lại là màu đỏ tím, hai cánh dài hai, ba trượng, nhìn chằm chằm vào nó."
+      "suggest": "Con quạ này lớn chừng một căn phòng lớn, toàn thân lông đen, ánh mắt lại là màu đỏ tím, hai cánh dài hai, ba trượng, nhìn chằm chằm vào nó.",
+      "approved": true,
+      "chinese": {
+        "raw": "此鸦足有一栋房屋那么大，通体黑羽，眼睛却是猩红色，巨大双翼展开足有两三丈长，虎视眈眈的看了过来。",
+        "text": "Này quạ chừng một tòa phòng ốc lớn như vậy, toàn thân Hắc Vũ, con mắt lại là tinh hồng sắc, thật lớn hai cánh triển khai chừng dài hai, ba trượng, như hổ rình mồi đích nhìn lại .",
+        "index": 10
+      }
     },
     {
       "convert": "Viên Minh sắc mặt đột biến, vội vàng dừng bước lại, một viên lòng trầm xuống.",
-      "dich": "Nhưng đúng lúc này, rừng cây sau sột soạt rung động, kim viên bốn mắt cũng đã đuổi tới gần, đồng thời ngưng bước chân lại.",
-      "suggest": "Viên Minh đột nhiên sắc mặt đại biến, vội vàng dừng bước, lòng trầm xuống."
+      "dich": "Viên Minh đột nhiên sắc mặt đại biến, vội vàng dừng bước, lòng trầm xuống.",
+      "suggest": "Viên Minh đột nhiên sắc mặt đại biến, vội vàng dừng bước, lòng trầm xuống.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭面色骤变，急忙停下脚步，一颗心沉了下去。",
+        "text": "Viên Minh sắc mặt đột biến, vội vàng dừng bước lại, một viên lòng trầm xuống .",
+        "index": 11
+      }
     },
     {
       "convert": "Cái này màu đen cự nha cho hắn tạo thành áp lực, tuyệt không so với bốn mắt Kim Viên nhỏ, đối mặt bốn mắt Kim Viên, hắn còn có thể dựa vào lư hương bay lên không tránh né, nhưng nếu là bị cái này màu đen cự nha để mắt tới, bản thân thật đúng là thượng thiên không cửa.",
-      "dich": "Vừa nhìn thấy kim viên xong, vẻ phẫn nộ hiện rõ trong mắt cự nha, miệng phát ra một tiếng kêu the thé chói tai.",
-      "suggest": "Cái bóng màu đen này cho hắn áp lực tuyệt không so với bốn mắt Kim Viên nhỏ, đối mặt với bốn mắt Kim Viên, hắn vẫn có thể dựa vào lư hương bay lên không tránh né, nhưng nếu bị bóng đen này để mắt tới, bản thân hắn đúng là trên trời không có cửa."
+      "dich": "Con cự nha màu đen này cho hắn áp lực không kém so với kim viên bốn mắt, đối mặt với kim viên bốn mắt, hắn vẫn có thể dựa vào lư hương bay lên không tránh né, nhưng nếu bị cự nha màu đen này để mắt tới, bản thân hắn đúng là lên trời cũng không thoát.",
+      "suggest": "Cái bóng màu đen này cho hắn áp lực tuyệt không so với bốn mắt Kim Viên nhỏ, đối mặt với bốn mắt Kim Viên, hắn vẫn có thể dựa vào lư hương bay lên không tránh né, nhưng nếu bị bóng đen này để mắt tới, bản thân hắn đúng là trên trời không có cửa.",
+      "approved": true,
+      "chinese": {
+        "raw": "这黑色巨鸦给他造成的压力，绝不比四目金猿小，面对四目金猿，他还能依靠香炉腾空躲避，但若是被这只黑色巨鸦盯上，自己可真是上天无门了。",
+        "text": "Này hắc sắc cự quạ cho hắn tạo thành áp lực, tuyệt không so bốn mắt kim viên tiểu, đối diện bốn mắt kim viên, hắn còn có thể dựa vào lư hương bay lên không tránh né, nhưng nếu là bị cái này hắc sắc cự quạ để mắt tới, chính mình thật đúng là thượng thiên không cửa rồi .",
+        "index": 12
+      }
     },
     {
       "convert": "Nhưng vào lúc này, sau lưng rừng cây 'Rầm Ào Ào' một vang, bốn mắt Kim Viên cũng đuổi tới chỗ gần, đồng dạng dừng bước.",
-      "dich": "Viên Minh ánh mắt hơi động, nội dung liên quan đến ý nghĩa của tiếng thú kêu mà hắn từng đọc qua khi học tập kiến thức ngự thú liền hiện ra trong đầu, có nhiều dấu hiệu cho thấy con cự nha kia tựa hồ đang chất vấn kim viên.",
-      "suggest": "Nhưng đúng lúc này, 'rầm rầm rầm' một tiếng, bốn con mắt Kim Viên cũng đuổi tới gần, đồng thời dừng bước."
+      "dich": "Nhưng đúng lúc này, rừng cây sau sột soạt rung động, kim viên bốn mắt cũng đã đuổi tới gần, đồng thời ngưng bước chân lại.",
+      "suggest": "Nhưng đúng lúc này, 'rầm rầm rầm' một tiếng, bốn con mắt Kim Viên cũng đuổi tới gần, đồng thời dừng bước.",
+      "approved": true,
+      "chinese": {
+        "raw": "就在此时，身后树林哗啦一响，四目金猿也追到了近处，同样停住了脚步。",
+        "text": "Nhưng vào lúc này, sau lưng rừng cây rầm một vang, bốn mắt kim viên cũng đuổi tới chỗ gần, cùng 样 dừng bước .",
+        "index": 13
+      }
     },
     {
       "convert": "Song khi màu đen cự nha nhìn thấy bốn mắt Kim Viên về sau, trong mắt để lộ ra rõ ràng phẫn nộ, phát ra một tiếng chói tai réo vang.",
-      "dich": "Kim viên bốn mắt phát ra một tiếng gầm như nhỏ, như thể nó đang thiếu tự tin.",
-      "suggest": "Song khi con gấu đen nhìn thấy bốn mắt viên kim viên, trong mắt lộ ra vẻ phẫn nộ, phát ra một tiếng chói tai réo rắt."
+      "dich": "Vừa nhìn thấy kim viên xong, vẻ phẫn nộ hiện rõ trong mắt cự nha, miệng phát ra một tiếng kêu the thé chói tai.",
+      "suggest": "Song khi con gấu đen nhìn thấy bốn mắt viên kim viên, trong mắt lộ ra vẻ phẫn nộ, phát ra một tiếng chói tai réo rắt.",
+      "approved": true,
+      "chinese": {
+        "raw": "然而当黑色巨鸦看到四目金猿后，目中透露出明显的愤怒，发出一声刺耳的尖鸣。",
+        "text": "Song khi hắc sắc cự quạ nhìn thấy bốn mắt kim viên sau, trong mắt để lộ ra rõ ràng phẫn nộ, phát ra một tiếng chói tai réo vang .",
+        "index": 14
+      }
     },
     {
       "convert": "Viên Minh ánh mắt khẽ động, trước đây học tập thuần thú tri thức lúc, liên quan tới hung thú thanh âm ý tứ nội dung hiện lên ở não hải, đủ loại dấu hiệu cho thấy, màu đen cự nha tựa hồ đang chất vấn Kim Viên.",
-      "dich": "Cự nha màu đen thì gầm thét liên tục, tức giận vỗ cạnh hai cánh tạo ra một cơn gió mạnh càn quét rừng tùng xung quanh, thổi cho cành khô lá úa ào ào bay loạn.",
-      "suggest": "Viên Minh khẽ động. Lúc trước khi học tri thức thuần thú, nội dung liên quan đến hung thú hiện lên trong đầu, đủ loại dấu hiệu cho thấy, con gấu đen kia tựa như đang chất vấn Kim Viên."
+      "dich": "Viên Minh ánh mắt hơi động, nội dung liên quan đến ý nghĩa của tiếng thú kêu mà hắn từng đọc qua khi học tập kiến thức ngự thú liền hiện ra trong đầu, có nhiều dấu hiệu cho thấy con cự nha kia tựa hồ đang chất vấn kim viên.",
+      "suggest": "Viên Minh khẽ động. Lúc trước khi học tri thức thuần thú, nội dung liên quan đến hung thú hiện lên trong đầu, đủ loại dấu hiệu cho thấy, con gấu đen kia tựa như đang chất vấn Kim Viên.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭目光一动，此前学习驯兽知识时，关于凶兽声音意思的内容浮现在脑海，种种迹象表明，黑色巨鸦似乎在质问金猿。",
+        "text": "Viên Minh ánh mắt khẽ động, trước đó học tập thuần 兽 tri thức thời, về hung thú thanh âm ý tứ đích nội dung hiện lên ở đầu óc, đủ loại dấu hiệu tỏ rõ, hắc sắc cự quạ tựa hồ đang chất vấn kim viên .",
+        "index": 15
+      }
     },
     {
       "convert": "Bốn mắt Kim Viên miệng ở bên trong phát ra gầm nhẹ, tựa hồ có chút lực lượng không đủ.",
-      "dich": "Kim viên bốn mắt có vẻ bị thái độ của cự nha chọc giận, tiếng kêu cũng trở nên chói tai, mặt lộ vẻ vô cùng hung hăng, thẳng mặt đối đấu với cự nha màu đen.",
-      "suggest": "Miệng Kim Viên trợn tròn, tựa hồ có chút lực lượng không đủ."
+      "dich": "Kim viên bốn mắt phát ra một tiếng gầm như nhỏ, như thể nó đang thiếu tự tin.",
+      "suggest": "Miệng Kim Viên trợn tròn, tựa hồ có chút lực lượng không đủ.",
+      "approved": true,
+      "chinese": {
+        "raw": "四目金猿嘴里发出低吼，似乎有些底气不足。",
+        "text": "Bốn mắt kim viên miệng trong phát ra gầm nhẹ, tựa hồ có chút tự tin không đủ .",
+        "index": 16
+      }
     },
     {
       "convert": "Màu đen cự nha gầm thét liên tục, hai cánh phẫn nộ vỗ, một cỗ Đại Phong quét sạch phụ cận rừng tùng, cành khô lá héo úa nhao nhao bay xuống.",
-      "dich": "Trong khi đó, kẻ đầu têu Viên Minh lại bị hai con hung thú bỏ qua một bên.",
-      "suggest": "Con rắn màu đen gầm thét liên tục, hai cánh phẫn nộ vỗ, một luồng đại phong quét sạch tùng lâm xung quanh, cành khô lá úa đua nhau bay xuống."
+      "dich": "Cự nha màu đen thì gầm thét liên tục, tức giận vỗ cạnh hai cánh tạo ra một cơn gió mạnh càn quét rừng tùng xung quanh, thổi cho cành khô lá úa ào ào bay loạn.",
+      "suggest": "Con rắn màu đen gầm thét liên tục, hai cánh phẫn nộ vỗ, một luồng đại phong quét sạch tùng lâm xung quanh, cành khô lá úa đua nhau bay xuống.",
+      "approved": true,
+      "chinese": {
+        "raw": "黑色巨鸦怒吼连连，双翅愤怒扇动，一股股大风席卷附近松林，枯枝败叶纷纷飘落。",
+        "text": "Hắc sắc cự quạ rống giận liên tục, hai cánh phẫn nộ vỗ, một luồng luồng gió to thổi quét phụ cận thả lỏng rừng, cành khô lá héo úa nhao nhao bay xuống .",
+        "index": 17
+      }
     },
     {
       "convert": "Bốn mắt Kim Viên tựa hồ bị cự nha thái độ chọc giận, tiếng kêu cũng bén nhọn, trên mặt hung quang đại phóng, cùng màu đen cự nha giằng co.",
-      "dich": "\"Xem ra mảnh rừng tùng này tám thành là địa bàn của con cự nha kia, kim viên bốn mắt vì truy đuổi ta mà xông vào, nếu chúng nó có thể đánh nhau thật, ta liền có thể thừa cơ đào tẩu.\"",
-      "suggest": "Bốn mắt Kim Viên tựa như bị thái độ cự nha chọc giận, tiếng kêu cũng bén nhọn, trên mặt hung quang đại phóng, giằng co với nha hoàn màu đen."
+      "dich": "Kim viên bốn mắt có vẻ bị thái độ của cự nha chọc giận, tiếng kêu cũng trở nên chói tai, mặt lộ vẻ vô cùng hung hăng, thẳng mặt đối đấu với cự nha màu đen.",
+      "suggest": "Bốn mắt Kim Viên tựa như bị thái độ cự nha chọc giận, tiếng kêu cũng bén nhọn, trên mặt hung quang đại phóng, giằng co với nha hoàn màu đen.",
+      "approved": true,
+      "chinese": {
+        "raw": "四目金猿似乎被巨鸦态度惹怒，叫声也尖锐起来，面上凶光大放，和黑色巨鸦对峙。",
+        "text": "Bốn mắt kim viên tựa hồ bị cự quạ thái độ chọc giận, tiếng kêu cũng bén nhọn, trên mặt hung quang đại phóng, cùng hắc sắc cự quạ giằng co .",
+        "index": 18
+      }
     },
     {
       "convert": "Ngược lại là với tư cách kẻ đầu têu Viên Minh, bị hai đầu hung thú bỏ qua ở một bên.",
-      "dich": "Viên Minh trong đầu nhanh chóng suy nghĩ, âm thầm mưu tính đường lui cho bản thân.",
-      "suggest": "Trái lại, Viên Minh với tư cách là kẻ đầu têu, bị hai hung thú bỏ qua một bên."
+      "dich": "Trong khi đó, kẻ đầu têu Viên Minh lại bị hai con hung thú bỏ qua một bên.",
+      "suggest": "Trái lại, Viên Minh với tư cách là kẻ đầu têu, bị hai hung thú bỏ qua một bên.",
+      "approved": true,
+      "chinese": {
+        "raw": "反倒是作为始作俑者的袁铭，被两头凶兽舍弃在了一旁。",
+        "text": "Ngược lại là là người khởi xướng đích Viên Minh, bị hai đầu hung thú bỏ qua tại rồi một bên .",
+        "index": 19
+      }
     },
     {
       "convert": "\"Xem ra mảnh này rừng tùng đen tám thành là cái này màu đen cự nha địa bàn, bốn mắt Kim Viên vì truy ta, xông vào, nếu chúng nó thật có thể đánh nhau, ta liền có thể thừa cơ đào tẩu.\"",
-      "dich": "Nhưng sự tình lại không như Viên Minh dự đoán, kim viên và cự nha dù hằm hằm nhìn nhau, thậm chí liên tục gầm rú nhưng trong lúc nhất thời lại không hề thấy dấu hiệu nào cho thấy chúng thực sự muốn đối đầu.",
-      "suggest": "\"Xem ra mảnh rừng tùng đen này tám phần là địa bàn của con gấu đen, bốn con Kim Viên truy đuổi ta, xông vào, nếu chúng thực sự có thể đánh nhau, ta lập tức có thể thừa cơ chạy trốn.\""
+      "dich": "\"Xem ra mảnh rừng tùng này tám thành là địa bàn của con cự nha kia, kim viên bốn mắt vì truy đuổi ta mà xông vào, nếu chúng nó có thể đánh nhau thật, ta liền có thể thừa cơ đào tẩu.\"",
+      "suggest": "\"Xem ra mảnh rừng tùng đen này tám phần là địa bàn của con gấu đen, bốn con Kim Viên truy đuổi ta, xông vào, nếu chúng thực sự có thể đánh nhau, ta lập tức có thể thừa cơ chạy trốn.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh tâm niệm nhanh chóng chuyển động, âm thầm vì chính mình vạch kế hoạch đường lui.",
-      "dich": "Viên Minh bỗng cảm giác không ổn, lặng lẽ di động sang phía bên cạnh.",
-      "suggest": "Viên Minh nhanh chóng chuyển động, âm thầm vạch kế hoạch cho mình."
+      "dich": "Viên Minh trong đầu nhanh chóng suy nghĩ, âm thầm mưu tính đường lui cho bản thân.",
+      "suggest": "Viên Minh nhanh chóng chuyển động, âm thầm vạch kế hoạch cho mình.",
+      "approved": true
     },
     {
       "convert": "Nhưng mà sự tình vượt quá Viên Minh đoán trước, bốn mắt Kim Viên cùng màu đen cự nha mặc dù lẫn nhau nhìn hằm hằm, gầm rú liên tục, nhất thời bán hội lại không có chút nào muốn dấu hiệu động thủ.",
-      "dich": "Thân thể của hắn vừa động, cự nha lập tức nhìn qua, đoạn há miệng phát ra một tiếng kêu chói tai, nương theo thanh âm, một mảnh sóng âm màu đen mà mắt thường cũng có thể thấy được trùm kín tầm mắt hắn.",
-      "suggest": "Nhưng sự tình vượt quá dự liệu của Viên Minh, bốn mắt Kim Viên và cự nha kia dù nhìn chằm chằm vào nhau, gầm rú liên tục nhưng trong thời gian ngắn lại không có chút dấu hiệu động thủ."
+      "dich": "Nhưng sự tình lại không như Viên Minh dự đoán, kim viên và cự nha dù hằm hằm nhìn nhau, thậm chí liên tục gầm rú nhưng trong lúc nhất thời lại không hề thấy dấu hiệu nào cho thấy chúng thực sự muốn đối đầu.",
+      "suggest": "Nhưng sự tình vượt quá dự liệu của Viên Minh, bốn mắt Kim Viên và cự nha kia dù nhìn chằm chằm vào nhau, gầm rú liên tục nhưng trong thời gian ngắn lại không có chút dấu hiệu động thủ.",
+      "approved": true,
+      "chinese": {
+        "raw": "然而事情出乎袁铭预料，四目金猿和黑色巨鸦虽然彼此怒视，吼叫连连，一时半会却没有丝毫要动手的迹象。",
+        "text": "Nhưng mà sự tình ra ngoài Viên Minh dự liệu, bốn mắt kim viên cùng hắc sắc cự quạ tuy rằng lẫn nhau nhìn giận dữ, gầm rú liên tục, nhất thời bán hội nhưng không có mảy may muốn động thủ đích dấu hiệu .",
+        "index": 21
+      }
     },
     {
       "convert": "Viên Minh bỗng cảm giác không ổn, lặng lẽ hướng bên cạnh di động.",
-      "dich": "Sóng âm màu đen có phạm vi công kích cực lớn, cả Viên Minh và kim viên bốn mắt đều bị bao phủ trong đó.",
-      "suggest": "Viên Minh bỗng cảm thấy không ổn, lặng lẽ di chuyển qua bên cạnh."
+      "dich": "Viên Minh bỗng cảm giác không ổn, lặng lẽ di động sang phía bên cạnh.",
+      "suggest": "Viên Minh bỗng cảm thấy không ổn, lặng lẽ di chuyển qua bên cạnh.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭顿感不妙，悄悄朝旁边移动。",
+        "text": "Viên Minh bỗng cảm thấy không ổn, lặng lẽ hướng bên cạnh di động .",
+        "index": 22
+      }
     },
     {
       "convert": "Thân thể của hắn vừa động, màu đen cự nha lập tức nhìn lại, há miệng phát ra kêu lên một tiếng bén nhọn, nương theo lấy thanh âm, một mảnh mắt trần có thể thấy màu đen sóng âm che mất tầm mắt của hắn.",
-      "dich": "Viên Minh chỉ cảm thấy thực hải chấn động mạnh, thần hồn giống như bị giam trong một chuông lớn đánh mạnh, thân thể theo đó cũng run rẩy, ý thức nhanh chóng trở nên mơ hồ.",
-      "suggest": "Thân thể hắn vừa động, con dao sắc nhọn màu đen lập tức nhìn lại, há miệng kêu lên một tiếng bén nhọn, nương theo tiếng kêu, một màn sóng âm màu đen che khuất tầm mắt của hắn."
+      "dich": "Thân thể của hắn vừa động, cự nha lập tức nhìn qua, đoạn há miệng phát ra một tiếng kêu chói tai, nương theo thanh âm, một mảnh sóng âm màu đen mà mắt thường cũng có thể thấy được trùm kín tầm mắt hắn.",
+      "suggest": "Thân thể hắn vừa động, con dao sắc nhọn màu đen lập tức nhìn lại, há miệng kêu lên một tiếng bén nhọn, nương theo tiếng kêu, một màn sóng âm màu đen che khuất tầm mắt của hắn.",
+      "approved": true,
+      "chinese": {
+        "raw": "他身体刚动，黑色巨鸦立刻看了过来，张口发出一声尖鸣，伴随着声音，一片肉眼可见的黑色音波淹没了他的视野。",
+        "text": "Thân thể của hắn vừa động, hắc sắc cự quạ lập tức nhìn lại, há mồm phát ra kêu lên một tiếng bén nhọn, cùng với lấy thanh âm, một mảnh mắt trần có thể thấy đích hắc sắc âm ba bao phủ hắn tầm nhìn .",
+        "index": 23
+      }
     },
     {
       "convert": "Màu đen sóng âm phạm vi công kích cực lớn, Viên Minh cùng bốn mắt Kim Viên đều bị dìm ngập trong đó.",
-      "dich": "\"Hỏng bét, là thủ đoạn công kích thần hồn!\"",
-      "suggest": "Phạm vi công kích của sóng âm màu đen cực lớn, cả Viên Minh và bốn mắt Kim Viên đều bị dìm ngập trong đó."
+      "dich": "Sóng âm màu đen có phạm vi công kích cực lớn, cả Viên Minh và kim viên bốn mắt đều bị bao phủ trong đó.",
+      "suggest": "Phạm vi công kích của sóng âm màu đen cực lớn, cả Viên Minh và bốn mắt Kim Viên đều bị dìm ngập trong đó.",
+      "approved": true,
+      "chinese": {
+        "raw": "黑色音波的攻击范围极广，袁铭和四目金猿都被淹没其中。",
+        "text": "Hắc sắc âm ba đích phạm vi công kích cực lớn, Viên Minh cùng bốn mắt kim viên đều bị bao phủ trong đó .",
+        "index": 24
+      }
     },
     {
       "convert": "Viên Minh chỉ cảm thấy thức hải đại chấn, thần hồn giống như bị giam ở một cái mãnh liệt đánh chuông lớn bên trong, thân thể cũng theo đó run rẩy, ý thức cấp tốc trở nên mơ hồ.",
-      "dich": "Hắn trong lòng cả kinh, vội vàng vận chuyển Minh Nguyệt Quyết hòng ổn định thần hồn.",
-      "suggest": "Viên Minh chỉ cảm thấy thức hải đại chấn, thần hồn như bị giam cầm trong một cái chuông lớn, thân thể cũng theo đó run rẩy, ý thức cấp tốc trở nên mơ hồ."
+      "dich": "Viên Minh chỉ cảm thấy thực hải chấn động mạnh, thần hồn giống như bị giam trong một chuông lớn đánh mạnh, thân thể theo đó cũng run rẩy, ý thức nhanh chóng trở nên mơ hồ.",
+      "suggest": "Viên Minh chỉ cảm thấy thức hải đại chấn, thần hồn như bị giam cầm trong một cái chuông lớn, thân thể cũng theo đó run rẩy, ý thức cấp tốc trở nên mơ hồ.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭只觉识海大震，神魂好像被关在一个猛烈敲击的大钟内，身体也随之颤抖，意识迅速变得模糊。",
+        "text": "Viên Minh chỉ cảm thấy thức hải đại chấn, thần hồn dường như bị nhốt tại một cái mãnh liệt đánh đích chuông lớn nội, thân thể cũng theo đó run rẩy, ý thức nhanh chóng trở nên mơ hồ .",
+        "index": 25
+      }
     },
     {
       "convert": "\"Hỏng bét, là công kích thần hồn thủ đoạn!\"",
-      "dich": "Kim viên bốn mắt cũng bị sóng âm từ tiếng quạ kêu bao phủ, thân thể nó tuy cũng run lên nhưng vẫn có thể giữa được ý chí, ngay tiếp đó ánh sáng màu vàng kim trong bốn con mắt vượt chợt bừng lên, từng tia sáng vàng chói mắt như những mũi tên phóng ra,",
-      "suggest": "\"Hỏng bét, là thủ đoạn công kích thần hồn!\""
+      "dich": "\"Hỏng bét, là thủ đoạn công kích thần hồn!\"",
+      "suggest": "\"Hỏng bét, là thủ đoạn công kích thần hồn!\"",
+      "approved": true
     },
     {
       "convert": "Hắn trong lòng cả kinh, vội vàng vận chuyển Minh Nguyệt Quyết ý đồ ổn định thần hồn.",
-      "dich": "Cự nha vội vàng vỗ cánh tránh né nhưng vẫn bị hai tia sáng đánh trúng, mười mấy cây lông vũ rơi xuống, máu tương theo đó chảy ra, nhuộm đỏ đám lông đen xung quanh.",
-      "suggest": "Trong lòng hắn cả kinh, vội vàng vận chuyển Minh Nguyệt Quyết hòng ổn định thần hồn."
+      "dich": "Hắn trong lòng cả kinh, vội vàng vận chuyển Minh Nguyệt Quyết hòng ổn định thần hồn.",
+      "suggest": "Trong lòng hắn cả kinh, vội vàng vận chuyển Minh Nguyệt Quyết hòng ổn định thần hồn.",
+      "approved": true
     },
     {
       "convert": "Bốn mắt Kim Viên cũng bị quạ minh âm sóng bao phủ, thân thể đồng dạng run lên, nhưng còn có thể bảo trì ý chí, bốn cái vượn mắt đột nhiên kim quang đại phóng, từng đạo mũi tên kim quang chói mắt mà ra.",
-      "dich": "Cự nha nổi giận, vỗ cánh nhào về phía kim viên, đồng thời hai bộ móng vuốt sắc nhọn chụp thẳng xuống dưới.",
-      "suggest": "Bốn Viên Ngọc Hoàn cũng bị sóng nước xanh biếc của quạ bao phủ, thân thể cũng run lên, nhưng vẫn có thể bảo trì ý chí, bốn con vượn đột nhiên sáng rực lên, từng đạo kim quang chói mắt bắn ra."
+      "dich": "Kim viên bốn mắt cũng bị sóng âm từ tiếng quạ kêu bao phủ, thân thể nó tuy cũng run lên nhưng vẫn có thể giữa được ý chí, ngay tiếp đó ánh sáng màu vàng kim trong bốn con mắt vượt chợt bừng lên, từng tia sáng vàng chói mắt như những mũi tên phóng ra.",
+      "suggest": "Bốn Viên Ngọc Hoàn cũng bị sóng nước xanh biếc của quạ bao phủ, thân thể cũng run lên, nhưng vẫn có thể bảo trì ý chí, bốn con vượn đột nhiên sáng rực lên, từng đạo kim quang chói mắt bắn ra.",
+      "approved": true,
+      "chinese": {
+        "raw": "四目金猿也被鸦鸣音波笼罩，身体同样一颤，但还能保持意志，四只猿目陡然金光大放，一道道箭矢般的金光夺目而出。",
+        "text": "Bốn mắt kim viên cũng bị quạ minh âm sóng bao phủ, thân thể cùng 样 run lên, nhưng còn có thể bảo trì ý chí, bốn cái vượn mục đột nhiên kim quang đại phóng, một đạo đạo như mũi tên đích kim quang loá mắt mà ra .",
+        "index": 27
+      }
     },
     {
       "convert": "Màu đen cự nha vội vàng vỗ cánh tránh né, nhưng vẫn là bị hai đạo kim quang bắn trúng, mười mấy cây màu đen lông vũ bay xuống, máu tươi tùy theo chảy ra, nhuộm đỏ phụ cận lông đen.",
-      "dich": "Kim viên không chịu yếu thế, hai tay khua múa, bắn ra những dải sáng vàng như kiếm khí nghênh đón cự nha.",
-      "suggest": "Con cá sấu đen vội vàng vỗ cánh tránh né, nhưng vẫn bị hai đạo kim quang bắn trúng, hơn mười sợi lông vũ màu đen bay xuống, máu tươi chảy ra, nhuộm đỏ những mảng lông đen xung quanh."
+      "dich": "Cự nha vội vàng vỗ cánh tránh né nhưng vẫn bị hai tia sáng đánh trúng, mười mấy cây lông vũ rơi xuống, máu tương theo đó chảy ra, nhuộm đỏ đám lông đen xung quanh.",
+      "suggest": "Con cá sấu đen vội vàng vỗ cánh tránh né, nhưng vẫn bị hai đạo kim quang bắn trúng, hơn mười sợi lông vũ màu đen bay xuống, máu tươi chảy ra, nhuộm đỏ những mảng lông đen xung quanh.",
+      "approved": true,
+      "chinese": {
+        "raw": "黑色巨鸦急忙振翅躲避，但还是被两道金光射中，十几根黑色羽毛飘落，鲜血随之流出，染红了附近黑羽。",
+        "text": "Hắc sắc cự quạ vội vàng vỗ cánh tránh né, nhưng vẫn là bị lưỡng đạo kim quang bắn trúng, mười mấy cây hắc sắc lông chim bay xuống, máu tươi theo đó chảy ra, nhuộm đỏ rồi phụ cận Hắc Vũ .",
+        "index": 28
+      }
     },
     {
       "convert": "Cự nha giận dữ, vỗ cánh nhào về phía Kim Viên, hai con đen nhánh lợi trảo đổ ập xuống vồ xuống.",
-      "dich": "Suy đoán của Viên Minh trước đó hoàn toàn chính xác, mảnh rừng tùng đen này đúng là địa bàn của cự nha, mà kim viên bốn mắt cũng có lãnh địa riêng của mình, có điều hai con thú này lại sống ngay cạnh nhau nên tranh chấp đánh lộn suốt nhiều năm qua, đây chính là một cặp đối thủ cũ, kết thù rất sâu.",
-      "suggest": "Cự Nha giận dữ, vỗ cánh nhào về phía Kim Viên, vung hai con dao nhọn sắc nhọn vồ tới."
+      "dich": "Cự nha nổi giận, vỗ cánh nhào về phía kim viên, đồng thời hai bộ móng vuốt sắc nhọn chụp thẳng xuống dưới.",
+      "suggest": "Cự Nha giận dữ, vỗ cánh nhào về phía Kim Viên, vung hai con dao nhọn sắc nhọn vồ tới.",
+      "approved": true,
+      "chinese": {
+        "raw": "巨鸦大怒，振翅扑向金猿，两只乌黑利爪劈头盖脸的抓下。",
+        "text": "Cự quạ giận dữ, vỗ cánh nhào về phía kim viên, hai con đen nhánh lợi trảo đổ ập xuống đích vồ xuống .",
+        "index": 29
+      }
     },
     {
       "convert": "Bốn mắt Kim Viên không cam lòng yếu thế, hai tay múa ở giữa, bắn ra như kiếm khí kim quang, nghênh hướng cự nha.",
-      "dich": "Hai thú xông vào chiến đấu với nhau, nhất thời không để ý tới Viên Minh ở bên cạnh.",
-      "suggest": "Hai mắt Kim Viên không cam lòng yếu thế, hai tay giang ra giữa, bắn ra ánh sáng màu vàng kim, nghênh đón cự nhi."
+      "dich": "Kim viên bốn mắt không chịu yếu thế, hai tay khua múa, bắn ra những dải sáng vàng như kiếm khí nghênh đón cự nha.",
+      "suggest": "Hai mắt Kim Viên không cam lòng yếu thế, hai tay giang ra giữa, bắn ra ánh sáng màu vàng kim, nghênh đón cự nhi.",
+      "approved": true,
+      "chinese": {
+        "raw": "四目金猿不甘示弱，双臂舞动间，射出如剑气般的金光，迎向了巨鸦。",
+        "text": "Bốn mắt kim viên không cam lòng yếu thế, hai tay vũ động gian, bắn ra 如 kiếm khí kiểu đích kim quang, nghênh hướng cự quạ .",
+        "index": 30
+      }
     },
     {
       "convert": "Viên Minh trước đó suy đoán một điểm không sai, mảnh này rừng tùng đen đúng là màu đen cự nha địa bàn, bốn mắt Kim Viên cũng có thuộc về lãnh địa của mình, hai thú láng giềng mà cư, tranh chấp đánh nhau nhiều năm, là một đôi đối thủ cũ, oán hận chất chứa rất sâu.",
-      "dich": "Tuy ảnh hưởng của sóng âm màu đen đã qua đi, nhưng hồn lực trong thức hải hắn vẫn có một loại cảm giác chấn động kịch liệt, cơ bản không chịu theo sự điều khiển của Minh Nguyệt Quyết, pháp lực vận chuyển cũng xuất hiện loại vấn đề nào đó, quá trình thi triển Phi Mao Thuật bắt đầu sụp đổ, tấm da vượn dần dần bong ra khỏi người hắn.",
-      "suggest": "Viên Minh trước đó suy đoán không sai, mảnh rừng tùng đen này đúng là địa bàn màu đen, bốn mắt Kim Viên cũng có thuộc tính của nó, hai thú láng giềng mà sống, tranh chấp đánh nhau nhiều năm, là một đôi đối thủ cũ, oán hận chất chứa trong lòng rất sâu."
+      "dich": "Suy đoán của Viên Minh trước đó hoàn toàn chính xác, mảnh rừng tùng đen này đúng là địa bàn của cự nha, mà kim viên bốn mắt cũng có lãnh địa riêng của mình, có điều hai con thú này lại sống ngay cạnh nhau nên tranh chấp đánh lộn suốt nhiều năm qua, đây chính là một cặp đối thủ cũ, kết thù rất sâu.",
+      "suggest": "Viên Minh trước đó suy đoán không sai, mảnh rừng tùng đen này đúng là địa bàn màu đen, bốn mắt Kim Viên cũng có thuộc tính của nó, hai thú láng giềng mà sống, tranh chấp đánh nhau nhiều năm, là một đôi đối thủ cũ, oán hận chất chứa trong lòng rất sâu.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭之前的猜测一点没错，这片黑松林确实是黑色巨鸦的地盘，四目金猿也有属于自己的领地，二兽比邻而居，相争相斗多年，是一对老对手，积怨颇深。",
+        "text": "Viên Minh trước đó đích suy đoán một điểm không sai, mảnh này Hắc Tùng rừng xác thực là hắc sắc cự quạ đích địa bàn, bốn mắt kim viên cũng có thuộc về mình đích lãnh địa, hai 兽 láng giềng mà cư, tranh chấp đánh nhau nhiều năm, là một đôi đối thủ cũ, oán hận chất chứa rất sâu .",
+        "index": 31
+      }
     },
     {
       "convert": "Hai thú chém giết ở cùng nhau, đều không để ý bên cạnh Viên Minh.",
-      "dich": "Viên Minh thấy lòng trầm xuống, tim đập thình thịch, hiện tại dựa vào uy lực của Phi Mao Thuật mà hắn vẫn gần như không thể đối phó với kim viên bốn mắt, một khi tấm da vượn tróc ra, tốc độ và sức phòng ngự của hắn sẽ giảm đi rất nhiều, lập tức sẽ bị hai con thú trước mắt giết chết một cách dễ dàng.",
-      "suggest": "Hai con thú đánh giết lẫn nhau, đều không để ý Viên Minh bên cạnh."
+      "dich": "Hai thú xông vào chiến đấu với nhau, nhất thời không để ý tới Viên Minh ở bên cạnh.",
+      "suggest": "Hai con thú đánh giết lẫn nhau, đều không để ý Viên Minh bên cạnh.",
+      "approved": true,
+      "chinese": {
+        "raw": "二兽厮杀在了一起，都没理会旁边的袁铭。",
+        "text": "Hai 兽 chém giết ở cùng nhau, đều không để ý bên cạnh đích Viên Minh .",
+        "index": 32
+      }
     },
     {
       "convert": "Màu đen sóng âm mang tới ảnh hưởng mặc dù đã qua, trong thức hải của hắn hồn lực vẫn có loại kịch liệt chấn động cảm giác, căn bản không nhận Minh Nguyệt Quyết điều khiển, pháp lực vận chuyển cũng xuất hiện một loại nào đó vấn đề, thi triển Phi Mao Thuật bắt đầu sụp đổ, vượn trắng này da dần dần từ trên người hắn tróc ra ",
-      "dich": "Hắn đột nhiên cắn đầu lưỡi một cái, dùng đau đớn để lấy lại một phần ý chí, liều mạng vận chuyển Minh Nguyệt Quyết.",
-      "suggest": "Sóng âm màu đen mang tới ảnh hưởng dù đã qua nhưng hồn lực trong thức hải của hắn vẫn có loại cảm giác chấn động kịch liệt, căn bản không nhận được Minh Nguyệt Quyết điều khiển, quá trình vận chuyển cũng xuất hiện một vài vấn đề, khi thi triển Phi Mao Thuật bắt đầu sụp đổ, tấm da vượn trắng từ từ tróc ra trên người hắn"
+      "dich": "Tuy ảnh hưởng của sóng âm màu đen đã qua đi, nhưng hồn lực trong thức hải hắn vẫn có một loại cảm giác chấn động kịch liệt, cơ bản không chịu theo sự điều khiển của Minh Nguyệt Quyết, pháp lực vận chuyển cũng xuất hiện loại vấn đề nào đó, quá trình thi triển Phi Mao Thuật bắt đầu sụp đổ, tấm da vượn dần dần bong ra khỏi người hắn.",
+      "suggest": "Sóng âm màu đen mang tới ảnh hưởng dù đã qua nhưng hồn lực trong thức hải của hắn vẫn có loại cảm giác chấn động kịch liệt, căn bản không nhận được Minh Nguyệt Quyết điều khiển, quá trình vận chuyển cũng xuất hiện một vài vấn đề, khi thi triển Phi Mao Thuật bắt đầu sụp đổ, tấm da vượn trắng từ từ tróc ra trên người hắn",
+      "approved": true
     },
     {
       "convert": "Viên Minh trong bụng lộp bộp trầm xuống, ngày nay bản thân có thể đều nhờ vào lấy Phi Mao Thuật chi lực, mới miễn cưỡng cùng bốn mắt Kim Viên làm quen, một khi hắn vượn trắng này da tróc ra, hắn vô luận tốc độ hay là phòng ngự đều sẽ đại giảm, tuỳ tiện liền sẽ bị trước mắt hai thú giết chết.",
-      "dich": "Đúng thời khắc này, ấn ký lư hương trên cánh tay phải hắn chợt rung lên, tức thì một luồng nhiệt từ đó phun ra rồi nhanh chóng chui vào trong đầu hắn.",
-      "suggest": "Viên Minh thầm thở dốc, hiện tại bản thân có thể nhờ vào Phi Mao Thuật mới miễn cưỡng làm quen với bốn mắt Kim Viên, một khi da vượn trắng này tróc ra, bất luận tốc độ hay phòng ngự của hắn đều sẽ đại giảm, tùy tiện sẽ bị hai con thú trước mắt giết chết."
+      "dich": "Viên Minh thấy lòng trầm xuống, tim đập thình thịch, hiện tại dựa vào uy lực của Phi Mao Thuật mà hắn vẫn gần như không thể đối phó với kim viên bốn mắt, một khi tấm da vượn tróc ra, tốc độ và sức phòng ngự của hắn sẽ giảm đi rất nhiều, lập tức sẽ bị hai con thú trước mắt giết chết một cách dễ dàng.",
+      "suggest": "Viên Minh thầm thở dốc, hiện tại bản thân có thể nhờ vào Phi Mao Thuật mới miễn cưỡng làm quen với bốn mắt Kim Viên, một khi da vượn trắng này tróc ra, bất luận tốc độ hay phòng ngự của hắn đều sẽ đại giảm, tùy tiện sẽ bị hai con thú trước mắt giết chết.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭心下咯噔一沉，如今自己可全仗着披毛术之力，才勉强和四目金猿周旋，一旦他的白猿之皮脱落，他无论速度还是防御都会大减，轻易便会被眼前二兽杀掉。",
+        "text": "Viên Minh cảm thấy lạc đăng trầm xuống, ngày nay chính mình khả đều nhờ vào lấy Phi Mao Thuật chi lực, mới miễn cưỡng cùng bốn mắt kim viên vật lộn, một khi hắn vượn trắng chi da bóc ra, hắn vô luận tốc độ vẫn là phòng ngự đều sẽ đại giảm, dễ dàng liền sẽ bị trước mắt hai 兽 giết chết .",
+        "index": 34
+      }
     },
     {
       "convert": "Hắn bỗng nhiên cắn đầu lưỡi một cái, dùng đau đớn đoạt lại bộ phận ý chí, liều lĩnh vận chuyển Minh Nguyệt Quyết.",
-      "dich": "Viên Minh chợt thấy thần hồn ổn định lại, tình trạng thức hải chấn động cũng giảm đi phân nửa, đồng thời ý thức cũng nhanh chóng khôi phục.",
-      "suggest": "Hắn đột nhiên cắn mạnh đầu lưỡi một cái, dùng đau đớn cướp đi phần ý chí còn lại, liều lĩnh vận chuyển Minh Nguyệt Quyết."
+      "dich": "Hắn đột nhiên cắn đầu lưỡi một cái, dùng đau đớn để lấy lại một phần ý chí, liều mạng vận chuyển Minh Nguyệt Quyết.",
+      "suggest": "Hắn đột nhiên cắn mạnh đầu lưỡi một cái, dùng đau đớn cướp đi phần ý chí còn lại, liều lĩnh vận chuyển Minh Nguyệt Quyết.",
+      "approved": true,
+      "chinese": {
+        "raw": "他猛地一咬舌尖，用疼痛夺回了部分意志，不顾一切的运转冥月诀。",
+        "text": "Hắn bỗng nhiên cắn đầu lưỡi một cái, dụng đau đớn đoạt lại rồi bộ phận ý chí, dứt khoát đích vận chuyển Minh Nguyệt quyết .",
+        "index": 35
+      }
     },
     {
       "convert": "Vào thời khắc này, hắn cánh tay phải lư hương ấn ký đột nhiên run lên, một dòng nước nóng từ đó tuôn ra, cấp tốc không có vào trong đầu của hắn.",
-      "dich": "\"Không ngờ lư hương này còn có thể giúp ta chống cự công kích thần hồn.\"",
-      "suggest": "Đúng lúc này, cánh tay phải lư hương của hắn đột nhiên run lên, một dòng nước nóng từ trong lư hương tuôn ra, nhanh chóng chui vào trong đầu hắn."
+      "dich": "Đúng thời khắc này, ấn ký lư hương trên cánh tay phải hắn chợt rung lên, tức thì một luồng nhiệt từ đó phun ra rồi nhanh chóng chui vào trong đầu hắn.",
+      "suggest": "Đúng lúc này, cánh tay phải lư hương của hắn đột nhiên run lên, một dòng nước nóng từ trong lư hương tuôn ra, nhanh chóng chui vào trong đầu hắn.",
+      "approved": true,
+      "chinese": {
+        "raw": "就在此刻，他右臂的香炉印记突然一颤，一股热流从中涌出，迅速没入他的脑海。",
+        "text": "Vào thời khắc này, hắn bên phải cánh tay đích lư hương ấn ký đột nhiên run lên, một dòng nước nóng từ trong trào ra, nhanh chóng chìm vào trong đầu của hắn .",
+        "index": 36
+      }
     },
     {
       "convert": "Viên Minh thần hồn chợt cảm thấy vừa vững, thức hải rung động tình huống giảm bớt hơn phân nửa, ý thức cũng cấp tốc khôi phục.",
-      "dich": "Hắn âm thầm mừng rỡ, tiếp đấy vội vàng vận chuyển pháp lực ổn định Phi Mao Thuật, rồi tức tốc quay người bỏ chạy về phía xa.",
-      "suggest": "Viên Minh chợt cảm thấy thần hồn vừa vững, tình huống thức hải rung động giảm đi hơn nửa, ý thức cũng nhanh chóng khôi phục."
+      "dich": "Viên Minh chợt thấy thần hồn ổn định lại, tình trạng thức hải chấn động cũng giảm đi phân nửa, đồng thời ý thức cũng nhanh chóng khôi phục.",
+      "suggest": "Viên Minh chợt cảm thấy thần hồn vừa vững, tình huống thức hải rung động giảm đi hơn nửa, ý thức cũng nhanh chóng khôi phục.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭神魂顿觉一稳，识海震颤的情况减轻了大半，意识也迅速恢复。",
+        "text": "Viên Minh thần hồn chợt cảm thấy vừa vững, thức hải chấn động đích tình huống giảm bớt quá nửa, ý thức cũng nhanh chóng khôi phục .",
+        "index": 37
+      }
     },
     {
       "convert": "\"Không nghĩ tới, cái này lư hương còn có thể giúp ta chống cự thần hồn công kích!\"",
-      "dich": "Cự nha giữa tràng chém giết nhìn thấy cảnh này, trong ánh mắt toát ra vẻ kinh ngạc.",
-      "suggest": "\"Không ngờ lư hương này còn có thể chống cự được công kích của thần hồn ta!\""
+      "dich": "\"Không ngờ lư hương này còn có thể giúp ta chống cự công kích thần hồn.\"",
+      "suggest": "\"Không ngờ lư hương này còn có thể chống cự được công kích của thần hồn ta!\"",
+      "approved": true
     },
     {
-      "convert": "Tâm hắn hạ mừng thầm, vội vàng vận",
-      "dich": "Nha Minh chi thuật của nó hiệu quá kéo dài, nếu không phải là kẻ có thực lực tương đương như đối thú cũ kim viên bốn mắt này, cơ bản không thể hồi phục nhanh như vậy được, rốt cuộc tên tu sĩ nhân loại trước mắt đã dùng thủ đoạn gì?",
-      "suggest": "Hắn thầm mừng thầm, vội vàng vận công"
-    },
-    {
-      "convert": "Chuyển pháp lực ổn định Phi Mao Thuật, quay người hướng nơi xa bỏ chạy.",
-      "dich": "Cự nha màu đen hướng về phía kim viên bốn mắt, phát ra một tiếng quạ kêu, tức thì sóng âm màu đen lại lần nữa phun ra ngoài, bao trùm thân thể kim viên.",
-      "suggest": "Phi Mao Thuật ổn định pháp lực, quay người bỏ chạy."
+      "convert": "Tâm hắn hạ mừng thầm, vội vàng vận chuyển pháp lực ổn định Phi Mao Thuật, quay người hướng nơi xa bỏ chạy.",
+      "dich": "Hắn âm thầm mừng rỡ, tiếp đấy vội vàng vận chuyển pháp lực ổn định Phi Mao Thuật, rồi tức tốc quay người bỏ chạy về phía xa.",
+      "suggest": "Hắn thầm mừng thầm, vội vàng vận công. Phi Mao Thuật ổn định pháp lực, quay người bỏ chạy.",
+      "approved": true
     },
     {
       "convert": "Màu đen cự nha trong chém giết nhìn thấy cảnh này, ánh mắt bên trong toát ra một tia kinh ngạc.",
-      "dich": "Kim viên bốn mặt chợt đờ người ra, trong khi đó cự nha màu đen tranh thủ cơ hội rời khỏi chiến trường, quay người đuổi theo hướng Viên Minh.",
-      "suggest": "Trong trận chém giết của cự nha, ánh mắt toát ra một chút kinh ngạc."
+      "dich": "Cự nha màu đen giữa tràng chém giết nhìn thấy cảnh này, trong ánh mắt toát ra vẻ kinh ngạc.",
+      "suggest": "Trong trận chém giết của cự nha, ánh mắt toát ra một chút kinh ngạc.",
+      "approved": true,
+      "chinese": {
+        "raw": "黑色巨鸦厮杀中看到此幕，眼神中流露出一丝惊讶。",
+        "text": "Hắc sắc cự quạ trong chém giết nhìn thấy màn này, nhãn thần trung lưu lộ ra một tia kinh ngạc .",
+        "index": 39
+      }
     },
     {
       "convert": "Nó quạ minh chi thuật hiệu quả bền bỉ, nếu không phải bốn mắt Kim Viên loại thực lực này tương đương đối thủ cũ, căn bản không có khả năng nhanh như vậy liền khôi phục, trước mắt cái này nhân tộc tu sĩ dùng thủ đoạn gì?",
-      "dich": "Viên Minh cảm nhận được cự nha đang đuổi theo mình, trong lòng kinh hãi, vội tăng tốc đồng thời sử dụng cách từng dùng để đối phó kim viên, không ngừng thay đổi phương hướng, dựa vào những cây tùng cao lớn để cản trở cự nha đuổi theo.",
-      "suggest": "Thuật Quạ Minh có hiệu quả bền bỉ, nếu không phải bốn mắt Kim Viên có thực lực tương đương với đối thủ cũ, căn bản không có khả năng khôi phục nhanh như vậy được. Trước mắt tu sĩ nhân tộc này dùng thủ đoạn gì?"
+      "dich": "Nha Minh chi thuật của nó hiệu quá kéo dài, nếu không phải là kẻ có thực lực tương đương như đối thú cũ kim viên bốn mắt này, cơ bản không thể hồi phục nhanh như vậy được, rốt cuộc tên tu sĩ nhân loại trước mắt đã dùng thủ đoạn gì?",
+      "suggest": "Thuật Quạ Minh có hiệu quả bền bỉ, nếu không phải bốn mắt Kim Viên có thực lực tương đương với đối thủ cũ, căn bản không có khả năng khôi phục nhanh như vậy được. Trước mắt tu sĩ nhân tộc này dùng thủ đoạn gì?",
+      "approved": true,
+      "chinese": {
+        "raw": "它的鸦鸣之术效果持久，若非四目金猿这种实力相当的老对手，根本不可能这么快便恢复，眼前这个人族修士用了什么手段？",
+        "text": "Nó quạ kêu thuật hiệu quả duy trì, nếu không phải bốn mắt kim viên loại thật lực này tương đương đích đối thủ cũ, căn bản không thể thế này nhanh liền khôi phục, trước mắt cái này nhân tộc tu sĩ dùng thủ đoạn gì ?",
+        "index": 40
+      }
     },
     {
       "convert": "Màu đen cự nha hướng bốn mắt Kim Viên phát ra một cái quạ minh, màu đen sóng âm lần nữa phun ra ngoài, che mất Kim Viên thân thể.",
-      "dich": "Tuy nhiên, cự nha có thể bay nên cây côi ngăn cản cũng có hạn, khoảng cách hai bên vẫn đang không ngừng rút lại.",
-      "suggest": "Con dao đen nhánh bắn về phía Kim Viên, sóng âm đen nhánh lại lần nữa phun ra ngoài, che khuất thân thể Kim Viên."
+      "dich": "Cự nha màu đen hướng về phía kim viên bốn mắt, phát ra một tiếng quạ kêu, tức thì sóng âm màu đen lại lần nữa phun ra ngoài, bao trùm thân thể kim viên.",
+      "suggest": "Con dao đen nhánh bắn về phía Kim Viên, sóng âm đen nhánh lại lần nữa phun ra ngoài, che khuất thân thể Kim Viên.",
+      "approved": true,
+      "chinese": {
+        "raw": "四目金猿动作微微一僵，黑色巨鸦趁机脱离战场，转身朝袁铭追去。",
+        "text": "Bốn mắt kim viên động tác hơi hơi cứng đờ, hắc sắc cự quạ thừa cơ thoát ly chiến trường, chuyển thân hướng Viên Minh đuổi theo .",
+        "index": 42
+      }
     },
     {
       "convert": "Bốn mắt Kim Viên động tác có chút cứng đờ, màu đen cự nha thừa cơ thoát ly chiến trường, quay người hướng Viên Minh đuổi theo",
-      "dich": "Thời khắc Viên Minh đang âm thầm kêu khổ, tầm mắt phía trước đột nhiên mở rộng.",
-      "suggest": "Động tác của Kim Viên hơi cứng đờ, nó tranh thủ thời cơ thoát khỏi chiến trường, quay người đuổi theo Viên Minh"
+      "dich": "Kim viên bốn mắt chợt đờ người ra, trong khi đó cự nha màu đen tranh thủ cơ hội rời khỏi chiến trường, quay người đuổi theo hướng Viên Minh.",
+      "suggest": "Động tác của Kim Viên hơi cứng đờ, nó tranh thủ thời cơ thoát khỏi chiến trường, quay người đuổi theo Viên Minh",
+      "approved": true
     },
     {
       "convert": "Viên Minh cảm nhận được màu đen cự nha đuổi theo tới, trong bụng nghiêm nghị, vội vàng tăng thêm tốc độ, cùng sử dụng trước đó đối phó Kim Viên biện pháp, không ngừng cải biến phương hướng, dựa vào cao lớn cây tùng ngăn cản cự nha truy kích.",
-      "dich": "Sau khi chạy một mạch ra khỏi rừng tùng đen, lúc này hắn đang bị một con suối rộng mấy trượng ngăn trở.",
-      "suggest": "Viên Minh cảm nhận được con bọ cạp đen đuổi tới, trong bụng căng thẳng, vội vàng tăng tốc, cùng với biện pháp trước đó đối phó Kim Viên, không ngừng cải tiến phương hướng, dựa vào cây tùng cao lớn ngăn cản nó truy kích."
+      "dich": "Viên Minh cảm nhận được cự nha đang đuổi theo mình, trong lòng kinh hãi, vội tăng tốc đồng thời sử dụng cách từng dùng để đối phó kim viên, không ngừng thay đổi phương hướng, dựa vào những cây tùng cao lớn để cản trở cự nha đuổi theo.",
+      "suggest": "Viên Minh cảm nhận được con bọ cạp đen đuổi tới, trong bụng căng thẳng, vội vàng tăng tốc, cùng với biện pháp trước đó đối phó Kim Viên, không ngừng cải tiến phương hướng, dựa vào cây tùng cao lớn ngăn cản nó truy kích.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭感受到黑色巨鸦追赶过来，心下凛然，急忙加快速度，并用之前对付金猿的办法，不停的改变方向，依靠高大松树阻挡巨鸦的追击。",
+        "text": "Viên Minh cảm nhận được hắc sắc cự quạ đuổi theo qua tới, cảm thấy nghiêm nghị, vội vàng tăng thêm tốc độ, cùng sử dụng trước đó đối phó kim viên đích biện pháp, không ngừng thay đổi phương hướng, dựa vào Cao Hiểu Tùng cây ngăn cản cự quạ đích truy kích .",
+        "index": 43
+      }
     },
     {
       "convert": "Nhưng mà màu đen cự nha có thể phi hành, cây cối ngăn cản có hạn, hai khoảng cách hay là không ngừng thu nhỏ.",
-      "dich": "Nước suối có màu xám trắng, đứng cách khá xa đã có cảm nhận được hơi lạnh truyền đến, hiển nhiên không phải là suối nước bình thường.",
-      "suggest": "Nhưng cự nha có thể phi hành, cây cối ngăn cản có hạn, hai khoảng cách không ngừng thu nhỏ."
+      "dich": "Tuy nhiên, cự nha có thể bay nên cây cối ngăn cản cũng có hạn, khoảng cách hai bên vẫn đang không ngừng rút lại.",
+      "suggest": "Nhưng cự nha có thể phi hành, cây cối ngăn cản có hạn, hai khoảng cách không ngừng thu nhỏ.",
+      "approved": true,
+      "chinese": {
+        "raw": "然而黑色巨鸦能够飞行，树木的阻挡有限，二者距离还是不断缩小。",
+        "text": "Nhưng mà hắc sắc cự quạ có thể phi hành, cây cối đích ngăn cản hữu hạn, hai người cự ly vẫn là không ngừng thu nhỏ lại .",
+        "index": 44
+      }
     },
     {
       "convert": "Viên Minh âm thầm kêu khổ thời khắc, phía trước tầm mắt đột nhiên một khoát.",
-      "dich": "Nghe tiếng cự nha đang xé gió đuổi tới gần, Viên Minh chợt cắn răng, thả người nhảy vào dòng suốt, biến mất không còn thấy gì nữa.",
-      "suggest": "Viên Minh thầm kêu khổ, tầm mắt đột nhiên dời về phía trước."
+      "dich": "Thời khắc Viên Minh đang âm thầm kêu khổ, tầm mắt phía trước đột nhiên mở rộng.",
+      "suggest": "Viên Minh thầm kêu khổ, tầm mắt đột nhiên dời về phía trước.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭暗暗叫苦之际，前方视野突然一阔。",
+        "text": "Viên Minh âm thầm kêu khổ chi trung, tiền phương tầm nhìn đột nhiên một rộng .",
+        "index": 45
+      }
     },
     {
       "convert": "Hắn một hơi trực tiếp đã chạy ra rừng tùng đen về sau, một đầu rộng vài trượng dòng suối chặn đường đi của hắn lại.",
-      "dich": "Cự nhanh lao đến nhanh như chớp, há miệng phát ra một tiếng quạ kêu về chỗ mà Viên Minh mới vừa xuống nước.",
-      "suggest": "Hắn chạy thẳng một mạch ra khỏi rừng tùng, sau đó một dòng suối lớn rộng vài trượng chặn đường đi của hắn lại."
+      "dich": "Sau khi chạy một mạch ra khỏi rừng tùng đen, lúc này hắn đang bị một con suối rộng mấy trượng ngăn trở.",
+      "suggest": "Hắn chạy thẳng một mạch ra khỏi rừng tùng, sau đó một dòng suối lớn rộng vài trượng chặn đường đi của hắn lại.",
+      "approved": true,
+      "chinese": {
+        "raw": "他一口气直接奔出了黑松林后，一条数丈宽的溪流挡住了他的去路。",
+        "text": "Hắn một ngụm khí trực tiếp đã chạy ra Hắc Tùng rừng sau, một đầu mấy trượng rộng đích dòng suối chặn đường đi của hắn .",
+        "index": 46
+      }
     },
     {
       "convert": "Suối nước hiện ra màu xám trắng, khoảng cách thật xa liền có thấy lạnh cả người truyền tới, hiển nhiên không phải bình thường suối nước.",
-      "dich": "Một mảng sóng âm màu đen đập vào mặt nước, tức thì mặt nước xuất hiện từng gợn sóng nước lăn tăn, một lúc sau mới dần tiêu tán.",
-      "suggest": "Suối nước hiện ra màu xám trắng, cách thật xa có cảm giác lạnh buốt cả người, hiển nhiên không phải suối nước bình thường."
+      "dich": "Nước suối có màu xám trắng, đứng cách khá xa đã có cảm nhận được hơi lạnh truyền đến, hiển nhiên không phải là suối nước bình thường.",
+      "suggest": "Suối nước hiện ra màu xám trắng, cách thật xa có cảm giác lạnh buốt cả người, hiển nhiên không phải suối nước bình thường.",
+      "approved": true,
+      "chinese": {
+        "raw": "溪水呈现灰白色，距离老远便有一股寒意传递过来，显然不是寻常溪水。",
+        "text": "Suối nước hiện ra màu xám trắng, cự ly thật xa liền có thấy lạnh cả người truyền tới, hiển nhiên không phải tầm thường suối nước .",
+        "index": 47
+      }
     },
     {
       "convert": "Theo hắc ám cự nha tiếng xé gió nhanh chóng tới gần, Viên Minh bỗng nhiên cắn răng, thả người nhảy vào dòng suối, biến mất không thấy gì nữa.",
-      "dich": "Cự nha bay lượn trên không trung, cặp móng vuốt đen bóng sắc lẻm tỏa sáng lập lòe, chỉ chờ Viên Minh ngoi lên là sẽ cho hắn một đòn trí mạng.",
-      "suggest": "Theo tiếng xé gió u ám nhanh chóng tới gần, Viên Minh bỗng nhiên cắn răng, tung người nhảy vào dòng suối rồi biến mất không thấy gì nữa."
+      "dich": "Nghe tiếng cự nha đang xé gió đuổi tới gần, Viên Minh chợt cắn răng, thả người nhảy vào dòng suốt, biến mất không còn thấy gì nữa.",
+      "suggest": "Theo tiếng xé gió u ám nhanh chóng tới gần, Viên Minh bỗng nhiên cắn răng, tung người nhảy vào dòng suối rồi biến mất không thấy gì nữa.",
+      "approved": true,
+      "chinese": {
+        "raw": "随着黑暗巨鸦的破空之声快速靠近，袁铭猛地咬牙，纵身跳入溪流，消失不见。",
+        "text": "Theo hắc ám cự quạ đích tiếng xé gió nhanh chóng tới gần, Viên Minh bỗng nhiên cắn răng, nhún người nhảy vào dòng suối, biến mất không thấy gì nữa .",
+        "index": 48
+      }
     },
     {
       "convert": "Cự nha thân hình như điện mà tới, đối Viên Minh vào nước địa phương phát ra một cái quạ minh.",
-      "dich": "Nhưng đợi hoài đợi mãi mà chẳng thấy có dấu hiệu nào chứng tỏ Viên Minh sẽ trồi lên, giống như hắn đã hoàn toàn biến mất.",
-      "suggest": "Thân hình cự nha như điện xẹt, lao về phía Viên Minh, phát ra một tiếng minh bạch."
+      "dich": "Cự nhanh lao đến nhanh như chớp, há miệng phát ra một tiếng quạ kêu về chỗ mà Viên Minh mới vừa xuống nước.",
+      "suggest": "Thân hình cự nha như điện xẹt, lao về phía Viên Minh, phát ra một tiếng minh bạch.",
+      "approved": true,
+      "chinese": {
+        "raw": "巨鸦身形如电而至，对着袁铭入水的地方发出一记鸦鸣。",
+        "text": "Cự quạ thân hình như điện tới, đối Viên Minh vào nước đích địa phương phát ra một cái quạ kêu .",
+        "index": 49
+      }
     },
     {
       "convert": "Mảng lớn màu đen sóng âm đánh vào trong nước, mặt nước cũng nổi lên từng vòng từng vòng rậm rạp gợn sóng, một hồi lâu mới dần dần tán đi.",
-      "dich": "Cự nha màu đen lại tiếp tục chao lượn giữa không trung thêm một lúc mà vẫn không thấy gì, cuối cùng cũng phải vỗ cánh bay đi.",
-      "suggest": "Sóng âm màu đen đánh vào trong nước, mặt nước cũng nổi lên từng đám sóng gợn nhỏ, sau một hồi lâu mới dần dần tán đi."
+      "dich": "Một mảng sóng âm màu đen đập vào mặt nước, tức thì mặt nước xuất hiện từng gợn sóng nước lăn tăn, một lúc sau mới dần tiêu tán.",
+      "suggest": "Sóng âm màu đen đánh vào trong nước, mặt nước cũng nổi lên từng đám sóng gợn nhỏ, sau một hồi lâu mới dần dần tán đi.",
+      "approved": true,
+      "chinese": {
+        "raw": "大片黑色音波打进水中，水面也泛起一圈圈细密的涟漪，好一会才逐渐散去。",
+        "text": "Mảng lớn hắc sắc âm ba đánh vào thủy trung, mặt nước cũng nổi lên một vòng vòng tinh mịn đích gợn sóng, một hồi lâu mới dần dần tán đi .",
+        "index": 50
+      }
     },
     {
       "convert": "Màu đen cự nha ở trên không xoay quanh bay lượn, song trảo phía trên hắc quang dũng động, đang chờ Viên Minh nổi lên mặt nước, cho hắn một kích trí mạng.",
-      "dich": "Mặt suối cách đó mấy chục trượng đột nhiên khẽ động, để lộ ra một con cóc màu đen, nhìn kỹ chính là Viên Minh đã đổi da vượn sang da cóc, có điều lúc này hắn thực sự không thể không nhảy lên bờ, toàn thân không ngừng run lẩy bẩy.",
-      "suggest": "Con rắn màu đen bay lượn trên không trung, hai trảo màu đen trên không trung, đang chờ Viên Minh nổi lên mặt nước, giáng cho hắn một kích trí mạng."
+      "dich": "Cự nha bay lượn trên không trung, cặp móng vuốt đen bóng sắc lẻm tỏa sáng lập lòe, chỉ chờ Viên Minh ngoi lên là sẽ cho hắn một đòn trí mạng.",
+      "suggest": "Con rắn màu đen bay lượn trên không trung, hai trảo màu đen trên không trung, đang chờ Viên Minh nổi lên mặt nước, giáng cho hắn một kích trí mạng.",
+      "approved": true,
+      "chinese": {
+        "raw": "黑色巨鸦在上空盘旋飞舞，双爪之上黑光涌动，正等着袁铭浮出水面，给其致命一击。",
+        "text": "Hắc sắc cự quạ ở trên không xoay quanh bay múa, hai móng phía trên hắc quang bắt đầu khởi động, đang chờ Viên Minh nổi lên mặt nước, cho nó một kích chí mệnh .",
+        "index": 51
+      }
     },
     {
       "convert": "Có thể đợi tới đợi lui, Viên Minh mảy may ngoi đầu lên dấu hiệu đều không có, giống như hoàn toàn biến mất.",
-      "dich": "Dòng suối này lạnh giá bất thường, ẩn chứa một loại âm khí kỳ lạ, dù tấm da cóc đen cũng không thể ngăn cách, để không ít âm khí xâm nhập vào thân thể hắn.",
-      "suggest": "Nhưng đợi tới khi lui lại, Viên Minh ngay cả dấu hiệu ngoi đầu lên cũng không có, giống như hoàn toàn biến mất."
+      "dich": "Nhưng đợi hoài đợi mãi mà chẳng thấy có dấu hiệu nào chứng tỏ Viên Minh sẽ trồi lên, giống như hắn đã hoàn toàn biến mất.",
+      "suggest": "Nhưng đợi tới khi lui lại, Viên Minh ngay cả dấu hiệu ngoi đầu lên cũng không có, giống như hoàn toàn biến mất.",
+      "approved": true,
+      "chinese": {
+        "raw": "可等来等去，袁铭丝毫冒头的迹象都没有，好像彻底消失了一般。",
+        "text": "Khả đợi tới đợi lui, Viên Minh mảy may làm liều đích dấu hiệu đều không có, dường như hoàn toàn biến mất rồi bình thường .",
+        "index": 52
+      }
     },
     {
       "convert": "Màu đen cự nha giữa không trung lại tiếp tục xoay một lát, rốt cục vỗ cánh bay đi.",
-      "dich": "Viên Minh giải trừ biến thân cóc, để lộ ra bản thể.",
-      "suggest": "Con chim lớn màu đen lại xoay tròn một vòng trên không trung, cuối cùng cũng cất cánh bay đi."
+      "dich": "Cự nha màu đen lại tiếp tục chao lượn giữa không trung thêm một lúc mà vẫn không thấy gì, cuối cùng cũng phải vỗ cánh bay đi.",
+      "suggest": "Con chim lớn màu đen lại xoay tròn một vòng trên không trung, cuối cùng cũng cất cánh bay đi.",
+      "approved": true,
+      "chinese": {
+        "raw": "黑色巨鸦在半空又继续盘旋了片刻，终于振翅飞走。",
+        "text": "Hắc sắc cự quạ giữa không trung lại tiếp tục xoay chốc lát, cuối cùng vỗ cánh bay đi .",
+        "index": 53
+      }
     },
     {
       "convert": "Mười ngoài mấy trượng dòng suối mặt nước nhẹ nhàng khẽ động, toát ra một cái màu đen cóc đầu, chính là đem vượn trắng da đổi thành màu đen cóc da Viên Minh, không kịp chờ đợi nhảy lên bờ, toàn thân run rẩy không thôi.",
-      "dich": "Hắn lực này mặt mũi tái nhợt, tứ chi còn nổi lên dấu bầm đen, đây chính là biểu hiện của việc bị âm khí nhập thể.",
-      "suggest": "Mặt nước cách chỗ cách đó mấy trượng, dòng nước khẽ động, một cái đầu cóc màu đen xuất hiện, chính là da cóc da vượn, hắn không kịp chờ đợi nhảy lên bờ, toàn thân run rẩy không thôi."
+      "dich": "Mặt suối cách đó mấy chục trượng đột nhiên khẽ động, để lộ ra một con cóc màu đen, nhìn kỹ chính là Viên Minh đã đổi da vượn sang da cóc, có điều lúc này hắn thực sự không thể không nhảy lên bờ, toàn thân không ngừng run lẩy bẩy.",
+      "suggest": "Mặt nước cách chỗ cách đó mấy trượng, dòng nước khẽ động, một cái đầu cóc màu đen xuất hiện, chính là da cóc da vượn, hắn không kịp chờ đợi nhảy lên bờ, toàn thân run rẩy không thôi.",
+      "approved": true,
+      "chinese": {
+        "raw": "十几丈外的溪流水面轻轻一动，冒出一个黑色的蛤蟆头，正是将白猿皮换成了黑色蛤蟆皮的袁铭，迫不及待的跳上岸，全身战栗不止。",
+        "text": "Vài chục trượng ngoại đích dòng suối mặt nước nhẹ nhàng khẽ động, tỏa ra một cái hắc sắc đích cóc 头, chính là đem vượn trắng da đổi thành rồi hắc sắc cóc da đích Viên Minh, không thể chờ đợi được đích nhảy lên bờ, toàn thân run rẩy không chỉ .",
+        "index": 54
+      }
     },
     {
       "convert": "Con suối nhỏ này suối nước dị thường lạnh buốt, ẩn chứa có một loại quỷ dị âm khí, cho nên hắc thiềm da thú cũng vô pháp ngăn cách, không ít âm khí xâm nhập tiến vào thân thể của hắn.",
-      "dich": "Hắn khoanh chân ngồi xuống, vận chuyển Cửu Nguyên Quyết, điều động pháp lực từ trong đan điền chảy ra khắp cơ thể, cố gắng xua tan âm khí trong người.",
-      "suggest": "Suối nước ở đây vô cùng lạnh lẽo, ẩn chứa một loại âm khí quỷ dị, cho nên da thú đen nhánh cũng không cách nào ngăn cách được âm khí, không ít âm khí xâm nhập vào cơ thể hắn."
+      "dich": "Dòng suối này lạnh giá bất thường, ẩn chứa một loại âm khí kỳ lạ, dù tấm da cóc đen cũng không thể ngăn cách, để không ít âm khí xâm nhập vào thân thể hắn.",
+      "suggest": "Suối nước ở đây vô cùng lạnh lẽo, ẩn chứa một loại âm khí quỷ dị, cho nên da thú đen nhánh cũng không cách nào ngăn cách được âm khí, không ít âm khí xâm nhập vào cơ thể hắn.",
+      "approved": true,
+      "chinese": {
+        "raw": "这条小溪的溪水异常冰凉，蕴含有一种诡异的阴气，故而黑蟾兽皮也无法隔绝，不少阴气侵入进了他的身体。",
+        "text": "Con suối nhỏ này đích suối nước dị thường băng lạnh, ẩn chứa có một loại quỷ dị đích âm khí, cho nên hắc thiềm da thú cũng vô pháp đoạn tuyệt, không ít âm khí xâm nhập tiến hắn thân thể .",
+        "index": 55
+      }
     },
     {
       "convert": "Viên Minh giải trừ cóc biến thân, hiển lộ ra bản thể.",
-      "dich": "Nhưng Cửu Nguyên Quyết là công pháp Mộc thuộc tính, có thể nhanh chóng khôi phục pháp lực và thể lực, nhưng khu trừ âm khí lại không phải sở trường của nó, kết quả là bất luận hắn vận chuyển thế nào cũng chỉ xua tan được một chút ít âm khí.",
-      "suggest": "Viên Minh giải trừ cóc, hiển lộ bản thể."
+      "dich": "Viên Minh giải trừ biến thân cóc, để lộ ra bản thể.",
+      "suggest": "Viên Minh giải trừ cóc, hiển lộ bản thể.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭解除了蛤蟆变身，显露出本体。",
+        "text": "Viên Minh giải trừ cóc biến thân, hiển lộ ra bản thể .",
+        "index": 56
+      }
     },
     {
       "convert": "Hắn lúc này sắc mặt trắng bệch, tứ chi chỗ còn nổi lên từng khối bầm đen, đây là âm khí xâm nhập hiện tượng.",
-      "dich": "Đang khi cảm thấy lo lắng, Viên Minh chợt nhớ ra một vậy, vội đưa tay vỗ nhẹ lên túi trữ vật, tức thì một món đồ màu đỏ lửa hiện ra trong tay hắn, nhìn kỹ chính là cái sừng cong đỏ lửa mà hắn tìm được trong núi lửa Tháp Lý khi trước.",
-      "suggest": "Sắc mặt hắn lúc này trắng bệch, chỗ tứ chi còn nổi lên từng khối thịt bầm đen, đây chính là hiện tượng âm khí xâm nhập."
+      "dich": "Hắn lực này mặt mũi tái nhợt, tứ chi còn nổi lên dấu bầm đen, đây chính là biểu hiện của việc bị âm khí nhập thể.",
+      "suggest": "Sắc mặt hắn lúc này trắng bệch, chỗ tứ chi còn nổi lên từng khối thịt bầm đen, đây chính là hiện tượng âm khí xâm nhập.",
+      "approved": true,
+      "chinese": {
+        "raw": "此时的他脸色发白，四肢处还泛起一块块乌青，这是阴气侵袭的现象。",
+        "text": "Hắn lúc này sắc mặt trắng bệch, tứ chi chỗ còn nổi lên từng khối bầm đen, đây là âm khí xâm nhập đích hiện tượng .",
+        "index": 57
+      }
     },
     {
       "convert": "Hắn khoanh chân ngồi xuống, vận chuyển Cửu Nguyên Quyết, pháp lực từ đan điền chảy khắp toàn thân, ý đồ xua tan thể nội âm khí.",
-      "dich": "Hắn nắm chặt cái sừng rồi vận khởi pháp lực rót vào trong đó.",
-      "suggest": "Hắn khoanh chân ngồi xuống, vận chuyển Cửu Nguyên Quyết, dòng pháp lực từ đan điền chảy khắp toàn thân, hòng xua tan âm khí trong cơ thể."
+      "dich": "Hắn khoanh chân ngồi xuống, vận chuyển Cửu Nguyên Quyết, điều động pháp lực từ trong đan điền chảy ra khắp cơ thể, cố gắng xua tan âm khí trong người.",
+      "suggest": "Hắn khoanh chân ngồi xuống, vận chuyển Cửu Nguyên Quyết, dòng pháp lực từ đan điền chảy khắp toàn thân, hòng xua tan âm khí trong cơ thể.",
+      "approved": true,
+      "chinese": {
+        "raw": "他盘膝坐下，运转九元诀，法力从丹田流遍全身，试图驱散体内阴气。",
+        "text": "Hắn khoanh chân ngồi xuống, vận chuyển chín nguyên quyết, pháp lực từ đan điền chảy - khắp toàn thân, thử đồ xua tan thể nội âm khí .",
+        "index": 58
+      }
     },
     {
       "convert": "Nhưng mà Cửu Nguyên Quyết là Mộc thuộc tính công pháp, có thể nhanh chóng khôi phục pháp lực cùng thể lực, nhưng khu trừ âm khí lại không phải hắn sở trưởng, vô luận hắn như thế nào vận chuyển, đều chỉ xua tán đi một chút âm khí.",
-      "dich": "Ánh đỏ trên cái sừng chợt bừng lên rực rỡ, bao phủ thân thể hắn lại, đồng thời một cỗ lực lượng nóng rực tràn vào trong người hắn.",
-      "suggest": "Nhưng Cửu Nguyên Quyết là công pháp thuộc tính Mộc, có thể nhanh chóng khôi phục Pháp lực và thể lực, nhưng khu trừ âm khí lại không phải sở trường của hắn, bất luận hắn vận chuyển thế nào, cũng chỉ xua tan đi một chút âm khí mà thôi."
+      "dich": "Nhưng Cửu Nguyên Quyết là công pháp Mộc thuộc tính, có thể nhanh chóng khôi phục pháp lực và thể lực, nhưng khu trừ âm khí lại không phải sở trường của nó, kết quả là bất luận hắn vận chuyển thế nào cũng chỉ xua tan được một chút ít âm khí.",
+      "suggest": "Nhưng Cửu Nguyên Quyết là công pháp thuộc tính Mộc, có thể nhanh chóng khôi phục Pháp lực và thể lực, nhưng khu trừ âm khí lại không phải sở trường của hắn, bất luận hắn vận chuyển thế nào, cũng chỉ xua tan đi một chút âm khí mà thôi.",
+      "approved": true,
+      "chinese": {
+        "raw": "然而九元诀是木属性功法，能够快速恢复法力和体力，但驱除阴气却并非其所长，无论他如何运转，都只驱散了少许阴气。",
+        "text": "Nhưng mà chín nguyên quyết là mộc thuộc tính công pháp, có thể nhanh chóng khôi phục pháp lực cùng thể lực, nhưng khu trừ âm khí lại không phải nó sở trường, vô luận hắn như thế nào vận chuyển, đều chỉ xua tán đi một chút âm khí .",
+        "index": 59
+      }
     },
     {
       "convert": "Viên Minh trong bụng lo lắng, đột nhiên nhớ tới một vật, tay tại trên Túi Trữ Vật vạch một cái, một cái xích hồng sự vật xuất hiện trong tay hắn, chính là từ trong tháp núi lửa ở bên trong lấy được cây kia xích hồng loan giác.",
-      "dich": "Kể từ khi có được cái sừng này, Viên Minh đã tìm hiểu lai lịch của nó, tiếc là không tìm thấy bất kỳ manh mối gì.",
-      "suggest": "Viên Minh lo lắng, đột nhiên nhớ tới một thứ, tay vạch một đường lên túi trữ vật, tức thì một vật màu đỏ xuất hiện trong tay hắn, chính là loan giác màu đỏ từ trong tháp núi lửa lấy được."
+      "dich": "Đang khi cảm thấy lo lắng, Viên Minh chợt nhớ ra một vậy, vội đưa tay vỗ nhẹ lên túi trữ vật, tức thì một món đồ màu đỏ lửa hiện ra trong tay hắn, nhìn kỹ chính là cái sừng cong đỏ lửa mà hắn tìm được trong núi lửa Tháp Lý khi trước.",
+      "suggest": "Viên Minh lo lắng, đột nhiên nhớ tới một thứ, tay vạch một đường lên túi trữ vật, tức thì một vật màu đỏ xuất hiện trong tay hắn, chính là loan giác màu đỏ từ trong tháp núi lửa lấy được.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭心下焦急，突然想起一物，手在储物袋上一划，一个赤红物事出现在他手中，正是从塔里火山中得到的那根赤红弯角。",
+        "text": "Viên Minh cảm thấy lo lắng, đột nhiên nhớ tới một vật, tay tại trên Túi Trữ Vật vạch một cái, một cái đỏ thẫm đỏ sự việc xuất hiện ở trong tay hắn, chính là từ trong tháp núi lửa trúng được đến cây kia đỏ thẫm đỏ sừng cong .",
+        "index": 60
+      }
     },
     {
       "convert": "Hắn nắm chặt loan giác, vận khởi pháp lực rót vào trong đó.",
-      "dich": "Loại bảo vật như này nếu cứ để đó không dùng thì quá lãng phí, hắn cẩn thận nghiên cứu qua về cái sừng con nay, phát hiện nó không những có thể hấp thụ hỏa lực nóng bỏng, mà còn có thể phát ra nhiệt lực.",
-      "suggest": "Hắn khoanh chân tại chỗ, vận khởi pháp lực rót vào trong đó."
+      "dich": "Hắn nắm chặt cái sừng rồi vận khởi pháp lực rót vào trong đó.",
+      "suggest": "Hắn khoanh chân tại chỗ, vận khởi pháp lực rót vào trong đó.",
+      "approved": true,
+      "chinese": {
+        "raw": "他握住弯角，运起法力注入其中。",
+        "text": "Hắn cầm chắc sừng cong, vận khởi pháp lực rót vào trong đó .",
+        "index": 61
+      }
     },
     {
       "convert": "Xích hồng loan giác bên trên hồng quang lập tức đại thịnh, bao phủ hắn thân thể, một cỗ nóng rực chi lực tràn vào thân thể của hắn.",
-      "dich": "Âm khí trong người Viên Minh bị cỗ lực lượng nóng rực kia quét tới, liền nhanh chóng tan rã rồi tiêu tán ngay sau đó.",
-      "suggest": "Ánh sáng đỏ tím bên trên Xích Diễm Giác lập tức đại thịnh, bao phủ toàn thân hắn, đồng thời một luồng sức nóng tràn vào trong cơ thể hắn."
+      "dich": "Ánh đỏ trên cái sừng chợt bừng lên rực rỡ, bao phủ thân thể hắn lại, đồng thời một cỗ lực lượng nóng rực tràn vào trong người hắn.",
+      "suggest": "Ánh sáng đỏ tím bên trên Xích Diễm Giác lập tức đại thịnh, bao phủ toàn thân hắn, đồng thời một luồng sức nóng tràn vào trong cơ thể hắn.",
+      "approved": true,
+      "chinese": {
+        "raw": "赤红弯角上的红光顿时大盛，笼罩住他的身体，一股灼热之力涌入他的身体。",
+        "text": "Đỏ thẫm đỏ sừng cong thượng đích hồng quang tức khắc đại thịnh, bao phủ lại thân thể hắn, một luồng nóng rực chi lực tuôn vào thân thể hắn .",
+        "index": 62
+      }
     },
     {
       "convert": "Từ khi đạt được cái này loan giác về sau, Viên Minh tìm hiểu qua lai lịch, đáng tiếc không tìm được bất luận cái gì manh mối.",
-      "dich": "Hắn ầm thầm mừng rõ, ngắm nghía sừng cong đôi lần xong thu nó vào.",
-      "suggest": "Từ khi có được loan giác này, Viên Minh đã tìm hiểu lai lịch của nó, đáng tiếc không tìm được bất cứ manh mối gì."
+      "dich": "Kể từ khi có được cái sừng này, Viên Minh đã tìm hiểu lai lịch của nó, tiếc là không tìm thấy bất kỳ manh mối gì.",
+      "suggest": "Từ khi có được loan giác này, Viên Minh đã tìm hiểu lai lịch của nó, đáng tiếc không tìm được bất cứ manh mối gì.",
+      "approved": true,
+      "chinese": {
+        "raw": "自从得到这弯角后，袁铭打探过其来历，可惜没找到任何线索。",
+        "text": "Từ được đến này sừng cong sau, Viên Minh thăm dò qua lúc nào tới lịch, đáng tiếc không tìm được bất luận cái gì manh mối .",
+        "index": 63
+      }
     },
     {
       "convert": "Như thế bảo vật, để đó không dùng ở nơi đó quá lãng phí, hắn cẩn thận nghiên cứu qua cái này loan giác, phát hiện vật này chẳng những có thể hấp thu nóng rực hỏa lực, càng có thể kích phát ra nhiệt lực.",
-      "dich": "\"May là âm khí đã bị bức ra ngoài, nếu để nó lưu lại trong người thì phiền phức, nước suối này không biết là chất nước gì mà lại ẩn chứa âm khí lợi hại như vậy.\"",
-      "suggest": "Bảo vật như thế để đó không dùng quá lãng phí, hắn cẩn thận nghiên cứu loan giác này, phát hiện vật này chẳng những có thể hấp thu nhiệt lực nồng đậm, mà còn có thể kích phát nhiệt lực."
+      "dich": "Loại bảo vật như này nếu cứ để đó không dùng thì quá lãng phí, hắn cẩn thận nghiên cứu qua về cái sừng con nay, phát hiện nó không những có thể hấp thụ hỏa lực nóng bỏng, mà còn có thể phát ra nhiệt lực.",
+      "suggest": "Bảo vật như thế để đó không dùng quá lãng phí, hắn cẩn thận nghiên cứu loan giác này, phát hiện vật này chẳng những có thể hấp thu nhiệt lực nồng đậm, mà còn có thể kích phát nhiệt lực.",
+      "approved": true,
+      "chinese": {
+        "raw": "此等宝物，闲置在那里太浪费，他仔细研究过这弯角，发现此物不但能吸收灼热火力，更能激发出热力。",
+        "text": "Bậc này bảo vật, để đó không dùng ở đó quá lãng phí, hắn tỉ mỉ nghiên cứu qua này sừng cong, phát hiện vật ấy chẳng những có thể hấp thu nóng rực hỏa lực, càng năng kích phát ra nhiệt lực .",
+        "index": 64
+      }
     },
     {
       "convert": "Viên Minh thể nội âm khí bị nóng rực chi lực xông lên, lập tức nhanh chóng tan rã, rất nhanh liền triệt để tiêu tán, thân thể của hắn run rẩy chậm rãi lắng lại, sắc mặt cũng khôi phục bình thường.",
-      "dich": "Viên Minh đứng dậy quan sát suối nước, sau đó lại nhìn bốn phía xung quanh.",
-      "suggest": "Âm khí trong cơ thể Viên Minh bị lực nóng rực xông lên, lập tức nhanh chóng tan rã, rất nhanh đã hoàn toàn tiêu tán, thân thể hắn run rẩy chậm rãi lắng xuống, sắc mặt cũng khôi phục lại vẻ bình thường."
+      "dich": "Âm khí trong người Viên Minh bị cỗ lực lượng nóng rực kia quét tới, liền nhanh chóng tan rã rồi tiêu tán ngay sau đó.",
+      "suggest": "Âm khí trong cơ thể Viên Minh bị lực nóng rực xông lên, lập tức nhanh chóng tan rã, rất nhanh đã hoàn toàn tiêu tán, thân thể hắn run rẩy chậm rãi lắng xuống, sắc mặt cũng khôi phục lại vẻ bình thường.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭体内的阴气被灼热之力一冲，立刻快速消融，很快便彻底消散，他身体的战栗缓缓平息，面色也恢复正常。",
+        "text": "Viên Minh thể nội đích âm khí bị nóng rực chi lực xông lên, lập tức nhanh chóng tiêu tan, rất nhanh liền triệt để tiêu tán, thân thể của hắn đích run rẩy chậm rãi bình ổn, sắc mặt cũng khôi phục bình thường .",
+        "index": 65
+      }
     },
     {
       "convert": "Trong lòng của hắn vui mừng, thưởng thức loan giác hai lần, đem nó thu vào.",
-      "dich": "Hòn đảo này không chỉ có linh khí nồng đậm, còn có loại hung thú kì lạ như kim viên bốn mắt, cự nha màu đen ẩn mình, bây giờ còn xuất hiện một dòng suối chứa âm khí, đúng là càng lúc càng thần bí.",
-      "suggest": "Trong lòng hắn vui mừng, thưởng thức loan giác hai lần, thu nó lại."
+      "dich": "Hắn ầm thầm mừng rõ, ngắm nghía sừng cong đôi lần xong thu nó vào.",
+      "suggest": "Trong lòng hắn vui mừng, thưởng thức loan giác hai lần, thu nó lại.",
+      "approved": true,
+      "chinese": {
+        "raw": "他心中一喜，把玩了弯角两下，将其收了起来。",
+        "text": "Trong lòng của hắn vui vẻ, thưởng thức rồi sừng cong hai lần, đem nó thu vào .",
+        "index": 66
+      }
     },
     {
       "convert": "\"May mắn âm khí bị bức bách ra ngoài, như lưu lại tại thể nội liền phiền toái, cái này suối nước là cái gì nước chất, vậy mà ẩn chứa lợi hại như thế âm khí.\"",
-      "dich": "Viên Minh lúc này không những không thấy căng thẳng, trái lại còn nổi lòng hiếu kỳ muốn thăm dò nơi này, nghĩ ngợi một chút xong liền đi dọc theo con suối tiến về phía trước.",
-      "suggest": "\"May mắn âm khí bị bức bách, nếu để lại trong cơ thể sẽ phiền toái, suối nước này là nước chất gì, vậy mà lại ẩn chứa âm khí lợi hại như vậy.\""
+      "dich": "\"May là âm khí đã bị bức ra ngoài, nếu để nó lưu lại trong người thì phiền phức, nước suối này không biết là chất nước gì mà lại ẩn chứa âm khí lợi hại như vậy.\"",
+      "suggest": "\"May mắn âm khí bị bức bách, nếu để lại trong cơ thể sẽ phiền toái, suối nước này là nước chất gì, vậy mà lại ẩn chứa âm khí lợi hại như vậy.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh đứng dậy nhìn xem suối nước, sau đó lại nhìn phía bốn phía.",
-      "dich": "Đi chưa được bao xa, Hỏa Sàm Nhi trong túi linh thú lại lần nữa hưng phấn hét ầm lên.",
-      "suggest": "Viên Minh đứng dậy nhìn dòng nước, sau đó lại nhìn khắp bốn phía."
+      "dich": "Viên Minh đứng dậy quan sát suối nước, sau đó lại nhìn bốn phía xung quanh.",
+      "suggest": "Viên Minh đứng dậy nhìn dòng nước, sau đó lại nhìn khắp bốn phía.",
+      "approved": true
     },
     {
       "convert": "Tòa hòn đảo này không chỉ linh khí nồng đậm, vẫn còn bốn mắt Kim Viên, màu đen cự nha loại kia kì lạ hung thú ẩn hiện, ngày nay lại xuất hiện một đầu âm khí này suối, càng ngày càng thần bí.",
-      "dich": "Viên Minh thoáng trầm ngâm một lát, cuối cùng vẫn thả nó ra ngoài.",
-      "suggest": "Linh khí trên hòn đảo này không chỉ nồng đậm mà còn có bốn mắt kim viên, loại hung thú màu đen kỳ lạ kia ẩn hiện, ngày nay lại xuất hiện thêm một đầu âm khí nữa, càng ngày càng thần bí."
+      "dich": "Hòn đảo này không chỉ có linh khí nồng đậm, còn có loại hung thú kì lạ như kim viên bốn mắt, cự nha màu đen ẩn mình, bây giờ còn xuất hiện một dòng suối chứa âm khí, đúng là càng lúc càng thần bí.",
+      "suggest": "Linh khí trên hòn đảo này không chỉ nồng đậm mà còn có bốn mắt kim viên, loại hung thú màu đen kỳ lạ kia ẩn hiện, ngày nay lại xuất hiện thêm một đầu âm khí nữa, càng ngày càng thần bí.",
+      "approved": true,
+      "chinese": {
+        "raw": "这座岛屿不单灵气浓郁，还有四目金猿，黑色巨鸦那等奇特凶兽出没，如今又出现一条阴气之溪，越来越神秘了。",
+        "text": "Hòn đảo này không chỉ linh khí nồng đậm, còn có bốn mắt kim viên, hắc sắc cự quạ loại kia kỳ lạ hung thú thường lui tới, ngày nay lại xuất hiện một đầu âm khí chi suối, càng ngày càng thần bí rồi .",
+        "index": 68
+      }
     },
     {
       "convert": "Viên Minh lúc này ngược lại không có khẩn trương, nổi lên dò xét nơi đây tâm tư, dọc theo dòng suối hướng về phía trước đi.",
-      "dich": "Nhưng khi Hỏa Sàm Nhi vừa ra đã lập tức muốn chạy tới phía trước, lại bị Viên Minh kéo lại.",
-      "suggest": "Viên Minh lúc này trái lại không có khẩn trương, nổi lên ý định dò xét nơi đây, sau đó men theo dòng suối đi về phía trước."
+      "dich": "Viên Minh lúc này không những không thấy căng thẳng, trái lại còn nổi lòng hiếu kỳ muốn thăm dò nơi này, nghĩ ngợi một chút xong liền đi dọc theo con suối tiến về phía trước.",
+      "suggest": "Viên Minh lúc này trái lại không có khẩn trương, nổi lên ý định dò xét nơi đây, sau đó men theo dòng suối đi về phía trước.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭此刻反而没有了紧张，泛起了探查此地的心思，沿着溪流往前行去。",
+        "text": "Viên Minh lúc này ngược lại không có khẩn trương, nổi lên tra xét nơi đây tâm tư, dọc theo dòng suối hướng về phía trước đi .",
+        "index": 69
+      }
     },
     {
       "convert": "Đi không bao xa, Linh Thú Đại bên trong Hỏa Sàm Nhi lại lần nữa hưng phấn hét rầm lên.",
-      "dich": "\"Hỏa Sàm Nhi, đảo này nguy cơ trùng trùng, chúng ta phải hành động thận trọng, đừng có chạy loạn khắp nơi, rủi gặp phải hung thú lợi hại, ta cũng không bảo vệ được ngươi, nghe hiểu không?\"",
-      "suggest": "Đi chưa được bao xa, Hỏa Sàm Nhi trong Linh Thú Đại lại lần nữa hưng phấn hét ầm lên."
+      "dich": "Đi chưa được bao xa, Hỏa Sàm Nhi trong túi linh thú lại lần nữa hưng phấn hét ầm lên.",
+      "suggest": "Đi chưa được bao xa, Hỏa Sàm Nhi trong Linh Thú Đại lại lần nữa hưng phấn hét ầm lên.",
+      "approved": true,
+      "chinese": {
+        "raw": "没走多远，灵兽袋内的火馋儿再度兴奋尖叫起来。",
+        "text": "Đi không bao xa, linh thú trong túi đích lửa thèm muốn nhi lại lần nữa hưng phấn hét rầm lêm .",
+        "index": 70
+      }
     },
     {
       "convert": "Viên Minh hơi trầm ngâm, hay là đem Hỏa Sàm Nhi phóng ra.",
-      "dich": "Viên Minh trầm giọng căn dặn.",
-      "suggest": "Viên Minh hơi trầm ngâm, xong cũng phóng Hỏa Sàm Nhi ra."
+      "dich": "Viên Minh thoáng trầm ngâm một lát, cuối cùng vẫn thả nó ra ngoài.",
+      "suggest": "Viên Minh hơi trầm ngâm, xong cũng phóng Hỏa Sàm Nhi ra.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭微一沉吟，还是将火馋儿放了出来。",
+        "text": "Viên Minh hơi trầm ngâm, vẫn là đem lửa thèm muốn nhi phóng ra .",
+        "index": 71
+      }
     },
     {
       "convert": "Mà khi Hỏa Sàm Nhi lập tức liền muốn hướng phía trước chạy đi thời điểm, lại bị Viên Minh kéo lại.",
-      "dich": "Hỏa Sàm Nhi liên tục gật đầu.",
-      "suggest": "Mà khi Hỏa Sàm Nhi lập tức muốn chạy về phía trước, lại bị Viên Minh kéo lại."
+      "dich": "Nhưng khi Hỏa Sàm Nhi vừa ra đã lập tức muốn chạy tới phía trước, lại bị Viên Minh kéo lại.",
+      "suggest": "Mà khi Hỏa Sàm Nhi lập tức muốn chạy về phía trước, lại bị Viên Minh kéo lại.",
+      "approved": true,
+      "chinese": {
+        "raw": "而当火馋儿立刻便要朝前方奔去之时，却被袁铭一把拉住。",
+        "text": "Mà khi lửa thèm muốn nhi lập tức liền muốn hướng phía trước chạy đi thời điểm, lại bị Viên Minh kéo lại .",
+        "index": 72
+      }
     },
     {
       "convert": "\"Hỏa Sàm Nhi, tòa hòn đảo này nguy cơ trùng trùng, chúng ta cần thận trọng làm việc, đừng chạy tán loạn khắp nơi, như gặp được lợi hại hung thú, ta cũng không bảo vệ được ngươi, nghe hiểu không?\"",
-      "dich": "Viên Minh lúc này mới buông nó ra, Hỏa Sàm Nhi lập tức chạy tới phía trước.",
-      "suggest": "\"Hỏa Sàm Nhi, nguy cơ của hòn đảo này trùng trùng, chúng ta cần thận trọng làm việc, đừng chạy tán loạn khắp nơi, nếu gặp phải hung thú lợi hại, ta cũng không bảo vệ được ngươi, nghe rõ chưa?\""
+      "dich": "\"Hỏa Sàm Nhi, đảo này nguy cơ trùng trùng, chúng ta phải hành động thận trọng, đừng có chạy loạn khắp nơi, rủi gặp phải hung thú lợi hại, ta cũng không bảo vệ được ngươi, nghe hiểu không?\"",
+      "suggest": "\"Hỏa Sàm Nhi, nguy cơ của hòn đảo này trùng trùng, chúng ta cần thận trọng làm việc, đừng chạy tán loạn khắp nơi, nếu gặp phải hung thú lợi hại, ta cũng không bảo vệ được ngươi, nghe rõ chưa?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh trầm giọng căn dặn.",
-      "dich": "Hắn vội vàng đuổi theo, một người một thú rất nhanh tiến lên thêm chừng một dặm nữa, kết quả trước mắt xuất hiện một ngọn núi thấp, cao có khoảng mười mấy trượng.",
-      "suggest": "Viên Minh trầm giọng căn dặn."
+      "dich": "Viên Minh trầm giọng căn dặn.",
+      "suggest": "Viên Minh trầm giọng căn dặn.",
+      "approved": true
     },
     {
       "convert": "Hỏa Sàm Nhi liên tục gật đầu.",
-      "dich": "Hỏa Sàm Nhi đi thẳng tới trước vách núi, ngẩng đầu nhìn lên không nhúc nhíc, chỉ thấy vách đá quấn đầy dây leo, còn có mấy tảng đá lớn nghiêng mình tựa vào chỗ này.",
-      "suggest": "Hỏa Sàm Nhi liên tục gật đầu."
+      "dich": "Hỏa Sàm Nhi liên tục gật đầu.",
+      "suggest": "Hỏa Sàm Nhi liên tục gật đầu.",
+      "approved": true,
+      "chinese": {
+        "raw": "火馋儿连连点头。",
+        "text": "Lửa thèm muốn nhi liên tục gật đầu .",
+        "index": 74
+      }
     },
     {
       "convert": "Viên Minh lúc này mới buông ra nó, Hỏa Sàm Nhi lập tức hướng phía trước chạy đi.",
-      "dich": "Sau một lúc lâu, nó nhảy lên trên một tảng đá lớn, đưa móng cào cấu vách đá, tựa hồ muốn phá vỡ chỗ đó.",
-      "suggest": "Viên Minh lúc này mới buông nó ra, tức tốc chạy về phía trước."
+      "dich": "Viên Minh lúc này mới buông nó ra, Hỏa Sàm Nhi lập tức chạy tới phía trước.",
+      "suggest": "Viên Minh lúc này mới buông nó ra, tức tốc chạy về phía trước.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭这才放开它，火馋儿立刻朝前方奔去。",
+        "text": "Viên Minh lúc này mới buông ra nó, lửa thèm muốn nhi lập tức hướng phía trước chạy đi .",
+        "index": 75
+      }
     },
     {
       "convert": "Hắn vội vàng đuổi theo, một người một thú rất nhanh tiến lên gần dặm tả hữu, một tòa chỉ có cao mười mấy trượng núi thấp xuất hiện ở phía trước.",
-      "dich": "\"Ngươi nói là, chỗ vách đá này có gì đó quái lại?\"",
-      "suggest": "Hắn vội vàng đuổi theo, một người một thú rất nhanh đã đi được mấy dặm, sau đó một ngọn núi thấp chỉ cao mười mấy trượng xuất hiện ở phía trước."
+      "dich": "Hắn vội vàng đuổi theo, một người một thú rất nhanh tiến lên thêm chừng một dặm nữa, kết quả trước mắt xuất hiện một ngọn núi thấp, cao có khoảng mười mấy trượng.",
+      "suggest": "Hắn vội vàng đuổi theo, một người một thú rất nhanh đã đi được mấy dặm, sau đó một ngọn núi thấp chỉ cao mười mấy trượng xuất hiện ở phía trước.",
+      "approved": true,
+      "chinese": {
+        "raw": "他急忙追了上去，一人一兽很快前进里许左右，一座只有十几丈高的矮山出现在前方。",
+        "text": "Hắn vội vàng đuổi theo, một người một thú rất nhanh tiến tới gần dặm tả hữu, một tòa chỉ có cao mười mấy trượng đích núi thấp xuất hiện ở phía trước .",
+        "index": 76
+      }
     },
     {
       "convert": "Hỏa Sàm Nhi đi vào một mặt vách núi trước, ngẩng đầu ngưỡng mộ, không nhúc nhích, chỉ gặp không ít dây leo quấn quanh ở trên vách đá, vẫn còn mấy khối tảng đá lớn nghiêng người dựa vào nơi đây.",
-      "dich": "Viên Minh bước tới hỏi.",
-      "suggest": "Hỏa Sàm Nhi đi tới trước một vách núi, ngẩng đầu lên nhìn, không nhúc nhích, chỉ thấy trên vách đá có không ít dây leo quấn quanh, vẫn còn mấy tảng đá lớn nghiêng người dựa vào nơi này."
+      "dich": "Hỏa Sàm Nhi đi thẳng tới trước vách núi, ngẩng đầu nhìn lên không nhúc nhíc, chỉ thấy vách đá quấn đầy dây leo, còn có mấy tảng đá lớn nghiêng mình tựa vào chỗ này.",
+      "suggest": "Hỏa Sàm Nhi đi tới trước một vách núi, ngẩng đầu lên nhìn, không nhúc nhích, chỉ thấy trên vách đá có không ít dây leo quấn quanh, vẫn còn mấy tảng đá lớn nghiêng người dựa vào nơi này.",
+      "approved": true,
+      "chinese": {
+        "raw": "火馋儿来到一面山壁前，抬头仰视，一动不动，只见不少蔓藤缠绕在石壁上，还有几块大石斜倚此处。",
+        "text": "Lửa thèm muốn nhi đi tới một mặt vách núi trước, ngẩng đầu ngưỡng mộ, vẫn không nhúc nhích, chỉ kiến không ít dây leo quấn quanh ở tường đá thượng, còn có mấy khối tảng đá lớn nghiêng người dựa vào chỗ này .",
+        "index": 77
+      }
     },
     {
       "convert": "Sau một lúc lâu, hắn nhảy đến một tảng đá lớn bên trên, đối vách núi một chỗ vừa cào vừa cấu, tựa hồ muốn phá vỡ nơi này.",
-      "dich": "Hỏa Sàm Nhi gật gật cái đầu nhỏ, miệng liên tục phát ra tiếng rít chói ta, giống như đang thúc giục Viên Minh đi qua.",
-      "suggest": "Sau một lúc lâu, hắn nhảy lên một tảng đá lớn, cào cấu một chỗ trên vách núi, tựa như muốn phá hủy nơi này."
+      "dich": "Sau một lúc lâu, nó nhảy lên trên một tảng đá lớn, đưa móng cào cấu vách đá, tựa hồ muốn phá vỡ chỗ đó.",
+      "suggest": "Sau một lúc lâu, hắn nhảy lên một tảng đá lớn, cào cấu một chỗ trên vách núi, tựa như muốn phá hủy nơi này.",
+      "approved": true,
+      "chinese": {
+        "raw": "半晌后，其跳到一块大石上，对着山壁一处又抓又挠，似乎想要破开这里。",
+        "text": "Sau một lúc lâu sau, nó nhảy đến một tảng đá lớn thượng, đối vách núi một chỗ vừa cào vừa cấu, tựa hồ muốn phá vỡ chỗ này .",
+        "index": 78
+      }
     },
     {
       "convert": "\"Ngươi nói là, chỗ này vách đá có gì đó quái lạ?\"",
-      "dich": "*Chú giải*",
-      "suggest": "\"Ngươi nói là vách đá chỗ này có gì quái lạ?\""
+      "dich": "\"Ngươi nói là, chỗ vách đá này có gì đó quái lại?\"",
+      "suggest": "\"Ngươi nói là vách đá chỗ này có gì quái lạ?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh đi tới.",
-      "dich": "*.Nha minh chi thuật: Nha minh là tiếng quạ kêu.",
-      "suggest": "Viên Minh bước tới."
+      "dich": "Viên Minh bước tới hỏi.",
+      "suggest": "Viên Minh bước tới.",
+      "approved": true
     },
     {
       "convert": "Hỏa Sàm Nhi cái đầu nhỏ liền chút, miệng ở bên trong phát ra dồn dập thét lên thanh âm, tựa hồ đang thúc giục gấp rút Viên Minh đuổi theo.",
-      "suggest": "Hỏa Sàm Nhi hơi nhỏ một chút, miệng liên tục kêu lên những tiếng 'vù vù', tựa như đang giục Viên Minh mau chóng đuổi theo."
+      "dich": "Hỏa Sàm Nhi gật gật cái đầu nhỏ, miệng liên tục phát ra tiếng rít chói ta, giống như đang thúc giục Viên Minh đi qua.",
+      "suggest": "Hỏa Sàm Nhi hơi nhỏ một chút, miệng liên tục kêu lên những tiếng 'vù vù', tựa như đang giục Viên Minh mau chóng đuổi theo.",
+      "approved": true,
+      "chinese": {
+        "raw": "火馋儿小脑袋连点，嘴里发出急促的尖叫之声，似乎在催促袁铭赶紧帮忙。",
+        "text": "Lửa thèm muốn hơi nhỏ cái đầu liền chút, miệng trong phát ra dồn dập tiếng rít thanh âm, tựa hồ đang thúc giục gấp rút Viên Minh khẩn trương giúp đỡ .",
+        "index": 80
+      }
     }
-  ]
+  ],
+  "currentWorkingLine": 87,
+  "changed": true
 }

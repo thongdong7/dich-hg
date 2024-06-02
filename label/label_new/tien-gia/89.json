@@ -1,4 +1,5 @@
 {
+  "currentLine": 74,
   "next": {
     "id": 90,
     "title": "Chương 90: Không có ngốc đến mức đầu"
@@ -15,416 +16,754 @@
     {
       "convert": "Viên Minh không có đi suốt đêm về Bích La Động, đến một lần đi đường ban đêm không an toàn, thứ hai hắn cũng không biết mình ngày nay thân ở nơi nào, chung quanh là không sẽ có nguy hiểm gì, tính toán đợi hừng đông lại nói.",
       "dich": "Viên Minh không đi suốt đêm về Bích La Động, thứ nhất là đi đường ban đêm không an toàn, thứ hai là hắn cũng không biết mình đang ở chỗ nào, xung quanh sẽ có nguy hiểm gì, nên dự định đợi hừng đông rồi tính sau.",
-      "suggest": "Viên Minh không đi suốt đêm về Bích La Động, đến một lần đi đường ban đêm không an toàn, thứ hai hắn cũng không biết mình hiện giờ đang ở đâu, xung quanh có nguy hiểm gì không, tính đợi đến hừng đông tới rồi tính."
+      "suggest": "Viên Minh không đi suốt đêm về Bích La Động, đến một lần đi đường ban đêm không an toàn, thứ hai hắn cũng không biết mình hiện giờ đang ở đâu, xung quanh có nguy hiểm gì không, tính đợi đến hừng đông tới rồi tính.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭没有连夜赶回碧罗洞，一来走夜路不安全，二来他也不知道自己如今身处何处，周围是否会有什么危险，打算等天亮再说。",
+        "text": "Viên Minh không có suốt đêm chạy về Bích La Động, một là tẩu đường ban đêm không an toàn, thứ hai hắn cũng không biết chính mình ngày nay thân ở nơi nào, chung quanh là không sẽ có nguy hiểm gì, tính toán đợi trời sáng lại nói .",
+        "index": 0
+      }
     },
     {
       "convert": "Hắn ở bên hồ một chỗ rừng cây đơn giản dựng lên một nhà lá, ngồi xếp bằng xuống, hồi tưởng hôm nay tao ngộ.",
       "dich": "Hắn dựng qua loa một lều cỏ trong rừng cây ven hồ, xong ngồi xếp bằng xuống, hồi tưởng lại những việc đã gặp hôm nay.",
-      "suggest": "Hắn chọn một căn nhà lá đơn giản bên hồ, ngồi xếp bằng xuống, hồi tưởng lại những ngày qua."
+      "suggest": "Hắn chọn một căn nhà lá đơn giản bên hồ, ngồi xếp bằng xuống, hồi tưởng lại những ngày qua.",
+      "approved": true,
+      "chinese": {
+        "raw": "他在湖边一处树林简单搭起了一个草棚，盘坐了下来，回想今日的遭遇。",
+        "text": "Hắn ở bên hồ một chỗ rừng cây giản đơn dựng lên rồi một nhà lá, ngồi xếp bằng xuống dưới, hồi tưởng hôm nay đích tao ngộ .",
+        "index": 1
+      }
     },
     {
       "convert": "Viên Minh có cái rất tốt quen thuộc, mỗi lần tao ngộ đại sự, sau đó đều sẽ cẩn thận hồi tưởng, tổng kết ra thiếu sót của mình.",
       "dich": "Viên Minh có một thói quen rất tốt là sau mỗi lần gặp chuyện lớn, hắn đều sẽ cẩn thận nhớ lại, tổng kết ra chỗ thiếu sót của mình.",
-      "suggest": "Viên Minh có một thói quen rất tốt là mỗi lần gặp đại sự, hắn đều cẩn thận hồi tưởng, tổng kết những thiếu sót của mình."
+      "suggest": "Viên Minh có một thói quen rất tốt là mỗi lần gặp đại sự, hắn đều cẩn thận hồi tưởng, tổng kết những thiếu sót của mình.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭有个很好的习惯，每次遭遇大事，事后都会仔细回想，总结出自己的不足。",
+        "text": "Viên Minh có cái rất tốt thói quen, mỗi lần tao ngộ đại sự, sau đó đều sẽ tỉ mỉ hồi tưởng, tổng kết ra thiếu sót của mình .",
+        "index": 2
+      }
     },
     {
       "convert": "Hôm nay sở dĩ luân phiên gặp nạn, là hắn cân nhắc không chu toàn, chuẩn bị không đủ, biết rõ ngàn lô mặt hồ tích cực rộng, lại không có nghĩ qua lạc đường khả năng, Bích La Động bên trong cũng có la bàn loại hình đồ vật, nếu như hắn trước đó chuẩn bị một cái, chỗ nào còn sẽ có về sau phiền phức.",
       "dich": "Hôm nay sở dĩ hắn liên tiếp gặp nạn là do hắn cân nhắc không chu toàn, chuẩn bị không đủ, biết rõ Thiên Lô hồ có diện tích cực lớn, lại không nghĩ đến khả năng bị lạc đường, trong khi trong Bích La Động cũng có đồ vật dạng la bàn, nếu như trước đó hắn chuẩn bị một cái, làm sao có những rắc rối sau đó được.",
-      "suggest": "Sở dĩ hôm nay luân phiên gặp nạn là do hắn chuẩn bị không chu toàn, biết rõ mặt hồ rộng lớn, lại không có nghĩ tới lạc đường, trong Bích La Động cũng có la bàn, nếu như hắn chuẩn bị trước, chỗ nào còn có vấn đề, không biết chỗ nào còn có phiền phức sau này."
+      "suggest": "Sở dĩ hôm nay luân phiên gặp nạn là do hắn chuẩn bị không chu toàn, biết rõ mặt hồ rộng lớn, lại không có nghĩ tới lạc đường, trong Bích La Động cũng có la bàn, nếu như hắn chuẩn bị trước, chỗ nào còn có vấn đề, không biết chỗ nào còn có phiền phức sau này.",
+      "approved": true,
+      "chinese": {
+        "raw": "今日之所以连番遇险，是他考虑不周，准备不足，明知道千芦湖面积极广，却没有想过迷路的可能，碧罗洞内也有指南针之类的东西，如果他事先准备一个，哪里还会有之后的麻烦。",
+        "text": "Hôm nay chỗ dĩ luân phiên gặp nạn, là hắn cân nhắc không chu toàn, chuẩn bị không đủ, biết rõ nghìn lô mặt hồ tích cực quảng, nhưng không có nghĩ tới lạc đường đích khả năng, Bích La Động nội cũng có kim chỉ nam các loại đồ vật, nếu hắn trước đó chuẩn bị một cái, chỗ nào còn sẽ có sau đó đích phiền toái .",
+        "index": 3
+      }
     },
     {
       "convert": "Viên Minh khẽ nhả một hơi, âm thầm đem cái này bài học kinh nghiệm nhớ kỹ đáy lòng.",
       "dich": "Viên Minh khẽ thở ra một hơi, âm thầm ghi khắc bài học này vào trong tâm khảm.",
-      "suggest": "Viên Minh khẽ thở dài, thầm ghi nhớ bài học kinh nghiệm này trong lòng."
+      "suggest": "Viên Minh khẽ thở dài, thầm ghi nhớ bài học kinh nghiệm này trong lòng.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭轻吐一口气，暗暗将这个教训牢记心底。",
+        "text": "Viên Minh nhẹ thở một ngụm khí, âm thầm đem cái này giáo huấn nhớ kỹ đáy lòng .",
+        "index": 4
+      }
     },
     {
-      "convert": "Hôm nay mặc dù gặp nạn, thu hoạch cũng là cực lớn, một bộ « Kỳ Thạch lục » điển tịch, bốn khối hỏa ngọc tủy, một thanh đỏ sậm thiết chùy, một cái đại không gian túi trữ vật, vẫn còn quyển kia Hắc Mộc bản chép tay, mỗi một kiện đều là bảo vật vật.",
-      "dich": "Hôm này dù gặp nạn nhưng thu hoạch cũng rất lớn, một bộ điển tịch 'Kỳ Thạch Lục', bốn khối Hỏa Ngọc tủy, một cây thiết chùy(búa) đỏ sẫm, một cái túi trữ vật có không gian lớn, còn có bản Hắc Mộc thủ trát kia, mỗi một món đều bảo vật.",
-      "suggest": "Hôm nay mặc dù gặp nạn, nhưng thu hoạch cũng cực lớn, một bộ điển tịch màu lục, bôn khối ngọc tủy, một thanh thiết chùy đỏ thẫm, một cái túi trữ vật lớn, còn có một quyển sổ tay màu đen, mỗi một kiện đều là bảo vật."
+      "convert": "Hôm nay mặc dù gặp nạn, thu hoạch cũng là cực lớn, một bộ « Kỳ Thạch lục » điển tịch, bốn khối Hỏa Ngọc Tủy, một thanh đỏ sậm thiết chùy, một cái đại không gian túi trữ vật, vẫn còn quyển kia Hắc Mộc bản chép tay, mỗi một kiện đều là bảo vật vật.",
+      "dich": "Hôm này dù gặp nạn nhưng thu hoạch cũng rất lớn, một bộ điển tịch 'Kỳ Thạch Lục', bốn khối Hỏa Ngọc Tủy, một cây thiết chùy (búa) đỏ sẫm, một cái túi trữ vật có không gian lớn, còn có bản Hắc Mộc thủ trát kia, mỗi một món đều bảo vật.",
+      "suggest": "Hôm nay mặc dù gặp nạn, nhưng thu hoạch cũng cực lớn, một bộ điển tịch màu lục, bôn khối ngọc tủy, một thanh thiết chùy đỏ thẫm, một cái túi trữ vật lớn, còn có một quyển sổ tay màu đen, mỗi một kiện đều là bảo vật.",
+      "approved": true,
+      "chinese": {
+        "raw": "今日虽然遇险，收获也是极大，一套《奇石录》典籍，四块火玉髓，一柄暗红铁锤，一个大空间的储物袋，还有那本黑木手札，每一件都是宝物。",
+        "text": "Hôm nay tuy rằng gặp nạn, thu hoạch cũng là cực đại, một bộ 《 kỳ thạch ghi chép 》 điển tịch, bốn khối hỏa ngọc tủy, một thanh đỏ sậm thiết chùy, một cái đại không gian đích túi trữ vật, còn có quyển kia hắc mộc bản chép tay, mỗi một kiện đều là bảo vật vật .",
+        "index": 5
+      }
     },
     {
       "convert": "\"Đúng rồi, suýt nữa quên mất vẫn còn cái này.\"",
       "dich": "\"Đúng, xém chút quên còn có cái này.\"",
-      "suggest": "\"Đúng rồi, suýt nữa quên mất cái này.\""
+      "suggest": "\"Đúng rồi, suýt nữa quên mất cái này.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh lật tay lấy ra một vật, chính là viên kia hái tới màu đỏ quả đào.",
       "dich": "Viên Minh lật tay lấy ra một thứ, chính là quả đào màu đỏ mà hắn hái lúc trước.",
-      "suggest": "Viên Minh lật tay lấy ra một vật, chính là quả đào mà hắn vừa hái lúc nãy."
+      "suggest": "Viên Minh lật tay lấy ra một vật, chính là quả đào mà hắn vừa hái lúc nãy.",
+      "approved": true
     },
     {
       "convert": "Quả đào tán phát ra trận trận mùi thơm ngát ngấm cả vào lòng người, có thể cảm nhận được ẩn chứa trong đó linh lực nồng nặc, tuyệt đối là một kiện khó được linh quả, đối tu vi hoặc không nhỏ giúp ích.",
       "dich": "Quả đào tỏa ra từng đợt hương thơm thấm vào tận ruột gan, hơn nữa có thể cảm nhận được linh lực đậm đặc ẩn chứa bên trong đó, tuyệt đối là một linh quả hiếm có, có lẽ sẽ giúp ích không nhỏ cho việc đề thăng tu vi.",
-      "suggest": "Quả đào tỏa ra một mùi thơm ngát thấm vào lòng người, có thể cảm nhận được linh lực ẩn chứa trong đó nồng nặc, tuyệt đối là một loại linh quả hiếm có, có thể giúp ích không nhỏ cho tu vi."
+      "suggest": "Quả đào tỏa ra một mùi thơm ngát thấm vào lòng người, có thể cảm nhận được linh lực ẩn chứa trong đó nồng nặc, tuyệt đối là một loại linh quả hiếm có, có thể giúp ích không nhỏ cho tu vi.",
+      "approved": true,
+      "chinese": {
+        "raw": "桃子散发出阵阵沁人心脾的清香，可以感受到其中蕴含的浓郁灵力，绝对是一件难得的灵果，对修为或有不小的助益。",
+        "text": "Quả đào phát ra xuất trận 阵 thấm vào ruột gan đích thanh hương, khả dĩ cảm nhận được ẩn chứa trong đó đích nồng đậm linh lực, tuyệt đối là một kiện khó được đích linh quả, đối tu vi có lẽ có không nhỏ giúp ích .",
+        "index": 7
+      }
     },
     {
       "convert": "Chỉ là hắn không biết này quả lai lịch, hiệu quả các loại, tùy tiện ăn sống, sợ có không ổn.",
       "dich": "Có điều hắn không biết lai lịch, công dụng của quả này, tùy tiện ăn vào sợ rằng không ổn.",
-      "suggest": "Chỉ là hắn không biết lai lịch, hiệu quả của loại quả này, tùy tiện ăn sống e rằng có điều không ổn."
+      "suggest": "Chỉ là hắn không biết lai lịch, hiệu quả của loại quả này, tùy tiện ăn sống e rằng có điều không ổn.",
+      "approved": true,
+      "chinese": {
+        "raw": "只是他不知道此果的来历，效果等，贸然生吃，怕有不妥。",
+        "text": "Chỉ là hắn không biết này quả đích lai lịch, hiệu quả đợi, tùy tiện ăn sống, sợ có không ổn .",
+        "index": 8
+      }
     },
     {
       "convert": "\"Vẫn là chờ về tông sau điều tra rõ ràng rồi nói sau.\"",
       "dich": "\"Tốt hơn là đợi về tông môn, điều tra rõ ràng rồi tính sau.\"",
-      "suggest": "\"Vẫn nên chờ sau khi trở về tông môn điều tra rõ ràng rồi mới quyết định.\""
+      "suggest": "\"Vẫn nên chờ sau khi trở về tông môn điều tra rõ ràng rồi mới quyết định.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh nuốt nước miếng, đem tiên đào lại thu vào.",
       "dich": "Viên Minh nuốt nước miếng, thu quả đào lại.",
-      "suggest": "Viên Minh nuốt nước miếng, thu tiên đào lại."
+      "suggest": "Viên Minh nuốt nước miếng, thu tiên đào lại.",
+      "approved": true
     },
     {
       "convert": "Hắn lấy ra quyển kia Hắc Mộc bản chép tay, cẩn thận đọc qua.",
       "dich": "Hắn lấy bản Hắc Mộc thủ trát kia ra, bắt đầu cẩn thận lật đọc.",
-      "suggest": "Hắn lấy ra quyển Hắc Mộc bản chép tay kia, cẩn thận đọc qua."
+      "suggest": "Hắn lấy ra quyển Hắc Mộc bản chép tay kia, cẩn thận đọc qua.",
+      "approved": true,
+      "chinese": {
+        "raw": "他取出那本黑木手札，仔细翻阅。",
+        "text": "Hắn lấy ra quyển kia hắc mộc bản chép tay, tỉ mỉ lật xem .",
+        "index": 10
+      }
     },
     {
       "convert": "Bản chép tay phía trước là Hắc Mộc đại sư tự thuật, giới thiệu hắn cuộc đời, hắn xuất thân Nam Cương một cái rèn sắt mà sống bộ lạc nhỏ, thuở nhỏ liền đối với luyện khí có hứng thú thật lớn, chỉ tiếc thân thể của hắn tiên thiên không đủ, không cách nào học tập bản tộc rèn đúc chi thuật.",
-      "dich": "Phía trước bản chép tay là Hắc Mộc đại sự tự thuật, giới thiệu cuộc đời y.",
-      "suggest": "Bản chép tay thứ hai là bản chép tay của Hắc Mộc đại sư, giới thiệu cuộc đời hắn, hắn xuất thân từ một bộ lạc rèn sắt ở Nam Cương, từ nhỏ đã có hứng thú với luyện khí, chỉ tiếc thân thể hắn tiên thiên không đủ, không cách nào học tập thuật rèn đúc của bản tộc."
+      "dich": "Phía trước bản chép tay là Hắc Mộc đại sự tự thuật, giới thiệu cuộc đời y. Y xuất thân từ một bộ lạc nhỏ lấy nghề rèn mà sống tại Nam Cương, từ thủa nhỏ đã vô cùng yêu thích luyện khí, chỉ tiếc y trời sinh thân thể yếu ớt, không cách nào học thuật rèn đúc của bản tộc.",
+      "suggest": "Bản chép tay thứ hai là bản chép tay của Hắc Mộc đại sư, giới thiệu cuộc đời hắn, hắn xuất thân từ một bộ lạc rèn sắt ở Nam Cương, từ nhỏ đã có hứng thú với luyện khí, chỉ tiếc thân thể hắn tiên thiên không đủ, không cách nào học tập thuật rèn đúc của bản tộc.",
+      "approved": true,
+      "chinese": {
+        "raw": "手札前面是黑木大师的自述，介绍了他的生平，其出身南疆一个锻铁为生的小部落，自幼便对炼器有着极大的兴趣，只可惜他身体先天不足，无法学习本族的锻造之术。",
+        "text": "Bản chép tay phía trước là hắc mộc đại sư tự thuật, giới thiệu hắn cuộc đời, nó xuất thân Nam Cương một cái rèn sắt mà sống bộ lạc nhỏ, từ nhỏ liền đối với luyện khí có hứng thú thật lớn, chỉ đáng tiếc thân thể của hắn vốn sinh ra đã kém cỏi, vô pháp học tập bản tộc đích rèn thuật .",
+        "index": 11
+      }
     },
     {
       "convert": "Về sau một cái ngẫu nhiên cơ hội, Hắc Mộc bị phát hiện thân phụ linh căn, mà lại là Hỏa Mộc hai linh căn, cho nên bị trong tộc đưa đến Bích La Động tu luyện.",
-      "dich": "Y xuất thân từ một bộ lạc nhỏ lấy nghề rèn mà sống tại Nam Cương, từ thủa nhỏ đã vô cùng yêu thích luyện khí, chỉ tiếc y trời sinh thân thể yếu ớt, không cách nào học thuật rèn đúc của bản tộc.",
-      "suggest": "Sau một lần ngẫu nhiên, Hắc Mộc phát hiện thân phụ mình có linh căn, mà thân phụ lại là hai linh căn Hỏa Mộc, cho nên được đưa đến Bích La Động tu luyện."
+      "dich": "Sau nhờ một cơ hội ngẫu nhiên, Hắc Mộc được phát hiện thân mang linh căn, hơn nữa còn là Hỏa Mộc song linh căn, cho nên được người trong tộc đưa tới Bích La Động tu luyện.",
+      "suggest": "Sau một lần ngẫu nhiên, Hắc Mộc phát hiện thân phụ mình có linh căn, mà thân phụ lại là hai linh căn Hỏa Mộc, cho nên được đưa đến Bích La Động tu luyện.",
+      "approved": true,
+      "chinese": {
+        "raw": "后来一个偶然机会，黑木被发现身负灵根，而且是火木双灵根，故而被族内送到了碧罗洞修炼。",
+        "text": "Về sau một cái ngẫu nhiên cơ hội, hắc mộc bị phát hiện thân phụ linh căn, hơn nữa là Hỏa Mộc 双 linh căn, cho nên bị trong tộc đưa đến Bích La Động tu luyện .",
+        "index": 12
+      }
     },
     {
       "convert": "Hắc Mộc đối tu tiên bản thân cũng không hứng thú lắm, tâm tâm niệm niệm vẫn là thuật luyện khí, có thể Bích La Động thuật luyện khí đối thân thể lực lượng cũng có được khá cao yêu cầu, Hắc Mộc tiên thiên không đủ, vẫn là không cách nào học tập, chỉ có thể ở Hỏa Phường làm chút sàng lọc tài liệu, vung chùy số lần ít rèn đúc nhiệm vụ.",
-      "dich": "Sau nhờ một cơ hội ngẫu nhiên, Hắc Mộc được phát hiện thân mang linh căn, hơn nữa còn là Hỏa Mộc song linh căn, cho nên được người trong tộc đưa tới Bích La Động tu luyện.",
-      "suggest": "Bản thân Hắc Mộc đối với việc tu tiên cũng không hứng thú lắm, trong tâm niệm niệm niệm vẫn là thuật luyện khí, nhưng thuật Bích La Động đối với thân thể cũng có yêu cầu khá cao, tiên thiên không đủ, vẫn không thể nào học tập, chỉ có thể ở Hỏa Phường làm chút sàng lọc tài liệu, vung chùy vài lần để rèn luyện."
+      "dich": "Bản thân Hắc Mộc không hứng thú lắm với chuyện tu tiên, lòng vẫn luôn hướng về luyện khí, thế nhưng thuật luyện khí của Bích La Động cũng có yêu cầu khá cao với lực lượng thân thể, Hắc Mộc lại trời sinh yếu ớt, rốt cuộc vẫn không thể học tập, chỉ có thể ở Hỏa phường làm mấy việc sàng liệu, hoặc nhiệm vụ yêu cầu số lần vung búa ít.",
+      "suggest": "Bản thân Hắc Mộc đối với việc tu tiên cũng không hứng thú lắm, trong tâm niệm niệm niệm vẫn là thuật luyện khí, nhưng thuật Bích La Động đối với thân thể cũng có yêu cầu khá cao, tiên thiên không đủ, vẫn không thể nào học tập, chỉ có thể ở Hỏa Phường làm chút sàng lọc tài liệu, vung chùy vài lần để rèn luyện.",
+      "approved": true,
+      "chinese": {
+        "raw": "黑木对修仙本身兴趣并不大，心心念念仍是炼器之术，可碧罗洞的炼器之术对身体力量也有着颇高的要求，黑木先天不足，还是无法学习，只能在火坊做些筛料，挥锤次数少的锻造任务。",
+        "text": "Hắc mộc đối tu tiên bản thân cũng không hứng thú lắm, tâm tâm niệm niệm vẫn là thuật luyện khí, khả Bích La Động đích thuật luyện khí đối thân thể lực lượng cũng có được khá cao đích yêu cầu, hắc mộc vốn sinh ra đã kém cỏi, vẫn là không cách nào học tập, chỉ có thể ở lửa phường làm chút si liệu, gạt chùy số lần ít đích rèn nhiệm vụ .",
+        "index": 13
+      }
     },
     {
       "convert": "Hắc Mộc cũng không từ bỏ, một bên cố gắng làm tốt chính mình thuộc bổn phận sự tình, một bên tìm kiếm giải quyết lực lượng không đủ biện pháp.",
-      "dich": "Bản thân Hắc Mộc không hứng thú lắm với chuyện tu tiên, lòng vẫn luôn hướng về luyện khí, thế nhưng thuật luyện khí của Bích La Động cũng có yêu cầu khá cao với lực lượng thân thể, Hắc Mộc lại trời sinh yếu ớt, rốt cuộc vẫn không thể học tập, chỉ có thể ở Hỏa phường làm mấy việc sàng liệu, hoặc nhiệm vụ yêu cầu số lần vung búa ít.",
-      "suggest": "Hắc Mộc cũng không từ bỏ, một mặt cố gắng hoàn thành nhiệm vụ của mình, một mặt tìm kiếm biện pháp giải quyết tình hình không còn đủ sức."
+      "dich": "Hắc Mộc vẫn không từ bỏ, một mặt cố gắng làm tốt công việc thuộc bổn phận của mình, một mặt tìm kiếm biện pháp giải quyết vấn đề thiếu khuyết lực lượng.",
+      "suggest": "Hắc Mộc cũng không từ bỏ, một mặt cố gắng hoàn thành nhiệm vụ của mình, một mặt tìm kiếm biện pháp giải quyết tình hình không còn đủ sức.",
+      "approved": true,
+      "chinese": {
+        "raw": "黑木并未放弃，一边努力做好自己的分内事，一边寻找解决力量不足的办法。",
+        "text": "Hắc mộc không hề buông tha, một bên cố gắng làm tốt chính mình đích thuộc bổn phận sự, một bên tìm kiếm giải quyết lực lượng không đủ đích biện pháp .",
+        "index": 14
+      }
     },
     {
       "convert": "Hắn tin tưởng vững chắc, bản thân là vì luyện khí mà thành người.",
-      "dich": "Hắc Mộc vẫn không từ bỏ, một mặt cố gắng làm tốt công việc thuộc bổn phận của mình, một mặt tìm kiếm biện pháp giải quyết vấn đề thiếu khuyết lực lượng.",
-      "suggest": "Hắn tin tưởng vững chắc, bản thân là người luyện khí mà thành."
+      "dich": "Y tin chắc rằng mình là người sinh ra để luyện khí.",
+      "suggest": "Hắn tin tưởng vững chắc, bản thân là người luyện khí mà thành.",
+      "approved": true,
+      "chinese": {
+        "raw": "他坚信，自己是为炼器而生的人。",
+        "text": "Hắn tin tưởng vững chắc, chính mình là vì luyện khí mà thành người .",
+        "index": 15
+      }
     },
     {
       "convert": "Tại trong lúc này, Hắc Mộc đại sư tiếp xúc đến Khu Vật Thuật, lập tức sinh ra linh cảm.",
-      "dich": "Y tin chắc rằng mình là người sinh ra để luyện khí.",
-      "suggest": "Trong lúc này, Hắc Mộc đại sư vừa tiếp xúc với Thuật Khu Vật lập tức sinh ra linh cảm."
+      "dich": "Vào lúc đó, Hắc Mộc đại sư tiếp xúc với Khu Vật Thuật, lập tức sinh ra linh cảm.",
+      "suggest": "Trong lúc này, Hắc Mộc đại sư vừa tiếp xúc với Thuật Khu Vật lập tức sinh ra linh cảm.",
+      "approved": true,
+      "chinese": {
+        "raw": "在此期间，黑木大师接触到了驱物术，顿时产生了灵感。",
+        "text": "Tại trong lúc này, hắc mộc đại sư tiếp xúc đến Khu vật thuật, tức khắc sinh ra linh cảm .",
+        "index": 16
+      }
     },
     {
       "convert": "Bằng vào chính mình thông minh tài trí, Hắc Mộc đại sư ngạnh sinh sinh đem Khu Vật Thuật cùng luyện khí vung chuy đoán tạo kết hợp lại cùng nhau, giải quyết tốt đẹp lực lượng không đủ vấn đề, chính thức bước lên luyện khí con đường, từ đây đã xảy ra là không thể ngăn cản.",
-      "dich": "Vào lúc đó, Hắc Mộc đại sư tiếp xúc với Khu Vật Thuật, lập tức sinh ra linh cảm.",
-      "suggest": "Bằng vào sự thông minh tài trí của mình, Hắc Mộc đại sư đã phối hợp Thuật Khu với Luyện Khí, giải quyết tốt vấn đề lực lượng không đủ, chính thức bước lên con đường luyện khí, từ đây trở đi không thể ngăn cản."
+      "dich": "Bằng vào sự thông mình, tài trí của bản thân, Hắc Mộc đại sư mạnh mẽ kết hợp Khu Vật Thuật và việc quai búa rèn đúc lại với nhau, giải quyết hoàn mỹ vấn đề lực lượng thiếu hụt, chính thức đạp lên con đường luyện khí, từ đó không còn có gì có thể ngăn cản y nữa.",
+      "suggest": "Bằng vào sự thông minh tài trí của mình, Hắc Mộc đại sư đã phối hợp Thuật Khu với Luyện Khí, giải quyết tốt vấn đề lực lượng không đủ, chính thức bước lên con đường luyện khí, từ đây trở đi không thể ngăn cản.",
+      "approved": true,
+      "chinese": {
+        "raw": "凭借自己的聪明才智，黑木大师硬生生将驱物术和炼器挥锤锻造结合在了一起，完美解决了力量不足的问题，正式踏上了炼器之路，从此一发不可收拾。",
+        "text": "Bằng vào chính mình thông minh tài trí, hắc mộc đại sư cứng rắn đem Khu vật thuật cùng luyện khí gạt chuy đoán tạo kết hợp ở cùng nhau, giải quyết tốt đẹp rồi lực lượng không đủ đích vấn đề, chính thức bước lên luyện khí con đường, từ đây đã xảy ra là không thể ngăn cản .",
+        "index": 17
+      }
     },
     {
       "convert": "Chính như chính Hắc Mộc đại sư tin tưởng vững chắc như thế, hắn đúng là trời sinh luyện khí sư, chỉ dùng thời gian mười năm liền học xong Bích La Động sở hữu luyện khí chi pháp, cũng đưa chúng nó lẫn nhau dung hợp, sáng chế ra bản thân đặc hữu luyện khí lưu phái, Hắc Mộc lưu.",
-      "dich": "Bằng vào sự thông mình, tài trí của bản thân, Hắc Mộc đại sư mạnh mẽ kết hợp Khu Vật Thuật và việc quai búa rèn đúc lại với nhau, giải quyết hoàn mỹ vấn đề lực lượng thiếu hụt, chính thức đạp lên con đường luyện khí, từ đó không còn có gì có thể ngăn cản y nữa.",
-      "suggest": "Chính như Hắc Mộc đại sư tin tưởng vững chắc như thế, hắn chính là Luyện Khí sư trời sinh đã luyện khí, chỉ dùng thời gian mười năm đã học xong Bích La Động sở hữu pháp quyết luyện khí, cũng dung hợp chúng nó lại với nhau, sáng tạo ra một bộ luyện khí đặc hữu, gọi là Hắc Mộc lưu."
+      "dich": "Đúng như niềm tin vững chắc của Hắc Mộc đại sư, y đúng là luyện khí sư trời sinh, chỉ dùng thời gian mười năm đã học xong tất cả các phương pháp luyện khí của Bích La Động, đồng thời còn dung hợp chúng lại với nhau, sáng tạo ra lưu phái luyện khí của riêng mình, Hắc Mộc lưu.",
+      "suggest": "Chính như Hắc Mộc đại sư tin tưởng vững chắc như thế, hắn chính là Luyện Khí sư trời sinh đã luyện khí, chỉ dùng thời gian mười năm đã học xong Bích La Động sở hữu pháp quyết luyện khí, cũng dung hợp chúng nó lại với nhau, sáng tạo ra một bộ luyện khí đặc hữu, gọi là Hắc Mộc lưu.",
+      "approved": true,
+      "chinese": {
+        "raw": "正如黑木大师自己坚信的那样，他确实是天生的炼器师，只用十年时间便学会了碧罗洞所有炼器之法，并将它们彼此融合，创出了自己独有的炼器流派，黑木流。",
+        "text": "Chính 如 hắc mộc đại sư chính mình tin tưởng vững chắc đích như vậy, hắn xác thực là thiên sinh đích luyện khí sư, chỉ dùng thời gian mười năm liền học xong Bích La Động tất cả luyện khí chi pháp, đồng thời đưa chúng nó lẫn nhau dung hợp, sáng chế ra chính mình độc hữu đích luyện khí lưu phái, hắc mộc lưu .",
+        "index": 18
+      }
     },
     {
       "convert": "Căn cứ từ thuật, bản chép tay đằng sau ghi chép Hắc Mộc đại sư suốt đời toàn bộ luyện khí tâm đắc, cùng hắn đủ loại tư tưởng, có thể nói là thứ nhất sinh sở cầu cùng tâm huyết kết tinh.",
-      "dich": "Đúng như niềm tin vững chắc của Hắc Mộc đại sư, y đúng là luyện khí sư trời sinh, chỉ dùng thời gian mười năm đã học xong tất cả các phương pháp luyện khí của Bích La Động, đồng thời còn dung hợp chúng lại với nhau, sáng tạo ra lưu phái luyện khí của riêng mình, Hắc Mộc lưu.",
-      "suggest": "Căn cứ từ thuật, trong quyển sổ ghi chép tâm đắc luyện khí của đại sư Hắc Mộc, cùng đủ loại tư tưởng, có thể nói là kết tinh sở cầu và tâm huyết."
+      "dich": "Theo lời tự thuật, phần sau bản thủ trát ghi lại tâm đắc luyện khí cả đời Hắc Mộc đại sư, cùng đủ loại ý tưởng của y, có thể nói là kết tinh tâm huyết và sở cầu một đời.",
+      "suggest": "Căn cứ từ thuật, trong quyển sổ ghi chép tâm đắc luyện khí của đại sư Hắc Mộc, cùng đủ loại tư tưởng, có thể nói là kết tinh sở cầu và tâm huyết.",
+      "approved": true,
+      "chinese": {
+        "raw": "根据自述，手札后面记载了黑木大师毕生全部的炼器心得，以及他的种种构想，可以说是其一生所求和心血结晶。",
+        "text": "Căn cứ từ thuật, bản chép tay phần sau ghi chép rồi hắc mộc đại sư xong sinh toàn bộ luyện khí tâm đắc, cùng với hắn đủ loại cấu tưởng, có thể nói là thứ nhất sinh sở cầu cùng tâm huyết kết tinh .",
+        "index": 19
+      }
     },
     {
       "convert": "Viên Minh nhìn đến đây, sắc mặt ngưng trọng lên.",
-      "dich": "Theo lời tự thuật, phần sau bản thủ trát ghi lại tâm đắc luyện khí cả đời Hắc Mộc đại sư, cùng đủ loại ý tưởng của y, có thể nói là kết tinh tâm huyết và sở cầu một đời.",
-      "suggest": "Viên Minh nhìn đến đây, sắc mặt nghiêm túc hẳn lên."
+      "dich": "Đọc đến đây, sắc mặt Viên Minh trở nên nghiêm túc.",
+      "suggest": "Viên Minh nhìn đến đây, sắc mặt nghiêm túc hẳn lên.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭看到这里，面色凝重起来。",
+        "text": "Viên Minh nhìn đến đây, sắc mặt ngưng trọng lên .",
+        "index": 20
+      }
     },
     {
       "convert": "Trần Uyển nói qua, Hắc Mộc đại sư tuy bị ca tụng là là Bích La Động trăm năm qua đệ nhất luyện khí thiên tài, nhưng chẳng biết tại sao hắn luyện khí thuật tựa hồ cũng không ở Bích La Động truyền thừa, nếu để tông môn những người khác biết Hắc Mộc bản chép tay trong tay hắn, không thông báo rước lấy bao lớn phong ba.",
-      "dich": "Đọc đến đây, sắc mặt Viên Minh trở nên nghiêm túc.",
-      "suggest": "Trần Uyển nói, mặc dù Hắc Mộc đại sư là thiên tài luyện khí của Bích La Động trăm năm qua, nhưng chẳng biết tại sao thuật Luyện Khí của lão lại không được truyền thừa ở Bích La Động, nếu để cho những người khác biết được Hắc Mộc bản chép tay trong tay lão, không thông báo cho tông môn biết, sẽ rước lấy bao nhiêu họa phúc."
+      "dich": "Trần Uyển từng nói, Hắc Mộc đại sư dù được khen là thiên tài luyện khí số một trong trăm năm qua của Bích La Động, nhưng chẳng biết vì sao mà thuật luyện khí của y hình như vẫn chưa được truyền bá trong Bích La Động, nếu để người khác trong tông biết Hắc Mộc thủ trát ở trong tay hắn, không biết sẽ rước tới bao nhiêu sóng gió.",
+      "suggest": "Trần Uyển nói, mặc dù Hắc Mộc đại sư là thiên tài luyện khí của Bích La Động trăm năm qua, nhưng chẳng biết tại sao thuật Luyện Khí của lão lại không được truyền thừa ở Bích La Động, nếu để cho những người khác biết được Hắc Mộc bản chép tay trong tay lão, không thông báo cho tông môn biết, sẽ rước lấy bao nhiêu họa phúc.",
+      "approved": true,
+      "chinese": {
+        "raw": "陈婉说过，黑木大师虽被誉为是碧罗洞百年来第一炼器天才，但不知为何其炼器术似乎并未在碧罗洞传承，若让宗门其他人知道黑木手札在他手中，不知会惹来多大的风波。",
+        "text": "Trần uyển nói qua, hắc mộc đại sư tuy bị ca tụng vi là Bích La Động trăm năm qua đệ nhất luyện khí thiên tài, nhưng chẳng biết tại sao nó luyện khí thuật tựa hồ không hề tại Bích La Động truyền thừa, nếu để tông môn cái khác người biết hắc mộc bản chép tay ở trong tay hắn, không thông báo rước lấy bao lớn đích phong ba .",
+        "index": 21
+      }
     },
     {
       "convert": "\"Trong đảo sương mù sự tình, không thể để cho bất luận kẻ nào biết, cái kia màu đen túi trữ vật cũng cần giấu đi!\"",
-      "dich": "Trần Uyển từng nói, Hắc Mộc đại sư dù được khen là thiên tài luyện khí số một trong trăm năm qua của Bích La Động, nhưng chẳng biết vì sao mà thuật luyện khí của y hình như vẫn chưa được truyền bá trong Bích La Động, nếu để người khác trong tông biết Hắc Mộc thủ trát ở trong tay hắn, không biết sẽ rước tới bao nhiêu sóng gió.",
-      "suggest": "\"Chuyện trong đảo sương mù, không thể để cho bất luận kẻ nào biết, túi trữ vật màu đen kia cũng cần phải giấu đi!\""
+      "dich": "\"Chuyện trong đảo sương mù không thể để cho bất kỳ ai biết, túi trữ vật màu đen kia cũng phải giấu đi!\"",
+      "suggest": "\"Chuyện trong đảo sương mù, không thể để cho bất luận kẻ nào biết, túi trữ vật màu đen kia cũng cần phải giấu đi!\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh âm thầm quyết định, lúc này mới tiếp tục nhìn xuống.",
-      "dich": "\"Chuyện trong đảo sương mù không thể để cho bất kỳ ai biết, túi trữ vật màu đen kia cũng phải giấu đi!\"",
-      "suggest": "Viên Minh thầm quyết định, lúc này mới tiếp tục nhìn xuống."
+      "dich": "Viên Minh thầm quyết định, xong mới đọc tiếp.",
+      "suggest": "Viên Minh thầm quyết định, lúc này mới tiếp tục nhìn xuống.",
+      "approved": true
     },
     {
       "convert": "Phía sau tự thuật chữ viết bắt đầu viết ngoáy, cơ bản đều là Hắc Mộc đại sư luyện khí thì gặp phải nghi nan, hay là tâm tình không tốt viết xuống phàn nàn ngữ điệu, vụn vặt lẻ tẻ, trước sau cũng không thế nào ăn khớp.",
-      "dich": "Viên Minh thầm quyết định, xong mới đọc tiếp.",
-      "suggest": "Chữ viết phía sau bắt đầu ngoáy ngoáy, cơ bản đều là do đại sư luyện khí gặp phải khó khăn, tâm tình không tốt viết xuống phàn nàn, ngữ điệu vụn vặt, trước sau không thể nào ăn khớp được."
+      "dich": "Chữ trong phần tự thuật sau đó bắt đầu trở nên nguệch ngoạc, cơ bản đều là nghi nan mà Hắc Mộc đại sư gặp phải trong quá trình luyện khí, hoặc là những lời phàn nàn được viết khi tâm trạng không tốt, có điều đoạn này viết rất rời rạc, trước sau không hề liền mạch.",
+      "suggest": "Chữ viết phía sau bắt đầu ngoáy ngoáy, cơ bản đều là do đại sư luyện khí gặp phải khó khăn, tâm tình không tốt viết xuống phàn nàn, ngữ điệu vụn vặt, trước sau không thể nào ăn khớp được.",
+      "approved": true,
+      "chinese": {
+        "raw": "后面的自述字迹开始潦草起来，基本都是黑木大师炼器时遇到的疑难，或者是心情不好写下的抱怨之语，零零散散，前后也不怎么连贯。",
+        "text": "Phía sau tự thuật nét chữ bắt đầu viết ngoáy lên tới, cơ bản đều là hắc mộc đại sư luyện khí thời gặp phải đích nghi nan, hay là tâm tình không tốt viết xuống đích oán trách ngữ điệu, vụn vặt lẻ tẻ, trước sau cũng không thế nào nối liền .",
+        "index": 23
+      }
     },
     {
       "convert": "Viên Minh cũng không lười biếng, cẩn thận đọc những chữ này câu, bất luận cái gì chỗ rất nhỏ đều không buông tha.",
-      "dich": "Chữ trong phần tự thuật sau đó bắt đầu trở nên nguệch ngoạc, cơ bản đều là nghi nan mà Hắc Mộc đại sư gặp phải trong quá trình luyện khí, hoặc là những lời phàn nàn được viết khi tâm trạng không tốt, có điều đoạn này viết rất rời rạc, trước sau không hề liền mạch.",
-      "suggest": "Viên Minh cũng không lười biếng, cẩn thận đọc mấy chữ này, bất luận chỗ nào dù nhỏ cũng không buông tha."
+      "dich": "Viên Minh cũng không lười biếng, cẩn thận đọc kỹ từng câu từng chữ, không bỏ qua bất kỳ chi tiết nhỏ nào.",
+      "suggest": "Viên Minh cũng không lười biếng, cẩn thận đọc mấy chữ này, bất luận chỗ nào dù nhỏ cũng không buông tha.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭并未懈怠，仔细阅读这些字句，任何细微之处都不放过。",
+        "text": "Viên Minh không hề buông lỏng, tỉ mỉ đọc những này câu chữ, bất luận cái gì chỗ rất nhỏ đều không buông tha .",
+        "index": 24
+      }
     },
     {
       "convert": "Theo Trần Uyển lời nói, Hắc Mộc đại sư đột nhiên mất tích một chuyện, ở trong tông khiêu khích phong ba không nhỏ, từ bản này bản chép tay bên trong có lẽ có thể tìm tới một chút manh mối.",
-      "dich": "Viên Minh cũng không lười biếng, cẩn thận đọc kỹ từng câu từng chữ, không bỏ qua bất kỳ chi tiết nhỏ nào.",
-      "suggest": "Theo lời Trần Uyển, đại sư đột nhiên mất tích, trong tông khiêu khích phong ba không nhỏ, từ trong cuốn sổ tay này có thể tìm ra manh mối."
+      "dich": "Theo lời Trần Uyển nói, chuyện Hắc Mộc đại sư đột nhiên mất tích đã tạo ra phong ba không nhỏ trong tông môn, từ trong bản chép tay có thể tìm ra một ít manh mối.",
+      "suggest": "Theo lời Trần Uyển, đại sư đột nhiên mất tích, trong tông khiêu khích phong ba không nhỏ, từ trong cuốn sổ tay này có thể tìm ra manh mối.",
+      "approved": true,
+      "chinese": {
+        "raw": "据陈婉所言，黑木大师突然失踪一事，在宗内惹起了不小的风波，从这本手札中或许能找到一些线索。",
+        "text": "Theo trần uyển lời nói, hắc mộc đại sư đột nhiên mất tích một chuyện, tại tông nội khiêu khích rồi phong ba không nhỏ, từ bản này bản chép tay trung có lẽ có thể tìm tới một chút manh mối .",
+        "index": 25
+      }
     },
     {
       "convert": "Hắc Mộc đại sư những này rải rác ngữ điệu để lộ ra không ít tin tức, hắn thuật luyện khí càng ngày càng tinh diệu về sau, tựa hồ nhận lấy Bích La Động tông môn kiềm chế, về sau lại tại luyện chế một kiện đặc thù bí bảo bên trên cắm té ngã, cuối cùng dứt khoát quyết định rời đi Bích La Động.",
-      "dich": "Theo lời Trần Uyển nói, chuyện Hắc Mộc đại sư đột nhiên mất tích đã tạo ra phong ba không nhỏ trong tông môn, từ trong bản chép tay có thể tìm ra một ít manh mối.",
-      "suggest": "Những lời nói huyên thuyên của Hắc Mộc đại sư đã tiết lộ ra không ít tin tức, thuật luyện khí của hắn càng ngày càng tinh diệu, tựa hồ bị tông môn Bích La Động kiềm chế, sau đó lại bị luyện chế một kiện bí bảo đặc thù cắm trên người, cuối cùng quyết định rời đi Bích La Động."
+      "dich": "Nhưng lời tản mạn của Hắc Mộc đại sư để lộ không ít tin tức. Đại khái là sau khi thuật luyện khí của y ngày càng tinh diệu, dường như y bị tông môn Bích La Động kiềm chế, về sau lại gặp thất bại khi luyện chế một một kiện bí bảo đặc thù, cuối cùng dứt khoát quyết định rời khỏi Bích La Động.",
+      "suggest": "Những lời nói huyên thuyên của Hắc Mộc đại sư đã tiết lộ ra không ít tin tức, thuật luyện khí của hắn càng ngày càng tinh diệu, tựa hồ bị tông môn Bích La Động kiềm chế, sau đó lại bị luyện chế một kiện bí bảo đặc thù cắm trên người, cuối cùng quyết định rời đi Bích La Động.",
+      "approved": true,
+      "chinese": {
+        "raw": "黑木大师的这些零散之语透露出不少信息，他的炼器之术越来越精妙后，似乎受到了碧罗洞宗门的钳制，之后又在炼制一件特殊的秘宝上栽了跟头，最后毅然决定离开碧罗洞。",
+        "text": "Hắc mộc đại sư những này rải rác ngữ điệu để lộ ra không ít tin tức, hắn thuật luyện khí càng ngày càng tinh diệu sau, tựa hồ nhận lấy Bích La Động tông môn đích kiềm chế, sau đó lại tại luyện chế một kiện đặc thù đích bí bảo thượng ngã rồi ngã nhào, tối hậu dứt khoát quyết định rời khỏi Bích La Động .",
+        "index": 26
+      }
     },
     {
       "convert": "\"Tiếp tục như vậy nữa, tất cả mọi người sẽ chết!\"",
-      "dich": "Nhưng lời tản mạn của Hắc Mộc đại sư để lộ không ít tin tức.",
-      "suggest": "\"Tiếp tục như vậy, tất cả mọi người sẽ chết!\""
+      "dich": "\"Còn tiếp tục như vậy, tất cả mọi người sẽ chết!\"",
+      "suggest": "\"Tiếp tục như vậy, tất cả mọi người sẽ chết!\"",
+      "approved": true
     },
     {
       "convert": "Đây là bản chép tay tự thuật bên trong, Hắc Mộc đại sư viết xuống câu nói sau cùng.",
-      "dich": "Đại khái là sau khi thuật luyện khí của y ngày càng tinh diệu, dường như y bị tông môn Bích La Động kiềm chế, về sau lại gặp thất bại khi luyện chế một một kiện bí bảo đặc thù, cuối cùng dứt khoát quyết định rời khỏi Bích La Động.",
-      "suggest": "Đây là bản tự thuật viết tay, đại sư Hắc Mộc nói."
+      "dich": "Đây là câu cuối cùng mà Hắc Mộc đại sư viết trong phần tự thuật của bản chép tay.",
+      "suggest": "Đây là bản tự thuật viết tay, đại sư Hắc Mộc nói.",
+      "approved": true,
+      "chinese": {
+        "raw": "这是手札的自述中，黑木大师写下的最后一句话。",
+        "text": "Đây là bản chép tay đích tự thuật trung, hắc mộc đại sư viết xuống đích câu nói sau cùng .",
+        "index": 28
+      }
     },
     {
       "convert": "\"Tất cả mọi người sẽ chết?",
-      "dich": "\"Còn tiếp tục như vậy, tất cả mọi người sẽ chết!\"",
-      "suggest": "\"Tất cả mọi người sẽ chết?"
+      "dich": "\"Tất cả mọi người sẽ chết?",
+      "suggest": "\"Tất cả mọi người sẽ chết?",
+      "approved": true
     },
     {
       "convert": "Có ý tứ gì?\"",
-      "dich": "Đây là câu cuối cùng mà Hắc Mộc đại sư viết trong phần tự thuật của bản chép tay.",
-      "suggest": "Ý gì?\""
+      "dich": "Là có ý gì?\"",
+      "suggest": "Ý gì?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh tự lẩm bẩm, đoán không ra Hắc Mộc đại sư lời này ý gì.",
-      "dich": "\"Tất cả mọi người sẽ chết?",
-      "suggest": "Viên Minh thầm nghĩ, đoán không ra lời của đại sư có ý gì."
+      "dich": "Viên Minh lẩm bẩm tự hỏi. Hắn không đoán ra lời này của Hắc Mộc đại sư là có ý gì.",
+      "suggest": "Viên Minh thầm nghĩ, đoán không ra lời của đại sư có ý gì.",
+      "approved": true
     },
     {
       "convert": "Đã không nghĩ ra, hắn cũng không có phí công hao tâm tốn sức, lật xem phía sau Hắc Mộc lưu luyện khí thuật.",
-      "dich": "Là có ý gì?\"",
-      "suggest": "Nếu không nghĩ ra, hắn cũng không phí sức, lật xem thuật Luyện Khí phía sau Hắc Mộc Lưu."
+      "dich": "Đã không nghĩ ra, hắn cũng không hao tâm phí sức vào nó nữa, tiếp tục lật xem thuật luyện khí mà Hắc Mộc đại sư lưu lại ở phần sau.",
+      "suggest": "Nếu không nghĩ ra, hắn cũng không phí sức, lật xem thuật Luyện Khí phía sau Hắc Mộc Lưu.",
+      "approved": true,
+      "chinese": {
+        "raw": "既然想不通，他也没有徒劳费神，翻看后面的黑木流炼器术。",
+        "text": "Đã không nghĩ ra, hắn cũng không có phí công hao tâm tốn sức, lật xem phía sau hắc mộc lưu luyện khí thuật .",
+        "index": 30
+      }
     },
     {
       "convert": "Nơi này chữ viết đều phi thường đoan chính, hiển nhiên Hắc Mộc đại sư viết mỗi một chữ lúc, thái độ đều cực kì chăm chú.",
-      "dich": "Viên Minh lẩm bẩm tự hỏi.",
-      "suggest": "Nơi này chữ viết vô cùng đoan chính, hiển nhiên mỗi khi đại sư Hắc Mộc viết ra một chữ, thái độ đều cực kỳ chăm chú."
+      "dich": "Nơi này chữ viết vô cùng đoan chính, hiển nhiên mỗi khi đại sư Hắc Mộc viết ra một chữ, thái độ đều cực kỳ chăm chú.",
+      "suggest": "Nơi này chữ viết vô cùng đoan chính, hiển nhiên mỗi khi đại sư Hắc Mộc viết ra một chữ, thái độ đều cực kỳ chăm chú.",
+      "approved": true,
+      "chinese": {
+        "raw": "这里的字迹都非常端正，显然黑木大师书写每一个字时，态度都极为认真。",
+        "text": "Chỗ này đích nét chữ đều phi thường đoan chính, hiển nhiên hắc mộc đại sư viết mỗi một chữ thời, thái độ đều cực kì nghiêm túc .",
+        "index": 31
+      }
     },
     {
       "convert": "Hắc Mộc lưu luyện khí thuật chia làm bốn bước, bước đầu tiên là dung luyện khoáng thạch, sau đó là rèn phôi thai.",
-      "dich": "Hắn không đoán ra lời này của Hắc Mộc đại sư là có ý gì.",
-      "suggest": "Thuật Luyện Khí của Hắc Mộc Lưu chia làm bốn bước, đầu tiên là dung luyện khoáng thạch, tiếp đó là rèn phôi thai."
+      "dich": "Luyện khí thuật của Hắc Mộc lưu chia làm bốn bước, bước đầu tiên là dung luyện khoáng thạch, sau đó là rèn phôi.",
+      "suggest": "Thuật Luyện Khí của Hắc Mộc Lưu chia làm bốn bước, đầu tiên là dung luyện khoáng thạch, tiếp đó là rèn phôi thai.",
+      "approved": true,
+      "chinese": {
+        "raw": "黑木流炼器术分为四步，第一步是熔炼矿石，然后是锻打胚胎。",
+        "text": "Hắc mộc lưu luyện khí thuật chia làm bốn bước, bước đầu tiên là luyện khoáng thạch, sau đó là rèn phôi thai .",
+        "index": 32
+      }
     },
     {
       "convert": "Cái này hai bước Viên Minh cũng không lạ lẫm.",
-      "dich": "Đã không nghĩ ra, hắn cũng không hao tâm phí sức vào nó nữa, tiếp tục lật xem thuật luyện khí mà Hắc Mộc đại sư lưu lại ở phần sau.",
-      "suggest": "Viên Minh bước hai bước này cũng không có gì lạ."
+      "dich": "Hai bước này Viên Minh cũng không xa lạ gì.",
+      "suggest": "Viên Minh bước hai bước này cũng không có gì lạ.",
+      "approved": true,
+      "chinese": {
+        "raw": "这两个步骤袁铭并不陌生。",
+        "text": "Hai cái này bước đi Viên Minh chẳng hề xa lạ .",
+        "index": 33
+      }
     },
     {
       "convert": "Dựa theo Hắc Mộc đại sư thuật, dung luyện cùng rèn phôi nhìn đơn giản, lại là rèn đúc một kiện đồ vật căn cơ, cần thiết phải chú ý địa phương rất nhiều, khoáng thạch phối trộn, hỏa hầu chưởng khống, đánh cường độ các loại, bất luận cái gì một điểm nhỏ xíu vấn đề, đều sẽ ảnh hưởng đến tiếp sau luyện khí.",
-      "dich": "Luyện khí thuật của Hắc Mộc lưu chia làm bốn bước, bước đầu tiên là dung luyện khoáng thạch, sau đó là rèn phôi.",
-      "suggest": "Dựa theo thuật Hắc Mộc, dung luyện và rèn phôi nhìn đơn giản, nhưng là một kiện đồ vật căn cơ, cần phải chú ý địa điểm rất nhiều, khoáng thạch phối trộn, hỏa hầu chưởng khống, bất luận một vấn đề nhỏ nào, đều sẽ ảnh hưởng đến việc luyện khí tiếp theo."
+      "dich": "Dựa theo lời Hắc Mộc đại sư, dung luyện và rèn phôi nhìn đơn giản lại là căn cơ để rèn đúc một kiện đồ vật, chỗ cần chú ý rất nhiều, phối trộn khoáng thạch, kiểm soát nhiệt độ lửa, cường độ đập ... vv..., bất kỳ vấn đề nào dù là nhỏ đều sẽ ảnh hưởng đến quá trình luyện khí sau đó.",
+      "suggest": "Dựa theo thuật Hắc Mộc, dung luyện và rèn phôi nhìn đơn giản, nhưng là một kiện đồ vật căn cơ, cần phải chú ý địa điểm rất nhiều, khoáng thạch phối trộn, hỏa hầu chưởng khống, bất luận một vấn đề nhỏ nào, đều sẽ ảnh hưởng đến việc luyện khí tiếp theo.",
+      "approved": true
     },
     {
       "convert": "Hắc Mộc đại sư ở dung luyện cùng rèn phôi bên trên hao tốn rất lớn tâm tư, mỗi một bước nội dung, đều muốn so với Hỏa Phường bên trong phức tạp được nhiều, liền lấy rèn phôi tới nói, Hỏa Phường bên trong nhiều nhất thiên đoán, mà Hắc Mộc đại sư nơi này lại yêu cầu đạt tới vạn rèn, mà lại mỗi một lần rèn chi tiết yêu cầu cũng rất cao.",
-      "dich": "Hai bước này Viên Minh cũng không xa lạ gì.",
-      "suggest": "Hắc Mộc đại sư đã hao tốn rất nhiều tâm tư trong việc luyện tập và rèn phôi, mỗi một bước đều phải phức tạp hơn Hỏa Phường rất nhiều. Mà ở đây, yêu cầu về nội dung của mỗi một bước đều cao hơn Hỏa Phường rất nhiều. Mà Hắc Mộc đại sư lại yêu cầu yêu cầu về tỉ lệ rèn luyện lên tới vạn lần. Hơn nữa yêu cầu về tỉ lệ rèn luyện lại rất cao."
+      "dich": "Hắc Mộc đại sư tốn rất nhiều tâm tư trên hai bước dung luyện và rèn phôi, nội dung mỗi bước đều phức tạp hơn nhiều so với Hỏa phường, ví dụ ngay như rèn phôi, trong Hỏa phường yêu cầu tối thiểu là ngàn lần nện búa, trong khi Hắc Mộc đại sư lại yêu cầu đạt tới vạn lần nện búa, hơn nữa mỗi một khâu nhỏ trong quá trình nện rèn cũng đều yêu cầu rất cao.",
+      "suggest": "Hắc Mộc đại sư đã hao tốn rất nhiều tâm tư trong việc luyện tập và rèn phôi, mỗi một bước đều phải phức tạp hơn Hỏa Phường rất nhiều. Mà ở đây, yêu cầu về nội dung của mỗi một bước đều cao hơn Hỏa Phường rất nhiều. Mà Hắc Mộc đại sư lại yêu cầu yêu cầu về tỉ lệ rèn luyện lên tới vạn lần. Hơn nữa yêu cầu về tỉ lệ rèn luyện lại rất cao.",
+      "approved": true,
+      "chinese": {
+        "raw": "黑木大师在熔炼和锻胚上花费了很大心思，每一步的内容，都要比火坊内复杂得多，就拿锻胚来说，火坊内最多千锻，而黑木大师这里却要求达到万锻，而且每一次锻打的细节要求也很高。",
+        "text": "Hắc mộc đại sư tại luyện cùng rèn phôi thượng hao tốn rất lớn tâm tư, mỗi một bước đích nội dung, đều muốn so lửa trong phường phức tạp được nhiều, liền lấy rèn phôi mà nói, lửa trong phường nhiều nhất thiên đoán, mà hắc mộc đại sư chỗ này nhưng yêu cầu đạt tới vạn rèn, hơn nữa mỗi một lần rèn đích chi tiết yêu cầu cũng rất cao .",
+        "index": 35
+      }
     },
     {
       "convert": "Viên Minh thô thô nhìn một lần, mặc dù chỗ nào không hiểu rất nhiều, lại khi thì có loại như ở trong mộng mới tỉnh, tự nhiên hiểu ra cảm giác.",
-      "dich": "Dựa theo lời Hắc Mộc đại sư, dung luyện và rèn phôi nhìn đơn giản lại là căn cơ để rèn đúc một kiện đồ vật, chỗ cần chú ý rất nhiều, phối trộn khoáng thạch, kiểm soát nhiệt độ lửa, cường độ đập ... vv..., bất kỳ vấn đề nào dù là nhỏ đều sẽ ảnh hưởng đến quá trình luyện khí sau đó.",
-      "suggest": "Viên Minh lật lật cái đầu một lượt, mặc dù không hiểu nhiều lắm nhưng cũng có lúc như đang ở trong mộng mới tỉnh, tự nhiên hiểu được cảm giác này."
+      "dich": "Viên Minh nhìn sơ sơ một lượt, dù còn rất nhiều chỗ chưa hiểu, nhưng thỉnh thoảng lại có cảm giác mới tỉnh khỏi cơn mê, tự nhiên hiểu ra.",
+      "suggest": "Viên Minh lật lật cái đầu một lượt, mặc dù không hiểu nhiều lắm nhưng cũng có lúc như đang ở trong mộng mới tỉnh, tự nhiên hiểu được cảm giác này.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭粗粗看了一遍，虽然不懂的地方极多，却时而有种如梦初醒，茅塞顿开之感。",
+        "text": "Viên Minh thô thô nhìn một lần, tuy rằng chỗ nào không hiểu rất nhiều, nhưng lúc thì có loại như ở trong mộng mới tỉnh, đốn ngộ cảm giác .",
+        "index": 36
+      }
     },
     {
       "convert": "Bất quá hắn không có mảnh cứu nơi đây, tiếp tục về sau đọc qua.",
-      "dich": "Hắc Mộc đại sư tốn rất nhiều tâm tư trên hai bước dung luyện và rèn phôi, nội dung mỗi bước đều phức tạp hơn nhiều so với Hỏa phường, ví dụ ngay như rèn phôi, trong Hỏa phường yêu cầu tối thiểu là ngàn lần nện búa, trong khi Hắc Mộc đại sư lại yêu cầu đạt tới vạn lần nện búa, hơn nữa mỗi một khâu nhỏ trong quá trình nện rèn cũng đều yêu cầu rất cao.",
-      "suggest": "Tuy nhiên hắn không có tìm được mảnh xương này, tiếp tục đọc tiếp."
+      "dich": "Nhưng hắn không nghiên cứu kỹ ở đây mà tiếp tục xem phần sau.",
+      "suggest": "Tuy nhiên hắn không có tìm được mảnh xương này, tiếp tục đọc tiếp.",
+      "approved": true,
+      "chinese": {
+        "raw": "不过他没有细究此处，继续往后翻阅。",
+        "text": "Bất quá hắn không có mịn cứu chỗ này, tiếp tục về sau lật xem .",
+        "index": 37
+      }
     },
     {
       "convert": "Hắn bởi vì ngày nay lực lượng không đủ, ở Bích La Động Hỏa Phường bên trong cũng chỉ khó khăn lắm tiếp xúc đến trước hai bước, đến tiếp sau luyện khí là như thế nào, hắn cũng không rõ ràng, sớm đã hiếu kì, ngày nay rốt cục có thể có tương đối toàn diện hiểu rõ.",
-      "dich": "Viên Minh nhìn sơ sơ một lượt, dù còn rất nhiều chỗ chưa hiểu, nhưng thỉnh thoảng lại có cảm giác mới tỉnh khỏi cơn mê, tự nhiên hiểu ra.",
-      "suggest": "Bởi vì hiện tại lực lượng hắn không đủ, trong Bích La Động Hỏa Phường cũng chỉ mới phải đi tới trước hai bước, còn về phần luyện khí sau này như thế nào, hắn cũng không rõ, từ đó đến nay rốt cuộc cũng có thể hiểu được tương đối toàn diện."
+      "dich": "Hắn hiện giờ không đủ lực lượng, nên ở trong Hỏa phường của Bích La Động cũng chỉ mới tiếp xúc đến hai bước trước, không biết tiếp đó luyện khí sẽ như thế nào. Hắn đã tò mò chuyện này từ lâu, bây giờ rốt cuộc đã có thể hiểu được tương đối toàn diện.",
+      "suggest": "Bởi vì hiện tại lực lượng hắn không đủ, trong Bích La Động Hỏa Phường cũng chỉ mới phải đi tới trước hai bước, còn về phần luyện khí sau này như thế nào, hắn cũng không rõ, từ đó đến nay rốt cuộc cũng có thể hiểu được tương đối toàn diện.",
+      "approved": true,
+      "chinese": {
+        "raw": "他由于如今力量不足，在碧罗洞的火坊内也只堪堪接触到前两个步骤，后续炼器是怎样的，他并不清楚，早已好奇，如今终于能有较为全面的了解了。",
+        "text": "Hắn bởi vì ngày nay lực lượng không đủ, tại Bích La Động đích lửa trong phường cũng chỉ chừng tiếp xúc đến trước hai bước, tiếp sau luyện khí là như thế nào, hắn chẳng hề rõ ràng, sớm đã hiếu kỳ, ngày nay cuối cùng năng có tương đối toàn diện hiểu rõ rồi .",
+        "index": 38
+      }
     },
     {
       "convert": "Viên Minh nhanh chóng lật giấy, đọc nhanh như gió xem, kết hợp bản thân cân nhắc, rất nhanh biết rõ luyện khí toàn bộ trình tự.",
-      "dich": "Nhưng hắn không nghiên cứu kỹ ở đây mà tiếp tục xem phần sau.",
-      "suggest": "Viên Minh nhanh chóng lật trang, đọc nhanh như gió, kết hợp với sự cẩn thận của bản thân, rất nhanh đã nắm rõ toàn bộ quy trình luyện khí."
+      "dich": "Viên Minh nhanh chóng lật sách, đọc nhanh như gió cuốn, kết hợp với bản thân tự cân nhắc, rất nhanh đã hiểu rõ toàn bộ trình tự quá trình luyện khí.",
+      "suggest": "Viên Minh nhanh chóng lật trang, đọc nhanh như gió, kết hợp với sự cẩn thận của bản thân, rất nhanh đã nắm rõ toàn bộ quy trình luyện khí.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭快速翻页，一目十行的浏览，结合自己的推敲，很快弄清楚了炼器的全部步骤。",
+        "text": "Viên Minh nhanh chóng lật giấy, đọc nhanh như gió đích xem, kết hợp chính mình đích cân nhắc, rất nhanh biết rõ luyện khí toàn bộ bước đi .",
+        "index": 39
+      }
     },
     {
       "convert": "Dung luyện cùng rèn phôi về sau, luyện khí tiếp xuống hai bước là khắc phù cùng quán linh.",
-      "dich": "Hắn hiện giờ không đủ lực lượng, nên ở trong Hỏa phường của Bích La Động cũng chỉ mới tiếp xúc đến hai bước trước, không biết tiếp đó luyện khí sẽ như thế nào.",
-      "suggest": "Sau khi dung luyện cùng rèn phôi, luyện khí tiếp tục tiến thêm hai bước là khắc Phù và quán linh."
+      "dich": "Sau dung luyện và rèn phôi, hai bước tiếp theo của luyện khí là khắc phù và quán linh.",
+      "suggest": "Sau khi dung luyện cùng rèn phôi, luyện khí tiếp tục tiến thêm hai bước là khắc Phù và quán linh.",
+      "approved": true,
+      "chinese": {
+        "raw": "熔炼和锻胚之后，炼器接下来的两个步骤是刻符和灌灵。",
+        "text": "Luyện cùng rèn phôi sau đó, luyện khí tiếp xuống hai bước là 刻 phù cùng quán linh .",
+        "index": 40
+      }
     },
     {
       "convert": "Chỉ tiến hành dung luyện cùng rèn phôi, tạo ra vũ khí chỉ là phàm khí, cái này vũ khí rèn đúc cho dù tốt, nhiều nhất so với bình thường vũ khí cứng cỏi, sắc bén chút, tỷ như Thanh Ngư Kiếm.",
-      "dich": "Hắn đã tò mò chuyện này từ lâu, bây giờ rốt cuộc đã có thể hiểu được tương đối toàn diện.",
-      "suggest": "Chỉ tiến hành dung luyện và rèn phôi, vũ khí tạo ra chỉ là phàm khí, vũ khí này rèn luyện cho dù tốt đến mấy cũng chỉ cứng cỏi hơn vũ khí bình thường một chút, sắc bén hơn một chút, ví dụ như Thanh Ngư Kiếm."
+      "dich": "Nếu chỉ tiến hành dung luyện và rèn phôi, vũ khí được chế ra cũng chỉ là phàm khí. Vũ khí đó dù rèn đúc tốt thế nào, nhiều nhất cũng chỉ là sắc bén, cứng cỏi hơn vũ khí bình thường một chút, ví dụ như Thanh Ngư Kiếm.",
+      "suggest": "Chỉ tiến hành dung luyện và rèn phôi, vũ khí tạo ra chỉ là phàm khí, vũ khí này rèn luyện cho dù tốt đến mấy cũng chỉ cứng cỏi hơn vũ khí bình thường một chút, sắc bén hơn một chút, ví dụ như Thanh Ngư Kiếm.",
+      "approved": true,
+      "chinese": {
+        "raw": "只进行熔炼和锻胚，打造出来的武器只是凡器，这类武器锻造的再好，最多比寻常武器坚韧，锋利些，例如青鱼剑。",
+        "text": "Chỉ tiến hành luyện cùng rèn phôi, tạo ra vũ khí chỉ là phàm khí, loại này vũ khí rèn đích cho dù tốt, nhiều nhất so tầm thường vũ khí cứng cỏi, sắc bén chút, tỷ như cá trắm đen 剑 .",
+        "index": 41
+      }
     },
     {
       "convert": "Muốn luyện chế ra có được đặc thù uy năng pháp khí, cần tiến hành khắc phù cùng quán linh.",
-      "dich": "Viên Minh nhanh chóng lật sách, đọc nhanh như gió cuốn, kết hợp với bản thân tự cân nhắc, rất nhanh đã hiểu rõ toàn bộ trình tự quá trình luyện khí.",
-      "suggest": "Muốn luyện chế ra được pháp khí uy năng đặc thù, cân tiến hành khắc phù và quán linh."
+      "dich": "Muốn luyện chế ra pháp khí có uy năng đặc thù, cần phải tiến hành khắc phù và quán linh.",
+      "suggest": "Muốn luyện chế ra được pháp khí uy năng đặc thù, cân tiến hành khắc phù và quán linh.",
+      "approved": true,
+      "chinese": {
+        "raw": "想要炼制出拥有特殊威能的法器，需要进行刻符和灌灵。",
+        "text": "Muốn luyện chế ra nắm giữ đặc thù uy năng đích pháp khí, cần tiến hành 刻 phù cùng quán linh .",
+        "index": 42
+      }
     },
     {
       "convert": "Cái gọi là khắc phù, là đem một chút ẩn chứa thần kỳ uy năng phù văn khắc sâu tại vũ khí bên trên, khiến cho vũ khí ẩn chứa đặc thù hiệu quả, có có thể để cho vũ khí trở nên càng thêm sắc bén, có để nó biến đến mức dị thường kiên cố, thậm chí còn có thể để cho vũ khí kích phát ra hỏa diễm, lôi điện mấy người uy lực.",
-      "dich": "Sau dung luyện và rèn phôi, hai bước tiếp theo của luyện khí là khắc phù và quán linh.",
-      "suggest": "Cái gọi là khắc phù, là khắc sâu một ít phù văn thần kỳ ẩn chứa uy năng thần kỳ lên trên vũ khí, khiến cho hiệu quả ẩn chứa đặc thù của vũ khí, có thể khiến cho vũ khí trở nên sắc bén dị thường, thậm chí còn có thể khiến cho vũ khí phát ra uy lực lôi điện mấy người."
+      "dich": "Cái gọi là khắc phù, chính là khắc sâu một chút phù văn ẩn chứa uy năng thần kỳ lên trên vũ khí, khiến cho vũ khí ẩn chưa hiệu quả đặc thù, từ đó có thể khiến vũ khí càng sắc bén hơn, khiến nó trở nên cứng cỏi dị thường, thậm chí còn có thể khiến cho vũ khí kích phát ra các loại uy lực như hỏa diễm, lôi điện ... vv...",
+      "suggest": "Cái gọi là khắc phù, là khắc sâu một ít phù văn thần kỳ ẩn chứa uy năng thần kỳ lên trên vũ khí, khiến cho hiệu quả ẩn chứa đặc thù của vũ khí, có thể khiến cho vũ khí trở nên sắc bén dị thường, thậm chí còn có thể khiến cho vũ khí phát ra uy lực lôi điện mấy người.",
+      "approved": true,
+      "chinese": {
+        "raw": "所谓刻符，是将一些蕴含神奇威能的符文铭刻在武器上，使得武器蕴含特殊的效果，有的能让武器变得更加锋锐，有的让其变得异常坚固，甚至还能让武器激发出火焰，雷电等威力。",
+        "text": "Cái gọi là 刻 phù, là đem một chút ẩn chứa thần kỳ uy năng đích ký hiệu khắc sâu tại vũ khí thượng, khiến cho vũ khí ẩn chứa đặc thù đích hiệu quả, có đích có thể để cho vũ khí càng biến đổi thêm sắc bén, có đích khiến nó biến đến mức dị thường kiên cố, thậm chí còn có thể khiến vũ khí kích phát ra hỏa diễm, lôi điện đợi uy lực .",
+        "index": 43
+      }
     },
     {
       "convert": "\"Hỏa Phường bên trong chuôi này Toái Thạch Chùy bên trên khắc họa đồ án, nghĩ đến chính là phù văn, khó trách có thể dễ dàng đập nát cứng rắn khoáng thạch.\"",
-      "dich": "Nếu chỉ tiến hành dung luyện và rèn phôi, vũ khí được chế ra cũng chỉ là phàm khí.",
-      "suggest": "\"Bên trong chuôi Toái Thạch Chùy này có khắc họa đồ án bằng phù văn, khó trách có thể dễ dàng đập nát khoáng thạch cứng rắn.\""
+      "dich": "\"Đồ án được khắc trên cái búa đập khoáng thạch trong Hỏa phường kia, hẳn chính là phù văn, bảo sao có thể dễ dàng đập nát khoáng thạch.\"",
+      "suggest": "\"Bên trong chuôi Toái Thạch Chùy này có khắc họa đồ án bằng phù văn, khó trách có thể dễ dàng đập nát khoáng thạch cứng rắn.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh hồi tưởng lại lần thứ nhất sàng lọc tài liệu thời điểm tình huống.",
-      "dich": "Vũ khí đó dù rèn đúc tốt thế nào, nhiều nhất cũng chỉ là sắc bén, cứng cỏi hơn vũ khí bình thường một chút, ví dụ như Thanh Ngư Kiếm.",
-      "suggest": "Viên Minh hồi tưởng tình cảnh lần đầu tiên sàng lọc tài liệu."
+      "dich": "Viên Minh nhớ lại tình cảnh lần đầu tiên sàng liệu.",
+      "suggest": "Viên Minh hồi tưởng tình cảnh lần đầu tiên sàng lọc tài liệu.",
+      "approved": true
     },
     {
       "convert": "Phù văn vô cùng trân quý, mỗi một cái luyện khí sư đều tại dùng suốt đời thời gian, tận khả năng nhiều thu thập mới phù văn, mỗi nắm giữ một cái phù văn, liền có thể luyện chế ra một kiện mới pháp khí.",
-      "dich": "Muốn luyện chế ra pháp khí có uy năng đặc thù, cần phải tiến hành khắc phù và quán linh.",
-      "suggest": "Phù văn vô cùng quý hiếm, mỗi một vị luyện khí sư đều dùng thời gian cả đời để thu thập mới phù văn, mỗi một nắm giữ mới phù văn, liền có thể luyện chế ra một kiện pháp khí mới."
+      "dich": "Phù văn cực kỳ quá báu, mỗi một luyện khí sự đều dùng thời gian cả đời, cố gắng hết khả năng để thu thập thêm nhiều phù văn, bởi cứ nắm giữ một phù văn là sẽ có thể luyện chế ra một kiện pháp khí mới.",
+      "suggest": "Phù văn vô cùng quý hiếm, mỗi một vị luyện khí sư đều dùng thời gian cả đời để thu thập mới phù văn, mỗi một nắm giữ mới phù văn, liền có thể luyện chế ra một kiện pháp khí mới.",
+      "approved": true,
+      "chinese": {
+        "raw": "符文珍贵无比，每一个炼器师都在用毕生时间，尽可能多的收集新的符文，每掌握一个符文，就能炼制出一件新的法器。",
+        "text": "Ký hiệu vô cùng trân quý, mỗi một cái luyện khí sư đều tại dùng xong sinh thời gian, tận khả năng nhiều đích thu thập mới ký hiệu, mỗi nắm vững một cái ký hiệu, liền có thể luyện chế ra một kiện mới pháp khí .",
+        "index": 45
+      }
     },
     {
       "convert": "Hắc Mộc đại sư cũng giống như vậy, hắn luyện khí bản chép tay bên trên ghi chép bốn mươi lăm chủng phù văn, có \"Phong Duệ Phù Văn\" \"Phá Giáp Phù Văn\" \"Tật Phong Phù Văn\" vân vân.",
-      "dich": "Cái gọi là khắc phù, chính là khắc sâu một chút phù văn ẩn chứa uy năng thần kỳ lên trên vũ khí, khiến cho vũ khí ẩn chưa hiệu quả đặc thù, từ đó có thể khiến vũ khí càng sắc bén hơn, khiến nó trở nên cứng cỏi dị thường, thậm chí còn có thể khiến cho vũ khí kích phát ra các loại uy lực như hỏa diễm, lôi điện ... vv...",
-      "suggest": "Hắc Mộc đại sư cũng giống như vậy, trên bản ghi chép tay của hắn có bốn mươi lăm loại phù văn, trong đó có \"Phong Duệ Phù Văn\", \"Phá Giáp Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\"."
+      "dich": "Hắc Mộc đại sư cũng giống như vậy, bên trên bản chép tay của y có ghi lại bốn mươi lắm loại phù văn, có 'Phong Nhuệ phù văn', 'Phá Giáp phù văn', 'Tật Phong phù văn',...vv ...",
+      "suggest": "Hắc Mộc đại sư cũng giống như vậy, trên bản ghi chép tay của hắn có bốn mươi lăm loại phù văn, trong đó có \"Phong Duệ Phù Văn\", \"Phá Giáp Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\", \"Tật Phong Phù Văn\".",
+      "approved": true
     },
     {
       "convert": "Viết phù văn trang sách cuối cùng, còn có một số phức tạp hơn đồ vật, tựa hồ là rất nhiều phù văn xâu chuỗi ở cùng nhau, lấy trước mắt hắn kiến thức, căn bản là không có cách xem hiểu.",
-      "dich": "\"Đồ án được khắc trên cái búa đập khoáng thạch trong Hỏa phường kia, hẳn chính là phù văn, bảo sao có thể dễ dàng đập nát khoáng thạch.\"",
-      "suggest": "Trong quyển Phù văn cuối cùng, còn có một số đồ vật khác khá phức tạp, tựa hồ là rất nhiều phù văn được xâu chuỗi lại với nhau, với kiến thức trước mắt của hắn, căn bản không cách nào đọc hiểu được."
+      "dich": "Trong trang cuối cùng của phần viết về phù văn còn có một thứ phức tạp hơn, hình như là rất nhiều phù văn liên kết lại với nhau, lấy kiến thức hiện tại của hứn, cơ bản là không thể đọc hiểu được.",
+      "suggest": "Trong quyển Phù văn cuối cùng, còn có một số đồ vật khác khá phức tạp, tựa hồ là rất nhiều phù văn được xâu chuỗi lại với nhau, với kiến thức trước mắt của hắn, căn bản không cách nào đọc hiểu được.",
+      "approved": true,
+      "chinese": {
+        "raw": "书写符文的书页最后，还有一些更复杂的东西，似乎是许多符文串联在了一起，以他目前的见识，根本无法看懂。",
+        "text": "Viết ký hiệu đích trang sách tối hậu, còn có một số phức tạp hơn đồ vật, tựa hồ là rất nhiều ký hiệu xâu chuỗi ở cùng nhau, dĩ trước mắt hắn đích kiến thức, căn bản là không có cách xem hiểu .",
+        "index": 47
+      }
     },
     {
       "convert": "Khắc phù cũng không dễ dàng, Hắc Mộc cho rằng, mỗi một loại phù văn đều đại biểu cho một loại thiên địa linh lực vận hành quy tắc, khắc hoạ thời điểm không thể xuất hiện mảy may sai lầm, nếu không toàn bộ phù văn liền không có một chút hiệu quả, mà muốn thuần thục khắc hoạ phù văn, thì cần phải năm này tháng nọ luyện tập.",
-      "dich": "Viên Minh nhớ lại tình cảnh lần đầu tiên sàng liệu.",
-      "suggest": "Khắc Phù cũng không dễ dàng, Hắc Mộc cho rằng mỗi một loại phù văn đều đại biểu cho một loại quy tắc vận hành của Thiên Địa Linh lực, khi khắc hoạ không được để xảy ra sai sót, nếu không toàn bộ phù văn sẽ không có chút hiệu quả nào, mà muốn khắc hoạ phù văn thành thục thì phải luyện tập năm này qua tháng nọ."
+      "dich": "Khắc phù cũng không dễ dàng, Hắc Mộc cho rằng, mỗi một loại phù văn đều đại biểu cho một loại quy tắc vận hành của thiên địa linh lực, thời điểm khắc họa không thể xuất hiện bất kỳ sai lầm nào dù là nhỏ nhất, nếu không toàn bộ phù văn sẽ không có chút hiệu quả nào, mà muốn khắc họa phù văn thành thạo, cần phải luyện tập ròng rã năm này tháng nọ.",
+      "suggest": "Khắc Phù cũng không dễ dàng, Hắc Mộc cho rằng mỗi một loại phù văn đều đại biểu cho một loại quy tắc vận hành của Thiên Địa Linh lực, khi khắc hoạ không được để xảy ra sai sót, nếu không toàn bộ phù văn sẽ không có chút hiệu quả nào, mà muốn khắc hoạ phù văn thành thục thì phải luyện tập năm này qua tháng nọ.",
+      "approved": true,
+      "chinese": {
+        "raw": "刻符并不容易，黑木认为，每一种符文都代表着一种天地灵力运行的规则，刻画的时候不能出现分毫差错，否则整个符文便没有一点效果，而想要熟练刻画符文，则需要经年累月的练习。",
+        "text": "刻 phù cũng không dễ dàng, hắc mộc cho rằng, mỗi một loại ký hiệu đều đại biểu cho một loại thiên địa linh lực vận hành quy tắc, khắc thời điểm không thể xuất hiện mảy may sai lầm, nếu không cả ký hiệu liền không có một chút hiệu quả, mà muốn thuần thục khắc ký hiệu, thì cần phải năm này tháng nọ đích luyện tập .",
+        "index": 48
+      }
     },
     {
       "convert": "Rất nhiều luyện khí sư cuối cùng cả đời, có thể nắm giữ phù văn cũng mười phần có hạn, Hắc Mộc đại sư sở dĩ thanh danh hiển hách, nguyên nhân chủ yếu nhất là hắn ở phù văn bên trên tạo nghệ cực cao, bản này bản chép tay bên trên bốn mươi lăm chủng phù văn, hắn đã toàn bộ nắm giữ.",
-      "dich": "Phù văn cực kỳ quá báu, mỗi một luyện khí sự đều dùng thời gian cả đời, cố gắng hết khả năng để thu thập thêm nhiều phù văn, bởi cứ nắm giữ một phù văn là sẽ có thể luyện chế ra một kiện pháp khí mới.",
-      "suggest": "Rất nhiều luyện khí sư cuối cùng, có thể nắm giữ phù văn cũng có giới hạn. Đại sư Hắc Mộc đại sư sở dĩ thanh danh hiển hách, nguyên nhân chủ yếu nhất là tạo nghệ của Phù văn cực cao, trong bốn mươi lăm loại Phù văn, hắn đã toàn bộ nắm giữ."
+      "dich": "Rất nhiều luyện khí sư dành cả cuộc đời họ cho luyện khí, nhưng số phù văn mà họ có thể nắm giữ vẫn rất hạn chế. Sở dĩ Hắc Mộc đại sư thanh danh hiển hách, nguyên nhân chủ yếu nhất là y có tạo nghệ cực cao trên phương diện phù văn, bốn mươi lăm loại phù trong bản chép tay này, y đều nắm vững hết.",
+      "suggest": "Rất nhiều luyện khí sư cuối cùng, có thể nắm giữ phù văn cũng có giới hạn. Đại sư Hắc Mộc đại sư sở dĩ thanh danh hiển hách, nguyên nhân chủ yếu nhất là tạo nghệ của Phù văn cực cao, trong bốn mươi lăm loại Phù văn, hắn đã toàn bộ nắm giữ.",
+      "approved": true,
+      "chinese": {
+        "raw": "很多炼器师终其一生，能掌握的符文也十分有限，黑木大师之所以声名显赫，最主要的原因是他在符文上造诣极高，这本手札上的四十五种符文，他已经全部掌握。",
+        "text": "Rất nhiều luyện khí sư cuối cùng cả đời, năng nắm giữ ký hiệu cũng thập phần hữu hạn, hắc mộc đại sư chỗ dĩ thanh danh hiển hách, nguyên nhân chủ yếu nhất là hắn tại ký hiệu thượng tạo nghệ cực cao, bản này bản chép tay thượng đích bốn mươi năm loại ký hiệu, hắn đã toàn bộ nắm vững .",
+        "index": 49
+      }
     },
     {
       "convert": "Luyện chế một kiện pháp khí, vẻn vẹn khắc họa phù văn còn chưa đủ, phù văn khắc lục tốt về sau, cũng không thể lập tức có được uy năng, còn cần đối hắn tiến hành quán linh.",
-      "dich": "Hắc Mộc đại sư cũng giống như vậy, bên trên bản chép tay của y có ghi lại bốn mươi lắm loại phù văn, có 'Phong Nhuệ phù văn', 'Phá Giáp phù văn', 'Tật Phong phù văn',...vv ...",
-      "suggest": "Luyện chế một kiện pháp khí, chỉ khắc họa phù văn còn chưa đủ, sau khi phù văn khắc lục tốt, cũng không thể lập tức có uy năng, còn cần phải đối với hắn tiến hành quán linh."
+      "dich": "Luyện chế một kiện pháp khí, chỉ khắc họa phù văn thì vẫn chưa đủ, sau khi khắc phù văn tốt rồi, cũng không thể có uy năng được ngay, còn cần phải tiến hành quán linh cho nó.",
+      "suggest": "Luyện chế một kiện pháp khí, chỉ khắc họa phù văn còn chưa đủ, sau khi phù văn khắc lục tốt, cũng không thể lập tức có uy năng, còn cần phải đối với hắn tiến hành quán linh.",
+      "approved": true,
+      "chinese": {
+        "raw": "炼制一件法器，单单铭刻符文还不够，符文刻录好后，并不能立刻拥有威能，还需要对其进行灌灵。",
+        "text": "Luyện chế một kiện pháp khí, vẻn vẹn khắc sâu ký hiệu còn chưa đủ, ký hiệu khắc lục hảo sau, chẳng hề năng lập tức nắm giữ uy năng, còn cần đối nó tiến hành quán linh .",
+        "index": 50
+      }
     },
     {
       "convert": "Cái gọi là quán linh, nói đơn giản chút, chính là đem pháp lực rót vào khắc lục phù văn bên trong, kích phát hắn uy năng.",
-      "dich": "Trong trang cuối cùng của phần viết về phù văn còn có một thứ phức tạp hơn, hình như là rất nhiều phù văn liên kết lại với nhau, lấy kiến thức hiện tại của hứn, cơ bản là không thể đọc hiểu được.",
-      "suggest": "Cái gọi là quán linh, nói một cách đơn giản thì chính là rót pháp lực vào trong Phù văn khắc lục, kích phát uy năng của hắn."
+      "dich": "Cái gọi là quán linh, nói đơn giản một chút, chính là rót pháp lực vào trong phù văn, kích phát uy năng của nó.",
+      "suggest": "Cái gọi là quán linh, nói một cách đơn giản thì chính là rót pháp lực vào trong Phù văn khắc lục, kích phát uy năng của hắn.",
+      "approved": true,
+      "chinese": {
+        "raw": "所谓灌灵，说简单些，就是将法力注入刻录符文内，激发其威能。",
+        "text": "Cái gọi là quán linh, nói giản đơn chút, chính là đem pháp lực rót vào khắc lục ký hiệu nội, kích phát nó uy năng .",
+        "index": 51
+      }
     },
     {
       "convert": "Một bước này nói đến đơn giản, làm lại cũng không dễ dàng, quán linh đối pháp lực thao túng yêu cầu cực cao, những này mới khắc lục ở trên pháp khí phù văn kỳ thật đều rất yếu đuối, sơ qua quá lượng trùng kích liền sẽ để phù văn sụp đổ.",
-      "dich": "Khắc phù cũng không dễ dàng, Hắc Mộc cho rằng, mỗi một loại phù văn đều đại biểu cho một loại quy tắc vận hành của thiên địa linh lực, thời điểm khắc họa không thể xuất hiện bất kỳ sai lầm nào dù là nhỏ nhất, nếu không toàn bộ phù văn sẽ không có chút hiệu quả nào, mà muốn khắc họa phù văn thành thạo, cần phải luyện tập ròng rã năm này tháng nọ.",
-      "suggest": "Một bước này nói thì đơn giản nhưng làm lại cũng không dễ dàng, quán linh đối với việc thao túng pháp lực yêu cầu rất cao, những Phù văn khắc trên pháp khí kỳ thật đều rất yếu đuối, sơ qua một chút đã khiến phù văn sụp đổ."
+      "dich": "Một bước này nói có vẻ đơn giản, khi làm lại không hề dễ dàng. Quán linh có yêu cầu rất cao với việc thao túng pháp lực, bởi vì những phù văn mới khắc trên pháp khí thực ra đều rất mỏng manh, chỉ cần xung kích pháp lực hơi quá một chút là sẽ khiến phù văn sụp đổ.",
+      "suggest": "Một bước này nói thì đơn giản nhưng làm lại cũng không dễ dàng, quán linh đối với việc thao túng pháp lực yêu cầu rất cao, những Phù văn khắc trên pháp khí kỳ thật đều rất yếu đuối, sơ qua một chút đã khiến phù văn sụp đổ.",
+      "approved": true,
+      "chinese": {
+        "raw": "这一步说起来简单，做起来却并不容易，灌灵对法力操纵的要求极高，这些新刻录在法器上的符文其实都很脆弱，稍许过量的冲击便会让符文崩溃。",
+        "text": "Một bước này nói lên tới giản đơn, làm lại cũng không dễ dàng, quán linh đối pháp lực thao túng đích yêu cầu cực cao, những này mới khắc lục ở trên pháp khí đích ký hiệu kỳ thực đều rất yếu đuối, sơ qua quá lượng đích trùng kích liền sẽ khiến ký hiệu sụp đổ .",
+        "index": 52
+      }
     },
     {
       "convert": "Mà quán linh vẫn còn một mục đích khác, để phù văn cùng pháp khí triệt để dung hợp.",
-      "dich": "Rất nhiều luyện khí sư dành cả cuộc đời họ cho luyện khí, nhưng số phù văn mà họ có thể nắm giữ vẫn rất hạn chế.",
-      "suggest": "Mà quán linh còn có một mục đích khác, đó là để Phù Văn và pháp khí hoàn toàn dung hợp."
+      "dich": "Nói phù văn mới khắc là vì quán linh còn có một mục đích, chính là để phù văn và pháp khí hoàn toàn dung hợp.",
+      "suggest": "Mà quán linh còn có một mục đích khác, đó là để Phù Văn và pháp khí hoàn toàn dung hợp.",
+      "approved": true,
+      "chinese": {
+        "raw": "而灌灵还有另一个目的，让符文和法器彻底融合。",
+        "text": "Mà quán linh còn có một mục đích khác, khiến ký hiệu cùng pháp khí triệt để dung hợp .",
+        "index": 53
+      }
     },
     {
       "convert": "Mới khắc lục phù văn cùng pháp khí tương dung một thể sau mới có thể triệt để vững chắc, chịu đựng lấy ngày sau đấu pháp kịch liệt va chạm, mà muốn đạt thành cái mục tiêu này, chỉ dựa vào thành thạo pháp lực điều khiển còn thiếu rất nhiều, càng cần hơn một loại trời sinh linh tính, cũng có thể nói là thiên phú.",
-      "dich": "Sở dĩ Hắc Mộc đại sư thanh danh hiển hách, nguyên nhân chủ yếu nhất là y có tạo nghệ cực cao trên phương diện phù văn, bốn mươi lăm loại phù trong bản chép tay này, y đều nắm vững hết.",
-      "suggest": "Chỉ có khắc lục phù văn và pháp khí mới có thể hoàn toàn vững chắc, chịu đựng được sự va chạm kịch liệt của ngày sau. Muốn đạt được mục tiêu này, chỉ có thể dựa vào thành thạo pháp lực điều khiển mới có thể hoàn thành, hơn nữa cần thêm một loại linh tính trời sinh, có thể nói là thiên phú."
+      "dich": "Phù văn mới khắc sau khi dung hợp cùng pháp khí mới có thể hoàn toàn vứng chắc, chịu được những va chạm kịch liệt khi đấu pháp sau này. Muốn đạt được mục tiêu này, nếu chỉ dựa vào khả năng điều khiển pháp lực thuần thục thì còn thiếu rất nhiều, càng cần hơn một loại linh tính trời sinh, hay có thể nói cách khác là thiên phú.",
+      "suggest": "Chỉ có khắc lục phù văn và pháp khí mới có thể hoàn toàn vững chắc, chịu đựng được sự va chạm kịch liệt của ngày sau. Muốn đạt được mục tiêu này, chỉ có thể dựa vào thành thạo pháp lực điều khiển mới có thể hoàn thành, hơn nữa cần thêm một loại linh tính trời sinh, có thể nói là thiên phú.",
+      "approved": true,
+      "chinese": {
+        "raw": "新刻录的符文和法器相融一体后才能彻底稳固，承受住日后斗法的激烈碰撞，而要达成这个目标，单靠娴熟的法力操控远远不够，更需要一种天生的灵性，也可以说是天赋。",
+        "text": "Mới khắc lục đích ký hiệu cùng pháp khí tương dung nhất thể sau mới có thể triệt để vững chắc, chịu đựng lấy ngày sau đấu pháp đích kịch liệt va chạm, mà muốn đạt thành cái mục tiêu này, chỉ dựa vào thành thạo đích pháp lực thao túng còn thiếu rất nhiều, càng cần nữa một loại thiên sinh đích linh tính, cũng có thể nói là thiên phú .",
+        "index": 54
+      }
     },
     {
       "convert": "Luyện chế pháp khí mấy bước, quán linh thất bại xác suất là cao nhất, cho dù là tư thâm luyện khí sư, xác suất thành công cũng chỉ có hai ba thành, căn cứ bản chép tay ghi chép, cho dù là Hắc Mộc đại sư, quán linh xác suất thành công cũng không đến một nửa.",
-      "dich": "Luyện chế một kiện pháp khí, chỉ khắc họa phù văn thì vẫn chưa đủ, sau khi khắc phù văn tốt rồi, cũng không thể có uy năng được ngay, còn cần phải tiến hành quán linh cho nó.",
-      "suggest": "Luyện chế pháp khí mấy bước, xác suất thất bại là cao nhất, cho dù là luyện khí sư tư thâm thì xác suất thành công cũng chỉ có hai ba thành, căn cứ vào ghi chép tay, cho dù là đại sư Hắc Mộc đại sư thì xác suất thành công cũng chỉ có một phần mười."
+      "dich": "Trong mấy bước luyện chế pháp khí, quán linh có xác suất thất bại cao nhất, cho dù là luyện khí sư có thâm niên, xác suất thành công cũng chỉ có hai, ba thành, căn cứ theo nội dung bản chép tay, dù là Hắc Mộc đại sư, xác suất quán linh thành công cũng chưa đến năm thành.",
+      "suggest": "Luyện chế pháp khí mấy bước, xác suất thất bại là cao nhất, cho dù là luyện khí sư tư thâm thì xác suất thành công cũng chỉ có hai ba thành, căn cứ vào ghi chép tay, cho dù là đại sư Hắc Mộc đại sư thì xác suất thành công cũng chỉ có một phần mười.",
+      "approved": true,
+      "chinese": {
+        "raw": "炼制法器的几个步骤，灌灵失败概率是最高的，哪怕是资深的炼器师，成功率也只有两三成，根据手札记载，即便是黑木大师，灌灵成功率也不到一半。",
+        "text": "Luyện chế pháp khí đích mấy bước, quán linh thất bại xác suất là tối cao đích, cho dù là tư thâm luyện khí sư, xác suất thành công cũng chỉ có hai ba thành, căn cứ bản chép tay ghi chép, cho dù là hắc mộc đại sư, quán linh xác suất thành công cũng không đến một nửa .",
+        "index": 55
+      }
     },
     {
       "convert": "Viên Minh nhìn đến đây, không khỏi cảm thán luyện khí gian nan.",
-      "dich": "Cái gọi là quán linh, nói đơn giản một chút, chính là rót pháp lực vào trong phù văn, kích phát uy năng của nó.",
-      "suggest": "Viên Minh nhìn đến đây, không khỏi cảm thán gian nan luyện khí."
+      "dich": "Viên Minh xem tới đây, không khỏi cảm thán luyện khí gian nan.",
+      "suggest": "Viên Minh nhìn đến đây, không khỏi cảm thán gian nan luyện khí.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭看到这里，不禁感叹炼器的艰难。",
+        "text": "Viên Minh nhìn đến đây, không khỏi cảm thán luyện khí gian nan .",
+        "index": 56
+      }
     },
     {
       "convert": "Hắn tiếp tục hướng về sau đọc qua, rất mau đem cả bản bản chép tay xem hết, ánh mắt nhìn ra xa xa.",
-      "dich": "Một bước này nói có vẻ đơn giản, khi làm lại không hề dễ dàng.",
-      "suggest": "Hắn lại tiếp tục đọc tiếp, rất nhanh đã xem hết cả bản ghi, đưa mắt nhìn ra xa xa."
+      "dich": "Hắn tiếp tục đọc tiếp những trang sau, rất mau đã đọc hết toàn bộ bản chép tay, ánh mắt nhìn về phía xa xa.",
+      "suggest": "Hắn lại tiếp tục đọc tiếp, rất nhanh đã xem hết cả bản ghi, đưa mắt nhìn ra xa xa.",
+      "approved": true,
+      "chinese": {
+        "raw": "他继续向后翻阅，很快将整本手札看完，目光眺望远处。",
+        "text": "Hắn tiếp tục hướng sau lật xem, rất mau đem chỉnh vốn bản chép tay xem hết, ánh mắt nhìn ra xa viễn xứ .",
+        "index": 57
+      }
     },
     {
       "convert": "Viên Minh đối con đường luyện khí hứng thú không lớn, những ngày qua kiên trì đi Hỏa Phường học tập rèn đúc, chủ yếu là vì ở Bích La Động đứng vững gót chân, ngày nay đạt được bản này Hắc Mộc bản chép tay, hắn ở luyện khí phương diện tương đương có một đầu đường tắt, có lẽ có thể thử đi đến vừa đi.",
-      "dich": "Quán linh có yêu cầu rất cao với việc thao túng pháp lực, bởi vì những phù văn mới khắc trên pháp khí thực ra đều rất mỏng manh, chỉ cần xung kích pháp lực hơi quá một chút là sẽ khiến phù văn sụp đổ.",
-      "suggest": "Viên Minh đối với con đường luyện khí không có hứng thú lắm, mấy ngày qua kiên trì theo con đường Hỏa Phường học tập, chủ yếu là vì muốn đứng vững gót chân ở Bích La Động, hôm nay có được bản sao Hắc Mộc bản chép tay, hắn nghĩ về phương diện luyện khí tương đương với việc có một con đường tắt, có lẽ có thể thử đi tới đó."
+      "dich": "Viên Minh vốn không hứng thú lắm với luyện khí chi đạo, sở dĩ những ngày qua vẫn kiên trì học tập rèn đúc ở Hỏa phường, chủ yếu là để đứng vững gót chân tại Bích La Động, nhưng giờ có được bản Hắc Mộc thủ trát này, tương đương với việc hắn có một con đường tắt trên phương diện luyện khí, có lẽ có thể tới thử một phen.",
+      "suggest": "Viên Minh đối với con đường luyện khí không có hứng thú lắm, mấy ngày qua kiên trì theo con đường Hỏa Phường học tập, chủ yếu là vì muốn đứng vững gót chân ở Bích La Động, hôm nay có được bản sao Hắc Mộc bản chép tay, hắn nghĩ về phương diện luyện khí tương đương với việc có một con đường tắt, có lẽ có thể thử đi tới đó.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭对炼器之道兴趣不大，这些时日坚持去火坊学习锻造，主要是为了在碧罗洞站稳脚跟，如今得到这本黑木手札，他在炼器方面等于有了一条捷径，或许可以试着走上一走。",
+        "text": "Viên Minh đối con đường luyện khí hứng thú không lớn, những ngày qua kiên trì trừ hoả phường học tập rèn, chủ yếu là vì tại Bích La Động đứng vững gót chân, ngày nay được đến bản này hắc mộc bản chép tay, hắn tại luyện khí phương diện tương đương có rồi một đầu đường tắt, có lẽ khả dĩ thử lấy đi lên vừa đi .",
+        "index": 58
+      }
     },
     {
       "convert": "Hắn không hi vọng xa vời có thể đạt tới Hắc Mộc đại sư độ cao, có thể luyện chế ra bình thường nhất pháp khí là được.",
-      "dich": "Nói phù văn mới khắc là vì quán linh còn có một mục đích, chính là để phù văn và pháp khí hoàn toàn dung hợp.",
-      "suggest": "Hắn không hi vọng xa vời có thể đạt tới trình độ đại sư Hắc Mộc, chỉ cần có thể luyện chế ra pháp khí bình thường là được."
+      "dich": "Hắn không hy vọng xa vời đạt đến trình độ như Hắc Mộc đại sư, chỉ cần có thể luyện chế ra pháp khí bình thường nhất là được.",
+      "suggest": "Hắn không hi vọng xa vời có thể đạt tới trình độ đại sư Hắc Mộc, chỉ cần có thể luyện chế ra pháp khí bình thường là được.",
+      "approved": true,
+      "chinese": {
+        "raw": "他不奢望能达到黑木大师的高度，能够炼制出最普通的法器就行。",
+        "text": "Hắn không hy vọng xa vời năng đạt tới hắc mộc đại sư cao độ, có thể luyện chế ra bình thường nhất pháp khí là được .",
+        "index": 59
+      }
     },
     {
       "convert": "Những ngày qua đợi ở tông môn, Viên Minh càng phát ra rõ ràng giải pháp khí cường đại, cùng tầm quan trọng",
-      "dich": "Phù văn mới khắc sau khi dung hợp cùng pháp khí mới có thể hoàn toàn vứng chắc, chịu được những va chạm kịch liệt khi đấu pháp sau này.",
-      "suggest": "Những ngày qua, Viên Minh càng hiểu rõ hơn về giải pháp khí cường đại, tầm quan trọng của nó"
+      "dich": "Những ngày qua ở tại tông môn, Viên Minh càng thêm hiểu rõ sức mạnh và tầm quan trọng của pháp khí.",
+      "suggest": "Những ngày qua, Viên Minh càng hiểu rõ hơn về giải pháp khí cường đại, tầm quan trọng của nó",
+      "approved": true
     },
     {
       "convert": "Pháp khí chia làm hạ phẩm, trung phẩm, thượng phẩm, cực phẩm bốn đẳng cấp, Bích La Động đồ đệ trong tay, đại đa số đều là đê đẳng nhất hạ phẩm pháp khí, nhưng chính là hạ phẩm pháp khí, cũng không phải người tài ba tay một kiện, về phần Trung Phẩm Pháp Khí càng là thưa thớt chi cực, chỉ có cá biệt nội môn đệ tử mới có một kiện.",
-      "dich": "Muốn đạt được mục tiêu này, nếu chỉ dựa vào khả năng điều khiển pháp lực thuần thục thì còn thiếu rất nhiều, càng cần hơn một loại linh tính trời sinh, hay có thể nói cách khác là thiên phú.",
-      "suggest": "Pháp khí được chia làm hạ phẩm, trung phẩm, thượng phẩm, cực phẩm. Trong tay đồ đệ Bích La Động, đại đa số đều là pháp khí hạ phẩm, nhưng chính là pháp khí hạ phẩm, cũng không phải người tài ba tay lắm, chỉ có đệ tử nội môn mới có một kiện."
+      "dich": "Pháp khí chia ra bốn đẳng cấp gồm: Hạ phẩm, trung phẩm, thượng phẩm và cực phẩm. Pháp khí trong tay đệ tử Bích La Động, đại đa số đều là pháp khí hạ phẩm cấp thấp nhất, nhưng dù là pháp khí hạ phẩm cũng không phải ai cũng có một kiện, về phần pháp khí trung phẩm thì cực kỳ ít thất, chỉ có một vài đệ tử nội môn mới có một kiện.",
+      "suggest": "Pháp khí được chia làm hạ phẩm, trung phẩm, thượng phẩm, cực phẩm. Trong tay đồ đệ Bích La Động, đại đa số đều là pháp khí hạ phẩm, nhưng chính là pháp khí hạ phẩm, cũng không phải người tài ba tay lắm, chỉ có đệ tử nội môn mới có một kiện.",
+      "approved": true,
+      "chinese": {
+        "raw": "法器分为下品，中品，上品，极品四个等级，碧罗洞弟子手中的，大多数都是最低等的下品法器，但就是下品法器，也并非能人手一件，至于中品法器更是稀少之极，只有个别内门弟子才有一件。",
+        "text": "Pháp khí chia làm hạ phẩm, trung phẩm, thượng phẩm, cực phẩm bốn đẳng cấp, Bích La Động đệ tử trong tay đích, đại đa số đều là thấp nhất chờ hạ phẩm pháp khí, nhưng chính là hạ phẩm pháp khí, cũng không phải người tài ba tay một kiện, còn với trung phẩm pháp khí càng là ít ỏi chi cực, chỉ có cá biệt nội môn đệ tử mới có một kiện .",
+        "index": 61
+      }
     },
     {
       "convert": "Viên Minh trong bất tri bất giác, trong đầu hiện ra Khôn Đồ thân ảnh, trong tay người này kia mặt màu đen đại kỳ tên là Âm Quỷ kỳ, chính là một kiện Trung Phẩm Pháp Khí, ở Bích La Động bên trong tiếng tăm lừng lẫy.",
-      "dich": "Trong mấy bước luyện chế pháp khí, quán linh có xác suất thất bại cao nhất, cho dù là luyện khí sư có thâm niên, xác suất thành công cũng chỉ có hai, ba thành, căn cứ theo nội dung bản chép tay, dù là Hắc Mộc đại sư, xác suất quán linh thành công cũng chưa đến năm thành.",
-      "suggest": "Trong bất tri bất giác, trong đầu Viên Minh hiện ra thân ảnh của Khôn Đồ, kỳ kỳ trong tay người này chính là Âm Quỷ Kỳ, đây chính là một kiện Pháp Khí trung phẩm ở Bích La Động."
+      "dich": "Bất tri bất giác, trong đầu Viên Minh hiện ra thân ảnh Khôn Đồ, cây cờ trong tay kẻ này chính là Âm Quỷ kỳ, chính là một kiện pháp khí trung phẩm, có tiếng tăm lừng lẫy trong Bích La Động.",
+      "suggest": "Trong bất tri bất giác, trong đầu Viên Minh hiện ra thân ảnh của Khôn Đồ, kỳ kỳ trong tay người này chính là Âm Quỷ Kỳ, đây chính là một kiện Pháp Khí trung phẩm ở Bích La Động.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭不知不觉间，脑海中浮现出坤图的身影，此人手中的那面黑色大旗名为阴鬼旗，便是一件中品法器，在碧罗洞中赫赫有名。",
+        "text": "Viên Minh trong bất tri bất giác, trong đầu hiện ra khôn đồ đích thân ảnh, trong tay người này đích kia mặt hắc sắc đại kỳ tên là Âm Quỷ cờ, chính là một kiện trung phẩm pháp khí, tại Bích La Động trung tiếng tăm lừng lẫy .",
+        "index": 62
+      }
     },
     {
       "convert": "Âm Quỷ kỳ uy lực, hắn tự mình trải nghiệm qua, lúc trước nếu không phải trốn được nhanh, sớm đã chết ở đây kỳ phía dưới.",
-      "dich": "Viên Minh xem tới đây, không khỏi cảm thán luyện khí gian nan.",
-      "suggest": "Uy lực của Âm Quỷ Kỳ hắn tự mình trải nghiệm, lúc trước nếu không trốn nhanh, sớm đã chết dưới tay nó rồi."
+      "dich": "Uy lực của Âm Quỷ kỳ thì bản thân hắn đã từng được trải nghiệm, nếu lúc đó không phải hắn trốn đủ nhanh thì sợ rằng đã phải bỏ mạng dưới cờ này.",
+      "suggest": "Uy lực của Âm Quỷ Kỳ hắn tự mình trải nghiệm, lúc trước nếu không trốn nhanh, sớm đã chết dưới tay nó rồi.",
+      "approved": true,
+      "chinese": {
+        "raw": "阴鬼旗的威力，他亲自体会过，当初若非逃得快，早已死在此旗之下。",
+        "text": "Âm Quỷ cờ đích uy lực, hắn tự mình lĩnh hội qua, hồi đó nếu không phải trốn được nhanh, sớm đã chết ở đây cờ phía dưới .",
+        "index": 63
+      }
     },
     {
       "convert": "Về phần Thượng phẩm Pháp khí cùng cực phẩm pháp khí, Viên Minh chưa từng nghe nói ai có được, có truyền ngôn chỉ có Trúc Cơ kỳ tồn tại, trong tay mới có loại kia bảo vật.",
-      "dich": "Hắn tiếp tục đọc tiếp những trang sau, rất mau đã đọc hết toàn bộ bản chép tay, ánh mắt nhìn về phía xa xa.",
-      "suggest": "Về phần pháp khí thượng phẩm và pháp khí cực phẩm, Viên Minh chưa từng nghe ai nói có được. Có truyền thuyết nói chỉ có Trúc Cơ kỳ tồn tại, trong tay mới có loại bảo vật kia."
+      "dich": "Về phần pháp khí thượng phẩm và cực phẩm, Viên Minh chưa từng nghe nói qua có người sở hữu, nghe đồn chỉ có Trúc Cơ kỳ mới có thể có bảo vật như vậy trong tay.",
+      "suggest": "Về phần pháp khí thượng phẩm và pháp khí cực phẩm, Viên Minh chưa từng nghe ai nói có được. Có truyền thuyết nói chỉ có Trúc Cơ kỳ tồn tại, trong tay mới có loại bảo vật kia.",
+      "approved": true,
+      "chinese": {
+        "raw": "至于上品法器和极品法器，袁铭从未听说谁拥有，有传言只有筑基期存在，手中才有那等宝物。",
+        "text": "Còn với Thượng phẩm Pháp khí cùng cực phẩm pháp khí, Viên Minh chưa bao giờ nghe nói ai nắm giữ, có đồn đại chỉ có Trúc Cơ Kỳ tồn tại, trong tay mới có loại kia bảo vật .",
+        "index": 64
+      }
     },
     {
       "convert": "Hắn lật tay gỡ xuống hắn Thanh Ngư Kiếm, gần đây trong chiến đấu, kiếm này phát huy tác dụng càng ngày càng nhỏ, nếu có thể đem nó tấn thăng làm pháp khí, cho dù là hạ phẩm pháp khí, thực lực của hắn liền có thể lập tức tăng nhiều.",
-      "dich": "Viên Minh vốn không hứng thú lắm với luyện khí chi đạo, sở dĩ những ngày qua vẫn kiên trì học tập rèn đúc ở Hỏa phường, chủ yếu là để đứng vững gót chân tại Bích La Động, nhưng giờ có được bản Hắc Mộc thủ trát này, tương đương với việc hắn có một con đường tắt trên phương diện luyện khí, có lẽ có thể tới thử một phen.",
-      "suggest": "Hắn lật tay gỡ Thanh Ngư Kiếm của mình xuống, gần đây trong chiến đấu, Thanh Ngư Kiếm này phát huy tác dụng càng ngày càng nhỏ, nếu có thể đem nó tấn thăng làm pháp khí, dù là pháp khí hạ phẩm, thực lực hắn cũng có thể lập tức tăng lên."
+      "dich": "Hắn lật tay rút Thanh Ngư Kiếm, kiếm này trong những trận chiến gần đây phát huy tác dụng càng ngày càng nhỏ, nếu như có thể thăng nó lên làm pháp khí, cho dù là pháp khí hạ phẩm, thực lực của hắn sẽ có thể lập tức tăng nhiều.",
+      "suggest": "Hắn lật tay gỡ Thanh Ngư Kiếm của mình xuống, gần đây trong chiến đấu, Thanh Ngư Kiếm này phát huy tác dụng càng ngày càng nhỏ, nếu có thể đem nó tấn thăng làm pháp khí, dù là pháp khí hạ phẩm, thực lực hắn cũng có thể lập tức tăng lên.",
+      "approved": true,
+      "chinese": {
+        "raw": "他翻手取下他的青鱼剑，近日在战斗中，此剑发挥的作用越来越小，若能将其晋升为法器，哪怕是下品法器，他的实力便能立刻大增。",
+        "text": "Hắn lật tay lấy xuống hắn cá trắm đen 剑, ngày gần đây ở trong chiến đấu, kiếm này phát huy đích tác dụng càng ngày càng nhỏ, nếu có thể đem nó tấn thăng vi pháp khí, cho dù là hạ phẩm pháp khí, thực lực của hắn liền có thể lập tức tăng nhiều .",
+        "index": 65
+      }
     },
     {
       "convert": "Viên Minh im lặng một lát, lại lần nữa lật ra Hắc Mộc bản chép tay, từ đầu nhìn kỹ.",
-      "dich": "Hắn không hy vọng xa vời đạt đến trình độ như Hắc Mộc đại sư, chỉ cần có thể luyện chế ra pháp khí bình thường nhất là được.",
-      "suggest": "Viên Minh im lặng một lát, lại lần nữa lật giở bản chép tay màu đen, bắt đầu từ đầu nhìn kỹ."
+      "dich": "Viên Minh im lặng một lúc, rồi lại lần nữa lật Hắc Mộc thủ trát, bắt đầu đọc lại từ đầu.",
+      "suggest": "Viên Minh im lặng một lát, lại lần nữa lật giở bản chép tay màu đen, bắt đầu từ đầu nhìn kỹ.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭默然片刻，再度翻开黑木手札，从头细看起来。",
+        "text": "Viên Minh im lặng chốc lát, lại lần nữa mở ra hắc mộc bản chép tay, từ đầu nhìn kỹ lên tới .",
+        "index": 66
+      }
     },
     {
       "convert": "Một đêm thời gian trôi qua rất nhanh.",
-      "dich": "Những ngày qua ở tại Bích La Động, Viên Minh càng thêm hiểu rõ sức mạnh và tầm quan trọng của pháp khí.",
-      "suggest": "Thời gian một đêm nhanh chóng qua đi."
+      "dich": "Thời gian một đêm trôi qua rất mau.",
+      "suggest": "Thời gian một đêm nhanh chóng qua đi.",
+      "approved": true,
+      "chinese": {
+        "raw": "一夜时间很快过去。",
+        "text": "Một đêm thời gian trôi qua rất nhanh .",
+        "index": 67
+      }
     },
     {
       "convert": "Viên Minh rời đi lều cỏ, xác định bản thân vị trí về sau, thẳng đến Bích La Động sơn môn phương hướng mà đi.",
-      "dich": "Pháp khí chia ra bốn đẳng cấp gồm: Hạ phẩm, trung phẩm, thượng phẩm và cực phẩm.",
-      "suggest": "Viên Minh rời khỏi lều cỏ, xác định vị trí của mình, sau đó đi thẳng tới Bích La Động sơn môn."
-    },
-    {
-      "dich": "Pháp khí trong tay đệ tử Bích La Động, đại đa số đều là pháp khí hạ phẩm cấp thấp nhất, nhưng dù là pháp khí hạ phẩm cũng không phải ai cũng có một kiện, về phần pháp khí trung phẩm thì cực kỳ ít thất, chỉ có một vài đệ tử nội môn mới có một kiện."
-    },
-    {
-      "dich": "Bất tri bất giác, trong đầu Viên Minh hiện ra thân ảnh Khôn Đồ, cây cờ trong tay kẻ này chính là Âm Quỷ kỳ, chính là một kiện pháp khí trung phẩm, có tiếng tăm lừng lẫy trong Bích La Động."
-    },
-    {
-      "dich": "Uy lực của Âm Quỷ kỳ thì bản thân hắn đã từng được trải nghiệm, nếu lúc đó không phải hắn trốn đủ nhanh thì sợ rằng đã phải bỏ mạng dưới cờ này."
-    },
-    {
-      "dich": "Về phần pháp khí thượng phẩm và cực phẩm, Viên Minh chưa từng nghe nói qua có người sở hữu, nghe đồn chỉ có Trúc Cơ kỳ mới có thể có bảo vật như vậy trong tay."
-    },
-    {
-      "dich": "Hắn lật tay rút Thanh Ngư Kiếm, kiếm này trong những trận chiến gần đây phát huy tác dụng càng ngày càng nhỏ, nếu như có thể thăng nó lên làm pháp khí, cho dù là pháp khí hạ phẩm, thực lực của hắn sẽ có thể lập tức tăng nhiều."
-    },
-    {
-      "dich": "Viên Minh im lặng một lúc, rồi lại lần nữa lật Hắc Mộc thủ trát, bắt đầu đọc lại từ đầu."
-    },
-    {
-      "dich": "Thời gian một đêm trôi qua rất mau."
-    },
-    {
-      "dich": "Viên Minh rời khỏi lều cỏ, sau khi xác định vị trí của mình, liền rảo bước đi thẳng về phía sơn môn Bích La Động."
-    },
-    {
-      "dich": "*Chú giải*"
-    },
-    {
-      "dich": "1."
-    },
-    {
-      "dich": "Sở cầu: Tâm nguyện, ước muốn, mong muốn."
-    },
-    {
-      "dich": "2."
-    },
-    {
-      "dich": "Phong nhuệ = sắc bén, tật phong = nhanh như gió."
+      "dich": "Viên Minh rời khỏi lều cỏ, sau khi xác định vị trí của mình, liền rảo bước đi thẳng về phía sơn môn Bích La Động.",
+      "suggest": "Viên Minh rời khỏi lều cỏ, xác định vị trí của mình, sau đó đi thẳng tới Bích La Động sơn môn.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭离开草棚，确定了自己所在的位置后，直奔碧罗洞山门方向而去。",
+        "text": "Viên Minh rời khỏi lều cỏ, xác định rồi chính mình sở tại đích vị trí sau, băng băng chạy đến Bích La Động sơn môn phương hướng mà đi .",
+        "index": 68
+      }
     }
-  ]
+  ],
+  "currentWorkingLine": 75,
+  "changed": true
 }

@@ -1,4 +1,5 @@
 {
+  "currentLine": 103,
   "next": {
     "id": 82,
     "title": "Chương 82: Trên dưới lập kiến"
@@ -15,549 +16,702 @@
     {
       "convert": "\"Một lần không nhớ được không quan hệ, ta có thể đọc tiếp một lần, ngươi tử tế nghe lấy là được.\"",
       "dich": "\"Một lần không nhớ được cũng không sao, ta có thể đọc thêm một lần, ngươi tập trung nghe là được.\"",
-      "suggest": "\"Một lần không nhớ được không quan hệ, ta có thể đọc lại một lần, ngươi cẩn thận nghe là được.\""
+      "suggest": "\"Một lần không nhớ được không quan hệ, ta có thể đọc lại một lần, ngươi cẩn thận nghe là được.\"",
+      "approved": true
     },
     {
       "convert": "Tam động chủ mở miệng nói ra.",
       "dich": "Tam động chủ mở miệng nói.",
-      "suggest": "Tam động chủ mở miệng nói."
+      "suggest": "Tam động chủ mở miệng nói.",
+      "approved": true
     },
     {
       "convert": "\"Không cần, Tam động chủ, khẩu quyết ta nhớ kỹ, chỉ là ta tư chất không tốt, khả năng cần nhiều nếm thử mấy lần mới được.\"",
-      "dich": "\"Không cần.",
-      "suggest": "\"Không cần, tam động chủ, ta đã thuộc lòng khẩu quyết, chỉ là tư chất của ta không tốt, khả năng cao phải thử qua mấy lần mới được.\""
+      "dich": "\"Không cần. Tam động chủ, khẩu quyết ta đã nhớ, có điều tư chất không tốt, khả năng phải thử thêm mấy lần mới được.\"",
+      "suggest": "\"Không cần, tam động chủ, ta đã thuộc lòng khẩu quyết, chỉ là tư chất của ta không tốt, khả năng cao phải thử qua mấy lần mới được.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh hướng Tam động chủ chắp tay trả lời.",
-      "dich": "Tam động chủ, khẩu quyết ta đã nhớ, có điều tư chất không tốt, khả năng phải thử thêm mấy lần mới được.\"",
-      "suggest": "Viên Minh chắp tay trả lời Tam động chủ."
+      "dich": "Viên Minh hướng Tam động chủ, chắp tay đáp.",
+      "suggest": "Viên Minh chắp tay trả lời Tam động chủ.",
+      "approved": true
     },
     {
       "convert": "Tam động chủ hơi có kinh ngạc, nhưng gặp Viên Minh nói như vậy, liền cũng không nói gì thêm nữa, chỉ là khẽ vuốt cằm, ra hiệu hắn có thể bắt đầu thử.",
-      "dich": "Viên Minh hướng Tam động chủ, chắp tay đáp.",
-      "suggest": "Tam động chủ hơi kinh ngạc, nhưng thấy Viên Minh nói vậy cũng không nói gì thêm, chỉ khẽ vuốt cằm, ra hiệu hắn có thể bắt đầu thử nghiệm."
+      "dich": "Tam động chủ có hơi kinh ngạc, nhưng nghe Viên Minh nói vậy thì cũng không nói gì thêm nữa, chỉ khẽ vuốt cằm, ra hiệu bảo hắn có thể bắt đầu thử.",
+      "suggest": "Tam động chủ hơi kinh ngạc, nhưng thấy Viên Minh nói vậy cũng không nói gì thêm, chỉ khẽ vuốt cằm, ra hiệu hắn có thể bắt đầu thử nghiệm.",
+      "approved": true,
+      "chinese": {
+        "raw": "三洞主略有惊讶，但见袁铭这么说，便也没再多说什么，只是微微颔首，示意他可以开始尝试了。",
+        "text": "Ba động chủ hơi có kinh ngạc, nhưng thấy Viên Minh thế này nói, liền cũng không nói gì thêm nữa, chỉ là khẽ vuốt cằm, tỏ ý hắn khả dĩ bắt đầu thử .",
+        "index": 2
+      }
     },
     {
       "convert": "Quả nhiên, Viên Minh khẩu quyết nhớ kỹ không kém, nhưng thao tác cụ thể, liền xảy ra vấn đề.",
-      "dich": "Tam động chủ có hơi kinh ngạc, nhưng nghe Viên Minh nói vậy thì cũng không nói gì thêm nữa, chỉ khẽ vuốt cằm, ra hiệu bảo hắn có thể bắt đầu thử.",
-      "suggest": "Quả nhiên, Viên Minh nhớ kỹ không kém, nhưng thao tác cụ thể lại xảy ra vấn đề."
+      "dich": "Quả nhiên, khẩu quyết thì Viên Minh nhớ không sai chữ nào, nhưng thao tác cụ thể thì lại xảy ra vấn đề.",
+      "suggest": "Quả nhiên, Viên Minh nhớ kỹ không kém, nhưng thao tác cụ thể lại xảy ra vấn đề.",
+      "approved": true,
+      "chinese": {
+        "raw": "果然，袁铭口诀记得不差，但具体操作起来，就出了问题。",
+        "text": "Quả nhiên, Viên Minh khẩu quyết nhớ không kém, nhưng thao tác cụ thể lên tới, liền ra vấn đề .",
+        "index": 3
+      }
     },
     {
       "convert": "Khi hắn vận chuyển khẩu quyết, lấy pháp lực bao trùm túi trữ vật lúc, một tầng màu đỏ phù văn tạo thành vòng tròn pháp trận lập tức nổi lên, phía trên truyền ra một đạo bài xích lực lượng, đem pháp lực của hắn bức lui ra.",
-      "dich": "Quả nhiên, khẩu quyết thì Viên Minh nhớ không sai chữ nào, nhưng thao tác cụ thể thì lại xảy ra vấn đề.",
-      "suggest": "Khi hắn vận chuyển khẩu quyết, dùng pháp lực bao trùm túi trữ vật, một tầng phù văn màu đỏ tạo thành vòng tròn lập tức nổi lên, bên trên truyền ra một luồng lực lượng bài xích, bức lui pháp lực của hắn ra."
+      "dich": "Khi hắn vận chuyển khẩu quyết, dùng pháp lực bao trùm túi trữ vật, một pháp trận hình tròn được hình thành từ một tầng những phù văn màu đỏ nổi lên, trên mặt truyền ra một lực bài xích, bức pháp lực của hắn lui ra.",
+      "suggest": "Khi hắn vận chuyển khẩu quyết, dùng pháp lực bao trùm túi trữ vật, một tầng phù văn màu đỏ tạo thành vòng tròn lập tức nổi lên, bên trên truyền ra một luồng lực lượng bài xích, bức lui pháp lực của hắn ra.",
+      "approved": true,
+      "chinese": {
+        "raw": "当他运转口诀，以法力覆盖储物袋时，一层红色符文构成的圆环法阵随即浮现而出，上面传出一道排斥力量，将他的法力逼退开来。",
+        "text": "Khi hắn vận chuyển khẩu quyết, dĩ pháp lực bao trùm túi trữ vật thời, một tầng màu đỏ ký hiệu tạo thành vòng tròn pháp trận lập tức nổi lên, thượng diện truyền ra một đạo bài xích lực lượng, đem hắn đích pháp lực bức lui mở ra .",
+        "index": 4
+      }
     },
     {
       "convert": "Viên Minh nhướng mày, tăng cường lực lượng vận chuyển, bản thân pháp lực bắt đầu xâm nhập vòng tròn pháp trận, dần dần tới tương dung.",
-      "dich": "Khi hắn vận chuyển khẩu quyết, dùng pháp lực bao trùm túi trữ vật, một pháp trận hình tròn được hình thành từ một tầng những phù văn màu đỏ nổi lên, trên mặt truyền ra một lực bài xích, bức pháp lực của hắn lui ra.",
-      "suggest": "Viên Minh nhướng mày, tăng cường lực lượng vận chuyển, pháp lực bản thân bắt đầu xâm nhập vào trong pháp trận vòng tròn, dần dần tới trạng thái tương dung."
+      "dich": "Viên Minh nhướng mày, tăng cường lực vận chuyển, theo đó pháp lực bản thân bắt đầu xâm nhập vào pháp trận hình tròn, dần dần tương thích với nó.",
+      "suggest": "Viên Minh nhướng mày, tăng cường lực lượng vận chuyển, pháp lực bản thân bắt đầu xâm nhập vào trong pháp trận vòng tròn, dần dần tới trạng thái tương dung.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭眉头一皱，加强了力量运转，自身法力开始侵入圆环法阵，逐渐与之相容。",
+        "text": "Viên Minh nhướng mày, tăng cường lực lượng vận chuyển, tự thân pháp lực bắt đầu xâm nhập vòng tròn pháp trận, dần dần tới tương dung .",
+        "index": 5
+      }
     },
     {
       "convert": "Nhưng sau một lát, pháp lực của hắn lần nữa gián đoạn, bị bức lui xuất hiện.",
-      "dich": "Viên Minh nhướng mày, tăng cường lực vận chuyển, theo đó pháp lực bản thân bắt đầu xâm nhập vào pháp trận hình tròn, dần dần tương thích với nó.",
-      "suggest": "Nhưng sau một lát, pháp lực của hắn lại gián đoạn, bị bức lui."
+      "dich": "Nhưng sau một chốc, pháp lực của hắn lại lần nữa gián đoạn, bị bức lui ra.",
+      "suggest": "Nhưng sau một lát, pháp lực của hắn lại gián đoạn, bị bức lui.",
+      "approved": true,
+      "chinese": {
+        "raw": "但片刻之后，他的法力再次中断，被逼退了出来。",
+        "text": "Nhưng sau một lát, pháp lực của hắn lần nữa gián đoạn, bị buộc lui ra .",
+        "index": 6
+      }
     },
     {
       "convert": "\"Túi trữ vật cấm chế là trụ cột nhất, ngưng thần tĩnh tâm, chuyên chú khống chế pháp lực, vận chuyển khẩu quyết thử lại.\"",
-      "dich": "Nhưng sau một chốc, pháp lực của hắn lại lần nữa gián đoạn, bị bức lui ra.",
-      "suggest": "\"Pháp chế túi trữ vật là trụ cột nhất, ngưng thần tĩnh tâm, chuyên chú khống chế pháp lực, vận chuyển khẩu quyết thử lại.\""
+      "dich": "\"Cấm chế của túi trữ vật là điểm trụ cột nhất, ngưng thần tĩnh tâm, tập trung khống chế pháp lực, thử vận chuyển khẩu quyết lại.\"",
+      "suggest": "\"Pháp chế túi trữ vật là trụ cột nhất, ngưng thần tĩnh tâm, chuyên chú khống chế pháp lực, vận chuyển khẩu quyết thử lại.\"",
+      "approved": true
     },
     {
       "convert": "Tam động chủ nhắc nhở.",
-      "dich": "\"Cấm chế của túi trữ vật là điểm trụ cột nhất, ngưng thần tĩnh tâm, tập trung khống chế pháp lực, thử vận chuyển khẩu quyết lại.\"",
-      "suggest": "Tam động chủ nhắc nhở."
+      "dich": "Tam động chủ nhắc nhở.",
+      "suggest": "Tam động chủ nhắc nhở.",
+      "approved": true
     },
     {
       "convert": "Viên Minh nhẹ gật đầu, tĩnh tâm điều tức một lát sau, tiếp tục nếm thử.",
-      "dich": "Tam động chủ nhắc nhở.",
-      "suggest": "Viên Minh khẽ gật đầu, tĩnh tâm điều tức một lát rồi tiếp tục thử nghiệm."
+      "dich": "Viên Minh khẽ gật đầu, sau khi tĩnh tâm điều tức một lúc, lại tiếp tục thử nghiệm.",
+      "suggest": "Viên Minh khẽ gật đầu, tĩnh tâm điều tức một lát rồi tiếp tục thử nghiệm.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭点了点头，静心调息片刻后，继续尝试起来。",
+        "text": "Viên Minh gật gật đầu, tĩnh tâm điều tức một lát sau, tiếp tục thử lên tới .",
+        "index": 8
+      }
     },
     {
       "convert": "Một mực thử bảy tám lần, mới rốt cục thành công đem túi trữ vật luyện hóa.",
-      "dich": "Viên Minh khẽ gật đầu, sau khi tĩnh tâm điều tức một lúc, lại tiếp tục thử nghiệm.",
-      "suggest": "Thử bảy tám lần, cuối cùng mới thành công luyện hóa túi trữ vật."
+      "dich": "Phải liên tục thử bảy, tám lần, rốt cuộc mới thành công luyện hóa túi trữ vật kia.",
+      "suggest": "Thử bảy tám lần, cuối cùng mới thành công luyện hóa túi trữ vật.",
+      "approved": true,
+      "chinese": {
+        "raw": "一直尝试了七八次，才终于成功将储物袋炼化。",
+        "text": "Một mạch thử bảy tám lần, mới rốt cục thành công đem túi trữ vật luyện hóa .",
+        "index": 9
+      }
     },
     {
       "convert": "\"Ngươi đã đem túi trữ vật luyện hóa, hiện tại chỉ cần tại phóng thích pháp lực đồng thời, sờ nhẹ túi trữ vật, thầm nghĩ lấy bản thân muốn lấy xuất hiện đồ vật là được.\"",
-      "dich": "Phải liên tục thử bảy, tám lần, rốt cuộc mới thành công luyện hóa túi trữ vật kia.",
-      "suggest": "\"Ngươi đã luyện hóa túi trữ vật, bây giờ chỉ cần đồng thời phóng thích pháp lực, sờ sờ túi trữ vật, thầm nghĩ lấy thứ mình muốn xuất hiện là được.\""
+      "dich": "\"Ngươi đã luyện hóa túi trữ vật, bây giờ chỉ cần vừa phóng thích pháp lực, vừa sờ nhẹ túi trữ vậy, thầm nghĩ món đồ mà mình muốn lấy là được.\"",
+      "suggest": "\"Ngươi đã luyện hóa túi trữ vật, bây giờ chỉ cần đồng thời phóng thích pháp lực, sờ sờ túi trữ vật, thầm nghĩ lấy thứ mình muốn xuất hiện là được.\"",
+      "approved": true
     },
     {
       "convert": "Tam động chủ còn nói thêm.",
-      "dich": "\"Ngươi đã luyện hóa túi trữ vật, bây giờ chỉ cần vừa phóng thích pháp lực, vừa sờ nhẹ túi trữ vậy, thầm nghĩ món đồ mà mình muốn lấy là được.\"",
-      "suggest": "Tam động chủ còn nói thêm."
+      "dich": "Tam động chủ lại nhắc thêm.",
+      "suggest": "Tam động chủ còn nói thêm.",
+      "approved": true
     },
     {
       "convert": "Viên Minh nghe vậy, lúc này nếm thử.",
-      "dich": "Tam động chủ lại nhắc thêm.",
-      "suggest": "Viên Minh nghe vậy, liền thử nghiệm."
+      "dich": "Viên Minh nghe vậy liền thử ngay.",
+      "suggest": "Viên Minh nghe vậy, liền thử nghiệm.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭闻言，当即尝试起来。",
+        "text": "Viên Minh nghe vậy, lúc này thử lên tới .",
+        "index": 11
+      }
     },
     {
       "convert": "Lần này ngược lại là mười phần thuận lợi, bàn tay một vòng mà quá hạn, trong lòng bàn tay liền thêm ra tới một viên xích hồng sắc hơi mờ tinh thạch.",
-      "dich": "Viên Minh nghe vậy liền thử ngay.",
-      "suggest": "Lần này trái lại vô cùng thuận lợi, bàn tay vừa mới quá hạn, trong lòng bàn tay đã xuất hiện thêm một viên Tinh Thạch màu đỏ nhạt."
+      "dich": "Lần này không ngờ lại vô cùng thuận lợi, hắn chỉ đưa bàn tay quệt nhẹ một cái, trong lòng bàn tay lập tức có thêm một viên tinh thạch hơi đục màu đỏ tía.",
+      "suggest": "Lần này trái lại vô cùng thuận lợi, bàn tay vừa mới quá hạn, trong lòng bàn tay đã xuất hiện thêm một viên Tinh Thạch màu đỏ nhạt.",
+      "approved": true,
+      "chinese": {
+        "raw": "这次倒是十分顺利，手掌一抹而过时，掌心中便多出来了一枚赤红色的半透明晶石。",
+        "text": "Lần này ngược lại thập phần thuận lợi, bàn tay một vòng mà qua thời, trong lòng bàn tay liền nhiều ra tới một viên xích hồng sắc đích hơi mờ tinh thạch .",
+        "index": 12
+      }
     },
     {
       "convert": "\"Trả về trình tự không sai biệt lắm, phóng thích pháp lực đồng thời, sờ nhẹ muốn thả trở về đồ vật, lại lấy tâm niệm phụ trợ là đủ.\"",
-      "dich": "Lần này không ngờ lại vô cùng thuận lợi, hắn chỉ đưa bàn tay quệt nhẹ một cái, trong lòng bàn tay lập tức có thêm một viên tinh thạch hơi đục màu đỏ tía.",
-      "suggest": "\"Trả về trình tự không khác lắm, phóng thích pháp lực đồng thời, sờ nhẹ muốn thả đồ vật trở về, sau đó lại dùng tâm niệm phụ trợ là đủ.\""
+      "dich": "\"Trình tự trả về cũng tương tự, vừa phóng thích pháp lực, vừa chạm nhẹ đồ vật muốn trả về, đồng thời dùng tâm niệm phụ trợ là xong.\"",
+      "suggest": "\"Trả về trình tự không khác lắm, phóng thích pháp lực đồng thời, sờ nhẹ muốn thả đồ vật trở về, sau đó lại dùng tâm niệm phụ trợ là đủ.\"",
+      "approved": true
     },
     {
       "convert": "Tam động chủ hài lòng gật đầu, nói.",
-      "dich": "\"Trình tự trả về cũng tương tự, vừa phóng thích pháp lực, vừa chạm nhẹ đồ vật muốn trả về, đồng thời dùng tâm niệm phụ trợ là xong.\"",
-      "suggest": "Tam động chủ hài lòng gật đầu, nói."
+      "dich": "Tam động chủ hài lòng gật đầu, nói.",
+      "suggest": "Tam động chủ hài lòng gật đầu, nói.",
+      "approved": true
     },
     {
       "convert": "Viên Minh lập tức theo lời đi làm, trong tay Hỏa Tinh Thạch lúc này lóe lên một cái rồi biến mất, biến mất không thấy gì nữa.",
-      "dich": "Tam động chủ hài lòng gật đầu, nói.",
-      "suggest": "Viên Minh lập tức làm theo lời hắn, Hỏa Tinh Thạch trong tay lóe lên một cái rồi biến mất không thấy gì nữa."
+      "dich": "Viên Minh lập tức làm theo hướng dẫn, viên Hỏa Tinh Thạch trong tay liền lóe lên một cái rồi biến mất, hoàn toàn không thấy bóng dáng đâu nữa.",
+      "suggest": "Viên Minh lập tức làm theo lời hắn, Hỏa Tinh Thạch trong tay lóe lên một cái rồi biến mất không thấy gì nữa.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭立即依言去做，手中火晶石当即一闪而逝，消失不见。",
+        "text": "Viên Minh lập tức theo lời đi làm, trong tay hỏa tinh thạch lúc này lóe lên một cái rồi biến mất, biến mất không thấy gì nữa .",
+        "index": 14
+      }
     },
     {
-      "convert": "Lần thứ nhất tiếp xúc túi trữ vật, Viên Minh nhịn không được thử nhiều lần, đợi đến",
-      "dich": "Viên Minh lập tức làm theo hướng dẫn, viên Hỏa tinh thạch trong tay liền lóe lên một cái rồi biến mất, hoàn toàn không thấy bóng dáng đâu nữa.",
-      "suggest": "Lần đầu tiên tiếp xúc với túi trữ vật, Viên Minh nhịn không được thử qua một lần, đợi tới khi thấy túi trữ vật đã chật cứng lại mới thôi"
-    },
-    {
-      "convert": "Triệt để quen thuộc về sau, mới ngừng lại được.",
+      "convert": "Lần thứ nhất tiếp xúc túi trữ vật, Viên Minh nhịn không được thử nhiều lần, đợi đến triệt để quen thuộc về sau, mới ngừng lại được.",
       "dich": "Lần đầu tiên tiếp xúc túi trữ vật, Viên Minh nhịn không được thử nhiều lần, đợi tới khi hoàn toàn quen thuộc mới ngừng lại.",
-      "suggest": "Sau khi quen thuộc hoàn toàn mới ngừng lại."
+      "suggest": "Lần đầu tiên tiếp xúc với túi trữ vật, Viên Minh nhịn không được thử qua một lần, đợi tới khi thấy túi trữ vật đã chật cứng lại mới thôi. Sau khi quen thuộc hoàn toàn mới ngừng lại.",
+      "approved": true,
+      "chinese": {
+        "raw": "第一次接触储物袋，袁铭忍不住尝试了好几次，等到彻底熟悉了以后，才停了下来。",
+        "text": "Lần đầu tiên tiếp xúc túi trữ vật, Viên Minh nhịn không được thử nhiều lần, đợi đến triệt để quen thuộc về sau, mới ngừng lại được .",
+        "index": 15
+      }
     },
     {
       "convert": "\"Linh Thú Đại cũng cho ngươi tạm dùng, như không phải vạn bất đắc dĩ thời điểm, tận lực không có đem Hỏa Sàm Nhi thu vào đi, nó kỳ thật vẫn là thích ở bên ngoài.\"",
       "dich": "\"Túi linh thú cùng đưa ngươi dùng tạm, nhưng nếu không phải lúc vạn bất đắc dĩ, cố gắng đừng thu Hỏa Sàm Nhi vào, kỳ thực nó thích ở bên ngoài hơn.\"",
-      "suggest": "\"Linh thú đại cũng cho ngươi tạm dùng, nếu không phải vạn bất đắc dĩ, ngươi tận lực không thu Hỏa Sàm Nhi đi, kỳ thật nó vẫn thích ở bên ngoài.\""
+      "suggest": "\"Linh thú đại cũng cho ngươi tạm dùng, nếu không phải vạn bất đắc dĩ, ngươi tận lực không thu Hỏa Sàm Nhi đi, kỳ thật nó vẫn thích ở bên ngoài.\"",
+      "approved": true
     },
     {
       "convert": "Tam động chủ suy nghĩ một chút, lại lấy ra một cái màu đỏ bố nang, vứt cho Viên Minh.",
       "dich": "Tam động chủ ngẫm nghĩ một chút, xong lại lấy ra một túi vải màu đỏ, vứt cho Viên Minh.",
-      "suggest": "Tam động chủ suy nghĩ một chút, lại lấy ra một cái nang màu đỏ bố nang, ném cho Viên Minh."
+      "suggest": "Tam động chủ suy nghĩ một chút, lại lấy ra một cái nang màu đỏ bố nang, ném cho Viên Minh.",
+      "approved": true
     },
     {
       "convert": "Viên Minh vội vàng nhận lấy.",
       "dich": "Viên Minh vội vàng nhận lấy.",
-      "suggest": "Viên Minh vội vàng nhận lấy."
+      "suggest": "Viên Minh vội vàng nhận lấy.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭连忙接了过来。",
+        "text": "Viên Minh vội vàng nhận lấy .",
+        "index": 17
+      }
     },
     {
       "convert": "\"Linh Thú Đại cách dùng cùng túi trữ vật không sai biệt lắm, bất quá nhớ lấy, túi trữ vật chỉ có thể cất giữ đồ vật, mà Linh Thú Đại lại chỉ có thể cất giữ Linh thú, không thể lẫn lộn.\"",
       "dich": "\"Cách dùng túi linh thú cũng tương tự như túi trữ vật, nhưng phải nhớ, túi trữ vật chỉ có thể cất đồ vật, còn túi linh thú chỉ có thể cất giữ linh thú, không thể lẫn lộn.\"",
-      "suggest": "\"Cách dùng Linh Thú Đại và túi trữ vật không khác nhau lắm, nhưng nhớ kỹ, túi trữ vật chỉ có thể chứa đồ, mà Linh Thú Đại lại chỉ có thể cất giữ Linh thú, không thể lẫn lộn.\""
+      "suggest": "\"Cách dùng Linh Thú Đại và túi trữ vật không khác nhau lắm, nhưng nhớ kỹ, túi trữ vật chỉ có thể chứa đồ, mà Linh Thú Đại lại chỉ có thể cất giữ Linh thú, không thể lẫn lộn.\"",
+      "approved": true
     },
     {
       "convert": "Tam động chủ dặn dò.",
       "dich": "Tam động chủ dặn dò thêm.",
-      "suggest": "Tam động chủ dặn dò."
+      "suggest": "Tam động chủ dặn dò.",
+      "approved": true
     },
     {
       "convert": "\"Nhớ kỹ.\" Viên Minh gật đầu nói.",
       "dich": "\"Đã nhớ.\" Viên Minh gật đầu ghi nhận.",
-      "suggest": "\"Nhớ rồi.\" Viên Minh gật đầu nói."
+      "suggest": "\"Nhớ rồi.\" Viên Minh gật đầu nói.",
+      "approved": true
     },
     {
       "convert": "\"Trần Uyển, ngày mai ngươi trừ hoả phường cáo tri Phương Cách một tiếng, Viên Minh về sau có thể không cần lại đi hỏa phường làm nhiệm vụ hàng ngày, trong một tháng này hảo hảo chiếu khán Hỏa Sàm Nhi là được.\"",
-      "dich": "\"Trần Uyền, ngày mai ngươi đến Hỏa phường báo cho Phương Cách một tiếng, Viên Minh về sau có thể không cần tới Hỏa phường làm nhiệm vụ hàng ngày, trong một tháng này tập trung trông nom Hỏa Sàm Nhi là được.\"",
-      "suggest": "\"Trần Uyển, ngày mai trừ hỏa phường ra, ngày mai trừ hỏa phường ra, Viên Minh sau này có thể không cần đi làm nhiệm vụ hàng ngày ở hỏa phường nữa, trong một tháng này hảo hảo chiếu cố Hỏa Sàm Nhi là được.\""
+      "dich": "\"Trần Uyển, ngày mai ngươi đến Hỏa phường báo cho Phương Cách một tiếng, Viên Minh về sau có thể không cần tới Hỏa phường làm nhiệm vụ hàng ngày, trong một tháng này tập trung trông nom Hỏa Sàm Nhi là được.\"",
+      "suggest": "\"Trần Uyển, ngày mai trừ hỏa phường ra, ngày mai trừ hỏa phường ra, Viên Minh sau này có thể không cần đi làm nhiệm vụ hàng ngày ở hỏa phường nữa, trong một tháng này hảo hảo chiếu cố Hỏa Sàm Nhi là được.\"",
+      "approved": true
     },
     {
       "convert": "Tam động chủ phân phó nói.",
       "dich": "Tam động chủ căn dặn.",
-      "suggest": "Tam động chủ ra lệnh."
+      "suggest": "Tam động chủ ra lệnh.",
+      "approved": true
     },
     {
       "convert": "\"Đồ đệ tuân mệnh.\" Trần Uyển lập tức đáp.",
       "dich": "\"Đệ tử tuân mệnh.\" Trần Uyển lập tức đáp.",
-      "suggest": "\"Đồ đệ tuân mệnh.\" Trần Uyển đáp."
+      "suggest": "\"Đồ đệ tuân mệnh.\" Trần Uyển đáp.",
+      "approved": true
     },
     {
       "convert": "Viên Minh vốn muốn nói không cần như thế, nhưng biết Tam động chủ đây là sợ hắn chiếu cố không tốt Hỏa Sàm Nhi mới cho đặc quyền, liền không có mở miệng.",
       "dich": "Viên Minh vốn định nói không cần như vậy, nhưng biết Tam động chủ đây là sợ hắn trông coi Hỏa Sàm Nhi không tốt nên mới cấp đặc quyền nên không có mở miệng.",
-      "suggest": "Viên Minh vốn định nói không cần như thế, nhưng biết Tam động chủ chỉ sợ hắn chiếu cố không tốt Hỏa Sàm Nhi nên mới đặc quyền cho hắn, không mở miệng."
+      "suggest": "Viên Minh vốn định nói không cần như thế, nhưng biết Tam động chủ chỉ sợ hắn chiếu cố không tốt Hỏa Sàm Nhi nên mới đặc quyền cho hắn, không mở miệng.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭本想说不用如此，但知道三洞主这是怕他照顾不好火馋儿才给的特权，便没有开口。",
+        "text": "Viên Minh vốn định nói không cần như thế, nhưng biết ba động chủ đây là sợ hắn chiếu cố bất hảo lửa thèm muốn nhi mới cho đích đặc quyền, liền không có mở miệng .",
+        "index": 22
+      }
     },
     {
       "convert": "Từ Tam động chủ trong viện xuất hiện, Trần Uyển nhìn về phía Viên Minh ánh mắt dần dần xảy ra biến hóa, hiển nhiên lần này bái phỏng hành trình Viên Minh chỗ hiện ra hết thảy, đều làm nàng thầm hô không thể tưởng tượng nổi.",
       "dich": "Từ trong viện tử của Tam động chủ đi ra, ánh mắt Trần Uyển nhìn Viên Minh dần dần có thay đổi, hiển nhiên tất cả những gì mà Viên Minh thể hiện trong chuyến đi này đều khiến nàng phải thầm hô không thể tưởng tượng nổi.",
-      "suggest": "Từ trong viện của tam động chủ xuất hiện, Trần Uyển nhìn về phía Viên Minh dần dần biến hóa, hiển nhiên lần này hắn tới đây, tất cả những chuyện xảy ra xung quanh hành trình của Viên Minh đều khiến nàng thầm kêu khổ không thôi."
+      "suggest": "Từ trong viện của tam động chủ xuất hiện, Trần Uyển nhìn về phía Viên Minh dần dần biến hóa, hiển nhiên lần này hắn tới đây, tất cả những chuyện xảy ra xung quanh hành trình của Viên Minh đều khiến nàng thầm kêu khổ không thôi.",
+      "approved": true,
+      "chinese": {
+        "raw": "从三洞主的院子里出来，陈婉看向袁铭的目光渐渐起了变化，显然这一次拜访之行袁铭所展现的一切，都令她暗呼不可思议。",
+        "text": "Từ ba động chủ đích trong sân ra, trần uyển nhìn về phía Viên Minh đích ánh mắt dần dần xảy ra biến hóa, hiển nhiên một lần này bái phỏng chi hành Viên Minh sở hiện ra đích hết thảy, đều làm nàng thầm hô không thể nghĩ tới .",
+        "index": 23
+      }
     },
     {
       "convert": "Kết hợp với trước đó từ một cái Phi Mao thú nô trở thành ký danh đệ tử đủ loại ly kỳ trải qua, làm nàng đối người thiếu niên trước mắt này, không còn dám có chút khinh thị.",
       "dich": "Kết hợp đủ loại trải nghiệm ly kỳ trong hành trình từ một Phi Mao thú nô trở thành đệ tử ký danh trước đó, đã khiến nàng đối với người thiếu niên trước mắt này, không còn dám có chút xem thường nào.",
-      "suggest": "Kết hợp với những chuyện ly kỳ từ một Phi Mao thú nô trở thành đệ tử ký danh, làm cho nàng đối với thiếu niên trước mắt này không còn dám khinh thị chút nào."
+      "suggest": "Kết hợp với những chuyện ly kỳ từ một Phi Mao thú nô trở thành đệ tử ký danh, làm cho nàng đối với thiếu niên trước mắt này không còn dám khinh thị chút nào.",
+      "approved": true,
+      "chinese": {
+        "raw": "再结合之前从一个披毛兽奴成为记名弟子的种种离奇经历，令她对眼前这个少年，不敢再有丝毫轻视。",
+        "text": "Kết hợp với trước đó từ một cái Phi Mao thú nô trở thành ký danh đệ tử đích đủ loại ly kỳ kinh lịch, làm nàng vừa mắt trước thiếu niên này, không còn dám có chút hào khinh thị .",
+        "index": 24
+      }
     },
     {
       "convert": "\"Không nghĩ tới ngươi thật có thể thành công.\"",
       "dich": "\"Không ngờ ngươi thực sự có thể thành công.\"",
-      "suggest": "\"Không ngờ ngươi lại thành công.\""
+      "suggest": "\"Không ngờ ngươi lại thành công.\"",
+      "approved": true
     },
     {
       "convert": "Trần Uyển nhịn không được mở miệng, cảm khái một tiếng nói.",
       "dich": "Trần Uyển nhịn không được lên tiếng cảm thán.",
-      "suggest": "Trần Uyển không nhịn được mở miệng, cảm khái nói."
+      "suggest": "Trần Uyển không nhịn được mở miệng, cảm khái nói. \"",
+      "approved": true
     },
     {
-      "convert": "\"",
+      "convert": "\"Vận khí tốt mà thôi, có đôi khi vận khí, cũng là một loại thực lực.\"",
       "dich": "\"May mắn mà thôi, có đôi khi, may mắn cũng là một loại thực lực.\"",
-      "suggest": "\""
-    },
-    {
-      "convert": "vận khí tốt mà thôi, có đôi khi vận khí, cũng là một loại thực lực.\"",
-      "dich": "Viên Minh ôm Hỏa Sàm Nhi trong ngực, cười hắc hắc nói.",
-      "suggest": "Vận khí tốt thì tốt, có đôi khi vận khí cũng là một loại thực lực.\""
+      "suggest": "Vận khí tốt thì tốt, có đôi khi vận khí cũng là một loại thực lực.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh ôm trong ngực Hỏa Sàm Nhi, cười hắc hắc nói.",
-      "dich": "\"Xem ngươi đắc ý kìa!",
-      "suggest": "Viên Minh ôm Hỏa Sàm Nhi trong ngực, cười ha hả nói."
+      "dich": "Viên Minh ôm Hỏa Sàm Nhi trong ngực, cười hắc hắc nói.",
+      "suggest": "Viên Minh ôm Hỏa Sàm Nhi trong ngực, cười ha hả nói.",
+      "approved": true
     },
     {
       "convert": "\"Nhìn đem ngươi đắc ý!",
-      "dich": "Chăm sóc tốt Hỏa Sàm Nhi sẽ rất có lợi cho ngươi sau này, tuyệt đối đừng làm hư chuyện.\"",
-      "suggest": "\"Nhìn xem ngươi đắc ý!"
+      "dich": "\"Xem ngươi đắc ý kìa!",
+      "suggest": "\"Nhìn xem ngươi đắc ý!",
+      "approved": true
     },
     {
       "convert": "Chiếu cố tốt Hỏa Sàm Nhi, đối ngươi thời gian tới chỗ tốt lớn lao, tuyệt đối đừng làm hư.\"",
-      "dich": "Trần Uyển trợn trừng mắt nhìn Viên Minh, tức giận nhắc nhở.",
-      "suggest": "Chiếu cố Hỏa Sàm Nhi, đối với thời gian của ngươi rất tốt, tuyệt đối đừng làm hư.\""
+      "dich": "Chăm sóc tốt Hỏa Sàm Nhi sẽ rất có lợi cho ngươi sau này, tuyệt đối đừng làm hư chuyện.\"",
+      "suggest": "Chiếu cố Hỏa Sàm Nhi, đối với thời gian của ngươi rất tốt, tuyệt đối đừng làm hư.\"",
+      "approved": true
     },
     {
       "convert": "Trần Uyển lật ra Viên Minh một cái bạch nhãn, tức giận nhắc nhở.",
-      "dich": "Viên Minh nghe vậy liền nhìn sang phía nàng, gật đầu cười, đối phương nhắc nhở làm trong lòng hắn có chút ấm áp.",
-      "suggest": "Trần Uyển lấy ra một cái nhãn, tức giận nhắc nhở."
+      "dich": "Trần Uyển trợn trừng mắt nhìn Viên Minh, tức giận nhắc nhở.",
+      "suggest": "Trần Uyển lấy ra một cái nhãn, tức giận nhắc nhở.",
+      "approved": true
     },
     {
       "convert": "Viên Minh nghe vậy, nhìn nàng một cái, gật đầu cười, đối phương nhắc nhở để hắn trong lòng có một chút ấm áp.",
-      "dich": "Sau khi hai người tách ra, Viên Minh một thân một mình bước đi trên con đường về.",
-      "suggest": "Viên Minh nghe vậy, liếc mắt nhìn nàng một cái, gật đầu cười, đối phương nhắc nhở làm cho trong lòng hắn có một chút ấm áp."
+      "dich": "Viên Minh nghe vậy liền nhìn sang phía nàng, gật đầu cười, đối phương nhắc nhở làm trong lòng hắn có chút ấm áp.",
+      "suggest": "Viên Minh nghe vậy, liếc mắt nhìn nàng một cái, gật đầu cười, đối phương nhắc nhở làm cho trong lòng hắn có một chút ấm áp.",
+      "approved": true
     },
     {
       "convert": "Hai người chia ra về sau, Viên Minh một thân một mình đi ở con đường về bên trên, đưa tay vỗ túi trữ vật, liền đem bản thân Thanh Ngư Kiếm cùng da thú mấy người những vật khác, cũng tất cả đều thu nhập trong đó.",
-      "dich": "Hắn đưa tay vỗ túi trữ vật, thu Thanh Ngư Kiếm, da thú và tất cả những thứ khác vào trong đó.",
-      "suggest": "Sau khi hai người chia nhau ra, Viên Minh một thân một mình đi trên con đường về, đưa tay vỗ túi trữ vật, sau đó hắn lấy tất cả Thanh Ngư Kiếm và da thú của mấy người ra, thu hết tất cả những thứ đó vào trong túi."
+      "dich": "Sau khi hai người tách ra, Viên Minh một thân một mình bước đi trên con đường về. Hắn đưa tay vỗ túi trữ vật, thu Thanh Ngư Kiếm, da thú và tất cả những thứ khác vào trong đó.",
+      "suggest": "Sau khi hai người chia nhau ra, Viên Minh một thân một mình đi trên con đường về, đưa tay vỗ túi trữ vật, sau đó hắn lấy tất cả Thanh Ngư Kiếm và da thú của mấy người ra, thu hết tất cả những thứ đó vào trong túi.",
+      "approved": true
     },
     {
       "convert": "\"Thứ này, thật đúng là dùng tốt a, lúc nào ta có thể có được chính mình túi trữ vật nha?\"",
       "dich": "\"Thứ này đúng là tiện dụng, bao giờ ta mới có thể có một túi trữ vật của mình nhỉ?\"",
-      "suggest": "\"Thứ này đúng là rất tốt, từ lúc nào ta mới có thể có được túi trữ vật của riêng mình?\""
+      "suggest": "\"Thứ này đúng là rất tốt, từ lúc nào ta mới có thể có được túi trữ vật của riêng mình?\"",
+      "approved": true
     },
     {
       "convert": "Không có gì một thân nhẹ Viên Minh, nhịn không được tán thán nói.",
       "dich": "Viên Minh thân hình nhẹ như không có gì, nhịn không được tán thưởng.",
-      "suggest": "Viên Minh một thân nhẹ nhàng, không nhịn được tán thán."
+      "suggest": "Viên Minh một thân nhẹ nhàng, không nhịn được tán thán.",
+      "approved": true
     },
     {
       "convert": "Trở lại chỗ ở, Viên Minh vừa đẩy cửa ra, Hỏa Chồn 'Vèo' địa một lần, chui vào phòng.",
       "dich": "Sau khi trở lại chỗ ở, Viên Minh vừa mới đẩy cửa ra, con chồn lửa đã \"viu\" một tiếng, vọt vào trong phòng.",
-      "suggest": "Trở lại chỗ ở, Viên Minh vừa đẩy cửa, Hỏa Chồn 'vèo' một cái, chui vào phòng."
+      "suggest": "Trở lại chỗ ở, Viên Minh vừa đẩy cửa, Hỏa Chồn 'vèo' một cái, chui vào phòng.",
+      "approved": true
     },
     {
       "convert": "Nó đối cái này mới hoàn cảnh tràn ngập tò mò, trên nhảy dưới tránh địa trong phòng tốt một phen giày vò về sau, nhảy lên Viên Minh giường, ủi cái đầu chui vào hắn trong đệm chăn.",
       "dich": "Nó với hoàn cảnh mới này vô cùng tò mò, sau khi nhảy trên trốn dưới lăn lộn trong phòng một hồi, liền nhảy lên giường Viên Minh, dũi đầu tiến vào trong chăn nệm của hắn.",
-      "suggest": "Nó đối với hoàn cảnh mới này tràn ngập sự tò mò, sau khi nhảy qua nhảy lại trong phòng một phen, nhảy lên giường Viên Minh, đắp chăn đắp đầu vào trong chăn."
+      "suggest": "Nó đối với hoàn cảnh mới này tràn ngập sự tò mò, sau khi nhảy qua nhảy lại trong phòng một phen, nhảy lên giường Viên Minh, đắp chăn đắp đầu vào trong chăn.",
+      "approved": true
     },
     {
       "convert": "Viên Minh thấy thế, cười cười, không có làm để ý tới.",
       "dich": "Viên Minh thấy thế chỉ cười cười rồi để mặc nó.",
-      "suggest": "Viên Minh thấy thế, cười cười, không thèm để ý."
+      "suggest": "Viên Minh thấy thế, cười cười, không thèm để ý.",
+      "approved": true
     },
     {
       "convert": "Đóng kỹ cửa phòng về sau, hắn liền tới đến giường một bên, khoanh chân ngồi lên, Hỏa Chồn rất nhanh một lần nữa chui ra, lại một lần bò lên trên bờ vai của hắn.",
-      "dich": "Sau khi đóng kỹ cửa phòng, hắn liền tới cạnh giường, khoanh chân ngồi lên.",
-      "suggest": "Sau khi đóng cửa phòng lại, hắn liền tới bên giường, khoanh chân ngồi xuống, con Hỏa Dạ rất nhanh đã chui ra, lần nữa bò lên bờ vai hắn."
+      "dich": "Sau khi đóng kỹ cửa phòng, hắn liền tới cạnh giường, khoanh chân ngồi lên. Chồn lửa rất nhanh lại chui ra rồi lần nữa bò lên trên đầu vai hắn.",
+      "suggest": "Sau khi đóng cửa phòng lại, hắn liền tới bên giường, khoanh chân ngồi xuống, con Hỏa Dạ rất nhanh đã chui ra, lần nữa bò lên bờ vai hắn.",
+      "approved": true
     },
     {
       "convert": "\"Ta muốn bắt đầu tu luyện, ngươi đừng quấy rối.\"",
-      "dich": "Chồn lửa rất nhanh lại chui ra rồi lần nữa bò lên trên đầu vai hắn.",
-      "suggest": "\"Ta muốn bắt đầu tu luyện, ngươi đừng quấy rầy.\""
+      "dich": "\"Ta sắp bắt đầu tu luyện, ngươi đừng quấy rối.\"",
+      "suggest": "\"Ta muốn bắt đầu tu luyện, ngươi đừng quấy rầy.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh cũng mặc kệ nó có nghe hay không hiểu, dặn dò.",
-      "dich": "\"Ta sắp bắt đầu tu luyện, ngươi đừng quấy rối.\"Viên Minh cũng mặc kệ nó có nghe hiểu hay không, dặn dò một câu, có điều kết quả Hỏa Sàm Nhi lại chẳng thèm để ý, vẫn tự tung tự tác như trước, liên tục nhảy nhót trên người Viên Minh.",
-      "suggest": "Viên Minh cũng mặc kệ nó có nghe không hiểu, dặn dò."
+      "dich": "Viên Minh cũng mặc kệ nó có nghe hiểu hay không, dặn dò một câu.",
+      "suggest": "Viên Minh cũng mặc kệ nó có nghe không hiểu, dặn dò.",
+      "approved": true
     },
     {
       "convert": "Hỏa Sàm Nhi đâu thèm cái này, vẫn như cũ làm theo ý mình, ở trên người hắn bên trên nhảy xuống vọt",
-      "dich": "Mãi đến khi Viên Minh giơ túi linh thú trong tay lên, tiểu gia hỏa kia mới chịu nhảy khỏi người hắn, nhảy lên trên mặt bàn.",
-      "suggest": "Hỏa Sàm Nhi đâu thèm để ý đến chuyện đó, vẫn làm theo ý mình, nhảy từ trên người hắn xuống"
+      "dich": "Có điều Hỏa Sàm Nhi lại chẳng thèm để ý, vẫn tự tung tự tác như trước, liên tục nhảy nhót trên người hắn.",
+      "suggest": "Hỏa Sàm Nhi đâu thèm để ý đến chuyện đó, vẫn làm theo ý mình, nhảy từ trên người hắn xuống",
+      "approved": true
     },
     {
       "convert": "Thẳng đến Viên Minh giương lên trong tay Linh Thú Đại, tiểu gia hỏa kia mới từ trên người hắn nhảy xuống tới, nhảy lên đến trên mặt bàn.",
-      "dich": "Viên Minh thấy thế, tạm không quan tâm đến nó, bắt đầu đả tọa tu luyện Cửu Nguyên Quyết.",
-      "suggest": "Đến khi Viên Minh giơ cao Linh Thú Đại trong tay lên, tiểu gia hỏa kia mới nhảy từ trên người hắn xuống, nhảy lên mặt bàn."
+      "dich": "Mãi đến khi Viên Minh giơ túi linh thú trong tay lên, tiểu gia hỏa kia mới chịu nhảy khỏi người hắn, nhảy lên trên mặt bàn.",
+      "suggest": "Đến khi Viên Minh giơ cao Linh Thú Đại trong tay lên, tiểu gia hỏa kia mới nhảy từ trên người hắn xuống, nhảy lên mặt bàn.",
+      "approved": true
     },
     {
       "convert": "Viên Minh thấy thế, tạm thời không quan tâm đến nó, bắt đầu ngồi xuống tu luyện khởi Cửu Nguyên Quyết tới.",
-      "dich": "Hắn mới nhắm mắt chưa được bao lâu, một tràng âm thanh lộn xộn liền vang lên.",
-      "suggest": "Viên Minh thấy thế, tạm thời không quan tâm nó nữa, bắt đầu ngồi xuống tu luyện Cửu Nguyên Quyết."
+      "dich": "Viên Minh thấy thế, tạm không quan tâm đến nó, bắt đầu đả tọa tu luyện Cửu Nguyên Quyết.",
+      "suggest": "Viên Minh thấy thế, tạm thời không quan tâm nó nữa, bắt đầu ngồi xuống tu luyện Cửu Nguyên Quyết.",
+      "approved": true
     },
     {
       "convert": "Hắn mới nhắm mắt không bao lâu, một hồi lộn xộn thanh âm liền vang lên.",
-      "dich": "Viên Minh mở mắt nhìn lại, chỉ thấy đồ đạc trên bàn đã rơi vãi tứ tung trên đất, còn Hỏa Sàm Nhi thì đang nằm rạp trên mặt đất gảy một cái chén uống trà lăn qua lăn lại.",
-      "suggest": "Hắn mới nhắm mắt được bao lâu, một hồi những tiếng lộn xộn vang lên."
+      "dich": "Hắn mới nhắm mắt chưa được bao lâu, một tràng âm thanh lộn xộn liền vang lên.",
+      "suggest": "Hắn mới nhắm mắt được bao lâu, một hồi những tiếng lộn xộn vang lên.",
+      "approved": true
     },
     {
       "convert": "Viên Minh mở mắt ra nhìn lại, đồ trên bàn đã thất linh bát lạc địa rơi mất một chỗ, Hỏa Sàm Nhi chính nằm rạp trên mặt đất khuấy động lấy một cái lăn động chén trà.",
-      "dich": "Bất đắc dĩ, hắn chỉ có thể từ bỏ tu luyện, lấy 'Minh Nguyệt Quyết' ra lật xem.",
-      "suggest": "Viên Minh mở mắt ra nhìn lại, thấy đồ vật trên bàn đã thất linh bát lạc, Hỏa Sàm Nhi đang nằm rạp trên mặt đất khuấy động chén trà."
+      "dich": "Viên Minh mở mắt nhìn lại, chỉ thấy đồ đạc trên bàn đã rơi vãi tứ tung trên đất, còn Hỏa Sàm Nhi thì đang nằm rạp trên mặt đất gảy một cái chén uống trà lăn qua lăn lại.",
+      "suggest": "Viên Minh mở mắt ra nhìn lại, thấy đồ vật trên bàn đã thất linh bát lạc, Hỏa Sàm Nhi đang nằm rạp trên mặt đất khuấy động chén trà.",
+      "approved": true
     },
     {
       "convert": "Hắn rơi vào đường cùng, chỉ có thể từ bỏ tu luyện, lấy ra « Minh Nguyệt Quyết », lật xem.",
-      "dich": "Kỳ thực nội dung công pháp hắn đều đã khắc ghi trong đầu, nhưng từ lâu tốc độ tu luyện thực sự chậm đến mới khó có thể chấp nhận, thỉnh thoảng lật sách, biết đâu có thể có cảm ngộ mới.",
-      "suggest": "Hắn rơi vào đường cùng, chỉ có thể từ bỏ tu luyện, lấy ra Minh Nguyệt Quyết, lật xem."
+      "dich": "Bất đắc dĩ, hắn chỉ có thể từ bỏ tu luyện, lấy 'Minh Nguyệt Quyết' ra lật xem.",
+      "suggest": "Hắn rơi vào đường cùng, chỉ có thể từ bỏ tu luyện, lấy ra Minh Nguyệt Quyết, lật xem.",
+      "approved": true
     },
     {
       "convert": "Kỳ thật công pháp nội dung hắn đều đã ghi tạc trong đầu, nhưng cho tới nay, tốc độ tu luyện thực tế chậm khó mà tiếp nhận, ngẫu nhiên lật qua sách, có lẽ có thể có chút cảm ngộ mới.",
-      "dich": "Đến buổi đêm, ánh trăng xuyên qua ô cửa sổ mở toang lọt vào trong phòng, Viên Minh lập tức đứng dậy, đi tới chỗ ánh trăng rơi xuống.",
-      "suggest": "Kỳ thật nội dung công pháp hắn đều ghi tạc trong đầu, nhưng cho tới bây giờ, tốc độ tu luyện thực tế chậm chạp khó có thể tiếp nhận, ngẫu nhiên lật qua sách, có lẽ sẽ có chút hiểu biết mới."
+      "dich": "Kỳ thực nội dung công pháp hắn đều đã khắc ghi trong đầu, nhưng từ lâu tốc độ tu luyện thực sự chậm đến mới khó có thể chấp nhận, thỉnh thoảng lật sách, biết đâu có thể có cảm ngộ mới.",
+      "suggest": "Kỳ thật nội dung công pháp hắn đều ghi tạc trong đầu, nhưng cho tới bây giờ, tốc độ tu luyện thực tế chậm chạp khó có thể tiếp nhận, ngẫu nhiên lật qua sách, có lẽ sẽ có chút hiểu biết mới.",
+      "approved": true
     },
     {
       "convert": "Đến trong đêm, ánh trăng theo mở ra cửa sổ để lọt vào nhà bên trong, Viên Minh lúc này đứng dậy, hướng phía ánh trăng rơi xuống địa phương đi đến.",
-      "dich": "Lăn lộn cả buổi chiều, Hỏa Sàm Nhi vốn đã hơi mệt, nhưng thấy thế lại tưởng Viên Minh sắp ra ngoài nên lập tức đứng dậy đi theo, nhưng ngay sau đó lại thấy Viên Minh đặt mông ngồi xuống dưới đất.",
-      "suggest": "Đến giữa đêm, ánh trăng từ cửa sổ mở ra để lọt vào trong nhà, Viên Minh đứng dậy, đi về phía điểm ánh trăng hạ xuống."
+      "dich": "Đến buổi đêm, ánh trăng xuyên qua ô cửa sổ mở toang lọt vào trong phòng, Viên Minh lập tức đứng dậy, đi tới chỗ ánh trăng rơi xuống.",
+      "suggest": "Đến giữa đêm, ánh trăng từ cửa sổ mở ra để lọt vào trong nhà, Viên Minh đứng dậy, đi về phía điểm ánh trăng hạ xuống.",
+      "approved": true
     },
     {
       "convert": "Giày vò đến trưa, đã có chút mỏi mệt Hỏa Sàm Nhi thấy thế, coi là Viên Minh muốn ra cửa, lúc này bò lên, đi theo, kết quả là nhìn thấy Viên Minh lại đặt mông ngồi trên mặt đất.",
-      "dich": "Nó bỗng có cảm giác như bị lừa, tức giận leo lên vai Viên Minh rồi lại bắt đầu lăn lộn nhảy nhót.",
-      "suggest": "Sau khi vận động tới tận trưa, đã thấy Viên Minh muốn ra ngoài, liền bò dậy, đi theo, kết quả là thấy Viên Minh đang đặt mông ngồi trên mặt đất."
+      "dich": "Lăn lộn cả buổi chiều, Hỏa Sàm Nhi vốn đã hơi mệt, nhưng thấy thế lại tưởng Viên Minh sắp ra ngoài nên lập tức đứng dậy đi theo, nhưng ngay sau đó lại thấy Viên Minh đặt mông ngồi xuống dưới đất.",
+      "suggest": "Sau khi vận động tới tận trưa, đã thấy Viên Minh muốn ra ngoài, liền bò dậy, đi theo, kết quả là thấy Viên Minh đang đặt mông ngồi trên mặt đất.",
+      "approved": true
     },
     {
       "convert": "Nó lập tức có loại cảm giác bị lường gạt, tức giận bò lên trên Viên Minh đầu vai, lại giày vò.",
-      "dich": "Viên Minh đã dần dần quen nên cũng mặc kệ nó, lập tức đưa một tay chỉ lên trời, một tay hướng xuống đất, bóp xong pháp quyết, bắt đầu tu luyện Minh Nguyệt Quyết.",
-      "suggest": "Nó lập tức có cảm giác bị lường gạt, tức giận bò lên vai Viên Minh, tiếp tục hành hạ."
+      "dich": "Nó bỗng có cảm giác như bị lừa, tức giận leo lên vai Viên Minh rồi lại bắt đầu lăn lộn nhảy nhót.",
+      "suggest": "Nó lập tức có cảm giác bị lường gạt, tức giận bò lên vai Viên Minh, tiếp tục hành hạ.",
+      "approved": true
     },
     {
       "convert": "Viên Minh dần dần đã thành thói quen, cũng không để ý tới, lúc này một tay chỉ thiên, một tay hướng địa, bóp tốt pháp quyết, bắt đầu tu luyện khởi Minh Nguyệt Quyết tới.",
-      "dich": "Ánh trăng trong vắt bao phủ trên người hắn, tỏa ra ánh sáng mông lung mờ ảo.",
-      "suggest": "Viên Minh dần dần thành thói quen, cũng không thèm để ý, lúc này một tay chỉ thiên, một tay hướng địa, bấm pháp quyết, bắt đầu tu luyện Minh Nguyệt Quyết."
+      "dich": "Viên Minh đã dần dần quen nên cũng mặc kệ nó, lập tức đưa một tay chỉ lên trời, một tay hướng xuống đất, bóp xong pháp quyết, bắt đầu tu luyện Minh Nguyệt Quyết.",
+      "suggest": "Viên Minh dần dần thành thói quen, cũng không thèm để ý, lúc này một tay chỉ thiên, một tay hướng địa, bấm pháp quyết, bắt đầu tu luyện Minh Nguyệt Quyết.",
+      "approved": true
     },
     {
       "convert": "Ánh trăng trong sáng bao phủ ở trên người hắn, tản mát ra ánh sáng mông lung trạch.",
-      "dich": "Hỏa Sàm Nhi vốn đang nghịch ngợm chợt khẽ giật mình, giống như bị đứng hình, nhưng ngay sau đó, nó không hiểu sao cảm nhận được hồi cảm giác thoải mái dễ chịu, từ bả vai Viên Minh tuột xuống rồi an tĩnh nằm sấp trên đùi hắn.",
-      "suggest": "Ánh trăng trong veo bao phủ trên người hắn, soi rõ từng căn phòng."
+      "dich": "Ánh trăng trong vắt bao phủ trên người hắn, tỏa ra ánh sáng mông lung mờ ảo.",
+      "suggest": "Ánh trăng trong veo bao phủ trên người hắn, soi rõ từng căn phòng.",
+      "approved": true
     },
     {
       "convert": "Nguyên bản xao động Hỏa Sàm Nhi bỗng nhiên khẽ giật mình, giống như là bị định trụ, nhưng ngay sau đó, nó liền không hiểu cảm thấy một hồi thoải mái dễ chịu, từ Viên Minh bả vai tuột xuống, ở trên đùi của hắn an tĩnh nằm sấp xuống dưới.",
-      "dich": "Trên cây tùng già ngoài cửa số, thân ảnh mèo bạc ẩn trong bóng tối, trong hai con mắt khác màu lờ mờ thấy ánh sáng lưu chuyển.",
-      "suggest": "Hỏa Sàm Nhi vốn đang bị ép chặt lại bỗng nhiên khẽ giật mình, tựa như bị ép chặt, nhưng ngay sau đó, nó liền cảm thấy thoải mái dễ chịu, từ bả vai Viên Minh tuột xuống, nằm yên tĩnh trên đùi hắn."
+      "dich": "Hỏa Sàm Nhi vốn đang nghịch ngợm chợt khẽ giật mình, giống như bị đứng hình, nhưng ngay sau đó, nó không hiểu sao cảm nhận được hồi cảm giác thoải mái dễ chịu, từ bả vai Viên Minh tuột xuống rồi an tĩnh nằm sấp trên đùi hắn.",
+      "suggest": "Hỏa Sàm Nhi vốn đang bị ép chặt lại bỗng nhiên khẽ giật mình, tựa như bị ép chặt, nhưng ngay sau đó, nó liền cảm thấy thoải mái dễ chịu, từ bả vai Viên Minh tuột xuống, nằm yên tĩnh trên đùi hắn.",
+      "approved": true
     },
     {
       "convert": "Ngoài cửa sổ cây tùng già trên cây, ngân miêu thân ảnh giấu ở trong bóng tối, dị sắc trong hai con ngươi ẩn ẩn có quang mang lưu chuyển.",
-      "dich": "Hỏa Sàm Nhi vừa mới thoải mái nằm sấp, nhắm mắt lại chưa kịp hưởng thụ một phen, thân thể bỗng lăng không bay lên, giống như bị một lực lượng vô hình nâng lên, đẩy nó lướt ngang qua một bên rồi thả rơi xuống.",
-      "suggest": "Trên cây tùng già ngoài cửa sổ, bóng người ngân miêu giấu mình trong bóng tối, hai con ngươi dị sắc trong hai con ngươi ẩn hiện ánh sáng xanh."
+      "dich": "Trên cây tùng già ngoài cửa số, thân ảnh mèo bạc ẩn trong bóng tối, trong hai con mắt khác màu lờ mờ thấy ánh sáng lưu chuyển.",
+      "suggest": "Trên cây tùng già ngoài cửa sổ, bóng người ngân miêu giấu mình trong bóng tối, hai con ngươi dị sắc trong hai con ngươi ẩn hiện ánh sáng xanh.",
+      "approved": true
     },
     {
       "convert": "Hỏa Sàm Nhi vừa mới nằm sấp địa an dật, nhắm mắt lại còn không có hưởng thụ một hồi, thân thể liền bỗng nhiên lăng không phiêu khởi, giống như là bị một cỗ nhìn không thấy lực lượng nâng lên, cho lướt ngang qua một bên ném đi xuống dưới.",
-      "dich": "Tiểu gia hỏa bị quẳng một cái giật nảy mình, đứng phắt người lên, dướn cố nhìn quanh xem xét một vòng, nhưng cũng không phát hiện ra có gì dị thường, chỉ có thể lắc dao đầu hoảng não lại leo lên trên đùi Viên Minh.",
-      "suggest": "Hỏa Sàm Nhi vừa nằm sấp trên mặt đất, nhắm mắt lại chưa được một hồi, thân thể bỗng nhiên lăng không phiêu đãng, giống như bị một luồng lực lượng nhìn không thấy nhấc bổng lên, ném qua một bên ném xuống dưới."
+      "dich": "Hỏa Sàm Nhi vừa mới thoải mái nằm sấp, nhắm mắt lại chưa kịp hưởng thụ một phen, thân thể bỗng lăng không bay lên, giống như bị một lực lượng vô hình nâng lên, đẩy nó lướt ngang qua một bên rồi thả rơi xuống.",
+      "suggest": "Hỏa Sàm Nhi vừa nằm sấp trên mặt đất, nhắm mắt lại chưa được một hồi, thân thể bỗng nhiên lăng không phiêu đãng, giống như bị một luồng lực lượng nhìn không thấy nhấc bổng lên, ném qua một bên ném xuống dưới.",
+      "approved": true
     },
     {
       "convert": "Tiểu gia hỏa cho ngã một cái giật mình, đột nhiên đứng lên, duỗi cổ nhìn chung quanh địa tra xét một vòng, nhưng cũng không có phát hiện có cái gì dị thường, chỉ có thể gật gù đắc ý địa lại leo lên Viên Minh đùi.",
-      "dich": "Nhưng nó vừa nằm xuống, thân thể lại lần lăng không lướt ngang, lại bị ném xuống đất.",
-      "suggest": "Tiểu gia hỏa bị vấp phải một cái, đột nhiên đứng lên, đưa đầu nhìn ngó xung quanh một vòng, nhưng cũng không phát hiện ra điều gì dị thường, chỉ có thể gật gù đắc ý leo lên đùi Viên Minh."
+      "dich": "Tiểu gia hỏa bị quẳng một cái giật nảy mình, đứng phắt người lên, dướn cố nhìn quanh xem xét một vòng, nhưng cũng không phát hiện ra có gì dị thường, chỉ có thể lắc dao đầu hoảng não lại leo lên trên đùi Viên Minh.",
+      "suggest": "Tiểu gia hỏa bị vấp phải một cái, đột nhiên đứng lên, đưa đầu nhìn ngó xung quanh một vòng, nhưng cũng không phát hiện ra điều gì dị thường, chỉ có thể gật gù đắc ý leo lên đùi Viên Minh.",
+      "approved": true
     },
     {
       "convert": "Có thể nó vừa mới nằm xuống, thân thể lại lần nữa lăng không lướt ngang, lại cho ném xuống đất.",
-      "dich": "Hỏa Sàm Nhi tức thì hơi hoảng, đi tìm quanh người Viên Minh một vòng nhưng vẫn không rõ là chuyện gì xảy ra, chỉ có thể trợn tròn mắt nhìn về phía Viên Minh.",
-      "suggest": "Nhưng nó vừa mới nằm xuống, thân thể lại lần nữa lướt ngang, ném bịch bịch xuống đất."
+      "dich": "Nhưng nó vừa nằm xuống, thân thể lại lần lăng không lướt ngang, lại bị ném xuống đất.",
+      "suggest": "Nhưng nó vừa mới nằm xuống, thân thể lại lần nữa lướt ngang, ném bịch bịch xuống đất.",
+      "approved": true
     },
     {
       "convert": "Hỏa Sàm Nhi lập tức có chút gấp, vòng quanh Viên Minh tìm một vòng, cũng không có hiểu rõ là chuyện gì xảy ra, chỉ có thể trừng mắt tròn căng tròng mắt nhìn về phía Viên Minh.",
-      "dich": "Viên Minh hai mắt khép hờ, thần sắc tự nhiên, không hề có điểm khác thường nào.",
-      "suggest": "Hỏa Sàm Nhi lập tức có chút gấp gáp, chạy vòng quanh Viên Minh một vòng, cũng không hiểu chuyện gì xảy ra, chỉ có thể trợn tròn mắt nhìn Viên Minh."
+      "dich": "Hỏa Sàm Nhi tức thì hơi hoảng, đi tìm quanh người Viên Minh một vòng nhưng vẫn không rõ là chuyện gì xảy ra, chỉ có thể trợn tròn mắt nhìn về phía Viên Minh.",
+      "suggest": "Hỏa Sàm Nhi lập tức có chút gấp gáp, chạy vòng quanh Viên Minh một vòng, cũng không hiểu chuyện gì xảy ra, chỉ có thể trợn tròn mắt nhìn Viên Minh.",
+      "approved": true
     },
     {
       "convert": "Viên Minh hai mắt khép hờ, thần sắc tự nhiên, cũng không bất cứ dị thường nào.",
-      "dich": "Hỏa Sàm Nhi dao đầu hoảng não lần nữa trèo lên đùi Viên Minh, nhưng lần này nó không nhắm mắt, trái lại trừng tròng mắt quan sát trái phải hai bên, muốn tìm xem là kẻ nào đang giở trò quỷ.",
-      "suggest": "Viên Minh nhắm hai mắt lại, thần sắc tự nhiên, không có gì khác thường."
+      "dich": "Viên Minh hai mắt khép hờ, thần sắc tự nhiên, không hề có điểm khác thường nào.",
+      "suggest": "Viên Minh nhắm hai mắt lại, thần sắc tự nhiên, không có gì khác thường.",
+      "approved": true
     },
     {
       "convert": "Hỏa Sàm Nhi gật gù đắc ý địa lần nữa bò lên trên Viên Minh đùi, lần này không có nhắm mắt, trừng tròng mắt tả hữu tuần sát, muốn tìm được là ai đang làm trò quỷ.",
-      "dich": "Kết quả là chớp mắt sau đó, nó liền trơ mắt nhìn mình lăng không bay lên rồi lại bị ném xuống đất.",
-      "suggest": "Hỏa Sàm Nhi gật gù đắc ý lần nữa bò lên đùi Viên Minh, lần này không nhắm mắt mà mở trừng hai mắt, muốn tìm xem ai đang giở trò quỷ."
+      "dich": "Hỏa Sàm Nhi dao đầu hoảng não lần nữa trèo lên đùi Viên Minh, nhưng lần này nó không nhắm mắt, trái lại trừng tròng mắt quan sát trái phải hai bên, muốn tìm xem là kẻ nào đang giở trò quỷ.",
+      "suggest": "Hỏa Sàm Nhi gật gù đắc ý lần nữa bò lên đùi Viên Minh, lần này không nhắm mắt mà mở trừng hai mắt, muốn tìm xem ai đang giở trò quỷ.",
+      "approved": true
     },
     {
       "convert": "Kết quả tiếp theo một cái chớp mắt, nó liền trơ mắt nhìn xem bản thân trống rỗng phiêu khởi, ném xuống đất.",
-      "dich": "Trong đôi mắt nhỏ của Hỏa Sàm Nhi tràn ngập vẻ hoảng sợ, chỉ có điều miệng nó không thể nói, nếu không giờ phút này e rằng đã la toáng lên: \"Có quỷ!\".",
-      "suggest": "Chỉ chớp mắt tiếp theo, nó liền trơ mắt nhìn bản thân phiêu phù, rơi bịch xuống đất."
+      "dich": "Kết quả là chớp mắt sau đó, nó liền trơ mắt nhìn mình lăng không bay lên rồi lại bị ném xuống đất.",
+      "suggest": "Chỉ chớp mắt tiếp theo, nó liền trơ mắt nhìn bản thân phiêu phù, rơi bịch xuống đất.",
+      "approved": true
     },
     {
       "convert": "Hỏa Sàm Nhi một đôi trong mắt nhỏ tràn đầy hoảng sợ, nó cũng chính là miệng không thể nói, nếu không lúc này chỉ sợ đã kêu la \"Như thấy quỷ\".",
-      "dich": "Viên Minh bị động tĩnh làm bừng tỉnh, dừng việc tu luyện lại.",
-      "suggest": "Đôi mắt nhỏ Hỏa Sàm Nhi tràn ngập vẻ hoảng sợ, nhưng miệng nó không thể nói được, nếu không lúc này chỉ sợ đã kêu lên 'Như thấy quỷ'."
+      "dich": "Trong đôi mắt nhỏ của Hỏa Sàm Nhi tràn ngập vẻ hoảng sợ, chỉ có điều miệng nó không thể nói, nếu không giờ phút này e rằng đã la toáng lên: \"Có quỷ!\".",
+      "suggest": "Đôi mắt nhỏ Hỏa Sàm Nhi tràn ngập vẻ hoảng sợ, nhưng miệng nó không thể nói được, nếu không lúc này chỉ sợ đã kêu lên 'Như thấy quỷ'.",
+      "approved": true
     },
     {
       "convert": "Viên Minh cũng bị động tĩnh này bừng tỉnh, ngừng tu luyện.",
-      "dich": "Hắn nhíu mày trầm ngâm một lát, xong mở miệng thử hỏi dò: \"Ngươi ở gần đây phải không?\"",
-      "suggest": "Viên Minh cũng bị động tĩnh này làm cho bừng tỉnh, ngừng tu luyện."
+      "dich": "Viên Minh bị động tĩnh làm bừng tỉnh, dừng việc tu luyện lại.",
+      "suggest": "Viên Minh cũng bị động tĩnh này làm cho bừng tỉnh, ngừng tu luyện.",
+      "approved": true
     },
     {
       "convert": "Hắn nhíu mày trầm ngâm một lát, thử thăm dò mở miệng hỏi: \"Là ngươi ở phụ cận a?\"",
-      "dich": "Mấy ngày nay, hắn thực ra cũng lờ mờ có chút cảm ứng, cảm thấy con mèo bạc kia hình như ở ngay cạnh hắn, nhưng mai không chịu chân chính xuất hiện trước mặt hắn.",
-      "suggest": "Hắn nhíu mày trầm ngâm một lát, thử dò hỏi một câu: \"Là ngươi ở gần đó?\""
+      "dich": "Hắn nhíu mày trầm ngâm một lát, xong mở miệng thử hỏi dò: \"Ngươi ở gần đây phải không?\"",
+      "suggest": "Hắn nhíu mày trầm ngâm một lát, thử dò hỏi một câu: \"Là ngươi ở gần đó?\"",
+      "approved": true
     },
     {
       "convert": "Những ngày qua đến nay, hắn kỳ thật ẩn ẩn có chút cảm ứng, cảm thấy con kia ngân miêu tựa hồ ngay tại hắn phụ cận, nhưng một mực chưa ở trước mặt hắn chân chính hiện thân.",
-      "dich": "Đợi hồi lâu mà không thấy ai đáp lại, Viên Minh lại nói thêm: \"Ta có một chuyện muốn hỏi, có thể gặp một lần không?\"",
-      "suggest": "Mấy ngày qua, hắn kỳ thật có chút cảm ứng, cảm thấy con mèo bạc kia dường như ở gần hắn, nhưng nó chưa bao giờ xuất hiện trước mặt hắn."
+      "dich": "Mấy ngày nay, hắn thực ra cũng lờ mờ có chút cảm ứng, cảm thấy con mèo bạc kia hình như ở ngay cạnh hắn, nhưng mai không chịu chân chính xuất hiện trước mặt hắn.",
+      "suggest": "Mấy ngày qua, hắn kỳ thật có chút cảm ứng, cảm thấy con mèo bạc kia dường như ở gần hắn, nhưng nó chưa bao giờ xuất hiện trước mặt hắn.",
+      "approved": true
     },
     {
       "convert": "Đợi đã lâu, thấy không có người trả lời, Viên Minh lại nói ra: \"Ta có một chuyện hỏi, có thể hay không gặp một lần?\"",
-      "dich": "Bốn bề im lắng, chỉ có tiếng côn trùng kêu rả rích từ bên ngoài cửa sổ truyền vào.",
-      "suggest": "Đợi một lúc lâu, thấy không có ai trả lời, Viên Minh lại nói: \"Ta có một chuyện muốn hỏi, có thể gặp một lần không?\""
+      "dich": "Đợi hồi lâu mà không thấy ai đáp lại, Viên Minh lại nói thêm: \"Ta có một chuyện muốn hỏi, có thể gặp một lần không?\"",
+      "suggest": "Đợi một lúc lâu, thấy không có ai trả lời, Viên Minh lại nói: \"Ta có một chuyện muốn hỏi, có thể gặp một lần không?\"",
+      "approved": true
     },
     {
       "convert": "Chung quanh yên tĩnh, chỉ có ngoài cửa sổ côn trùng tiếng kêu to truyền đến.",
-      "dich": "Viên Minh thấy cảnh này, trong lòng biết con mèo bạc thần bí kia sẽ không xuất hiện, chỉ có thể bất đắc dĩ lắc đầu, tiếp tục nhắm mắt tu luyện.",
-      "suggest": "Xung quanh yên tĩnh, chỉ có tiếng côn trùng kêu to từ ngoài cửa sổ vọng vào."
+      "dich": "Bốn bề im lắng, chỉ có tiếng côn trùng kêu rả rích từ bên ngoài cửa sổ truyền vào.",
+      "suggest": "Xung quanh yên tĩnh, chỉ có tiếng côn trùng kêu to từ ngoài cửa sổ vọng vào.",
+      "approved": true
     },
     {
       "convert": "Viên Minh gặp tình hình này, trong lòng biết con kia thần bí ngân miêu là sẽ không xuất hiện, chỉ có thể lắc đầu bất đắc dĩ, tiếp tục nhắm mắt tu luyện.",
-      "dich": "Hỏa Sàm Nhi nhìn trái phải mấy lần rồi mới cẩn thận từng li từng tí đi tới cạnh Viên Minh, lần này trái lại không tiếp tục treo lên chân hắn, mà dựa sát vào người hắn rồi nằm xuống, kế đó lại chẳng dám nhắm mắt đi ngủ.",
-      "suggest": "Viên Minh thấy thế, trong lòng biết con mèo thần bí kia sẽ không xuất hiện, chỉ có thể lắc đầu bất đắc dĩ, tiếp tục nhắm mắt tu luyện."
+      "dich": "Viên Minh thấy cảnh này, trong lòng biết con mèo bạc thần bí kia sẽ không xuất hiện, chỉ có thể bất đắc dĩ lắc đầu, tiếp tục nhắm mắt tu luyện.",
+      "suggest": "Viên Minh thấy thế, trong lòng biết con mèo thần bí kia sẽ không xuất hiện, chỉ có thể lắc đầu bất đắc dĩ, tiếp tục nhắm mắt tu luyện.",
+      "approved": true
     },
     {
       "convert": "Nhỏ Hỏa Chồn nhìn chung quanh vài lần, lại cẩn thận từng li từng tí đi vào Viên Minh bên cạnh, lần này ngược lại là không tiếp tục leo lên chân của hắn, mà là sít sao dựa vào hắn nằm xuống, lại không dám nhắm mắt đi ngủ.",
-      "dich": "Nhưng lần này đợi rất lâu mà không có lực lượng vô hình nào giày vò, nó mới từ từ khép mi mắt rồi thiếp đi.",
-      "suggest": "Hỏa Chồn nhìn quanh vài lần, xong lại cẩn thận từng li từng tí đi tới cạnh Viên Minh, lần này trái lại không tiếp tục leo lên chân hắn nữa, mà sít sao dựa vào hắn nằm xuống, không dám nhắm mắt đi ngủ."
+      "dich": "Hỏa Sàm Nhi nhìn trái phải mấy lần rồi mới cẩn thận từng li từng tí đi tới cạnh Viên Minh, lần này trái lại không tiếp tục treo lên chân hắn, mà dựa sát vào người hắn rồi nằm xuống, kế đó lại chẳng dám nhắm mắt đi ngủ.",
+      "suggest": "Hỏa Chồn nhìn quanh vài lần, xong lại cẩn thận từng li từng tí đi tới cạnh Viên Minh, lần này trái lại không tiếp tục leo lên chân hắn nữa, mà sít sao dựa vào hắn nằm xuống, không dám nhắm mắt đi ngủ.",
+      "approved": true
     },
     {
       "convert": "Lần này đợi đã lâu, đều không có lại có lực lượng vô hình giày vò, nó mới dần dần cúi mí mắt, từ từ thiếp đi.",
-      "dich": "Thời gian thoáng trôi, cuối cùng cuối tháng đã qua.",
-      "suggest": "Lần này đợi đã lâu, không có lực lượng vô hình nào tác động, nó mới từ từ cúi mí mắt, từ từ ngủ đi."
+      "dich": "Nhưng lần này đợi rất lâu mà không có lực lượng vô hình nào giày vò, nó mới từ từ khép mi mắt rồi thiếp đi.",
+      "suggest": "Lần này đợi đã lâu, không có lực lượng vô hình nào tác động, nó mới từ từ cúi mí mắt, từ từ ngủ đi.",
+      "approved": true
     },
     {
       "convert": "Thời gian nhoáng một cái, rốt cục qua cuối tháng.",
-      "dich": "Sáng sớm ngày thứ hai, Viên Minh đi tới Hỏa phường, trên bờ vai là con chồn lửa đang nằm sấp.",
-      "suggest": "Thoáng một cái đã qua cuối tháng."
+      "dich": "Thời gian thoáng trôi, cuối cùng cuối tháng đã qua.",
+      "suggest": "Thoáng một cái đã qua cuối tháng.",
+      "approved": true
     },
     {
       "convert": "Ngày thứ hai một buổi sáng sớm, Viên Minh liền đi tới hỏa phường, trên bờ vai còn nằm sấp con kia Hỏa Chồn.",
-      "dich": "Trong nửa tháng vừa qua, Viên Minh cũng không làm như lời Tam động chủ, hắn vẫn như thường lệ, mỗi ngày đều tới Hỏa phưởng, chỉ là không còn đi làm công việc sàng liệu, mà là tự nhóm cho mình một hố lửa rồi tiếp tục rèn phôi.",
-      "suggest": "Sáng sớm ngày thứ hai, Viên Minh đã tới phường Hỏa phường, trên vai vẫn còn treo con Hỏa Chồn kia."
+      "dich": "Sáng sớm ngày thứ hai, Viên Minh đi tới Hỏa phường, trên bờ vai là con chồn lửa đang nằm sấp.",
+      "suggest": "Sáng sớm ngày thứ hai, Viên Minh đã tới phường Hỏa phường, trên vai vẫn còn treo con Hỏa Chồn kia.",
+      "approved": true
     },
     {
       "convert": "Cái này nửa tháng đến nay, Viên Minh cũng không như Tam động chủ nói như vậy, hắn như cũ mỗi ngày đều phát cáu phường, chỉ là không còn đi làm sàng lọc tài liệu công việc, mà là bản thân dâng lên một tòa lò sưởi, tiếp tục luyện phôi.",
+      "dich": "Trong nửa tháng vừa qua, Viên Minh cũng không làm như lời Tam động chủ, hắn vẫn như thường lệ, mỗi ngày đều tới Hỏa phưởng, chỉ là không còn đi làm công việc sàng liệu, mà là tự nhóm cho mình một hố lửa rồi tiếp tục rèn phôi.",
+      "suggest": "Nửa tháng nay, Viên Minh cũng không giống tam động chủ nói, mỗi ngày hắn đều phát cáu, chỉ là không đi làm công việc sàng lọc tài liệu, mà tự mình thắp lên một cái lò sưởi, tiếp tục luyện phôi.",
+      "approved": true
+    },
+    {
+      "convert": "Cho tới bây giờ, hắn vẫn như cũ không đạt được liên tục vung chùy nghìn lần mục tiêu, nhưng cũng đã kinh có thể liên tục vung chùy 400 lần.",
       "dich": "Cho tới bây giờ, tuy hắn vẫn không đạt được mục tiêu quai búa liên tục ngàn lần, nhưng cũng đã có thể liên tục quai búa bốn trăm lần.",
-      "suggest": "Nửa tháng nay, Viên Minh cũng không giống tam động chủ nói, mỗi ngày hắn đều phát cáu, chỉ là không đi làm công việc sàng lọc tài liệu, mà tự mình thắp lên một cái lò sưởi, tiếp tục luyện phôi."
-    },
-    {
-      "convert": "Cho tới bây giờ, hắn vẫn như cũ không đạt được liên tục vung chùy nghìn lần mục tiêu, nhưng cũng đã",
-      "dich": "Chẳng biết tại sao, tâm tính hiếu động của Hỏa Sàm Nhi tựa hồ thu liễm rất nhiều, cả ngày đi theo bên người Viên Minh như hình với bóng, nhưng huynh đệ tỷ muội khác lúc đầu còn kinh ngạc, sau nhìn nhiều chẳng còn thấy lạ, tới giờ thậm chí đã quen với việc này.",
-      "suggest": "Cho tới bây giờ, hắn vẫn như cũ, không đạt được mục tiêu liên tục vung chùy nghìn lần như trước nữa."
-    },
-    {
-      "convert": "Kinh có thể liên tục vung chùy 400 lần.",
-      "dich": "Phương Cách sau khi nhìn thấy Viên Minh, không đứng xa xa quan sát như ngày thường mà đi thẳng tới bên cạnh hắn.",
-      "suggest": "Kinh có thể liên tục vung chùy 400 lần."
+      "suggest": "Cho tới bây giờ, hắn vẫn như cũ, không đạt được mục tiêu liên tục vung chùy nghìn lần như trước nữa. Kinh có thể liên tục vung chùy 400 lần.",
+      "approved": true
     },
     {
       "convert": "Chẳng biết tại sao, Hỏa Sàm Nhi hiếu động tâm tính tựa hồ thu liễm không ít, cả ngày đi theo Viên Minh bên người, như hình với bóng, những sư huynh sư tỷ khác nhóm từ lúc mới bắt đầu kinh ngạc, đến phía sau nhìn quen không trách, ngày nay càng là tập mãi thành thói quen.",
-      "dich": "\"Điểm cống hiến cơ bản và công pháp cơ sở của ngươi đã được phát xuống, đưa lệnh bài cho ta.\"",
-      "suggest": "Chẳng biết vì sao, tâm tính hiếu động của Hỏa Sàm Nhi dường như đã thu liễm đi không ít, cả ngày đi theo bên người Viên Minh như hình với bóng, những sư huynh sư tỷ khác từ lúc mới bắt đầu kinh ngạc, đến giờ nhìn quen không chê, càng ngày càng tập mãi thành thói quen."
+      "dich": "Chẳng biết tại sao, tâm tính hiếu động của Hỏa Sàm Nhi tựa hồ thu liễm rất nhiều, cả ngày đi theo bên người Viên Minh như hình với bóng, nhưng huynh đệ tỷ muội khác lúc đầu còn kinh ngạc, sau nhìn nhiều chẳng còn thấy lạ, tới giờ thậm chí đã quen với việc này.",
+      "suggest": "Chẳng biết vì sao, tâm tính hiếu động của Hỏa Sàm Nhi dường như đã thu liễm đi không ít, cả ngày đi theo bên người Viên Minh như hình với bóng, những sư huynh sư tỷ khác từ lúc mới bắt đầu kinh ngạc, đến giờ nhìn quen không chê, càng ngày càng tập mãi thành thói quen.",
+      "approved": true
     },
     {
       "convert": "Phương Cách nhìn thấy Viên Minh về sau, không giống như ngày thường xa xa quan sát, mà là trực tiếp đi tới bên cạnh hắn.",
-      "dich": "Phương Cách nói thẳng vào vấn đề.",
-      "suggest": "Sau khi Phương Cách thấy Viên Minh, không nhìn xa như ngày thường mà trực tiếp đi tới bên cạnh hắn."
+      "dich": "Phương Cách sau khi nhìn thấy Viên Minh, không đứng xa xa quan sát như ngày thường mà đi thẳng tới bên cạnh hắn.",
+      "suggest": "Sau khi Phương Cách thấy Viên Minh, không nhìn xa như ngày thường mà trực tiếp đi tới bên cạnh hắn.",
+      "approved": true
     },
     {
       "convert": "\"Ngươi cơ sở điểm cống hiến cùng công pháp cơ bản đã phát hạ tới, đem lệnh bài cho ta.\"",
-      "dich": "Viên Minh vui mừng, lập tức gỡ lệnh bài xuống rồi đưa tới.",
-      "suggest": "\"Điểm cống hiến và công pháp cơ bản đã được thu thập, ngươi hãy giao lệnh bài cho ta.\""
+      "dich": "\"Điểm cống hiến cơ bản và công pháp cơ sở của ngươi đã được phát xuống, đưa lệnh bài cho ta.\"",
+      "suggest": "\"Điểm cống hiến và công pháp cơ bản đã được thu thập, ngươi hãy giao lệnh bài cho ta.\"",
+      "approved": true
     },
     {
       "convert": "Phương Cách đi thẳng vào vấn đề, nói.",
-      "dich": "Phương Cách tiếp nhận xong rất nhanh sau đó liền trả lại, đồng thời lại lấy một mảnh xương trắng mịn đưa cho hắn.",
-      "suggest": "Phương Cách đi thẳng vào vấn đề, nói."
+      "dich": "Phương Cách nói thẳng vào vấn đề.",
+      "suggest": "Phương Cách đi thẳng vào vấn đề, nói.",
+      "approved": true
     },
     {
       "convert": "Viên Minh vui mừng, lập tức lấy xuống lệnh bài đưa tới.",
-      "dich": "Mảnh xương màu trắng ấm áp trong suốt, thoạt nhìn có vẻ hơi giống ngọc thạch, nhưng Viên Minh có thể nhìn thấy trên đó có có những đường vân nhỏ bé mà chỉ xương cốt mới có, hắn quan sát phù văn màu đen được khắc trên đó thêm vài lần rồi hỏi: \"Sư huynh, đây là cái gì?\"",
-      "suggest": "Viên Minh vui mừng, lập tức lấy lệnh bài ra."
+      "dich": "Viên Minh vui mừng, lập tức gỡ lệnh bài xuống rồi đưa tới.",
+      "suggest": "Viên Minh vui mừng, lập tức lấy lệnh bài ra.",
+      "approved": true
     },
     {
       "convert": "Phương Cách tiếp nhận về phía sau, rất nhanh liền trả lại, lại lấy ra một viên tính chất bóng loáng màu trắng cốt phiến, đưa cho hắn.",
-      "dich": "\"Cái này gọi là cốt giản(thẻ xương), bên trong có ghi chép công pháp cơ bản của chúng ta, Bích La công.",
-      "suggest": "Phương Cách nhận lấy, rất nhanh đã trả lại, sau đó lại lấy ra một mảnh cốt phiến màu trắng bóng loáng đưa cho hắn."
+      "dich": "Phương Cách tiếp nhận xong rất nhanh sau đó liền trả lại, đồng thời lại lấy một mảnh xương trắng mịn đưa cho hắn.",
+      "suggest": "Phương Cách nhận lấy, rất nhanh đã trả lại, sau đó lại lấy ra một mảnh cốt phiến màu trắng bóng loáng đưa cho hắn.",
+      "approved": true
     },
     {
       "convert": "Màu trắng cốt phiến ôn nhuận thông thấu, nhìn xem có chút giống ngọc thạch, nhưng Viên Minh có thể nhìn thấy phía trên chỉ thuộc về xương cốt tế văn, hắn đánh giá vài lần phía trên khắc lấy màu đen phù văn, hỏi: \"Sư huynh, đây là cái gì?\"",
-      "dich": "Có nó rồi, sau này đừng tu luyện Huyết Khí pháp kia nữa, công pháp kia chẳng hay ho gì mấy, cái này tốt hơn nhiều.\"",
-      "suggest": "Cốt phiến màu trắng trong suốt thông thoáng, nhìn qua có chút giống ngọc thạch nhưng Viên Minh lại không thể thấy được trên đó chỉ là xương cốt tế văn, hắn đánh giá qua vài lần trên đó có khắc phù văn màu đen, hỏi: \"Sư huynh, đây là cái gì?\""
+      "dich": "Mảnh xương màu trắng ấm áp trong suốt, thoạt nhìn có vẻ hơi giống ngọc thạch, nhưng Viên Minh có thể nhìn thấy trên đó có có những đường vân nhỏ bé mà chỉ xương cốt mới có, hắn quan sát phù văn màu đen được khắc trên đó thêm vài lần rồi hỏi: \"Sư huynh, đây là cái gì?\"",
+      "suggest": "Cốt phiến màu trắng trong suốt thông thoáng, nhìn qua có chút giống ngọc thạch nhưng Viên Minh lại không thể thấy được trên đó chỉ là xương cốt tế văn, hắn đánh giá qua vài lần trên đó có khắc phù văn màu đen, hỏi: \"Sư huynh, đây là cái gì?\"",
+      "approved": true
     },
     {
-      "convert": "\"Cái này gọi cốt giản, bên trong ghi chép chúng ta công pháp cơ bản « Bích La Công ». Có nó, về sau cũng đừng tu luyện « Huyết Khí pháp », kia công pháp không nhiều lắm ý tứ, cái này càng tốt hơn.\"",
-      "dich": "Phương Cách biết xuất thân của Viên Minh, hảo ý nhắc nhở.",
-      "suggest": "\"Cái này gọi là cốt giản, trong đó ghi chép công pháp cơ bản cơ bản của chúng ta  Bích La Công . Có nó, sau này cũng đừng tu luyện Huyết Khí pháp, như vậy càng tốt.\""
+      "convert": "\"Cái này gọi cốt giản, bên trong ghi chép chúng ta công pháp cơ bản « Bích La Công ».",
+      "dich": "\"Cái này gọi là cốt giản (thẻ xương), bên trong có ghi chép công pháp cơ bản của chúng ta, Bích La Công.",
+      "suggest": "\"Cái này gọi là cốt giản, trong đó ghi chép công pháp cơ bản cơ bản của chúng ta  Bích La Công . Có nó, sau này cũng đừng tu luyện Huyết Khí pháp, như vậy càng tốt.\"",
+      "approved": true
+    },
+    {
+      "convert": "Có nó, về sau cũng đừng tu luyện « Huyết Khí pháp », kia công pháp không nhiều lắm ý tứ, cái này càng tốt hơn.\"",
+      "dich": "Có nó rồi, sau này đừng tu luyện Huyết Khí pháp kia nữa, công pháp kia chẳng hay ho gì mấy, cái này tốt hơn nhiều.\"",
+      "suggest": "Phương Cách biết xuất thân Viên Minh, gợi ý nói.",
+      "approved": true
     },
     {
       "convert": "Phương Cách biết Viên Minh xuất thân, hảo ý đề điểm nói.",
-      "dich": "\"Cái này dùng thế nào?\"",
-      "suggest": "Phương Cách biết xuất thân Viên Minh, gợi ý nói."
+      "dich": "Phương Cách biết xuất thân của Viên Minh, hảo ý nhắc nhở.",
+      "suggest": "\"Điều này dùng thế nào?\"",
+      "approved": true
     },
     {
       "convert": "\"Cái này dùng như thế nào?\"",
-      "dich": "Viên Minh trong lòng hơi động, vuốt nhẹ miếng xương mấy lần, hỏi.",
-      "suggest": "\"Điều này dùng thế nào?\""
+      "dich": "\"Cái này dùng thế nào?\"",
+      "suggest": "Viên Minh thầm động tâm, vuốt ve phần xương trắng mấy lần, hỏi.",
+      "approved": true
     },
     {
       "convert": "Viên Minh trong lòng hơi động, đem màu trắng cốt phiến vuốt nhẹ mấy lần, hỏi nói.",
+      "dich": "Viên Minh trong lòng hơi động, vuốt nhẹ miếng xương mấy lần, hỏi.",
+      "suggest": "\"",
+      "approved": true
+    },
+    {
+      "convert": "\"Đem cốt giản gần sát mi tâm, dùng thần niệm cảm thụ, liền có thể nhìn thấy công pháp bên trong nội dung.\"",
       "dich": "\"Đặt cốt giản sát mi tâm, dùng thần niệm cảm thụ là có thể thấy nội dung công pháp bên trong.\"",
-      "suggest": "Viên Minh thầm động tâm, vuốt ve phần xương trắng mấy lần, hỏi."
-    },
-    {
-      "convert": "\"",
-      "dich": "Phương Cách giảng giải.",
-      "suggest": "\""
-    },
-    {
-      "convert": "đem cốt giản gần sát mi tâm, dùng thần niệm cảm thụ, liền có thể nhìn thấy công pháp bên trong nội dung.\"",
-      "dich": "Viên Minh khẽ gật đầu, lập tức định cầm miếng xương dán lên trán.",
-      "suggest": "Đưa cốt giản sát sát mi tâm, dùng thần niệm cảm thụ là có thể nhìn thấy nội dung công pháp.\""
+      "suggest": "Đưa cốt giản sát sát mi tâm, dùng thần niệm cảm thụ là có thể nhìn thấy nội dung công pháp.\" Phương Cách nói.",
+      "approved": true
     },
     {
       "convert": "Phương Cách nói.",
-      "dich": "\"Ấy, đừng làm ở đây, đợi chốc nữa về chỗ ở của người, đợi khi tĩnh tâm ngưng thần rồi mới từ từ nghiên cứu chứ.\"",
-      "suggest": "Phương Cách nói."
+      "dich": "Phương Cách giảng giải.",
+      "suggest": "Viên Minh nhẹ gật đầu, lập tức muốn cầm cốt phiến lên đắp lên trán.",
+      "approved": true
     },
     {
       "convert": "Viên Minh nhẹ gật đầu, lập tức liền muốn cầm cốt phiến hướng trán bên trên thiếp.",
-      "dich": "Phương Cách vội vàng ngăn lại.",
-      "suggest": "Viên Minh nhẹ gật đầu, lập tức muốn cầm cốt phiến lên đắp lên trán."
+      "dich": "Viên Minh khẽ gật đầu, lập tức định cầm miếng xương dán lên trán.",
+      "suggest": "\"Ai, đừng ở đây, trở về chỗ ở của ngươi, tĩnh tâm ngưng thần rồi mới hảo hảo suy nghĩ.\"",
+      "approved": true
     },
     {
       "convert": "\"Ai, đừng ở chỗ này, trở về chỗ ở của ngươi, tĩnh tâm ngưng thần về sau, mới hảo hảo suy nghĩ đi.\"",
-      "dich": "\"Sao lại phải vậy?\"",
-      "suggest": "\"Ai, đừng ở đây, trở về chỗ ở của ngươi, tĩnh tâm ngưng thần rồi mới hảo hảo suy nghĩ.\""
+      "dich": "\"Ấy, đừng làm ở đây, đợi chốc nữa về chỗ ở của người, đợi khi tĩnh tâm ngưng thần rồi mới từ từ nghiên cứu chứ.\"",
+      "suggest": "Phương Cách vội vàng ngăn hắn lại.",
+      "approved": true
     },
     {
       "convert": "Phương Cách vội vàng ngăn lại hắn.",
-      "dich": "Viên Minh thắc mắc hỏi.",
-      "suggest": "Phương Cách vội vàng ngăn hắn lại."
+      "dich": "Phương Cách vội vàng ngăn lại.",
+      "suggest": "\"Lại làm gì nữa?\"",
+      "approved": true
     },
     {
       "convert": "\"Lại đang làm gì vậy?\"",
-      "dich": "Chỉ là xem một bộ công pháp thôi mà, không cần tịnh thân tắm rửa, đả tọa điều tức đấy chứ?",
-      "suggest": "\"Lại làm gì nữa?\""
+      "dich": "\"Sao lại phải vậy?\"",
+      "suggest": "Viên Minh thắc mắc.",
+      "approved": true
     },
     {
       "convert": "Viên Minh nghi ngờ nói.",
-      "dich": "*Chú giải*",
-      "suggest": "Viên Minh thắc mắc."
+      "dich": "Viên Minh thắc mắc hỏi.",
+      "suggest": "Chỉ xem công pháp mà thôi, không cần tịnh thân đắm chìm, ngồi xuống điều tức sao?",
+      "approved": true
     },
     {
       "convert": "Chỉ là xem cái công pháp mà thôi, không cần tịnh thân đắm chìm, ngồi xuống điều tức a?",
-      "dich": "1.",
-      "suggest": "Chỉ xem công pháp mà thôi, không cần tịnh thân đắm chìm, ngồi xuống điều tức sao?"
-    },
-    {
-      "dich": "dao đầu hoảng não: Thương được chuyển thành Gật đầu đắc ý."
-    },
-    {
-      "dich": "Thành ngữ TQ, dùng để chỉ việc bản thân cảm thấy vui vẻ, đắc ý, hoặc hình dung bản thân bộ dáng không kém."
-    },
-    {
-      "dich": "2."
-    },
-    {
-      "dich": "Thu liễm: Thu lại, dịu đi, bớt đi."
+      "dich": "Chỉ là xem một bộ công pháp thôi mà, không cần tịnh thân tắm rửa, đả tọa điều tức đấy chứ?",
+      "approved": true
     }
-  ]
+  ],
+  "currentWorkingLine": 104,
+  "changed": true
 }

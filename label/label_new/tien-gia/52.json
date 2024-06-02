@@ -67,7 +67,12 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "恍惚间，袁铭看到那银猫在他身前不远处，停下来，回身看了他一眼。",
+        "text": "Hoảng hốt gian, Viên Minh nhìn thấy kia ngân nấp tại trước người hắn cách đó không xa, dừng lại, trở lại nhìn hắn một cái .",
+        "index": 1
+      }
     },
     {
       "convert": "Rõ ràng mê huyễn cảnh tượng ở bên trong, Viên Minh lại rõ ràng xem đến ngân miêu hai con dị sắc con ngươi, hỗn loạn đầu não giống như đột nhiên một cái giật mình, tỉnh táo thêm một chút.",
@@ -79,7 +84,12 @@
           0.15
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "明明迷幻的景象里，袁铭却清楚地看到了银猫两只异色的瞳孔，混乱的头脑好像突然一个激灵，清醒了几分。",
+        "text": "Rõ ràng mê huyễn đích cảnh tượng trong, Viên Minh nhưng rõ ràng xem đến rồi ngân mèo hai con dị sắc đích đồng tử, hỗn loạn đích đầu não dường như đột nhiên một cái giật mình, tỉnh táo thêm một chút .",
+        "index": 2
+      }
     },
     {
       "convert": "Chẳng biết tại sao, hắn thế mà cảm giác, con kia ngân miêu tựa hồ đang chờ hắn?",
@@ -91,7 +101,12 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "不知为何，他居然感觉，那只银猫似乎在等他？",
+        "text": "Chẳng biết tại sao, hắn rõ ràng cảm giác, con kia ngân mèo tựa hồ đang chờ hắn ?",
+        "index": 3
+      }
     },
     {
       "convert": "Viên Minh vô ý thức, liền cất bước hướng phía ngân miêu vị trí đuổi theo, chỉ là bộ pháp vẫn có chút bất ổn.",
@@ -103,7 +118,12 @@
           0.25
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭下意识地，就抬步朝着银猫所在的方向追了上去，只是步法仍有些不稳。",
+        "text": "Viên Minh vô ý thức, liền cất bước hướng tới ngân mèo vị trí đuổi theo, chỉ là bộ pháp vẫn có chút bất ổn .",
+        "index": 4
+      }
     },
     {
       "convert": "Kết quả hắn vừa mới khẽ dựa gần, ngân miêu liền hướng phía phía trước chạy ra ngoài, vòng qua một khối màu đen nhô ra tảng đá, liền biến mất không thấy.",
@@ -115,7 +135,12 @@
           0.35
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "结果他才刚一靠近，银猫就朝着前方跑了出去，绕过一块黑色凸起的石头，就消失不见了。",
+        "text": "Kết quả hắn vừa mới khẽ dựa gần, ngân mèo liền hướng tới tiền phương chạy ra ngoài, vượt qua một khối hắc sắc nhô ra hòn đá, liền biến mất không thấy .",
+        "index": 5
+      }
     },
     {
       "convert": "Viên Minh bước chân lảo đảo đuổi theo, chạy tới hắc thạch phía sau, chỉ thấy trên vách tường có một cái thùng nước phẩm chất đen nhánh cửa hang, nhưng không có phát hiện con kia ngân miêu thân ảnh.",
@@ -127,14 +152,24 @@
           0.2
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭脚步踉跄着追了上去，跑到了黑石背后，只看到墙壁上有一个水桶粗细的漆黑洞口，却没有发现那只银猫的身影。",
+        "text": "Viên Minh cước bộ lảo đảo lấy đuổi theo, chạy tới hắc thạch sau lưng, chỉ thấy trên vách tường có một cái thùng nước kích thước đích đen kịt cái động khẩu, nhưng không có phát hiện con kia ngân mèo đích thân ảnh .",
+        "index": 6
+      }
     },
     {
       "convert": "Hắn nhìn chung quanh, từ đầu đến cuối không thể phát hiện ngân miêu lưu lại mảy may tung tích.",
       "dich": "Hắn nhìn xung quanh một lượt nhưng vẫn thủy chung không thấy chút vết tích nào của nó.",
       "suggest": "Hắn nhìn quanh, từ đầu đến cuối không thể phát hiện ra dấu vân tay của con chim bạc kia.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他左顾右盼，始终没能发现银猫留下的丝毫踪迹。",
+        "text": "Hắn nhìn chung quanh, thủy chung không thể phát hiện ngân mèo lưu lại đích mảy may tung tích .",
+        "index": 7
+      }
     },
     {
       "convert": "Lúc này, sau lưng lộn xộn thanh âm vang lên, tựa hồ có người đánh nhau lấy hướng bên này tới.",
@@ -146,14 +181,24 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这时候，身后杂乱声音响起，似乎有人打斗着朝这边过来。",
+        "text": "Lúc này đợi, sau lưng lộn xộn thanh âm vang lên, tựa hồ có người đánh nhau lấy hướng bên này qua tới .",
+        "index": 8
+      }
     },
     {
       "convert": "Viên Minh thân hình lay động, một con hướng phía cái kia màu đen cửa hang đâm đi vào, nửa người trên chui vào về sau, hướng phía dưới khẽ đảo, cả người liền ngã cắm xuống dưới.",
       "dich": "Viên Minh loạng choạng, lập tức lao thẳng vào cửa hang đen kịt kia, sau khi nửa thân trên lọt vào thì ngã chúi xuống, cả người lộn ngược.",
       "suggest": "Thân hình Viên Minh khẽ chuyển động, một con chạy như điên về phía cửa hang màu đen, nửa người trên chui vào trong, sau đó khẽ đảo một cái, cả người ngã chúi xuống đất.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭身形摇晃，一头朝着那个黑色洞口扎了进去，上半身钻入之后，向下一倒，整個人就倒栽了下去。",
+        "text": "Viên Minh thân hình rung lắc lư, một đầu hướng tới cái kia hắc sắc cái động khẩu đâm đi vào, nửa người trên chui vào sau đó, hướng phía dưới khẽ đảo, cả người liền ngã ngã xuống dưới .",
+        "index": 9
+      }
     },
     {
       "convert": "Chờ thân ảnh của hắn ngã vào trong đó về sau, cái kia màu đen cửa hang bên trên bỗng nhiên hiển hiện một tầng vàng mênh mông quang mang, che phủ lên cửa hang.",
@@ -165,7 +210,12 @@
           0.38
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "等他的身影摔入其中后，那个黑色洞口上忽然浮现一层黄蒙蒙的光芒，遮蔽住了洞口。",
+        "text": "Chờ hắn đích thân ảnh ngã vào trong đó sau, cái kia hắc sắc cái động khẩu thượng bỗng nhiên hiện lên một tầng vàng mênh mông quang mang, che phủ lên rồi cái động khẩu .",
+        "index": 10
+      }
     },
     {
       "convert": "Đợi đến quang mang tán đi, cửa hang cũng biến mất không thấy....",
@@ -193,7 +243,12 @@
           0.64
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "不知过了多久，袁铭渐渐苏醒过来，只是仍觉得一阵头昏脑胀。",
+        "text": "Không biết qua bao lâu, Viên Minh dần dần tỉnh lại, chỉ là vẫn cảm giác được một trận đầu óc quay cuồng .",
+        "index": 13
+      }
     },
     {
       "convert": "Trên bờ vai truyền đến nóng bỏng đau đớn, làm hắn miệng hé mở, trong cổ họng nhịn không được phát ra vài tiếng \"Tê nha\" tiếng vang.",
@@ -209,7 +264,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "肩膀上传来的火辣辣疼痛，令他嘴巴半张，喉咙中忍不住发出几声“嘶呀”的声响。",
+        "text": "Trên vai truyền đến đích nóng bỏng đau đớn, làm hắn miệng hé mở, trong cổ họng nhịn không được phát ra vài tiếng “ hí nha ” đích tiếng vang .",
+        "index": 14
+      }
     },
     {
       "convert": "Viên Minh theo bản năng xòe bàn tay ra sờ một cái dưới thân, trong lòng bàn tay lập tức truyền đến một hồi dinh dính cảm giác.",
@@ -225,7 +285,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭下意识的伸出手掌一摸身下，掌心中顿时传来一阵黏腻之感。",
+        "text": "Viên Minh theo bản năng xòe bàn tay ra sờ một cái dưới thân, trong lòng bàn tay tức khắc truyền đến một trận dinh dính cảm giác .",
+        "index": 15
+      }
     },
     {
       "convert": "Cùng lúc đó, một cỗ huyết tinh hỗn tạp mùi hôi mùi, xông vào mũi của hắn khang, để hắn nhịn không được khô khốc một hồi ọe.",
@@ -237,7 +302,12 @@
           0.25
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "与此同时，一股血腥混杂着腐臭的气味，冲入他的鼻腔，让他忍不住一阵干呕。",
+        "text": "Cùng lúc đó, một luồng huyết tinh hỗn tạp mùi hôi đích mùi, nhảy vào mũi của hắn khoang, khiến hắn nhịn không được một trận nôn khan .",
+        "index": 16
+      }
     },
     {
       "convert": "Hắn cố gắng mở to hai mắt, muốn nhìn rõ ràng quanh mình hoàn cảnh, có thể bốn phía hắc ám lại nồng như mực nước, mặc cho hắn cố gắng như thế nào, vẫn như cũ cái đó đều nhìn không thấy.",
@@ -249,7 +319,12 @@
           0.43
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他努力睁大了眼睛，想要看清楚周遭环境，可四周的黑暗却浓如墨汁，任凭他如何努力，依旧什么都看不见。",
+        "text": "Hắn cố gắng trợn to mắt con ngươi, muốn nhìn rõ ràng chung quanh hoàn cảnh, khả bốn phía đích hắc ám nhưng nồng như mực nước, mặc cho hắn cố gắng như thế nào, như cũ gì đều nhìn không thấy .",
+        "index": 17
+      }
     },
     {
       "convert": "Theo thời gian trôi qua, đầu hắn bên trong cảm giác hôn mê dần dần biến mất mấy phần, hắn lục lọi muốn đứng lên, nhưng bàn tay cùng đầu gối cùng chung quanh đông Seymour xoa va chạm, lộ ra bốn phía cực không bằng phẳng.",
@@ -261,7 +336,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "随着时间的推移，他脑袋中的眩晕感渐渐消退了几分，他摸索着想要站起，但手掌和膝盖与周围的东西摩擦碰撞，显得四周极不平整。",
+        "text": "Theo thời gian trôi qua, đầu hắn bên trong mê muội cảm dần dần biến mất mấy phần, hắn lục lọi muốn đứng lên, nhưng bàn tay cùng đầu gối che đậy cùng chung quanh đồ vật ma sát va chạm, lộ ra bốn phía cực không bằng phẳng .",
+        "index": 18
+      }
     },
     {
       "convert": "Viên Minh không có lộn xộn nữa, mà là thăm dò sờ về phía quanh người, vào tay chỗ lại thình lình tất cả đều là từng đoạn từng đoạn chân cụt tay đứt, không biết là người vẫn là động vật.",
@@ -273,7 +353,12 @@
           0.18
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭没再乱动，而是探索着摸向身周，入手处竟赫然全都是一节节残肢断臂，分不清是人的还是动物的。",
+        "text": "Viên Minh không lộn xộn nữa, mà là thăm dò sờ về phía quanh thân, thò tay vào chỗ nhưng lại rõ ràng tất cả đều là một tiết tiết chân cụt tay đứt, không biết là người đích vẫn là động vật .",
+        "index": 19
+      }
     },
     {
       "convert": "Ở trong có đã mục nát hóa thành sâm nhiên bạch cốt, có thì là hư thối thành bùn, còn có một số thì tựa hồ vừa mới chết không lâu, trên thân vết máu chưa khô cạn.",
@@ -285,7 +370,12 @@
           0.2
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "当中有的已经腐朽化为森然白骨，有的则是腐烂成泥，还有一些则似乎刚死不久，身上血迹尚未干涸。",
+        "text": "Trong đó có đích đã mục nát hóa thành lành lạnh bạch cốt, có đích thì là hư thối thành bùn đất, còn có một số thì tựa hồ vừa mới chết không lâu, trên thân vết máu còn chưa khô cạn .",
+        "index": 20
+      }
     },
     {
       "convert": "Ở trong đó mấy cỗ trên thi thể, Viên Minh mò tới choàng tại nhục thân bên trên da thú, cũng sờ đến tơ lụa chất liệu quần áo, một chút phỏng đoán liền biết, những này là Phi Mao thú nô cùng Bích La Động đồ đệ thi thể.",
@@ -297,7 +387,12 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "在其中的几具尸体上，袁铭摸到了披在肉身上的兽皮，也摸到绸缎材质的衣服，略一猜想便知，这些是披毛兽奴和碧罗洞弟子的尸体。",
+        "text": "Ở trong đó đích mấy cỗ thi thể thượng, Viên Minh mò tới choàng tại nhục thân thượng đích da thú, cũng mò tới tơ lụa tài chất đích y phục, hơi chút suy đoán liền biết, những này là Phi Mao thú nô cùng Bích La Động đệ tử đích thi thể .",
+        "index": 21
+      }
     },
     {
       "convert": "\"Nơi này tựa hồ là một chỗ Thi hố?\"",
@@ -341,7 +436,12 @@
           0.25
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "不是他心生畏惧，而是周围的气温的确很低，阴气极重，加之复杂难闻的气味，让人呼吸都有些不畅起来。",
+        "text": "Không phải tâm hắn thấy sợ hãi, mà là chung quanh nhiệt độ không khí đích xác rất thấp, âm khí rất nặng, thêm phức tạp khó nghe đích mùi, để cho người ta hô hấp đều có chút không thông suốt lên tới .",
+        "index": 23
+      }
     },
     {
       "convert": "Viên Minh nhẹ nhàng vuốt ve một lần bờ vai của mình, phát hiện vết thương vẫn như cũ sưng, nhưng đau đớn cảm giác lại giảm đi không ít, mà đầu óc của mình cũng không giống lúc trước như vậy hỗn loạn mơ hồ, trong lòng an tâm một chút.",
@@ -353,7 +453,12 @@
           0.38
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭轻轻抚摸了一下自己的肩膀，发现伤口依旧肿胀，但疼痛之感却消减了不少，而自己的头脑也不似先前那般混乱迷糊，心中稍安。",
+        "text": "Viên Minh nhẹ nhàng vuốt ve một chút bờ vai của mình, phát hiện miệng vết thương như cũ sưng, nhưng đau đớn cảm giác nhưng giảm đi không ít, mà đầu óc của mình cũng không giống lúc trước như vậy hỗn loạn mơ hồ, trong lòng an tâm một chút .",
+        "index": 24
+      }
     },
     {
       "convert": "Hắn tự biết nơi đây không phải chỗ an toàn, đang muốn đứng dậy lúc, chợt nghe một thanh âm, tựa như từ hắn trong đầu vang lên:",
@@ -365,7 +470,12 @@
           0.4
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他自知此处不是安全之地，正要起身时，忽听一个声音，好似从他脑海当中响了起来：",
+        "text": "Hắn tự biết chỗ này không phải chỗ an toàn, đang muốn đứng dậy thời, chợt nghe một thanh âm, coi như từ đầu óc hắn trong đó vang lên :",
+        "index": 25
+      }
     },
     {
       "convert": "\"Ta...\"",
@@ -397,7 +507,12 @@
           0.53
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "听到声音的瞬间，袁铭浑身一僵，立即屏息凝神，竖耳细听。",
+        "text": "Nghe được thanh âm đích trong nháy mắt, Viên Minh toàn thân cứng đờ, lập tức nín thở ngưng thần, vễnh tai lắng nghe .",
+        "index": 27
+      }
     },
     {
       "convert": "\"Ta... Là ngươi, không... Bất động.\"",
@@ -444,7 +559,12 @@
       "dich": "Ngay tại thời điểm hắn theo bản năng muốn hỏi một câu \"Là ai đang nói chuyện\", âm thanh kia lại thình lình vang lên lần nữa trong đầu hắn, khác là lần này nhịp nhàng, liền mạch hơn một chút.",
       "suggest": "Ngay khi hắn vô thức muốn hỏi lại một câu, cái thanh âm kia đột nhiên từ trong đầu hắn vang lên, lần này trở nên càng thêm ăn khớp.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在他下意识想要问出一句“是谁在说话”的时候，那个声音突然再次从他脑海里响了起来，这次变得更加连贯了一些。",
+        "text": "Ngay tại hắn theo bản năng muốn hỏi ra một câu “ là ai đang nói chuyện ” thời điểm, cái thanh âm kia đột nhiên lần nữa từ trong đầu của hắn vang lên, lần này càng biến đổi thêm nối liền một chút .",
+        "index": 30
+      }
     },
     {
       "convert": "\"Ta... Là ngươi..., liền... Bất động, sẽ chết.\"",
@@ -463,7 +583,12 @@
           0.38
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭闻言，心中更是惊疑不定。",
+        "text": "Viên Minh nghe vậy, trong lòng càng là kinh nghi bất định .",
+        "index": 32
+      }
     },
     {
       "convert": "Lý trí để hắn khắc chế lên tiếng xúc động, cũng làm cho hắn ngừng lập tức đứng dậy động tác.",
@@ -475,14 +600,24 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "理智让他克制住了出声的冲动，也让他停下了马上起身的动作。",
+        "text": "Lý trí khiến hắn khắc chế rồi lên tiếng đích xung động, cũng làm cho hắn dừng lập tức đứng dậy đích động tác .",
+        "index": 33
+      }
     },
     {
       "convert": "Viên Minh thoáng ngẩng đầu, ánh mắt cao hơn bên người hư thối thi cốt một chút, hướng phía càng xa một chút địa phương vụng trộm dò xét, nhưng trong này vẫn như cũ là một mảnh đen kịt, không nhìn rõ bất cứ thứ gì.",
       "dich": "Viên Minh thoáng ngẩng đầu, nâng tầm mắt lên cao hơn đám thi cốt rữa nát một chút, lén lút nhìn về phía xa hơn một chút, nhưng vẫn chỉ thấy một khoảng tối om, chẳng nhìn ra được thứ gì.",
       "suggest": "Viên Minh khẽ ngẩng đầu, ánh mắt nhìn xa hơn thi cốt bên người một chút, vụng trộm dò xét một chút ở một vài chỗ gần đó, nhưng toàn bộ nơi này vẫn là một mảnh đen kịt, không nhìn rõ được bất cứ thứ gì.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭稍稍抬起头，视线高出身边的腐烂尸骨些许，朝着更远一些的地方偷偷打量，但那里依旧是漆黑一片，什么都看不清。",
+        "text": "Viên Minh thoáng ngẩng đầu, tầm mắt cao hơn bên người hư thối thi cốt một chút, hướng tới xa hơn một chút đích địa phương vụng trộm đánh giá, nhưng trong này như cũ là một mảnh đen kịt, không nhìn rõ bất cứ thứ gì .",
+        "index": 34
+      }
     },
     {
       "convert": "Nhưng vào lúc này, một mảnh yếu ớt hồng quang đột nhiên phát sáng lên, đem bốn phía phương viên mấy trượng phạm vi, chiếu rọi được huyết hồng ảm đạm, nhìn đơn giản giống như hố ma.",
@@ -494,7 +629,12 @@
           0.15
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "可就在这时，一片幽幽红光突然亮了起来，将四周方圆数丈范围，映照得血红晦暗，看起来简直有如鬼窟。",
+        "text": "Nhưng vào lúc này, một mảnh sâu kín hồng quang đột nhiên phát sáng lên, đem bốn phía chu vi mấy trượng phạm vi, chiếu rọi được huyết hồng đen tối, thoạt nhìn quả thực giống như hố ma .",
+        "index": 35
+      }
     },
     {
       "convert": "Viên Minh mượn điểm ấy ánh sáng nhạt, cẩn thận từng li từng tí hướng phía bốn phía dò xét, muốn tìm ra lúc trước là ai đang nhắc nhở bản thân, thế nhưng lại cái đó đều không thể nhìn thấy.",
@@ -506,7 +646,12 @@
           0.26
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭借着这点微光，小心翼翼朝着四周打量，想要找出先前是谁在提醒自己，可是却什么都没能看到。",
+        "text": "Viên Minh mượn điểm ấy ánh sáng nhạt, thật cẩn thận hướng tới bốn phía đánh giá, muốn tìm ra lúc trước là ai đang nhắc nhở chính mình, thế nhưng lại gì đều không thể nhìn thấy .",
+        "index": 36
+      }
     },
     {
       "convert": "Mà khi hắn ánh mắt ngưng tụ đến huyết quang sáng lên địa phương lúc, lại nhịn không được trong lòng run lên.",
@@ -518,7 +663,12 @@
           0.22
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "而当他的视线凝聚到血光亮起的地方时，却忍不住心头一颤。",
+        "text": "Mà khi hắn ánh mắt ngưng tụ đến huyết quang sáng lên đích giờ địa phương, nhưng nhịn không được trong lòng run lên .",
+        "index": 37
+      }
     },
     {
       "convert": "\"Nhân Tiêu Vương...\"",
@@ -546,7 +696,12 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他看到那边紧贴着凹凸不平的石墙下方，赫然有一座六尺方圆的血池，里面血液翻腾，散发着红光，将后方的墙壁都映照得一片血红。",
+        "text": "Hắn nhìn thấy bên kia kề sát lấy gập ghềnh đích tường đá phía dưới, rõ ràng có một tòa sáu thước chu vi đích huyết trì, bên trong huyết dịch bốc lên, phát ra lấy hồng quang, đem hậu phương đích vách tường đều chiếu rọi được một mảnh huyết hồng .",
+        "index": 39
+      }
     },
     {
       "convert": "Mà ở ao máu kia bên trong, kia đầu có hai sừng Nhân Tiêu Vương chính đoan ngồi trong đó, hai mắt nhắm nghiền, có chút bên trên ngẩng lên đầu, miệng đại trương.",
@@ -558,7 +713,12 @@
           0.32
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "而在那座血池之内，那头生双角的人魈王正端坐其中，双眼紧闭，微微上仰着脑袋，嘴巴大张。",
+        "text": "Mà ở ao máu kia bên trong, đầu kia mọc ra hai sừng đích người tiêu vương chính đoan tọa trong đó, hai mắt nhắm nghiền, hơi hơi thượng ngẩng lên cái đầu, miệng đại trương .",
+        "index": 40
+      }
     },
     {
       "convert": "Ở hắn trên miệng phương ba tấc trong hư không, ung dung lơ lửng một viên toàn thân đen nhánh, to như cây vải tròn vo hạt châu, phía trên bao phủ từng tia từng sợi đỏ sậm sương mù, có chút bốc lên, giống như Thần ở giữa mây mù.",
@@ -570,7 +730,12 @@
           0.15
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "在其嘴巴上方三寸虚空中，悠悠悬浮着一枚通体漆黑，大如荔枝的滚圆珠子，上面笼罩着丝丝缕缕的暗红雾气，微微翻腾，有如晨间云雾。",
+        "text": "Tại nó trên miệng phương ba tấc trong hư không, khoan thai lơ lửng một viên toàn thân đen kịt, to như cây vải đích tròn xoe hạt châu, thượng diện bao phủ từng tia từng sợi đích đỏ sậm sương mù, hơi hơi bốc lên, giống như Thần gian vân vụ .",
+        "index": 41
+      }
     },
     {
       "convert": "Lúc này, huyết trì bên trong, bắt đầu có từng đạo mơ hồ hình người hư ảnh từ đó bay ra, bị một cỗ vô hình lực lượng nắm kéo, hấp thụ tiến vào cái kia màu đen viên châu bên trong.",
@@ -582,7 +747,12 @@
           0.33
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这时，血池之中，开始有一道道模糊的人形虚影从中飘出，被一股无形力量拉扯着，吸附进入那黑色圆珠中。",
+        "text": "Lúc này, huyết trì bên trong, bắt đầu có từng đạo mơ hồ hình người hư ảnh từ trong bay ra, bị một cỗ vô hình lực lượng lôi kéo lấy, hấp thụ tiến vào cái kia màu đen viên châu trung .",
+        "index": 42
+      }
     },
     {
       "convert": "Viên Minh cứng cổ, thở mạnh cũng không dám, ánh mắt gắt gao nhìn chằm chằm đầu kia Nhân Tiêu Vương, trái tim phù phù phù phù nhảy cực nhanh.",
@@ -594,7 +764,12 @@
           0.47
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭梗着脖子，大气都不敢出，目光死死盯着那头人魈王，心脏噗通噗通跳的极快。",
+        "text": "Viên Minh cành nhánh lấy cổ, thở mạnh cũng không dám, ánh mắt gắt gao nhìn chằm chằm đầu kia người tiêu vương, tâm tạng phù phù phù phù nhảy cực nhanh .",
+        "index": 43
+      }
     },
     {
       "convert": "Đợi đã lâu, ngay tại cổ của hắn đã bắt đầu đau nhức thời điểm, Nhân Tiêu Vương con mắt bỗng nhiên mở ra, bên trong huyết khí ngưng kết, vậy mà căn bản không nhìn thấy nửa điểm con ngươi.",
@@ -606,7 +781,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "等了许久，就在他的脖子已经开始酸痛的时候，人魈王的眼睛忽然睁开了，里面血气凝结，竟然根本看不到半点瞳仁。",
+        "text": "Đợi đã lâu, ngay tại cổ của hắn đã bắt đầu đau nhức thời điểm, người tiêu vương đích con mắt bỗng nhiên mở ra, bên trong huyết khí ngưng kết, vậy mà căn bản nhìn không tới mảy may con ngươi .",
+        "index": 44
+      }
     },
     {
       "convert": "Chỉ gặp hắn há miệng hút vào, viên kia màu đen viên châu liền trầm xuống phía dưới, đã rơi vào trong miệng của hắn.",
@@ -618,7 +798,12 @@
           0.2
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "只见其张口一吸，那枚黑色圆珠就向下一沉，落入了他的口中。",
+        "text": "Chỉ kiến nó há miệng hút vào, viên kia hắc sắc viên châu liền trầm xuống phía dưới, đã rơi vào trong miệng của hắn .",
+        "index": 45
+      }
     },
     {
       "convert": "Viên Minh ngưng thần nhìn kỹ, phát hiện viên kia viên châu cũng không chìm vào Nhân Tiêu Vương trong bụng, mà là treo ở cổ họng của hắn ở giữa, nửa vời, nhìn tựa như là cổ của nó kết đồng dạng.",
@@ -630,7 +815,12 @@
           0.43
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭凝神细看，发现那枚圆珠并未沉入人魈王的腹中，而是悬于他的喉咙之间，不上不下，看起来就像是它的喉结一样。",
+        "text": "Viên Minh ngưng thần nhìn kỹ, phát hiện viên kia viên châu không hề chìm vào người tiêu vương đích trong bụng, mà là treo ở cổ họng của hắn ở giữa, tiến thoái lưỡng nan, thoạt nhìn tựa như là cổ của nó kết đồng dạng .",
+        "index": 46
+      }
     },
     {
       "convert": "Theo màu đen viên châu nuốt vào yết hầu, một tầng sương mù màu đen lập tức ngưng tụ ở khuôn mặt của hắn, thoáng qua lại chảy vào cặp mắt của hắn, bị hấp thu trống không.",
@@ -642,7 +832,12 @@
           0.34
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "随着黑色圆珠吞入喉咙，一层黑色雾气随即凝聚在了他的面部，转瞬又流入他的双眼，被吸收一空。",
+        "text": "Theo hắc sắc viên châu nuốt vào yết hầu, một tầng sương mù màu đen lập tức ngưng tụ tại hắn bộ mặt, giây lát lại chảy vào cặp mắt của hắn, bị hấp thu không còn .",
+        "index": 47
+      }
     },
     {
       "convert": "Nhân Tiêu Vương hai mắt huyết sắc hơi lui, con ngươi nổi lên ô quang, toàn thân khí thế đột nhiên tăng vọt, giống như là từ một bộ hoạt thi chuyển hóa thành yêu tà.",
@@ -654,7 +849,12 @@
           0.26
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "人魈王的双眼血色稍退，瞳孔泛起乌光，浑身气势陡然暴涨，像是从一具活尸转化成了妖邪。",
+        "text": "Người tiêu vương đích hai mắt huyết sắc hơi lui, đồng tử nổi lên ô quang, toàn thân khí thế đột nhiên tăng vọt, như là từ một bộ hoạt thi chuyển hóa thành yêu tà .",
+        "index": 48
+      }
     },
     {
       "convert": "Chỉ gặp hắn một tay bấm tay thành trảo, hướng phía dưới thân huyết trì nắm vào trong hư không một cái.",
@@ -666,7 +866,12 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "只见其单手屈指成抓，朝着身下血池虚空一抓。",
+        "text": "Chỉ kiến nó một tay bấm tay thành trảo, hướng tới dưới thân huyết trì nắm vào trong hư không một cái .",
+        "index": 49
+      }
     },
     {
       "convert": "Khuấy động huyết trì ở bên trong bỗng nhiên toát ra một mảnh ùng ục ùng ục bọt khí, huyết dịch giống như là sôi trào đồng dạng phồng lên mà lên, một cái tạo hình thô kệch, nhìn đơn giản giống như là dùng thạch phiến ném ra tới trường đao, bị dâng lên huyết dịch nắm đưa, vào đến Nhân Tiêu Vương trong tay.",
@@ -678,7 +883,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "激荡的血池里忽然冒出一片咕噜咕噜的气泡，血液像是沸腾了一样鼓荡而起，一把造型粗犷，看起来简直像是用石片砸出来的长刀，被升起的血液托送着，入到了人魈王的手中。",
+        "text": "Kích động đích huyết trì trong bỗng nhiên tỏa ra một mảnh ừng ực ừng ực đích bọt khí, huyết dịch như là sôi trào đồng dạng phóng xuất mà khởi, một cái tạo hình thô kệch, thoạt nhìn quả thực như là dụng thạch phiến ném ra tới trường đao, bị dâng lên huyết dịch thác đưa, vào đến rồi người tiêu vương trong tay .",
+        "index": 50
+      }
     },
     {
       "convert": "Nhân Tiêu Vương một cái nắm chặt trường đao, thân hình lướt đi huyết trì, hướng phía một bên động quật thông đạo thẳng liền xông ra ngoài, thoáng qua liền không thấy tung tích.",
@@ -690,7 +900,12 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "人魈王一把握住长刀，身形掠出血池，朝着一旁洞窟通道直冲了出去，转瞬便没了踪迹。",
+        "text": "Người tiêu vương một cái cầm chắc trường đao, thân hình lướt đi huyết trì, hướng tới một bên động quật thông đạo thẳng hướng rồi đi ra, giây lát liền không thấy tung tích .",
+        "index": 51
+      }
     },
     {
       "convert": "Theo nó rời đi, huyết trì mặt nước dần dần bình phục, bên trong lại bắt đầu có tầm mười nói cái bóng mơ hồ bay ra, lại tất cả đều hướng phía Viên Minh chỗ Thi hố tụ họp tới.",
@@ -702,7 +917,12 @@
           0.18
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "随着它的离去，血池的水面逐渐平复，里面却开始有十来道模糊的影子飘出，竟全都朝着袁铭所在的尸坑聚拢了过来。",
+        "text": "Theo nó rời đi, huyết trì đích mặt nước dần dần trở lại yên tĩnh, bên trong lại bắt đầu có tầm mười đạo mơ hồ đích cái bóng bay ra, nhưng lại tất cả đều hướng tới Viên Minh sở tại đích thi hố tụ lại đi qua .",
+        "index": 52
+      }
     },
     {
       "convert": "Còn không đợi hắn thấy rõ ràng, huyết trì ở bên trong quang mang dập tắt, bốn phía lần nữa lâm vào một vùng tăm tối.",
@@ -714,7 +934,12 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "还不等他看清楚，血池里的光芒熄灭，四周再次陷入一片黑暗。",
+        "text": "Còn không đợi hắn thấy rõ ràng, huyết trì trong quang mang tắt, bốn phía lần nữa lâm vào một vùng tăm tối .",
+        "index": 53
+      }
     },
     {
       "convert": "Viên Minh vừa mới buông lỏng có chút tâm thần, bỗng nhiên lần nữa kéo căng, hô hấp dồn dập, giãy dụa lấy muốn đứng dậy.",
@@ -726,7 +951,12 @@
           0.37
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭刚刚放松些许的心神，骤然再次绷紧，呼吸急促，挣扎着想要起身。",
+        "text": "Viên Minh vừa mới thả lỏng có chút tâm thần, bỗng nhiên lần nữa căng thẳng, hô hấp dồn dập, giãy dụa lấy muốn đứng dậy .",
+        "index": 54
+      }
     },
     {
       "convert": "Nhưng mà, khi hắn muốn chống đỡ lấy thân thể thời điểm, mới phát hiện tay của mình cánh tay chẳng biết lúc nào đã trở nên cứng ngắc tê liệt, bản thân thậm chí không cảm giác được cánh tay tồn tại.",
@@ -738,7 +968,12 @@
           0.42
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "然而，当他想要支撑起身子的时候，才发现自己的手臂不知何时已经变得僵硬麻痹，自己甚至感受不到手臂的存在。",
+        "text": "Nhưng mà, khi hắn muốn chống đỡ lấy thân thể thời điểm, mới phát hiện cánh tay của mình chẳng biết lúc nào đã trở nên cứng đờ tê liệt, chính mình thậm chí không cảm giác được cánh tay đích tồn tại .",
+        "index": 55
+      }
     },
     {
       "convert": "Tế sát phía dưới, hắn mới kinh sợ phát hiện, không chỉ là hai tay, liền ngay cả hai chân của hắn cũng đều hoàn toàn mất đi tri giác, mà lên nửa người mặc dù vẫn còn tri giác, nhưng lại đã không cách nào nhúc nhích.",
@@ -750,7 +985,12 @@
           0.2
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "细察之下，他才惊悚地发现，不止是双臂，就连他的双腿也都完全失去了知觉，而上半身虽然还有知觉，但却已经无法动弹了。",
+        "text": "Tế sát phía dưới, hắn mới kinh sợ phát hiện, không chỉ là hai tay, liền liền hai chân của hắn cũng đều hoàn toàn mất đi rồi tri giác, mà lên bán thân tuy rằng còn có tri giác, nhưng đã vô pháp nhúc nhích .",
+        "index": 56
+      }
     },
     {
       "convert": "\"Nguy rồi, độc tính phát tác.\"",
@@ -793,7 +1033,12 @@
       "dich": "Lúc giao thủ với đám Khôn Đồ khi trước, hắn đã sơ ý bị dính độc, bây giờ xem ra độc sắp triệt để phát tác.",
       "suggest": "Lúc trước khi cùng đám người Khôn Đồ giao thủ, hắn đã vô tình trúng độc, hiện tại xem ra phải hoàn toàn giải được độc phát.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "先前与坤图几人交手的时候，他就不慎中了毒，现在看来是要彻底毒发了。",
+        "text": "Lúc trước cùng khôn đồ mấy người giao thủ thời điểm, hắn liền vô ý trúng độc, hiện tại xem ra là muốn triệt để độc phát rồi .",
+        "index": 58
+      }
     },
     {
       "convert": "Viên Minh trong lòng lo lắng vạn phần, làm sao ngay cả động đậy cũng khó khăn, muốn tự cứu đều làm không được.",
@@ -805,7 +1050,12 @@
           0.46
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭心中焦急万分，奈何连动弹都难，想要自救都做不到。",
+        "text": "Viên Minh trong lòng lo lắng vạn phần, thế nhưng động liên tục đạn cũng khó khăn, muốn tự cứu đều làm không được .",
+        "index": 59
+      }
     },
     {
       "convert": "Hắn lúc này mặc dù không nhìn thấy những cái kia tựa như vong hồn đồng dạng hư ảnh, nhưng lại có thể cảm nhận được quanh người không khí nhiệt độ lần nữa hạ xuống, hắn tóc gáy không khỏi dựng thẳng lên, vật kia đến đây...",
@@ -833,7 +1083,12 @@
           0.26
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "还不等袁铭做出什么反应，他便忽然感到后脖颈一寒，似乎有什么东西贴了上来。",
+        "text": "Còn không đợi Viên Minh làm ra phản ứng gì, hắn liền bỗng nhiên cảm thấy sau cổ gáy phát lạnh, tựa hồ có đồ vật gì kéo đi lên .",
+        "index": 61
+      }
     },
     {
       "convert": "Ngay sau đó, kia cỗ hàn ý lan tràn toàn thân, để hắn không khỏi toàn thân cứng đờ.",
@@ -845,7 +1100,12 @@
           0.26
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "紧接着，那股寒意蔓延全身，让他不由浑身一僵。",
+        "text": "Ngay sau đó lấy, kia cổ hàn ý lan tràn toàn thân, khiến hắn bất giác toàn thân cứng đờ .",
+        "index": 62
+      }
     },
     {
       "convert": "\"Là âm linh vẫn là quỷ hồn?\"",
@@ -901,7 +1161,12 @@
           0.4
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这时候，脖颈处的寒意加剧，那些亡魂似乎正在朝着他的体内钻来。",
+        "text": "Lúc này đợi, chỗ cổ đích hàn ý tăng lên, những cái kia vong hồn tựa hồ đang theo lấy trong cơ thể của hắn chui tới .",
+        "index": 64
+      }
     },
     {
       "convert": "Ngay tại Viên Minh cảm thấy như rớt vào hầm băng, toàn thân càng ngày càng lạnh thời điểm, tay phải của hắn trên cánh tay, chợt có một cỗ ấm áp tuôn ra, trong nháy mắt lan tràn đến phía sau lưng.",
@@ -913,7 +1178,12 @@
           0.34
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在袁铭感到如坠冰窖，浑身越来越冷的时候，他的右手手臂上，却忽然有一股暖意涌出，瞬间蔓延至后背。",
+        "text": "Ngay tại Viên Minh cảm thấy như rớt vào hầm băng, toàn thân càng ngày càng lạnh thời điểm, tay phải của hắn cánh tay thượng, chợt có một luồng tình cảm ấm áp trào ra, trong nháy mắt lan tràn chí phía sau lưng .",
+        "index": 65
+      }
     },
     {
       "convert": "Cỗ này ấm áp lưu động mà qua trong nháy mắt, vậy mà liền đem kia vong hồn phụ thể hàn ý cho xua tán đi.",
@@ -925,7 +1195,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这股暖意流动而过的瞬间，竟然就将那亡魂附体般的寒意给驱散了。",
+        "text": "Cỗ này tình cảm ấm áp lưu động mà qua đích trong nháy mắt, vậy mà liền đem kia vong hồn phụ thể kiểu đích hàn ý cho xua tán đi .",
+        "index": 66
+      }
     },
     {
       "convert": "Viên Minh không nhìn thấy, lại có thể cảm giác được, bốn phía nhiệt độ tăng trở lại một chút, khôi phục đáng nhẽ trạng thái, thế nhưng là, hắn vẫn như cũ không cách nào động đậy.",
@@ -941,7 +1216,12 @@
           0.35
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭看不到，却能感觉到，四周的温度回升了些许，恢复了本来状态，可是，他依旧无法动弹。",
+        "text": "Viên Minh nhìn không tới, nhưng có thể cảm giác được, bốn phía đích độ ấm tăng trở lại rồi một chút, khôi phục rồi vốn dĩ trạng thái, nhưng, hắn như cũ vô pháp động đậy .",
+        "index": 67
+      }
     },
     {
       "convert": "Cứ việc vong hồn không còn tới quấy rối hắn, nhưng nếu không cách nào thoát khốn, một mực bị như thế vây ở chỗ này cũng không phải biện pháp, dù là hắn sẽ không độc phát mà chết, đợi đến Nhân Tiêu Vương lần nữa trở về, hắn đại khái khả năng cũng muốn tử.",
@@ -953,7 +1233,12 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "尽管亡魂不再来骚扰他，可若无法脱困，一直被这么困在这里也不是办法，哪怕他不会毒发而亡，等到人魈王再次返回，他大概率也要死。",
+        "text": "Cứ việc vong hồn không còn tới quấy rầy hắn, nhưng nếu vô pháp thoát khốn, một mạch bị thế này vây ở chỗ này cũng không phải biện pháp, cho dù hắn sẽ không độc phát mà chết, đợi đến người tiêu vương lần nữa phản hồi, hắn xác suất lớn cũng muốn chết .",
+        "index": 68
+      }
     },
     {
       "convert": "Viên Minh trong đầu cẩn thận suy nghĩ một vòng, lập tức phát hiện căn bản không có bất kỳ biện pháp nào.",
@@ -965,7 +1250,12 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭在脑海里仔细思量一圈，随即发现根本没有任何办法。",
+        "text": "Viên Minh trong đầu tỉ mỉ cân nhắc một vòng, lập tức phát hiện căn bản không có biện pháp gì .",
+        "index": 69
+      }
     },
     {
       "convert": "Phi Mao Chi Thuật đối với cái này không dùng được, mà cưỡng ép vận chuyển Cửu Nguyên Quyết, không những không thể chống cự độc tố, còn có thể lại bởi vì vận công nguyên nhân, gia tốc nọc độc xông lên nhập não, đến lúc đó chết được càng nhanh.",
@@ -977,7 +1267,12 @@
           0.33
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "披毛之术对此毫无用处，而强行运转九元诀的话，非但不能抵抗毒素，还可能会因为运功的缘故，加速毒液上冲入脑，到时候死得更快。",
+        "text": "Khoác lông thuật đối với cái này không dùng được, mà cường hành vận chuyển chín nguyên quyết thì, chẳng những không thể đề kháng độc tố, còn có thể lại bởi vì vận công nguyên nhân, gia tốc nọc độc xông lên nhập não, đến lúc đợi chết được càng nhanh .",
+        "index": 70
+      }
     },
     {
       "convert": "Về phần trên cánh tay lư hương, trước đó ngược lại là giúp hắn cản qua thần hồn tổn thương, nhưng lại chưa bao giờ biểu hiện qua giải độc năng lực, không biết sẽ có hay không có dùng?",
@@ -989,7 +1284,12 @@
           0.42
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "至于手臂上的香炉，之前倒是帮他挡过神魂伤害，却从未显示过解毒能力，不知道会不会有用？",
+        "text": "Còn với cánh tay thượng đích lư hương, trước đó ngược lại giúp hắn cản qua thần hồn thương tổn, nhưng lại chưa bao giờ biểu hiện qua giải độc năng lực, không biết sẽ có hay không có dụng ?",
+        "index": 71
+      }
     },
     {
       "convert": "Nhưng bây giờ đã không có chiêu, Viên Minh cũng chỉ có thể ôm lấy ngựa chết làm ngựa sống ý nghĩ, bắt đầu thử nghiệm câu thông lư hương.",
@@ -1005,7 +1305,12 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "可眼下已经没有招了，袁铭也只能抱着死马当活马医的想法，开始尝试着沟通香炉。",
+        "text": "Nhưng bây giờ đã không có chiêu, Viên Minh cũng chỉ có thể ôm còn nước còn tát đích cách nghĩ, bắt đầu thử câu thông lư hương .",
+        "index": 72
+      }
     },
     {
       "convert": "Theo thay đổi một điểm pháp lực hướng chảy cánh tay lư hương vị trí, nơi đó bắt đầu sáng lên một điểm ánh sáng nhạt, một cái lư hương ấn ký nổi lên, mắt thấy dần dần từ hư chuyển thực, một cái lô chân đã cụ hiện.",
@@ -1017,7 +1322,12 @@
           0.22
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "随着调转的一点法力流向手臂香炉所在的地方，那里开始亮起一点微光，一个香炉印记浮现而出，眼看着逐渐由虚转实，一个炉腿已经具现。",
+        "text": "Theo thay đổi đích một chút pháp lực hướng chảy cánh tay lư hương vị trí, nơi đó bắt đầu sáng lên một chút ánh sáng nhạt, một cái lư hương ấn ký nổi lên, mắt thấy lấy dần dần do hư chuyển thực, một cái lò chân đã hiện ra cụ thể .",
+        "index": 73
+      }
     },
     {
       "convert": "Lúc này, một hồi cường lực tê liệt cảm lại đột nhiên gấp bội đánh tới, Viên Minh vận hành pháp lực bị ép gián đoạn, trên cánh tay lư hương cũng một lần nữa biến mất, biến mất không thấy.",
@@ -1033,7 +1343,12 @@
           0.18
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这时，一阵强力的麻痹感却突然加倍袭来，袁铭运行的法力被迫中断，手臂上的香炉也重新隐去，消失不见了。",
+        "text": "Lúc này, một trận cường lực đích tê liệt cảm lại đột nhiên gấp bội đánh úp lại, Viên Minh vận hành pháp lực bị ép gián đoạn, cánh tay thượng đích lư hương cũng lần nữa biến mất, biến mất không thấy .",
+        "index": 74
+      }
     },
     {
       "convert": "Hi vọng cuối cùng, cũng mất.",
@@ -1045,7 +1360,12 @@
           0.32
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "最后的希望，也没了。",
+        "text": "Hi vọng cuối cùng, cũng mất .",
+        "index": 75
+      }
     },
     {
       "convert": "Viên Minh trong lòng thầm mắng một tiếng, trong đầu lại đột nhiên linh quang lóe lên.",
@@ -1061,7 +1381,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭心中暗骂一声，脑中却突然灵光一闪。",
+        "text": "Viên Minh trong lòng thầm mắng một tiếng, trong đầu lại đột nhiên linh quang chợt lóe .",
+        "index": 76
+      }
     },
     {
       "convert": "\"Mới vừa rồi các hạ mở miệng nhắc nhở, tại hạ vô cùng cảm kích, có thể hay không lại làm viện thủ.\"",
@@ -1097,7 +1422,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "话音一落，四周寂寂，并无半个人影回应。",
+        "text": "Tiếng nói vừa dứt, bốn phía yên lặng, cũng không nửa cái bóng người hồi ứng .",
+        "index": 78
+      }
     },
     {
       "convert": "\"Ngươi đã mở miệng nhắc nhở, nhất định là không muốn ta cứ thế mà chết đi đi, còn... Xin giúp ta thoát khốn.\"",
@@ -1136,7 +1466,12 @@
       "dich": "Bốn bề xung quanh vẫn lặng yên, chẳng có chút hồi đáp nào.",
       "suggest": "Bốn phía vẫn yên tĩnh, không có một câu trả lời.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "四周依旧寂静，没有丝毫回应。",
+        "text": "Bốn phía như cũ yên tĩnh, không có chút nào hồi ứng .",
+        "index": 80
+      }
     },
     {
       "convert": "Độc tố tiến một bước lan tràn, Viên Minh yết hầu cũng bắt đầu tê liệt, phát âm cũng bắt đầu vặn vẹo, cắn chữ trở nên mơ hồ không rõ.",
@@ -1160,7 +1495,12 @@
           0.2
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在袁铭几乎陷入绝望的时候，那个声音终于再次传来，依旧像是直接在他脑海中响起：",
+        "text": "Ngay tại Viên Minh cơ hồ lâm vào lúc tuyệt vọng, cái thanh âm kia cuối cùng lần nữa truyền đến, như cũ như là trực tiếp tại trong đầu hắn vang lên :",
+        "index": 82
+      }
     },
     {
       "convert": "\"Ngu xuẩn... gia hỏa.\"",

@@ -1,4 +1,5 @@
 {
+  "currentLine": 112,
   "next": {
     "id": 77,
     "title": "Chương 77: Quy Tàng"
@@ -15,570 +16,777 @@
     {
       "convert": "Ngày thứ hai, sáng sớm.",
       "dich": "Sáng sớm ngày hôm sau.",
-      "suggest": "Sáng sớm ngày thứ hai."
+      "suggest": "Sáng sớm ngày thứ hai.",
+      "approved": true,
+      "chinese": {
+        "raw": "第二日，清晨。",
+        "text": "Ngày thứ hai, sáng sớm .",
+        "index": 0
+      }
     },
     {
       "convert": "Viên Minh sớm liền đi tới hỏa phường, luyện tài sàng chọn công việc, đối với hắn mà nói cũng không khó khăn, tương phản hắn ở vật liệu phân rõ cùng đá vụn sàng lọc tài liệu bên trên làm thuận buồm xuôi gió, rất nhanh liền hoàn thành trong tay sở hữu công việc.",
       "dich": "Viên Minh đến Hỏa phường từ sớm, công việc chọn lọc tài liệu luyện khí với hắn cũng không khó, trái lại còn làm từng công đoạn của việc sàng liệu như phân biệt tài liệu, đập vụn tinh thạch, sàng lọc tài liệu vô cùng trôi chảy, rất nhanh đã làm xong công việc của ngày hôm nay.",
-      "suggest": "Viên Minh sớm đã đi tới Hỏa phường, luyện tài sàng chọn công việc, đối với hắn mà nói cũng không khó khăn gì, hơn nữa hắn còn phân rõ công việc với tài liệu và tài liệu sàng lọc, rất nhanh đã hoàn thành công việc."
+      "suggest": "Viên Minh sớm đã đi tới Hỏa phường, luyện tài sàng chọn công việc, đối với hắn mà nói cũng không khó khăn gì, hơn nữa hắn còn phân rõ công việc với tài liệu và tài liệu sàng lọc, rất nhanh đã hoàn thành công việc.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭早早就来到了火坊，炼材筛选的工作，对于他来说倒是不难，相反他在材料辨别和碎石筛料上做的得心应手，很快就完成了手头上的所有工作。",
+        "text": "Viên Minh sớm liền đi tới lửa phường, 炼 tài sàng chọn đích công tác, đối với hắn mà nói cũng không khó, tương phản hắn tại tài liệu phân rõ cùng đá vụn si liệu thượng làm đích thuận buồm xuôi gió, rất nhanh liền hoàn thành trong tay thượng đích tất cả công tác .",
+        "index": 1
+      }
     },
     {
       "convert": "Hắn không có lãng phí thời gian nghỉ ngơi, mà là lần nữa cầm lấy Chú Tạo Chùy, bắt đầu buồn tẻ không thú vị nhưng lại tràn ngập khiêu chiến luyện phôi hoạt động, chỉ là một phen vất vả về sau, tiến triển lại cũng không thuận lợi.",
       "dich": "Hắn không lãng phí thời gian đi nghỉ ngơi, lập tức lại cầm búa rèn lên, bắt đầu hoạt động luyện phôi buồn tẻ mà đầy thách thức, có điều sau một hồi vất vả mà vẫn tiến triển không được bao nhiêu.",
-      "suggest": "Hắn không lãng phí thời gian nghỉ ngơi, mà lại lần nữa cầm Chú Tạo Chùy lên, lúc đầu khá nhàm chán, nhưng lại tràn ngập hoạt động khiêu chiến luyện phôi, chỉ là sau một phen vất vả mới tiến triển không thuận lợi."
+      "suggest": "Hắn không lãng phí thời gian nghỉ ngơi, mà lại lần nữa cầm Chú Tạo Chùy lên, lúc đầu khá nhàm chán, nhưng lại tràn ngập hoạt động khiêu chiến luyện phôi, chỉ là sau một phen vất vả mới tiến triển không thuận lợi.",
+      "approved": true,
+      "chinese": {
+        "raw": "他没有浪费时间歇息，而是再次拿起铸造锤，开始枯燥乏味却又充满挑战的炼胚活动，只是一番辛苦之后，进展却并不顺利。",
+        "text": "Hắn không có lãng phí thời gian nghỉ ngơi, mà là lần nữa cầm lấy đúc chùy, bắt đầu buồn tẻ chán nản nhưng lại tràn ngập khiêu chiến 炼 phôi hoạt động, chỉ là một phen vất vả sau đó, tiến triển lại cũng không thuận lợi .",
+        "index": 2
+      }
     },
     {
       "convert": "Đối với cái này, hắn cũng không có quá mức nhụt chí, hoàn thành hôm nay nhiệm vụ, đi thiện đường sau khi ăn cơm trưa xong, liền trực tiếp chạy tới Ngự Thú Đường.",
-      "dich": "Hắn đối với vấn đề này cũng không quá nản lòng.",
-      "suggest": "Đối với việc này, hắn cũng không quá để tâm, hoàn thành nhiệm vụ hôm nay, sau khi ăn trưa xong, liền trực tiếp chạy tới Ngự Thú Đường."
+      "dich": "Hắn đối với vấn đề này cũng không quá nản lòng. Sau khi hoàn thành nhiệm vụ ngày hôm nay, hắn liền đi đến nhà ăn ăn cơm trưa, xong liền chạy thẳng tới Ngự Thú Đường.",
+      "suggest": "Đối với việc này, hắn cũng không quá để tâm, hoàn thành nhiệm vụ hôm nay, sau khi ăn trưa xong, liền trực tiếp chạy tới Ngự Thú Đường.",
+      "approved": true,
+      "chinese": {
+        "raw": "对此，他也没有太过气馁，完成今日任务，去膳堂吃过午饭之后，就直接赶往了驭兽堂。",
+        "text": "Đối với cái này, hắn cũng không có quá mức nhụt chí, hoàn thành hôm nay nhiệm vụ, đi thiện đường sau khi ăn cơm trưa xong, liền trực tiếp chạy tới ngự 兽 堂 .",
+        "index": 3
+      }
     },
     {
       "convert": "Viên Minh ngày nay đã biết, trong tông môn ba tòa sơn phong bên trong, vùng đông nam lùn nhất toà kia thuộc về Luyện Lô Đường, xem như hai động chủ địa bàn, chủ yếu phụ trách tông môn linh dược trồng cùng đan dược luyện chế.",
-      "dich": "Sau khi hoàn thành nhiệm vụ ngày hôm nay, hắn liền đi đến nhà ăn ăn cơm trưa, xong liền chạy thẳng tới Ngự Thú Đường.",
-      "suggest": "Viên Minh bây giờ đã biết, trong ba ngọn núi phong ở ba phía trong tông môn, ngọn cao nhất thuộc về Luyện Lô Đường, cũng là địa bàn chủ yếu của tông môn, chủ yếu phụ trách linh dược trồng và đan dược."
+      "dich": "Viên Minh hiện giờ đã biết trong ba ngọn núi ở tông môn, ngọn thấp nhất ở rìa Đông Nam thuộc về Luyện Lô Đường, xem như địa bàn của Nhị động chủ, chủ yếu phụ trách trồng linh dược và luyện chế đan dược cho tông môn.",
+      "suggest": "Viên Minh bây giờ đã biết, trong ba ngọn núi phong ở ba phía trong tông môn, ngọn cao nhất thuộc về Luyện Lô Đường, cũng là địa bàn chủ yếu của tông môn, chủ yếu phụ trách linh dược trồng và đan dược.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭如今已经知道，宗门内的三座山峰当中，东南边最矮的那座属于炼炉堂，算是二洞主的地盘，主要负责宗门灵药的种植和丹药的炼制。",
+        "text": "Viên Minh ngày nay đã biết, trong tông môn đích ba tòa ngọn núi trong đó, vùng đông nam lùn nhất đích toà kia thuộc về 炼 lò 堂, xem như hai động chủ đích địa bàn, chủ yếu phụ trách tông môn linh dược đích gieo trồng cùng đan dược đích luyện chế .",
+        "index": 4
+      }
     },
     {
       "convert": "Trung bộ sơn phong tự không cần phải nói, là Tam động chủ chủ quản Hỏa Luyện Đường chỗ, phụ trách vì tông môn luyện khí.",
-      "dich": "Viên Minh hiện giờ đã biết trong ba ngọn núi ở tông môn, ngọn thấp nhất ở rìa Đông Nam thuộc về Luyện Lô Đường, xem như địa bàn của Nhị động chủ, chủ yếu phụ trách trồng linh dược và luyện chế đan dược cho tông môn.",
-      "suggest": "Sơn phong tự không cần nói cũng biết, là nơi chủ quản của Hỏa Luyện Đường, phụ trách luyện khí cho tông môn."
+      "dich": "Ngọn núi ở giữa thì không cần phải nói, chính là Hỏa Luyện Đường do Tam động chủ quản lý, phụ trách luyện khí cho tông môn.",
+      "suggest": "Sơn phong tự không cần nói cũng biết, là nơi chủ quản của Hỏa Luyện Đường, phụ trách luyện khí cho tông môn.",
+      "approved": true,
+      "chinese": {
+        "raw": "中部的山峰自不必说，是三洞主主管的火炼堂所在，负责为宗门炼器。",
+        "text": "Trung bộ đích ngọn núi tự không cần phải nói, là ba động chủ chủ quản đích hỏa luyện 堂 sở tại, phụ trách vi tông môn luyện khí .",
+        "index": 5
+      }
     },
     {
       "convert": "Mà Đông Bắc bên cạnh cao nhất này tòa đỉnh núi, thì là lỗ lớn chủ quản lý Ngự Thú Đường chỗ, cũng là tông môn thực lực cường đại nhất, địa vị cao nhất đường khẩu.",
-      "dich": "Ngọn núi ở giữa thì không cần phải nói, chính là Hỏa Luyện Đường do Tam động chủ quản lý, phụ trách luyện khí cho tông môn.",
-      "suggest": "Mà đỉnh núi cao nhất phía Bắc là nơi tập trung nhiều lỗ thủng nhất của Ngự Thú Đường, cũng là cửa khẩu chủ quản của tông môn, cũng là cửa khẩu lớn nhất, địa vị cao nhất."
+      "dich": "Còn ngọn núi cao nhất ở phía Đông Bắc là của Ngự Thú Đường do Đại động chủ quản lý, đây cũng chính là đường khẩu có địa vị cao nhất, thực lực cường đại nhất trong tông môn.",
+      "suggest": "Mà đỉnh núi cao nhất phía Bắc là nơi tập trung nhiều lỗ thủng nhất của Ngự Thú Đường, cũng là cửa khẩu chủ quản của tông môn, cũng là cửa khẩu lớn nhất, địa vị cao nhất.",
+      "approved": true,
+      "chinese": {
+        "raw": "而东北边最高的那座山峰，则是大洞主所辖的驭兽堂所在，也是宗门实力最为强大，地位最高的堂口。",
+        "text": "Mà đông bắc bên tối cao đích này tòa đỉnh núi, thì là lỗ lớn chủ quản lý đích ngự 兽 堂 sở tại, cũng là tông môn thực lực cường đại nhất, địa vị cao nhất đích đường khẩu .",
+        "index": 6
+      }
     },
     {
       "convert": "Bởi vì không có bản thân Linh thú, Viên Minh đi đường toàn bộ nhờ một đôi chân, chờ đến đến Ngự Thú Đường địa giới lúc, đã là sau một canh giờ.",
-      "dich": "Còn ngọn núi cao nhất ở phía Đông Bắc là của Ngự Thú Đường do Đại động chủ quản lý, đây cũng chính là đường khẩu có địa vị cao nhất, thực lực cường đại nhất trong tông môn.",
-      "suggest": "Bởi vì không có linh thú bản thân, Viên Minh đi lại hoàn toàn nhờ vào đôi chân, đợi tới địa giới của Ngự Thú Đường thì đã là một canh giờ."
+      "dich": "Do bản thân không có linh thú, Viên Minh đi đường đều nhờ hết vào hai chân, đợi đến khi tới được Ngự Thú Đường đã là một canh giờ sau.",
+      "suggest": "Bởi vì không có linh thú bản thân, Viên Minh đi lại hoàn toàn nhờ vào đôi chân, đợi tới địa giới của Ngự Thú Đường thì đã là một canh giờ.",
+      "approved": true,
+      "chinese": {
+        "raw": "由于没有自己的灵兽，袁铭赶路全靠一双腿，等来到驭兽堂的地界时，已经是一个时辰之后了。",
+        "text": "Bởi vì không có chính mình đích linh thú, Viên Minh chạy đi toàn bộ nhờ một đôi chân, chờ đến đến ngự 兽 堂 đích địa giới thời, đã là sau một canh giờ rồi .",
+        "index": 7
+      }
     },
     {
       "convert": "Ngự Thú Đường tình trạng, cùng Hỏa Luyện Đường hoàn toàn khác biệt.",
-      "dich": "Do bản thân không có linh thú, Viên Minh đi đường đều nhờ hết vào hai chân, đợi đến khi tới được Ngự Thú Đường đã là một canh giờ sau.",
-      "suggest": "Tình trạng Ngự Thú Đường và Hỏa Luyện Đường hoàn toàn khác nhau."
+      "dich": "Tình trạng Ngự Thú Đường khác hẳn Hỏa Luyện Đường.",
+      "suggest": "Tình trạng Ngự Thú Đường và Hỏa Luyện Đường hoàn toàn khác nhau.",
+      "approved": true,
+      "chinese": {
+        "raw": "驭兽堂的状况，和火炼堂截然不同。",
+        "text": "Ngự 兽 堂 đích trạng huống, cùng hỏa luyện 堂 hoàn toàn khác biệt .",
+        "index": 8
+      }
     },
     {
       "convert": "Hắn kiến trúc rộng khắp phân bố ở toàn bộ sơn phong các nơi, chân núi chỗ liền có một tòa hình tròn tiếp đãi đại đường.",
-      "dich": "Tình trạng Ngự Thú Đường khác hẳn Hỏa Luyện Đường.",
-      "suggest": "Kiến trúc của hắn phân bố khắp nơi trong núi, ở chân núi có một đại đường hình tròn."
+      "dich": "Nó có cách mảng kiến trúc nằm phân bố khắp toàn bộ ngọn núi, chỗ chân núi đã có ngay một tòa đại đường hình tròn chuyên dùng để tiếp đón.",
+      "suggest": "Kiến trúc của hắn phân bố khắp nơi trong núi, ở chân núi có một đại đường hình tròn.",
+      "approved": true,
+      "chinese": {
+        "raw": "其建筑广泛分布在整个山峰各处，山脚处便有一座圆形的接待大堂。",
+        "text": "Nó kiến trúc rộng khắp phân bố tại cả ngọn núi các nơi, chân núi chỗ liền có một tòa hình tròn đích tiếp đãi đại sảnh .",
+        "index": 9
+      }
     },
     {
       "convert": "Viên Minh mới vừa tiến vào trong, đối diện liền thấy một cái vóc người cường tráng, mặt có màu đen hình xăm mặt tròn đồ đệ, hướng hắn đi tới.",
-      "dich": "Nó có cách mảng kiến trúc nằm phân bố khắp toàn bộ ngọn núi, chỗ chân núi đã có ngay một tòa đại đường hình tròn chuyên dùng để tiếp đón.",
-      "suggest": "Viên Minh vừa bước vào trong, phía đối diện liền thấy một đệ tử có vóc người cường tráng, mặt tròn mặt tròn, đang tiến tới."
+      "dich": "Viên Minh vừa mới bước vào bên trong đã thấy ngay ở phía đối diện có một đệ tử mặt đen tròn, vóc người cường tráng bước tới phía hắn.",
+      "suggest": "Viên Minh vừa bước vào trong, phía đối diện liền thấy một đệ tử có vóc người cường tráng, mặt tròn mặt tròn, đang tiến tới.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭方一进入其中，迎面就看到一个身材壮硕，面有黑色刺青的圆脸弟子，朝他走了过来。",
+        "text": "Viên Minh vừa mới tiến vào bên trong, nghênh diện liền thấy một cái vóc người cường tráng, mặt có hắc sắc hình xăm đích mặt tròn đệ tử, hướng hắn đi tới .",
+        "index": 10
+      }
     },
     {
       "convert": "\"Ha ha, vị sư đệ này nhìn lạ mặt, là mới nhập môn không lâu a?\"",
-      "dich": "Viên Minh vừa mới bước vào bên trong đã thấy ngay ở phía đối diện có một đệ tử mặt đen tròn, vóc người cường tráng bước tới phía hắn.",
-      "suggest": "\"Ha ha, vị sư đệ này nhìn lạ lắm, chắc mới nhập môn không lâu a?\""
+      "dich": "\"Ha ha, vị sư đệ này nhìn lạ mặt, là mới nhập môn chưa lâu ha?\"",
+      "suggest": "\"Ha ha, vị sư đệ này nhìn lạ lắm, chắc mới nhập môn không lâu a?\"",
+      "approved": true
     },
     {
       "convert": "Tên đệ tử kia cười tủm tỉm nói.",
-      "dich": "\"Ha ha, vị sư đệ này nhìn lạ mặt, là mới nhập môn chưa lâu ha?\"",
-      "suggest": "Tên đệ tử kia cười tủm tỉm nói."
+      "dich": "Tên đệ tử cười híp mắt nói.",
+      "suggest": "Tên đệ tử kia cười tủm tỉm nói.",
+      "approved": true
     },
     {
       "convert": "Viên Minh bị bất thình lình nhiệt tình, làm cho có chút không biết làm sao, chỉ có thể nhẹ gật đầu.",
-      "dich": "Tên đệ tử cười híp mắt nói.",
-      "suggest": "Viên Minh bị nhiệt tình của đối phương làm cho có chút không biết làm sao, chỉ có thể gật đầu đồng ý."
+      "dich": "Viên Minh được tiếp đón nhiệt tình bất thình lình, nhất thời hơi lúng túng, chỉ có thể khẽ gật đầu.",
+      "suggest": "Viên Minh bị nhiệt tình của đối phương làm cho có chút không biết làm sao, chỉ có thể gật đầu đồng ý.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭被这突如其来的热情，弄得有些不知所措，只能点了点头。",
+        "text": "Viên Minh bị bất thình lình đích nhiệt tình, làm cho có chút bối rối, chỉ có thể gật gật đầu .",
+        "index": 12
+      }
     },
     {
       "convert": "\"Sư đệ tới Ngự Thú Đường không cần có cái gì câu thúc, chúng ta bản này chính là vì toàn tông môn sư huynh đệ phục vụ, giá tiền cũng là công đạo rất, có thể thỏa mãn ngươi hết thảy cần!",
-      "dich": "Viên Minh được tiếp đón nhiệt tình bất thình lình, nhất thời hơi lúng túng, chỉ có thể khẽ gật đầu.",
-      "suggest": "\"Sư đệ tới Ngự Thú Đường không cần câu thúc, chúng ta là phục vụ của toàn bộ sư huynh đệ trong tông môn, giá cả cũng rất công đạo, có thể thỏa mãn tất cả những gì ngươi cần!"
+      "dich": "\"Sư đệ đến Ngự Thú Đường không cần câu nệ gì cả, chúng ta đây vốn là vì toàn thể huynh đệ tông môn mà phục vụ, giá tiền cũng rất hợp lý, có thể đáp ứng mọi yêu cầu của ngươi!",
+      "suggest": "\"Sư đệ tới Ngự Thú Đường không cần câu thúc, chúng ta là phục vụ của toàn bộ sư huynh đệ trong tông môn, giá cả cũng rất công đạo, có thể thỏa mãn tất cả những gì ngươi cần!",
+      "approved": true
     },
     {
       "convert": "Không biết sư đệ lần này đến đây, là muốn thuê hay là mua Linh thú nha?",
-      "dich": "\"Sư đệ đến Ngự Thú Đường không cần câu nệ gì cả, chúng ta đây vốn là vì toàn thể huynh đệ tông môn mà phục vụ, giá tiền cũng rất hợp lý, có thể đáp ứng mọi yêu cầu của ngươi!",
-      "suggest": "Không biết sư đệ lần này tới đây là muốn thuê hay mua Linh thú nhỉ?"
+      "dich": "Không biết sư đệ lần này tới đây là muốn thuê hay là mua linh thú nhỉ?",
+      "suggest": "Không biết sư đệ lần này tới đây là muốn thuê hay mua Linh thú nhỉ?",
+      "approved": true
     },
     {
       "convert": "Ta có thể thế ngươi hảo hảo giới thiệu một chút.\"",
-      "dich": "Không biết sư đệ lần này tới đây là muốn thuê hay là mua linh thú nhỉ?",
-      "suggest": "Ta có thể giới thiệu ngươi một chút được không?\""
+      "dich": "Ta có thể giới thiệu chi tiết cho ngươi một chút.\"",
+      "suggest": "Ta có thể giới thiệu ngươi một chút được không?\"",
+      "approved": true
     },
     {
       "convert": "Mặt tròn đồ đệ ý cười càng đậm, hỏi.",
-      "dich": "Ta có thể giới thiệu chi tiết cho ngươi một chút.\"",
-      "suggest": "Đồ đệ mặt tròn càng cười nhiều, hỏi."
+      "dich": "Đệ tử mặt tròn cười càng thêm tươi, hỏi.",
+      "suggest": "Đồ đệ mặt tròn càng cười nhiều, hỏi.",
+      "approved": true
     },
     {
       "convert": "Viên Minh nghe vậy sững sờ, nguyên lai là vì làm ăn, trách không được ân cần như vậy.",
-      "dich": "Đệ tử mặt tròn cười càng thêm tươi, hỏi.",
-      "suggest": "Viên Minh nghe vậy thì sững sờ, hóa ra là vì làm ăn, sao lại ân cần như vậy."
+      "dich": "Viên Minh nghe thế liền sững người, hóa ra là vì làm ăn, khó trách lại ân cần như vậy.",
+      "suggest": "Viên Minh nghe vậy thì sững sờ, hóa ra là vì làm ăn, sao lại ân cần như vậy.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭闻言一愣，原来是为了做生意，怪不得如此殷勤。",
+        "text": "Viên Minh nghe vậy sững sờ, nguyên lai là vì làm ăn, trách không được ân cần như vậy .",
+        "index": 14
+      }
     },
     {
       "convert": "\"Sư huynh hiểu lầm, ta là ở Hành Chấp Đường tiếp nhiệm vụ, tới học tập cơ sở Linh thú nuôi dưỡng tri thức.\"",
-      "dich": "Viên Minh nghe thế liền sững người, hóa ra là vì làm ăn, khó trách lại ân cần như vậy.",
-      "suggest": "\"Sư huynh hiểu lầm rồi, ta nhận nhiệm vụ ở Hành Chấp Đường, tới học tập tri thức cơ sở Linh thú.\""
+      "dich": "\"Sư huynh hiểu ta, ta tiếp nhận nhiệm vụ ở Hành Chấp Đường nên đến học tập tri thức nuôi dưỡng linh thú cơ sở.\"",
+      "suggest": "\"Sư huynh hiểu lầm rồi, ta nhận nhiệm vụ ở Hành Chấp Đường, tới học tập tri thức cơ sở Linh thú.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh cười lắc đầu, nói.",
-      "dich": "\"Sư huynh hiểu ta, ta tiếp nhận nhiệm vụ ở Hành Chấp Đường nên đến học tập tri thức nuôi dưỡng linh thú cơ sở.\"",
-      "suggest": "Viên Minh cười lắc đầu, đáp."
+      "dich": "Viên Minh cười lắc đầu, đáp.",
+      "suggest": "Viên Minh cười lắc đầu, đáp.",
+      "approved": true
     },
     {
       "convert": "Mặt tròn đồ đệ nghe vậy sững sờ, nụ cười trên mặt dần dần biến mất, ngữ khí cũng biến thành lười nhác mấy phần:",
-      "dich": "Viên Minh cười lắc đầu, đáp.",
-      "suggest": "Đồ đệ mặt tròn nghe vậy thì sững sờ, nụ cười trên mặt dần biến mất, ngữ khí cũng trở nên lười nhác:"
+      "dich": "Đệ tử mặt tròn nghe vậy sửng sốt, nụ cười trên mặt dần dần biến mất, giọng điệu cũng trở nên hờ hững.",
+      "suggest": "Đồ đệ mặt tròn nghe vậy thì sững sờ, nụ cười trên mặt dần biến mất, ngữ khí cũng trở nên lười nhác:",
+      "approved": true,
+      "chinese": {
+        "raw": "圆脸弟子闻言一愣，脸上笑容逐渐消失，语气也变得懒散了几分：",
+        "text": "Mặt tròn đệ tử nghe vậy sững sờ, nụ cười trên mặt dần dần tiêu thất, ngữ khí cũng biến thành lờ vờ rồi mấy phần :",
+        "index": 16
+      }
     },
     {
       "convert": "\"A, dạng này a.",
-      "dich": "Đệ tử mặt tròn nghe vậy sửng sốt, nụ cười trên mặt dần dần biến mất, giọng điệu cũng trở nên hờ hững.",
-      "suggest": "\"A, thế này thì thế nào?"
+      "dich": "\"Ồ, ra là thế.",
+      "suggest": "\"A, thế này thì thế nào?",
+      "approved": true
     },
     {
       "convert": "Ngươi tiếp nhiệm vụ, vậy nhưng có Hành Chấp Đường bên kia ký sách?\"",
-      "dich": "\"Ồ, ra là thế.",
-      "suggest": "Ngươi nhận nhiệm vụ mà không có ký sách của Hành Chấp Đường sao?\""
+      "dich": "Ngươi đã tiếp nhận nhiệm vụ, vậy đã có thiêm thư của bên Hành Chấp Đường chưa?\"",
+      "suggest": "Ngươi nhận nhiệm vụ mà không có ký sách của Hành Chấp Đường sao?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh đã sớm chuẩn bị xong, từ trong ngực lấy ra đưa tới.",
-      "dich": "Ngươi đã tiếp nhận nhiệm vụ, vậy đã có thiêm thư của bên Hành Chấp Đường chưa?\"",
-      "suggest": "Viên Minh đã chuẩn bị sẵn từ trước, lấy từ ngực áo ra, đưa tới."
+      "dich": "Viên Minh đã chuẩn bị kỹ từ trước, nhanh chóng lấy từ trong ngực áo ra rồi đưa tới.",
+      "suggest": "Viên Minh đã chuẩn bị sẵn từ trước, lấy từ ngực áo ra, đưa tới.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭早就准备好了，从怀中取出递了过去。",
+        "text": "Viên Minh đã sớm chuẩn bị xong, từ trong lòng lấy ra đưa tới .",
+        "index": 18
+      }
     },
     {
       "convert": "Mặt tròn đồ đệ tiện tay nhận lấy, nhìn một chút, nhíu mày: \"Ngươi này làm sao chỉ có Hành Chấp Đường con dấu, không có trưởng lão kí tên a?\"",
-      "dich": "Viên Minh đã chuẩn bị kỹ từ trước, nhanh chóng lấy từ trong ngực áo ra rồi đưa tới.",
-      "suggest": "Đồ đệ mặt tròn tiện tay nhận lấy, nhìn một chút, nhíu mày: \"Ngươi làm sao chỉ có con dấu Hành Chấp Đường, không có trưởng lão ký tên?\""
+      "dich": "Đệ tử mặt tròn tiện tay tiếp lấy, nhìn một chút rồi nhíu mày nói: \"Ngươi sao chỉ có con dấu của Hành Chấp Đường, không có chữ ký của trưởng lão sao?\"",
+      "suggest": "Đồ đệ mặt tròn tiện tay nhận lấy, nhìn một chút, nhíu mày: \"Ngươi làm sao chỉ có con dấu Hành Chấp Đường, không có trưởng lão ký tên?\"",
+      "approved": true,
+      "chinese": {
+        "raw": "圆脸弟子随手接过来，看了看，皱起了眉头：“你这怎么只有行执堂的印章，没有长老的签名啊？”",
+        "text": "Mặt tròn đệ tử tiện tay nhận lấy, nhìn nhìn, nhíu mày : “ ngươi điều này sao chỉ có hành cầm 堂 đích xác nhận, không có trưởng lão kí tên a ? ”",
+        "index": 19
+      }
     },
     {
       "convert": "Viên Minh nghe vậy, nhướng mày, lúc trước hắn nhưng là cùng Hành Chấp Đường chấp sự lặp đi lặp lại xác nhận qua chỉ cần có con dấu ký sách là được, đối phương rõ ràng là ở tự cao tự đại làm khó dễ với hắn.",
-      "dich": "Đệ tử mặt tròn tiện tay tiếp lấy, nhìn một chút rồi nhíu mày nói: \"Ngươi sao chỉ có con dấu của Hành Chấp Đường, không có chữ ký của trưởng lão sao?\"",
-      "suggest": "Viên Minh nghe vậy, nhướng mày. Lúc trước hắn và Chấp sự Hành Chấp Đường đều lặp đi lặp lại việc chỉ cần có con dấu là được, đối phương rõ ràng đang tự cao tự đại làm khó dễ hắn."
+      "dich": "Viên Minh nghe vậy liền nhướng mày, lúc trước hắn đã xác nhận mấy lần với chấp sự Hành Chấp Đường là chỉ cần có thiêm thư đã đóng dấu là được, đối phương rõ ràng là đang bày ra vẻ làm khó dễ hắn.",
+      "suggest": "Viên Minh nghe vậy, nhướng mày. Lúc trước hắn và Chấp sự Hành Chấp Đường đều lặp đi lặp lại việc chỉ cần có con dấu là được, đối phương rõ ràng đang tự cao tự đại làm khó dễ hắn.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭闻言，眉头一皱，先前他可是和行执堂执事反复确认过只要有印章签书即可，对方明显是在摆架子刁难于他。",
+        "text": "Viên Minh nghe vậy, nhướng mày, lúc trước hắn nhưng là cùng hành cầm 堂 chấp sự hết lần này đến lần khác xác nhận qua chỉ cần có xác nhận ký sách tức khả, đối phương rõ ràng là tại tự cao tự đại làm khó dễ với hắn .",
+        "index": 20
+      }
     },
     {
       "convert": "\"Trở về đi, bổ sung kí tên lại đến xong.\"",
-      "dich": "Viên Minh nghe vậy liền nhướng mày, lúc trước hắn đã xác nhận mấy lần với chấp sự Hành Chấp Đường là chỉ cần có thiêm thư đã đóng dấu là được, đối phương rõ ràng là đang bày ra vẻ làm khó dễ hắn.",
-      "suggest": "\"Trở về đi, nộp bổ sung tên vào lại đi.\""
+      "dich": "\"Đi về đi, bổ sung thêm chữ ký rồi lại đến nhá.\"",
+      "suggest": "\"Trở về đi, nộp bổ sung tên vào lại đi.\"",
+      "approved": true
     },
     {
       "convert": "Mặt tròn đồ đệ tiện tay đem ký sách ném đi trở về, liền muốn quay người.",
-      "dich": "\"Đi về đi, bổ sung thêm chữ ký rồi lại đến nhá.\"",
-      "suggest": "Đồ đệ mặt tròn tiện tay ném cuốn ký sách trở về, định quay người lại."
+      "dich": "Đệ tử mặt tròn thuận tay ném thiêm thư lại, đang định quay người.",
+      "suggest": "Đồ đệ mặt tròn tiện tay ném cuốn ký sách trở về, định quay người lại.",
+      "approved": true
     },
     {
       "convert": "Đúng lúc này, một bóng người đi vào đại sảnh, nhìn thấy Viên Minh một cái chớp mắt, lập tức hướng hắn đi tới.",
-      "dich": "Đệ tử mặt tròn thuận tay ném thiêm thư lại, đang định quay người mặc kệ Viên Minh.",
-      "suggest": "Đúng lúc này, một bóng người đi vào đại sảnh, vừa nhìn thấy Viên Minh liền lập tức đi tới."
+      "dich": "Đúng lúc này, một bóng người bước vào đại sảnh, vừa nhìn thấy Viên Minh liền lập tức đi tới chỗ hắn.",
+      "suggest": "Đúng lúc này, một bóng người đi vào đại sảnh, vừa nhìn thấy Viên Minh liền lập tức đi tới.",
+      "approved": true,
+      "chinese": {
+        "raw": "就在这时，一道人影走进了大厅，看到袁铭的一瞬，立即朝他走了过来。",
+        "text": "Đúng lúc này, một bóng người đi vào đại sảnh, nhìn thấy Viên Minh đích một cái chớp mắt, lập tức hướng hắn đi tới .",
+        "index": 22
+      }
     },
     {
       "convert": "\"Nha, đây không phải... Viên Minh sư đệ sao?\"",
-      "dich": "Đúng lúc này, một bóng người bước vào đại sảnh, vừa nhìn thấy Viên Minh liền lập tức đi tới chỗ hắn.",
-      "suggest": "\"Nha, đây không phải ... Viên Minh sư đệ sao?\""
+      "dich": "\"Chà, đây chẳng phải là ... Viên Minh sư đệ sao?\"",
+      "suggest": "\"Nha, đây không phải ... Viên Minh sư đệ sao?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh nghe tiếng nhìn lại, phát hiện người tới chính là hôm qua thấy qua cái kia chiếu cố Hỏa Sàm Nhi Ngự Thú Đường đồ đệ.",
-      "dich": "\"Chà, đây chẳng phải là ... Viên Minh sư đệ sao?\"",
-      "suggest": "Viên Minh nghe tiếng bước chân, phát hiện người tới chính là đồ đệ vừa mới gặp ở Ngự Thú Đường hôm qua."
+      "dich": "Viên Minh nghe tiếng nhìn lại, phát hiện người đến chính là vị đệ tử Ngự Thú Đường chăm sóc chồn lửa mà hắn mới gặp hôm qua.",
+      "suggest": "Viên Minh nghe tiếng bước chân, phát hiện người tới chính là đồ đệ vừa mới gặp ở Ngự Thú Đường hôm qua.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭闻声看去，发现来人正是昨日见过的那個照顾火馋儿的驭兽堂弟子。",
+        "text": "Viên Minh nghe tiếng nhìn lại, phát hiện người tới chính là hôm qua thấy qua cái chiếu cố lửa thèm muốn nhi đích ngự 兽 đường đệ tử .",
+        "index": 24
+      }
     },
     {
       "convert": "\"Lặc Cống sư huynh, thật là đúng dịp, không nghĩ tới có thể ở chỗ này nhìn thấy ngươi.\"",
-      "dich": "Viên Minh nghe tiếng nhìn lại, phát hiện người đến chính là vị đệ tử Ngự Thú Đường chăm sóc chồn lửa mà hắn mới gặp hôm qua.",
-      "suggest": "\"Lặc Cống sư huynh, thật đúng lúc, không ngờ lại có thể ở chỗ này nhìn thấy huynh.\""
+      "dich": "\"Lặc Cống sư huynh, thật là trùng hợp, không ngờ lại gặp ngươi ở đây.\"",
+      "suggest": "\"Lặc Cống sư huynh, thật đúng lúc, không ngờ lại có thể ở chỗ này nhìn thấy huynh.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh lông mày nhíu lại, chắp tay thi lễ một cái nói.",
-      "dich": "\"Lặc Cống sư huynh, thật là trùng hợp, không ngờ lại gặp ngươi ở đây.\"",
-      "suggest": "Viên Minh nhíu mày, chắp tay thi lễ một cái."
+      "dich": "Viên Minh nhíu mày, chắp tay thi lễ rồi nói.",
+      "suggest": "Viên Minh nhíu mày, chắp tay thi lễ một cái.",
+      "approved": true
     },
     {
       "convert": "\"Viên sư đệ tới đây, xem ra là nghĩ kỹ, dự định khiêu chiến một lần bản thân đi?\"",
-      "dich": "Viên Minh nhíu mày, chắp tay thi lễ rồi nói.",
-      "suggest": "\"Viên sư đệ tới đây, xem ra là đã suy tính kỹ, định khiêu chiến bản thân một lần?\""
+      "dich": "\"Viên sư đệ tới, xem ra là đã nghĩ kỹ, dự định khiêu chiến bản thân một chuyến hả?\"",
+      "suggest": "\"Viên sư đệ tới đây, xem ra là đã suy tính kỹ, định khiêu chiến bản thân một lần?\"",
+      "approved": true
     },
     {
       "convert": "Lặc Cống đi đến Viên Minh trước mặt, liếc qua trong tay hắn ký sách, lập tức hiểu được, cười nói.",
-      "dich": "\"Viên sư đệ tới, xem ra là đã nghĩ kỹ, dự định khiêu chiến bản thân một chuyến hả?\"",
-      "suggest": "Lặc Cống đi tới trước mặt Viên Minh, liếc mắt qua quyển ký sách trong tay hắn, lập tức hiểu ra, cười nói."
+      "dich": "Lặc Cống đi đến trước mặt Viên Minh, liếc qua thiêm thư trong tay hắn một cái liền hiểu ngay, bèn cười nói.",
+      "suggest": "Lặc Cống đi tới trước mặt Viên Minh, liếc mắt qua quyển ký sách trong tay hắn, lập tức hiểu ra, cười nói.",
+      "approved": true
     },
     {
       "convert": "\"Khụ khụ, Lặc Cống sư huynh, nguyên lai các ngươi nhận biết a...\"",
-      "dich": "Lặc Cống đi đến trước mặt Viên Minh, liếc qua thiêm thư trong tay hắn một cái liền hiểu ngay, bèn cười nói.",
-      "suggest": "\"Khụ khụ, thì ra là Lặc Cống sư huynh, thì ra các ngươi đã nhận biết qua ...\""
+      "dich": "\"Khụ khụ, Lặc Cống sư huynh, hóa ra các ngươi quen biết a...\"",
+      "suggest": "\"Khụ khụ, thì ra là Lặc Cống sư huynh, thì ra các ngươi đã nhận biết qua ...\"",
+      "approved": true
     },
     {
       "convert": "Mặt tròn đồ đệ cười ngượng ngùng một tiếng, nói.",
-      "dich": "\"Khụ khụ, Lặc Cống sư huynh, hóa ra các ngươi quen biết a...\"",
-      "suggest": "Đồ đệ mặt tròn ngượng ngùng nói."
+      "dich": "Đệ tử mặt tròn trơ trẽn cười nói.",
+      "suggest": "Đồ đệ mặt tròn ngượng ngùng nói.",
+      "approved": true
     },
     {
       "convert": "Lặc Cống nhìn thoáng qua ánh mắt của hắn biến hóa, liền biết cái thằng này lại tại làm khó dễ người khác, lúc này khoát tay áo, nói ra:",
-      "dich": "Đệ tử mặt tròn trơ trẽn cười nói.",
-      "suggest": "Lặc Cống nhìn thoáng biến hóa của hắn, lập tức biết tên này đang làm khó dễ người khác, lập tức khoát tay áo, nói:"
+      "dich": "Lặc Cống liếc nhìn sự biến hóa trong ánh mắt gã, biết ngay tên này lại đang làm khó dễ người khác, liền khoát tay, nói:",
+      "suggest": "Lặc Cống nhìn thoáng biến hóa của hắn, lập tức biết tên này đang làm khó dễ người khác, lập tức khoát tay áo, nói:",
+      "approved": true
     },
     {
       "convert": "\"Ta mang Viên Minh sư đệ vào núi chính là, nơi này không cần ngươi quản, làm việc của ngươi đi thôi.\"",
-      "dich": "Lặc Cống liếc nhìn sự biến hóa trong ánh mắt gã, biết ngay tên này lại đang làm khó dễ người khác, liền khoát tay, nói:",
-      "suggest": "\"Ta dẫn Viên Minh sư đệ vào núi là vì nơi này không cần ngươi quản, cứ làm việc của ngươi đi.\""
+      "dich": "\"Ta dẫn Viên Minh sư đệ vào núi là được, nơi này không cần ngươi quản, lo việc của ngươi đi.\"",
+      "suggest": "\"Ta dẫn Viên Minh sư đệ vào núi là vì nơi này không cần ngươi quản, cứ làm việc của ngươi đi.\"",
+      "approved": true
     },
     {
       "convert": "\"Được rồi.\" Mặt tròn đồ đệ lại không nói kí tên sự tình, lập tức quay người đi.",
-      "dich": "\"Ta dẫn Viên Minh sư đệ vào núi là được, nơi này không cần ngươi quản, lo việc của ngươi đi.\"",
-      "suggest": "\"Được rồi.\" Đồ đệ mặt tròn không nói chuyện kí tên, lập tức quay người đi."
-    },
-    {
-      "convert": "\"Viên Minh sư đệ, đi theo ta đi.\"",
       "dich": "\"Được rồi.\" Đệ tử mặt trong không nhắc chuyện ký tên nữa, lập tức quay người bước đi.",
-      "suggest": "\"Viên Minh sư đệ, đi theo ta.\""
+      "suggest": "\"Được rồi.\" Đồ đệ mặt tròn không nói chuyện kí tên, lập tức quay người đi.",
+      "approved": true
     },
     {
-      "convert": "Lặc Cống nói xong, liền dẫn Viên Minh xuyên qua đại sảnh, từ cửa sau đi ra ngoài.",
+      "convert": "\"Viên Minh sư đệ, đi theo ta đi.\" Lặc Cống nói xong, liền dẫn Viên Minh xuyên qua đại sảnh, từ cửa sau đi ra ngoài.",
       "dich": "\"Viên Minh sư đệ, đi theo ta.\" Lặc Cống nói xong liền dẫn Viên Minh xuyên qua đại sảnh, từ cửa sau bước ra ngoài.",
-      "suggest": "Lặc Cống vừa nói xong, liền dẫn Viên Minh xuyên qua đại sảnh, đi ra phía sau."
+      "suggest": "\"Viên Minh sư đệ, đi theo ta.\" Lặc Cống vừa nói xong, liền dẫn Viên Minh xuyên qua đại sảnh, đi ra phía sau.",
+      "approved": true
     },
     {
       "convert": "Ra khỏi sơn môn đại đường, Viên Minh đầu tiên là đi tới một tòa rộng lớn quảng trường, đối diện liền thấy một tòa cự đại hình tròn kiến trúc, toàn thân lấy tảng đá lũy thế, nhìn xem liền mười phần kiên cố.",
       "dich": "Ra khỏi đại đường chỗ sơn môn, Viên Minh đầu tiên là đi tới một quảng trường rộng lớn, phía đối diện thấy một tòa kiến trúc hình tròn được xây dựng hoàn toàn bằng đá tảng xếp chồng, thoạt nhìn vô cùng kiên cố.",
-      "suggest": "Ra khỏi sơn môn đại đường, Viên Minh bước đầu tiên đi tới quảng trường rộng lớn, phía đối diện là một tòa kiến trúc hình tròn cực lớn, toàn thân được xây dựng từ đá, trông rất chắc chắn."
+      "suggest": "Ra khỏi sơn môn đại đường, Viên Minh bước đầu tiên đi tới quảng trường rộng lớn, phía đối diện là một tòa kiến trúc hình tròn cực lớn, toàn thân được xây dựng từ đá, trông rất chắc chắn.",
+      "approved": true
     },
     {
       "convert": "Gặp Viên Minh ném đi hiếu kì ánh mắt, Lặc Cống chủ động giải thích nói: \"Đây là đấu thú trường, tông môn đồ đệ có thể mang bản thân Linh thú đến đây giao đấu, chiến thắng, có thể thu hoạch được đại lượng điểm cống hiến ban thưởng.\"",
       "dich": "Thấy ánh mắt hiếu kỳ của Viên Minh, Lặc Cống chử động chủ động lên tiếng giải thích: \"Đây là Đấu Thú trường, đệ tử tông môn có thể mang linh thú của mình đến đây giao đâu, nếu giành thắng lợi thì có thể thu được phần thưởng là lượng lớn điểm cống hiến.\"",
-      "suggest": "Thấy Viên Minh ném ánh mắt hiếu kì về phía mình, Lặc Cống chủ động giải thích: \"Đây là đấu thú trường, đồ đệ tông môn có thể mang linh thú của mình đến đây giao đấu, chiến thắng sẽ được ban thưởng lớn.\""
+      "suggest": "Thấy Viên Minh ném ánh mắt hiếu kì về phía mình, Lặc Cống chủ động giải thích: \"Đây là đấu thú trường, đồ đệ tông môn có thể mang linh thú của mình đến đây giao đấu, chiến thắng sẽ được ban thưởng lớn.\"",
+      "approved": true
     },
     {
       "convert": "\"Bình thường lúc nào sẽ có giao đấu, có thể đứng ngoài quan sát sao?\"",
       "dich": "\"Bình thường lúc nào sẽ có giao đấu, có thể đứng ngoài quan sát không?\"",
-      "suggest": "\"Bình thường lúc nào cũng có giao đấu, có thể đứng ngoài quan sát sao?\""
+      "suggest": "\"Bình thường lúc nào cũng có giao đấu, có thể đứng ngoài quan sát sao?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh nghe vậy, lập tức hứng thú.",
       "dich": "Viên Minh nghe thế, lập tức thấy hứng thú.",
-      "suggest": "Viên Minh nghe vậy, lập tức có hứng thú hỏi."
+      "suggest": "Viên Minh nghe vậy, lập tức có hứng thú hỏi.",
+      "approved": true
     },
     {
       "convert": "\"Bình thường mỗi tháng sẽ có một lần, căn cứ tham dự nhân số nhiều ít sẽ có không chừng buổi diễn.",
       "dich": "\"Thông thường mỗi tháng sẽ có một lần, số lượt đấu không cố định, tùy theo số người tham gia.",
-      "suggest": "\"Mỗi tháng sẽ có một lần, căn cứ vào số người tham gia mà mỗi tháng sẽ có một buổi diễn không chừng."
+      "suggest": "\"Mỗi tháng sẽ có một lần, căn cứ vào số người tham gia mà mỗi tháng sẽ có một buổi diễn không chừng.",
+      "approved": true
     },
     {
       "convert": "Không tham gia giao đấu trưởng lão đồ đệ cũng đều có thể đứng ngoài quan sát, bất quá muốn giao nạp mười điểm cống hiến ra trận phí.\"",
       "dich": "Đệ tử trưởng lão không tham gia giao đấu cũng có thể đứng ngoài xem, có điều phải nộp mười điểm cống hiến phí nhập trường.\"",
-      "suggest": "Đồ đệ không tham gia giao đấu cũng có thể đứng ngoài quan sát, chỉ có điều phải giao nộp mười điểm cống hiến ra trận.\""
+      "suggest": "Đồ đệ không tham gia giao đấu cũng có thể đứng ngoài quan sát, chỉ có điều phải giao nộp mười điểm cống hiến ra trận.\"",
+      "approved": true
     },
     {
       "convert": "Lặc Cống nói.",
-      "dich": "Lặc Cống giảng giả chi tiết.",
-      "suggest": "Lặc Cống nói."
+      "dich": "Lặc Cống nói.",
+      "suggest": "Lặc Cống nói.",
+      "approved": true
     },
     {
       "convert": "\"Quả nhiên không phải miễn phí...\"",
       "dich": "\"Quả nhiên không phải miễn phí ...\"",
-      "suggest": "\"Quả nhiên không miễn phí ...\""
+      "suggest": "\"Quả nhiên không miễn phí ...\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh ở thầm nghĩ trong lòng.",
       "dich": "Viên Minh thầm nghĩ trong lòng.",
-      "suggest": "Viên Minh thầm nghĩ."
+      "suggest": "Viên Minh thầm nghĩ.",
+      "approved": true
     },
     {
       "convert": "\"Nói đến đây cái, mỗi lần giao đấu đều náo nhiệt cực kỳ!",
       "dich": "\"Nói tới lại nhớ, mỗi lần giao đấu đều vô cùng náo nhiệt!",
-      "suggest": "\"Nói đến đây thôi, mỗi lần giao đấu đều cực kỳ náo nhiệt!"
+      "suggest": "\"Nói đến đây thôi, mỗi lần giao đấu đều cực kỳ náo nhiệt!",
+      "approved": true
     },
     {
       "convert": "Người quan sát cũng có thể căn cứ phán đoán của mình đặt cược, một khi áp chú một phương chiến thắng, liền có thể căn cứ tỉ lệ đặt cược thu hoạch được điểm cống hiến ban thưởng.\"",
       "dich": "Người xem cũng có thể dựa vào phán đoán của mình mà đặt cược, một khi bên mình đặt giành chiến thắng là có thể dựa vào tỷ lệ đặt cược thu hoạc được phần thưởng điểm cống hiến.\"",
-      "suggest": "Người quan sát cũng có thể căn cứ phán đoán của mình mà đặt cược, một khi áp chú chiến thắng, lập tức có thể căn cứ theo tỉ lệ đặt cược mà thu được điểm cống hiến ban thưởng.\""
+      "suggest": "Người quan sát cũng có thể căn cứ phán đoán của mình mà đặt cược, một khi áp chú chiến thắng, lập tức có thể căn cứ theo tỉ lệ đặt cược mà thu được điểm cống hiến ban thưởng.\"",
+      "approved": true
     },
     {
       "convert": "Lặc Cống hơi có chút hưng phấn nói.",
       "dich": "Lặc Cống có chút hưng phấn nói.",
-      "suggest": "Lặc Cống có chút hưng phấn nói."
+      "suggest": "Lặc Cống có chút hưng phấn nói.",
+      "approved": true
     },
     {
       "convert": "\"Còn có thể dạng này?\"",
       "dich": "\"Còn có thể như vậy?\"",
-      "suggest": "\"Còn có thể như thế này sao?\""
+      "suggest": "\"Còn có thể như thế này sao?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh ngoài miệng nói như vậy, nhưng trong lòng lại nghĩ: \"Cái này không phải liền là đánh bạc a?",
       "dich": "Viên Minh ngoài miệng nói vậy, nhưng trong lòng lại nghĩ: \"Cái này không phải chính là đánh bạc sao?",
-      "suggest": "Viên Minh ngoài miệng nói như vậy, nhưng trong lòng lại nghĩ: \"Đây không phải là đánh bạc sao?"
+      "suggest": "Viên Minh ngoài miệng nói như vậy, nhưng trong lòng lại nghĩ: \"Đây không phải là đánh bạc sao?",
+      "approved": true
     },
     {
       "convert": "Không nghĩ tới người tu tiên, trên một điểm này, cùng phàm nhân cũng là không sai.\"",
       "dich": "Không ngờ người tu tiên trên phương diện này cũng chẳng khác gì phàm nhân.\"",
-      "suggest": "Không ngờ người tu tiên có một điểm này, so với phàm nhân cũng không tệ.\""
+      "suggest": "Không ngờ người tu tiên có một điểm này, so với phàm nhân cũng không tệ.\"",
+      "approved": true
     },
     {
       "convert": "Hai người đang khi nói chuyện, lách qua đấu thú trường, dọc theo phía sau đường núi, bắt đầu hướng phía đỉnh núi phương hướng đi đến.",
       "dich": "Trong lúc nói chuyện, hai người vòng qua Đấu Thú trường, tiếp đó đi dọc theo con đường núi phía sau, rồi bắt đầu đi lên phía đỉnh núi.",
-      "suggest": "Hai người đang nói chuyện, lách qua đấu thú trường, dọc theo con đường mòn phía sau, bắt đầu đi về phía đỉnh núi."
+      "suggest": "Hai người đang nói chuyện, lách qua đấu thú trường, dọc theo con đường mòn phía sau, bắt đầu đi về phía đỉnh núi.",
+      "approved": true
     },
     {
       "convert": "Ven đường cây cối rậm rạp, ở trong thấp thoáng lấy từng tòa lớn nhỏ quy cách khác biệt kiến trúc, số lượng so với Hỏa Luyện Đường không biết nhiều gấp bao nhiêu lần, ẩn ẩn có các loại thú rống thanh âm truyền ra.",
       "dich": "Hai bên đường cây cối rậm rạp, bên trong thấp thoáng thấy từng tòa kiến trúc quy mô, kiểu cách khác nhau, số lượng không biết gấp bao nhiêu lần Hỏa Luyện Đường, thỉnh thoảng còn loáng thoáng nghe đủ loại tiếng thú rống truyền ra.",
-      "suggest": "Ven đường cây cối rậm rạp, thấp thoáng thấy từng tòa kiến trúc có quy mô lớn nhỏ khác nhau, số lượng không biết nhiều hơn Hỏa Luyện Đường bao nhiêu lần, ẩn ẩn có tiếng thú rống."
+      "suggest": "Ven đường cây cối rậm rạp, thấp thoáng thấy từng tòa kiến trúc có quy mô lớn nhỏ khác nhau, số lượng không biết nhiều hơn Hỏa Luyện Đường bao nhiêu lần, ẩn ẩn có tiếng thú rống.",
+      "approved": true
     },
     {
       "convert": "Đi tới giữa sườn núi một mảnh khoáng đạt quảng trường, Lặc Cống dừng bước, đối Viên Minh căn dặn nói ra:",
       "dich": "Đi đến một quảng trường rộng rãi giữa sườn núi, Lặc Cống dừng bước, quay qua dặn dò Viên Minh:",
-      "suggest": "Đi tới quảng trường trên sườn núi một vùng khoáng đạt, Lặc Cống dừng bước, căn dặn Viên Minh:"
+      "suggest": "Đi tới quảng trường trên sườn núi một vùng khoáng đạt, Lặc Cống dừng bước, căn dặn Viên Minh:",
+      "approved": true
     },
     {
       "convert": "\"Không phải bổn đường đồ đệ bởi vì công tới học tập ngự thú địa phương ngay ở phía trước thú vườn, ta một hồi mang ngươi tới cùng Chấp Sự trưởng lão đăng ký một lần là được.",
       "dich": "\"Chỗ để người không phải đệ tử bổn đường vì việc công tới học tập ngự thú chính là thú viên ở đằng trước, ta chút nữa dẫn đến đăng ký với trưởng lão chấp sự một lát là được.",
-      "suggest": "\"Không phải đồ đệ vì công mà tới học tập ngự thú ở địa phương ngay trước vườn ngự thú sao, lát nữa ta sẽ dẫn ngươi tới đăng ký với Chấp Sự trưởng lão là được."
+      "suggest": "\"Không phải đồ đệ vì công mà tới học tập ngự thú ở địa phương ngay trước vườn ngự thú sao, lát nữa ta sẽ dẫn ngươi tới đăng ký với Chấp Sự trưởng lão là được.",
+      "approved": true
     },
     {
       "convert": "Học tập xong, dựa theo đường cũ trở về, không nên chạy loạn.",
       "dich": "Học xong thì theo đường cũ trở về, không được đi lung tung.",
-      "suggest": "Học xong, cứ dựa theo đường cũ trở về, không nên chạy loạn."
+      "suggest": "Học xong, cứ dựa theo đường cũ trở về, không nên chạy loạn.",
+      "approved": true
     },
     {
       "convert": "Chúng ta cái này Ngự Thú Đường nhiều quy củ, đẳng cấp nghiêm, đặc biệt là sườn núi trở lên khu vực, kia là nội môn đệ tử phạm vi hoạt động, bình thường là không thể đi.\"",
       "dich": "Ngự Thú Đường chúng ta nhiều quy củ, đăng cấp nghiêm ngặt, đặc biệt là khu vực từ sườn núi trở lên, đó là phạm vi hoạt động của đệ tử nội môn, bình thường không được tới.\"",
-      "suggest": "Ngự Thú Đường chúng ta có nhiều quy định, đẳng cấp nghiêm ngặt, đặc biệt là khu vực sườn núi, đó là phạm vi hoạt động của đệ tử nội môn, bình thường là không thể đi.\""
+      "suggest": "Ngự Thú Đường chúng ta có nhiều quy định, đẳng cấp nghiêm ngặt, đặc biệt là khu vực sườn núi, đó là phạm vi hoạt động của đệ tử nội môn, bình thường là không thể đi.\"",
+      "approved": true
     },
     {
       "convert": "\"Đa tạ sư huynh, ta nhớ kỹ.\" Viên Minh gật đầu nói.",
-      "dich": "\"Đa ta sư huynh, ta nhớ kỹ rồi.\"",
-      "suggest": "\"Đa tạ sư huynh, ta nhớ kỹ.\" Viên Minh gật đầu nói."
+      "dich": "\"Đa ta sư huynh, ta nhớ kỹ rồi.\" Viên Minh gật đầu nói.",
+      "suggest": "\"Đa tạ sư huynh, ta nhớ kỹ.\" Viên Minh gật đầu nói.",
+      "approved": true
     },
     {
       "convert": "Nói xong, hai người liền tới đến một tòa chiếm diện tích không nhỏ viện lạc, đi vào phía trước nhất đại điện.",
-      "dich": "Viên Minh gật đầu nói.",
-      "suggest": "Nói xong, hai người liền đi tới trước một tòa viện lạc chiếm diện tích không nhỏ, đi tới trước một đại điện."
+      "dich": "Nói xong, hai người liền đi tới một tòa viện lạc chiếm diện tích khá lớn, bước vào trong đại điện phía trước nhất.",
+      "suggest": "Nói xong, hai người liền đi tới trước một tòa viện lạc chiếm diện tích không nhỏ, đi tới trước một đại điện.",
+      "approved": true
     },
     {
       "convert": "Quản lý nơi này Chấp Sự trưởng lão, là một cái vóc người gầy gò, súc lấy hai phiết râu cá trê trung niên nhân, nhìn thấy Lặc Cống mang theo một người xa lạ tới, lại hỏi: \"Lặc Cống tới nha, bên cạnh ngươi vị này, là Hỏa Luyện Đường đồ đệ a?\"",
-      "dich": "Nói xong, hai người liền đi tới một tòa viện lạc chiếm diện tích khá lớn, bước vào trong đại điện phía trước nhất.",
-      "suggest": "Chấp Sự trưởng lão quản lý nơi này, là một người gầy gò, bộ râu quai nón, nhìn thấy Lặc Cống dẫn theo một người xa lạ, lại hỏi: \"Lặc Cống tới rồi, vị này là đồ đệ Hỏa Luyện Đường a?\""
+      "dich": "Trưởng lão chấp sự quản lý nơi này là một người đàn ông trung niên vóc dáng gày gò, mặt nuôi hai chòm râu cá trê, nhìn thấy Lặc Cống dẫn một người xa lạ tới liền hỏi: \"Lặc Cống đến à, vị bên cạnh người là đệ tử Hỏa Luyện Đường đúng không?\"",
+      "suggest": "Chấp Sự trưởng lão quản lý nơi này, là một người gầy gò, bộ râu quai nón, nhìn thấy Lặc Cống dẫn theo một người xa lạ, lại hỏi: \"Lặc Cống tới rồi, vị này là đồ đệ Hỏa Luyện Đường a?\"",
+      "approved": true
     },
     {
       "convert": "\"Đồ đệ gặp qua Mạc Lỗ chấp sự, lần này tới đây, là tiếp Linh thú nuôi dưỡng nhiệm vụ, tới dự thính học tập.\"",
-      "dich": "Trưởng lão chấp sự quản lý nơi này là một người đàn ông trung niên vóc dáng gày gò, mặt nuôi hai chòm râu cá trê, nhìn thấy Lặc Cống dẫn một người xa lạ tới liền hỏi: \"Lặc Cống đến à, vị bên cạnh người là đệ tử Hỏa Luyện Đường đúng không?\"",
-      "suggest": "\"Đồ đệ đã gặp qua Mạc Lỗ chấp sự, lần này tới đây là nhận nhiệm vụ nuôi dưỡng Linh thú, tới dự thính học tập.\""
+      "dich": "\"Đệ tử bái kiến Mạc Lỗ chấp sự, lần này tới đây là vì nhận nhiệm vụ nuôi dưỡng linh thú, tới dự thính học tập.\"",
+      "suggest": "\"Đồ đệ đã gặp qua Mạc Lỗ chấp sự, lần này tới đây là nhận nhiệm vụ nuôi dưỡng Linh thú, tới dự thính học tập.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh đưa lên ký sách, nói.",
-      "dich": "\"Đệ tử bái kiến Mạc Lỗ chấp sự, lần này tới đây là vì nhận nhiệm vụ nuôi dưỡng linh thú, tới dự thính học tập.\"",
-      "suggest": "Viên Minh cầm lên quyển ký sách, nói."
+      "dich": "Viên Minh trình thiêm thư lên rồi nói.",
+      "suggest": "Viên Minh cầm lên quyển ký sách, nói.",
+      "approved": true
     },
     {
       "convert": "\"Sư đệ học giỏi như vậy, tự nhiên hoan nghênh!",
-      "dich": "Viên Minh trình thiêm thư lên rồi nói.",
-      "suggest": "\"Sư đệ học giỏi như vậy, đương nhiên hoan nghênh!"
+      "dich": "\"Sư đệ hiếu học như vậy, tất nhiên hoan nghênh!",
+      "suggest": "\"Sư đệ học giỏi như vậy, đương nhiên hoan nghênh!",
+      "approved": true
     },
     {
       "convert": "Đến, tới đăng ký một lần, nộp lên năm điểm điểm cống hiến.\"",
-      "dich": "\"Sư đệ hiếu học như vậy, tất nhiên hoan nghênh!",
-      "suggest": "Đến, đăng ký một lần, nộp lên năm điểm cống hiến.\""
+      "dich": "Nào, tới đăng ký một chút, nộp lên năm điểm cống hiến.\"",
+      "suggest": "Đến, đăng ký một lần, nộp lên năm điểm cống hiến.\"",
+      "approved": true
     },
     {
       "convert": "Râu cá trê chấp sự giương mắt nhìn hắn một cái, gật gật đầu nói.",
-      "dich": "Nào, tới đăng ký một chút, nộp lên năm điểm cống hiến.\"",
-      "suggest": "Chấp sự râu cá trê liếc mắt nhìn hắn, gật gật đầu nói."
+      "dich": "Chấp sự râu cá trên giương mắt nhìn hắn một cái, gật gật đầu nói.",
+      "suggest": "Chấp sự râu cá trê liếc mắt nhìn hắn, gật gật đầu nói.",
+      "approved": true
     },
     {
       "convert": "Viên Minh nghe vậy, nhướng mày.",
-      "dich": "Chấp sự râu cá trên giương mắt nhìn hắn một cái, gật gật đầu nói.",
-      "suggest": "Viên Minh nghe vậy, nhướng mày."
+      "dich": "Viên Minh nghe xong, hơi nhướng mày.",
+      "suggest": "Viên Minh nghe vậy, nhướng mày.",
+      "approved": true
     },
     {
       "convert": "Hắn từ Hành Chấp Đường chấp sự nơi đó từng chiếm được minh xác hồi âm, bởi vì công dự thính học tập Linh thú nuôi dưỡng tri thức, là không cần trả tiền, đây là làm một ngự thú lập tông tông môn vốn có ranh giới cuối cùng.",
-      "dich": "Viên Minh nghe xong, hơi nhướng mày.",
-      "suggest": "Hắn từ Chấp sự Hành Chấp Đường nhận được hồi âm rất rõ ràng, bởi vì tri thức dự thính học tập Linh thú là không cần trả tiền, đây là một trong những ranh giới cuối cùng của một ngự thú lập tông."
+      "dich": "Hắn đã nhận được câu trả lời rõ ràng từ chỗ chấp sự Hành Chấp Đường rằng, người đến dự thính học tập tri thức nuôi dưỡng linh thú vì việc công sẽ không phải trả tiền, đây là ranh giới cuối cùng cần phải có của một tông môn lấy ngự thú lập tông.",
+      "suggest": "Hắn từ Chấp sự Hành Chấp Đường nhận được hồi âm rất rõ ràng, bởi vì tri thức dự thính học tập Linh thú là không cần trả tiền, đây là một trong những ranh giới cuối cùng của một ngự thú lập tông.",
+      "approved": true
     },
     {
       "convert": "\"Thế nào, Viên sư đệ có vấn đề gì không?\"",
-      "dich": "Hắn đã nhận được câu trả lời rõ ràng từ chỗ chấp sự Hành Chấp Đường rằng, người đến dự thính học tập tri thức nuôi dưỡng linh thú vì việc công sẽ không phải trả tiền, đây là ranh giới cuối cùng cần phải có của một tông môn lấy ngự thú lập tông.",
-      "suggest": "\"Sao thế, Viên sư đệ có vấn đề gì không?\""
+      "dich": "\"Sao thế, Viên sư đệ có vấn đề gì sao?\"",
+      "suggest": "\"Sao thế, Viên sư đệ có vấn đề gì không?\"",
+      "approved": true
     },
     {
       "convert": "Râu cá trê chấp sự gặp Viên Minh xử tại nguyên chỗ, chậm chạp không nhúc nhích ý tứ, lông mày không khỏi nhăn.",
-      "dich": "\"Sao thế, Viên sư đệ có vấn đề gì sao?\"",
-      "suggest": "Chấp sự râu cá trê thấy Viên Minh đứng nguyên tại chỗ, chậm rãi không nhúc nhích, không khỏi nhíu mày."
+      "dich": "Chấp sự râu cá trê thấy Viên Minh đứng nguyên tại chỗ, chậm chạp không hề có vẻ định nhúc nhích, tràng mày không khỏi nhíu lại.",
+      "suggest": "Chấp sự râu cá trê thấy Viên Minh đứng nguyên tại chỗ, chậm rãi không nhúc nhích, không khỏi nhíu mày.",
+      "approved": true
     },
     {
       "convert": "Viên Minh tự nhiên là không có điểm cống hiến, trong lúc nhất thời cũng thay đổi không ra, vốn đã dự định từ bỏ lúc rời đi, Lặc Cống lại móc ra bản thân ký danh đệ tử lệnh bài, đưa cho Mạc Lỗ chấp sự:",
-      "dich": "Chấp sự râu cá trê thấy Viên Minh đứng nguyên tại chỗ, chậm chạp không hề có vẻ định nhúc nhích, tràng mày không khỏi nhíu lại.",
-      "suggest": "Viên Minh đương nhiên không có điểm cống hiến, trong lúc nhất thời cũng không nghĩ ra được gì, vốn định từ bỏ, Lặc Cống lại móc ra lệnh bài ký danh đệ tử của mình, đưa cho chấp sự Mạc Lỗ:"
+      "dich": "Viên Minh tất nhiên là không có điểm cống hiến, trong lúc nhất thời cũng không biến ra được, khi đang tính từ bỏ quay về, Lặc Cống lại móc lệnh bài đệ tử ký danh của bản thân, đưa cho Mạc Lỗ chấp sự:",
+      "suggest": "Viên Minh đương nhiên không có điểm cống hiến, trong lúc nhất thời cũng không nghĩ ra được gì, vốn định từ bỏ, Lặc Cống lại móc ra lệnh bài ký danh đệ tử của mình, đưa cho chấp sự Mạc Lỗ:",
+      "approved": true
     },
     {
       "convert": "\"Mạc Lỗ chấp sự, vị sư đệ này là mới tới, không hiểu quy củ, từ ta điểm cống hiến ở bên trong chụp đi.\"",
-      "dich": "Viên Minh tất nhiên là không có điểm cống hiến, trong lúc nhất thời cũng không biến ra được, khi đang tính từ bỏ quay về, Lặc Cống lại móc lệnh bài đệ tử ký danh của bản thân, đưa cho Mạc Lỗ chấp sự:",
-      "suggest": "\"Chính sự Mạc Lỗ chấp sự, vị sư đệ này mới tới, không hiểu quy củ, từ trong điểm cống hiến của ta mà chụp lấy.\""
+      "dich": "\"Mạc Lỗ chấp sự, vị sư đệ này mới tới, chưa biết quy củ, trừ điểm cống hiến trong lệnh bài của ta đi.\"",
+      "suggest": "\"Chính sự Mạc Lỗ chấp sự, vị sư đệ này mới tới, không hiểu quy củ, từ trong điểm cống hiến của ta mà chụp lấy.\"",
+      "approved": true
     },
     {
       "convert": "\"Không hiểu quy củ, ngươi cái kia hảo hảo dạy một chút hắn nha, may mà ta người này dễ nói chuyện, gặp được người khác có thể sẽ không như vậy khách khí.\"",
-      "dich": "\"Mạc Lỗ chấp sự, vị sư đệ này mới tới, chưa biết quy củ, trừ điểm cống hiến trong lệnh bài của ta đi.\"",
-      "suggest": "\"Không hiểu quy củ, ngươi hãy hảo hảo dạy hắn một chút, may mà ta người này dễ nói chuyện, gặp người khác sẽ không khách khí như vậy.\""
+      "dich": "\"Chưa biết quy củ, ngươi nên cẩn thận dạy hắn một chút, may mà ta là người dễ nói chuyện, gặp phải người khác có lẽ sẽ không khách khí vậy đâu.\"",
+      "suggest": "\"Không hiểu quy củ, ngươi hãy hảo hảo dạy hắn một chút, may mà ta người này dễ nói chuyện, gặp người khác sẽ không khách khí như vậy.\"",
+      "approved": true
     },
     {
       "convert": "Mạc Lỗ chấp sự sắc mặt hòa hoãn mấy phần.",
-      "dich": "\"Chưa biết quy củ, ngươi nên cẩn thận dạy hắn một chút, may mà ta là người dễ nói chuyện, gặp phải người khác có lẽ sẽ không khách khí vậy đâu.\"",
-      "suggest": "Sắc mặt Mạc Lỗ chấp sự hòa hoãn lại mấy phần."
+      "dich": "Sắc mặt Mạc Lỗ chấp sự dịu đi mấy phần.",
+      "suggest": "Sắc mặt Mạc Lỗ chấp sự hòa hoãn lại mấy phần.",
+      "approved": true
     },
     {
       "convert": "Hắn tiếp nhận lệnh bài, hướng yêu bài của mình bên trên nhấn một cái, lòng bàn tay quang mang lóe lên, chợt lại đem lệnh bài đưa trả lại cho Lặc Cống về sau, quay người hướng phía phía sau cửa đi đến.",
-      "dich": "Sắc mặt Mạc Lỗ chấp sự dịu đi mấy phần.",
-      "suggest": "Hắn nhận lệnh bài, nhấn mạnh vào yêu bài vào một cái, lòng bàn tay lóe lên, sau đó hắn trả lệnh bài cho Lặc Cống, quay người bước về phía cửa sau."
+      "dich": "Y tiếp nhận lệnh bài, đoạn đưa yêu bài của mình điểm một cái lên, tức thì lòng bàn tay y có hào quang lóe lên, xong liền đưa lại lệnh bài cho Lặc Cống rồi xoay người đi tới cánh cổng phía sau.",
+      "suggest": "Hắn nhận lệnh bài, nhấn mạnh vào yêu bài vào một cái, lòng bàn tay lóe lên, sau đó hắn trả lệnh bài cho Lặc Cống, quay người bước về phía cửa sau.",
+      "approved": true
     },
     {
       "convert": "\"Đa tạ sư huynh.",
-      "dich": "Y tiếp nhận lệnh bài, đoạn đưa yêu bài của mình điểm một cái lên, tức thì lòng bàn tay y có hào quang lóe lên, xong liền đưa lại lệnh bài cho Lặc Cống rồi xoay người đi tới cánh cổng phía sau.",
-      "suggest": "\"Đa tạ sư huynh."
+      "dich": "\"Đa tạ sư huynh.",
+      "suggest": "\"Đa tạ sư huynh.",
+      "approved": true
     },
     {
       "convert": "Đằng sau ta nhất định hoàn lại trở về.\"",
-      "dich": "\"Đa tạ sư huynh.",
-      "suggest": "Sau này nhất định ta sẽ trả lại cho ngươi.\""
+      "dich": "Sau này nhất định ta sẽ trả lại.\"",
+      "suggest": "Sau này nhất định ta sẽ trả lại cho ngươi.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh hướng Lặc Cống thành khẩn nói tạ.",
-      "dich": "Sau này nhất định ta sẽ trả lại.\"",
-      "suggest": "Viên Minh thành khẩn nói tạ với Lặc Cống."
+      "dich": "Viên Minh quay qua phía Lặc Cống, chân thành nói lời cám ơn.",
+      "suggest": "Viên Minh thành khẩn nói tạ với Lặc Cống.",
+      "approved": true
     },
     {
       "convert": "\"Việc rất nhỏ, không cần phải nói!",
-      "dich": "Viên Minh quay qua phía Lặc Cống, chân thành nói lời cám ơn.",
-      "suggest": "\"Việc rất nhỏ, không cần phải nói!"
+      "dich": "\"Việc rất nhỏ, không đáng gì!",
+      "suggest": "\"Việc rất nhỏ, không cần phải nói!",
+      "approved": true
     },
     {
       "convert": "Hôm qua nếu không phải ngươi hỗ trợ, Tam động chủ Hỏa Điêu xảy ra vấn đề, ta khẳng định là muốn chịu không nổi.\"",
-      "dich": "\"Việc rất nhỏ, không đáng gì!",
-      "suggest": "Hôm qua nếu không phải ngươi hỗ trợ, Hỏa Điêu của Tam động chủ xảy ra vấn đề, ta khẳng định không chịu nổi.\""
+      "dich": "Hôm qua nếu không nhờ ngươi hỗ trợ, chồn lửa của Tam động chủ xảy ra chuyện thì ta chắc chắn sẽ phải chịu phạt nặng.\"",
+      "suggest": "Hôm qua nếu không phải ngươi hỗ trợ, Hỏa Điêu của Tam động chủ xảy ra vấn đề, ta khẳng định không chịu nổi.\"",
+      "approved": true
     },
     {
       "convert": "Lặc Cống khoát tay áo, thấp giọng nói.",
-      "dich": "Hôm qua nếu không nhờ ngươi hỗ trợ, chồn lửa của Tam động chủ xảy ra chuyện thì ta chắc chắn sẽ phải chịu phạt nặng.\"",
-      "suggest": "Lặc Cống khoát tay, thấp giọng nói."
+      "dich": "Lặc Cống khoát tay áo, nhỏ giọng nói.",
+      "suggest": "Lặc Cống khoát tay, thấp giọng nói.",
+      "approved": true
     },
     {
       "convert": "Đang lúc hai người muốn vượt qua cánh cửa lúc, chợt nghe sau lưng truyền đến một tiếng hét to: \"Dừng lại.\"",
-      "dich": "Lặc Cống khoát tay áo, nhỏ giọng nói.",
-      "suggest": "Khi hai người đang định bước qua cánh cửa, chợt nghe một tiếng hét to từ sau lưng truyền tới: \"Dừng lại.\""
+      "dich": "Đang lúc hai người sắp bước qua bậu cửa, chợt nghe một tiếng hét lớn từ phía sau truyền đến: \"Dừng lại.\"",
+      "suggest": "Khi hai người đang định bước qua cánh cửa, chợt nghe một tiếng hét to từ sau lưng truyền tới: \"Dừng lại.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh nhướng mày, thầm nghĩ trong lòng một tiếng: \"Không may.\"",
-      "dich": "Đang lúc hai người sắp bước qua bậu cửa, chợt nghe một tiếng hét lớn từ phía sau truyền đến: \"Dừng lại.\"",
-      "suggest": "Viên Minh nhướng mày, thầm nghĩ: \"Không may.\""
+      "dich": "Viên Minh nhướng mày, lòng thầm than: \"Xui xẻo.\"",
+      "suggest": "Viên Minh nhướng mày, thầm nghĩ: \"Không may.\"",
+      "approved": true
     },
     {
       "convert": "Lặc Cống không rõ ràng cho lắm, xoay người xem xét, thần sắc hơi đổi, vội vàng ôm quyền nói: \"Khôn Đồ sư huynh, có chuyện gì không?\"",
-      "dich": "Viên Minh nhướng mày, lòng thầm than: \"Xui xẻo.\"",
-      "suggest": "Lặc Cống không rõ ràng lắm, xoay người nhìn lại, thần sắc hơi đổi, vội ôm quyền nói: \"Khôn Đồ sư huynh, có chuyện gì vậy?\""
+      "dich": "Lặc Cống không rõ ràng lắm, xoay người nhìn lại, sắc mặt hơi đổi, vội vàng chắp tay nói: \"Khôn Đồ sư huynh, có chuyện gì sao?\"",
+      "suggest": "Lặc Cống không rõ ràng lắm, xoay người nhìn lại, thần sắc hơi đổi, vội ôm quyền nói: \"Khôn Đồ sư huynh, có chuyện gì vậy?\"",
+      "approved": true
     },
     {
       "convert": "Khôn Đồ trực tiếp không để ý đến hắn hỏi thăm, ánh mắt chỉ trên người Viên Minh dò xét, lộ ra vẻ trêu tức.",
-      "dich": "Lặc Cống không rõ ràng lắm, xoay người nhìn lại, sắc mặt hơi đổi, vội vàng chắp tay nói: \"Khôn Đồ sư huynh, có chuyện gì sao?\"",
-      "suggest": "Khôn Đồ trực tiếp không để ý đến hắn hỏi thăm, ánh mắt nhìn lướt qua người Viên Minh, lộ vẻ trêu tức."
+      "dich": "Khôn Đồ không để ý đến lời hỏi thăm của hắn, ánh mắt nhìn lướt qua người Viên Minh, lộ vẻ trêu tức.",
+      "suggest": "Khôn Đồ trực tiếp không để ý đến hắn hỏi thăm, ánh mắt nhìn lướt qua người Viên Minh, lộ vẻ trêu tức.",
+      "approved": true
     },
     {
       "convert": "Viên Minh bên cạnh quay người hình, cùng Khôn Đồ ánh mắt đối mặt, không có chút nào né tránh.",
       "dich": "Viên Minh ở bên cạnh quay người lại, không hề tránh né, nhìn thẳng vào mắt Khôn Đồ.",
-      "suggest": "Viên Minh bên cạnh quay người, đối mặt với ánh mắt của Khôn Đồ, không né tránh chút nào."
+      "suggest": "Viên Minh bên cạnh quay người, đối mặt với ánh mắt của Khôn Đồ, không né tránh chút nào.",
+      "approved": true
     },
     {
       "convert": "Hắn vốn cho rằng tông môn như thế lớn, không đến mức trùng hợp như vậy, lại không nghĩ rằng thực sẽ gặp gỡ người này, thực tế được xưng tụng là oan gia ngõ hẹp.",
       "dich": "Hắn vốn nghĩ tông môn rộng lớn như vậy thì sẽ chẳng có chuyện trùng hợp đến thế, không ngờ lại đụng phải tên này, thật đúng là oan gia ngõ hẹp.",
-      "suggest": "Hắn vốn cho rằng tông môn lớn như thế, không đến mức trùng hợp như vậy, lại không nghĩ rằng thực sự sẽ gặp người này, thực tế được gọi là oan gia ngõ hẹp."
+      "suggest": "Hắn vốn cho rằng tông môn lớn như thế, không đến mức trùng hợp như vậy, lại không nghĩ rằng thực sự sẽ gặp người này, thực tế được gọi là oan gia ngõ hẹp.",
+      "approved": true
     },
     {
       "convert": "Bất quá làm hắn có chút ngoài ý muốn chính là, Khôn Đồ sau lưng còn đi theo mấy người, phần lớn là một bộ chó săn sắc mặt, nhưng trong đó có một cái mặc trên người phục sức không có Ngự Thú Đường tiêu chí, cũng không có treo đồ đệ lệnh bài, rõ ràng là Ô Lỗ.",
-      "dich": "\"Khôn Đồ sư huynh, hắn ...\" Lặc Cống còn chưa nói hết câu đã bị Khôn Đồ trừng mắt nhìn, lập tức câm như hến.",
-      "suggest": "Nhưng điều khiến hắn bất ngờ chính là, Khôn Đồ sau lưng còn dẫn theo mấy người khác, phần lớn đều là bộ dạng chó săn, nhưng trong đó có một người mặc trang phục không có tiêu chí Ngự Thú Đường, cũng không có lệnh bài của đồ đệ, rõ ràng là Ô Lỗ."
+      "dich": "Nhưng làm hắn có chút ngoài ý muốn chính là sau lưng Khôn Đồ còn đi theo mấy người, phần lớn là bộ dáng sắc mặt chó săn, nhưng trong đó có một kẻ mặc trên người phục sức không có tiêu chí Ngự Thú Đường, cũng không có treo lệnh bài đệ tử, rõ ràng là Ô Lỗ.",
+      "suggest": "Nhưng điều khiến hắn bất ngờ chính là, Khôn Đồ sau lưng còn dẫn theo mấy người khác, phần lớn đều là bộ dạng chó săn, nhưng trong đó có một người mặc trang phục không có tiêu chí Ngự Thú Đường, cũng không có lệnh bài của đồ đệ, rõ ràng là Ô Lỗ.",
+      "approved": true
     },
     {
       "convert": "Ô Lỗ chỉ là mang theo vui vẻ nhìn xem hắn, trong mắt không có ác ý gì, cũng không cùng hắn đánh ý nghĩ bắt chuyện.",
-      "dich": "Mạc Lỗ vốn đã đi đến phía sau cửa đại điện, lúc này cũng dừng bước, quay người nhìn lại, khi thấy người tới là Khôn Đồ, hai hàng râu cá trê bên mép run rẩy, miệng chất đầy vẻ tươi cười, bước nhanh mấy bước tới trước mặt Khôn Đồ, chắp tay nói.",
-      "suggest": "Ô Lỗ chỉ mang theo vẻ vui mừng nhìn hắn, trong mắt không có ý xấu, cũng không có ý định bắt chuyện với hắn."
+      "dich": "Ô Lỗ chỉ mang theo vẻ vui mừng nhìn hắn, trong mắt không có ý xấu, cũng không có ý định bắt chuyện với hắn.",
+      "suggest": "Ô Lỗ chỉ mang theo vẻ vui mừng nhìn hắn, trong mắt không có ý xấu, cũng không có ý định bắt chuyện với hắn.",
+      "approved": true
     },
     {
       "convert": "\"Ta còn tưởng rằng Tam động chủ thu ngươi trở về là có cái gì trọng dụng đâu?",
-      "dich": "\"Khôn Đồ sư huynh, ngọn gió nào thổi ngài tới đây thế này.\"",
-      "suggest": "\"Ta còn tưởng Tam động chủ thu ngươi trở về có trọng dụng gì?"
+      "dich": "\"Ta còn tưởng Tam động chủ thu ngươi vào có trọng dụng gì chứ?",
+      "suggest": "\"Ta còn tưởng Tam động chủ thu ngươi trở về có trọng dụng gì?",
+      "approved": true
     },
     {
       "convert": "Thế nào, chân chạy đến chúng ta Ngự Thú Đường địa giới tới?\"",
-      "dich": "\"Mạc Lỗ, Ngự Thú Đường từ lúc nào lại tùy tiện như vậy, con chó con mèo cũng có thể đi vào sao?",
-      "suggest": "Thế nào, chân chạy tới địa giới của Ngự Thú Đường chúng ta?\""
+      "dich": "Sao, chạy tới địa giới Ngự Thú Đường chúng ta có việc gì?\"",
+      "suggest": "Thế nào, chân chạy tới địa giới của Ngự Thú Đường chúng ta?\"",
+      "approved": true
     },
     {
       "convert": "Khôn Đồ ánh mắt khiêu khích, nhìn xem Viên Minh nói.",
-      "dich": "Vạn nhất mất linh thú quý giá nào thì sao?",
-      "suggest": "Khôn Đồ dùng ánh mắt khiêu khích, nhìn Viên Minh nói."
+      "dich": "Khôn Đồ dùng ánh mắt khiêu khích nhìn Viên Minh nói.",
+      "suggest": "Khôn Đồ dùng ánh mắt khiêu khích, nhìn Viên Minh nói.",
+      "approved": true
     },
     {
       "convert": "\"Khôn Đồ sư huynh, hắn...\" Lặc Cống lời còn chưa nói hết, liền bị Khôn Đồ trừng mắt liếc, lập tức câm như hến.",
-      "dich": "Nếu ngươi cảm thấy công việc chấp sự này làm vất vả quá, ta cũng không ngại đề nghị sư tôn một chút, để ngươi có thể về chuyên tâm tu luyện.\"",
-      "suggest": "\"Khôn Đồ sư huynh, hắn ...\" Lặc Cống còn chưa kịp nói hết lời, đã bị Khôn Đồ trừng mắt liếc nhìn, lập tức câm như hến."
+      "dich": "\"Khôn Đồ sư huynh, hắn ...\" Lặc Cống còn chưa nói hết câu đã bị Khôn Đồ trừng mắt nhìn, lập tức câm như hến.",
+      "suggest": "\"Khôn Đồ sư huynh, hắn ...\" Lặc Cống còn chưa kịp nói hết lời, đã bị Khôn Đồ trừng mắt liếc nhìn, lập tức câm như hến.",
+      "approved": true
     },
     {
       "convert": "Nguyên bản đã đi đến đằng sau cửa điện Mạc Lỗ lúc này cũng dừng bước, quay người nhìn lại, đem nhìn người tới là Khôn Đồ thời điểm, khóe miệng hai phiết râu cá trê run rẩy, lập tức chất đầy nụ cười, chạy chậm mấy bước đi vào Khôn Đồ trước mặt, chắp tay nói:",
-      "dich": "Khôn Đồ liếc mắt nhìn Mạc Lỗ, bóng gió uy bức.",
-      "suggest": "Mạc Lỗ vốn đã đi tới cửa điện phía sau, lúc này cũng dừng bước, quay người nhìn lại, lúc này nhìn thấy người tới là Khôn Đồ, khóe miệng nhếch lên, hai cái mỏ cá trê run rẩy, lập tức nở nụ cười, bước chậm mấy bước tới trước mặt Khôn Đồ, chắp tay nói:"
+      "dich": "Mạc Lỗ vốn đã đi đến phía sau cửa đại điện, lúc này cũng dừng bước, quay người nhìn lại, khi thấy người tới là Khôn Đồ, hai hàng râu cá trê bên mép run rẩy, miệng chất đầy vẻ tươi cười, bước nhanh mấy bước tới trước mặt Khôn Đồ, chắp tay nói.",
+      "suggest": "Mạc Lỗ vốn đã đi tới cửa điện phía sau, lúc này cũng dừng bước, quay người nhìn lại, lúc này nhìn thấy người tới là Khôn Đồ, khóe miệng nhếch lên, hai cái mỏ cá trê run rẩy, lập tức nở nụ cười, bước chậm mấy bước tới trước mặt Khôn Đồ, chắp tay nói:",
+      "approved": true
     },
     {
       "convert": "\"Khôn Đồ sư huynh, ngọn gió nào đem ngài thổi tới.\"",
-      "dich": "\"Ấy, Khôn Đồ sư huynh nói đi đâu vậy!",
-      "suggest": "\"Khôn Đồ sư huynh, ngọn gió nào đưa ngài tới đây?\""
+      "dich": "\"Khôn Đồ sư huynh, ngọn gió nào thổi ngài tới đây thế này.\"",
+      "suggest": "\"Khôn Đồ sư huynh, ngọn gió nào đưa ngài tới đây?\"",
+      "approved": true
     },
     {
       "convert": "\"Mạc Lỗ, Ngự Thú Đường lúc nào như vậy tùy tiện, cái gì a miêu a cẩu đều có thể đi vào sao?",
-      "dich": "Ta vừa thấy tiểu từ này mắt la mày lém, không giống thứ tốt đẹp gì, đang định đuổi hắn đi thì ngài đã đến.",
-      "suggest": "\"Mạc Lỗ, Ngự Thú Đường từ lúc nào lại tùy tiện như vậy, cái gì cũng có thể cho người ta vào được sao?"
+      "dich": "\"Mạc Lỗ, Ngự Thú Đường từ lúc nào lại tùy tiện như vậy, con chó con mèo cũng có thể đi vào sao?",
+      "suggest": "\"Mạc Lỗ, Ngự Thú Đường từ lúc nào lại tùy tiện như vậy, cái gì cũng có thể cho người ta vào được sao?",
+      "approved": true
     },
     {
       "convert": "Vạn nhất ném đi quý trọng gì Linh thú làm sao bây giờ?",
-      "dich": "Này, nói ngươi đó, nơi này là chỗ người có thể tùy tiện đến sao?",
-      "suggest": "Vạn nhất ném ra Linh thú quý giá gì đó thì làm thế nào?"
+      "dich": "Vạn nhất mất linh thú quý giá nào thì sao?",
+      "suggest": "Vạn nhất ném ra Linh thú quý giá gì đó thì làm thế nào?",
+      "approved": true
     },
     {
       "convert": "Ngươi cái này chấp sự nếu như nên được quá cực khổ, ta không ngại cùng sư tôn đề nghị một lần, để ngươi có thể chuyên tâm trở về tu luyện.\"",
-      "dich": "Còn không mau cút đi!\"",
-      "suggest": "Chấp sự này của ngươi nếu như quá cực khổ, ta cũng không ngại cùng sư tôn đề nghị một lần, để ngươi có thể chuyên tâm tu luyện trở về.\""
+      "dich": "Nếu ngươi cảm thấy công việc chấp sự này làm vất vả quá, ta cũng không ngại đề nghị sư tôn một chút, để ngươi có thể về chuyên tâm tu luyện.\"",
+      "suggest": "Chấp sự này của ngươi nếu như quá cực khổ, ta cũng không ngại cùng sư tôn đề nghị một lần, để ngươi có thể chuyên tâm tu luyện trở về.\"",
+      "approved": true
     },
     {
       "convert": "Khôn Đồ nhìn thoáng qua Mạc Lỗ, nói như thế.",
-      "dich": "Mạc Lỗ cười làm lành với Khôn Đồ, xong lập tức hướng về phía Viên Minh nghiêm mặt quát lớn.",
-      "suggest": "Khôn Đồ nhìn thoáng qua Mạc Lỗ, nói."
+      "dich": "Khôn Đồ liếc mắt nhìn Mạc Lỗ, bóng gió uy bức.",
+      "suggest": "Khôn Đồ nhìn thoáng qua Mạc Lỗ, nói.",
+      "approved": true
     },
     {
       "convert": "\"A nha, Khôn Đồ sư huynh nói đây là đâu!",
-      "dich": "Viên Minh từ thần sắc biến hóa trên mặt Lặc Cống khi nhìn thấy Khôn Đồ liền hiểu ngay ra, Khôn Đồ dù là đệ tử mới vào nội môn nhưng địa vị ở Ngự Thú Đường đã rất không tầm thường, chuyện học tập hôm nay nhất định bị lỡ, cứng đầu ở lại cũng chẳng lấy được thứ gì tốt, trái lại còn tạo điều kiện cho gã giội nước bẩn.",
-      "suggest": "\"A, Khôn Đồ sư huynh nói đây là đâu!"
+      "dich": "\"Ấy, Khôn Đồ sư huynh nói đi đâu vậy!",
+      "suggest": "\"A, Khôn Đồ sư huynh nói đây là đâu!",
+      "approved": true
     },
     {
       "convert": "Ta vừa liền xem tiểu tử này tặc mi thử nhãn, không giống như là vật gì tốt, đang định đem hắn đuổi đi đâu, ngài lại tới.",
-      "dich": "Hắn vốn định nói một tiếng cảm tạ Lặc Cống, nhưng lại lo đem phiền phức đến cho y nên không nói gì, lập tức xoay người đi ra phía ngoài đại điện.",
-      "suggest": "Ta vừa rồi xem qua nhãn thần của tiểu tử này, không giống như là thứ gì tốt, đang định đuổi hắn đi đâu, ngài lại đây."
+      "dich": "Ta vừa thấy tiểu từ này mắt la mày lém, không giống thứ tốt đẹp gì, đang định đuổi hắn đi thì ngài đã đến.",
+      "suggest": "Ta vừa rồi xem qua nhãn thần của tiểu tử này, không giống như là thứ gì tốt, đang định đuổi hắn đi đâu, ngài lại đây.",
+      "approved": true
     },
     {
       "convert": "Uy, nói ngươi đâu, nơi này là ngươi tùy tiện có thể tới địa phương sao?",
-      "dich": "\"Đứng lại, ta đã nói để ngươi đi đâu.\"",
-      "suggest": "Uy, nói ngươi nghe, nơi này là nơi ngươi có thể tùy tiện tới đó sao?"
+      "dich": "Này, nói ngươi đó, nơi này là chỗ người có thể tùy tiện đến sao?",
+      "suggest": "Uy, nói ngươi nghe, nơi này là nơi ngươi có thể tùy tiện tới đó sao?",
+      "approved": true
     },
     {
       "convert": "Còn không mau cút đi!\"",
-      "dich": "Khôn Đồ thấy Viên Minh không nhìn minh, sắc mặt càng thêm âm trầm, quát lớn một tiếng.",
-      "suggest": "Còn không mau cút đi!\""
+      "dich": "Còn không mau cút đi!\"",
+      "suggest": "Còn không mau cút đi!\"",
+      "approved": true
     },
     {
       "convert": "Mạc Lỗ đối Khôn Đồ cười làm lành về sau, lập tức hướng về phía Viên Minh sắc mặt nghiêm nghị, vẻ mặt cứng rắn lỗ quát lớn.",
-      "dich": "Hai con chó săn sau lưng gã lập tức nhoáng người một cái, một trái một phải chặn đường đi của Viên Minh.",
-      "suggest": "Mạc Lỗ cười với Khôn Đồ xong, lập tức hướng về phía Viên Minh nghiêm nghị quát lớn."
+      "dich": "Mạc Lỗ cười làm lành với Khôn Đồ, xong lập tức hướng về phía Viên Minh nghiêm mặt quát lớn.",
+      "suggest": "Mạc Lỗ cười với Khôn Đồ xong, lập tức hướng về phía Viên Minh nghiêm nghị quát lớn.",
+      "approved": true
     },
     {
       "convert": "Viên Minh từ Lặc Cống nhìn thấy Khôn Đồ thì thần sắc biến hóa liền đã rõ ràng, Khôn Đồ mặc dù là tân tiến nội môn đệ tử, ở Ngự Thú Đường địa vị cũng đã rất không bình thường, hôm nay học tập sự tình nhất định bị hẫng, cưỡng ép lưu lại cũng không chiếm được cái gì tốt, ngược lại dễ dàng bị hắn giội nước bẩn.",
-      "dich": "Chú giải:",
-      "suggest": "Viên Minh từ khi Lặc Cống nhìn thấy Khôn Đồ thì biến hóa đã rõ ràng, Khôn Đồ dù là đệ tử nội môn, địa vị ở Ngự Thú Đường cũng rất không bình thường, hôm nay học tập nhất định sẽ bị hẫng, cưỡng ép lưu lại cũng không được gì, ngược lại còn dễ dàng bị hắn giội nước bẩn."
+      "dich": "Viên Minh từ thần sắc biến hóa trên mặt Lặc Cống khi nhìn thấy Khôn Đồ liền hiểu ngay ra, Khôn Đồ dù là đệ tử mới vào nội môn nhưng địa vị ở Ngự Thú Đường đã rất không tầm thường, chuyện học tập hôm nay nhất định bị lỡ, cứng đầu ở lại cũng chẳng lấy được thứ gì tốt, trái lại còn tạo điều kiện cho gã giội nước bẩn.",
+      "suggest": "Viên Minh từ khi Lặc Cống nhìn thấy Khôn Đồ thì biến hóa đã rõ ràng, Khôn Đồ dù là đệ tử nội môn, địa vị ở Ngự Thú Đường cũng rất không bình thường, hôm nay học tập nhất định sẽ bị hẫng, cưỡng ép lưu lại cũng không được gì, ngược lại còn dễ dàng bị hắn giội nước bẩn.",
+      "approved": true
     },
     {
       "convert": "Hắn vốn định đối Lặc Cống nói lời cảm tạ một tiếng, nhưng lại sợ cho hắn rước lấy phiền toái không cần thiết, liền không nói gì, liền xoay người hướng phía đi ra ngoài điện.",
-      "dich": "*Thiêm thư: Là dạng công văn có ký tên đóng dấu, giống giấy giới thiệu.",
-      "suggest": "Hắn vốn định nói cảm ơn Lặc Cống một tiếng, nhưng sợ hắn rước lấy phiền toái không cần thiết, liền không nói gì, xoay người đi ra ngoài điện."
+      "dich": "Hắn vốn định nói một tiếng cảm tạ Lặc Cống, nhưng lại lo đem phiền phức đến cho y nên không nói gì, lập tức xoay người đi ra phía ngoài đại điện.",
+      "suggest": "Hắn vốn định nói cảm ơn Lặc Cống một tiếng, nhưng sợ hắn rước lấy phiền toái không cần thiết, liền không nói gì, xoay người đi ra ngoài điện.",
+      "approved": true
     },
     {
       "convert": "\"Dừng lại, ta nói qua để ngươi đi rồi sao?\"",
-      "suggest": "\"Dừng lại, ta đã nói qua để ngươi đi rồi sao?\""
+      "dich": "\"Đứng lại, ta đã nói để ngươi đi đâu.\"",
+      "suggest": "\"Dừng lại, ta đã nói qua để ngươi đi rồi sao?\"",
+      "approved": true
     },
     {
       "convert": "Khôn Đồ gặp Viên Minh bất chấp bản thân, sắc mặt càng thêm âm trầm, hét lớn một tiếng nói.",
-      "suggest": "Khôn Đồ thấy Viên Minh không quan tâm đến bản thân, sắc mặt càng thêm âm trầm, hét lớn một tiếng."
+      "suggest": "Khôn Đồ thấy Viên Minh không quan tâm đến bản thân, sắc mặt càng thêm âm trầm, hét lớn một tiếng.",
+      "dich": "Khôn Đồ thấy Viên Minh không nhìn minh, sắc mặt càng thêm âm trầm, quát lớn một tiếng.",
+      "approved": true
     }
-  ]
+  ],
+  "currentWorkingLine": 113,
+  "changed": true
 }

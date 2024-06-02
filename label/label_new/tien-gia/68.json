@@ -29,7 +29,12 @@
       "convert": "Lúc này, Phương Cách sư huynh chuyện bỗng nhiên nhất chuyển, Viên Minh cho là hắn muốn nói chút ưu điểm của mình, mừng rỡ, cảm thấy cuối cùng có thể tìm về giờ mặt mũi cùng lòng tin.",
       "dich": "Lúc này, Phương Cách sư huynh bỗng đổi đề tài, Viên Minh cho rằng y định nói một chút ưu điểm của mình thì mừng rỡ, cảm thấy rốt cuộc có thể tìm về chút thể diện và lòng tin.",
       "suggest": "Lúc này, câu chuyện của Phương Cách sư huynh bỗng nhiên xoay chuyển, Viên Minh cho rằng hắn muốn nói chút ưu điểm của mình, mừng rỡ, cảm thấy cuối cùng cũng có thể tìm được lòng tin của mình.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这时，方格师兄话锋忽然一转，袁铭以为他要说些自己的优点，精神一振，觉得总算能找回点颜面和信心了。",
+        "text": "Lúc này, ô vuông sư huynh đề tài câu chuyện bỗng nhiên nhất chuyển, Viên Minh cho rằng hắn muốn nói chút ưu điểm của mình, mừng rỡ, cảm thấy cuối cùng năng tìm về điểm mặt mũi cùng lòng tin .",
+        "index": 2
+      }
     },
     {
       "convert": "\"Bất quá, điểm xuất phát cao thấp, quyết định không được tương lai thành tựu.",
@@ -59,13 +64,23 @@
       "convert": "Cứ việc không có nghe được tán dương mình lời nói, một câu kia \"Điểm xuất phát cao thấp, quyết định không được tương lai thành tựu\", vẫn là chân chính xúc động Viên Minh nội tâm.",
       "dich": "Dù không nghe được bất kỳ lời khen ngợi nào dành cho bản thân, nhưng chỉ một câu \"Xuất phát điểm cao thấp không quyết định thành tựu trong tương lai\" vẫn thực sự khiến Viên Minh thấy xúc động.",
       "suggest": "Dù không nghe được lời tán dương của hắn, một câu nói như \"Điểm xuất phát cao thấp, quyết định không được tương lai\", vẫn làm cho Viên Minh xúc động.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "尽管没有听到夸赞自己的话语，那一句“起点的高低，决定不了未来的成就”，还是真正触动了袁铭的内心。",
+        "text": "Cứ việc không có nghe được khen mình lời nói, một câu kia “ khởi điểm đích cao thấp, quyết định không được vị lai đích thành tựu ”, vẫn là chân chính xúc động Viên Minh đích nội tâm .",
+        "index": 4
+      }
     },
     {
       "convert": "Hắn điểm xuất phát là \"Phi Mao thú nô\", đã thấp đến không thể lại thấp, ngày nay mới bò qua cái thứ nhất khảm, thành Bích La Động ký danh đệ tử, liền đem trở thành luyện khí sư, với tư cách cái thứ hai vượt qua khảm đi.",
       "dich": "Xuất phát điểm của hắn chỉ là Phi Mao thú nô, thấp tới không thể thấp hơn được nữa, bây giờ mới leo qua cửa ải đầu tiên, trở thành đệ tử ký danh của Bích La Động, vậy cứ lấy việc trở thành luyện khí sư làm cửa ải thứ hai cần phải vượt qua đi.",
       "suggest": "Hắn xuất phát điểm là 'Phi Mao thú nô', đã thấp đến không thể tiếp tục thấp, hôm nay mới bò qua cái khảm đầu tiên, trở thành đệ tử ký danh Bích La Động, sau đó liền trở thành Luyện Khí sư, với tư cách là người thứ hai vượt qua.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他的起点是“披毛兽奴”，已经低到不能再低了，如今才爬过第一个坎，成了碧罗洞记名弟子，就把成为炼器师，作为第二個越过的坎吧。",
+        "text": "Hắn khởi điểm là “ Phi Mao thú nô ”, đã thấp đến không thể lại thấp rồi, ngày nay mới bò qua cái thứ nhất khảm, thành Bích La Động ký danh đệ tử, liền đem trở thành luyện khí sư, là đệ hai 個 vượt qua đích khảm nhỉ .",
+        "index": 5
+      }
     },
     {
       "convert": "\"Đa tạ sư huynh dạy bảo.\" Viên Minh hít một hơi thật sâu, hướng Phương Cách ôm quyền khom người nói.",
@@ -119,7 +134,12 @@
       "convert": "Viên Minh nhớ tới, bản thân đã đã dùng qua bom khói, tựa hồ chính là xuất từ Hỏa Luyện Đường.",
       "dich": "Viên Minh nhớ lại món đạn khói mà hắn từng dùng, hình như chính là từ Hỏa Luyện Đường mà ra.",
       "suggest": "Viên Minh nhớ ra, bản thân mình đã dùng qua bom khói, tựa hồ chính là xuất thân Hỏa Luyện Đường.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭想起，自己曾用过的烟雾弹，似乎就是出自火炼堂。",
+        "text": "Viên Minh nhớ tới, chính mình từng đã dùng qua bom khói, tựa hồ chính là xuất từ hỏa luyện 堂 .",
+        "index": 10
+      }
     },
     {
       "convert": "\"Minh bạch.\" Viên Minh gật gật đầu.",
@@ -161,85 +181,155 @@
       "convert": "Giờ Mùi về sau, một hồi kim tiếng chiêng âm vang lên.",
       "dich": "Sau giờ Mùi, một hồi tiếng chiêng kim loại vang lên.",
       "suggest": "Sau giờ Mùi, một hồi những tiếng trống sắt vang lên.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "未时之后，一阵金锣声音响起。",
+        "text": "Giờ Mùi sau đó, một trận kim tiếng chiêng âm vang lên .",
+        "index": 16
+      }
     },
     {
       "convert": "Hỏa trong phường bận rộn đã hơn nửa ngày các đệ tử, bắt đầu lục tục ngo ngoe dừng lại rèn đúc rời đi.",
       "dich": "Các đệ tử ở trong Hỏa phường bận rộn hơn nửa ngày, bắt đầu lục tục ngưng rèn rồi rời đi.",
       "suggest": "Đám đệ tử trong phường lửa bận rộn hơn nửa ngày, bắt đầu lục tục tập trung tu luyện, sau đó bắt đầu lục tục rời đi.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "火坊里忙碌了大半天的弟子们，开始陆陆续续停下锻造离开。",
+        "text": "Lửa trong phường bận rộn hơn nửa ngày các đệ tử, bắt đầu lục tục dừng lại rèn rời khỏi .",
+        "index": 17
+      }
     },
     {
       "convert": "Lúc này, mới có người chú ý tới, hỏa trong phường mới tới cái bộ dáng đoan chính, thể phách lại không thế nào tráng kiện người mới.",
       "dich": "Lúc này mới có người để ý thấy, bên trong có một người mới bộ dáng đoan chính, nhưng thể phách lại không được tráng kiện cho lắm.",
       "suggest": "Lúc này mới có người chú ý tới, người mới tới trong phường mới này hình dáng đoan chính, thể phách lại không được tráng kiện như những người mới tới.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这时候，才有人注意到，火坊里新来了个模样周正，体魄却不怎么健硕的新人。",
+        "text": "Lúc này đợi, mới có người chú ý tới, lửa trong phường mới tới cái bộ dáng đoan chính, thể phách nhưng không thế nào to lớn đích tân nhân .",
+        "index": 18
+      }
     },
     {
       "convert": "Bất quá nhìn thấy hắn còn tại ra sức đánh, liền đều không có đi quấy rầy.",
       "dich": "Có điều thấy hắn vẫn đang ra sức nện búa nên mọi người đều không đi qua quấy rầy.",
       "suggest": "Tuy nhiên thấy hắn vẫn đang ra sức đánh đấm, hắn cũng không có đi quấy rầy.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "不过看到他还在卖力捶打，便都没去打扰。",
+        "text": "Chẳng qua nhìn thấy hắn còn tại ra sức đấm đánh, liền đều không đi quấy rầy .",
+        "index": 19
+      }
     },
     {
       "convert": "Qua giờ Mùi ba khắc, Viên Minh mới toàn thân ướt đẫm địa ngừng rèn, tìm tới thiện đường ăn cơm xong đồ ăn về sau, lại đi vọt vào tắm, liền kéo lấy mỏi mệt thân thể quay trở về chỗ ở.",
       "dich": "Qua giờ Mùi ba khắc, Viên Minh, thân ướt đẫm mồ hôi, mới dừng rèn, tìm đến nhà ăn ăn cơm, tiếp đó lại chạy đi tắm, xong xuôi mới lê tấm thân mệt mỏi trở về chỗ ở.",
       "suggest": "Qua thời gian ba khắc, Viên Minh mới ngừng rèn luyện thân thể, tìm tới chỗ thiện đường kiếm đồ ăn xong liền đi vọt vào tắm, sau đó mới kéo thân thể mỏi mệt quay trở về chỗ ở.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "过了未时三刻，袁铭才浑身湿透地停下了锻打，找到膳堂吃过饭菜之后，又去冲了个澡，便拖着疲惫的身子返回了住处。",
+        "text": "Qua giờ Mùi canh ba, Viên Minh mới toàn thân ướt đẫm địa dừng rèn, tìm được thiện đường ăn cơm xong món ăn sau đó, lại đi vọt vào tắm, liền kéo mệt mỏi bại đích thân thể quay trở về chỗ ở .",
+        "index": 20
+      }
     },
     {
       "convert": "Trở lại trong phòng sau khi ngồi xuống, hắn từ trong ngực lấy ra quyển sách kia sách, nhìn thấy phong bì thượng thư có Nam Cương văn tự « Luyện Khí Cơ Yếu », liền mở ra đọc.",
       "dich": "Sau khi bước vào trong phòng ở, Viên Minh ngồi xuống, lấy quyển sách từ trong ngực áo ra, thấy trên bìa sách có đề bốn chữ \"Luyện Khí Cơ Yếu\" bằng văn tự Nam Cương, lập tức mở ra đọc.",
       "suggest": "Sau khi trở lại phòng tu luyện, hắn lấy từ ngực áo ra quyển sách kia, nhìn thấy trên phong bì có ghi rõ văn tự Luyện Khí cơ yếu, liền mở ra đọc.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "回到屋里坐下后，他从怀里取出那本书册，看到封皮上书有南疆文字《炼器基要》，便打开阅读起来。",
+        "text": "Trở lại trong phòng sau khi ngồi xuống, hắn từ trong ngực lấy ra quyển sách kia cuốn, nhìn thấy phong bì dâng thư lên có Nam Cương văn tự 《 luyện khí cơ muốn 》, liền mở ra đọc .",
+        "index": 21
+      }
     },
     {
       "convert": "Lật xem phía dưới, hắn phát hiện bên trong ghi lại đều là liên quan tới luyện khí cơ sở thường thức, tường thuật như là các loại cơ sở vật liệu luyện khí phân biệt, dung luyện khác biệt vật liệu cần lò sưởi nhiệt độ mấy người nội dung.",
       "dich": "Sau khi lật đọc, hắn phát hiện nội dung được ghi chép trong sách đều là những kiến thức cơ bản về luyện khí, ví dụ như cách phân biệt các loại vật liệu luyện khí cơ bản, nhiệt độ hố lửa để nấu chảy các loại vật liệu khác nhau ... vv...",
       "suggest": "Lật xem phần dưới, hắn phát hiện những ghi chép bên trong đều là kiến thức cơ sở liên quan đến luyện khí, tường thuật như là cách phân biệt các loại cơ sở vật liệu luyện khí, dung luyện vật liệu cần lò sưởi.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "翻看之下，他发现里面记载的都是关于炼器的基础常识，详述了诸如各种基础炼器材料的分辨，熔炼不同材料需要的火塘温度等内容。",
+        "text": "Lật xem phía dưới, hắn phát hiện bên trong ghi lại đều là về luyện khí cơ sở thường thức, tỏ tường thuật như là các loại cơ sở vật liệu luyện khí đích phân biệt, luyện bất đồng tài liệu cần lò sưởi độ ấm đợi nội dung .",
+        "index": 22
+      }
     },
     {
       "convert": "Viên Minh lật lên lật lên, đã cảm thấy trước mắt một hồi mơ hồ, đúng là không chịu nổi buồn ngủ, ghé vào bàn bên trên ngủ thiếp đi.",
       "dich": "Viên Minh lật lật sách, cảm thấy trước mắt nhòe đi, buồn ngủ không chịu được liền gục lên bàn ngủ thiếp đi.",
       "suggest": "Viên Minh lật tới lật lui, cảm giác trước mắt mơ hồ, đúng là không chịu nổi buồn ngủ, ghé vào bàn bên cạnh ngủ thiếp đi.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭翻着翻着，就觉得眼前一阵模糊，竟是耐不住困倦，趴在桌案上睡了过去。",
+        "text": "Viên Minh đảo đảo, đã cảm thấy trước mắt một trận mơ hồ, đúng là không chịu nổi buồn ngủ, nằm sấp tại bàn thượng ngủ thiếp đi .",
+        "index": 23
+      }
     },
     {
       "convert": "Cũng không biết trải qua bao lâu, một hồi gió lạnh thổi qua, Viên Minh giật mình bừng tỉnh, vô ý thức sờ về phía bên hông Thanh Ngư Kiếm.",
       "dich": "Cũng không biết qua bao lâu, một con giờ lạnh thổi qua, Viên Minh giật mình bừng tỉnh, vô thức sờ Thanh Ngư Kiếm bên hông.",
       "suggest": "Cũng không biết bao lâu sau, một hồi gió lạnh thổi qua, Viên Minh giật mình bừng tỉnh, vô thức sờ sờ Thanh Ngư Kiếm bên hông.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "也不知过了多久，一阵凉风吹来，袁铭恍然惊醒，下意识摸向腰间青鱼剑。",
+        "text": "Cũng không biết trải qua bao lâu, một trận gió lạnh thổi qua, Viên Minh bừng tỉnh bừng tỉnh, theo bản năng sờ về phía bên hông cá trắm đen 剑 .",
+        "index": 24
+      }
     },
     {
       "convert": "Không tự giác ở giữa, hắn còn cho là mình thân ở Thập Vạn Đại Sơn bên trong, lúc này vì chính mình ngủ được chết như vậy, mà cảm thấy một trận hoảng sợ.",
       "dich": "Trong lúc bất tri bất giác, hắn nghĩ mình vẫn đang ở trong Thập Vạn Đại Sơn, mà mình lúc này lại ngủ say như chết khiến hắn hoảng hồn một trận.",
       "suggest": "Giữa lúc bất tri bất giác, hắn còn tưởng mình đang ở trong Thập Vạn Đại Sơn, lúc này vì mình ngủ say mà cảm thấy hoảng sợ.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "不自觉间，他还以为自己身处在十万大山当中，当即为自己睡得这么死，而感到一阵后怕。",
+        "text": "Không tự giác gian, hắn còn tưởng rằng chính mình thân ở Thập Vạn Đại Sơn trong đó, lúc này vì chính mình ngủ được thế này chết, mà cảm thấy một trận hoảng sợ .",
+        "index": 25
+      }
     },
     {
       "convert": "Nhưng khi thấy rõ quanh mình cảnh vật về sau, hắn lại không khỏi trở nên hoảng hốt.",
       "dich": "Nhưng sau khi nhìn rõ cảnh vật xung quanh, hắn lại không khỏi ngẩn ra một lúc.",
       "suggest": "Nhưng sau khi nhìn thấy cảnh vật xung quanh, hắn lại không khỏi trở nên hoảng hốt.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "可当看清周遭景物后，他又不禁一阵恍惚。",
+        "text": "Nhưng khi xem rõ chung quanh cảnh vật sau, hắn lại không khỏi trở nên hoảng hốt .",
+        "index": 26
+      }
     },
     {
       "convert": "Lúc này, một mảnh ánh trăng trong ngần từ bên ngoài rơi vào, như lụa mỏng đồng dạng trải tại trước người hắn bàn bên trên.",
       "dich": "Lúc này, một mảnh trăng trong ngần từ bên ngoài chiếu vào, nhưa dải lụa mỏng trải lên mặt bàn trước người hắn.",
       "suggest": "Lúc này, một vầng trăng trong suốt từ bên ngoài rơi vào, giống như một tấm lụa mỏng trải trên mặt bàn trước người hắn.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "此时，一片皎洁月光从外面洒落进来，如轻纱一样铺在他身前的桌案上。",
+        "text": "Lúc này, một mảnh sáng tỏ ánh trăng từ bên ngoài rơi vào, 如 lụa mỏng đồng dạng trải tại trước người hắn đích bàn thượng .",
+        "index": 27
+      }
     },
     {
       "convert": "Viên Minh đã tiêu tan bối rối, dứt khoát liền ở trên mặt đất ngồi xuống, hai tay vừa bấm pháp quyết, bắt đầu tu luyện lên « Minh Nguyệt Quyết ».",
       "dich": "Viên Minh đã tan cơn buồn ngủ, liền dứt khoát ngồi xuống mặt đất, hai tay kết quyết, bắt đầu tu luyện Minh Nguyệt Quyết.",
       "suggest": "Viên Minh đã xua tan đi sự bối rối, dứt khoát ngồi xuống mặt đất, hai tay bấm pháp quyết, bắt đầu tu luyện Minh Nguyệt Quyết.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭已经消了困意，索性便席地坐了下来，双手一掐法诀，开始修炼起了《冥月诀》。",
+        "text": "Viên Minh đã tiêu tan bối rối, đơn giản liền ở trên mặt đất ngồi xuống, hai tay vừa bấm pháp quyết, bắt đầu tu luyện lên 《 Minh Nguyệt quyết 》 .",
+        "index": 28
+      }
     },
     {
       "convert": "Ngoài cửa sổ trên cây tùng, một cây hắn không thấy được chạc cây bên trên, một con ngân miêu lười biếng nằm ngang.",
       "dich": "Trên cây tùng ngoài cửa sổ, tại một chạc cây mà hắn không nhìn thấy, một con mèo bạc ườn người nằm dài.",
       "suggest": "Trên một cây tùng ngoài cửa sổ, một cây không thấy đâu, một con mèo bạc lười biếng nằm ngang.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "窗外松树上，一根他看不到的枝桠上，一只银猫慵懒地横躺着。",
+        "text": "Ngoài cửa sổ thả lỏng trên cây, một cây hắn không thấy được chạc cây thượng, một con ngân mèo biếng nhác địa nằm ngang lấy .",
+        "index": 29
+      }
     },
     {
       "convert": "Hắn đầu gối lên chân trước bên trên, hai mắt giống như híp mắt chưa híp mắt, ánh trăng như nước đồng dạng chảy xuôi trên người nó, ở bộ lông màu bạc chiếu lên ra lăn tăn ba quang....",
@@ -251,19 +341,34 @@
       "convert": "Thời gian nhoáng một cái, đi qua nửa tháng.",
       "dich": "Thời gian nhoáng cái đã qua nửa tháng.",
       "suggest": "Thoáng cái đã qua nửa tháng.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "时间一晃，过去了半月。",
+        "text": "Thời gian nhoáng một cái, qua đi rồi nửa tháng .",
+        "index": 32
+      }
     },
     {
       "convert": "Hỏa phường một gian rèn đúc trong phòng, \"Keng keng\" rèn không ngừng bên tai, Viên Minh cầm trong tay rèn đúc chùy, đánh một khối sắt phôi.",
       "dich": "Trong một phòng rèn của Hỏa phường, tiếng \"keng keng\" liên tục vang lên bên tai, Viên Minh tay cầm búa rèn nện lên một khối phôi sắt.",
       "suggest": "Trong một gian luyện đúc trên Hỏa phường, tiếng chuông \"keng keng\" vang lên không ngớt, Viên Minh cầm trùy trong tay, đánh một khối sắt vụn.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "火坊一间铸造屋内，“铛铛”的锻打之声不绝于耳，袁铭手持锻造锤，捶打一块铁胚。",
+        "text": "Lửa phường một gian đúc trong phòng, “ keng keng ” đích rèn không ngừng bên tai, Viên Minh cầm trong tay rèn chùy, đấm đánh một khối thiết phôi .",
+        "index": 33
+      }
     },
     {
       "convert": "Phương Cách cùng mấy tên Hỏa Luyện Đường đồ đệ ở bên cạnh vây xem, Trần Uyển cũng ở nơi đây.",
       "dich": "Phương Cách và mấy tên đệ tử Hỏa Luyện Đường đứng vây xem bên cạnh, Trần Uyển cũng ở chỗ này.",
       "suggest": "Phương Cách và mấy tên đồ đệ Hỏa Luyện Đường vây xem, Trần Uyển cũng ở nơi này.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "方格和几名火炼堂的弟子在旁边围观，陈婉也在这里。",
+        "text": "Ô vuông cùng mấy tên hỏa luyện 堂 đích đệ tử ở bên cạnh vây xem, trần uyển cũng ở nơi đây .",
+        "index": 34
+      }
     },
     {
       "convert": "\"281, hai trăm tám mươi hai...\" Một gã đồ đệ đếm lấy số.",
@@ -275,13 +380,23 @@
       "convert": "Viên Minh ra sức huy động thiết chùy, vô luận cường độ vẫn là tốc độ đều cùng Phương Cách trước đó làm mẫu giống nhau như đúc, không có chút nào sai lầm, có thể theo thời gian trôi qua, hắn khí lực không ngừng tiêu hao, sắc mặt dần dần trắng bệch.",
       "dich": "Viên Minh ra sức huy động cây búa, bất kể cường độc hay tốc độ đều giống y như Phương Cách từng làm mẫu trước đó, không có chút sai lầm nào, thế nhưng theo thời gian trôi đi, khí lực của hắn không ngừng tiêu hao, sắc mặt cũng dần trở nên tái nhợt.",
       "suggest": "Viên Minh ra sức huy động thiết chùy, bất luận cường độ hay tốc độ đều y hệt như khi làm mẫu trước đây, không có chút sai lệch nào, nhưng theo thời gian trôi qua, khí lực hắn không ngừng tiêu hao, sắc mặt dần trắng bệch.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭奋力挥动铁锤，无论力度还是速度都和方格之前示范的一模一样，没有丝毫差错，可随着时间推移，他气力不断消耗，面色渐渐发白。",
+        "text": "Viên Minh ra sức huy động thiết chùy, vô luận cường độ vẫn là tốc độ đều cùng ô vuông trước đó làm mẫu đích giống nhau như đúc, không có chút nào sai lầm, khả theo thời gian chuyển dời, hắn khí lực không ngừng tiêu hao, sắc mặt dần dần trắng bệch .",
+        "index": 36
+      }
     },
     {
       "convert": "Đem người kia vừa mới đếm qua ba trăm không bao lâu, cánh tay hắn chua chua, thiết chùy vậy mà nâng không nổi đến, \"Keng\" một tiếng đập vào cái đe sắt trên đài.",
       "dich": "Khi tên kia vừa đếm qua ba trăm chưa được bao lâu, cánh tay hắn đau nhức không nhấc nổi cây búa lên nữa, để nó mất không chế đập \"keng\" một tiếng lên đe.",
       "suggest": "Hắn vừa mới đếm được ba trăm mà cánh tay đã nóng ran, thiết chùy vậy mà không nhấc nổi lên, \"Keng\" một tiếng đập lên cái chuông sắt trên bệ đá.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "当那人刚刚数过三百没多久，他手臂一酸，铁锤竟然举不起来，“铛”的一声敲在了铁砧台上。",
+        "text": "Đương người kia vừa mới đếm qua ba trăm không bao lâu, cánh tay hắn chua chua, thiết chùy vậy mà nâng không nổi tới, “ keng ” đích một tiếng đập vào rồi thiết châm trên đài .",
+        "index": 37
+      }
     },
     {
       "convert": "\"Vung chùy ba trăm mười năm dưới, khảo hạch thất bại.\"",
@@ -299,19 +414,34 @@
       "convert": "Vây xem đám người vui cười, có mấy cái mặt lộ vẻ vẻ châm chọc, bọn hắn mỗi ngày không thông báo rèn bao nhiêu lần, Viên Minh thậm chí ngay cả năm trăm lần vung chùy đều làm không được.",
       "dich": "Đám người vây xem cười ồ lên, có mấy tên còn tỏ vẻ châm chọc, cũng khó trách bởi bọn hắn mỗi ngày không biết sẽ phải rèn bao nhiêu lần, mà Viên Minh thậm chí chỉ năm trăm lần quai búa cũng không làm được.",
       "suggest": "Đám người vây xem cười đùa, có mấy người lộ vẻ châm chọc, bọn hắn mỗi ngày không thông báo luyện bao nhiêu lần, Viên Minh thậm chí ngay cả năm trăm lần vung chùy cũng không làm được.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "围观众人嬉笑起来，有几个面露讥讽之色，他们每天不知会锻打多少次，袁铭竟然连五百次挥锤都做不到。",
+        "text": "Vây xem chúng nhân vui cười lên tới, có mấy cái mặt lộ vẻ vẻ châm chọc, bọn họ mỗi ngày không thông báo rèn bao nhiêu lần, Viên Minh thậm chí ngay cả năm trăm lần gạt chùy đều làm không được .",
+        "index": 39
+      }
     },
     {
       "convert": "Viên Minh ngược lại không có bao nhiêu tức giận, hắn đã dốc hết toàn lực, xem ra chính mình cùng Nam Cương nhân thể chất vẫn có chênh lệch.",
       "dich": "Viên Minh trái lại không cảm thấy khó chịu lắm, hắn đã cố gắng hết sức, xem ra thể chất bản thân so với người Nam Cương vẫn có khoảng cách.",
       "suggest": "Viên Minh trái lại không cảm thấy tức giận, hắn dốc hết toàn lực, xem ra thể chất của mình và thể chất Nam Cương nhân vẫn có khác biệt.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭倒没有多少气恼，他已经竭尽全力，看来自己和南疆人体质仍有差距。",
+        "text": "Viên Minh thật không có bao nhiêu buồn bực, hắn đã dốc hết toàn lực, xem ra chính mình cùng Nam Cương nhân thể chất vẫn có chênh lệch .",
+        "index": 40
+      }
     },
     {
       "convert": "Phương Cách cau mày, Viên Minh cái này thân thể, xem xét cũng không phải là rèn sắt liệu, bất quá trong khoảng thời gian này trong mỗi ngày khắc khổ luyện tập, hắn lại là nhìn ở trong mắt.",
       "dich": "Phương Cách cau mày, thân thể Viên Minh xem bộ không thích hợp để làm thợ rèn, có điều việc hắn cần cù khắc khổ luyện tập mỗi ngày trong suốt thời gian qua, y đều thu lại trong mắt.",
       "suggest": "Phương Cách cau mày, xem xét cơ thể Viên Minh này, xem ra cũng không phải là sắt vụn để luyện tập, bất quá trong khoảng thời gian này, hắn luôn chăm chỉ luyện tập, lại là một người rất chăm chỉ.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "方格眉头紧锁，袁铭这身板，一看就不是打铁的料，不过这段时间每日里刻苦的练习，他却是看在眼里的。",
+        "text": "Ô vuông cau mày, Viên Minh này thân thể, xem xét cũng không phải là rèn sắt đích liệu, chẳng qua trong khoảng thời gian này trong mỗi ngày khắc khổ đích luyện tập, hắn lại là nhìn ở trong mắt đích .",
+        "index": 41
+      }
     },
     {
       "convert": "\"Quyển kia « Luyện Khí Cơ Yếu » thấy thế nào?\"",
@@ -537,7 +667,7 @@
     },
     {
       "convert": "Bởi vì những này, rèn đúc đồ đệ càng phát ra kiêu hoành tự đại, xem thường sàng lọc tài liệu đồ đệ, dung luyện đồ đệ, lẫn nhau ở giữa mâu thuẫn càng ngày càng nghiêm trọng, bất lợi cho Hỏa Luyện Đường phát triển, Phương Cách sư huynh từ khi tiếp chưởng hỏa phường, một mực tại ý đồ điều chỉnh bực này thành kiến, kết quả ngươi vừa mới cũng nhìn thấy, hiệu quả quá mức bé nhỏ, hắn tự nhiên thất vọng thở dài.\"",
-      "dich": "Vì những điều này mà đệ tử rèn đúc càng tỏ ra kiêu căng tự đại, xem thường đệ tử sàng liệu, đệ tử dung luyện(nung nấu), mâu thuẫn bên trong càng ngày càng nghiêm trọng, bất lợi cho sự phát triển của Hỏa Luyện Đường. Từ khi tiếp quản Hỏa phường, Phương Cách sư huynh luôn tìm cách điều chỉnh mấy thứ thành kiến này, kết quả thì người vừa rồi cũng thấy đấy, hiệu quả quá nhỏ bé, hắn tự nhiên thất vọng thở dài.\"",
+      "dich": "Vì những điều này mà đệ tử rèn đúc càng tỏ ra kiêu căng tự đại, xem thường đệ tử sàng liệu, đệ tử dung luyện (nung nấu), mâu thuẫn bên trong càng ngày càng nghiêm trọng, bất lợi cho sự phát triển của Hỏa Luyện Đường. Từ khi tiếp quản Hỏa phường, Phương Cách sư huynh luôn tìm cách điều chỉnh mấy thứ thành kiến này, kết quả thì người vừa rồi cũng thấy đấy, hiệu quả quá nhỏ bé, hắn tự nhiên thất vọng thở dài.\"",
       "suggest": "Bởi vì những điều này, đồ đệ càng ngày càng kiêu ngạo tự đại, xem thường tài liệu đồ đệ, dung luyện đồ đệ, mâu thuẫn giữa các thế lực càng ngày càng trầm trọng, bất lợi cho sự phát triển của Hỏa Luyện Đường, Phương Cách sư huynh từ khi tiếp chưởng phường Hỏa Luyện Đường, một mực cố ý điều chỉnh thành kiến này, kết quả ngươi vừa nhìn thấy, hiệu quả quá nhỏ, hắn đương nhiên thất vọng thở dài.\"",
       "approved": true
     },

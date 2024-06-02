@@ -16,7 +16,12 @@
     {
       "convert": "Trơ mắt nhìn xem Viên Minh bị Tam động chủ mang đi, Khôn Đồ cũng không dám động đậy một chút, sắc mặt biến đến vô cùng xanh xám.",
       "dich": "Trơ mắt nhìn Viên Minh được Tam động chủ mang đi, Khôn Đồ cũng không dám có bất cứ có hành động gì, mặt mũi tái xanh tái xám.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "眼睁睁看着袁铭被三洞主带走，坤图却不敢动弹一下，脸色变得无比铁青。",
+        "text": "Trơ mắt nhìn xem Viên Minh bị ba động chủ mang đi, khôn đồ cũng không dám động đậy một chút, sắc mặt trở nên vô cùng thiết thanh .",
+        "index": 0
+      }
     },
     {
       "convert": "\"Khôn Đồ đạo hữu, hôm nay không thể trảm thảo trừ căn, thù này xem như kết chết rồi.",
@@ -41,147 +46,292 @@
     {
       "convert": "Lần thứ nhất thừa kỵ Linh thú, bay lượn ở trên không trung, Viên Minh tâm tình khó tránh khỏi có chút thấp thỏm.",
       "dich": "Lần đầu tiên cưỡi linh thú bay lượn trên không trung nên tâm tình Viên Minh khó tránh khỏi có chút thấp thỏm.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "第一次乘骑灵兽，飞翔在高空中，袁铭心情难免有些忐忑。",
+        "text": "Lần đầu tiên cưỡi kỵ linh thú, bay lượn ở trên không trung, Viên Minh tâm tình khó tránh khỏi có chút thổn thức .",
+        "index": 4
+      }
     },
     {
       "convert": "Chỉ bất quá làm sơ thích ứng về sau, hắn liền an ổn lại, cảm thụ được bên người gào thét phong thanh, nghiêng người hướng phía phía dưới nhìn lại.",
       "dich": "Nhưng sau khi làm quen một chút, hắn liền bình tĩnh lại, cảm nhận tiếng gió gào rít bên người, nghiêng người nhìn xuống phía dưới.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "只不过稍作适应之后，他就安稳了下来，感受着身边的呼啸风声，侧身朝着下方望去。",
+        "text": "Chẳng qua làm sơ thích ứng sau đó, hắn liền an ổn xuống, cảm thụ được bên người gào thét tiếng gió, nghiêng người hướng tới phía dưới nhìn lại .",
+        "index": 5
+      }
     },
     {
       "convert": "Lúc này cách mặt đất mấy trăm trượng, phía dưới mênh mông sơn lâm ở trong màn đêm trở nên ảm đạm không rõ, chỉ lưu lại một cái chập trùng dãy núi cái bóng mơ hồ, để hắn sinh ra lầu cao trăm trượng, người như sâu kiến nhỏ bé cảm giác.",
       "dich": "Lúc này cách mặt đất mấy trăm trượng, núi rừng mênh mông phía dưới trong màn đêm trở nên tối tăm mờ ảo, chỉ còn lại bóng dáng mơ hồ của dãy núi chập trùng, khiến hắn sinh ra cảm giác như đứng trên lầu cao trăm trượng, nhìn con người dưới đất nhỏ như sâu kiến.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "此时离地数百丈，下方的莽莽山林在夜色里变得晦暗不明，只留下一个起伏山峦的模糊影子，让他生出危楼百丈，人如蝼蚁的渺小感。",
+        "text": "Lúc này cách mặt đất mấy trăm trượng, phía dưới đích rậm rạp núi rừng ở trong màn đêm trở nên đen tối không rõ, chỉ để lại một cái nhấp nhô dãy núi đích cái bóng mơ hồ, khiến hắn sinh ra lầu cao trăm trượng, người 如 con sâu cái kiến đích nhỏ bé cảm .",
+        "index": 6
+      }
     },
     {
       "convert": "Viên Minh thu tầm mắt lại, ngẩng đầu nhìn trời, chỉ thấy trên bầu trời tầng mây mờ mịt, trăng sáng sao thưa, cũng không có bởi vì hắn bay cao, liền lộ ra cách hắn gần.",
       "dich": "Viên Minh thu tầm mắt lại, ngẩng đầu nhìn trời, chỉ thấy trên bầu trời mây phủ mịt mờ, trăng sáng sao thưa, cũng không biết có phải vì hắn bay cao mà trông có vẻ gần hơn.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭收回视线，抬头望天，只见高空中云层缥缈，月明星稀，并没有因为他飞得高了，就显得离他近了。",
+        "text": "Viên Minh thu tầm mắt lại, ngẩng đầu nhìn trời, chỉ kiến trên bầu trời tầng mây mờ mịt, trăng sáng sao thưa, cũng không có bởi vì hắn bay cao, liền lộ ra cách hắn gần .",
+        "index": 7
+      }
     },
     {
       "convert": "Lúc này, Viên Minh cảm nhận được ánh mắt chú ý, nhìn sang về sau, phát hiện Tam động chủ đầu vai, con kia chồn lửa nhô ra nửa cái lông xù đầu, tròn căng con mắt đang nhìn hắn chằm chằm.",
       "dich": "Lúc này, Viên Minh cảm giác có ánh mắt chú ý mình, sau khi đưa mắt nhìn qua, phát hiện trên đầu vai Tam động chủ, con chồn lửa kia đang ló nửa cái đầu đầy lông ra, đưa đôi mắt tròn xoe nhìn chằm chằm vào hắn.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这时，袁铭感受到了目光注视，看过去后，发现三洞主的肩头，那只火貂探出了半个毛茸茸的脑袋，圆溜溜的眼睛正盯着他看。",
+        "text": "Lúc này, Viên Minh cảm nhận được ánh mắt nhìn kỹ, nhìn sang sau, phát hiện ba động chủ đích đầu vai, con kia lửa chồn thò ra rồi nửa cái lông xù đích cái đầu, tròn căng đích con mắt đang nhìn hắn chằm chằm .",
+        "index": 8
+      }
     },
     {
       "convert": "Viên Minh cũng coi là bị nó gián tiếp cứu cái tính mạng, liền hướng nó lộ ra một vòng ý cười, cái sau nháy một cái con mắt.",
       "dich": "Viên Minh cũng xem như được nó gián tiếp cứu mạng, nên liền mỉm cười với nó, con chồn thấy thế chỉ chớp chớp mắt.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭也算是被它间接救了条性命，便朝其露出了一抹笑意，后者眨了一下眼睛。",
+        "text": "Viên Minh cũng coi là bị nó gián tiếp cứu được cái tính mạng, liền hướng nó lộ ra rồi một vòng tiếu ý, cái sau nháy một cái con mắt .",
+        "index": 9
+      }
     },
     {
       "convert": "Hỏa Vũ chuẩn giương cánh bay lượn, phía dưới trong bóng tối không bao lâu, liền sáng lên từng đoàn từng đoàn sáng tỏ quang mang, Viên Minh đưa mắt nhìn lại, nhìn thấy mảng lớn đèn sáng lửa kiến trúc, xuất hiện tại trong tầm mắt.",
       "dich": "Hỏa Vũ chuẩn dang cánh bay lượn không biết bao lâu, trong bóng tối phía dưới chợt có từng chùm ánh sáng chói lọi xuất hiện, Viên Minh đưa mắt nhìn xuống, thấy ngay một mảng kiến trúc lớn đèn đuốc sáng trưng hiện ra trong tầm mắt.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "火羽隼展翅翱翔，下方黑暗中没多久，就亮起了一团团明亮光芒，袁铭举目望去，看到大片亮着灯火的建筑，出现在了视线里。",
+        "text": "Lửa vũ chim cắt giương cánh bay lượn, phía dưới hắc ám trung không bao lâu, liền sáng lên một đoàn 团 sáng ngời quang mang, Viên Minh đưa mắt nhìn lại, nhìn thấy mảng lớn đèn sáng lửa kiến trúc, xuất hiện tại rồi trong tầm mắt .",
+        "index": 10
+      }
     },
     {
       "convert": "Bích La Động tông môn lưng tựa Thập Vạn Đại Sơn, đồng dạng là tu kiến tại mênh mông trong núi rừng, chỉ bất quá tông môn chủ thể sở tại địa phương, thảm thực vật không bằng Thập Vạn Đại Sơn như vậy rậm rạp thôi.",
       "dich": "Tông môn Bích La Động dựa lưng vào Thập Vạn Đại Sơn, cũng là xây dựng giữa rừng núi mênh mông, chỉ có điều thảm thực vật tại nơi đặt trụ sở chính của tông môn không rậm rạp như trong Thập Vạn Đại Sơn mà thôi.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "碧罗洞宗门背靠十万大山，同样是修建在莽莽山林里，只不过宗门主体所在地方，植被不如十万大山那般茂密罢了。",
+        "text": "Bích La Động tông môn lưng dựa Thập Vạn Đại Sơn, đồng dạng là tu kiến tại rậm rạp trong núi rừng, chẳng qua tông môn chủ thể sở tại địa phương, thảm thực vật không bằng Thập Vạn Đại Sơn như vậy rậm rạp bãi rồi .",
+        "index": 11
+      }
     },
     {
       "convert": "Theo càng ngày càng tới gần, Viên Minh chợt phát hiện, tại tông môn kiến trúc tập trung khu vực kia trên không, bao phủ một tầng như ẩn như hiện sương mù, nhìn không rõ ràng.",
       "dich": "Theo khoảng cách tới tông môn càng lúc càng gần, Viên Minh chợt phát hiện trên bầu trời khu vực tập trung các tòa kiến trúc của tông môn có bao phủ một tầng sương mù như ẩn như hiện, khiến người ta khó mà nhìn rõ.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "随着越来越靠近，袁铭忽然发现，在宗门建筑集中的那片区域上空，笼罩着一层若隐若现的薄雾，看不真切。",
+        "text": "Theo càng ngày càng đến gần gần, Viên Minh chợt phát hiện, tại tông môn kiến trúc tập trung đích một khu vực như vậy vùng trời, bao phủ một tầng như ẩn như hiện đám sương, nhìn không rõ ràng .",
+        "index": 12
+      }
     },
     {
       "convert": "Khi hắn đem thần hồn chi lực ngưng tụ tại hai mắt chung quanh lúc, mới rốt cục khẳng định, tầng kia sương mù đích xác tồn tại.",
       "dich": "Sau khi ngưng tụ hồn lực vào xung quanh hai mắt, hắn cuối cùng mới khẳng định chắc chắn là tầng sương mù kia thực sự tồn tại.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "当他将神魂之力凝聚在双眼周围时，才终于肯定，那层薄雾的确存在。",
+        "text": "Khi hắn đem thần hồn chi lực ngưng tụ tại hai mắt chung quanh thời, mới rốt cục khẳng định, tầng kia đám sương đích xác tồn tại .",
+        "index": 13
+      }
     },
     {
       "convert": "Đồng thời, kia sương mù tựa như một thanh nồi lớn ngã úp, càng đến gần trên không đáy nồi bộ phận, thì càng nồng hậu dày đặc, trái lại, càng đến gần nồi xuôi theo bộ phận, thì càng mỏng manh.",
       "dich": "Hơn nữa, sương mù kia giống như một cái nồi lớn úp ngược, càng gần phần đáy nồi trên không thì càng dày đặc, trái lại, càng gần miệng nồi thì càng mỏng manh.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "并且，那薄雾好似一口大锅倒扣，越是靠近上空锅底的部分，就越是浓厚，反之，越是靠近锅沿的部分，就越是稀薄。",
+        "text": "Mà còn, kia đám sương coi như một ngụm đại oa chụp che, càng là tới gần vùng trời đáy nồi đích bộ phận, thì càng nồng hậu, trái lại, càng là tới gần nồi ven đích bộ phận, thì càng mỏng manh .",
+        "index": 14
+      }
     },
     {
       "convert": "Viên Minh muốn mở miệng hỏi thăm, nhưng nhìn thấy Tam động chủ thanh lãnh bóng lưng, cuối cùng vẫn là không hỏi ra miệng.",
       "dich": "Viên Minh muốn mở miệng hỏi, nhưng khi nhìn bóng lưng lạnh lùng của Tam động chủ, rốt cuộc lại thôi không hỏi nữa.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭想要开口询问，但看到三洞主清冷的背影，最终还是没有问出口。",
+        "text": "Viên Minh muốn mở miệng hỏi thăm, nhưng nhìn thấy ba động chủ thanh lãnh đích bóng lưng, cuối cùng vẫn không hỏi ra miệng .",
+        "index": 15
+      }
     },
     {
       "convert": "Lúc này, liền gặp Hỏa Vũ chuẩn bay đến tầng kia sương mù bên ngoài, lại đột nhiên ngừng lại.",
       "dich": "Lúc này, chỉ thấy Hỏa Vũ chuẩn bay tới bên ngoài tầng sương mù liền đột nhiên ngừng lại.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这时，就见火羽隼飞到了那层薄雾之外，却突然停了下来。",
+        "text": "Lúc này, chỉ thấy lửa vũ chim cắt bay đến tầng kia đám sương bên ngoài, lại đột nhiên ngừng lại .",
+        "index": 16
+      }
     },
     {
       "convert": "Tam động chủ bên hông, bỗng nhiên có một khối màu sắc xích hồng lệnh bài, sáng bóng mang lóe lên, sáng lên một tầng mông lung hào quang đem hai người bọn họ hai thú tất cả đều lồng chụp vào trong.",
       "dich": "Tiếp đó, chợt thấy bên hông Tam động chủ có một khối lệnh bài màu đỏ sậm lóe sáng, tỏa một vầng hào quang mờ mịt bảo hai người, hai thú bọn họ vào bên trong.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "三洞主的腰间，忽然有一块颜色赤红的腰牌，表面光芒一闪，亮起一层朦胧华光将他们两人两兽全都笼罩了进去。",
+        "text": "Ba động chủ đích bên hông, bỗng nhiên có một khối nhan sắc đỏ thẫm đỏ lệnh bài, sáng bóng mũi nhọn chợt lóe, sáng lên một tầng mông lung hào quang đem bọn hắn hai người hai thú tất cả đều bao phủ đi vào .",
+        "index": 17
+      }
     },
     {
       "convert": "Lập tức, bọn hắn một nhóm tại quang mang bao phủ xuống, tuỳ tiện xuyên qua màn sáng, tiến vào trong đó.",
       "dich": "Tức thì, một nhóm bọn hắn dưới sự bao phủ của vầng hào quang kia, dễ dàng xuyên qua tầng sương mù, tiến vào bên trong.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "随即，他们一行在光芒笼罩下，轻易穿过了光幕，进入了其中。",
+        "text": "Lập tức, bọn họ một hàng tại quang mang bao phủ xuống, dễ dàng xuyên qua quầng sáng, tiến nhập trong đó .",
+        "index": 18
+      }
     },
     {
       "convert": "Tiến vào sương mù bình chướng bên trong, Hỏa Vũ chuẩn bắt đầu hạ xuống phi hành, phía dưới cảnh vật chợt trở nên càng phát ra rõ ràng.",
       "dich": "Sau khi tiến vào bên trong tầng sương mù, Hỏa Vũ chuẩn bắt đầu lượn xuống, cảnh vật bên dưới theo đó càng lúc càng trở nên rõ ràng hơn.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "进入薄雾屏障之内，火羽隼开始下降飞行，下方的景物旋即变得越发清晰起来。",
+        "text": "Tiến vào đám sương bình chướng bên trong, lửa vũ chim cắt bắt đầu giảm xuống phi hành, phía dưới đích cảnh vật lát sau trở nên càng phát rõ rệt lên tới .",
+        "index": 19
+      }
     },
     {
       "convert": "Viên Minh liếc mắt liền thấy lúc trước mình cùng kia đám mọi bị cùng một chỗ bắt lúc đi vào, đi qua cái kia đạo hạp cốc cùng thanh đồng cửa lớn, ở vào Bích La Động tông môn phía đông bắc.",
       "dich": "Viên Minh liếc mắt nhìn về phía đông bắc tông môn Bích La Động, liền thấy hẻm núi và cánh cổng bằng đồng xanh mà hắn và đám dã nhân sau khi bị bắt đã từng đi qua.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭一眼就看到了当初自己和那群野人被一起抓进来时，走过的那道峡谷和青铜巨门，位于碧罗洞宗门的东北方。",
+        "text": "Viên Minh liếc mắt liền thấy được hồi đó chính mình cùng đám kia dã nhân bị cùng nhau bắt vào lúc đến, đi qua cái kia đạo khe sâu cùng đồng thau cánh cửa cực lớn, ở vào Bích La Động tông môn đích phía đông bắc .",
+        "index": 20
+      }
     },
     {
       "convert": "Toàn bộ Bích La Động địa thế tây cao đông thấp, thành ba tầng bậc thang trạng phân bố.",
       "dich": "Địa thế toàn bộ Bích La Động là dạng tây cao đông thấp, phân bố thành ba tầng kiểu bậc thang.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "整個碧罗洞的地势西高东低，成三层台阶状分布。",
+        "text": "Cả Bích La Động đích địa thế tây cao đông thấp, thành ba tầng bậc thang trạng phân bố .",
+        "index": 21
+      }
     },
     {
       "convert": "Phía đông nhất là một mảnh khoáng đạt đá xanh quảng trường, quảng trường hai bên phân bố vài toà cao hơn mặt đất một chút đài diễn võ, trung bộ cao hơn một tầng khu vực bên trong, thì phân bố bảy tám tòa mang theo dị vực phong tình hình tròn kiến trúc.",
       "dich": "Phần cực đông là một quảng trường đá xanh rộng lớn, hai bên quảng trường là mấy đài diễn võ cao hơn mặt đất một chút, trong khu vực trung tâm cao hơn một tầng là bảy tám tòa kiến trúc hình trong mang phong cách dị vực.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "最东边是一片开阔的青石广场，广场两边分布着几座高出地面些许的演武台，中部高出一层的区域里，则分布着七八座带着异域风情的圆形建筑。",
+        "text": "Phía đông nhất là một mảnh khoáng đạt đích đá xanh quảng trường, quảng trường hai bên phân bố vài toà cao hơn mặt đất có chút đài diễn võ, trung bộ cao hơn một tầng đích khu vực trong, thì phân bố bảy tám tòa mang theo dị vực phong tình đích hình tròn kiến trúc .",
+        "index": 22
+      }
     },
     {
       "convert": "Cái này cùng Viên Minh lúc trước tiến vào Bích La Động lúc, nhìn thấy cảnh tượng cơ bản nhất trí.",
       "dich": "Cái này cơ bản giống như cảnh tượng mà Viên Minh thấy khi tiến vào Bích La Động lúc trước.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这与袁铭当初进入碧罗洞时，看到的景象基本一致。",
+        "text": "Này cùng Viên Minh hồi đó tiến vào Bích La Động thời, nhìn thấy đích cảnh tượng cơ bản nhất trí .",
+        "index": 23
+      }
     },
     {
       "convert": "Mà trên mặt đất thế tối cao về phía tây, thì có ba tòa hơi nhô lên sơn phong láng giềng, trong đó biên giới tây nam sơn phong thấp nhất, chỉ là tương đương với một mảnh nổi lên gò đồi khu vực, bên trong có thể nhìn thấy từng đầu bờ ruộng một dạng phân khu.",
       "dich": "Mà ở cực tây nơi địa thế cao nhất có thể thấy ba ngọn núi nhô cao nằm cạnh nhau, trong đó ngọn núi ở rìa tây nam là thấp nhất, chỉ tương đương một mảng đồi nhô ra, trong đó có thể nhìn thấy từng phân khu giống như ruộng đồng.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "而在地势最高的西边，则有三座略微耸起的山峰比邻，其中西南边的山峰最矮，只是相当于一片突起的丘陵地带，里面能够看到一条条田垄一样的分区。",
+        "text": "Mà ở địa thế tối cao về phía tây, thì có ba tòa hơi nhô lên đích ngọn núi láng giềng, trong đó tây nam bên đích ngọn núi lùn nhất, chỉ là tương đương tại một mảnh nổi lên đích đồi núi khu vực, bên trong có thể nhìn thấy một đầu cái bờ ruộng đồng dạng đích phân khu .",
+        "index": 24
+      }
     },
     {
       "convert": "Phía tây trung bộ địa khu sơn phong, địa thế hơi cao một chút, mà nhất tới gần phía bắc Thập Vạn Đại Sơn này tòa đỉnh núi, địa thế cao nhất đứng thẳng, diện tích cũng rộng lớn nhất.",
       "dich": "Ngọn núi ở khu vực trung tâm phía tây có địa thế cao hơn một chút, còn ngọn núi nằm sát gần Thập Vạn Đại Sơn ở phía bắc nhất, cũng là ngọn núi cao nhất, có diện tích lớn nhất.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "西边中部地区的山峰，地势稍高一些，而最靠近北边十万大山的那座山峰，地势最为高耸，面积也最为广袤。",
+        "text": "Phía tây trung bộ địa khu ngọn núi, địa thế hơi cao một chút, mà tối tới gần phía bắc Thập Vạn Đại Sơn đích này tòa đỉnh núi, địa thế nhất là cao ngất, diện tích cũng rộng lớn nhất .",
+        "index": 25
+      }
     },
     {
       "convert": "Mặc dù đã là trong đêm, tông môn các nơi vẫn như cũ đèn đuốc sáng tỏ, ẩn ẩn có các thức thú rống thanh âm truyền đến.",
       "dich": "Mặc dù đang ban đêm, nhưng khắp nơi trong tông môn vẫn đèn đuốc sáng trưng, thỉnh thoảng còn loáng thoáng nghe thấy tiếng thú rống.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "虽然已是夜里，宗门各处依旧灯火明亮，隐隐有各式兽吼之声传来。",
+        "text": "Tuy rằng đã là ban đêm, tông môn các nơi như cũ đèn sáng ngời, ẩn ẩn có các thức 兽 rống thanh âm truyền đến .",
+        "index": 26
+      }
     },
     {
       "convert": "Hỏa Vũ chuẩn huy động cánh, hướng phía ba ngọn núi chính giữa toà kia bay rơi xuống.",
       "dich": "Hỏa Vũ chuẩn vỗ cánh, bay xuống phía ngọn núi ở giữa ba ngọn núi kia.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "火羽隼挥动翅膀，朝着三座山峰正中的那座飞落了下去。",
+        "text": "Lửa vũ chim cắt huy động cánh, hướng tới ba tòa ngọn núi chính giữa đích toà kia bay thấp xuống dưới .",
+        "index": 27
+      }
     },
     {
       "convert": "Theo không ngừng tới gần, Viên Minh dần dần thấy rõ trên đỉnh núi xen vào nhau phân bố vài toà viện lạc, lớn nhỏ quy cách khác nhau, kiểu dáng cũng cùng phía trước hình tròn kiến trúc rất khác biệt, càng cùng loại với Viên Minh trong trí nhớ Trung Nguyên kiến trúc.",
       "dich": "Theo khoảng cách càng lúc càng gần, Viên Minh dần dần thấy rõ trên đỉnh núi có mấy tòa lạc viện phân bố rải rác. Các tòa kiến trúc này có quy cách lớn nhỏ khác nhau, kiểu dáng cũng rất khác với kiến trúc hình tròn phía trước, trái lại rất giống với kiến trúc Trung Nguyên trong trí nhớ Viên Minh.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "随着不断靠近，袁铭逐渐看清了山顶上错落分布着几座院落，大小规格各异，样式也与前面的圆形建筑很不同，更类似于袁铭记忆里的中原建筑。",
+        "text": "Theo không ngừng tới gần, Viên Minh dần dần thấy rõ trên đỉnh núi chằng chịt phân bố vài toà sân nhỏ, lớn nhỏ quy cách khác nhau, hình thức cũng cùng trước mặt hình tròn kiến trúc rất khác biệt, càng cùng loại với Viên Minh trong trí nhớ đích Trung Nguyên kiến trúc .",
+        "index": 28
+      }
     },
     {
       "convert": "Cuối cùng, Hỏa Vũ chuẩn chở lấy bọn hắn đáp xuống phía trước núi một mảnh phương viên trăm trượng đá trắng trên quảng trường.",
       "dich": "Cuối cùng, Hỏa Vũ chuẩn chở bọn hắn đáp xuống một quảng trường đá trắng phương viên hơn trăm trượng nằm phía trước núi.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "最终，火羽隼载着他们降落在了前山一片方圆百丈的白石广场上。",
+        "text": "Sau cùng, lửa vũ chim cắt chở bọn họ rơi xuống phía trước núi một mảnh chu vi trăm trượng đích đá trắng trên quảng trường .",
+        "index": 29
+      }
     },
     {
       "convert": "Sau khi rơi xuống đất, Viên Minh ngắm nhìn bốn phía, nhìn thấy bên cạnh cách đó không xa, quảng trường biên giới bên trên, đứng lặng lấy một khối màu xanh bia đá, phía trên dựng thẳng một hàng Nam Cương văn tự: \"Hỏa Luyện Đường.\"",
       "dich": "Sau khi đáp xuống đất, Viên Minh ngắm nhìn bốn phía, thấy phía bên cạnh cách đó không xa, trên rìa quảng trường có một khối bia đá màu xanh dựng sừng sững, trên bia có khắc một cột chữ Nam Cương: \"Hỏa Luyện Đường.\"",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "落地之后，袁铭环顾四周，看到身旁不远处，广场的边缘上，伫立着一块青色石碑，上面竖着一列南疆文字：“火炼堂。”",
+        "text": "Sau khi rơi xuống đất, Viên Minh ngắm nhìn bốn phía, nhìn thấy bên cạnh cách đó không xa, quảng trường đích biên duyên thượng, đứng lặng lấy một khối màu xanh bia đá, thượng diện dựng thẳng một hàng Nam Cương văn tự : “ hỏa luyện 堂 . ”",
+        "index": 30
+      }
     },
     {
       "convert": "Tam động chủ chợt để Viên Minh đi theo mình, hai người xuyên qua quảng trường, đi tới một tòa viện lạc trước.",
       "dich": "Tam động chủ bảo Viên Minh đi theo mình, hai người xuyên quan quảng trưởng, đi tới trước một tòa lạc viện.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "三洞主旋即让袁铭跟着自己，两人穿过广场，来到了一座院落前。",
+        "text": "Ba động chủ lát sau khiến Viên Minh theo chính mình, hai người xuyên qua quảng trường, đi tới một tòa sân nhỏ trước .",
+        "index": 31
+      }
     },
     {
       "convert": "Đúng lúc này, một cái thân mặc lửa váy hồng, bên hông buộc lấy một khối bắt mắt lục sắc lệnh bài nữ tử, bỗng nhiên từ đằng xa nhỏ chạy tới, đến trước mặt dừng bước, cúi đầu hướng phía Tam động chủ thi cái lễ.",
       "dich": "Đúng lúc này, một nữ tử thân vận váy màu đỏ lửa, bên hông buộc một khối lệnh bài màu lục bắt mắt, bỗng nhiên từ đằng xa chạy tới, dừng bước trước mặt Tam động chủ rồi cúi đầu thi lễ.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "正在这时，一个身着火红衣裙，腰间系着一块醒目绿色腰牌的女子，忽然从远处小跑过来，到了跟前停下了脚步，低头朝着三洞主施了一礼。",
+        "text": "Đúng lúc này, một cái thân mặc lửa đỏ quần áo, bên hông buộc lên một khối bắt mắt lục sắc lệnh bài đích nữ tử, bỗng nhiên từ xa chỗ chạy chậm qua tới, đến rồi sắp tới dừng bước, cúi đầu hướng tới ba động chủ thi cái lễ .",
+        "index": 32
+      }
     },
     {
       "convert": "\"Gặp qua sư tôn.\"",
@@ -191,7 +341,12 @@
     {
       "convert": "Nữ tử mới mở miệng, Viên Minh đã cảm thấy tiếng nói có chút quen thuộc, ngưng lông mày nhìn lại, phát hiện quả nhiên là người quen.",
       "dich": "Nữ tử vừa mở miệng, Viên Minh đã cảm thấy giọng nói này hơi quen, ngưng mắt nhìn lại, phát hiện ra đúng là người quen thật.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "女子一开口，袁铭就觉得嗓音有些熟悉，凝眉望去，发现果然是熟人。",
+        "text": "Nữ tử vừa mở khẩu, Viên Minh đã cảm thấy tiếng nói có chút quen thuộc, nhíu mày nhìn lại, phát hiện quả nhiên là người quen .",
+        "index": 34
+      }
     },
     {
       "convert": "\"Trần Uyển, ngươi đến rất đúng lúc, đây là mới nhập môn ký danh đệ tử, gọi... Viên Minh.",
@@ -211,17 +366,32 @@
     {
       "convert": "Trần Uyển nghe tới cái tên này một cái chớp mắt, lập tức ngẩng đầu lên, đang cùng Viên Minh hai mắt nhìn nhau, lại nhất thời sửng sốt.",
       "dich": "Trần Uyển khi vừa nghe thấy cái tên này liền lập tức ngẩng đầu lên, gặp ánh mắt Viên Minh nhìn lại, nhất thời sửng sốt.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "陈婉听到这个名字的一瞬，立马抬起了头，正与袁铭目光相对，却一时愣住了。",
+        "text": "Trần uyển nghe được cái tên này một cái chớp mắt, lập tức ngẩng đầu lên, đang cùng Viên Minh hai mắt nhìn nhau, lại nhất thời ngây ngẩn cả người .",
+        "index": 36
+      }
     },
     {
       "convert": "Sau khi lấy lại tinh thần, Trần Uyển vội vàng ứng thanh, nói: \"Đệ tử tuân mệnh.\"",
       "dich": "Sau khi lấy lại tinh thần, Trần Uyển vội vàng lên tiếng đáp ứng: \"Đệ tử tuân mệnh.\"",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "回过神后，陈婉连忙应声，道：“弟子遵命。”",
+        "text": "Sau khi lấy lại tinh thần, trần uyển vội vàng ứng thanh, nói “ đệ tử tuân mệnh . ”",
+        "index": 37
+      }
     },
     {
       "convert": "Tam động chủ nhẹ gật đầu, chính muốn ly khai lúc, bỗng nhiên nhớ tới một chuyện, nhìn về phía Viên Minh, thấy trên người hắn vết thương đã kết vảy, đối với hắn sức khôi phục cảm thấy ngoài ý muốn.",
       "dich": "Tam động chủ khẽ gật đầu, lúc đang định rời đi, bỗng nhớ tới một chuyện, lại đưa mắt nhìn về phía Viên Minh, thấy vết thương trên người hắn đã kết vảy, đối với sức khôi phục của hắn không khỏi có chút ngạc nhiên.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "三洞主点了点头，正要离去时，忽然记起一事，看向袁铭，见他身上伤痕已经结痂，对他的恢复力颇感意外。",
+        "text": "Ba động chủ gật gật đầu, đang muốn rời đi thời, bỗng nhiên nhớ lại một chuyện, nhìn về phía Viên Minh, gặp hắn trên thân vết thương đã vảy kết, đối với hắn đích sức khôi phục cảm thấy ý ngoại .",
+        "index": 38
+      }
     },
     {
       "convert": "\"Ngươi là Phi Mao thú nô xuất thân, trên thân Hủ Tâm Đan chi độc nghĩ đến chưa giải trừ, những này Thanh Tâm Đan ngươi cầm đi, dù không phải chuyên giải Hủ Tâm Đan chi độc giải dược, nhưng liên phục ba ngày sau, cũng đồng dạng có thể trừ bỏ ngươi trên thân dư độc.\"",
@@ -241,17 +411,32 @@
     {
       "convert": "Tam động chủ lưu thêm một viên tiếp theo nho nhỏ bạch ngọc bình sứ về sau, liền ôm trong ngực chồn lửa, chầm chậm rời đi.",
       "dich": "Sau khi để lại một bình bạch ngọc nho nhỏ, Tam động chủ liền ôm chồn lửa vào trong ngực rồi chậm rãi rời đi.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "三洞主留下一枚小小的白玉瓷瓶后，便怀抱着火貂，款步离去了。",
+        "text": "Ba động chủ lưu lại một miếng nho nhỏ bạch ngọc bình sứ sau, liền ôm trong ngực lửa chồn, chầm chậm rời đi .",
+        "index": 41
+      }
     },
     {
       "convert": "Kia \"Hỏa Sàm Nhi\" nhưng lại từ trong ngực nàng chui đầu ra, thăm dò qua đầu vai, hướng phía Viên Minh nhìn lại.",
       "dich": "\"Hỏa Sàm Nhi\" kia lại chui đầu từ trong ngực nàng ra, ló đầu qua vai, nhìn về phía Viên Minh.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "那“火馋儿”却又从她怀里钻出脑袋，探过肩头，朝着袁铭看了过来。",
+        "text": "Kia “ lửa thèm muốn nhi ” nhưng lại từ trong ngực nàng chui đầu ra, thăm dò qua đầu vai, hướng tới Viên Minh nhìn lại .",
+        "index": 42
+      }
     },
     {
       "convert": "Đợi nó đi xa về sau, Trần Uyển mới thu hồi cung tiễn tư thái, mang theo nghi hoặc nhìn về phía Viên Minh.",
       "dich": "Đợi khi Tam động chủ đã đi xa, Trần Uyển mới thu hồi tư thế cung tiễn, mang theo vẻ nghi hoặc nhìn qua chỗ Viên Minh.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "待其走远后，陈婉才收起了恭送姿态，略带疑惑地看向袁铭。",
+        "text": "Đợi nó đi xa sau, trần uyển mới thu hồi cung tiễn tư thái, mang theo nghi hoặc nhìn về phía Viên Minh .",
+        "index": 43
+      }
     },
     {
       "convert": "\"Sư tôn tính tình tán nhạt, thường ngày đều là tông môn an bài, chưa bao giờ chủ động mang về ký danh đệ tử tiền lệ, nàng làm sao...\"",
@@ -276,7 +461,12 @@
     {
       "convert": "Trần Uyển không có tị huý, thản nhiên gật đầu.",
       "dich": "Trần Uyển cũng không kiêng dè, thản nhiên gật đầu.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "陈婉没有避讳，坦然点头。",
+        "text": "Trần uyển không có tránh kiêng kị, thản nhiên gật đầu .",
+        "index": 46
+      }
     },
     {
       "convert": "\"Xem như nhân họa đắc phúc đi, nói đến, còn phải cảm tạ Khôn Đồ...\"",
@@ -291,7 +481,12 @@
     {
       "convert": "Nghe tới \"Khôn Đồ\" danh tự, Trần Uyển trong lòng đột nhảy một cái, đã ý thức được xảy ra chuyện gì, có thể nghe Viên Minh đem chuyện đã xảy ra kể xong, sắc mặt của nàng cũng biến thành càng phát ra khó coi.",
       "dich": "Nghe tới cái tên Khôn Đồ, Trần Uyển bỗng thầm giật mình, ý thức được đã có chuyện xảy ra, nhưng sau khi nghe Viên Minh kể xong câu chuyện, sắc mặt nàng vẫn không khỏi trở nên khó coi.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "听到“坤图”的名字，陈婉心里突的一跳，已经意识到发生了什么，可听着袁铭将事情经过讲完，她的脸色也变得越发难看。",
+        "text": "Nghe được “ khôn đồ ” đích danh tự, trần uyển trong lòng đột đích nhảy dựng, đã ý thức được xảy ra chuyện gì, khả nghe ngóng Viên Minh đem chuyện đã xảy ra nói xong, sắc mặt của nàng cũng biến thành càng phát khó coi .",
+        "index": 48
+      }
     },
     {
       "convert": "\"Không nghĩ tới hắn vậy mà như thế ác độc, kết bè kết đảng đi mưu hại ngươi.\"",
@@ -311,12 +506,22 @@
     {
       "convert": "Hắn nhíu mày hỏi: \"Ta hiếu kì chính là, Trần sư tỷ ngươi vì sao không có hướng tông môn tố giác, lúc trước bị bọn hắn mưu đồ bí mật khi nhục sự tình?\"",
       "dich": "Hắn nhíu mày hỏi: \"Ta tò mò chính là, Trần sư tỳ vì sao không tố giác với tông môn chuyện bị bọn chúng âm mưu khi nhục lúc trước?\"",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "“我好奇的是，陈师姐你为何没有向宗门告发，先前被他们密谋欺辱之事？”",
+        "text": "“ ta hiếu kỳ chính là, Trần sư tỷ ngươi vì sao không có hướng tông môn tố giác, lúc trước bị bọn họ mưu đồ bí mật khi nhục sự tình ? ”",
+        "index": 52
+      }
     },
     {
       "convert": "Trần Uyển nghe vậy, ánh mắt lấp lóe thật lâu, thở dài nói: \"Chuyện ngày đó, hết thảy đều là các phương ngôn ngữ lời chứng, cũng không tính thực chất chứng cứ, lời của ta ngươi, sẽ không bị hái tin.\"",
       "dich": "Trần Uyển nghe thế, đôi mắt chớp động hồi lâu mới thở dài nói: \"Mọi chuyện xảy ra ngày đó đều dựa vào lời nói của các bên chứ không có chứng cứ xác thực, lời của ta và ngươi sẽ không được tính.\"",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "陈婉闻言，目光闪烁良久，叹了口气说道：“当日之事，一切都是各方言语证词，并无实质性证据，你我之言，不会被采信的。”",
+        "text": "Trần uyển nghe vậy, ánh mắt lập loè thật lâu sau, thở dài nói : “ chuyện ngày đó, hết thảy đều là các phương ngôn ngữ lời chứng, cũng không tính thực chất chứng cớ, ngươi ta chi ngôn, sẽ không bị lấy tin . ”",
+        "index": 53
+      }
     },
     {
       "convert": "Nghe nàng nói rất đúng\" lời của ta ngươi\", mà không phải \"Ngươi phiến diện chi ngôn\", Viên Minh thần sắc hơi chậm.",
@@ -336,7 +541,12 @@
     {
       "convert": "Hắn cũng không phải cổ hủ cố chấp hạng người, tự nhiên biết người đều có thân bất do kỷ thời điểm.",
       "dich": "Hắn cũng không dạng người cổ hủ cố chấp, tự nhiên biết mỗi người đều có lúc thân bất do kỷ.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他也不是迂腐固执之辈，自然知道人都有身不由己的时候。",
+        "text": "Hắn cũng không phải cổ hủ cố chấp hạng người, tự nhiên biết người đều có mang bất do kỷ thời điểm .",
+        "index": 57
+      }
     },
     {
       "convert": "\"Rất xin lỗi, ta không biết này sẽ kém chút hại ngươi mất mạng... Bất quá ngươi cũng coi là nhân họa đắc phúc, ta hi vọng việc này như vậy mà dừng, ngày sau đừng nhắc lại.",

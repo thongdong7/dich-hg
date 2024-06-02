@@ -243,14 +243,24 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "乌鲁目送袁铭走远，目光闪烁不定，不知在想些什么。",
+        "text": "Ô Lỗ nhìn theo Viên Minh đi xa, ánh mắt lấp loé không yên, không biết suy nghĩ cái gì .",
+        "index": 4
+      }
     },
     {
       "convert": "Viên Minh kế tiếp không có đi đến hạp cốc đối diện tiếp tục săn thú, mà là trở lại ẩn thân động đất.",
       "dich": "Viên Minh sau đó không đi qua bên kia hạp cốc để săn thú tiếp, mà trởi lại ẩn mình trong địa động.",
       "suggest": "Viên Minh không tiếp tục đi săn thú phía đối diện nữa, mà quay trở về ẩn thân trong động đất.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭接下来没有前往峡谷对面继续猎兽，而是回到藏身地洞。",
+        "text": "Viên Minh tiếp theo không có đi về phía trước khe sâu đối diện tiếp tục săn thú, mà là trở lại ẩn thân hầm ngầm .",
+        "index": 5
+      }
     },
     {
       "convert": "Săn giết hung thú không cần phải gấp gáp tại một lúc, hắn hiện tại cần nhất chính là tăng thực lực lên.",
@@ -262,7 +272,12 @@
           0.35
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "猎杀凶兽不用急在一时，他现在最需要的是提升实力。",
+        "text": "Săn giết hung thú không cần phải gấp gáp tại nhất thời, hắn hiện tại cần nhất là tăng thực lực lên .",
+        "index": 6
+      }
     },
     {
       "convert": "Hắn đem cửa động phá hỏng, khoanh chân cố định, vận chuyển Cửu Nguyên Quyết, thiên địa linh khí lập tức cuồn cuộn hội tụ mà đến....",
@@ -286,7 +301,12 @@
           0.46
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "时间过的飞快，转眼间，二十天时间过去了。",
+        "text": "Thời gian trôi qua nhanh chóng, trong nháy mắt, hai mươi ngày thời gian trôi qua .",
+        "index": 9
+      }
     },
     {
       "convert": "Thanh Hồ sào huyệt bên ngoài một cây trăm năm đại thụ bên trên, một đầu cao lớn Bạch Viên lẳng lặng mà đứng, đúng là thi triển Phi Mao Thuật Viên Minh.",
@@ -298,7 +318,12 @@
           0.18
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "青狐巢穴外的一株百年巨树上，一头高大白猿静静而立，正是施展了披毛术的袁铭。",
+        "text": "Thanh hồ sào huyệt ngoại đích một gốc cây trăm năm đại thụ thượng, một đầu cao lớn vượn trắng yên tĩnh mà đứng, chính là thi triển Phi Mao Thuật đích Viên Minh .",
+        "index": 10
+      }
     },
     {
       "convert": "Cùng hai mươi ngày so sánh với, Bạch Viên vừa cao lớn hơn không ít, trên người cơ bắp càng thêm từng cục mạnh mẽ, sắc bén bức người.",
@@ -310,7 +335,12 @@
           0.28
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "和二十天相比，白猿又高大了不少，身上肌肉更加虬结有力，精悍逼人。",
+        "text": "Cùng hai mươi ngày so với, vượn trắng lại cao lớn không ít, trên thân cơ bắp càng thêm cuồn cuộn hữu lực, xốc vác bức người .",
+        "index": 11
+      }
     },
     {
       "convert": "Cũng không lâu lắm, năm sáu đầu Thanh Hồ theo khe núi trong sào huyệt chạy đi, rất nhanh riêng phần mình xa nhau hành động.",
@@ -322,7 +352,12 @@
           0.23
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "没过多久，五六只青狐从山坳巢穴内奔出，很快各自分开行动。",
+        "text": "Cũng không lâu lắm, năm sáu chỉ thanh hồ từ khe núi sào huyệt nội chạy đi, rất nhanh mỗi cái tách ra hành động .",
+        "index": 12
+      }
     },
     {
       "convert": "Trải qua trước đây mấy lần dụ địch cùng săn giết, Viên Minh đã phi thường rõ ràng những thứ này Thanh Hồ tập tính, chúng nó đây là phân tán đi ra ngoài kiếm ăn.",
@@ -338,7 +373,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "经过此前的几次诱敌和猎杀，袁铭已经非常清楚这些青狐的习性，它们这是分散出去觅食。",
+        "text": "Kinh qua trước đó đích mấy lần dụ địch cùng săn giết, Viên Minh đã phi thường rõ ràng những này thanh hồ đích tập tính, chúng nó đây là phân tán đi ra kiếm ăn .",
+        "index": 13
+      }
     },
     {
       "convert": "Hắn cưỡi xe nhẹ đi đường quen đất theo đuôi ở trong đó một cái Thanh Hồ phía sau, đi tới một chỗ Hắc Tùng Lâm.",
@@ -350,7 +390,12 @@
           0.16
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他驾轻就熟地尾随在其中一只青狐后面，来到了一处黑松林。",
+        "text": "Hắn cưỡi xe nhẹ đi đường quen địa theo đuôi ở trong đó một con thanh Hồ Hậu mặt, đi tới một chỗ Hắc Tùng rừng .",
+        "index": 14
+      }
     },
     {
       "convert": "Nơi này khoảng cách khe núi sào huyệt chừng bốn năm dặm, mặc dù làm ra động tĩnh, cũng sẽ không truyền tới khe núi sào huyệt đi.",
@@ -362,7 +407,12 @@
           0.38
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这里距离山坳巢穴足有四五里，即便弄出动静，也不会传到山坳巢穴去。",
+        "text": "Chỗ này cự ly khe núi sào huyệt chừng bốn năm trong, mặc dù làm ra động tĩnh, cũng sẽ không truyền tới khe núi sào huyệt đi .",
+        "index": 15
+      }
     },
     {
       "convert": "Viên Minh tăng thêm tốc độ, mấy hơi thở liền cao hơn Thanh Hồ, theo trên cây nhảy xuống, ngăn ở phía trước.",
@@ -374,7 +424,12 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭加快速度，几个呼吸便超过青狐，从树上一跃而下，拦在了前面。",
+        "text": "Viên Minh tăng thêm tốc độ, mấy hơi thở liền vượt qua thanh hồ, từ trên cây nhảy xuống, ngăn ở rồi phía trước .",
+        "index": 16
+      }
     },
     {
       "convert": "Thanh Hồ vốn là cả kinh, sau đó phát hiện chẳng qua là một đầu Bạch Viên, Hồ nhãn buông lỏng, hung ác đánh tới.",
@@ -386,21 +441,36 @@
           0.34
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "青狐先是一惊，随后发现只是一头白猿，狐眼一松，凶狠扑了过来。",
+        "text": "Thanh hồ đầu tiên là cả kinh, theo sau phát hiện chỉ là một đầu vượn trắng, hồ mắt buông lỏng, hung ác đánh tới .",
+        "index": 17
+      }
     },
     {
       "convert": "Này đầu Thanh Hồ so với hắn trước kia săn giết vài đầu lớn thêm vài phần, tốc độ cũng càng nhanh, chỉ thấy một đạo mơ hồ thanh ảnh hiện lên, Thanh Hồ trong chớp mắt liền đến Viên Minh trước người, màu xanh đậm móng vuốt sắc bén lấy xuống!",
       "dich": "Con thanh hồ này lớn hơn một chút so với những con mà hắn săn giết trước đây, tốc độ cũng nhanh hơn. Chỉ thấy một cái bóng xanh mờ mờ hiện lên, thanh hồ nhoáng cái đã đến ngay trước người Viên Minh, vung bộ móng vuốt màu xanh chụp xuống.",
       "suggest": "Đầu Thanh Hồ này so với mấy đầu hắn săn giết trước kia lớn hơn vài phần, tốc độ cũng càng nhanh, chỉ thấy một bóng người mờ ảo hiện ra, trong nháy mắt đã đến trước người Viên Minh, móng vuốt sắc bén bám vào người nó!",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这头青狐比他先前猎杀的几头大了几分，速度也更快，只见一道模糊青影闪过，青狐眨眼间便到了袁铭身前，深青色的利爪抓下！",
+        "text": "Đầu này thanh hồ so với hắn lúc trước săn giết vài đầu lớn mấy phần, tốc độ cũng càng nhanh, chỉ kiến một đạo mơ hồ bóng xanh hiện lên, thanh hồ trong chớp mắt liền đến Viên Minh trước người, màu xanh đậm đích lợi trảo vồ xuống !",
+        "index": 18
+      }
     },
     {
       "convert": "Nhưng mà Viên Minh cơ thể nhẹ nhàng thoáng một cái, người liền đã biến mất ngay tại chỗ, để Thanh Hồ chụp một cái cái không.",
       "dich": "Nhưng Viên Minh chỉ nhẹ nhàng nhoáng một cái, cả người liền biến mất tại chỗ khiến nó chộp vào hư không.",
       "suggest": "Nhưng thân thể Viên Minh khẽ chuyển động, người đã biến mất ngay tại chỗ, để lại một khoảng trống trước mắt.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "然而袁铭身子轻轻一晃，人就已消失在了原地，让青狐扑了个空。",
+        "text": "Nhưng mà Viên Minh thân thể nhẹ nhàng nhoáng một cái, người đã tiêu thất ngay tại chỗ, khiến thanh hồ vồ hụt .",
+        "index": 19
+      }
     },
     {
       "convert": "Thanh Hồ cả kinh, vội vàng ổn định thân hình.",
@@ -412,7 +482,12 @@
           0.83
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "青狐一惊，急忙稳住身形。",
+        "text": "Thanh hồ cả kinh, vội vàng ổn định thân hình .",
+        "index": 20
+      }
     },
     {
       "convert": "Nhưng mà không chờ nó triệt để ổn định, Viên Minh từ trên trời giáng xuống, chân phải mang theo kinh người kình phong, hung hăng đá vào Thanh Hồ trên lưng.",
@@ -424,14 +499,24 @@
           0.51
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "然而未等它彻底稳住，袁铭从天而降，右脚携带着骇人的劲风，狠狠踹在青狐背上。",
+        "text": "Nhưng mà không chờ nó triệt để ổn định, Viên Minh từ phía trên mà giáng, bên phải cước mang theo lấy làm cho người ta sợ hãi kình phong, hung hăng đá vào thanh hồ vác lên .",
+        "index": 21
+      }
     },
     {
       "convert": "Một cỗ đáng sợ man lực tràn vào Thanh Hồ cơ thể, \"Rặc rặc\" một tiếng, xương sống lưng theo tiếng đứt gãy.",
       "dich": "Một luồng man lực đáng sợ truyền vào cơ thể thanh hồ, kéo theo tiếng xương sống gãy 'rặc rặc'.",
       "suggest": "Một luồng sức mạnh đáng sợ tràn ngập cơ thể Thanh Hồ, \"Rặc rặc\" một tiếng, xương sống lưng gãy mấy cái.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一股可怖巨力涌入青狐身体，“咔嚓”一声，脊骨应声断裂。",
+        "text": "Một luồng đáng sợ cự lực tuôn vào thanh hồ thân thể, “ răng rắc ” một tiếng, xương sống lưng ứng thanh rạn nứt .",
+        "index": 22
+      }
     },
     {
       "convert": "Kia thân thể trực tiếp tê liệt trên mặt đất, trong miệng máu tươi điên cuồng.",
@@ -443,7 +528,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "其身躯直接瘫在了地上，口中鲜血狂涌。",
+        "text": "Nó thân thể trực tiếp ngồi phịch ở rồi địa thượng, trong miệng máu tươi tuôn ra .",
+        "index": 23
+      }
     },
     {
       "convert": "Không chờ kia giãy giụa đứng dậy, Viên Minh cái chân còn lại từ trên trời giáng xuống, đạp tại Thanh Hồ trên đầu.",
@@ -455,14 +545,24 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "不等其挣扎起身，袁铭另一只脚从天而降，踏在青狐的脑袋上。",
+        "text": "Không đợi nó giãy dụa đứng dậy, Viên Minh cái chân còn lại từ phía trên mà giáng, đạp ở thanh hồ đích trên đầu .",
+        "index": 24
+      }
     },
     {
       "convert": "Thanh thúy nứt xương thanh âm ở bên trong, Thanh Hồ đầu bị sanh sanh giẫm lên vỡ, màu trắng óc tràn ra, cái này hồ triệt để đã không có khí tức.",
       "dich": "Trong tiếng xương nứt thanh thúy, đầu con thanh hồ bị hắn cứng rắn giẫm nát, lòi cả óc trắng ra. Con thanh hồ này đã hoàn toàn tắt thở.",
       "suggest": "Trong tiếng nứt xương vang lên, đầu Thanh Hồ bị giẫm lên, màu trắng tràn ra, hồ nước hoàn toàn không còn chút khí tức nào nữa.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "清脆的骨裂之声中，青狐的脑袋被生生踩碎，白色的脑浆溢出，此狐彻底没有了气息。",
+        "text": "Thanh thúy đích nứt xương thanh âm trung, thanh hồ đích cái đầu bị sinh sinh giẫm nát, màu trắng đích óc tràn ra, này hồ triệt để không có khí tức .",
+        "index": 25
+      }
     },
     {
       "convert": "Viên Minh thu hồi lòng bàn chân, nhìn đều chết hết Thanh Hồ, sững sờ xuất thần.",
@@ -474,7 +574,12 @@
           0.29
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭收回脚掌，看着死透的青狐，愣愣出神。",
+        "text": "Viên Minh thu hồi bàn chân, nhìn xem đều chết hết đích thanh hồ, ngây ngẩn xuất thần .",
+        "index": 26
+      }
     },
     {
       "convert": "Hắn lựa chọn tiếp tục săn bắn Thanh Hồ, một mặt là đã hiểu rõ bọn này Thanh Hồ tập tính, cảm giác mặc dù không địch lại cũng không trở thành gặp nguy hiểm, càng trọng yếu chính là vì khảo thí thực lực của mình.",
@@ -486,7 +591,12 @@
           0.3
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他选择继续狩猎青狐，一方面是已经了解这群青狐习性，自觉即便不敌也不至于有危险，更重要的是为了测试自己的实力。",
+        "text": "Hắn lựa chọn tiếp tục săn bắn thanh hồ, một mặt là đã hiểu rõ bọn này thanh hồ tập tính, tự giác mặc dù không địch lại cũng không trở thành gặp nguy hiểm, càng quan trọng hơn là vì trắc thí thực lực của chính mình .",
+        "index": 27
+      }
     },
     {
       "convert": "Hai mươi ngày trước, Thanh Hồ với hắn mà nói vẫn là khó có thể dùng lực cường đại hung thú, nhưng hai mươi ngày về sau, cái này hồ tại dưới tay hắn vậy mà đi bất quá hai chiêu.",
@@ -498,7 +608,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "二十天前，青狐对他来说还是难以力敌的强大凶兽，可二十天后，此狐在他手下竟然走不过两招。",
+        "text": "Hai mươi ngày trước, thanh hồ đối với hắn mà nói vẫn là khó có thể dùng lực đích cường đại hung thú, khả sau hai mươi ngày, này hồ tại dưới tay hắn vậy mà tẩu chẳng qua hai chiêu .",
+        "index": 28
+      }
     },
     {
       "convert": "Trong lúc bất tri bất giác, thực lực của mình vậy mà đã tăng vọt đến nước này!",
@@ -510,14 +625,24 @@
           0.59
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "不知不觉中，自己的实力竟然已经激增到这個地步！",
+        "text": "Trong lúc bất tri bất giác, thực lực của chính mình vậy mà đã tăng vọt đến này 個 tình cảnh !",
+        "index": 29
+      }
     },
     {
       "convert": "Viên Minh đè xuống đáy mắt xúc động, lấy ra túi trữ máu đem Thanh Hồ huyết dịch lấy đi về sau, trở về Thanh Hồ sào huyệt phụ cận, ngồi chổm hổm chờ cái khác Thanh Hồ.",
       "dich": "Viên Minh đè nén vẻ xúc động nơi đáy mắt, lấy túi trữ máu ra thu huyết dịch thanh hồ lại, sau đó lại quay về chỗ cạnh sào huyệt thanh hồ, tiếp tục chờ đợi.",
       "suggest": "Viên Minh kiềm chế cảm xúc dâng lên trong lòng, lấy ra túi trữ máu lấy ra từ trong túi chứa máu, sau đó quay trở về sào huyệt của mình ngồi chồm hổm chờ đợi một lúc sau.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭压下眼底的激动，取出储血袋将青狐血液收走后，返回青狐巢穴附近，蹲守其他青狐。",
+        "text": "Viên Minh ép xuống đáy mắt đích kích động, lấy ra trữ máu túi đem thanh hồ huyết dịch lấy đi sau, phản hồi thanh hồ sào huyệt phụ cận, ngồi chờ cái khác thanh hồ .",
+        "index": 30
+      }
     },
     {
       "convert": "Một ngày thời gian trôi qua, hắn thành công săn giết ba cái Thanh Hồ.",
@@ -529,7 +654,12 @@
           0.41
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一天时间过去，他成功猎杀了三只青狐。",
+        "text": "Một ngày thời gian trôi qua, hắn thành công săn giết ba con thanh hồ .",
+        "index": 31
+      }
     },
     {
       "convert": "Ngày hôm sau, hắn tiếp tục đi tới khe núi bên ngoài, không có phí tổn bao nhiêu thời gian liền lại săn giết hai cái Thanh Hồ.",
@@ -541,7 +671,12 @@
           0.32
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "第二天，他继续来到山坳外面，没费多少功夫便又猎杀了两只青狐。",
+        "text": "Ngày thứ hai, hắn tiếp tục đi tới khe núi bên ngoài, không 费 bao nhiêu công phu liền lại săn giết hai con thanh hồ .",
+        "index": 32
+      }
     },
     {
       "convert": "Tháng trước liều mạng mới miễn cưỡng hoàn thành nhiệm vụ, hôm nay thoải mái đạt đến.",
@@ -553,7 +688,12 @@
           0.31
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "上个月拼死才勉强完成的任务，如今轻松达成。",
+        "text": "Tháng trước liều chết mới miễn cưỡng hoàn thành nhiệm vụ, ngày nay thoải mái đạt thành .",
+        "index": 33
+      }
     },
     {
       "convert": "\"Hôm nay ta còn vẫn chưa xong Cửu Nguyên Quyết tầng thứ nhất tu luyện, thi triển Phi Mao Thuật cũng có như thế uy năng, nếu như chiếu vào cái này xu thế tu luyện, một khi tại tầng thứ nhất khẩu quyết bên trên tu có sở thành, thậm chí đột phá đến tầng thứ hai, chính mình há không phải có thể ở nơi này phiến trong rừng xông pha?\"",
@@ -565,7 +705,12 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "“如今我尚未完成九元诀第一层的修炼，施展披毛术就有此等威能，如果照着这个趋势修炼下去，一旦在第一层的口诀上修有所成，甚至突破到第二层，自己岂不是可以在这片丛林里横着走了？”",
+        "text": "“ ngày nay ta còn chưa hoàn thành chín nguyên quyết tầng thứ nhất đích tu luyện, thi triển Phi Mao Thuật liền có bậc này uy năng, nếu chiếu cái này xu thế tu luyện, một khi tại tầng thứ nhất đích khẩu quyết thượng tu có tạo thành, thậm chí đột phá đến tầng thứ hai, chính mình chẳng phải là khả dĩ tại vùng rừng tùng này trong xông pha ? ”",
+        "index": 34
+      }
     },
     {
       "convert": "Viên Minh vuốt trên người viên bên ngoài, càng nghĩ càng hưng phấn, càng nghĩ càng xa, cảm giác mình tựa hồ phát hiện không ngừng trở nên mạnh mẽ đường tắt.",
@@ -577,7 +722,12 @@
           0.57
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭摸着身上的猿皮，越想越兴奋，越想越远，觉得自己似乎发现了不断变强的捷径。",
+        "text": "Viên Minh vuốt trên người vượn da, càng nghĩ càng hưng phấn, càng nghĩ càng xa, cảm thấy mình tựa hồ phát hiện rồi không ngừng mạnh lên đích đường tắt .",
+        "index": 35
+      }
     },
     {
       "convert": "Nhưng hắn đột nhiên lại nghĩ tới điều gì, trong mắt lộ ra vẻ do dự.",
@@ -589,7 +739,12 @@
           0.37
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "但他突然又想到了什么，目中露出了沉吟之色。",
+        "text": "Nhưng hắn đột nhiên lại nghĩ tới điều gì, trong mắt lộ ra rồi vẻ do dự .",
+        "index": 36
+      }
     },
     {
       "convert": "Hắn mặc dù lần đầu trải qua con đường tu tiên, lại cũng cảm thấy có chút quái dị, này Phi Mao Thuật cũng quá mức dùng tốt, chỉ cần tu thành Pháp lực liền có thể thi triển, uy lực tăng lên còn như vậy dễ dàng.",
@@ -601,7 +756,12 @@
           0.3
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他虽然初涉修仙之路，却也觉得有些怪异，这披毛术也太过好用，只要修成法力便能施展，威力提升还这般轻易。",
+        "text": "Hắn tuy rằng lần đầu trải qua con đường tu tiên, nhưng cũng cảm thấy có chút quái dị, này Phi Mao Thuật cũng quá mức dùng tốt, chỉ cần tu thành pháp lực liền có thể thi triển, uy lực đề thăng còn kiểu này dễ dàng .",
+        "index": 37
+      }
     },
     {
       "convert": "Đương nhiên, trong này Cửu Nguyên Quyết phát huy rất lớn tác dụng, nhưng hắn vẫn cảm thấy có chút bất an.",
@@ -613,7 +773,12 @@
           0.7
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "当然，这其中九元诀发挥了很大的作用，但他还是觉得有些不安。",
+        "text": "Đương nhiên, ở trong đó chín nguyên quyết phát huy rồi tác dụng rất lớn, nhưng hắn vẫn cảm thấy có chút bất an .",
+        "index": 38
+      }
     },
     {
       "convert": "Ngoài ra, này cùng mình suy nghĩ tượng cái chủng loại kia di sơn đảo hải, hô phong hoán vũ Tu Tiên giả có chút khác biệt, chẳng lẽ tu thành toàn thân Pháp lực, lại chỉ có thể thông qua biến thành một cái nửa người nửa thú quái vật đi bày ra thực lực, này Tiên Nhân cũng đem được rất biệt khuất rồi a.",
@@ -625,7 +790,12 @@
           0.23
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "此外，这和自己所想象的那种移山填海，呼风唤雨的修仙者颇为不同，难道修成一身法力，却只能通过变成一只半人半兽的怪物去展现实力，这仙人也当得太憋屈了吧。",
+        "text": "Ngoài ra, cái này cùng chính mình tưởng tượng cái chủng loại kia di sơn đảo hải, hô phong hoán vũ người tu tiên có chút bất đồng, chẳng lẽ tu thành một thân pháp lực, nhưng chỉ có thể thông qua biến thành một con nửa người nửa 兽 đích quái vật đi hiện ra thực lực, này tiên nhân cũng làm quá biệt khuất nhỉ .",
+        "index": 39
+      }
     },
     {
       "convert": "Ý nghĩ này một trong lòng sinh ra, Viên Minh không khỏi càng nghĩ càng cảm thấy không đúng, nhưng cụ thể muốn nói không đúng chỗ nào, hắn lại không nói ra được.",
@@ -637,14 +807,24 @@
           0.48
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这个念头一在心里生出，袁铭不由得越想越觉得不对，但具体要说哪里不对，他又说不上来。",
+        "text": "Ý nghĩ này một ở trong lòng sinh ra, Viên Minh không khỏi càng nghĩ càng cảm thấy không đúng, nhưng cụ thể muốn nói chỗ nào không đúng, hắn lại không nói ra được .",
+        "index": 40
+      }
     },
     {
       "convert": "Hắn miễn cưỡng kiềm chế ở tâm thần, một lần nữa tinh tế tự định giá trong chốc lát, cảm thấy nhất thời nửa khắc thực sự nghĩ không ra cái như thế về sau, liền dứt khoát đem việc này tạm thời để tại sau đầu, hướng động đất bước đi, rất nhanh đi tới hạp cốc phụ cận.",
       "dich": "Hắn gắng gượng ổn định tâm thần, sau khi tỉ mỉ cân nhắc thêm một lúc, cảm thấy nhất thời nửa khắc thực sự không nghĩ ra được nguyên nhân, liền dứt khoát quẳng vấn đề này ra sau đầu, cất bước quay về địa động, rất nhanh đã tới chỗ cạnh hạp cốc.",
       "suggest": "Hắn miễn cưỡng kiềm chế tinh thần, một lần nữa tự đánh giá chính mình. Sau khi cảm thấy trong khoảng thời gian nửa khắc mà nghĩ không ra được cách nào, liền quyết định tạm thời để việc này lại sau đầu, đi tới hạp cốc.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他勉强按捺住心神，重新细思量了一会儿，觉得一时半会实在想不出个所以然来，便干脆将此事姑且抛在了脑后，朝地洞行去，很快来到峡谷附近。",
+        "text": "Hắn miễn cưỡng kềm chế tâm thần, lần nữa nghĩ kỹ lượng trong chốc lát, cảm thấy nhất thời bán hội thật sự nghĩ không ra cái như thế về sau, liền dứt khoát đem việc này tạm thời để tại sau đầu, hướng hầm ngầm bước đi, rất mau tới đến khe sâu phụ cận .",
+        "index": 41
+      }
     },
     {
       "convert": "Viên Minh đang muốn đi xuống, bên tai đột nhiên truyền đến trầm thấp rên rỉ.",
@@ -656,7 +836,12 @@
           0.31
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭正要下去，耳边突然传来低低的呻吟。",
+        "text": "Viên Minh đang muốn thêm nữa, bên tai đột nhiên truyền đến cúi đầu đích rên rỉ .",
+        "index": 42
+      }
     },
     {
       "convert": "Hắn mắt lộ vẻ kinh ngạc, nơi này tại sao có thể có người?",
@@ -668,7 +853,12 @@
           0.2
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他面露诧异之色，这里怎么会有人？",
+        "text": "Hắn mắt lộ vẻ kinh ngạc, chỗ này tại sao có thể có người ?",
+        "index": 43
+      }
     },
     {
       "convert": "Thuận theo âm thanh tìm qua, một cái áo đen thân ảnh nằm ở trong bụi cỏ, cơ thể liên tục run rẩy, lộ ở bên ngoài da dẻ lộ ra màu đỏ như máu.",
@@ -680,7 +870,12 @@
           0.5
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "顺着声音找了过去，一个黑袍身影趴在草丛中，身体不停颤抖，露在外面的皮肤呈现血红色。",
+        "text": "Theo thanh âm tìm qua đi, một cái hắc bào thân ảnh nằm sấp tại trong bụi cỏ, thân thể không ngừng run rẩy, lộ ở bên ngoài đích làn da hiện ra đỏ như máu .",
+        "index": 44
+      }
     },
     {
       "convert": "Viên Minh không có tùy tiện tới gần, quan sát người này vài lần phía sau đột nhiên khẽ di một tiếng, bẻ gãy phụ cận trong rừng một cái cây nhỏ, đem Hắc bào nhân cơ thể lật ra tới đây.",
@@ -692,7 +887,12 @@
           0.29
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭没有贸然靠近，观察了这人几眼后突然轻咦一声，折断附近丛林内的一根小树，将黑袍人的身体翻了过来。",
+        "text": "Viên Minh không có tùy tiện tới gần, quan sát người này vài lần sau đột nhiên khẽ di một tiếng, bẻ gẫy phụ cận tùng lâm nội đích một cây cây nhỏ| Tiểu Thụ, đem hắc bào người thân thể lật lên .",
+        "index": 45
+      }
     },
     {
       "convert": "Người này bộ mặt tùy theo hiển lộ, đúng là Ô Lỗ.",
@@ -708,7 +908,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "此人面部随之显露，正是乌鲁。",
+        "text": "Người này bộ mặt theo đó hiển lộ, chính là Ô Lỗ .",
+        "index": 46
+      }
     },
     {
       "convert": "Viên Minh đã sớm theo bóng lưng phát hiện một chút manh mối, cũng không kinh ngạc.",
@@ -720,7 +925,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭早就从背影发现了些许端倪，并未惊讶。",
+        "text": "Viên Minh đã sớm từ bóng lưng phát hiện rồi một chút manh mối, không hề kinh ngạc .",
+        "index": 47
+      }
     },
     {
       "convert": "Ô Lỗ trên mặt cũng là đỏ thẫm như máu, bờ môi run rẩy, hai mắt trắng dã, sớm đã không có thần trí.",
@@ -732,7 +942,12 @@
           0.64
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "乌鲁脸上也是殷红如血，嘴唇颤抖，两眼翻白，早已没有了神智。",
+        "text": "Ô Lỗ trên mặt cũng là đỏ sẫm như máu, môi run rẩy, hai mắt trắng dã, sớm đã không có thần trí .",
+        "index": 48
+      }
     },
     {
       "convert": "\"Đây là phát nào đó tật bệnh?\"",
@@ -840,7 +1055,12 @@
           0.44
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在此刻，乌鲁的鼻孔，耳孔，眼睛等处尽数流着鲜血，呼吸也突然变得急促，气息却在快速减弱。",
+        "text": "Vào thời khắc này, Ô Lỗ đích lỗ mũi, lỗ tai, con mắt đợi chỗ hết thảy chảy máu tươi, hô hấp cũng đột nhiên trở nên dồn dập, khí tức nhưng đang nhanh chóng yếu bớt .",
+        "index": 50
+      }
     },
     {
       "convert": "Viên Minh một chút lưỡng lự, vẫn là ngồi xổm xuống, kiểm tra Ô Lỗ tình huống, rất nhanh có phát hiện: \"Tựa hồ tâm mạch xảy ra vấn đề.\"",
@@ -864,7 +1084,12 @@
           0.38
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "乌鲁心脏剧烈跳动，比常人快了十倍，胸口附近的经脉紊乱，肌肉痉挛，气血运行遭到了极大的阻碍。",
+        "text": "Ô Lỗ tâm tạng kịch liệt nhảy lên, so với thường nhân nhanh thập bội, ngực phụ cận đích kinh mạch hỗn loạn, cơ bắp co rút, khí huyết vận hành bị trở ngại cực lớn .",
+        "index": 52
+      }
     },
     {
       "convert": "Viên Minh vận khởi Pháp lực, bấm đốt ngón tay tại Ô Lỗ ngực rất nhanh chọn vài chục cái, cuối cùng bàn tay đặt tại kia ngực, Pháp lực bành trướng ra, khai thông kinh mạch.",
@@ -876,7 +1101,12 @@
           0.15
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭运起法力，屈指在乌鲁胸口快速点了十几下，最后手掌按在其胸口，法力澎湃而出，疏导经脉。",
+        "text": "Viên Minh vận khởi pháp lực, bấm tay tại Ô Lỗ ngực nhanh chóng điểm vài chục cái, tối hậu bàn tay đặt tại nó ngực, pháp lực mênh mông mà ra, sơ sài dẫn kinh mạch .",
+        "index": 53
+      }
     },
     {
       "convert": "Một khắc đồng hồ về sau, hắn thu tay về, cái trán hơi hơi gặp đổ mồ hôi.",
@@ -888,7 +1118,12 @@
           0.33
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一刻钟后，他收回了手，额头微微见汗。",
+        "text": "Một khắc phút sau, hắn thu tay về, cái trán hơi hơi kiến mồ hôi .",
+        "index": 54
+      }
     },
     {
       "convert": "Nơi này dược tài gì cùng khí cụ đều không có, hắn đầu có thể làm được những thứ này, Ô Lỗ sống hay chết, đều xem kia bản thân Tạo Hóa.",
@@ -900,7 +1135,12 @@
           0.16
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这地方什么药材和器具都没有，他只能做到这些，乌鲁是死是活，全看其自身造化。",
+        "text": "Đất này phương dược liệu gì cùng khí cụ đều không có, hắn chỉ có thể làm được những này, Ô Lỗ sống hay chết, đều xem sở hửu tạo hóa .",
+        "index": 55
+      }
     },
     {
       "convert": "Có thể là Ô Lỗ mệnh không có đến tuyệt lộ, thể nội khí huyết chậm rãi khôi phục suôn sẻ, trên gương mặt Huyết Hồng biến mất không ít, người cũng thanh tỉnh lại.",
@@ -912,7 +1152,12 @@
           0.14
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "可能是乌鲁命不该绝，体内气血慢慢恢复平顺，脸颊上的血红消退不少，人也清醒了过来。",
+        "text": "Có thể là Ô Lỗ mệnh không có đến tuyệt lộ, thể nội khí huyết chậm rãi khôi phục THUẬN, trên gương mặt đích huyết hồng biến mất không ít, người cũng thanh tỉnh lại .",
+        "index": 56
+      }
     },
     {
       "convert": "\"Viên Minh... Là ngươi?\"",
@@ -1052,7 +1297,12 @@
           1
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "乌鲁张了张嘴，欲言又止。",
+        "text": "Ô Lỗ há miệng thở dốc, muốn nói lại thôi .",
+        "index": 59
+      }
     },
     {
       "convert": "\"Ngươi không muốn nói cũng không sao cả, đầu là của ngươi bệnh trạng phi thường nghiêm trọng, ta chỉ có thể giúp ngươi giảm bớt một chút, căn bản không có trị tận gốc, rất nhanh sẽ tái phát, ngươi có thể có đúng bệnh dược vật?\"",
@@ -1144,7 +1394,12 @@
           0.1
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "乌鲁面露迟疑之色，但很快变得坚定，望向腰侧位置。",
+        "text": "Ô Lỗ mặt lộ vẻ vẻ chần chờ, nhưng rất nhanh trở nên kiên định, nhìn phía bên eo vị trí .",
+        "index": 61
+      }
     },
     {
       "convert": "\"Nơi này có thuốc?\"",
@@ -1279,7 +1534,12 @@
           0.31
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭没有二话，从那里取出一个布袋，里面装了不少杂物，有四个密封的竹筒，两块暗红色石头，一枚白色玉佩，以及一个黑色玉瓶。",
+        "text": "Viên Minh không có hai lời, từ nơi đó lấy ra một cái túi, bên trong chứa không ít tạp vật, có bốn cái phong kín đích ống trúc, hai khối màu đỏ sậm hòn đá, một viên màu trắng ngọc bội, cùng với một cái hắc sắc bình ngọc .",
+        "index": 64
+      }
     },
     {
       "convert": "\"Thế nhưng là này bình ngọc?\"",
@@ -1327,14 +1587,24 @@
           0.92
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "乌鲁面露喜色，立刻点头。",
+        "text": "Ô Lỗ mặt lộ vẻ vui mừng, lập tức gật đầu .",
+        "index": 66
+      }
     },
     {
       "convert": "Viên Minh kéo ra bình ngọc, từ bên trong cũng ra một quả màu đỏ sậm dược hoàn, cũng không có cái gì vị thuốc, phán đoán không ngoài là loại đan dược nào.",
       "dich": "Viên Minh kéo nắp bình, đổ ra một viên dược hoàn màu đỏ sậm. Dược hoàn này không có mùi thuốc gì nên đoán không ra là loại đao dược nào.",
       "suggest": "Viên Minh mở bình ngọc ra, bên trong cũng không có vị thuốc nào, cũng không thể đoán được là loại đan dược nào.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭打开玉瓶，从里面倒出一枚暗红色药丸，也没有什么药味，判断不出是何种丹药。",
+        "text": "Viên Minh mở ra bình ngọc, từ giữa mặt đổ ra một viên màu đỏ sậm dược hoàn, cũng không có cái gì mùi thuốc, phán đoán không ra là loại nào đan dược .",
+        "index": 67
+      }
     },
     {
       "convert": "Hắn cũng lười để ý tới, đem dược hoàn đưa vào Ô Lỗ trong miệng.",
@@ -1350,7 +1620,12 @@
           0.28
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他也懒得理会，将药丸送入乌鲁口中。",
+        "text": "Hắn cũng lười để ý, đem dược hoàn đưa vào Ô Lỗ trong miệng .",
+        "index": 68
+      }
     },
     {
       "convert": "Ô Lỗ khó khăn đem đan dược nuốt vào, sắc mặt rất nhanh lại lần nữa trở nên Huyết Hồng, so với phía trước càng đỏ, hắn cái trán gân xanh nổi lên đi ra, giống như vật còn sống giống như nhúc nhích, trong cổ họng cũng phát ra áp lực cực kỳ gầm nhẹ, nhìn tới đang gặp cực hạn thống khổ.",
@@ -1362,7 +1637,12 @@
           0.1
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "乌鲁艰难的将丹药吞下，面色很快再度变得血红，比之前更红，他额头的青筋暴突了出来，好像活物般蠕动，喉咙里也发出压抑之极的低吼，看起来正在遭受极致的痛苦。",
+        "text": "Ô Lỗ gian nan đích đem đan dược nuốt vào, sắc mặt rất nhanh lại lần nữa trở nên đỏ như máu, so trước đó càng đỏ, trán của hắn gân xanh nổi lên rồi ra, dường như vật còn sống kiểu mấp máy, trong cổ họng cũng phát ra kiềm chế chi cực đích gầm nhẹ, thoạt nhìn ngay tại chịu đựng cực hạn đích thống khổ .",
+        "index": 69
+      }
     },
     {
       "convert": "Viên Minh nhăn mày lại, nhìn Ô Lỗ cái dạng này, không giống như là bệnh.",
@@ -1374,7 +1654,12 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭眉头皱起，看乌鲁这个样子，不像是病。",
+        "text": "Viên Minh mày nhăn lại, coi Ô Lỗ cái dạng này, không giống như là bệnh .",
+        "index": 70
+      }
     },
     {
       "convert": "Ước chừng một bữa cơm thời gian, Ô Lỗ tình huống mới bắt đầu chuyển biến tốt đẹp, trên mặt màu máu từ từ biến mất, nổi lên gân xanh cũng chầm chậm khôi phục nguyên dạng.",
@@ -1386,7 +1671,12 @@
           0.41
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "足足一顿饭的功夫，乌鲁的情况才开始好转，脸上血色逐渐消退，暴突的青筋也慢慢恢复原样。",
+        "text": "Ước chừng một trận cơm công phu, Ô Lỗ đích tình huống mới bắt đầu chuyển biến tốt đẹp, trên mặt huyết sắc dần dần biến mất, nổi lên đích gân xanh cũng chầm chậm khôi phục nguyên dạng .",
+        "index": 71
+      }
     },
     {
       "convert": "Cả người hắn nhìn tới mệt mỏi đến cực điểm, mạnh mẽ chống đỡ khoanh chân ngồi xuống, vận công điều tức.",
@@ -1402,7 +1692,12 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他整个人看起来疲累至极，强撑着盘膝坐好，运功调息。",
+        "text": "Cả người hắn thoạt nhìn mệt mỏi mệt đến cực điểm, ráng chống đỡ lấy khoanh chân ngồi xuống, vận công điều tức .",
+        "index": 72
+      }
     },
     {
       "convert": "Viên Minh thả người nhảy lên phụ cận một cây đại thụ, tại một cái cách mặt đất mấy trượng tráng kiện trên cành cây ngồi xuống, vận công khôi phục mới vừa tiêu hao Pháp lực.",
@@ -1414,7 +1709,12 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭纵身跳上附近一株大树，在一根离地数丈的粗壮树干上坐了下来，运功恢复刚刚消耗的法力。",
+        "text": "Viên Minh nhún người nhảy lên phụ cận một cây đại thụ, tại một cây cách mặt đất mấy trượng đích tráng kiện thân cây thượng tọa xuống, vận công khôi phục vừa mới tiêu hao đích pháp lực .",
+        "index": 73
+      }
     },
     {
       "convert": "Thật lâu về sau, Ô Lỗ khí sắc triệt để khôi phục, thân thể bề ngoài hồng quang hiện lên, bên hông da hổ cuốn ngược lại mà lên, dán tại trên người của hắn, trong chớp mắt liền hoàn thành Phi Mao Thuật biến thân, hóa thành một đầu chừng hơn một trượng cao hoa ban mãnh hổ.",
@@ -1426,7 +1726,12 @@
           0.36
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "良久之后，乌鲁气色彻底恢复，体表红光闪过，腰间的虎皮倒卷而上，贴在他的身上，眨眼间便完成了披毛术变身，化为一头足有丈许高的花斑猛虎。",
+        "text": "Sau một hồi lâu, Ô Lỗ khí sắc triệt để khôi phục, bên ngoài thân hồng quang hiện lên, bên hông đích da hổ cuốn ngược mà lên, dán tại trên người hắn, trong chớp mắt liền hoàn thành rồi Phi Mao Thuật biến thân, hóa thành một đầu chừng trượng khoảng chừng cao hoa ban mãnh hổ .",
+        "index": 74
+      }
     },
     {
       "convert": "Viên Minh đồng tử hơi co lại một cái, Ô Lỗ cơ thể, so sánh với lần tại bên dòng suối thấy lớn hơn gần nửa đông đúc.",
@@ -1438,7 +1743,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭瞳孔微缩了一下，乌鲁的身体，比上次在溪边看到的大了小半之多。",
+        "text": "Viên Minh đồng tử hơi co lại rồi một chút, Ô Lỗ đích thân thể, so với lần trước tại bên suối nhìn thấy đích lớn non nửa nhiều .",
+        "index": 75
+      }
     },
     {
       "convert": "Tu vi của hắn không ngừng nhắc đến lên cao, Bạch Viên biến thân thân cao cũng ở đây trở nên to lớn, nhưng hắn trở nên to lớn biên độ tựa hồ hơi thua tại Ô Lỗ.",
@@ -1450,7 +1760,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他的修为不断提升，白猿变身的身高也在变大，可他变大的幅度似乎略逊于乌鲁。",
+        "text": "Tu vi của hắn không ngừng tăng lên, vượn trắng biến thân đích thân cao cũng đang lớn lên, khả hắn biến lớn đích biên độ tựa hồ hơi thua tại Ô Lỗ .",
+        "index": 76
+      }
     },
     {
       "convert": "Ô Lỗ nhìn về phía trên cây Viên Minh, trong mắt sắc bén nhấp nháy.",
@@ -1470,7 +1785,12 @@
           0.84
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "乌鲁望向树上的袁铭，眼中寒光烁烁。",
+        "text": "Ô Lỗ nhìn phía trên cây đích Viên Minh, trong mắt nhấp nháy sắc bén .",
+        "index": 77
+      }
     },
     {
       "convert": "\"Ta mới vừa cũng coi như cứu nễ một mạng, Ô Lỗ huynh vì sao như vậy xem ta?",

@@ -71,19 +71,34 @@
       "convert": "Đối với A Cổ Lạp, hắn phảng phất không nhìn thấy.",
       "dich": "Đối với A Cổ Lạp thì hắn làm như không thấy.",
       "suggest": "Đối với A Cổ Lạp, hắn dường như không thấy.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "对于阿古拉，他仿佛没有看到。",
+        "text": "Đối với A Cổ Lạp, hắn phảng phất không nhìn thấy .",
+        "index": 3
+      }
     },
     {
       "convert": "Mỹ mạo thiếu phụ đôi mi thanh tú giương lên, hắc phu đại hán thấp hừ một tiếng, ngược lại cũng không nói thêm cái gì.",
       "dich": "Đôi mi thanh tú của thiếu phụ xinh đẹp giương lên, trong khi đó đại hán da đen hừ một tiếng, xong cũng không nói gì thêm.",
       "suggest": "Đôi mi thiếu phụ thanh tú khẽ giương lên, hắc phu đại hán hừ một tiếng, ngược lại cũng không nói thêm gì nữa.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "美貌少妇秀眉上扬，黑肤大汉低哼了一声，倒也没再说什么。",
+        "text": "Mỹ mạo thiếu phụ tú lông mày giơ lên, hắc phu đại hán hừ nhẹ rồi một tiếng, thật cũng không lại nói cái gì .",
+        "index": 4
+      }
     },
     {
       "convert": "Lúc này, bên cạnh bị vắng vẻ A Cổ Lạp khuôn mặt đã biến thành màu gan heo, trong đám người kia đi ra: \"Khẩu khí cũng không nhỏ, muốn gia nhập đội ngũ của chúng ta, để ta nhìn ngươi thực lực lại nói!\"",
       "dich": "Giờ phút này, A Cổ Lạp đứng bên cạnh ăn bơ, sắc mặt đã đổi sang màu gan heo, bước ra khỏi nhóm người: \"Khẩu khí cũng không nhỏ, muốn gia nhập đội ngũ của chúng ta, để ta xem bản lĩnh ngươi thế nào rồi nói.\"",
       "suggest": "Lúc này, khuôn mặt A Cổ Lạp ở bên cạnh đã biến thành màu gan heo, một tên trong đám người kia đi ra: \"Khẩu khí không nhỏ, muốn gia nhập đội ngũ của chúng ta, để ta nhìn thực lực của ngươi rồi nói!\"",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "此刻，旁边被冷落的阿古拉一张脸已经变成了猪肝色，越众走出：“口气倒是不小，想加入我们的队伍，让我看看你的实力再说！”",
+        "text": "Lúc này, bên cạnh bị lạnh nhạt đích A Cổ Lạp một trương mặt đã biến thành gan heo sắc, trong đám người kia đi ra : “ khẩu khí cũng không nhỏ, muốn gia nhập đội ngũ của chúng ta, để cho ta nhìn xem thực lực của ngươi lại nói ! ”",
+        "index": 5
+      }
     },
     {
       "convert": "\"A Cổ Lạp sư huynh đã muốn chỉ giáo, vậy liền mời ra tay.\"",
@@ -107,19 +122,34 @@
       "convert": "Một chùm óng ánh dòng nước trống rỗng hiển hiện, nhanh chóng uốn lượn biến hình, trong nháy mắt liền hóa thành một trương dài hai thước kỳ dị nước cung, dây cung chỗ càng tự động sinh ra một cây sáng lấp lánh thủy tiễn.",
       "dich": "Một dòng nước trong suốt lăng không xuất hiện, xong nhanh chóng uốn lượn biến hình, chỉ nháy mắt đã hóa thành một cây cung nước kỳ dị dài hai thước, chỗ dây cũng còn tự động sinh một cây thủy tiễn sáng lấp lánh.",
       "suggest": "Một dòng nước óng ánh lấp lánh hiện ra, nhanh chóng uốn lượn biến hóa, trong nháy mắt liền hóa thành một cái cung nước kỳ dị dài hai thước, trên dây cung tự động sinh ra một quả cầu ánh sáng lấp lánh.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一束晶莹水流凭空浮现，快速弯曲变形，瞬间便化为一张二尺长的奇异水弓，弓弦处更自动生出一根亮晶晶的水箭。",
+        "text": "Một chùm trong suốt dòng nước đột nhiên hiện lên, nhanh chóng gấp khúc biến hình, trong nháy mắt liền hóa thành một trương dài hai thước đích kỳ dị thủy 弓, dây cung chỗ càng tự động sinh ra một cây sáng lấp lánh thủy tiễn .",
+        "index": 8
+      }
     },
     {
       "convert": "\"Hưu\" một tiếng duệ khiếu, thủy tiễn phá không xông ra, thẳng đến Viên Minh ngực, tốc độ hơn xa bình thường cung tiễn.",
       "dich": "Theo một tiếng rít sắc bén, thủy tiễn xé gió bắn ra, lao thẳng về phía ngực Viên Minh, tốc độ hơn xa cung tiễn bình thường.",
       "suggest": "\"Hưu\", duệ khiếu thủy tiễn phá không xông ra, bắn thẳng vào ngực Viên Minh với tốc độ hơn xa cung tiễn bình thường.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "“咻”的一声锐啸，水箭破空冲出，直奔袁铭胸口，速度远胜寻常弓箭。",
+        "text": "“ chiu ” đích một tiếng duệ khiếu, thủy tiễn phá không lao ra, băng băng chạy đến Viên Minh ngực, tốc độ hơn xa tầm thường cung tiễn .",
+        "index": 9
+      }
     },
     {
       "convert": "A Cổ Lạp vụng trộm đùa nghịch thủ đoạn, nói chuyện trước đó liền âm thầm bấm niệm pháp quyết thi pháp, vừa dứt lời lúc, cây kia thủy tiễn đã bắn ra ngoài.",
       "dich": "A Cổ Lạp âm thầm giở trò, trước khi nói đã lén lút bấm niệm pháp quyết thi pháp, khi lời vừa dứt, cây thủy tiễn kia đã bắn vọt ra ngoài.",
       "suggest": "A Cổ Lạp vụng trộm đùa nghịch, lúc nói chuyện hắn cũng âm thầm bấm niệm pháp quyết thi pháp, vừa dứt lời thì cây thủy tiễn kia đã bắn ngược trở lại.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "阿古拉偷偷耍了手段，说话之前便暗中掐诀施法，话音刚落时，那根水箭已经射了出去。",
+        "text": "A Cổ Lạp vụng trộm đùa nghịch thủ đoạn, nói chuyện trước đó liền âm thầm bắt quyết thi pháp, vừa dứt lời thời, cây kia thủy tiễn đã bắn ra ngoài .",
+        "index": 10
+      }
     },
     {
       "convert": "\"Thủy Tiễn Thuật?\"",
@@ -131,25 +161,45 @@
       "convert": "Viên Minh không hốt hoảng chút nào, tay phải hư không đẩy ra, lòng bàn tay hiện ra nồng đậm lục quang.",
       "dich": "Viên Minh không hề hoảng hốt, tay phải đẩy ra khoảng không trước mắt, lòng bàn tay lập tức tỏa ra ánh sáng xanh nồng đậm.",
       "suggest": "Viên Minh không hề hốt hoảng, vung tay phải lên, lòng bàn tay tỏa ánh sáng xanh đậm.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭毫不慌乱，右手虚空推出，掌心涌现出浓郁绿光。",
+        "text": "Viên Minh không hốt hoảng chút nào, bên phải tay hư không đẩy ra, lòng bàn tay hiện ra nồng đậm lục quang .",
+        "index": 12
+      }
     },
     {
       "convert": "Một cây thô to gai gỗ từ đó toát ra, phát sau mà đến trước ngăn ở thủy tiễn trước đó.",
       "dich": "Một cây gai gỗ thô to từ đó mọc ra, đi sau mà tới trước, chắn ngay trước cây thủy tiễn.",
       "suggest": "Một cây gai gỗ thô to từ trong đó chui ra, chặn ngay phía sau mũi tên.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一根粗大木刺从中冒出，后发先至的拦在水箭之前。",
+        "text": "Một cây thô to gai gỗ từ trong tỏa ra, phát sau mà đến trước đích ngăn ở thủy tiễn trước đó .",
+        "index": 13
+      }
     },
     {
       "convert": "Những ngày qua Viên Minh một mực khổ tu Minh Nguyệt Quyết, thần hồn chi lực không có tăng cường nhiều ít, tốc độ phản ứng lại thêm nhanh hơn không ít.",
       "dich": "Những ngày qua Viên Minh vẫn luôn khổ tu Minh Nguyệt Quyết, tuy lực lượng thần hôn không tăng thêm bao nhiêu, nhưng tốc độ phản ứng lại được nâng cao không ít.",
       "suggest": "Những ngày qua Viên Minh luôn khổ tu Minh Trăng Quyết, lực lượng thần hồn không tăng lên bao nhiêu, tốc độ phản ứng lại nhanh hơn không ít.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这些时日袁铭一直苦修冥月诀，神魂之力没有增强多少，反应速度却加快了不少。",
+        "text": "Những ngày qua Viên Minh một mạch khổ tu Minh Nguyệt quyết, thần hồn chi lực không có tăng cường bao nhiêu, tốc độ phản ứng nhưng tăng nhanh không ít .",
+        "index": 14
+      }
     },
     {
       "convert": "\"Phanh\" một tiếng vang lớn, thủy tiễn vỡ nát, gai gỗ cũng bị đánh rách tả tơi hơn phân nửa.",
       "dich": "Một tiếng \"phành\" lớn vang lên, thủy tiễn vỡ nát, còn gai gỗ cũng bị đánh rách tơi tả hơn nửa.",
       "suggest": "Một tiếng 'rầm' lớn vang lên, quả cầu lửa vỡ tung, gai gỗ cũng bị đánh rách hơn nửa.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "“砰”的一声大响，水箭崩碎，木刺也被震裂大半。",
+        "text": "“ phanh ” đích một tiếng vang lớn, thủy tiễn vỡ nát, gai gỗ cũng bị đánh rách tả tơi quá nửa .",
+        "index": 15
+      }
     },
     {
       "convert": "\"Cái gì!\" A Cổ Lạp biểu lộ ngưng kết.",
@@ -161,7 +211,12 @@
       "convert": "Hắn vượt lên trước âm thầm thi pháp, lấy Thủy Tiễn Thuật nhanh chóng, vậy mà lại bị Mộc Thứ Thuật ngăn lại!",
       "dich": "Gã lén lút thi pháp trước, lại thêm tốc độ cực nhanh của thủy tiễn mà lại bị Mộc Thứ Thuật ngăn chặn!",
       "suggest": "Hắn âm thầm thi pháp, dùng thuật Thủy Tiễn nhanh chóng ngăn cản, nhưng lại bị Mộc Thứ Thuật chặn lại!",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他抢先暗中施法，以水箭术的迅疾，竟然会被木刺术拦住！",
+        "text": "Hắn giành trước âm thầm thi pháp, dĩ thủy tiễn thuật đích nhanh chóng, vậy mà lại bị gai gỗ thuật ngăn lại !",
+        "index": 17
+      }
     },
     {
       "convert": "\"Có thể sao?\"",
@@ -179,19 +234,34 @@
       "convert": "A Cổ Lạp sắc mặt khó coi, hai tay nhanh chóng bấm niệm pháp quyết, nước cung phía trên hào quang loé lên, lóe lên hiện ra trọn vẹn năm cái thủy tiễn.",
       "dich": "A Cổ Lạp trông thần sắc vô cùng khó coi, hai tay gã nhanh chóng bấm niệm pháp quyết, tức thì hào quang lóe lên trên cây cung nước, ngay sau đó năm cây thủy tiễn lóe hiện ra.",
       "suggest": "Sắc mặt A Cổ Lạp khó coi, hai tay nhanh chóng bấm niệm pháp quyết, hào quang phía trên tấm thuẫn lóe lên, lóe lên năm cái thủy tiễn.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "阿古拉面色难看，两手快速掐诀，水弓之上光芒闪过，一闪浮现出足足五根水箭。",
+        "text": "A Cổ Lạp sắc mặt khó coi, hai tay nhanh chóng bắt quyết, thủy 弓 phía trên hào quang loé lên, chợt lóe hiện ra ước chừng năm cái thủy tiễn .",
+        "index": 19
+      }
     },
     {
       "convert": "Hưu hưu hưu!",
       "dich": "Viu viu viu!",
       "suggest": "Hưu hưu hưu!",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "咻咻咻！",
+        "text": "Chiu chiu chiu !",
+        "index": 20
+      }
     },
     {
       "convert": "Năm cái thủy tiễn đồng thời rời dây cung bắn ra, hướng phía Viên Minh giảo sát tới.",
       "dich": "Năm cây thủy tiễn đồng loạt rời dây cung bắn ra, gào rít lao thẳng về phía Viên Minh.",
       "suggest": "Năm quả thủy tiễn rời dây cung bắn ra, nhắm thẳng về phía Viên Minh hòng truy sát.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "五根水箭同时离弦射出，朝着袁铭绞杀过来。",
+        "text": "Năm cái thủy tiễn cùng thời rời cung bắn ra, hướng tới Viên Minh thắt cổ qua tới .",
+        "index": 21
+      }
     },
     {
       "convert": "\"Năm mũi tên liên phát!",

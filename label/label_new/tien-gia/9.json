@@ -23,7 +23,12 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "在袁铭的目光注视下，只见那黑色肉瘤突然开始快速蠕动，其上开始分裂出丝丝缕缕的黑色丝线，不断延长，朝着袁铭的胸口探了过来。",
+        "text": "Tại Viên Minh đích ánh mắt nhìn chăm chú, chỉ kiến cái kia màu đen bướu thịt đột nhiên bắt đầu nhanh chóng mấp máy, trên đó bắt đầu chia ra từng tia từng sợi đích hắc sắc sợi tơ, không ngừng kéo dài, hướng tới Viên Minh đích ngực dò xét qua tới .",
+        "index": 0
+      }
     },
     {
       "convert": "Viên Minh lập tức hai mắt trợn tròn, hắn là tình nguyện chết, cũng không muốn bị quỷ này đồ vật ký sinh, khiến cho sống không bằng chết.",
@@ -35,7 +40,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭顿时双眼瞪圆，他是宁愿死，也不愿意被这鬼东西寄生，搞得生不如死。",
+        "text": "Viên Minh tức khắc hai mắt trợn tròn, hắn là tình nguyện chết, cũng không bằng lòng bị thứ quỷ này ký sinh, khiến cho sống không bằng chết .",
+        "index": 1
+      }
     },
     {
       "convert": "Giãy giụa ở giữa, hắn phát hiện cánh tay của mình mặc dù còn bị buộc, nhưng cổ tay còn có thể hoạt động, lúc này vặn qua tay cổ tay hướng lên ném đi.",
@@ -47,14 +57,24 @@
           0.41
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "挣扎之间，他发现自己的手臂虽然还被捆着，但手腕还能活动，当即拧转手腕向上一抛。",
+        "text": "Giãy dụa ở giữa, hắn phát hiện tay của mình cánh tay tuy rằng còn bị buộc, nhưng thủ đoạn còn có thể sống động, lúc này vặn qua tay cổ tay hướng về phía trước ném đi .",
+        "index": 2
+      }
     },
     {
       "convert": "Kia căn một mực bị hắn nắm trong tay bạch cốt thương ngắn, lúc này lơ lửng bay lên, đi tới trước mắt hắn.",
       "dich": "Cây đoản thương bằng xương, vốn vẫn được hắn nắm chặt trong tay, lúc này bay lên tới ngang tầm mắt hắn.",
       "suggest": "Đoạn thương ngắn vẫn đang được hắn cầm trong tay nhanh chóng bay lên, bay tới trước mắt hắn.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "那根一直被他握在手中的白骨短枪，当即浮空飞起，来到了他的眼前。",
+        "text": "Cây kia một mạch bị hắn nắm trong tay đích bạch cốt súng lục, lúc này lơ lửng bay lên, đi tới trước mắt hắn .",
+        "index": 3
+      }
     },
     {
       "convert": "Viên Minh không chút do dự nào, đã dùng hết khí lực toàn thân, một đầu đụng ra.",
@@ -66,14 +86,24 @@
           0.49
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭没有丝毫犹豫，用尽了全身的力气，一头撞了上去。",
+        "text": "Viên Minh không chút do dự, đã dùng hết khí lực toàn thân, một đầu đụng vào .",
+        "index": 4
+      }
     },
     {
       "convert": "Bạch cốt thương ngắn bị đụng phải tựa như cây lao một dạng bắn ra, tại Hắc Hùng xương sườn khép kín phía trước trong nháy mắt, đâm hướng vào trong.",
       "dich": "Đoản thương kia bị đụng trúng, liền như một cây lao bắn vọt đi, trong nháy mắt trước khi hai mảng xương sườn của con gấu khép kín lại, đâm vào bên trong.",
       "suggest": "Một vết thương dài giống như cây lao đâm vào vách tường thành, đâm thẳng vào trong xương sườn.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "白骨短枪被撞得好似标枪一样射出，在黑熊肋骨闭合前的一瞬，刺了进去。",
+        "text": "Bạch cốt súng lục bị đâm đến coi như tiêu thương đồng dạng bắn ra, tại gấu chó xương sườn khép kín trước đích một cái chớp mắt, đâm đi vào .",
+        "index": 5
+      }
     },
     {
       "convert": "\"Rống...\"",
@@ -109,7 +139,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑熊口中发出一声怒吼，原本正在闭合的肋骨一僵，那些延伸向袁铭的黑色丝线也缓缓退缩了回去。",
+        "text": "Gấu chó trong miệng phát ra gầm lên giận dữ, nguyên bản ngay tại khép kín đích xương sườn cứng đờ, những cái kia kéo dài hướng Viên Minh đích hắc sắc sợi tơ cũng chậm rãi rút lui trở về .",
+        "index": 7
+      }
     },
     {
       "convert": "Ngay sau đó, Hắc Hùng lồng ngực lần nữa từ từ mở ra, kia căn ký thác lấy Viên Minh hy vọng cuối cùng Cốt Thương, chính đâm vào Hắc Hùng trên trái tim, cự ly này đoàn màu đen bướu thịt bất quá chút xíu ở giữa, lại cuối cùng không thể trúng mục tiêu.",
@@ -121,7 +156,12 @@
           0.23
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "紧接着，黑熊的胸腔再次缓缓打开，那根寄托着袁铭最后希望的骨枪，正扎在黑熊的心脏上，距离那团黑色肉瘤不过毫厘之间，却终究没能命中。",
+        "text": "Ngay sau đó lấy, gấu chó đích lồng ngực lần nữa từ từ mở ra, cây kia ký thác Viên Minh hi vọng cuối cùng đích xương thương, chính đâm vào gấu chó trong trái tim, cự ly đoàn kia hắc sắc bướu thịt chẳng qua trong gang tấc, nhưng chung quy không thể trúng đích .",
+        "index": 8
+      }
     },
     {
       "convert": "Hắc Hùng trái tim vẫn còn một cái một cái co vào lấy, kia từng sợi màu đen sợi tơ như là điên rồi một dạng, một tia ý thức đất xông về Viên Minh lồng ngực.",
@@ -133,7 +173,12 @@
           0.1
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑熊的心脏还在一下一下的收缩着，那根根黑色丝线如同疯了一样，一股脑地冲向了袁铭的胸膛。",
+        "text": "Gấu chó trái tim còn tại một chút một chút đích co rút lại, cây kia căn hắc sắc sợi tơ giống như như bị điên, một luồng não địa xông về Viên Minh đích lồng ngực .",
+        "index": 9
+      }
     },
     {
       "convert": "Viên Minh hai mắt nhanh chằm chằm, thần tình trên mặt căng thẳng tới cực điểm.",
@@ -145,7 +190,12 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭双目紧盯，脸上神情紧张到了极点。",
+        "text": "Viên Minh hai mắt nhìn chằm chằm, thần tình trên mặt khẩn trương tới cực điểm .",
+        "index": 10
+      }
     },
     {
       "convert": "Ngay tại màu đen sợi tơ sắp va chạm vào hắn da dẻ phía trước trong nháy mắt, Hắc Hùng đang đập trái tim đột nhiên ngừng, màu đen kia bướu thịt như là gặp được quỷ rồi một dạng, điên cuồng ngọ nguậy muốn thoát khỏi Hắc Hùng trái tim.",
@@ -157,14 +207,24 @@
           0.2
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在黑色丝线即将触碰到他皮肤的前一瞬，黑熊跳动的心脏骤停，那黑色肉瘤像是遇到鬼了一样，疯狂蠕动着想要脱离黑熊的心脏。",
+        "text": "Ngay tại hắc sắc sợi tơ sắp va chạm vào hắn làn da đích trước một cái chớp mắt, gấu chó khiêu động tâm tạng đột nhiên dừng, cái kia màu đen bướu thịt như là gặp phải quỷ đồng dạng, điên cuồng mấp máy suy nghĩ muốn thoát ly gấu chó trái tim .",
+        "index": 11
+      }
     },
     {
       "convert": "Kia kéo dài hướng Viên Minh màu đen sợi tơ cũng đều trong nháy mắt thoát lực, tất cả đều nhẹ nhàng đất rủ xuống bổ xuống.",
       "dich": "Những sợi tơ đen lao về hướng Viên Minh như bị thoát lực, chỉ trong nháy mắt nhao nhao buông thõng xuống.",
       "suggest": "Sợi tơ màu đen kéo dài tới Viên Minh cũng đều thoát lực, chúng đều nhẹ nhàng rủ xuống.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "那延伸向袁铭的黑色丝线也都瞬间脱力，全都轻飘飘地垂落了下去。",
+        "text": "Kia kéo dài hướng Viên Minh đích hắc sắc sợi tơ cũng đều trong nháy mắt thoát lực, tất cả đều nhẹ nhàng buông xuống xuống dưới .",
+        "index": 12
+      }
     },
     {
       "convert": "\"Thật tốt quá, bắt kịp.\"",
@@ -208,7 +268,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "在生死存亡的最后关头，昨日吃过的那些有毒的果子，救了他一命。",
+        "text": "Tại sinh tử tồn vong đích tối hậu quan đầu, hôm qua nếm qua đích những cái kia có độc đích trái cây, cứu được hắn một mạng .",
+        "index": 14
+      }
     },
     {
       "convert": "Ngay tại bố trí cạm bẫy lúc trước, Viên Minh liền đem những cái kia trái cây tất cả đều đảo nát, đem nước bôi tại tất cả gai xương cùng hai cây thương ngắn đỉnh cao.",
@@ -220,7 +285,12 @@
           0.37
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在布置陷阱之前，袁铭就将那些果子全都捣烂，将汁水涂在了所有骨刺和两根短枪的尖端。",
+        "text": "Ngay tại bố trí cạm bẫy trước đó, Viên Minh liền đem những cái kia trái cây tất cả đều đảo nát, đem nước bôi tại rồi tất cả gai xương cùng hai cây súng lục đích mũi nhọn .",
+        "index": 15
+      }
     },
     {
       "convert": "Phía trước đại khái là bởi vì đầu đâm trúng Hắc Hùng thân thể nguyên nhân, độc tính cũng không ảnh hưởng đến ký sinh thân thể, nhưng lần này lại là trực tiếp tác dụng tại trái tim, màu đen kia bướu thịt cũng thẳng tiếp thụ lấy độc tính tác dụng, mất đi lực lượng.",
@@ -232,7 +302,12 @@
           0.28
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "前面大概是因为只刺中黑熊身躯的缘故，毒性并未影响到寄生体，可这次却是直接作用在了心脏，那黑色肉瘤也直接受到了毒性作用，失去了力量。",
+        "text": "Phía trước đại khái là vì chỉ đâm trúng gấu chó thân thể nguyên nhân, độc tính không hề ảnh hưởng đến ký sinh thể, nhưng lần này lại là trực tiếp tác dụng tại rồi tâm tạng, cái kia màu đen bướu thịt cũng trực tiếp nhận lấy độc tính tác dụng, mất đi rồi lực lượng .",
+        "index": 16
+      }
     },
     {
       "convert": "Quấn quanh tại Viên Minh trên người dây leo lập tức nhao nhao tróc ra, tính cả Hắc Hùng trên người cổ quái đại hoa cũng cùng nhau héo rũ, lấy mắt thường thấy rõ tốc độ biến thành bột mịn, thân thể của hắn cùng Hắc Hùng gần như cùng lúc rơi xuống rơi trên mặt đất.",
@@ -244,7 +319,12 @@
           0.18
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "缠绕在袁铭身上的藤蔓顿时纷纷脱落，连同黑熊身上的古怪大花也一并枯萎，以肉眼可见的速度化为了齑粉，他的身躯和黑熊几乎同时坠落在了地上。",
+        "text": "Quấn quanh ở Viên Minh trên người dây mây tức khắc nhao nhao bóc ra, tính cả gấu chó trên người cổ quái đại hoa dã cùng héo rũ, lấy tốc độ mà mắt thường cũng có thể thấy được biến thành bột mịn, thân thể của hắn cùng gấu chó gần như đồng thời rơi xuống trên mặt đất .",
+        "index": 17
+      }
     },
     {
       "convert": "Kia ký sinh tại Hắc Hùng trên trái tim màu đen bướu thịt cũng cuối cùng thoát khỏi xuống, rớt qua một bên, ở trên màu sắc rất nhanh biến mất, chỉ chốc lát sau liền biến thành màu trắng xám, nhìn tới cùng một khối bình thường tảng đá, không có gì khác nhau.",
@@ -256,7 +336,12 @@
           0.18
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "那寄生在黑熊心脏上的黑色肉瘤也终于脱离下来，掉落在了一旁，其上颜色快速消退，不一会儿就变成了灰白之色，看起来和一块普通的石头，没什么两样。",
+        "text": "Kia ký sinh tại gấu chó trên trái tim đích hắc sắc bướu thịt cũng cuối cùng thoát ly xuống, rơi vào một bên, trên đó nhan sắc nhanh chóng biến mất, chỉ chốc lát sau liền biến thành màu xám trắng, thoạt nhìn cùng một khối đá bình thường, không có gì khác biệt .",
+        "index": 18
+      }
     },
     {
       "convert": "Viên Minh thấy thế, không dám có chút trì hoãn, vội vàng bò người lên đến Hắc Hùng tàn thi bên cạnh.",
@@ -268,7 +353,12 @@
           0.48
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭见状，没敢有丝毫耽搁，连忙爬起身来到黑熊的残尸旁。",
+        "text": "Viên Minh thấy thế, không dám có chút hào trì hoãn, vội vàng bò người lên đến gấu chó đích tàn thi bên cạnh .",
+        "index": 19
+      }
     },
     {
       "convert": "Thừa dịp Hắc Hùng còn chưa có chết cứng, hắn vội vàng từ trên người tháo xuống da thú túi túi, dùng Cốt Thương mở ra Hắc Hùng cái cổ, xác nhận lên nó còn sót lại huyết dịch đến.",
@@ -280,14 +370,24 @@
           0.14
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "趁着黑熊还没有僵死，他赶紧从身上摘下兽皮囊袋，用骨枪划开黑熊的脖颈，接取起它残存的血液来。",
+        "text": "Thừa dịp gấu chó còn không có chết cứng, hắn mau từ trên thân tháo xuống túi da thú túi, dụng xương thương mở ra gấu chó đích cổ gáy, nhận khởi nó còn sót lại huyết dịch tới .",
+        "index": 20
+      }
     },
     {
       "convert": "Đi qua đi lại một hồi lâu, Hắc Hùng máu tất cả đều khô, cũng chỉ thu tập được gần nửa cái túi túi.",
       "dich": "Qua một lúc lâu, khi tất cả máu huyết của con gấu đen đã đông lại, hắn cũng chỉ mới thu thập được nửa túi.",
       "suggest": "Đi qua đi lại một hồi lâu, máu tươi trong Hắc Hùng đều cạn kiệt, mới thu được gần nửa cái túi.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "折腾了好一会儿，黑熊的血全都放干了，也只收集到了小半个囊袋。",
+        "text": "Dày vò rồi một hồi lâu, gấu chó đích máu tất cả đều khô, cũng chỉ thu tập được gần phân nửa túi túi .",
+        "index": 21
+      }
     },
     {
       "convert": "\"Dã thú lớn nhỏ không đều, lượng HP bất định, người nọ cũng không nói muốn thu tụ tập đầy, những thứ này hẳn là đã đủ rồi.\"",
@@ -323,7 +423,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "说罢，他将囊袋重新挎上，看了一眼身旁的熊尸，肚子再次“咕”地叫了起来。",
+        "text": "Dứt lời, hắn đem túi túi lần nữa xách thượng, nhìn thoáng qua bên cạnh gấu thi, bụng lần nữa “ cục cục ” địa kêu lên .",
+        "index": 23
+      }
     },
     {
       "convert": "Đối mặt với lớn như vậy một khối thịt thú vật, Viên Minh có chút không nỡ ném, nhưng vừa nghĩ tới kia bị ký sinh qua, trong nội tâm lại có chút cách ứng.",
@@ -335,14 +440,24 @@
           0.25
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "面对着这么大的一块兽肉，袁铭有些舍不得扔，可一想到其被寄生过，心里又有些膈应。",
+        "text": "Đối mặt với thế này lớn một khối thịt thú vật, Viên Minh có chút tiếc không muốn vứt đi, khả tưởng tượng đến nó bị ký sinh qua, trong lòng lại có chút cách ứng .",
+        "index": 24
+      }
     },
     {
       "convert": "Nhưng trong lòng cách ứng, cuối cùng bù không được trong bụng đói khát.",
       "dich": "Có điều sự bài xích trong lòng, sau cùng vẫn không thắng được cơn đói trong bụng.",
       "suggest": "Nhưng trong lòng nghĩ cách đối phó rốt cuộc cũng không thể bù đắp được nỗi đói khát đang tràn ngập trong bụng.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "可心里的膈应，终究抵不过肚子里的饥饿。",
+        "text": "Nhưng trong lòng đích cách ứng, chung quy chống không được trong bụng đích đói khát .",
+        "index": 25
+      }
     },
     {
       "convert": "Vì dùng phòng ngừa vạn nhất, Viên Minh lần này không có trực tiếp lớn lên ăn Hắc Hùng thịt, mà là tìm đến một đống nhánh cây lá khô, noi theo cổ nhân đánh lửa, thật vất vả đem hỏa cho sinh ra đi ra, đem thịt gấu nướng lên.",
@@ -354,7 +469,12 @@
           0.22
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "为了以防万一，袁铭这次没有直接生食黑熊的肉，而是找来一堆树枝枯叶，效仿古人钻木取火，好不容易将火给生了出来，将熊肉烤上了。",
+        "text": "Vì để phòng vạn nhất, Viên Minh lần này không có trực tiếp sinh thực gấu chó đích thịt, mà là tìm đến một đống nhánh cây lá khô, bắt chước cổ nhân đánh lửa, rất không dễ đem lửa cho sinh ra, đem thịt gấu nướng lên .",
+        "index": 26
+      }
     },
     {
       "convert": "Thịt nướng khoảng cách, Viên Minh đi tới kia khối ký sinh bướu thịt bên cạnh, gặp kia đã biến thành một khối lớn chừng quả đấm màu nâu xám tảng đá, nhìn tới không có chút nào sinh cơ, vẫn là nhịn không được dùng Cốt Thương chọc chọc.",
@@ -366,7 +486,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "烤肉的间隙，袁铭来到那块寄生肉瘤旁，见其已经化为了一块拳头大小的灰褐色石头，看起来毫无生机，还是没忍住用骨枪戳了戳。",
+        "text": "Nướng thịt đích kẽ hở, Viên Minh đi tới khối kia ký sinh bướu thịt bên cạnh, kiến nó đã biến thành một khối to bằng đầu nắm tay đích màu nâu xám hòn đá, thoạt nhìn không hề sinh cơ, vẫn là nhịn không được dụng xương thương chọc chọc .",
+        "index": 27
+      }
     },
     {
       "convert": "Kết quả, hắn liền phát hiện tảng đá kia vậy mà dị thường cứng rắn, cùng màu đen bướu thịt tình trạng dưới hoàn toàn bất đồng.",
@@ -382,7 +507,12 @@
           0.14
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "结果，他就发现这石头竟然异常坚硬，跟黑色肉瘤状态下完全不同。",
+        "text": "Kết quả, hắn liền phát hiện tảng đá kia vậy mà dị thường cứng rắn, cùng hắc sắc bướu thịt trạng thái dưới hoàn toàn khác biệt .",
+        "index": 28
+      }
     },
     {
       "convert": "Viên Minh lập tức hứng thú.",
@@ -406,7 +536,12 @@
           0.1
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭顿时来了兴趣。",
+        "text": "Viên Minh tức khắc hứng thú .",
+        "index": 29
+      }
     },
     {
       "convert": "Hắn phất tay hướng hòn đá kia bên trên quơ quơ, gặp kia không có phản ứng chút nào, lại đưa tay đã đến gần chút, kết quả phát hiện vẫn như cũ không có bất cứ động tĩnh gì.",
@@ -418,7 +553,12 @@
           0.35
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他挥手朝着那石头上挥了挥，见其没有丝毫反应，又伸手靠近了些，结果发现依然没有任何动静。",
+        "text": "Hắn phất tay hướng tới hòn đá kia vung lên rồi gạt, kiến nó không có phản ứng chút nào, lại đưa tay đến gần rồi chút, kết quả phát hiện vẫn không có bất luận cái gì động tĩnh .",
+        "index": 30
+      }
     },
     {
       "convert": "\"Xem ra triệt để đều chết hết.\"",
@@ -446,7 +586,12 @@
           0.23
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在袁铭打算放弃的时候，腰间兽皮囊袋上忽然有一滴兽血低落，“啪嗒”一下，落在了那块灰褐石头上。",
+        "text": "Ngay tại Viên Minh tính toán buông tha thời điểm, bên hông túi da thú túi thượng bỗng nhiên có một giọt thú huyết hạ, “ pằng tạch ” một chút, rơi vào rồi khối kia tro hạt hòn đá thượng .",
+        "index": 32
+      }
     },
     {
       "convert": "Bắt đầu vốn không có chút nào sinh cơ thi thể, lại đột nhiên bành trướng một cái, mặt ngoài lần nữa sống hóa thành màu đen bướu thịt bộ dáng.",
@@ -462,7 +607,12 @@
           0.32
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "原本没有丝毫生机的尸体，却突然膨胀了一下，表面再次活化成了黑色肉瘤的模样。",
+        "text": "Nguyên bản không có mảy may sinh cơ đích thi thể, lại đột nhiên bành trướng một chút, bề ngoài lần nữa hoạt hoá thành hắc sắc bướu thịt đích bộ dáng .",
+        "index": 33
+      }
     },
     {
       "convert": "Nhưng rất nhanh, kia nhỏ máu dịch thể lực lượng bị hao hết, màu đen bướu thịt lần nữa khô quắt, một lần nữa lại trở về tảng đá.",
@@ -478,7 +628,12 @@
           0.38
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "但很快，那滴血液的力量被耗尽，黑色肉瘤再次干瘪，重新变回了石头。",
+        "text": "Nhưng rất nhanh, giọt máu kia đích lực lượng bị hao hết, hắc sắc bướu thịt lần nữa khô quắt, lần nữa biến trở về rồi hòn đá .",
+        "index": 34
+      }
     },
     {
       "convert": "\"Vật nhỏ này thật là có chút ý tứ a.\"",
@@ -534,7 +689,12 @@
           0.2
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "等到熊肉烤的焦黑，发出浓郁的肉香后，袁铭才撕下一块啃食了起来。",
+        "text": "Đợi đến thịt gấu nướng đích cháy đen, phát ra nồng đậm đích mùi thịt sau, Viên Minh mới kéo xuống một khối cắn nuốt ...mà bắt đầu .",
+        "index": 37
+      }
     },
     {
       "convert": "Bữa tiệc này, là Viên Minh những này qua đến nay, ăn được nhất thỏa mãn một lần, nhưng để hắn có chút không hiểu là, này thực phẩm chín thịt thú vật tuy có thể chắc bụng, nhưng không có hôm qua gặm xương cốt lúc, cái loại này có thể tràn đầy huyết khí cảm giác.",
@@ -546,7 +706,12 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这一顿，是袁铭这些时日以来，吃得最满足的一次，但让他有些不解的是，这熟食的兽肉虽能饱腹，却没有昨日啃骨头时，那种能充盈血气的感觉。",
+        "text": "Một trận này, là Viên Minh những ngày qua tới nay, ăn đến đầy nhất đủ đích một lần, nhưng khiến hắn có chút không hiểu là, này thực phẩm chín đích thịt thú vật mặc dù năng chắc bụng, nhưng không có hôm qua gặm xương cốt thời, loại kia năng tràn đầy huyết khí cảm giác .",
+        "index": 38
+      }
     },
     {
       "convert": "\"Chẳng lẽ là Hắc Hùng máu bị rút khô, vì vậy khí huyết tổn hao nhiều?",
@@ -585,7 +750,12 @@
           0.22
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他抬头看了一眼天色，发现已经日中偏西，便不再耽搁，将没吃完的兽肉和那块能寄生的石头都带上，放到了先前自己藏身的地洞里。",
+        "text": "Hắn ngẩng đầu nhìn một chút sắc trời, phát hiện đã buổi trưa ngã về tây, liền không lại trì hoãn, đem không ăn xong đích thịt thú vật cùng khối kia năng ký sinh đích hòn đá đều mang lên, bỏ vào lúc trước chính mình ẩn thân đích địa động bên trong .",
+        "index": 40
+      }
     },
     {
       "convert": "Rồi sau đó, hắn mới căn cứ từ mình trí nhớ lộ tuyến, hướng kia khối cự thạch cột mốc biên giới phương hướng tìm kiếm....",
@@ -604,7 +774,12 @@
           0.31
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "等到傍晚时分，袁铭终于回到巨石界碑的时候，却没有看到呼火长老的身影，只有一头斑斓猛虎背对着他横卧在石头旁。",
+        "text": "Đợi đến lúc chạng vạng tối, Viên Minh cuối cùng trở lại cự thạch cột mốc biên giới thời điểm, nhưng không có nhìn thấy hô hỏa trưởng lão đích thân ảnh, chỉ có một đầu sặc sỡ mãnh hổ đưa lưng về phía lấy hắn nằm ngang tại hòn đá bên cạnh .",
+        "index": 43
+      }
     },
     {
       "convert": "Nghe được Viên Minh trở về động tĩnh, đầu kia mãnh hổ đột nhiên quay người, lại là dùng người tư thế ngồi dậy, hướng hắn bên này nhìn sang.",
@@ -616,7 +791,12 @@
           0.41
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "听到袁铭回来的动静，那头猛虎忽然转身，却是以人的姿态坐了起来，朝着他这边望了过来。",
+        "text": "Nghe được Viên Minh trở về động tĩnh, đầu kia mãnh hổ bỗng nhiên chuyển thân, lại là dĩ người đích tư thái ngồi dậy, hướng tới hắn bên này nhìn sang .",
+        "index": 44
+      }
     },
     {
       "convert": "Viên Minh cũng nhìn về phía hắn, hai người người nào cũng không có mở miệng, càng không có dư thừa động tác, chẳng qua là lẫn nhau tách ra một đại đoạn khoảng cách, cảnh giác đất nhìn chằm chằm vào đối phương.",
@@ -628,7 +808,12 @@
           0.33
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭也看向他，两人谁也没有开口，更没有多余动作，只是互相隔开一大段距离，警惕地盯着对方。",
+        "text": "Viên Minh cũng nhìn về phía hắn, hai người ai cũng không có mở miệng, càng không có dư thừa động tác, chỉ là hỗ tương ngăn cách một khoảng cách lớn, cảnh giác nhìn chằm chằm đối phương .",
+        "index": 45
+      }
     },
     {
       "convert": "Đúng lúc này, một hồi \"Ù ù\" lao nhanh âm thanh vang lên.",
@@ -640,14 +825,24 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在这时，一阵“隆隆”的奔腾之声响起。",
+        "text": "Đúng lúc này, một trận “ ù ù ” đích chạy chồm thanh âm vang lên .",
+        "index": 46
+      }
     },
     {
       "convert": "Rậm rạp trong núi rừng đột nhiên có một đầu tông hắc sắc Dã Trư lao ra, điên cuồng chạy về phía bên này.",
       "dich": "Từ trong mảnh rừng rậm rạp, một con lợn lòi màu đen điên cuồng lao như tên bắn qua bên này.",
       "suggest": "Đột nhiên có một đầu Dã Trư màu đen lao ra, điên cuồng chạy về phía bên này.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "茂密山林里忽然有一头棕黑色的野猪冲出，狂奔向了这边。",
+        "text": "Rậm rạp trong núi rừng bỗng nhiên có một đầu nâu đậm sắc đích lợn rừng lao ra, chạy như điên hướng về phía bên này .",
+        "index": 47
+      }
     },
     {
       "convert": "Viên Minh lập tức nắm chặt trong tay bạch cốt thương ngắn, đề phòng, kia mãnh hổ đồng dạng đầu vừa chuyển, mắt hổ trợn tròn.",
@@ -659,7 +854,12 @@
           0.3
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭立马握紧手中的白骨短枪，戒备起来，那猛虎同样头颅一转，虎目瞪圆。",
+        "text": "Viên Minh lập tức nắm chặt trong tay đích bạch cốt súng lục, đề phòng, kia mãnh hổ cùng 样 đầu lâu nhất chuyển, mắt hổ trợn tròn .",
+        "index": 48
+      }
     },
     {
       "convert": "Chỉ thấy đầu kia Dã Trư toàn thân vết thương chồng chất, một đôi răng thú bên trên dính đầy vết máu, trên người treo da thú túi túi, nhìn tới lại là căng phồng.",
@@ -671,7 +871,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "只见那头野猪浑身伤痕累累，一对兽牙上布满血迹，身上挂着的兽皮囊袋，看起来却是鼓鼓囊囊。",
+        "text": "Chỉ kiến đầu kia lợn rừng toàn thân vết thương chồng chất, một đôi răng thú thượng dính đầy vết máu, trên thân treo đích túi da thú túi, thoạt nhìn lại là căng phồng .",
+        "index": 49
+      }
     },
     {
       "convert": "Đợi nhanh đến bên này lúc, hắn cũng nhìn thấy Viên Minh cùng mãnh hổ, tốc độ rất nhanh chậm lại, cuối cùng dừng ở cách đó không xa.",
@@ -683,7 +888,12 @@
           0.28
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "等快到这边时，他也看到了袁铭和猛虎，速度很快降了下来，最终停在了不远处。",
+        "text": "Đợi nhanh đến bên này thời, hắn cũng nhìn thấy Viên Minh cùng mãnh hổ, tốc độ rất nhanh chậm lại, sau cùng đứng tại cách đó không xa .",
+        "index": 50
+      }
     },
     {
       "convert": "Ba cái nửa người nửa thú gia hỏa thành kỷ góc khí thế bao quanh cự thạch cột mốc biên giới, lẫn nhau phòng bị, lẫn nhau xem thế nào lấy.",
@@ -695,14 +905,24 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "三个半人半兽的家伙成掎角之势包围着巨石界碑，互相防备，互相观望着。",
+        "text": "Ba cái rưỡi người nửa 兽 đích gia hỏa thành ỷ giốc chi thế bao quanh cự thạch cột mốc biên giới, hỗ tương phòng bị, hỗ tương quan vọng lấy .",
+        "index": 51
+      }
     },
     {
       "convert": "Đợi đã lâu, cũng không có cái khác thân ảnh xuất hiện.",
       "dich": "Đợi thêm một lúc lâu sau vẫn không thấy có thêm ai xuất hiện nữa.",
       "suggest": "Đợi đã lâu, cũng không có bóng dáng nào khác xuất hiện.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "等了许久，再没有其他身影出现。",
+        "text": "Đợi đã lâu, không còn cái khác thân ảnh xuất hiện .",
+        "index": 52
+      }
     },
     {
       "convert": "Đến lúc mặt trời sắp hạ xuống xong, đầu kia to lớn chim ưng mới vỗ cánh tới, Hô Hỏa trưởng lão thân ảnh đang đứng tại kia sống lưng trên lưng.",
@@ -714,7 +934,12 @@
           0.4
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "直到太阳快要落下的时候，那头巨大的鹰隼才振翅而至，呼火长老的身影正站在其脊背之上。",
+        "text": "Thẳng đến thái dương sắp hạ xuống xong, đầu kia thật lớn đích chim ưng mới vỗ cánh tới, hô hỏa trưởng lão đích thân ảnh đang đứng tại nó sống lưng phía trên .",
+        "index": 53
+      }
     },
     {
       "convert": "Sau khi rơi xuống đất, Hô Hỏa trưởng lão vỗ bên hông túi da cái túi, lập tức một đạo ánh sáng màu xanh bay ra, bao phủ ở này đầu uy vũ khí phách to lớn chim ưng, bay ngược trở về túi túi biến mất không thấy gì nữa.",
@@ -726,7 +951,12 @@
           0.49
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "落地之后，呼火长老一拍腰间皮囊袋子，随即一道青光飞出，笼罩住了那头威武霸气的巨大鹰隼，倒掠回囊袋消失不见。",
+        "text": "Sau khi rơi xuống đất, hô hỏa trưởng lần trước đập bên hông túi da túi, lập tức một đạo thanh quang bay ra, bao phủ lại rồi đầu kia uy vũ bá khí đích thật lớn chim ưng, đảo lướt hồi túi túi biến mất không thấy gì nữa .",
+        "index": 54
+      }
     },
     {
       "convert": "Mặc dù là lần thứ hai chứng kiến, Viên Minh vẫn cảm thấy trước mặt một màn này hết sức thần kỳ.",
@@ -738,7 +968,12 @@
           0.56
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "即便是第二次看到，袁铭还是觉得眼前这一幕分外神奇。",
+        "text": "Cho dù là lần thứ hai nhìn thấy, Viên Minh vẫn cảm thấy trước mắt một màn này hết sức thần kỳ .",
+        "index": 55
+      }
     },
     {
       "convert": "\"Túi trữ máu cho ta.\"",
@@ -818,7 +1053,12 @@
           0.34
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "三人会意，纷纷解下身上的兽皮囊袋，送了过去。",
+        "text": "Ba người hiểu ý, nhao nhao cởi xuống trên người túi da thú túi, đưa qua .",
+        "index": 57
+      }
     },
     {
       "convert": "Hô Hỏa trưởng lão một vừa mở ra, đưa đến tị khẩu, lỗ mũi hít hà, cẩn thận kiểm tra thực hư.",
@@ -846,7 +1086,12 @@
           0.1
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "呼火长老一一打开，送到鼻口嗅了嗅，仔细查验。",
+        "text": "Hô hỏa trưởng lần trước đánh khai, đưa đến tị khẩu, lỗ mũi ngửi ngửi, tỉ mỉ kiểm tra thực hư .",
+        "index": 58
+      }
     },
     {
       "convert": "Khi thấy Viên Minh túi túi chỉ có nửa túi lúc, cũng cũng không nói gì, nhưng kéo ra nghe nghe về sau, lông mày không khỏi nhíu lại.",
@@ -858,7 +1103,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "当看到袁铭的囊袋只有半袋时，倒也没说什么，可打开闻了闻后，眉头不禁皱了起来。",
+        "text": "Khi thấy Viên Minh đích túi túi chỉ có nửa túi thời, thật cũng không nói cái gì, có thể mở ra nghe nghe sau, đầu mi không khỏi nhíu lại .",
+        "index": 59
+      }
     },
     {
       "convert": "\"Ngươi giết con gấu đen này bị Huyết Hồn Đằng ký sinh rồi?\"",
@@ -978,7 +1228,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "呼火长老皱了皱眉，没有再说什么，挥手将储血袋全都收了起来。",
+        "text": "Hô hỏa trưởng lão trứu rồi nhíu mày, không nói gì nữa, phất tay đem trữ máu túi tất cả đều thu vào .",
+        "index": 62
+      }
     },
     {
       "convert": "\"Coi như không tệ, có ba người thông qua được khảo nghiệm.\"",
@@ -1046,7 +1301,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "三道细丝般的白光从他指尖射出，分别落在袁铭三人胸口，一闪而逝的融入三人身体。",
+        "text": "Ba đạo tơ mỏng kiểu đích bạch quang từ đầu ngón tay hắn bắn ra, phân biệt rơi vào Viên Minh ba người ngực, lóe lên một cái rồi biến mất đích dung nhập ba người thân thể .",
+        "index": 64
+      }
     },
     {
       "convert": "Viên Minh còn chưa kịp phản ứng, liền cảm giác ngực một hồi ấm áp, tiếp theo trên người Bạch Viên da thú trở nên xốp, da thú trong tầng kia từng đạo rễ cây giống như màu máu đường hoa văn, cứng rắn theo trong thân thể của hắn lôi kéo đi ra, khẽ động cơ thể của hắn, nội tạng.",
@@ -1058,14 +1318,24 @@
           0.14
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭还未反应过来，便觉胸口一阵温热，接着身上的白猿兽皮变得松软，兽皮里层那一道道根须般的血色纹路，硬生生从他身体内拉扯出来，扯动他的肌肉，内脏。",
+        "text": "Viên Minh còn chưa phản ứng, liền cảm giác ngực một trận ấm áp, tiếp theo trên người vượn trắng da thú trở nên thả lỏng mềm, da thú trong tầng kia một đạo đạo căn râu kiểu đích huyết sắc hoa văn, cứng rắn từ trong thân thể của hắn lôi kéo ra, khẽ động cơ thể của hắn, nội tạng .",
+        "index": 65
+      }
     },
     {
       "convert": "Cả người hắn run rẩy không dứt, nhịn không được hai đầu gối một khúc, quỳ rạp xuống đất bên trên, hai cánh tay chống đỡ trên mặt đất, lại cắn chặt răng, sững sờ là không có hô lên âm thanh.",
       "dich": "Cả người hắn không ngừng run rẩy, nhịn không được khuỵu hai đầu gối quỳ rạp xuống đất, chỉ kịp chống hai tay trên nền đất, cắn chặt hàm răng, bất ngờ là hắn không rên lên dù là một tiếng.",
       "suggest": "Cả người hắn run rẩy không thôi, không nhịn được co chân quỳ xuống đất, hai cánh tay chống đỡ trên mặt đất, lại cắn chặt răng, đến lúc này hắn mới cắn chặt răng, im lặng không nói câu gì.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他整个人战栗不止，忍不住双膝一曲，跪倒在地上，双臂撑在地上，却咬紧牙关，愣是没有喊出声。",
+        "text": "Cả người hắn run rẩy không chỉ, nhịn không được hai đầu gối một khúc, té quỵ dưới đất, hai tay chống tại địa thượng, nhưng cắn chặt răng, cứ là không có hô lên tiếng .",
+        "index": 67
+      }
     },
     {
       "convert": "Hai người khác tình huống cũng không sai biệt lắm, chỉ là bọn hắn không có Viên Minh kiên nhẫn, nhao nhao té trên mặt đất run rẩy, kêu thảm không ngớt.",
@@ -1077,7 +1347,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "另外两人情况也差不多，只是他们没有袁铭的坚忍，纷纷倒在地上颤抖，惨呼不已。",
+        "text": "Hai người khác tình huống cũng kém không nhiều, chỉ là bọn hắn không có Viên Minh đích kiên nhẫn, nhao nhao té trên mặt đất run rẩy, kêu thảm không thôi .",
+        "index": 68
+      }
     },
     {
       "convert": "Tốt tại quá trình này không có tiếp tục quá lâu, mấy hơi thở về sau, ba người trên người da thú triệt để cởi xuống, rơi trên mặt đất.",
@@ -1089,7 +1364,12 @@
           0.3
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "好在这个过程没有持续太久，几个呼吸后，三人身上的兽皮彻底脱掉，落在地上。",
+        "text": "May mà quá trình này không có duy trì lâu dài quá lâu, mấy hơi thở sau, ba người trên người da thú triệt để cởi xuống, rơi trên mặt đất .",
+        "index": 69
+      }
     },
     {
       "convert": "Nhưng Viên Minh ba người nhưng thật giống như vượt qua mấy canh giờ lâu, hư thoát giống như ngồi dưới đất, toàn thân da thịt đỏ bừng một mảnh, trên người quần áo đã ngàn vết lở loét.",
@@ -1101,7 +1381,12 @@
           0.22
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "可袁铭三人却好像度过了数个时辰之久，虚脱般坐在地上，周身肌肤通红一片，身上的衣衫已经千疮百孔。",
+        "text": "Khả Viên Minh ba người nhưng thật giống như vượt qua mấy canh giờ lâu, tụt huyết áp kiểu ngồi dưới đất, quanh thân da thịt đỏ bừng một mảnh, quần áo trên người đã vỡ nát .",
+        "index": 70
+      }
     },
     {
       "convert": "Ba người bại liệt trên mặt đất, miệng lớn thở dốc, một hồi lâu mới miễn cưỡng khôi phục lại, nhìn về phía da thú ánh mắt rất là phức tạp.",
@@ -1113,7 +1398,12 @@
           0.33
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "三人瘫软在地，大口喘息，好一会才勉强恢复过来，看向兽皮的眼神很是复杂。",
+        "text": "Ba người xụi lơ trên mặt đất, mồm to thở dốc, một hồi lâu mới miễn cưỡng khôi phục lại, nhìn về phía da thú đích nhãn thần rất là phức tạp .",
+        "index": 71
+      }
     },
     {
       "convert": "Phủ thêm da thú về sau, thực lực của bọn hắn tăng nhiều, nhưng này lần thống khổ quả thực lợi hại.",
@@ -1125,7 +1415,12 @@
           0.22
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "披上兽皮后，他们的实力大增，可这番痛苦着实厉害。",
+        "text": "Phủ thêm da thú sau, thực lực của bọn họ tăng nhiều, nhưng này phiên thống khổ quả thực lợi hại .",
+        "index": 72
+      }
     },
     {
       "convert": "\"Tùy ngoại nhân thi triển Phi Mao Thuật, muốn trải qua không nhỏ thống khổ, bất quá chờ các ngươi tu thành Pháp lực, chính mình thi triển thời điểm, tình huống lại tốt nhiều.\"",

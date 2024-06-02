@@ -23,7 +23,12 @@
           0.34
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭面对呼啸而至的风刃，二话不说，口中快速诵念咒语，双手向下虚按。",
+        "text": "Viên Minh đối diện gào thét tới đích phong nhận, không nói hai lời, trong miệng nhanh chóng tụng niệm chú ngữ, hai tay hướng phía dưới lăng không ấn xuống .",
+        "index": 0
+      }
     },
     {
       "convert": "Phía trước mặt đất \"Ầm ầm\" vang lớn, hai cái thô to gai gỗ một bốc lên mà ra, cùng hai cái phong nhận đụng thẳng vào nhau.",
@@ -39,7 +44,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "前方地面“轰隆”大响，两根粗大木刺一冒而出，和两枚风刃对撞在一起。",
+        "text": "Tiền phương mặt đất “ ầm vang ” vang lớn, hai cây thô to gai gỗ một bốc lên mà ra, cùng hai cái phong nhận đụng thẳng vào nhau .",
+        "index": 1
+      }
     },
     {
       "convert": "Chỉ nghe ken két hai tiếng giòn vang!",
@@ -51,7 +61,12 @@
           0.32
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "只听咔咔两声脆响！",
+        "text": "Chỉ nghe ken két hai tiếng giòn vang !",
+        "index": 2
+      }
     },
     {
       "convert": "Cành cây đâm bị tuỳ tiện chém thành hai đoạn, nhưng hai cái phong nhận cũng bị cải biến phương hướng, trảm tại sơn động hai bên trên vách đá, phát ra \"Phốc phốc\" cắt kích thanh âm.",
@@ -63,7 +78,12 @@
           0.46
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "木刺被轻易斩成两截，但两枚风刃也被改变了方向，斩在山洞两边的石壁上，发出“噗噗”的切击之声。",
+        "text": "Cành cây đâm bị dễ dàng chém thành hai đoạn, nhưng hai cái phong nhận cũng bị cải biến phương hướng, trảm tại sơn động hai bên đích tường đá thượng, phát ra “ phốc phốc ” đích cắt kích thanh âm .",
+        "index": 3
+      }
     },
     {
       "convert": "Thanh âm qua đi, nguyên bản cứng rắn như sắt trên vách đá, lưu lại hai đạo hơn một xích dài thật sâu vết cắt.",
@@ -75,7 +95,12 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "声音过后，原本坚硬如铁的石壁上，留下了两道尺许来长的深深切痕。",
+        "text": "Thanh âm qua đi, nguyên bản cứng rắn như sắt đích tường đá thượng, để lại lưỡng đạo hơn một xích dài đích thật sâu vết cắt .",
+        "index": 4
+      }
     },
     {
       "convert": "Nếu không phải Viên Minh đã sớm làm xong phòng hộ chuẩn bị, chỉ sợ ngay cả thời gian phản ứng đều không có, đã bị cái này hai đạo phong nhận chém thành mấy khúc, chết không thể chết lại.",
@@ -87,7 +112,12 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "若非袁铭早就做好了防护准备，恐怕连反应的时间都没有，就已被这两道风刃斩成了数截，死的不能再死了。",
+        "text": "Nếu không phải Viên Minh đã sớm làm xong phòng hộ chuẩn bị, sợ liền thời gian phản ứng đều không có, đã bị này lưỡng đạo phong nhận chém thành rồi mấy khúc, chết không thể chết lại rồi .",
+        "index": 5
+      }
     },
     {
       "convert": "\"Tiểu tử phản ứng ngược lại là nhanh.\"",
@@ -127,14 +157,24 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭神情平静，掐诀朝上方虚点。",
+        "text": "Viên Minh ánh mắt yên tĩnh, bắt quyết hướng lên trên phương hư điểm .",
+        "index": 7
+      }
     },
     {
       "convert": "Phía trên hang núi bảy tám trượng chỗ có một mảnh vách núi, biên giới chỗ nằm lấy một khối mấy trượng phương viên tảng đá lớn, vách núi chỗ nham thạch phơi gió phơi nắng hạ đã nhiều chỗ rạn nứt, tảng đá lớn nửa người bắt đầu hơi dốc xuống dưới, lúc nào cũng có thể trượt xuống.",
       "dich": "Phía trên sơn động bảy, tám trượng có một vách núi, rìa vách có một khối đá lớn bán kính vài thước. Tảng đá trên vách núi này đã bị nắng gió làm rạn nứt nhiều chỗ, nửa phần trên tảng đá bắt đầu ngả xuống, có thể lăn xuống bất cứ lúc nào.",
       "suggest": "Trên vách núi có một sơn nhai lớn chừng bảy tám trượng, bên ngoài có một khối đá lớn chừng mấy trượng, nham thạch phơi nắng trên khối đá lớn đã xuất hiện nhiều chỗ nứt nẻ, nửa thân khối đá lớn bắt đầu cúi xuống bất cứ lúc nào cũng có thể trượt xuống.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "山洞上方七八丈处有一片山崖，边缘处卧着一块数丈方圆的大石，山崖处的岩石风吹日晒下已经多处龟裂，大石的半个身体开始向下倾斜，随时可能滑落。",
+        "text": "Phía trên hang núi bảy tám trượng chỗ có một mảnh vách núi, biên duyên chỗ nằm lấy một khối mấy trượng chu vi đích tảng đá lớn, vách núi chỗ đích nham thạch phơi gió phơi nắng hạ đã nhiều chỗ da nẻ, tảng đá lớn đích nửa cái thân thể bắt đầu hơi dốc xuống dưới, lúc nào cũng có thể chảy xuống .",
+        "index": 8
+      }
     },
     {
       "convert": "Tảng đá lớn dưới đáy lục quang hiện lên, hai cái thô to gai gỗ một bốc lên mà ra, hung hăng đè vào trên tảng đá lớn.",
@@ -146,7 +186,12 @@
           0.15
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "大石底部绿光闪过，两根粗大木刺一冒而出，狠狠顶在大石上。",
+        "text": "Tảng đá lớn dưới đáy lục quang hiện lên, hai cây thô to gai gỗ một bốc lên mà ra, hung hăng đè vào trên tảng đá lớn .",
+        "index": 9
+      }
     },
     {
       "convert": "Ầm ầm!",
@@ -170,7 +215,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "轰隆！",
+        "text": "Ầm vang !",
+        "index": 10
+      }
     },
     {
       "convert": "Tảng đá lớn từ trên vách đá trượt xuống, cuồn cuộn lấy đánh tới hướng cửa động Khôn Đồ ba người, phụ cận núi đá bùn đất cũng bị kéo theo, ù ù trút xuống.",
@@ -182,7 +232,12 @@
           0.28
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "大石从悬崖上滑落，翻滚着砸向洞口的坤图三人，附近的山石泥土也被带动，隆隆倾泻而下。",
+        "text": "Tảng đá lớn từ trên vách đá chảy xuống, quay cuồng lấy đánh tới hướng cửa động khôn đồ ba người, phụ cận đích núi đá bùn đất cũng bị kéo, ù ù trút xuống .",
+        "index": 11
+      }
     },
     {
       "convert": "Viên Minh lựa chọn ở chỗ này ở lại, một nửa nguyên nhân là nơi đây yên lặng, một nửa khác nguyên nhân chính là phía trên khối kia buông lỏng tảng đá lớn, hắn nguyên bản cũng chỉ là dự làm phòng bị, nghĩ không ra hôm nay vậy mà dùng tới.",
@@ -194,7 +249,12 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭选择在这里居住，一半原因是此地僻静，另一半原因就是上面的那块松动的大石，他原本也只是预作防备，想不到今日竟然用上了。",
+        "text": "Viên Minh lựa chọn ở chỗ này cư trú, một nửa nguyên nhân là nơi đây vắng lặng, một nửa khác nguyên nhân chính là phía trên khối kia thả lỏng động đích tảng đá lớn, hắn nguyên bản cũng chỉ là dự làm phòng bị, nghĩ không ra hôm nay vậy mà dùng tới .",
+        "index": 12
+      }
     },
     {
       "convert": "Khôn Đồ ba người mắt thấy thế tới hung mãnh cự thạch cùng bùn đất, vội vàng hướng bên cạnh trốn tránh.",
@@ -206,7 +266,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "坤图三人眼见来势凶猛的巨石和泥土，急忙朝旁边躲闪。",
+        "text": "Khôn đồ ba người mắt thấy thế tới hung mãnh đích cự thạch cùng bùn đất, vội vàng hướng bên cạnh trốn tránh .",
+        "index": 13
+      }
     },
     {
       "convert": "\"Ầm ầm\" một tiếng vang thật lớn!",
@@ -234,7 +299,12 @@
           0.43
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "大石砸落在地上，溅起大片尘土。",
+        "text": "Tảng đá lớn rơi đập trên mặt đất, tóe lên mảng lớn bụi đất .",
+        "index": 15
+      }
     },
     {
       "convert": "Viên Minh các loại chính là giờ khắc này, từ trong động bắn ra, hướng nơi xa cực nhanh.",
@@ -250,7 +320,12 @@
           0.1
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭等的就是这一刻，从洞内射出，朝远处疾掠。",
+        "text": "Viên Minh chờ chính là giờ khắc này, từ trong động bắn ra, hướng viễn xứ nhanh lướt .",
+        "index": 16
+      }
     },
     {
       "convert": "Khôn Đồ thấy thế, gầm thét một tiếng, đánh tới.",
@@ -266,7 +341,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "坤图见状，怒喝一声，扑了过来。",
+        "text": "Khôn đồ thấy thế, gầm lên một tiếng, đánh tới .",
+        "index": 17
+      }
     },
     {
       "convert": "Hắn hai tay vung lên, nhiều một mặt màu đen đại kỳ, chừng gần trượng lớn nhỏ, phía trên thêu lên một bộ huyết hồng đầu lâu đồ án, trong phút chốc chung quanh âm phong đại tác, quỷ khí đại thịnh.",
@@ -278,14 +358,24 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他双手一翻，多了一面黑色大旗，足有丈许大小，上面绣着一副血红骷髅头图案，刹那间周围阴风大作，鬼气大盛。",
+        "text": "Hai tay của hắn khẽ đảo, nhiều một mặt hắc sắc đại kỳ, chừng gần trượng lớn nhỏ, thượng diện thêu lên một bức huyết hồng đầu lâu đồ án, khoảnh khắc gian chung quanh âm phong đại tác, quỷ khí đại thịnh .",
+        "index": 18
+      }
     },
     {
       "convert": "Viên Minh con ngươi co rụt lại, quát to một tiếng \"Xem ám khí\", cánh tay vung lên, hai viên màu xám đen viên châu tuột tay bắn ra, thẳng đánh Khôn Đồ mặt.",
       "dich": "Viên Minh rùng mình kinh ngạc, quát lớn một câu \"Xem ám khí\", đoạn vung tay lên, theo đó hai viên châu màu xám rời tay bắn vọt ra, đánh thẳng về phía mặt Khôn Đồ.",
       "suggest": "Con ngươi Viên Minh co rụt lại, quát to một tiếng 'Xem ám khí', cánh tay vung lên, hai viên Uế Khí Châu màu xám đen tuột tay bắn ra, thẳng về phía Khôn Đồ.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭瞳孔一缩，大叫一声“看暗器”，手臂一挥，两颗灰黑色圆珠脱手射出，直打坤图的面门。",
+        "text": "Viên Minh đồng tử co rụt lại, quát to một tiếng “ coi ám khí ”, cánh tay vung lên, hai viên màu xám đen viên châu rời tay bắn ra, trực đánh khôn đồ đích mặt .",
+        "index": 19
+      }
     },
     {
       "convert": "Khôn Đồ mặt lộ vẻ trào phúng, vung trong tay đại kỳ, huyết mang chớp động ở giữa, huyết sắc khô lâu đồ án phảng phất đang sống nhúc nhích, há mồm phun một cái.",
@@ -297,7 +387,12 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "坤图面露嘲讽，一挥手中大旗，血芒闪动间，血色骷髅图案仿佛活了一般蠕动起来，张口一吐。",
+        "text": "Khôn đồ mặt lộ vẻ trào phúng, vung trong tay đại kỳ, tia máu chớp động gian, huyết sắc bộ xương khô đồ án phảng phất đang sống mấp máy lên tới, há mồm phun một cái .",
+        "index": 20
+      }
     },
     {
       "convert": "Một cỗ mũi tên âm phong bắn ra, mang theo một cỗ nghiêm nghị sắc bén chi ý, những nơi đi qua cỏ cây đá vụn đều chặt đứt, cứng rắn mặt đất cũng bị vạch ra một đạo ngấn sâu, ngăn cản xám đen viên châu.",
@@ -309,7 +404,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一股箭矢般的阴风射出，带着一股凛然的锋锐之意，所过之处草木碎石尽数斩断，坚硬的地面也被划出一道深痕，拦住了灰黑圆珠。",
+        "text": "Một luồng như mũi tên đích âm phong bắn ra, mang theo một luồng nghiêm nghị đích sắc bén chi ý, nơi đi qua thảo mộc đá vụn hết thảy chặt đứt, cứng rắn đích mặt đất cũng bị vẽ ra một đạo ngấn sâu, ngăn cản xám đen viên châu .",
+        "index": 21
+      }
     },
     {
       "convert": "\"Không thể!\"",
@@ -360,7 +460,12 @@
       "dich": "Đáng tiếc đã quá muộn, luồng gió âm chuẩn xác đánh trúng cả hai viên châu xám.",
       "suggest": "Đáng tiếc, đã tới không bằng, Âm phong đã trúng đích rồi.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "可惜已经来不及，阴风准确命中圆珠。",
+        "text": "Đáng tiếc đã tới không bằng, âm phong chuẩn xác trúng đích viên châu .",
+        "index": 23
+      }
     },
     {
       "convert": "\"Phanh\" một tiếng vang trầm, mảng lớn xám khói đen trống rỗng toát ra, trong nháy mắt che mất phụ cận một một khu vực lớn.",
@@ -379,11 +484,16 @@
           0.38
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "坤图只觉眼前一黑，一时之间什么也无法看到。",
+        "text": "Khôn đồ chỉ cảm thấy mắt tối sầm lại, trong lúc nhất thời gì cũng vô pháp nhìn thấy .",
+        "index": 25
+      }
     },
     {
       "convert": "Viên Minh thi triển Vô Ảnh Bộ, cả người tên nỏ bắn về phía phía trước rừng rậm.",
-      "dich": "Viên Minh thi triển Vô Ảnh bộ, cả người như tên rời nở bắn nhanh tới rừng rậm phía trước.",
+      "dich": "Viên Minh thi triển Vô Ảnh Bộ, cả người như tên rời nở bắn nhanh tới rừng rậm phía trước.",
       "suggest": "Viên Minh thi triển Thuật Vô Ảnh, cả người bắn về phía trước một khu rừng rậm.",
       "similarity": [
         [
@@ -391,7 +501,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭施展无影步，整个人弩箭般射向前方的密林。",
+        "text": "Viên Minh thi triển vô ảnh bước, cả người tên nỏ kiểu bắn về phía phía trước rừng rậm .",
+        "index": 26
+      }
     },
     {
       "convert": "Khôn Đồ mặc dù mắt không thể xem, lỗ tai vẫn có thể nghe được động tĩnh, pháp lực cuồn cuộn rót vào lớn cờ, cờ trên mặt toát ra điểm điểm linh quang, trong chớp mắt ở cờ trước mặt bộ ngưng tụ thành một đạo chừng gần trượng lớn nhỏ huyết sắc quang nhận.",
@@ -403,7 +518,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "坤图虽目不可视，耳朵仍能听到动静，法力滚滚注入大幡，幡面上冒出点点灵光，眨眼间在幡面前部凝成一道足有丈许大小的血色光刃。",
+        "text": "Khôn đồ mặc dù mục không thể coi, tai vẫn có thể nghe được động tĩnh, pháp lực cuồn cuộn rót vào đại phan, phan trên mặt tỏa ra điểm điểm linh quang, trong chớp mắt tại phan trước mặt 部 ngưng tụ thành một đạo chừng gần trượng lớn nhỏ đích huyết sắc quang nhận .",
+        "index": 27
+      }
     },
     {
       "convert": "\"Đi!\"",
@@ -455,7 +575,12 @@
           0.53
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "呼火长老和独眼妇人也听到袁铭逃走的声音，不约而同发出了攻击。",
+        "text": "Hô hỏa trưởng lão cùng độc nhãn phụ nhân cũng nghe đến Viên Minh đào tẩu đích thanh âm, không hẹn mà cùng phát ra rồi công kích .",
+        "index": 29
+      }
     },
     {
       "convert": "Hô Hỏa trưởng lão tay áo một cái xoay tròn, trong tay thêm ra một cây đen nhánh ống hình dáng vật, không gặp hắn làm cái gì, hắc ống mãnh liệt run một cái, phát ra trầm thấp tiếng oanh minh.",
@@ -467,7 +592,12 @@
           0.26
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "呼火长老袖袍一个翻卷，手中多出一根乌黑筒状物，不见他做什么，黑筒猛烈抖了一下，发出低沉的轰鸣声。",
+        "text": "Hô hỏa trưởng lão tay áo một cái quay, trong tay nhiều ra một cây đen nhánh đồng trạng vật, không thấy hắn làm cái gì, hắc đồng mãnh liệt run lên một chút, phát ra trầm thấp tiếng gầm rú .",
+        "index": 30
+      }
     },
     {
       "convert": "Một chùm ô quang nổ bắn ra mà ra, lại là vô số màu đen nhỏ châm, lít nha lít nhít đánh về phía Viên Minh.",
@@ -483,7 +613,12 @@
           0.42
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一蓬乌光爆射而出，却是无数黑色小针，密密麻麻打向袁铭。",
+        "text": "Một chùm ô quang nổ bắn ra mà ra, lại là vô số hắc sắc tiểu châm, rậm rạp đánh về phía Viên Minh .",
+        "index": 31
+      }
     },
     {
       "convert": "Độc nhãn phụ nhân cánh tay vung lên, một đầu mọc đầy gai ngược trường tiên bắn ra, đón gió liền dài, nguyên bản chỉ có dài hơn một trượng roi, vậy mà đánh tới mấy trượng bên ngoài, quất hướng Viên Minh phía sau lưng.",
@@ -495,7 +630,12 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "独眼妇人手臂一挥，一条长满倒刺的长鞭射出，迎风便长，原本只有丈许长的鞭子，竟然打到了数丈之外，抽向袁铭后背。",
+        "text": "Độc nhãn phụ nhân cánh tay vung lên, một đầu mọc đầy đâm ngược đích trường tiên bắn ra, đón gió liền dài, nguyên bản chỉ có dài hơn một trượng roi, vậy mà đánh tới rồi mấy trượng bên ngoài, quất hướng Viên Minh phía sau lưng .",
+        "index": 32
+      }
     },
     {
       "convert": "Viên Minh phía sau phong thanh đại tác, hơi biến sắc mặt, bước chân lúc này một sai, thân hình bỗng nhiên trở nên mơ hồ, như quỷ mị hướng bên cạnh lướt ngang hai trượng.",
@@ -507,7 +647,12 @@
           0.16
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭背后风声大作，面色微变，脚步当即一错，身形骤然变得模糊，鬼魅般朝旁边横移了两丈。",
+        "text": "Viên Minh sau lưng tiếng gió đại tác, hơi biến sắc mặt, cước bộ lúc này một sai, thân hình bỗng nhiên trở nên mơ hồ, quỷ mị kiểu hướng bên cạnh lướt ngang rồi hai trượng .",
+        "index": 33
+      }
     },
     {
       "convert": "Độc nhãn phụ nhân trường tiên cùng Hô Hỏa trưởng lão màu đen phi châm lập tức đánh hụt, nhưng Khôn Đồ huyết sắc quang nhận giống như hút máu Con Đỉa, phương hướng cũng theo đó nhất chuyển, tiếp tục đánh về phía Viên Minh.",
@@ -527,7 +672,12 @@
           0.22
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "独眼妇人的长鞭和呼火长老的黑色飞针顿时打空，但坤图的血色光刃好像吸血的蚂蟥，方向也随之一转，继续打向袁铭。",
+        "text": "Độc nhãn phụ nhân đích trường tiên cùng hô hỏa trưởng lão đích hắc sắc phi châm tức khắc đánh không còn, nhưng khôn đồ đích huyết sắc quang nhận dường như hút máu đích con đỉa, phương hướng cũng theo đó nhất chuyển, tiếp tục đánh về phía Viên Minh .",
+        "index": 34
+      }
     },
     {
       "convert": "Nổ đùng thanh âm cùng một chỗ, huyết sắc quang nhận trống rỗng xuất hiện sau lưng Viên Minh ba thước, hóa thành một đạo tàn ảnh đánh xuống.",
@@ -543,7 +693,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "爆鸣之声一起，血色光刃凭空出现在袁铭身后三尺，化为一道残影劈下。",
+        "text": "Nổ đùng thanh âm cùng nhau, huyết sắc quang nhận đột nhiên xuất hiện tại Viên Minh sau lưng ba thước, hóa thành một đạo tàn ảnh đánh xuống .",
+        "index": 35
+      }
     },
     {
       "convert": "Viên Minh thần sắc đại biến, muốn trốn tránh đã tới không bằng, cắn răng phía dưới, tay phải huy động.",
@@ -555,14 +710,24 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭神色大变，想要躲闪已经来不及，咬牙之下，右手挥动。",
+        "text": "Viên Minh thần sắc đại biến, muốn trốn tránh đã tới không bằng, cắn răng phía dưới, bên phải tay huy động .",
+        "index": 36
+      }
     },
     {
       "convert": "Một đạo bóng xanh hiện lên, trong tay hắn hiển hiện một con thanh sắc lư hương, hắn hai tay nắm ở thân lò hai bên, ngăn tại huyết sắc quang nhận trước đó.",
       "dich": "Một cái bóng màu xanh lóe lên, ngay tiếp đó trong tay hắn xuất hiện một lư hương nhỏ màu xanh. Hai tay hắn nắm chặt hai bên lư hương, giơ lên chặn quang nhận lại.",
       "suggest": "Một bóng xanh hiện ra, trong tay hắn hiện lên một lư hương màu xanh, hai tay hắn nắm chặt lấy thân lò, ngăn cản quang nhận màu đỏ do huyết sắc quy định.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一道青影闪过，他手中浮现一只青色香炉，他双手握住炉身两边，挡在血色光刃之前。",
+        "text": "Một đạo bóng xanh hiện lên, trong tay hắn hiện lên một con màu xanh lư hương, hai tay của hắn cầm chắc thân lò hai bên, ngăn tại huyết sắc quang nhận trước đó .",
+        "index": 37
+      }
     },
     {
       "convert": "\"Keng\" một tiếng vang thật lớn!",
@@ -590,14 +755,24 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭全身大震，整個人被劈飞出去，双手虎口崩裂。",
+        "text": "Viên Minh toàn thân đại chấn, cả người bị đánh bay ra ngoài, hai tay nứt gan bàn tay .",
+        "index": 39
+      }
     },
     {
       "convert": "Thanh sắc lư hương cũng bị đánh bay, rơi xuống phụ cận trên mặt đất, chỉ là lư hương hoàn hảo không chút tổn hại, một đạo bạch ngấn cũng không.",
       "dich": "Lư hương màu xanh cũng bị đánh bay, rơi xuống mặt đất cạnh đó, chỉ có điều lư hương hoàn hảo không tổn hại chút nào, một vết ngấn trắng cũng không có.",
       "suggest": "Lư hương màu xanh cũng bị đánh bay, rơi xuống mặt đất cạnh đó, chỉ có điều lư hương hoàn hảo không tổn hại chút nào, một vệt sáng cũng không có.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "青色香炉也被震飞，掉落附近地上，只是香炉完好无损，一道白痕也无。",
+        "text": "Màu xanh lư hương cũng bị đánh bay, rơi xuống phụ cận địa thượng, chỉ là lư hương hoàn hảo không chút tổn hại, một đạo bạch ngấn cũng vô .",
+        "index": 40
+      }
     },
     {
       "convert": "Viên Minh trọn vẹn bay ra ngoài bốn năm trượng, đập ầm ầm ở cách đó không xa trong rừng rậm.",
@@ -609,7 +784,12 @@
           0.4
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭足足飞出四五丈外，重重砸在不远处的密林中。",
+        "text": "Viên Minh ước chừng bay ra ngoài bốn năm trượng, đập ầm ầm tại cách đó không xa trong rừng rậm .",
+        "index": 41
+      }
     },
     {
       "convert": "Cũng may hắn đã thi triển ra Phi Mao Thuật biến thân, da dày thịt béo, cũng không có thụ thương, hai tay vết thương cũng chỉ là bị thương ngoài da, lập tức xoay người nhảy dựng lên, hướng rừng rậm nơi xa bỏ chạy.",
@@ -625,7 +805,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "好在他已经施展出披毛术变身，皮糙肉厚，并没有受伤，双手的伤口也只是皮外伤，立刻翻身跳了起来，朝密林远处逃去。",
+        "text": "May mà hắn đã thi triển ra Phi Mao Thuật biến thân, da dày thịt béo, không hề hữu thụ thương tổn, hai tay đích miệng vết thương cũng chỉ là bị thương ngoài da, lập tức trở mình nhảy dựng lên, hướng rừng rậm viễn xứ bỏ chạy .",
+        "index": 42
+      }
     },
     {
       "convert": "Chạy ở giữa, Viên Minh đưa tay một dẫn, nơi xa trên đất lư hương lập tức trở nên hư ảo, hóa thành một sợi thanh quang không có vào hắn cánh tay phải lư hương ấn ký bên trong.",
@@ -637,7 +822,12 @@
           0.23
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "奔跑之间，袁铭抬手一引，远处地上的香炉顿时变得虚幻，化为一缕青光没入他右臂的香炉印记内。",
+        "text": "Chạy nhanh ở giữa, Viên Minh giơ tay một dẫn, viễn xứ trên đất lư hương tức khắc trở nên hư ảo, hóa thành một sợi thanh quang chìm vào hắn bên phải cánh tay đích lư hương ấn ký nội .",
+        "index": 43
+      }
     },
     {
       "convert": "Viên Minh thân ảnh vừa mới biến mất, Khôn Đồ ba người liền từ xám đen trong sương khói đuổi tới, sắc mặt đều phi thường khó coi.",
@@ -649,7 +839,12 @@
           0.61
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭身影刚刚消失，坤图三人便从灰黑烟雾内追了出来，脸色都非常难看。",
+        "text": "Viên Minh thân ảnh vừa mới tiêu thất, khôn đồ ba người liền từ xám đen trong sương khói đuổi tới, sắc mặt đều phi thường khó coi .",
+        "index": 44
+      }
     },
     {
       "convert": "\"Tiểu tử kia trốn nơi nào rồi?\"",
@@ -733,7 +928,12 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "坤图一拍腰间灵兽袋，一头体长足有两丈的青色巨狼显现而出，正是之前试炼时驱使的灵兽，带着独眼妇人一跃而上，朝袁铭奔跑的方向追去。",
+        "text": "Khôn đồ một nhịp bên hông linh thú túi, một đầu thân dài chừng hai trượng đích màu xanh cự lang hiển hiện mà ra, chính là trước đó thử 炼 thời khu sử đích linh thú, mang theo độc nhãn phụ nhân nhảy lên, hướng Viên Minh chạy nhanh phương hướng đuổi theo .",
+        "index": 47
+      }
     },
     {
       "convert": "Hô Hỏa trưởng lão cũng gọi ra Thanh Chuẩn tung người mà lên, theo sát hai người về sau đuổi theo.",
@@ -765,7 +965,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "呼火长老也唤出青隼跃身而上，紧随二人之后的追了出去。",
+        "text": "Hô hỏa trưởng lão cũng gọi ra thanh chim cắt vọt 身 mà lên, theo sát hai người sau đó đích đuổi theo .",
+        "index": 48
+      }
     },
     {
       "convert": "Lúc này Viên Minh đã ra khỏi sơn cốc, biến thành vượn trắng giữa rừng núi như giẫm trên đất bằng, phi tốc ghé qua, về phía tây phương phương hướng bỏ chạy.",
@@ -777,7 +982,12 @@
           0.14
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "此时的袁铭已经出了山谷，所化白猿在山林间如履平地，飞速穿行，朝西方方向逃去。",
+        "text": "Lúc này đích Viên Minh đã ra khỏi sơn cốc, biến thành vượn trắng giữa rừng núi như giẫm trên đất bằng, phi tốc xuyên hành, về phía tây phương phương hướng bỏ chạy .",
+        "index": 49
+      }
     },
     {
       "convert": "Nhưng mà vô luận là Khôn Đồ Thanh Lang, vẫn là Hô Hỏa trưởng lão Thanh Chuẩn, đều là lấy tốc độ tăng trưởng hung thú, sau lưng rất nhanh truyền đến hai người động tĩnh.",
@@ -789,7 +999,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "然而无论是坤图的青狼，还是呼火长老的青隼，都是以速度见长的凶兽，身后很快传来二人的动静。",
+        "text": "Nhưng mà vô luận là khôn đồ đích sói xanh, vẫn là hô hỏa trưởng lão đích thanh chim cắt, đều là dĩ tốc độ tăng trưởng đích hung thú, sau lưng rất nhanh truyền đến hai người đích động tĩnh .",
+        "index": 50
+      }
     },
     {
       "convert": "Viên Minh âm thầm lo lắng, nhưng nhất thời cũng không có cách đối phó, chỉ có thể toàn lực đào tẩu.",
@@ -805,7 +1020,12 @@
           0.75
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭暗暗焦急，但一时也没有应对之策，只能全力逃走。",
+        "text": "Viên Minh âm thầm lo lắng, nhưng nhất thời cũng không có cách đối phó, chỉ có thể toàn lực đào tẩu .",
+        "index": 51
+      }
     },
     {
       "convert": "Vào thời khắc này, ào ào tiếng nước chảy âm thanh truyền đến, một đầu không hẹp dòng sông xuất hiện ở phía trước.",
@@ -817,7 +1037,12 @@
           0.33
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在此刻，哗哗水响声传来，一条不窄的河流出现在前方。",
+        "text": "Vào thời khắc này, ào ào tiếng nước chảy tiếng truyền đến, một đầu không hẹp đích hà lưu xuất hiện ở phía trước .",
+        "index": 52
+      }
     },
     {
       "convert": "Viên Minh thấy thế, lập tức hướng dòng sông chạy đi.",
@@ -833,7 +1058,12 @@
           0.67
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭见状，立刻朝河流奔去。",
+        "text": "Viên Minh thấy thế, lập tức hướng hà lưu chạy đi .",
+        "index": 53
+      }
     },
     {
       "convert": "Vào thời khắc này, sau lưng trong rừng rậm truyền ra Khôn Đồ thanh âm: \"Viên Minh, xem ngươi trốn nơi nào!\"",
@@ -845,7 +1075,12 @@
           0.43
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在此刻，身后密林内传出坤图的声音：“袁铭，看你往哪里逃！”",
+        "text": "Vào thời khắc này, sau lưng trong rừng rậm truyền ra khôn đồ đích thanh âm : “ Viên Minh, coi ngươi trốn nơi nào ! ”",
+        "index": 54
+      }
     },
     {
       "convert": "Thanh âm chưa dứt, phong thanh cùng một chỗ, Khôn Đồ cưỡi Thanh Lang đuổi theo ra rừng cây, nhảy lên mấy trượng đánh tới.",
@@ -857,7 +1092,12 @@
           0.31
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "声音未落，风声一起，坤图骑着青狼追出了丛林，一跃数丈的扑了过来。",
+        "text": "Thanh âm chưa dứt, tiếng gió cùng nhau, khôn đồ cưỡi sói xanh đuổi theo ra rồi tùng lâm, nhảy lên mấy trượng đích đánh tới .",
+        "index": 55
+      }
     },
     {
       "convert": "Viên Minh quay đầu nhìn lại, ánh mắt trầm xuống, bên phải tay vượn đột nhiên thô to gấp bội, nắm lên một cái đá vụn về sau hung hăng hất lên, tiếp tục co cẳng hướng phía trước chạy đi.",
@@ -869,7 +1109,12 @@
           0.46
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭回头望去，眼神一沉，右边猿臂猛的粗大倍许，抓起一把碎石往后狠狠一甩，继续拔腿朝前方奔去。",
+        "text": "Viên Minh hồi đầu nhìn lại, nhãn thần trầm xuống, bên phải bên tay vượn đột nhiên thô to gấp bội, nắm lên một cái đá vụn về sau hung hăng hất lên, tiếp tục chạy đi hướng phía trước chạy đi .",
+        "index": 56
+      }
     },
     {
       "convert": "Đầu kia Thanh Lang há mồm phun một cái, bên miệng cuồng phong dâng trào, mấy chục đạo nói tản ra thanh quang phong nhận đem đá vụn xoắn nát.",
@@ -881,7 +1126,12 @@
           0.15
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "那头青狼张口一吐，嘴边狂风喷涌，数十道道散发着青光的风刃将碎石绞碎。",
+        "text": "Đầu kia sói xanh há mồm phun một cái, bên miệng cuồng phong dâng trào, vài chục đạo đạo phát ra lấy thanh quang đích phong nhận đem đá vụn cắn nát .",
+        "index": 57
+      }
     },
     {
       "convert": "Khôn Đồ thì thừa cơ múa đại kỳ, hướng Viên Minh hư không điểm ra.",
@@ -901,7 +1151,12 @@
           0.26
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "坤图则趁机舞动大旗，朝袁铭虚空点出。",
+        "text": "Khôn đồ thì thừa cơ vũ động đại kỳ, hướng Viên Minh hư không điểm ra .",
+        "index": 58
+      }
     },
     {
       "convert": "Màu đen trên cờ lớn đầu lâu đồ án phát sáng lên, đại kỳ đỉnh chóp càng là quang mang chớp liên tục, bắn ra chừng hơn mười đạo mũi tên ánh sáng màu đỏ ngòm, mặc dù không bằng trước đó huyết sắc quang nhận lớn, tốc độ lại tại trên của hắn, gào thét đánh về phía Viên Minh phía sau lưng.",
@@ -913,7 +1168,12 @@
           0.1
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑色大旗上的骷髅头图案亮了起来，大旗顶部更是光芒连闪，射出足有十几道血色光箭，虽然不及之前的血色光刃大，速度却在其之上，呼啸打向袁铭后背。",
+        "text": "Hắc sắc trên cờ lớn đích đầu lâu đồ án phát sáng lên, đại kỳ đỉnh chóp càng là quang mang chớp liên tục, bắn ra chừng hơn mười đạo mũi tên ánh sáng màu đỏ ngòm, tuy rằng không bằng trước đó đích huyết sắc quang nhận đại, tốc độ lại tại nó thượng, gào thét đánh về phía Viên Minh phía sau lưng .",
+        "index": 59
+      }
     },
     {
       "convert": "Viên Minh thân hình nhún xuống, kề sát mặt đất hướng phía trước lăn lộn, miễn cưỡng tránh thoát những cái kia huyết tiễn công kích, trên cánh tay phải vẫn là bị vẽ một lần, máu tươi chen chúc mà ra.",
@@ -925,14 +1185,24 @@
           0.16
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭身形一矮，紧贴地面朝前方翻滚，勉强躲过那些血箭的攻击，右臂上还是被划了一下，鲜血蜂拥而出。",
+        "text": "Viên Minh thân hình nhún xuống, kề sát mặt đất hướng phía trước quay cuồng, miễn cưỡng tránh thoát những cái kia máu tươi đích công kích, trên cánh tay phải vẫn là bị vẽ một chút, máu tươi chen chúc mà ra .",
+        "index": 60
+      }
     },
     {
       "convert": "Bất quá hắn cũng cuối cùng đã tới bờ sông, xoay người nhảy vào trong đó, \"Bịch\" một tiếng biến mất ở dòng nước xiết bên trong.",
       "dich": "Cũng may cuối cùng đã tới được bờ sông, hắn lập tức xoay người nhảy xuống nước. Chỉ nghe \"ùm\" một tiếng, Viên Minh đã biến mất trong dòng nước xiết.",
       "suggest": "Tuy nhiên cuối cùng hắn cũng tới bờ sông, xoay người nhảy vào trong đó, \"Bịch\" một tiếng rồi biến mất giữa dòng nước.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "不过他也终于到了河边，翻身跃入其中，“扑通”一声消失在激流中。",
+        "text": "Bất quá hắn cũng cuối cùng đã tới bờ sông, trở mình vọt nhập trong đó, “ bùm ” một tiếng tiêu thất tại dòng nước xiết trung .",
+        "index": 61
+      }
     },
     {
       "convert": "Khôn Đồ cơ hồ ở đồng thời phi thân rơi vào bờ sông, thấp giọng chửi mắng một tiếng, con mắt gấp chú ý cái này mặt sông, tiếp tục thôi động pháp lực rót vào màu đen đại kỳ bên trong.",
@@ -944,7 +1214,12 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "坤图几乎在同时飞身落在河边，低声咒骂一声，眼睛紧盯这河面，继续催动法力注入黑色大旗内。",
+        "text": "Khôn đồ cơ hồ tại cùng thời phi thân rơi vào bờ sông, thấp giọng mắng một tiếng, con mắt nhìn chằm chằm này hà diện, tiếp tục thúc động pháp lực rót vào hắc sắc đại kỳ nội .",
+        "index": 62
+      }
     },
     {
       "convert": "Cờ xí bên trên âm sát khí tức càng ngày càng đậm, đỉnh chóp càng là huyết quang cuồn cuộn, trong nước di động không tiện, lấy huyết tiễn tốc độ, chỉ cần Viên Minh thò đầu ra, liền mơ tưởng tránh thoát hắn lôi đình một kích.",
@@ -956,7 +1231,12 @@
           0.16
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "旗帜上的阴煞气息越来越浓，顶部更是血光翻涌，水中移动不便，以血箭的速度，只要袁铭露头，就休想躲过他的雷霆一击。",
+        "text": "Cờ xí thượng đích âm sát khí tức càng ngày càng dày đặc, đỉnh chóp càng là huyết quang cuồn cuộn, thủy trung di động không tiện, dĩ máu tươi đích tốc độ, chỉ cần Viên Minh thò đầu ra, liền nghỉ muốn tránh qua hắn lôi đình một kích .",
+        "index": 63
+      }
     },
     {
       "convert": "Hô Hỏa trưởng lão cũng đến bờ sông, đồng dạng chăm chú nhìn dòng sông.",
@@ -984,7 +1264,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "呼火长老也到了河边，同样紧紧盯着河流。",
+        "text": "Hô hỏa trưởng lão cũng đến rồi bờ sông, cùng 样 chăm chú nhìn hà lưu .",
+        "index": 64
+      }
     },
     {
       "convert": "Có thể đợi tới đợi lui, Viên Minh liền mảy may ngoi đầu lên dấu hiệu đều không có, giống như hoàn toàn biến mất.",
@@ -996,7 +1281,12 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "可等来等去，袁铭连丝毫冒头的迹象都没有，好像彻底消失了。",
+        "text": "Khả đợi tới đợi lui, Viên Minh liên ty hào làm liều đích dấu hiệu đều không có, dường như hoàn toàn biến mất rồi .",
+        "index": 65
+      }
     },
     {
       "convert": "Ba người phát giác không đúng, vội vàng phân tán ra đến, riêng phần mình tuần sát dòng sông một phiến khu vực, vẫn không có phát hiện Viên Minh tung tích.",
@@ -1008,7 +1298,12 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "三人察觉不对，急忙分散开来，各自巡视河流的一片区域，仍然没有发现袁铭的踪迹。",
+        "text": "Ba người phát hiện không đúng, vội vàng phân tán ra tới, mỗi cái tuần tra hà lưu đích một phiến khu vực, vẫn cứ không có phát hiện Viên Minh đích tung tích .",
+        "index": 66
+      }
     },
     {
       "convert": "\"Hô Hỏa, kia Viên Minh chẳng lẽ còn sẽ Tị Thủy Quyết loại hình pháp thuật?",

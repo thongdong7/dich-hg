@@ -1,615 +1,838 @@
 {
+  "currentLine": 90,
+  "changed": true,
+  "currentWorkingLine": 0,
+  "lines": [
+    {
+      "chinese": {
+        "index": 0,
+        "raw": "中年执事神情复杂地接过袁铭递过来的腰牌，再次转身进了房间，随后取来一本灰褐色兽皮封面的粗糙手札。",
+        "text": "Trung niên chấp sự vẻ mặt phức tạp tiếp nhận Viên Minh đưa tới lệnh bài, lần nữa chuyển thân vào phòng, theo sau lấy tới một quyển màu nâu xám da thú bìa mặt đích thô ráp bản chép tay."
+      },
+      "dich": "Chấp sự trung niên sau khi nhận lệnh bài từ tay Viên Minh với vẻ mặt phức tạp, lại lần nữa xoay người đi vào phòng, tiếp đó mang ra một cuốn sổ tay trông khá cục mịch với phần bìa làm từ da thú màu nâu xám.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 1,
+        "raw": "袁铭接过之后，立马就去找地方翻阅。",
+        "text": "Viên Minh sau khi nhận lấy, lập tức liền đi tìm địa phương lật xem."
+      },
+      "dich": "Viên Minh nhận lấy rồi lập tức tìm một chỗ ngồi đọc.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 2,
+        "raw": "这一次，他看得更快，只不过因为内容丰富的缘故，足足看了一个多时辰，才全都看完。",
+        "text": "Một lần này, hắn nhìn càng thêm nhanh, chẳng qua vì nội dung phong phú duyên cớ, ước chừng nhìn hơn một canh giờ, mới tất cả đều xem hết."
+      },
+      "dich": "Lần này hắn còn đọc nhanh hơn trước, có điều vì nội dung rất nhiều nên phải tốn hơn một canh giờ mới xem hết được.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 3,
+        "raw": "在这本二洞主的采药手札里，他如愿找到了关于黑鳞果和阴髓液的描述，前者是生长在十万大山中一些背阴悬崖上的黑色果子。",
+        "text": "Tại bản này hai động chủ đích hái thuốc bản chép tay trong, hắn như nguyện tìm được rồi về hắc lân quả cùng âm tủy dịch đích miêu tả, cái trước là sinh trưởng ở Thập Vạn Đại Sơn trung một chút cái bóng trên vách đá đích hắc sắc trái cây."
+      },
+      "dich": "Từ trong cuốn sổ tay hái thuốc của Nhị động chủ này, hắn thành công tìm được phần miêu tả liên quan đến Hắc Lân quả và Âm Tủy dịch. Cái đầu tiên là một loại quả màu đen sinh trưởng trên một số vách núi thiếu ánh nắng trong Thập Vạn Đại Sơn.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 4,
+        "raw": "而后者则是需要从特定毒虫身上提取的脊髓液，都是炼制丹药用的特殊灵材。",
+        "text": "Mà cái sau thì là cần từ đặc biệt độc trùng trên thân lấy ra đích tuỷ sống dịch, đều là luyện chế đan dược dụng đích đặc thù linh tài."
+      },
+      "dich": "Cái thứ hai là dịch tủy rút từ trên người một loại trùng độc đặc biệt, đều là linh tài đặc thù để luyện chế đan dược.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 5,
+        "raw": "这本手札中记载的灵药灵材更为珍稀，比《佰草集》之流自是高出了一个等级，极大地丰富了袁铭在这一方面的知识。",
+        "text": "Bản này bản chép tay trung ghi lại linh dược linh tài càng thêm quý hiếm, so 《 bách cỏ tập 》 chi lưu tất nhiên là cao hơn rồi một cái cấp bậc, cực đại phong phú Viên Minh ở phương diện này đích tri thức."
+      },
+      "dich": "Hơn nữa linh tài, linh dược được ghi trong cuốn sổ tay này còn rất quý hiếm, hiển nhiên cao cấp hơn một bậc so với những loại trong ‘Bách Thảo Tập’, điều này giúp kiến thức của Viên Minh về mảng này phong phú hơn rất nhiều.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 6,
+        "raw": "等他还过手札之后，便在中年执事不解的眼神和叹气中，离开了归藏阁。",
+        "text": "Chờ hắn còn qua tay trát sau đó, liền tại trung niên chấp sự ánh mắt khó hiểu cùng than thở trung, ly khai Quy Tàng các."
+      },
+      "dich": "Sau khi quay về trả lại cuốn sổ tay, Viên Minh rời khỏi Quy Tàng Các trong ánh mắt khó hiểu và tiếng thở dài của chấp sự trung niên.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 7,
+        "raw": "说来也巧，回去火炼堂的半路上，袁铭远远地看到了一个熟悉的人影，正是乌鲁。",
+        "text": "Nhắc tới cũng xảo, trở về Hỏa Luyện Đường đích trên nửa đường, Viên Minh xa xa thấy được một cái quen thuộc bóng người, chính là Ô Lỗ."
+      },
+      "dich": "Nhắc đến cũng khéo, giữa đường trở về Hỏa Luyện Đường, Viên Minh nhìn thấy một bóng người quen thuộc ở phía xa xa, chính là Ô Lỗ.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 8,
+        "raw": "后者也发现了他，没有躲避，而是主动朝他走了过来。",
+        "text": "Cái sau cũng phát hiện hắn, không có tránh né, mà là chủ động hướng hắn đi tới."
+      },
+      "dich": "Người này cũng phát hiện hắn, không có tránh né mà chủ động bước về phía hắn.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 9,
+        "raw": "“袁兄，许久不见。”乌鲁主动抱拳，脸上挂着笑意。",
+        "text": "“Viên huynh, hồi lâu không thấy.” Ô Lỗ chủ động ôm quyền, trên mặt mang tiếu ý."
+      },
+      "dich": "“Viên huynh, đã lâu không gặp.” Ô Lỗ chủ động ôm quyền chào hỏi với nụ cười trên miệng.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 10,
+        "raw": "“乌鲁兄，你怎么来了这边？”袁铭左右看了一眼，没有看到坤图。",
+        "text": "“Ô Lỗ huynh, làm sao ngươi tới rồi bên này?” Viên Minh nhìn chung quanh một chút, không nhìn thấy Khôn Đồ."
+      },
+      "dich": "“Ô Lỗ huynh, sao ngươi lại đến bên này?” Viên Minh đảo mắt nhìn xung quanh, không thấy Khôn Đồ, bèn hỏi.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 11,
+        "raw": "“哦，我刚执行任务回来，正要返回驭兽堂。一起走走？”乌鲁面露笑容，说道。",
+        "text": "“A, ta vừa chấp hành nhiệm vụ trở lại, đang muốn phản hồi Ngự Thú Đường. Cùng đi tẩu?” Ô Lỗ mặt lộ vẻ tiếu dung, nói."
+      },
+      "dich": "“À, ta mới hoàn thành nhiệm vụ trở về, đang định quay lại Ngự Thú Đường. Cùng đi chứ?” Ô Lỗ mỉm cười nói.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 12,
+        "raw": "袁铭点了点头，两人并肩往火炼堂和驭兽堂的方向走去。",
+        "text": "Viên Minh gật gật đầu, hai người kề vai hướng Hỏa Luyện Đường cùng Ngự Thú Đường phương hướng đi đến."
+      },
+      "dich": "Viên Minh khẽ gật đầu. Hai người liền sóng vai bước về phía Ngự Thú Đường và Hỏa Luyện Đường.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 13,
+        "raw": "“说起来，真是羡慕袁兄，运气实在不错，能被三洞主赏识。”乌鲁主动开口。",
+        "text": "“Nói đến, thật sự là hâm mộ Viên huynh, vận khí thật sự không tệ, có thể bị Tam động chủ thưởng thức.” Ô Lỗ chủ động mở miệng."
+      },
+      "dich": "“Nhắc tới đúng là hâm mộ Viên huynh, vận số thực sự không tệ, có thể được Tam động chủ coi trọng.” Ô Lỗ chủ động gợi chuyện.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 14,
+        "raw": "“比起我，你倒是更令人好奇，怎么也突然进了碧罗洞？”袁铭笑了笑，没有回答，而是话锋一转，把话题引到了对方身上。",
+        "text": "“So với ta, ngươi ngược lại càng làm cho người ta hiếu kỳ, thế nào cũng đột nhiên tiến rồi Bích La Động?” Viên Minh cười cười, không có trả lời, mà là lời nói xoay chuyển, đem thoại đề dẫn tới rồi trên người đối phương."
+      },
+      "dich": "“So với ta, ngươi lại càng khiến người ta hiếu kỳ, làm sao cũng đột nhiên tiến vào Bích La động?” Viên Minh chỉ cười cười không đáp, đoạn đổi chủ đề, đẩy câu chuyện sang người đối phương.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 15,
+        "raw": "上次看到对方的时候，他还跟在坤图身边，有些话题他不方便说，也不愿说。",
+        "text": "Lần trước nhìn thấy đối phương thời điểm, hắn còn đi theo Khôn Đồ bên thân, có mấy lời đề hắn bất tiện nói, cũng không muốn nói."
+      },
+      "dich": "Lần trước khi nhìn thấy đối phương, y đang đi theo bên người Khôn Đồ nên có mấy câu hắn không tiện nói, cũng không muốn nói.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 16,
+        "raw": "乌鲁倒是没有隐瞒，坦言道：“坤图对我还算赏识，他成了内门弟子之后，便用自己的权力，把我收为了仆役，跟在身边做个狗腿子。”",
+        "text": "Ô Lỗ ngược lại không có giấu diếm, nói thẳng: “Khôn Đồ đối ta còn tính thưởng thức, hắn thành nội môn đệ tử sau đó, liền dụng quyền lực của mình, đem ta thu làm tôi tớ, theo bên người làm tay sai.”"
+      },
+      "dich": "Ô Lỗ không những không che giấu mà thẳng thắn nói: “Khôn Đồ xem như cũng thưởng thức ta, sau khi hắn trở thành đệ nội môn liền dùng quyền lực của bản thân thu ta làm nô bộc, làm chó săn bên người.”",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 17,
+        "raw": "听到“狗腿子”这个说法，袁铭不禁哑然失笑。",
+        "text": "Nghe được “tay sai” thuyết pháp này, Viên Minh không khỏi không thể nhịn cười."
+      },
+      "dich": "Nghe đến cách ví von “chó săn” này, Viên Minh không khỏi bật cười.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 18,
+        "raw": "“方才听你说做任务回来，按说……行执堂那边，仆役应该不能接取任务吧？”袁铭疑惑道。",
+        "text": "“Mới vừa nghe ngươi nói làm nhiệm vụ trở lại, lẽ ra ... ... Hành Chấp Đường bên kia, tôi tớ cũng không năng nhận nhiệm vụ nhỉ?” Viên Minh nghi ngờ nói."
+      },
+      "dich": "“Mới rồi nghe ngươi nói làm nhiệm vụ trở về, nhưng theo quy định bên Hành Chấp Đường thì nô bộc không thể nhận nhiệm vụ chứ nhỉ?” Viên Minh nghi hoặc hỏi.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 19,
+        "raw": "听到这个问题，乌鲁明显顿了一下。",
+        "text": "Nghe được vấn đề này, Ô Lỗ rõ ràng dừng một chút."
+      },
+      "dich": "Nghe tới vấn đề này, Ô Lỗ rõ ràng hơi ngưng lại một chút.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 20,
+        "raw": "他左右环顾了一圈，发现四下并无他人，这才附耳袁铭。",
+        "text": "Hắn nhìn quanh hai bên rồi một vòng, phát hiện mọi nơi cũng không người khác, lúc này mới kề tai nói nhỏ Viên Minh."
+      },
+      "dich": "Y nhìn xung quanh một vòng, thấy bốn phía không có ai khác, mới ghé đầu vào tai Viên Minh.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 21,
+        "raw": "袁铭被他这突然的举动，弄得有些奇怪，但也没有躲闪，反将耳朵凑了过去。",
+        "text": "Viên Minh bị hắn này đột nhiên cử động, làm cho có chút kỳ quái, nhưng cũng không có trốn tránh, ngược lại đem tai đưa tới."
+      },
+      "dich": "Viên Minh bị hành động bất ngờ của y làm cho có chút kỳ quái, nhưng cũng không né tránh, trái lại còn ghé tai tới.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 22,
+        "raw": "“这不是行执堂的任务，是兽奴堂的任务。”就听乌鲁声音压低，说道。",
+        "text": "“Đây không phải Hành Chấp Đường đích nhiệm vụ, là Thú Nô Đường đích nhiệm vụ.” liền nghe Ô Lỗ thanh âm đè thấp, nói."
+      },
+      "dich": "“Đây không phải nhiệm vụ của Hành Chấp Đường, là của Thú Nô đường.” Ô Lỗ nói nhỏ.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 23,
+        "raw": "兽奴堂的任务？",
+        "text": "Thú Nô Đường đích nhiệm vụ?"
+      },
+      "dich": "Nhiệm vụ của Thú Nô đường?",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 24,
+        "raw": "袁铭先是一阵疑惑，但马上反应过来。",
+        "text": "Viên Minh đầu tiên là cảm thấy rất ngờ vực, nhưng ngay lúc đó phản ứng."
+      },
+      "dich": "Viên Minh đầu tiên là cảm thấy rất ngờ vực, nhưng lập tức phản ứng kịp.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 25,
+        "raw": "“伱是说抓捕野人的任务？”袁铭问道。",
+        "text": "“Ngươi nói là bắt dã nhân đích nhiệm vụ?” Viên Minh hỏi."
+      },
+      "dich": "“Ngươi nói là nhiệm vụ bắt dã nhân?” Viên Minh hỏi.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 26,
+        "raw": "“你知道？”乌鲁诧异道。",
+        "text": "“Ngươi biết?” Ô Lỗ kinh ngạc đạo."
+      },
+      "dich": "“Ngươi biết?” Ô Lỗ kinh ngạc hỏi lại.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 27,
+        "raw": "“呵呵，乌鲁兄是忘了吗，咱们是怎么成为披毛兽奴的？”袁铭笑道。",
+        "text": "“Ha ha, Ô Lỗ huynh là quên sao, chúng ta là thế nào trở thành Phi Mao thú nô đích?” Viên Minh cười nói."
+      },
+      "dich": "“Ha ha, Ô Lỗ huynh quên rồi sao, chúng ta làm sao trở thành Phi Mao thú nô?” Viên Minh cười nói.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 28,
+        "raw": "乌鲁一拍脑门，恍然道：“差点忘了，咱们可不就是跟野人一起被抓进来的吗？说起来，一起来的，貌似也就只有我们两个还活着。”",
+        "text": "Ô Lỗ vỗ trán một cái, bừng tỉnh nói: “suýt nữa quên mất, chúng ta cũng không chính là cùng dã nhân cùng nhau bị bắt vào tới chứ? Nói đến, cùng đi đích, có vẻ như cũng chỉ có hai chúng ta còn sống.”"
+      },
+      "dich": "Ô Lỗ vỗ trán một cái, giật mình nói: “Mém quên, chúng ta không phải là bị về cùng với dã nhân sao? Nói đi cũng phải nói lại, hình như cũng chỉ có hai chúng ta còn sống.”",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 29,
+        "raw": "听闻此言，袁铭隐约觉得哪里有些别扭，可一时又想不起来。",
+        "text": "Nghe nói lời ấy, Viên Minh mơ hồ cảm thấy chỗ nào có chút không được tự nhiên, khả nhất thời lại nghĩ không ra."
+      },
+      "dich": "Nghe lời này, Viên Minh mơ hồ cảm thấy có chút không được tự nhiên, nhưng nhất thời lại nghĩ không ra.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 30,
+        "raw": "“不，还有那个双灵根的家伙，我没记错的话，好像叫什么依果？”袁铭说道。",
+        "text": "“Không, còn có cái kia Song linh căn đích gia hỏa, ta nhớ không lầm, dường như kêu cái gì Igor?” Viên Minh nói."
+      },
+      "dich": "“Không, còn có gia hỏa Song linh căn kia nữa, nếu ta nhớ không nhầm, hắn gọi là Y Quả thì phải?” Viên Minh nói.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 31,
+        "raw": "“对，还有他……不过，他和我们的境遇可不同，如今恐怕已经是内门弟子了。”乌鲁有些唏嘘道。",
+        "text": "“Đối, còn có hắn ... ... chẳng qua, hắn cùng chúng ta đích cảnh ngộ nhưng khác biệt, ngày nay sợ đã là nội môn đệ tử.” Ô Lỗ có chút thổn thức đạo."
+      },
+      "dich": "“Ừm, còn hắn nữa ... Có điều, cảnh ngộ của hắn lại khác chúng ta, hiện tại chỉ e đã là đệ tử nội môn rồi.” Ô Lỗ thổn thức nói.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 32,
+        "raw": "“你为何会接取兽奴堂的任务？”袁铭问道。",
+        "text": "“Ngươi vì sao có thể nhận Thú Nô Đường đích nhiệm vụ?” Viên Minh hỏi."
+      },
+      "dich": "“Người tại sao lại nhận nhiệm vụ của Thú Nô đường?” Viên Minh hỏi.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 33,
+        "raw": "他可没忘了，先前银猫让他打探，碧罗洞抓捕野人原因的事情。",
+        "text": "Hắn cũng không có quên rồi, lúc trước ngân mèo khiến hắn thăm dò, Bích La Động bắt dã nhân nguyên nhân sự tình."
+      },
+      "dich": "Hắn cũng không quên việc tìm hiểu nguyên nhân mà Bích La Động bắt dã nhân mà mèo bạc nhờ lúc trước.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 34,
+        "raw": "“坤图交待的，说想办法能让我转为记名弟子。”乌鲁说道。",
+        "text": "“Khôn Đồ giao phó đích, nói muốn biện pháp có thể để cho ta chuyển thành ký danh đệ tử.” Ô Lỗ nói."
+      },
+      "dich": "“Khôn Đồ giao phó, còn nói sẽ nghĩ cách để ta có thể trở thành đệ tử ký danh.” Ô Lỗ đáp.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 35,
+        "raw": "“他对你倒是真的器重。”袁铭说道。",
+        "text": "“Hắn đối ngươi ngược lại thật đích coi trọng.” Viên Minh nói."
+      },
+      "dich": "“Hắn đúng là rất coi trọng ngươi.” Viên Minh nói.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 36,
+        "raw": "“养一条好用的狗罢了。”乌鲁自嘲一笑，说道。",
+        "text": "“Nuôi một đầu dùng tốt đích cẩu bãi rồi.” Ô Lỗ tự giễu cười, nói."
+      },
+      "dich": "“Nuôi một con chó biết việc mà thôi.” Ô Lỗ cười tự giễu một tiếng rồi nói.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 37,
+        "raw": "“当年被抓时我就好奇，你说他们为什么要抓这些野人？”袁铭试探性地问道。",
+        "text": "“Năm đó bị tóm thời ta liền hiếu kỳ, ngươi nói bọn họ tại sao muốn tóm những này dã nhân?” Viên Minh thử thám tính hỏi han."
+      },
+      "dich": "“Năm đó khi bị bắt ta rất thắc mắc, ngươi nói thử xem vì sao bọn chúng lại muốn bắt những dã nhân kia?” Viên Minh dò hỏi.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 38,
+        "raw": "乌鲁深深看了袁铭一眼，似乎略有迟疑，反问道：“难道不是为了挑选兽奴吗？”",
+        "text": "Ô Lỗ nhìn chằm chằm Viên Minh một chút, tựa hồ hơi có do dự, hỏi ngược lại: “chẳng lẽ không phải vì chọn lựa Thú Nô chứ?”"
+      },
+      "dich": "Ô Lỗ nhìn thật sâu Viên Minh một chút, có vẻ hơi do dự rồi hỏi ngược lại: “Chẳng lẽ không phải vì chọn lựa thú nô sao?”",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 39,
+        "raw": "“可那些没有灵根的野人，也没必要全部杀了吧？”袁铭问道。",
+        "text": "“Khả những cái kia không có linh căn đích dã nhân, cũng không cần thiết toàn bộ giết thôi?” Viên Minh hỏi."
+      },
+      "dich": "“Nhưng cũng không cần thiết phải giết hết những dã nhân không có linh căn kia chứ?” Viên Minh hỏi.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 40,
+        "raw": "“这我就不知道了。”乌鲁摇头道。",
+        "text": "“Ta đây cũng không biết.” Ô Lỗ lắc đầu nói."
+      },
+      "dich": "“Ta cũng không biết nữa.” Ô Lỗ lắc đầu đáp.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 41,
+        "raw": "说完，他又笑着看向袁铭，说道：“你要真想弄清楚，不妨也去兽奴堂接取任务，报酬还挺高的。”",
+        "text": "Nói xong, hắn vừa cười lấy nhìn về phía Viên Minh, nói: “ngươi muốn thật muốn biết rõ ràng, đừng ngại cũng đi Thú Nô Đường nhận nhiệm vụ, thù lao còn rất cao đích.”"
+      },
+      "dich": "Nói xong, y mỉm cười nhìn về phía Viên Minh rồi nói tiếp: “Nếu ngươi thực sự muốn biết rõ ngọn ngành, chi bằng cũng đến Thú Nô đường nhận nhiệm vụ đi, thù lao rất cao đấy.”",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 42,
+        "raw": "“我就是随口问问，现在可没那么多时间。”袁铭笑道。",
+        "text": "“Ta chính là thuận miệng hỏi một chút, hiện tại cũng không có nhiều thời gian như vậy.” Viên Minh cười nói."
+      },
+      "dich": "“Ta thuận miệng hỏi chút thôi chứ hiện tại không có nhiều thời gian như vậy.” Viên Minh cười đáp.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 43,
+        "raw": "说话间，两人已经来到了山下，各自道别一声，分别朝着两座山峰的方向离去。",
+        "text": "Đang khi nói chuyện, hai người đã đi tới rồi dưới chân núi, mỗi cái tạm biệt một tiếng, phân biệt hướng tới lưỡng ngọn núi phương hướng rời đi."
+      },
+      "dich": "Trong khi nói chuyện, hai người đã tới dưới núi, sau khi chào tạm biệt nhau liền tách ra rời đi theo hướng hai ngọn núi.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 44,
+        "raw": "……",
+        "text": "... ..."
+      },
+      "dich": "... ...",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 45,
+        "raw": "接下来的日子，袁铭开始苦练木牢术和木隐术。",
+        "text": "Những ngày tiếp theo, Viên Minh bắt đầu khổ luyện mộc lao thuật cùng mộc ẩn thuật."
+      },
+      "dich": "Trong những ngày sau đó, Viên Minh bắt đầu khổ luyện Mộc Lao Thuật và Mộc Ẩn thuật.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 46,
+        "raw": "冥月诀第一层已经修成，在强大神魂的加持下，他只用了半个月，就初步掌握了两门法术。",
+        "text": "Minh Nguyệt Quyết tầng thứ nhất đã tu thành, tại thần hồn mạnh mẽ đích gia trì hạ, hắn chỉ dùng nửa tháng, liền bước đầu nắm giữ hai môn pháp thuật."
+      },
+      "dich": "Nhờ việc tu thành Minh Nguyệt Quyết tầng thứ nhất, có được sự gia trì của thần hồn mạnh mẽ, hắn chỉ mất nửa tháng đã cơ bản thành thạo hai môn pháp thuật.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 47,
+        "raw": "入夜，清冷的月光从窗户照射进来。",
+        "text": "Đêm đến, ánh trăng lạnh lẽo từ cửa sổ chiếu vào."
+      },
+      "dich": "Ban đêm, ánh trăng lạnh lẽo từ cửa sổ chiếu vào.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 48,
+        "raw": "袁铭运转冥月诀，缓缓收功，睁开眼睛。",
+        "text": "Viên Minh vận chuyển Minh Nguyệt Quyết, chậm rãi thu công, mở to mắt."
+      },
+      "dich": "Viên Minh vận chuyển Minh Nguyệt Quyết, chậm rãi thu công rồi mở to hai mắt.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 49,
+        "raw": "自从冥月诀第一层圆满，继续修炼下去，魂力的增长大幅减缓，这两天更是彻底完全停下。",
+        "text": "Từ Minh Nguyệt Quyết tầng thứ nhất viên mãn, tiếp tục tu luyện thêm nữa, hồn lực đích tăng trưởng trên diện rộng giảm hoãn, hai ngày này càng là triệt để hoàn toàn dừng lại."
+      },
+      "dich": "Từ khi Minh Nguyệt Quyết tầng thứ nhất viên mãn, hắn vẫn tiếp tục tu luyện nhưng hồn lực tăng trưởng rất chậm, thậm chí hai ngày gần đây còn hoàn toàn dừng lại.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 50,
+        "raw": "“看来冥月诀的修炼达到了瓶颈，银猫让我找的那四件灵材，或许便是突破瓶颈之物？得尽快凑齐了。”他喃喃自语。",
+        "text": "“Xem ra Minh Nguyệt Quyết đích tu luyện đạt đến bình cảnh, ngân mèo để cho ta tìm kia bốn kiện linh tài, có lẽ chính là đột phá bình cảnh chi vật? Được mau chóng tụ tập đủ rồi.” hắn tự lẩm bẩm."
+      },
+      "dich": "“Xem ra Minh Nguyệt Quyết tu luyện đã tới bình cảnh, mèo bạc bảo ta tìm bốn món linh tài kia, có lẽ chính là thứ để đột phá bình cảnh? Phải nhanh chóng gom đủ mới được.” hắn lẩm bẩm tự nói.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 51,
+        "raw": "袁铭没有起身，运功查看法力情况。",
+        "text": "Viên Minh không có đứng dậy, vận công dò xét pháp lực tình huống."
+      },
+      "dich": "Viên Minh không đứng lên mà vận công kiểm tra tình hình pháp lực.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 52,
+        "raw": "自从查明九元诀的属性问题后，他每日修炼都会尽可能寻找草木繁盛的地方，修炼速度恢复了之前的样子，法力精进极快，距离炼气六层已然不远。",
+        "text": "Từ điều tra rõ Cửu Nguyên Quyết đích thuộc tính vấn đề sau, hắn mỗi ngày tu luyện đều sẽ tận khả năng tìm kiếm thảo mộc phồn thịnh đích địa phương, tốc độ tu luyện khôi phục rồi trước đó dáng vẻ, pháp lực tinh tiến cực nhanh, cự ly luyện khí sáu tầng dĩ nhiên không xa."
+      },
+      "dich": "Từ khi tra rõ vấn đề thuộc tính của Cửu Nguyên Quyết, hắn mỗi ngày đều sẽ tận lực tìm kiếm chỗ cây cỏ tươi tốt để tu luyện, nhờ đó tốc độ tu luyện đã trở lại như trước, pháp lực tinh tiến cực nhanh, khoảng cách đến Luyện Khí tầng sáu đã không còn xa.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 53,
+        "raw": "抓住一头凶兽，和击杀一头凶兽，难度不可同日而语，甚至会面临不少突发情况，袁铭虽然手段颇多，炼气五层的境界在记名弟子中间却有些低了，最好能突破到炼气六层再去。",
+        "text": "Bắt lấy một đầu hung thú, cùng kích sát một đầu hung thú, độ khó không thể so sánh nổi, thậm chí gặp phải không ít đột phát tình huống, Viên Minh tuy rằng thủ đoạn rất nhiều, luyện khí tầng năm đích cảnh giới tại ký danh đệ tử ở giữa đã có chút thấp, tốt nhất có thể đột phá đến luyện khí sáu tầng lại đi."
+      },
+      "dich": "Bắt giữ một hung thú khó khăn hơn rất nhiều so với việc đánh giết một hung thú, thậm chí có thể gặp phải không ít tình huống khó ngờ, dù Viên Minh có rất nhiều thủ đoạn, nhưng chung quy Luyện Khí tầng năm vẫn là khá thấp trong giới đệ tử ký danh, tốt nhất là đột phá tới Luyện Khí tầng sáu rồi mới đi.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 54,
+        "raw": "以九元诀超乎寻常的修炼速度，再有一个月的时间便能达到炼气六层，只是驯兽的准备都做好了，等上一个月，实在有些太浪费时间。",
+        "text": "Dĩ Cửu Nguyên Quyết quá mức đích tốc độ tu luyện, lại có một tháng thời gian liền có thể đạt tới luyện khí sáu tầng, chỉ là thuần 兽 đích chuẩn bị đều làm xong, chờ hơn một tháng, thật sự có chút quá lãng phí thời gian."
+      },
+      "dich": "Lấy tốc độ tu luyện hơn bình thường của Cửu Nguyên Quyết, tốn thêm một tháng là có thể đạt tới Luyện Khí tầng sáu, chỉ là mọi thứ liên quan đến việc thuần thú đã được chuẩn bị tốt, giờ lại phải chờ thêm một tháng, thực sự khá lãng phí thời gian.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 55,
+        "raw": "袁铭在心底下咬咬牙，取出一个水灵灵的仙桃，正是那枚从雾中岛摘来的红色桃子。",
+        "text": "Viên Minh dưới đáy lòng hạ khẽ cắn môi, lấy ra một cái như nước trong veo đích 仙 đào, chính là viên kia từ trong đảo sương mù hái tới màu đỏ quả đào."
+      },
+      "dich": "Viên Minh âm thầm cắn răng hạ quyết tâm, lấy ra một quả tiên đào trong veo như nước, chính là quả đào màu đỏ hái từ đảo sương mù kia.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 56,
+        "raw": "他已经打听清楚了，这枚桃子名为红芯灵桃，是一种颇为罕见的固本培元类灵果，且从外观上来判断，已有差不多百年的年份，可用于炼制丹药，也可以像肉灵芝那样直接吞服。",
+        "text": "Hắn đã hỏi thăm rõ ràng, này miếng quả đào tên là đỏ tâm 灵 đào, là một loại có chút hiếm thấy cố bản bồi nguyên loại linh quả, lại còn từ vẻ ngoài đi lên phán đoán, đã có không kém nhiều trăm năm năm, có thể dùng tại luyện chế đan dược, cũng có thể giống nhục linh chi như vậy trực tiếp nuốt."
+      },
+      "dich": "Hắn đã nghe ngóng, biết quả đào này tên là Hồng Tâm linh đào, là một loại linh quả hiếm có tác dụng cố bản bồi nguyên. Thêm nữa, nếu đánh giá theo bề ngoài thì quả đào này đã có tuổi đời gần một trăm năm, có thể dùng để luyện chế đan dược, cũng có thể ăn luôn giống như Nhục linh chi.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 57,
+        "raw": "以他如今的身份地位，自然是没有渠道和资本将之炼成丹药的。",
+        "text": "Dĩ hắn ngày nay đích thân phận địa vị, tự nhiên là không có con đường cùng tư bản đem luyện thành đan dược đích."
+      },
+      "dich": "Lấy thân phận địa vị của hắn hiện tại, dĩ nhiên là không có tiền hay mối quan hệ để luyện nó thành đan dược.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 58,
+        "raw": "袁铭一口咬在桃子上，三两下将其吞进了肚子。",
+        "text": "Viên Minh cắn một cái tại quả đào thượng, hai ba lần đem nó nuốt vào bụng."
+      },
+      "dich": "Viên Minh cắn một miếng đào, nhai hai ba cái nuốt vào trong bụng.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 59,
+        "raw": "果肉很快化为一股津液的流入腹中，一股充沛的灵力在体内四处流动起来。",
+        "text": "Thịt quả rất nhanh hóa thành một luồng nước bọt đích chảy vào trong bụng, một luồng sung mãn đích linh lực tại thể nội khắp nơi lưu động lên tới."
+      },
+      "dich": "Thịt quả rất nhanh hóa thành một dòng chất lỏng chảy xuống dạ dày, tức thì một cỗ linh lực dồi dào tràn ra khắp nơi trong cơ thể.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 60,
+        "raw": "袁铭闭目运转九元诀，吸收这股灵力，法力波动逐渐高涨。",
+        "text": "Viên Minh nhắm mắt vận chuyển Cửu Nguyên Quyết, hấp thu cỗ này linh lực, pháp lực ba động dần dần tăng vọt."
+      },
+      "dich": "Viên Minh nhắm mắt vận chuyển Cửu Nguyên Quyết, hấp thu cỗ linh lực này, theo đó pháp lực ba động dần tăng vọt.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 61,
+        "raw": "一天一夜的时间很快过去。",
+        "text": "Một ngày một đêm đích thời gian trôi qua rất nhanh."
+      },
+      "dich": "Thời gian một ngày một đêm trôi qua rất nhanh.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 62,
+        "raw": "袁铭的气息豁然高涨，衣服无风自动，附近空气也流动震荡，好一会才恢复平静。",
+        "text": "Viên Minh đích khí tức thoạt nhiên tăng vọt, y phục không gió mà bay, phụ cận không khí cũng lưu động chấn động, một hồi lâu mới khôi phục bình tĩnh."
+      },
+      "dich": "Khí tức của Viên Minh đột nhiên tăng vọt, quần áo không gió mà bay, không khí xung quanh cũng chấn động lưu chuyển, sau một lúc lâu mới yên lặng trở lại.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 63,
+        "raw": "他睁开眼睛，嘴角露出笑容。",
+        "text": "Hắn mở to mắt, khóe miệng lộ ra tiếu dung."
+      },
+      "dich": "Hắn mở to mắt với nụ cười trên khóe miệng.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 64,
+        "raw": "接近百年年份的红芯灵桃果然药力强劲，即便没有炼制成丹药，里面蕴含的充沛灵气也令他惊喜万分，直接让他如愿突破了炼气六层。",
+        "text": "Tiếp cận trăm năm niên hạn đích đỏ tâm 灵 đào quả nhiên dược lực mạnh mẽ, mặc dù không có luyện chế thành đan dược, bên trong ẩn chứa sung mãn linh khí cũng làm hắn kinh hỉ vạn phần, trực tiếp khiến hắn như nguyện đột phá luyện khí sáu tầng."
+      },
+      "dich": "Hồng Tâm linh đào gần trăm năm quả nhiên dược lực mạnh mẽ, dù không luyện thành đan dược, linh khí dồi dào ẩn chứa bên trong nó vẫn khiến hắn kinh hỉ vạn phần, trực tiếp giúp hắn đột phá Luyện khí tầng sáu đúng như mong muốn.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 65,
+        "raw": "如此一来，收服灵兽的底气和自保之力又足了几分。",
+        "text": "Kể từ đó, thu phục linh thú tự tin cùng sức tự vệ lại nhiều thêm mấy phần."
+      },
+      "dich": "Từ đây, hắn lại có thêm mấy phần lực lượng để thu phục linh thú cũng như tự bảo vệ bản thân.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 66,
+        "raw": "第二日，袁铭和方格打了个招呼，然后申请了离宗信物，离开碧罗洞。",
+        "text": "Ngày thứ hai, Viên Minh cùng Phương Cách lên tiếng chào, sau đó xin rồi ly tông tín vật, rời khỏi Bích La Động."
+      },
+      "dich": "Ngày hôm sau, Viên Minh đến chào Phương Cách, thỉnh cầu tín vật rời tông rồi rời khỏi Bích La Động.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 67,
+        "raw": "碧罗洞弟子若要自行驯服灵兽的话，都是去十万大山深处寻找，那里凶兽众多，能找到合适的目标。",
+        "text": "Bích La Động đệ tử nếu muốn tự hành thuần phục linh thú lời, đều là đi Thập Vạn Đại Sơn chỗ sâu tìm kiếm, nơi đó hung thú rất nhiều, có thể tìm tới thích hợp mục tiêu."
+      },
+      "dich": "Đệ tử Bích La Động nếu mình tự đi thuần phục linh thú thì đều tới chỗ sâu trong Thập Vạn Đại Sơn để tìm kiếm, nơi đó hung thú đông đảo, có thể tìm được mục tiêu phù hợp.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 68,
+        "raw": "只是十万大山深处地方太大，要寻觅一头合适的灵兽，只能碰运气，很多人寻觅数月，也未必能找到心仪之兽，不但费时费力，更要冒偌大的危险。",
+        "text": "Chỉ là Thập Vạn Đại Sơn chỗ sâu địa phương quá lớn, muốn tìm kiếm một đầu thích hợp linh thú, chỉ có thể tìm vận may, rất nhiều người tìm kiếm mấy tháng, cũng chưa chắc có thể tìm tới phải lòng chi 兽, chẳng những tốn thời gian cố sức, càng phải bốc lên lớn như vậy đích nguy hiểm."
+      },
+      "dich": "Chỉ có điều chỗ sâu trong Thập Vạn Đại Sơn quá rộng, muốn tìm được một con linh thú phù hợp chỉ có thể dựa vào vận may, rất nhiều người tìm suốt mấy tháng chưa chắc đã tìm được linh thú mình muốn, chẳng những tốn sức mất thời gian mà còn tiềm ẩn rủi ro rất lớn.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 69,
+        "raw": "因为这个原因，大多数弟子的灵兽都是从驭兽堂中购买，甚少人会选择自行寻找。",
+        "text": "Bởi vì cái này nguyên nhân, đại đa số đệ tử đích linh thú đều là từ Ngự Thú Đường trung mua, rất ít người chọn tự hành tìm kiếm."
+      },
+      "dich": "Vì lý do này, đại đa số linh thú của đệ tử là mua từ Ngự Thú Đường, có rất ít người chọn cách tự mình tìm kiếm.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 70,
+        "raw": "不过袁铭却不担心这个，当初向三洞主请教驭兽术时，他便想好了去何处寻觅目标，就是那座雾中岛。",
+        "text": "Chẳng qua Viên Minh nhưng không lo lắng cái này, hồi đó hướng Tam động chủ thỉnh giáo ngự 兽 thuật thời, hắn liền muốn tốt đi nơi nào tìm kiếm mục tiêu, chính là toà kia trong đảo sương mù."
+      },
+      "dich": "Nhưng Viên Minh lại không gặp vấn đề này, lúc trước khi thỉnh giáo Tam động chủ về Ngự Thú Thuật, hắn đã tính sẵn chỗ để tìm kiếm mục tiêu, đó chính là hòn đảo sương mù kia.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 71,
+        "raw": "那座岛上奇异凶兽众多，随便抓上一头，都是不错的灵兽。",
+        "text": "Hòn đảo kia thượng kỳ dị hung thú rất nhiều, tùy tiện với lên một đầu, đều là không tệ đích linh thú."
+      },
+      "dich": "Trên hòn đảo kia có rất nhiều hung thú kỳ dị, bắt con nào cũng đều là linh thú không tệ.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 72,
+        "raw": "唯一麻烦的是岛屿周围那头黑色水怪，不过他现在今非昔比，也准备了一些应对之策。",
+        "text": "Duy nhất phiền toái chính là hòn đảo chung quanh đầu kia hắc sắc thủy quái, bất quá hắn hiện tại xưa đâu bằng nay, cũng chuẩn bị một chút ứng đối kế sách."
+      },
+      "dich": "Phiền toái duy nhất là con thủy quái màu đen lởn vởn xung quanh hòn đảo, có điều Viên Minh giờ đã khác xưa, hắn cũng đã chuẩn bị một số cách đối phó.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 73,
+        "raw": "袁铭离开宗门，很快来到了千芦湖岸边。",
+        "text": "Viên Minh rời khỏi tông môn, rất mau tới đến rồi nghìn lô ven bờ hồ."
+      },
+      "dich": "Viên Minh rời khỏi tông môn, rất nhanh đã đến bên bờ Thiên Lô hồ.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 74,
+        "raw": "他没有再绑一个木排，抬手朝湖面一挥，一艘小船显现而出，落在湖面。",
+        "text": "Hắn không tiếp tục buộc một cái bè gỗ, giơ tay hướng mặt hồ vung lên, một chiếc thuyền nhỏ hiển hiện mà ra, rơi vào mặt hồ."
+      },
+      "dich": "Hắn không làm bè gỗ nữa, đưa tay vung về phía mặt hồ, tức thì một con thuyền nhỏ hiện ra, rơi lên trên mặt hồ.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 75,
+        "raw": "这是袁铭请宗门内一个善于手工的弟子打造，水中的航行速度比之前的木排快得多。",
+        "text": "Đây là Viên Minh thỉnh trong tông môn một cái giỏi về thủ công đích đệ tử rèn, thủy trung đích đi tốc độ so trước đó đích bè gỗ nhanh hơn nhiều."
+      },
+      "dich": "Đây là Viên Minh nhờ một đệ tử giỏi thủ công trong tông môn chế tạo, tốc độ chèo thuyền trong nước nhanh hơn nhiều so với chiếc bè gỗ trước đó.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 76,
+        "raw": "他纵身上船，划动船桨，朝雾中岛方向行去。",
+        "text": "Hắn nhún người lên thuyền, huy động thuyền mái chèo, hướng trong đảo sương mù phương hướng bước đi."
+      },
+      "dich": "Hắn tung người nhảy lên thuyền, huy động mái chèo đưa thuyền tiến về phía đảo sương mù.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 77,
+        "raw": "一个时辰后，袁铭来到那片雾气特别浓郁的地方。",
+        "text": "Một lúc lâu sau, Viên Minh đi tới kia đám sương mù đặc biệt nồng đậm đích địa phương."
+      },
+      "dich": "Sau một canh giờ, Viên Minh đã tới chỗ có đám sương mù đặc biệt dày.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 78,
+        "raw": "他凭借着记忆力，加上数度祭起香炉腾空寻找，终于再次找到了那座雾中岛。",
+        "text": "Hắn bằng vào lấy trí nhớ, tăng thêm mấy lần tế lên lư hương bay lên không tìm kiếm, cuối cùng lần nữa tìm được rồi toà kia trong đảo sương mù."
+      },
+      "dich": "Dựa theo trí nhớ kết hợp với mấy lần dùng lư hương bay lên tìm kiếm, cuối cùng hắn đã lần nữa tìm đến hòn đảo trong sương mù.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 79,
+        "raw": "袁铭这次运气不错，没有碰到那只黑色水怪，不过保险起见，他还是距离老远便收起小船，利用香炉直接飞上岛，落在一片紫色树林中。",
+        "text": "Viên Minh lần này vận khí không tệ, không có đụng tới con kia hắc sắc thủy quái, chẳng qua lý do an toàn, hắn vẫn là cự ly thật xa liền thu hồi thuyền nhỏ, lợi dụng lư hương bay thẳng lên đảo, rơi vào một mảnh màu tím trong rừng cây."
+      },
+      "dich": "Viên Minh lần này khá may mắn, không đụng phải con thủy quái màu đen kia, có điều để an toàn, hắn vẫn thu con thuyền nhỏ từ chỗ cách đảo khá xa, tiếp đó dùng lư hương bay thẳng tới đảo, đáp xuống một mảng rừng cây màu tím.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 80,
+        "raw": "“不是那处黑松林……”他颇为失望。",
+        "text": "“Không phải chỗ kia rừng tùng đen ... ...” hắn có chút thất vọng."
+      },
+      "dich": "“Không phải chỗ rừng tùng đen...” Hắn hơi thất vọng.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 81,
+        "raw": "红芯灵桃效果显著，他原本想着能从黑松林那边登岛，将那些红芯灵桃尽数摘走，现在看来是不行了。",
+        "text": "Đỏ tâm 灵 đào hiệu quả rõ rệt, hắn vốn chỉ muốn năng từ rừng tùng đen bên kia lên đảo, đem những cái kia đỏ tâm 灵 đào hết thảy hái tẩu, hiện tại xem ra là không được rồi."
+      },
+      "dich": "Hồng Tâm linh đào hiệu quả rõ rệt nên hắn vốn còn tưởng có thể lên đảo từ rừng tùng đen bên kia, sau đó hái hết chỗ Hồng Tâm linh đào còn lại, bây giờ xem là không được.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 82,
+        "raw": "等事情办完，再去寻找那株果树吧。",
+        "text": "Đợi sự tình xong xuôi, lại đi tìm kiếm gốc kia cây ăn quả nhỉ."
+      },
+      "dich": "Chỉ có thể đợi khi xong việc rồi tìm gốc quả thụ đó sau.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 83,
+        "raw": "袁铭打量周围环境，看向附近的紫树，此树树叶呈现手掌形状，形似枫叶，散发出一股淡淡的馨香。",
+        "text": "Viên Minh đánh giá cảnh vật chung quanh, nhìn về phía phụ cận tử cây, này cây lá cây hiện ra bàn tay hình dạng, tương tự lá phong, tản mát ra một luồng nhàn nhạt hương thơm."
+      },
+      "dich": "Viên Minh quan sát cảnh vật xung quanh, nhìn về phía cây tím bên cạnh, thấy lá cây này lớn bằng bàn tay, trông như lá phong, hơn nữa còn tỏa ra mùi thơm thoang thoảng.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 84,
+        "raw": "他这段时间恶补了很多有关十万大山的知识，包括其中的树木植被，这些紫色枫树，他却没有在典籍上见过，之前的黑色松树也是。",
+        "text": "Hắn trong khoảng thời gian này bù lại rất nhiều có quan hệ Thập Vạn Đại Sơn đích tri thức, bao gồm trong đó đích cây cối thảm thực vật, những này màu tím cây phong, hắn nhưng không có tại trên điển tịch gặp qua, trước đó đích hắc sắc cây tùng cũng là."
+      },
+      "dich": "Hắn trong thời gian qua đã bổ sung thêm rất nhiều kiến thức về Thập Vạn Đại Sơn, trong đó bao gồm cả cây cối, thảm thực vật, nhưng hắn lại chưa từng thấy nó trên điển tịch, cây tùng đen trước kia cũng vậy.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 85,
+        "raw": "袁铭再看向其他草木，也都是陌生之物。",
+        "text": "Viên Minh lại nhìn về phía cái khác thảo mộc, cũng đều là xa lạ chi vật."
+      },
+      "dich": "Viên Minh nhìn về phía những cây cỏ khác, nhưng tất cả đều xa lạ.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 86,
+        "raw": "“这座岛颇为古怪啊，植被仿佛完全脱离十万大山的地方，难道是因为四面环水的缘故？”他心中暗自嘀咕道。",
+        "text": "“Toà đảo này có chút cổ quái a, thảm thực vật phảng phất hoàn toàn thoát ly Thập Vạn Đại Sơn đích địa phương, chẳng lẽ là bởi vì tứ phía bị nước bao quanh nguyên nhân?” trong lòng của hắn âm thầm nói thầm."
+      },
+      "dich": "“Hòn đảo này hơi cổ quái, thảm thực vật dường như hoàn toàn khác với Thập Vạn Đại Sơn, chẳng lẽ là do bốn phía bị nước bao quanh?” hắn âm thầm tự hỏi.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 87,
+        "raw": "袁铭没有立刻进岛，而是先在枫林内寻到一处安全之地，将法力彻底恢复，这才朝岛内进发。",
+        "text": "Viên Minh không có lập tức tiến đảo, mà là trước tiên ở rừng phong nội tìm được một chỗ chỗ an toàn, đem pháp lực triệt để khôi phục, lúc này mới hướng trong đảo xuất phát."
+      },
+      "dich": "Viên Minh không tiến vào trong đảo ngay, mà trước tiên tìm một chỗ an toàn trong rừng phong, khôi phục hoàn toàn pháp lực, xong mới cất bước đi vào trong đảo.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 88,
+        "raw": "这片紫枫林内似乎没有凶兽，直到走出树林，也没有任何危险袭来。",
+        "text": "Mảnh này Tử Phong trong rừng tựa hồ không có hung thú, thẳng đến đi ra rừng cây, cũng không có bất kỳ nguy hiểm nào đánh úp lại."
+      },
+      "dich": "Trong mảnh rừng phong tím này hình như không có hung thú, đợi tới tận khi ra khỏi rừng cây vẫn không có nguy hiểm gì xuất hiện.",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 89,
+        "raw": "他继续往前行去，前方的雾气变得稀疏，一片开阔的沼泽之地出现在前方，以他的视力，能看出十几丈外。",
+        "text": "Hắn tiếp tục hướng về phía trước đi, phía trước sương mù trở nên thưa thớt, một mảnh khoáng đạt đích đầm lầy chi địa xuất hiện ở phía trước, dĩ thị lực của hắn, năng nhìn ra vài chục trượng ngoại."
+      },
+      "dich": "Hắn tiếp tục đi về phía trước. Đằng trước sương mù càng ngày càng mỏng, trước mặt xuất hiện một mảnh đầm lầy trống trải, dùng nhãn lực của hắn có thể nhìn xa khoảng mấy chục trượng",
+      "approved": true
+    },
+    {
+      "chinese": {
+        "index": 90,
+        "raw": "沼泽中遍地青黑色的淤泥，举目望去，到处都是茂盛的水草，偶尔还有几棵树木耸立，空气中更弥漫着腐烂的气味。",
+        "text": "Trong đầm lầy khắp nơi màu xanh đen đích nước bùn, đưa mắt nhìn lại, khắp nơi đều là tươi tốt đích bèo, ngẫu nhiên còn có mấy gốc cây mộc cao vút, trong không khí càng tràn ngập hư thối đích mùi."
+      },
+      "dich": "Đầm lầy tràn ngập bùn đất màu xanh đen, phóng mắt nhìn khắp đều là cỏ nước tốt tươi, thỉnh thoảng còn có mấy cây thân gỗ mọc thẳng, trong không khí tràn ngập mùi thối rữa.",
+      "approved": true
+    }
+  ],
   "next": {
     "id": 97,
-    "title": "Chương 97: Sơ ngự thú"
+    "title": "Chương 97"
   },
   "previous": {
     "id": 95,
-    "title": "Chương 95: Toàn trả"
+    "title": "Chương 95"
   },
   "title": {
     "convert": "Chương 96",
     "dich": "Chương 96"
-  },
-  "lines": [
-    {
-      "convert": "Trung niên chấp sự thần tình phức tạp mà tiếp nhận Viên Minh đưa tới yêu bài, xoay người lần nữa tiến vào gian phòng, theo sau mang tới một bản hôi hạt sắc da thú mặt bìa thô ráp chép tay.",
-      "dich": "Chấp sự trung niên sau khi nhận lệnh bài từ tay Viên Minh với vẻ mặt phức tạp, lại lần nữa xoay người đi vào phòng, tiếp đó mang ra một cuốn sổ tay trông khá cục mịch với phần bìa làm từ da thú màu nâu xám.",
-      "suggest": "Thần tình Chấp sự trung niên phức tạp tiếp nhận yêu bài mà Viên Minh đưa tới, xoay người bước vào trong gian phòng, sau đó mang theo một bản sao bìa da thú màu xám tro."
-    },
-    {
-      "convert": "Viên Minh tiếp nhận sau đó, lập tức tựu đi tìm địa phương lật duyệt.",
-      "dich": "Viên Minh nhận lấy rồi lập tức tìm một chỗ ngồi đọc.",
-      "suggest": "Viên Minh nhận lệnh, lập tức đi tìm kiếm một chỗ kín đáo."
-    },
-    {
-      "convert": "Một lần này, hắn nhìn tới càng nhanh, chỉ bất quá bởi vì nội dung phong phú duyên cớ, ước chừng nhìn hơn một cái canh giờ, mới toàn bộ nhìn xong.",
-      "dich": "Lần này hắn còn đọc nhanh hơn trước, có điều vì nội dung rất nhiều nên phải tốn hơn một canh giờ mới xem hết được.",
-      "suggest": "Lần này hắn nhìn càng nhanh, có điều bởi vì nội dung phong phú, phải mất hơn một canh giờ hắn mới xem xong."
-    },
-    {
-      "convert": "Tại này bản Nhị động chủ hái thuốc chép tay trong, hắn như nguyện tìm được rồi liên quan Hắc Lân Quả cùng Âm Tủy Dịch miêu tả, tiền giả là sinh trưởng ở Thập Vạn Đại Sơn trung một chút bóng râm vách núi thượng hắc sắc quả tử.",
-      "dich": "Từ trong cuốn sổ tay hái thuốc của Nhị động chủ này, hắn thành công tìm được phần miêu tả liên quan đến Hắc Lân quả và Âm Tủy dịch.",
-      "suggest": "Trong quyển sổ tay của Nhị động chủ, hắn như nguyện tìm được Hắc Lân Quả và Âm Tủy Dịch liên quan, tiền giả là một quả trứng màu đen mọc ở trên vách núi Thập Vạn Đại Sơn."
-    },
-    {
-      "convert": "Mà hậu giả thì là ham muốn từ đặc biệt độc trùng thân thượng chắt lọc tủy dịch sống, đều là luyện chế đan dược dùng đặc thù linh tài.",
-      "dich": "Hắc Lân quả là một loại quả màu đen sinh trưởng trên một số vách núi thiếu ánh nắng trong Thập Vạn Đại Sơn, còn Âm Tủy dịch là dịch tủy rút từ trên người một loại trùng độc đặc biệt.",
-      "suggest": "Mà hậu giả thì muốn từ trong tủy dịch sống đặc biệt của độc trùng chắt lọc ra, đều là linh tài đặc thù luyện chế đan dược."
-    },
-    {
-      "convert": "Này bản chép tay trung ghi chép linh dược linh tài càng thêm trân quý, so < Bách Thảo Tập > chi lưu tất nhiên là cao hơn một cái đẳng cấp, cực đại phong phú Viên Minh tại này một phương diện tri thức.",
-      "dich": "Cả hai thứ này đều là linh tài đặc thù để luyện chế đan dược.",
-      "suggest": "Bản ghi chép tay này ghi chép linh dược linh tài càng thêm trân quý, so với bản ghi chép trong Bách Thảo Tập tất nhiên là cao hơn một đẳng cấp, cực kỳ phong phú kiến thức của Viên Minh ở phương diện tri thức."
-    },
-    {
-      "convert": "Chờ hắn hoàn trả chép tay sau đó, liền tại trung niên chấp sự không hiểu ánh mắt cùng thở dài trung, ly khai Quy Tàng Các.",
-      "dich": "Hơn nữa linh tài, linh dược được ghi trong cuốn sổ tay này còn rất quý hiếm, hiển nhiên cao cấp hơn một bậc so với những loại trong 'Bách Thảo Tập', điều này giúp kiến thức của Viên Minh về mảng này phong phú hơn rất nhiều.",
-      "suggest": "Đợi hắn trả lại bản sao chép tay, Chấp sự trung niên liền thở dài một hơi, rời khỏi Quy Tàng Các."
-    },
-    {
-      "convert": "Nhắc tới cũng xảo, trở về Hỏa Luyện Đường nửa đường thượng, Viên Minh xa xa mà nhìn thấy được một cái quen thuộc nhân ảnh, chính là Ô Lỗ.",
-      "dich": "Sau khi quay về trả lại cuốn sổ tay, Viên Minh rời khỏi Quy Tàng Các trong ánh mắt khó hiểu và tiếng thở dài của chấp sự trung niên.",
-      "suggest": "Nói đến cũng xảo quyệt, trên quãng đường trở về Hỏa Luyện Đường, Viên Minh từ xa đã trông thấy một bóng người quen thuộc, chính là Ô Lỗ."
-    },
-    {
-      "convert": "Hậu giả cũng phát hiện hắn, không có trốn tránh, mà là chủ động hướng hắn đã đi qua tới.",
-      "dich": "Nhắc đến cũng khéo, giữa đường trở về Hỏa Luyện Đường, Viên Minh nhìn thấy một bóng người quen thuộc ở phía xa xa, chính là Ô Lỗ.",
-      "suggest": "Sau đó hậu bối cũng phát hiện ra hắn, không trốn tránh mà chủ động đi qua phía hắn."
-    },
-    {
-      "convert": "\"Viên huynh, hồi lâu không thấy.\"",
-      "dich": "Ô Lỗ cũng phát hiện hắn.",
-      "suggest": "\"Viên huynh, đã lâu không thấy huynh.\""
-    },
-    {
-      "convert": "Ô Lỗ chủ động ôm quyền, trên mặt treo lấy tiếu ý.",
-      "dich": "Y không có tránh né mà chủ động bước về phía hắn.",
-      "suggest": "Ô Lỗ chủ động ôm quyền, trên mặt treo lên tiếu ý."
-    },
-    {
-      "convert": "\"Ô Lỗ huynh, làm sao ngươi tới bên này?\"",
-      "dich": "\"Viên huynh, đã lâu không gặp.\" Ô Lô chủ động ôm quyền chào hỏi với nụ cười trên miệng.",
-      "suggest": "\"Ô Lỗ huynh, làm sao huynh lại tới đây?\""
-    },
-    {
-      "convert": "Viên Minh nhìn chung quanh một mắt, không có nhìn thấy Khôn Đồ.",
-      "dich": "\"Ô Lỗ huynh, sao ngươi lại đến bên này?\"",
-      "suggest": "Viên Minh đảo mắt nhìn quanh một vòng, không thấy Khôn Đồ đâu."
-    },
-    {
-      "convert": "\"A, ta vừa chấp hành nhiệm vụ trở lại, đang muốn phản hồi Ngự Thú Đường.",
-      "dich": "Viên Minh đảo mắt nhìn xung quanh, không thấy Khôn Đồ, bèn hỏi.",
-      "suggest": "\"A, ta vừa mới nhận nhiệm vụ trở về, đang định quay lại Ngự Thú Đường."
-    },
-    {
-      "convert": "Cùng đi đi?\"",
-      "dich": "\"À, ta mới hoàn thành nhiệm vụ trở về, đang định quay lại Ngự Thú Đường.",
-      "suggest": "Cùng đi chứ?\""
-    },
-    {
-      "convert": "Ô Lỗ mặt lộ tiếu dung, nói ra.",
-      "dich": "Cùng đi chứ?\"",
-      "suggest": "Ô Lỗ lộ vẻ tươi cười, nói."
-    },
-    {
-      "convert": "Viên Minh nhẹ gật đầu, hai người kề vai sát cánh hướng Hỏa Luyện Đường cùng Ngự Thú Đường phương hướng đi đến.",
-      "dich": "Ô Lỗ mỉm cười nói.",
-      "suggest": "Viên Minh khẽ gật đầu, hai người kề vai sát cánh đi về phía Hỏa Luyện Đường và Ngự Thú Đường."
-    },
-    {
-      "convert": "\"Nói tới, thật là hâm mộ Viên huynh, vận khí thực sự không tệ, có thể bị Tam động chủ thưởng thức.\"",
-      "dich": "Viên Minh khẽ gật đầu.",
-      "suggest": "\"Nói tới, thật sự là hâm mộ Viên huynh, vận khí thực sự không tệ, có thể được tam động chủ thưởng thức.\""
-    },
-    {
-      "convert": "Ô Lỗ chủ động mở miệng.",
-      "dich": "Hai người liền sóng vai bước về phía Ngự Thú Đường và Hỏa Luyện Đường.",
-      "suggest": "Ô Lỗ chủ động mở miệng."
-    },
-    {
-      "convert": "\"So với ta, ngươi trái lại càng làm người hiếu kỳ, thế nào cũng đột nhiên tiến vào Bích La Động?\"",
-      "dich": "\"Nhắc tới đúng là hâm mộ Viên huynh, vận số thực sự không tệ, có thể được Tam động chủ coi trọng.\"",
-      "suggest": "\"So với ta, ngươi trái lại càng làm cho người ta hiếu kỳ, sao lại đột nhiên tiến vào Bích La Động?\""
-    },
-    {
-      "convert": "Viên Minh cười cười, không có hồi đáp, mà là lời thoại xoay chuyển, đem chủ đề dẫn tới đối phương thân thượng.",
-      "dich": "Ô Lỗ chủ động gợi chuyện.",
-      "suggest": "Viên Minh cười cười, không trả lời, mà xoay chuyển chủ đề, dẫn dắt đối phương đi tới."
-    },
-    {
-      "convert": "Lần trước nhìn thấy đối phương thời điểm, hắn còn đi theo Khôn Đồ bên thân, có chút chủ đề hắn bất tiện nói, cũng không muốn nói.",
-      "dich": "\"So với ta, ngươi lại càng khiến người ta hiếu kỳ, làm sao cũng đột nhiên tiến vào Bích La động?\"",
-      "suggest": "Lần trước khi thấy đối phương, hắn còn đi theo bên người Khôn Đồ, có vài chuyện hắn không tiện nói, cũng không muốn nói."
-    },
-    {
-      "convert": "Ô Lỗ trái lại không có che giấu, cứ nói nói: \"Khôn Đồ đối với ta coi như thưởng thức, hắn thành rồi nội môn đệ tử sau đó, liền dùng chính mình quyền lực, đem ta thu làm nô bộc, theo bên người làm cái chó săn.\"",
-      "dich": "Viên Minh chỉ cười cười không đáp, đoạn đổi chủ đề, đẩy câu chuyện sang người đối phương.",
-      "suggest": "Ô Lỗ trái lại không giấu diếm, cứ nói: \"Khôn Đồ coi ta như thưởng thức, sau khi hắn trở thành đệ tử nội môn, liền dùng quyền lực của mình, thu ta làm nô bộc, sau đó theo ta làm chó săn,\""
-    },
-    {
-      "convert": "Nghe được \"Chó săn\" cái này thuyết pháp, Viên Minh không khỏi nhịn không được cười lên.",
-      "dich": "Lần trước khi nhìn thấy đối phương, y đang đi theo bên người Khôn Đồ nên có mấy câu hắn không tiện nói, cũng không muốn nói.",
-      "suggest": "Nghe được lời nói của \"Chó săn\", Viên Minh không kìm được mà cười lên."
-    },
-    {
-      "convert": "\"Mới vừa nghe ngươi nói làm nhiệm vụ trở lại, lẽ ra...... Hành Chấp Đường bên kia, nô bộc tương ứng không thể tiếp nhận nhiệm vụ a?\"",
-      "dich": "Ô Lỗ không những không che giấu mà thẳng thắn nói: \"Khôn Đồ xem như cũng thưởng thức ta, sau khi hắn trở thành đệ nội môn liền dùng quyền lực của bản thân thu ta làm nô bộc, làm chó săn bên người.\"",
-      "suggest": "\"Mới nghe ngươi nói làm nhiệm vụ trở lại, lẽ ra bên Hành Chấp Đường kia, nô bộc không thể tiếp nhận nhiệm vụ sao?\""
-    },
-    {
-      "convert": "Viên Minh nghi hoặc nói.",
-      "dich": "Nghe đến cách ví von \"chó săn\" này, Viên Minh không khỏi bật cười.",
-      "suggest": "Viên Minh thắc mắc."
-    },
-    {
-      "convert": "Nghe được cái này vấn đề, Ô Lỗ rõ ràng dừng một nhoáng.",
-      "dich": "\"Mới rồi nghe ngươi nói làm nhiệm vụ trở về, nhưng theo quy định bên Hành Chấp Đường thì nô bộc không thể nhận nhiệm vụ chứ nhỉ?\"",
-      "suggest": "Nghe được vấn đề này, Ô Lỗ rõ ràng hơi dừng lại một chút."
-    },
-    {
-      "convert": "Hắn tả hữu nhìn quanh một vòng, phát hiện bốn phía tịnh không người khác, mới lại kề tai Viên Minh.",
-      "dich": "Viên Minh nghi hoặc hỏi.",
-      "suggest": "Hắn đảo mắt nhìn quanh một vòng, phát hiện bốn phía không có ai khác, bèn ghé sát tai Viên Minh."
-    },
-    {
-      "convert": "Viên Minh bị hắn này đột nhiên cử động, khiến cho có chút kỳ quái, nhưng cũng không có trốn tránh, phản đem đám tai tiến qua.",
-      "dich": "Nghe tới vấn đề này, Ô Lỗ rõ ràng hơi ngưng lại một chút.",
-      "suggest": "Viên Minh bị hành động này của hắn làm cho có chút kỳ quái, nhưng cũng không trốn tránh, mà ngược lại còn lập tức bịt lỗ tai lại."
-    },
-    {
-      "convert": "\"Đây không phải Hành Chấp Đường nhiệm vụ, là Thú Nô Đường nhiệm vụ.\"",
-      "dich": "Y nhìn xung quanh một vòng, thấy bốn phía không có ai khác, mới ghé đầu vào tai Viên Minh.",
-      "suggest": "\"Đây không phải nhiệm vụ Hành Chấp Đường, mà là nhiệm vụ của Thú Nô Đường.\""
-    },
-    {
-      "convert": "Liền nghe Ô Lỗ thanh âm đè thấp, nói ra.",
-      "dich": "Viên Minh bị hành động bất ngờ của y làm cho có chút kỳ quái, nhưng cũng không né tránh, trái lại còn ghé tai tới.",
-      "suggest": "Nghe giọng Ô Lỗ trầm xuống, liền nói."
-    },
-    {
-      "convert": "Thú Nô Đường nhiệm vụ?",
-      "dich": "\"Đây không phải nhiệm vụ của Hành Chấp Đường, là của Thú Nô đường.\"",
-      "suggest": "Nhiệm vụ của Thú Nô Đường?"
-    },
-    {
-      "convert": "Viên Minh trước là một trận nghi hoặc, nhưng lập tức kịp phản ứng.",
-      "dich": "Ô Lỗ nói nhỏ.",
-      "suggest": "Viên Minh ban đầu có chút nghi hoặc, nhưng lập tức phản ứng kịp."
-    },
-    {
-      "convert": "\"Ngươi nói là đi bắt dã nhân nhiệm vụ?\"",
-      "dich": "Nhiệm vụ của Thú Nô đường?",
-      "suggest": "\"Ngươi nói là đi bắt dã nhân nhiệm vụ?\""
-    },
-    {
-      "convert": "Viên Minh truy vấn.",
-      "dich": "Viên Minh đầu tiên là cảm thấy rất ngờ vực, nhưng lập tức phản ứng kịp.",
-      "suggest": "Viên Minh truy hỏi."
-    },
-    {
-      "convert": "\"Ngươi biết rõ?\"",
-      "dich": "\"Ngươi nói là nhiệm vụ bắt dã nhân?\"",
-      "suggest": "\"Ngươi biết?\""
-    },
-    {
-      "convert": "Ô Lỗ kinh ngạc nói.",
-      "dich": "Viên Minh hỏi.",
-      "suggest": "Ô Lỗ kinh ngạc nói."
-    },
-    {
-      "convert": "\"Á à, Ô Lỗ huynh là quên rồi sao, chúng ta là thế nào trở thành Phi Mao thú nô sao?\"",
-      "dich": "\"Ngươi biết?\"",
-      "suggest": "\"Á à, Ô Lỗ huynh đã quên rồi sao, chúng ta làm sao mà trở thành Phi Mao thú nô được?\""
-    },
-    {
-      "convert": "Viên Minh cười nói.",
-      "dich": "Ô Lỗ kinh ngạc hỏi lại.",
-      "suggest": "Viên Minh cười đáp."
-    },
-    {
-      "convert": "Ô Lỗ một đập cái ót, bừng tỉnh nói: \"Thiếu chút quên rồi, chúng ta cũng không phải là cùng dã nhân một khởi bị trảo tiến vào sao?",
-      "dich": "\"Ha ha, Ô Lỗ huynh quên rồi sao, chúng ta làm sao trở thành Phi Mao thú nô?\"",
-      "suggest": "Ô Lỗ vỗ vỗ cái ót, bừng tỉnh nói: \"Chúng ta cũng không phải cùng một dã nhân tiến vào sao?"
-    },
-    {
-      "convert": "Nói tới, cùng đi đấy, dường như cũng liền chỉ có chúng ta hai cái còn sống sót.\"",
-      "dich": "Viên Minh cười nói.",
-      "suggest": "Nói đến, cùng đi thì có lẽ cũng chỉ có hai người chúng ta còn sống.\""
-    },
-    {
-      "convert": "Nghe thấy lời ấy, Viên Minh lờ mờ cảm thấy đâu đó có chút kỳ quặc, có thể nhất thời lại nghĩ không ra.",
-      "dich": "Ô Lỗ vỗ trán một cái, giật mình nói: \"Mém quên, chúng ta không phải là bị về cùng với dã nhân sao?",
-      "suggest": "Nghe xong lời này, Viên Minh lờ mờ cảm thấy có điều gì đó kỳ quặc, nhưng nhất thời lại không nghĩ ra được."
-    },
-    {
-      "convert": "\"Không, còn có cái kia Song linh căn gia hỏa, ta nhớ không lầm lời nói, giống như kêu cái gì Y Quả?\"",
-      "dich": "Nói đi cũng phải nói lại, hình như cũng chỉ có hai chúng ta còn sống.\"",
-      "suggest": "\"Không, còn có gia hỏa Song linh căn kia, ta nhớ không lầm thì tên đó gọi là Y Quả gì đó.\""
-    },
-    {
-      "convert": "Viên Minh nói ra.",
-      "dich": "Nghe lời này, Viên Minh mơ hồ cảm thấy có chút không được tự nhiên, nhưng nhất thời lại nghĩ không ra.",
-      "suggest": "Viên Minh nói."
-    },
-    {
-      "convert": "\"Đúng, còn có hắn...... Bất quá, hắn cùng chúng ta cảnh ngộ lại bất đồng, như nay sợ rằng đã là nội môn đệ tử rồi.\"",
-      "dich": "\"Không, còn có gia hỏa Song linh căn kia nữa, nếu ta nhớ không nhầm, hắn gọi là Y Quả thì phải?\"",
-      "suggest": "\"Đúng, còn có hắn ...... Nhưng cảnh ngộ của hắn và chúng ta lại khác, hôm nay sợ rằng đã là đệ tử nội môn rồi.\""
-    },
-    {
-      "convert": "Ô Lỗ có chút thổn thức nói.",
-      "dich": "Viên Minh nói.",
-      "suggest": "Ô Lỗ thổn thức nói."
-    },
-    {
-      "convert": "\"Ngươi tại sao lại tiếp nhận Thú Nô Đường nhiệm vụ?\"",
-      "dich": "\"Ừm, còn hắn nữa ... Có điều, cảnh ngộ của hắn lại khác chúng ta, hiện tại chỉ e đã là đệ tử nội môn rồi.\"",
-      "suggest": "\"Tại sao ngươi lại tiếp nhận nhiệm vụ của Thú Nô Đường?\""
-    },
-    {
-      "convert": "Viên Minh truy vấn.",
-      "dich": "Ô Lỗ thổn thức nói.",
-      "suggest": "Viên Minh truy hỏi."
-    },
-    {
-      "convert": "Hắn có thể chưa quên, lúc trước ngân miêu để hắn tìm hiểu, Bích La Động đi bắt dã nhân nguyên nhân sự tình.",
-      "dich": "\"Người tại sao lại nhận nhiệm vụ của Thú Nô đường?\"",
-      "suggest": "Hắn vẫn chưa quên, lúc trước mèo bạc để hắn tìm hiểu, Bích La Động đi bắt dã nhân là chuyện gì."
-    },
-    {
-      "convert": "\"Khôn Đồ bàn giao đấy, thiết nghĩ biện pháp đủ khiến ta chuyển thành ký danh đệ tử.\"",
-      "dich": "Viên Minh hỏi.",
-      "suggest": "\"Khôn Đồ bàn giao, thiết nghĩ biện pháp để ta chuyển thành đệ tử ký danh.\""
-    },
-    {
-      "convert": "Ô Lỗ nói ra.",
-      "dich": "Hắn cũng không quên việc tìm hiểu nguyên nhân mà Bích La Động bắt dã nhân mà mèo bạc nhờ lúc trước.",
-      "suggest": "Ô Lỗ nói."
-    },
-    {
-      "convert": "\"Hắn đối với ngươi trái lại chân thực coi trọng.\"",
-      "dich": "\"Khôn Đồ giao phó, còn nói sẽ nghĩ cách để ta có thể trở thành đệ tử ký danh.\"",
-      "suggest": "\"Hắn đối với ngươi thật sự coi trọng.\""
-    },
-    {
-      "convert": "Viên Minh nói ra.",
-      "dich": "Ô Lô đáp.",
-      "suggest": "Viên Minh nói."
-    },
-    {
-      "convert": "\"Dưỡng một đầu hảo dụng chó mà thôi.\"",
-      "dich": "\"Hắn đúng là rất coi trọng ngươi.\"",
-      "suggest": "\"Dưỡng một đầu chó tốt mà thôi.\""
-    },
-    {
-      "convert": "Ô Lỗ tự giễu cười cười, nói ra.",
-      "dich": "Viên Minh nói.",
-      "suggest": "Ô Lỗ cười cười, nói."
-    },
-    {
-      "convert": "\"Năm đó bị trảo lúc ta tựu hiếu kỳ, ngươi nói bọn hắn tại sao phải trảo những thứ này dã nhân?\"",
-      "dich": "\"Nuôi một con chó biết việc mà thôi.\"",
-      "suggest": "\"Năm đó ta bị bắt, rất hiếu kỳ, ngươi nói bọn chúng vì sao lại phải bắt những dã nhân này?\""
-    },
-    {
-      "convert": "Viên Minh tính thăm dò mà hỏi thăm.",
-      "dich": "Ô Lỗ cười tự giễu một tiếng rồi nói.",
-      "suggest": "Viên Minh toan dò hỏi."
-    },
-    {
-      "convert": "Ô Lỗ thăm thẳm nhìn Viên Minh một mắt, tựa hồ hơi có chần chờ, hỏi ngược lại: \"Chẳng lẽ không phải là vì tuyển chọn thú nô sao?\"",
-      "dich": "\"Năm đó khi bị bắt ta rất thắc mắc, ngươi nói thử xem vì sao bọn chúng lại muốn bắt những dã nhân kia?\"",
-      "suggest": "Ô Lỗ nhìn Viên Minh bằng con mắt dò xét, tựa hồ hơi do dự, hỏi ngược lại: \"Chẳng lẽ là vì tuyển chọn thú nô sao?\""
-    },
-    {
-      "convert": "\"Có thể những thứ kia không có linh căn dã nhân, cũng không cần phải toàn bộ diệt sát a?\"",
-      "dich": "Viên Minh dò hỏi.",
-      "suggest": "\"Có thể những dã nhân không có linh căn kia, cũng không cần phải toàn bộ diệt sát sao?\""
-    },
-    {
-      "convert": "Viên Minh truy vấn.",
-      "dich": "Ô Lỗ nhìn thật sâu Viên Minh một chút, có vẻ hơi do dự rồi hỏi ngược lại: \"Chẳng lẽ không phải vì chọn lựa thú nô sao?\"",
-      "suggest": "Viên Minh truy hỏi."
-    },
-    {
-      "convert": "\"Ta đây tựu không biết rõ rồi.\" Ô Lỗ lắc đầu nói.",
-      "dich": "\"Nhưng cũng không cần thiết phải giết hết những dã nhân không có linh căn kia chứ?\"",
-      "suggest": "\"Ta cũng không biết rõ.\" Ô Lỗ lắc đầu nói."
-    },
-    {
-      "convert": "Nói xong, hắn vừa cười lấy nhìn hướng Viên Minh, nói ra: \"Ngươi muốn thật muốn làm rõ ràng, không ngại cũng đi Thú Nô Đường tiếp nhận nhiệm vụ, thù lao còn rất cao đấy.\"",
-      "dich": "Viên Minh hỏi.",
-      "suggest": "Nói xong, hắn vừa cười vừa nhìn Viên Minh, nói: \"Nếu ngươi thực sự muốn biết, không ngại cũng tới Thú Nô Đường nhận nhiệm vụ, thù lao còn rất cao.\""
-    },
-    {
-      "convert": "\"Ta chính là thuận miệng hỏi han, hiện tại cũng không như vậy nhiều thời gian.\"",
-      "dich": "\"Ta cũng không biết nữa.\" Ô Lỗ lắc đầu đáp.",
-      "suggest": "\"Ta chỉ thuận miệng hỏi thăm, hiện tại cũng không có nhiều thời gian như vậy.\""
-    },
-    {
-      "convert": "Viên Minh cười nói.",
-      "dich": "Nói xong, y mỉm cười nhìn về phía Viên Minh rồi nói tiếp: \"Nếu ngươi thực sự muốn biết rõ ngọn ngành, chi bằng cũng đến Thú Nô đường nhận nhiệm vụ đi, thù lao rất cao đấy.\"",
-      "suggest": "Viên Minh cười đáp."
-    },
-    {
-      "convert": "Đang khi nói chuyện, hai người đã đi tới dưới núi, tự mình tạm biệt một tiếng, phân biệt hướng lấy hai tòa sơn phong phương hướng rời đi.",
-      "dich": "\"Ta thuận miệng hỏi chút thôi chứ hiện tại không có nhiều thời gian như vậy.\"",
-      "suggest": "Trong khi nói chuyện, hai người đã đi tới dưới núi, tự mình tạm biệt một tiếng, phân biệt rời đi về phía hai ngọn núi."
-    },
-    {
-      "convert": "Kế tiếp thời kì, Viên Minh bắt đầu khổ luyện Mộc Lao Thuật cùng Mộc Ẩn Thuật.",
-      "dich": "Viên Minh cười đáp.",
-      "suggest": "Thời gian tiếp theo, Viên Minh bắt đầu khổ luyện Mộc Lao Thuật và Mộc Ẩn Thuật."
-    },
-    {
-      "convert": "Minh Nguyệt Quyết tầng thứ nhất đã tu thành, tại cường đại thần hồn gia trì hạ, hắn chỉ dùng nửa tháng, tựu sơ bộ nắm vững rồi hai môn pháp thuật.",
-      "dich": "Trong khi nói chuyện, hai người đã tới dưới núi, sau khi chào tạm biệt nhau liền tách ra rời đi theo hướng hai ngọn núi.",
-      "suggest": "Tầng thứ nhất Minh Nguyệt Quyết đã tu thành, dưới sự gia trì của thần hồn cường đại, hắn chỉ dùng nửa tháng đã nắm chắc được hai môn pháp thuật."
-    },
-    {
-      "convert": "Vào đêm, thanh lãnh nguyệt quang từ cửa sổ chiếu xạ vào.",
-      "dich": "Trong những ngày sau đó, Viên Minh bắt đầu khổ luyện Mộc Lao thuật và Mộc Ẩn thuật.",
-      "suggest": "Vào đêm, ánh trăng trong veo từ cửa sổ chiếu vào."
-    },
-    {
-      "convert": "Viên Minh vận chuyển Minh Nguyệt Quyết, chậm rãi thu công, mở to ánh mắt.",
-      "dich": "Nhờ việc tu thành Minh Nguyệt Quyết tầng thứ nhất, có được sự gia trì của thần hồn mạnh mẽ, hắn chỉ mất nửa tháng đã cơ bản thành thạo môn pháp thuật.",
-      "suggest": "Viên Minh vận chuyển Minh Nguyệt Quyết chậm rãi thu công, mở to mắt."
-    },
-    {
-      "convert": "Từ khi Minh Nguyệt Quyết tầng thứ nhất viên mãn, tiếp tục tu luyện xuống dưới, hồn lực tăng trưởng trên diện rộng trì hoãn, hai ngày này càng là triệt để hoàn toàn dừng lại.",
-      "dich": "Ban đêm, ánh trăng lạnh lẽo từ cửa sổ chiếu vào.",
-      "suggest": "Từ khi Minh Nguyệt Quyết đạt tới tầng thứ nhất, tiếp tục tu luyện, tốc độ tăng trưởng của hồn lực trên diện rộng đã chậm đi rất nhiều, hai ngày này đã hoàn toàn ngừng lại."
-    },
-    {
-      "convert": "\"Nhìn tới Minh Nguyệt Quyết tu luyện đạt đến bình cảnh, ngân miêu để ta tìm kia bốn kiện linh tài, có lẽ chính là đột phá bình cảnh chi vật?",
-      "dich": "Viên Minh vận chuyển Minh Nguyệt Quyết, chậm rãi thu công rồi mở to hai mắt.",
-      "suggest": "\"Xem ra Minh Nguyệt Quyết đã tu luyện đến bình cảnh, Ngân miêu bảo ta tìm bốn kiện Linh tài, có lẽ chính là vật đột phá bình cảnh?"
-    },
-    {
-      "convert": "Được mau chóng gom đủ rồi.\"",
-      "dich": "Từ khi Minh Nguyệt Quyết tầng thứ nhất viên mãn, hắn vẫn tiếp tục tu luyện nhưng hồn lực tăng trưởng rất chậm, thậm chí hai ngày gần đây còn hoàn toàn dừng lại.",
-      "suggest": "Được rồi mau chóng gom đủ.\""
-    },
-    {
-      "convert": "Hắn lẩm bẩm tự nói.",
-      "dich": "\"Xem ra Minh Nguyệt Quyết tu luyện đã tới bình cảnh, mèo bạc bảo ta tìm bốn món linh tài kia, có lẽ chính là thứ để đột phá bình cảnh?",
-      "suggest": "Hắn lẩm bẩm tự nói."
-    },
-    {
-      "convert": "Viên Minh không có khởi thân, vận công xem xét pháp lực tình huống.",
-      "dich": "Phải nhanh chóng gom đủ mới được.\"",
-      "suggest": "Viên Minh không khởi thân, vận công quan sát tình hình Pháp lực."
-    },
-    {
-      "convert": "Từ khi tra ra Cửu Nguyên Quyết thuộc tính vấn đề sau, hắn mỗi ngày tu luyện đều sẽ tận lực tìm kiếm thảo mộc phồn thịnh địa phương, tu luyện tốc độ khôi phục rồi trước đó bộ dạng, pháp lực tinh tiến cực nhanh, cự ly Luyện Khí lục tầng dĩ nhiên không xa.",
-      "dich": "Viên Minh lẩm bẩm tự nói.",
-      "suggest": "Từ khi tra ra vấn đề thuộc tính Cửu Nguyên Quyết, mỗi ngày hắn đều cố gắng tìm kiếm những nơi trù phú, khí tức tu luyện cực nhanh, tốc độ khôi phục pháp lực cực nhanh, cự ly với Luyện Khí tầng thứ bảy cũng không xa."
-    },
-    {
-      "convert": "Trảo lấy một đầu hung thú, cùng kích sát một đầu hung thú, độ khó không thể giống nhau mà nói, thậm chí gặp phải không ít đột phát tình huống, Viên Minh tuy rằng thủ đoạn rất nhiều, Luyện Khí ngũ tầng cảnh giới tại ký danh đệ tử trung gian nhưng có chút thấp, tốt nhất có thể đột phá đến Luyện Khí lục tầng lại đi.",
-      "dich": "Viên Minh không đứng lên mà vận công kiểm tra tình hình pháp lực.",
-      "suggest": "Trảo một đầu hung thú, cùng kích sát một đầu hung thú, độ khó không thể giống nhau, thậm chí gặp phải không ít tình huống bất ngờ. Viên Minh mặc dù thủ đoạn rất nhiều, nhưng cảnh giới Luyện Khí tầng thứ ngũ tầng có chút thấp, tốt nhất là có thể đột phá lên Luyện Khí tầng thứ tám."
-    },
-    {
-      "convert": "Lấy Cửu Nguyên Quyết vượt quá tầm thường tu luyện tốc độ, còn có một tháng thời gian liền có thể đạt tới Luyện Khí lục tầng, chỉ là thuần thú chuẩn bị đều làm tốt rồi, chờ thêm một tháng, thực sự có chút quá lãng phí thời gian.",
-      "dich": "Từ khi tra rõ vấn đề thuộc tính của Cửu Nguyên Quyết, hắn mỗi ngày đều sẽ tận lực tìm kiếm chỗ cây cỏ tươi tốt để tu luyện, nhờ đó tốc độ tu luyện đã trở lại như trước, pháp lực tinh tiến cực nhanh, khoảng cách đến Luyện Khí tầng sáu đã không còn xa.",
-      "suggest": "Với tốc độ tu luyện Cửu Nguyên Quyết vượt quá xa tốc độ bình thường, còn có một tháng nữa là có thể đạt tới Luyện Khí tầng thứ bảy, chỉ có điều mọi thứ chuẩn bị đều tốt, chờ thêm một tháng, thực sự quá lãng phí thời gian."
-    },
-    {
-      "convert": "Viên Minh tại dưới đáy lòng khẽ cắn môi, lấy ra một cái thủy linh linh tiên đào, chính là mai kia từ đảo sương mù hái tới hồng sắc đào tử.",
-      "dich": "Bắt giữ một hung thú khó khăn hơn rất nhiều so với việc đánh giết một hung thú, thậm chí có thể gặp phải không ít tình huống khó ngờ, dù Viên Minh có rất nhiều thủ đoạn, nhưng chung quy Luyện Khí tầng năm vẫn là khá thấp trong giới đệ tử ký danh, tốt nhất là đột phá tới Luyện Khí tầng sáu rồi mới đi.",
-      "suggest": "Viên Minh khẽ cắn môi, lấy ra một quả Linh Tiên đào từ trong đám sương mù, chính là đào tử hồng sắc hái từ đảo sương mù kia."
-    },
-    {
-      "convert": "Hắn đã nghe ngóng rõ ràng rồi, này mai đào tử tên là Hồng Tâm Linh Đào, là một chủng tương đối hiếm thấy cố bản bồi nguyên loại linh quả, lại từ vẻ ngoài thượng để phán đoán, đã có không sai biệt trăm năm niên đại, khả dụng tại luyện chế đan dược, cũng có thể giống Nhục Linh Chi như thế trực tiếp nuốt chửng.",
-      "dich": "Lấy tốc độ tu luyện hơn bình thường của Cửu Nguyên Quyết, tốn thêm một tháng là có thể đạt tới Luyện Khí tầng sáu, chỉ là mọi thứ liên quan đến việc thuần thú đã được chuẩn bị tốt, giờ lại phải chờ thêm một tháng, thực sự khá lãng phí thời gian.",
-      "suggest": "Hắn đã nghe ngóng được, mai đào này tên là Hồng Tâm Linh Đào, là một loại linh quả quý hiếm được bồi nguyên từ cố bản, lại từ vẻ ngoài mà phán đoán, loại linh quả này đã có không sai biệt trăm năm tuổi, có thể sử dụng trong luyện chế đan dược, cũng có thể trực tiếp nuốt chửng như Nhục Linh Chi."
-    },
-    {
-      "convert": "Lấy hắn như nay thân phận địa vị, tự nhiên là không có mương máng cùng vốn liếng đem nó luyện thành đan dược đấy.",
-      "dich": "Viên Minh âm thầm cắn răng hạ quyết tâm, lấy ra một quả tiên đào trong veo như nước, chính là quả đào màu đỏ hái từ đảo sương mù kia.",
-      "suggest": "Lấy thân phận địa vị hiện tại của hắn, đương nhiên không có mương máng để luyện chế đan dược."
-    },
-    {
-      "convert": "Viên Minh một khẩu cắn lấy đào tử thượng, hai ba lần đem kia nuốt vào bụng.",
-      "dich": "Hắn đã nghe ngóng, biết quả đào này tên là Hồng Tâm linh đào, là một loại linh quả hiếm có tác dụng cố bản bồi nguyên.",
-      "suggest": "Viên Minh cắn một cái lên đào tử, cắn liên tiếp hai ba lần rồi nuốt vào bụng."
-    },
-    {
-      "convert": "Thịt quả rất nhanh hóa thành một cỗ nước bọt chảy vào trong bụng, một cỗ dồi dào linh lực tại thể nội bốn phía lưu động khởi lai.",
-      "dich": "Thêm nữa, nếu đánh giá theo bề ngoài thì quả đào này đã có tuổi đời gần một trăm năm, có thể dùng để luyện chế đan dược, cũng có thể ăn luôn giống như Nhục linh chi.",
-      "suggest": "Thịt quả rất nhanh đã chảy vào trong bụng, đồng thời một luồng linh lực dồi dào lưu động bốn phía xung quanh."
-    },
-    {
-      "convert": "Viên Minh nhắm mắt vận chuyển Cửu Nguyên Quyết, hấp thu cỗ này linh lực, pháp lực ba động dần dần tăng vọt.",
-      "dich": "Lấy thân phận địa vị của hắn hiện tại, dĩ nhiên là không có tiền hay mối quan hệ để luyện nó thành đan dược.",
-      "suggest": "Viên Minh nhắm mắt vận chuyển Cửu Nguyên Quyết, hấp thu cỗ linh lực này, ba động pháp lực trong cơ thể dần tăng vọt."
-    },
-    {
-      "convert": "Một ngày một đêm thời gian qua đi rất nhanh.",
-      "dich": "Viên Minh cắn một miếng đào, nhai hai ba cái nuốt vào trong bụng.",
-      "suggest": "Thời gian một ngày một đêm nhanh chóng qua đi."
-    },
-    {
-      "convert": "Viên Minh khí tức bỗng nhiên tăng vọt, y phục không gió mà bay, phụ cận không khí cũng lưu động chấn động, một hồi lâu mới khôi phục bình tĩnh.",
-      "dich": "Thịt quả rất nhanh hóa thành một dòng chất lỏng chảy xuống dạ dày, tức thì một cỗ linh lực dồi dào tràn ra khắp nơi trong cơ thể.",
-      "suggest": "Khí tức Viên Minh bỗng nhiên tăng vọt, y phục không gió mà bay, không khí xung quanh cũng chấn động, một lúc lâu sau mới khôi phục lại bình tĩnh."
-    },
-    {
-      "convert": "Hắn mở to ánh mắt, khóe miệng lộ ra tiếu dung.",
-      "dich": "Viên Minh nhắm mắt vận chuyển Cửu Nguyên Quyết, hấp thu cỗ linh lực này, theo đó pháp lực ba động dần tăng vọt.",
-      "suggest": "Hắn mở to mắt, khóe miệng lộ ra tiếu dung."
-    },
-    {
-      "convert": "Tiếp cận trăm năm niên đại Hồng Tâm Linh Đào quả nhiên dược lực mạnh mẽ, cho dù không có luyện chế thành đan dược, bên trong ẩn chứa dồi dào linh khí cũng làm hắn kinh hỉ vạn phần, trực tiếp để hắn như nguyện đột phá Luyện Khí lục tầng.",
-      "dich": "Thời gian một ngày một đêm trôi qua rất nhanh.",
-      "suggest": "Hồng Tâm Linh Đào trăm năm tuổi quả nhiên dược lực mạnh mẽ, cho dù không luyện chế thành đan dược, bên trong ẩn chứa linh khí dồi dào cũng làm hắn kinh hỉ vạn phần, trực tiếp để hắn như nguyện đột phá tầng thứ tám Luyện Khí kỳ."
-    },
-    {
-      "convert": "Kể từ đó, thu phục linh thú tự tin cùng tự vệ chi lực lại đủ mấy phần.",
-      "dich": "Khí tức của Viên Minh đột nhiên tăng vọt, quần áo không gió mà bay, không khí xung quanh cũng chấn động lưu chuyển, sau một lúc lâu mới yên lặng trở lại.",
-      "suggest": "Kể từ đó, sự tự tin và tự bảo vệ của Linh thú đã tăng lên mấy phần."
-    },
-    {
-      "convert": "Ngày thứ hai, Viên Minh cùng Phương Cách đánh lấy cái bắt chuyện, sau đó thân thỉnh rời tông tín vật, ly khai Bích La Động.",
-      "dich": "Hắn mở to mắt với nụ cười trên khóe miệng.",
-      "suggest": "Ngày thứ hai, Viên Minh và Phương Cách bắt đầu nói chuyện, sau đó lập tức rời khỏi Bích La Động, rời khỏi Bích La Động."
-    },
-    {
-      "convert": "Bích La Động đệ tử nếu muốn tự hành thuần phục linh thú lời nói, đều là đi Thập Vạn Đại Sơn chỗ sâu tìm kiếm, nơi đó hung thú đông đảo, có thể tìm tới thích hợp mục tiêu.",
-      "dich": "Hồng Tâm linh đào gần trăm năm quả nhiên dược lực mạnh mẽ, dù không luyện thành đan dược, linh khí dồi dào ẩn chứa bên trong nó vẫn khiến hắn kinh hỉ vạn phần, trực tiếp giúp hắn đột phá Luyện khí tầng sáu đúng như mong muốn.",
-      "suggest": "Đệ tử Bích La Động nếu muốn tự mình thuần phục Linh thú, đều phải đi sâu vào trong Thập Vạn Đại Sơn tìm kiếm, nơi đó hung thú đông đúc, có thể tìm được mục tiêu thích hợp."
-    },
-    {
-      "convert": "Chỉ là Thập Vạn Đại Sơn chỗ sâu địa phương quá lớn, muốn tìm kiếm một đầu thích hợp linh thú, chỉ có thể tìm vận may, rất nhiều người tìm kiếm mấy tháng, cũng chưa chắc có thể tìm tới tâm tưởng chi thú, chẳng những phí thời gian phí lực, càng muốn bốc to như vậy nguy hiểm.",
-      "dich": "Từ đây, hắn lại có thêm mấy phần lực lượng để thu phục linh thú cũng như tự bảo vệ bản thân.",
-      "suggest": "Chỉ là địa phương sâu trong Thập Vạn Đại Sơn quá lớn, muốn tìm một đầu linh thú thích hợp chỉ có thể tìm vận may, rất nhiều người tìm kiếm mấy tháng cũng chưa chắc đã tìm được thú tâm tưởng, chẳng những tốn thời gian phí sức, còn muốn bốc cao nguy hiểm như vậy."
-    },
-    {
-      "convert": "Bởi vì cái này nguyên nhân, đại đa số đệ tử linh thú đều là từ Ngự Thú Đường trung mua sắm, rất ít người sẽ tuyển chọn tự hành tìm kiếm.",
-      "dich": "Ngày hôm sau, Viên Minh đến chào Phương Cách, thỉnh cầu tín vật rời tông rồi rời khỏi Bích La Động.",
-      "suggest": "Bởi vì nguyên nhân này mà đại đa số đệ tử Linh thú đều đến Ngự Thú Đường mua sắm, rất ít người sẽ chọn lựa tự mình tìm kiếm."
-    },
-    {
-      "convert": "Bất quá Viên Minh cũng không lo lắng cái này, lúc trước hướng Tam động chủ thỉnh giáo Ngự Thú Thuật lúc, hắn liền nghĩ hảo đi nơi nào tìm kiếm mục tiêu, tựu là tòa kia đảo sương mù.",
-      "dich": "Đệ tử Bích La Động nếu mình tự đi thuần phục linh thú thì đều tới chỗ sâu trong Thập Vạn Đại Sơn để tìm kiếm, nơi đó hung thú đông đảo, có thể tìm được mục tiêu phù hợp.",
-      "suggest": "Nhưng Viên Minh cũng không quá lo lắng, lúc trước khi thỉnh giáo với Tam động chủ Ngự Thú Thuật, hắn liền nghĩ đi tìm mục tiêu ở đâu, chính là tòa sương mù kia."
-    },
-    {
-      "convert": "Tòa kia đảo thượng kỳ dị hung thú đông đảo, tùy tiện trảo lên một đầu, đều là không tệ linh thú.",
-      "dich": "Chỉ có điều chỗ sâu trong Thập Vạn Đại Sơn quá rộng, muốn tìm được một con linh thú phù hợp chỉ có thể dựa vào vận may, rất nhiều người tìm suốt mấy tháng chưa chắc đã tìm được linh thú mình muốn, chẳng những tốn sức mất thời gian mà còn tiềm ẩn rủi ro rất lớn.",
-      "suggest": "Trên hòn đảo này, số lượng hung thú kỳ dị mà tùy tiện mà bắt lên một con, đều là những con linh thú không tệ."
-    },
-    {
-      "convert": "Duy nhất phiền toái là hòn đảo chu vi đầu kia hắc sắc thủy quái, bất quá hắn hiện tại xưa đâu bằng nay, cũng chuẩn bị một chút ứng đối kế sách.",
-      "dich": "Vì lý do này, đại đa số linh thú của đệ tử là mua từ Ngự Thú Đường, có rất ít người chọn cách tự mình tìm kiếm.",
-      "suggest": "Nhưng phiền toái duy nhất là con cá sấu đen trên bờ, có điều bây giờ hắn đã có chuẩn bị trước, cũng chuẩn bị sẵn sàng ứng đối."
-    },
-    {
-      "convert": "Viên Minh ly khai tông môn, rất nhanh đi đến Thiên Lô Hồ bên bờ.",
-      "dich": "Nhưng Viên Minh lại không gặp vấn đề này, lúc trước khi thỉnh giáo Tam động chủ về Ngự Thú Thuật, hắn đã tính sẵn chỗ để tìm kiếm mục tiêu, đó chính là hòn đảo sương mù kia.",
-      "suggest": "Viên Minh rời khỏi tông môn, rất nhanh đã tới bờ hồ Thiên Lô."
-    },
-    {
-      "convert": "Hắn không có lại buộc một cái bè gỗ, đưa tay hướng mặt hồ một vung, một chiếc thuyền nhỏ hiện rõ mà ra, rơi trên mặt hồ.",
-      "dich": "Trên hòn đảo kia có rất nhiều hung thú kỳ dị, bắt con nào cũng đều là linh thú không tệ.",
-      "suggest": "Hắn không buộc một cái bè gỗ nữa, đưa tay vung lên mặt hồ, một chiếc thuyền nhỏ hiện ra, rơi trên mặt hồ."
-    },
-    {
-      "convert": "Đây là Viên Minh thỉnh tông môn nội một cái thiện về thủ công đệ tử chế tạo, trong nước vận chuyển tốc độ so với trước bè gỗ nhanh hơn nhiều.",
-      "dich": "Phiền toái duy nhất là con thủy quái màu đen lởn vởn xung quanh hòn đảo, có điều Viên Minh giờ đã khác xưa, hắn cũng đã chuẩn bị một số cách đối phó.",
-      "suggest": "Đây là một trong những thủ công thiện nghệ mà Viên Minh thỉnh được một đệ tử nội môn từ trong tông môn chế tạo, tốc độ vận chuyển trong nước nhanh hơn nhiều so với bè gỗ trước."
-    },
-    {
-      "convert": "Hắn thả người lên thuyền, huy động mái chèo thuyền, hướng đảo sương mù phương hướng tiến qua.",
-      "dich": "Viên Minh rời khỏi tông môn, rất nhanh đã đến bên bờ Thiên Lô hồ.",
-      "suggest": "Hắn tung người lên thuyền, huy động mái chèo thuyền, hướng về phía sương mù trên đảo tiến tới."
-    },
-    {
-      "convert": "Một cái canh giờ sau, Viên Minh đi đến kia phiến vụ khí đặc biệt nồng đậm địa phương.",
-      "dich": "Hắn không làm bè gỗ nữa, đưa tay vung về phía mặt hồ, tức thì một con thuyền nhỏ hiện ra, rơi lên trên mặt hồ.",
-      "suggest": "Một canh giờ sau, Viên Minh đã tới được địa điểm có luồng khí vụ khí đặc biệt nồng đậm kia."
-    },
-    {
-      "convert": "Hắn bằng vào trí nhớ, tăng thêm mấy bận tế lên lư hương đằng không tìm kiếm, chung quy lần nữa tìm được rồi tòa kia đảo sương mù.",
-      "dich": "Hắn tung người nhảy lên thuyền, huy động mái chèo đưa thuyền tiến về phía đảo sương mù.",
-      "suggest": "Hắn bằng vào trí nhớ, tăng thêm mấy lần dò tìm lư hương trên lư hương, cuối cùng cũng tìm được tòa sương mù kia."
-    },
-    {
-      "convert": "Viên Minh lần này vận khí không tệ, không có đụng phải cái kia hắc sắc thủy quái, bất quá bảo hiểm lý do, hắn vẫn là cự ly thật xa liền thu hồi thuyền nhỏ, lợi dụng lư hương trực tiếp bay lên đảo, rơi vào một phiến tử sắc rừng cây trung.",
-      "dich": "Sau một canh giờ, Viên Minh đã tới chỗ có đám sương mù đặc biệt dày.",
-      "suggest": "Viên Minh lần này vận khí không tệ, không đụng phải cá sấu đen kia, nhưng vì muốn bảo hiểm, hắn vẫn phải cách bờ thật xa, lợi dụng lư hương bay thẳng lên đảo, rơi vào một khu rừng cây chết màu."
-    },
-    {
-      "convert": "\"Không phải kia chỗ Hắc Tùng Lâm.....\"",
-      "dich": "Dựa theo trí nhớ kết hợp với mấy lần dùng lư hương bay lên tìm kiếm, cuối cùng hắn đã lần nữa tìm đến hòn đảo trong sương mù.",
-      "suggest": "\"Không phải chỗ Hắc Tùng Lâm kia ...\""
-    },
-    {
-      "convert": "Hắn tương đối thất vọng.",
-      "dich": "Viên Minh lần này khá may mắn, không đụng phải con thủy quái màu đen kia, có điều để an toàn, hắn vẫn thu con thuyền nhỏ từ chỗ cách đảo khá xa, tiếp đó dùng lư hương bay thẳng tới đảo, đáp xuống một mảng rừng cây màu tím.",
-      "suggest": "Hắn khá thất vọng."
-    },
-    {
-      "convert": "Hồng Tâm Linh Đào hiệu quả lộ rõ, hắn nguyên bản nghĩ lấy có thể từ Hắc Tùng Lâm bên kia lên đảo, đem những thứ kia Hồng Tâm Linh Đào toàn bộ hái đi, bây giờ nhìn tới thì không được rồi.",
-      "dich": "\"Không phải chỗ rừng tùng đen ...\" Hắn hơi thất vọng.",
-      "suggest": "Hiệu quả của Hồng Tâm Linh Đào rõ ràng, hắn vốn định lên đảo để lấy toàn bộ Hồng Tâm Linh Đào kia, nhưng bây giờ nhìn lại thì không được."
-    },
-    {
-      "convert": "Chờ sự tình xong xuôi, lại đi tìm kiếm kia gốc cây ăn quả a.",
-      "dich": "Hồng Tâm linh đào hiệu quả rõ rệt nên hắn vốn còn tưởng có thể lên đảo từ rừng tùng đen bên kia, sau đó hái hết chỗ Hồng Tâm linh đảo còn lại, bây giờ xem là không được, chỉ có thể đợi khi xong việc rồi tìm cây đào đó sau.",
-      "suggest": "Đợi mọi chuyện xong xuôi, lại đi tìm kiếm gốc cây kia nữa."
-    },
-    {
-      "convert": "Viên Minh dò xét cảnh vật chung quanh, nhìn hướng phụ cận tử thụ, này cây lá cây hiện ra bàn tay hình dạng, tương tự lá phong, tán phát ra một cỗ nhàn nhạt hương thơm.",
-      "dich": "Viên Minh quan sát cảnh vật xung quanh, nhìn về phía cây tím bên cạnh, thấy lá cây này lớn bằng bàn tay, trông như lá phong, hơn nữa còn tỏa ra mùi thơm thoang thoảng.",
-      "suggest": "Viên Minh quan sát xung quanh, nhìn cây cổ thụ gần đó, hình dạng của nó tương tự như lá phong, tán phát ra mùi thơm nhàn nhạt."
-    },
-    {
-      "convert": "Hắn đoạn này thời gian bù lại rất nhiều có liên quan Thập Vạn Đại Sơn tri thức, bao quát kia trung thụ mộc thảm thực vật, những thứ này tử sắc phong thụ, hắn nhưng không có tại điển tịch thượng gặp qua, trước đó hắc sắc tùng thụ cũng thế.",
-      "dich": "Hắn trong thời gian qua đã bổ sung thêm rất nhiều kiến thức về Thập Vạn Đại Sơn, trong đó bao gồm cả cây cối, thảm thực vật, nhưng hắn lại chưa từng thấy nó trên điển tịch, cây tùng đen trước kia cũng vậy.",
-      "suggest": "Thời gian của hắn đã thu thập được rất nhiều tri thức có liên quan Thập Vạn Đại Sơn, bao gồm thảm thực vật trung thụ, mộc thảm thực vật, những cây phong thụ này, hắn cũng chưa từng thấy qua ở điển tịch."
-    },
-    {
-      "convert": "Viên Minh lại nhìn hướng cái khác thảo mộc, cũng đều là lạ lẫm chi vật.",
-      "dich": "Viên Minh nhìn về phía những cây cỏ khác, nhưng tất cả đều xa lạ.",
-      "suggest": "Viên Minh lại nhìn sang những loại thảo mộc khác, đều là những thứ xa lạ."
-    },
-    {
-      "convert": "\"Toà đảo này tương đối cổ quái a, thảm thực vật phảng phất hoàn toàn thoát ly Thập Vạn Đại Sơn địa phương, chẳng lẽ là bởi vì tứ diện bao nước duyên cớ?\"",
-      "dich": "\"Hòn đảo này hơi cổ quái, thảm thực vật dường như hoàn toàn khác với Thập Vạn Đại Sơn, chẳng lẽ là do bốn phía bị nước bao quanh?\"",
-      "suggest": "\"Toà đảo này khá cổ quái, thảm thực vật dường như hoàn toàn thoát ly địa phương Thập Vạn Đại sơn, chẳng lẽ bởi vì bao nước bốn phía?\""
-    },
-    {
-      "convert": "Hắn trong lòng âm thầm lẩm bẩm nói.",
-      "dich": "Viên Minh âm thầm tự hỏi.",
-      "suggest": "Trong lòng hắn thầm lẩm bẩm nói."
-    },
-    {
-      "convert": "Viên Minh không có lập tức tiến đảo, mà là trước tiên tại phong lâm nội tìm được một chỗ an toàn chi địa, đem pháp lực triệt để khôi phục, mới lại hướng đảo nội xuất phát.",
-      "dich": "Viên Minh không tiến vào trong đảo ngay, mà trước tiên tìm một chỗ an toàn trong rừng phong, khôi phục hoàn toàn pháp lực, xong mới cất bước đi vào trong đảo.",
-      "suggest": "Viên Minh không vội tiến tới đảo mà trước tiên tìm một chỗ an toàn trong phong lâm, sau khi hoàn toàn khôi phục pháp lực mới tiếp tục tiến về phía trước."
-    },
-    {
-      "convert": "Phiến này Tử Phong Lâm nội tựa hồ không có hung thú, thẳng đến đi ra rừng cây, cũng không có bất kỳ nguy hiểm kéo tới.",
-      "dich": "Trong mảnh rừng phong tím này hình như không có hung thú, đợi tới tận khi ra khỏi rừng cây vẫn không có nguy hiểm gì xuất hiện.",
-      "suggest": "Trong Tử Phong Lâm này dường như không có hung thú, đi ra khỏi rừng cây cũng không gặp bất kỳ nguy hiểm nào."
-    },
-    {
-      "convert": "Hắn tiếp tục hướng về phía trước đi, tiền phương vụ khí biến đổi thưa thớt, một phiến khoáng đạt đầm lầy chi địa xuất hiện tại tiền phương, lấy hắn thị lực, có thể nhìn ra vài chục trượng ngoại.",
-      "dich": "Hắn tiếp tục đi về phía trước.",
-      "suggest": "Hắn tiếp tục đi về phía trước, vụ khí ở tiền phương thay đổi liên tục, một đầm lầy rộng lớn xuất hiện ở phía trước, với thị lực của hắn, có thể nhìn ra xa hơn vài chục trượng."
-    },
-    {
-      "convert": "Đầm lầy trung khắp nơi thanh hắc sắc bùn lắng, đưa mắt nhìn lại, khắp nơi đều là tươi tốt thủy thảo, ngẫu nhiên còn có mấy gốc thụ mộc đứng vững, trong không khí càng tràn ngập hư thối mùi vị.",
-      "dich": "Đằng trước sương mù càng ngày càng mỏng, trước mặt xuất hiện một mảnh đầm lầy trống trải, dùng nhãn lực của hắn có thể nhìn xa khoảng mấy chục trượng",
-      "suggest": "Trong đầm lầy có khắp nơi là bùn nhão màu đen, đưa mắt nhìn quanh, khắp nơi đều là thủy thảo tươi tốt, ngẫu nhiên còn có mấy gốc cây cổ thụ đứng vững, không khí càng thêm thối rữa."
-    },
-    {
-      "dich": "Đầm lầy tràn ngập bùn đất màu xanh đen, phóng mắt nhìn khắp đều là cỏ nước tốt tươi, thỉnh thoảng còn có mấy cây thân gỗ mọc thẳng, trong không khí tràn ngập mùi thối rữa."
-    },
-    {
-      "dich": "***Chú giải***"
-    },
-    {
-      "dich": "1."
-    },
-    {
-      "dich": "Gia trì: Hỗ trợ bị động, có thể hiểu là buff."
-    },
-    {
-      "dich": "2."
-    },
-    {
-      "dich": "bình cảnh: Chỗ thắt nút cổ chai, điểm cần đột phá."
-    },
-    {
-      "dich": "3."
-    },
-    {
-      "dich": "Cố bản bồi nguyên: Củng cố và tăng cường tư chất người dùng."
-    }
-  ]
+  }
 }

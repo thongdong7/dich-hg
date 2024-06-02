@@ -17,13 +17,23 @@
       "convert": "Nhìn thấy Viên Minh không có trực tiếp bị túm ngược lại, Phương Cách trong mắt lóe lên một tia vẻ tán thành, chợt liền khôi phục như thường, mở miệng nói ra: \"Ngươi trước chăm chú nhìn ta làm mẫu, về sau lại bản thân nếm thử luyện tập.\"",
       "dich": "Thấy Viên Minh không trực tiếp bị kéo sụm xuống, trong mắt Phương Cách lóe lên vẻ tán thưởng, xong lập tức trở lại như thưowinfg, mở miệng nói: \"Ngươi trước tiên tập trung xem ta làm mẫu, sau đó tự mình thử luyện tập.\"",
       "suggest": "Thấy Viên Minh không bị túm ngược lại mà ngược lại, trong mắt Phương Cách lóe lên vẻ tán thành, lập tức khôi phục lại dáng vẻ bình thường, mở miệng nói: \"Ngươi trước chăm chú quan sát ta làm mẫu, sau đó tự mình thử nghiệm luyện tập.\"",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "看到袁铭没有直接被拽倒，方格眼中闪过一丝赞许之色，旋即便恢复如常，开口说道：“你先认真看我示范，之后再自己尝试练习。”",
+        "text": "Nhìn thấy Viên Minh không có trực tiếp bị lôi đảo, ô vuông trong mắt lóe lên một tia vẻ tán thành, lát sau liền khôi phục như thường, mở miệng nói ra : “ ngươi trước nghiêm túc nhìn ta làm mẫu, sau đó lại chính mình thử luyện tập . ”",
+        "index": 0
+      }
     },
     {
       "convert": "Nói xong, hắn thuần thục châm lửa thêm cacbon, đợi đến ánh lửa sáng lên, lại nắm một cái màu vàng bột phấn, hướng phía lò sưởi gắn xuống dưới.",
       "dich": "Nói xong, y thuần thục châm lửa thêm than, đợi khi ánh lửa bùng lên lại bốc một nắm bột phấn màu vàng, ném xuống phía hố lửa.",
       "suggest": "Nói xong, hắn thuần thục châm thêm cacbon vào lửa, đợi tới khi ánh lửa sáng lên, lại cầm một cái phấn màu vàng, dán xuống dưới lò sưởi.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "说着，他熟练地点火加碳，等到火光亮起，又抓了一把黄色粉末，朝着火塘撒了下去。",
+        "text": "Nói, hắn thuần thục châm lửa thêm than, đợi đến ánh lửa sáng lên, lại nắm một cái màu vàng bột phấn, hướng tới lò sưởi gắn thêm nữa .",
+        "index": 1
+      }
     },
     {
       "convert": "\"Phần phật\" một thanh âm vang lên.",
@@ -35,7 +45,12 @@
       "convert": "Lò sưởi bỗng nhiên dâng lên một đoàn hồng ngọn lửa màu vàng, đem Phương Cách một trương góc cạnh rõ ràng ngay ngắn gương mặt chiếu rọi được hồng quang đầy mặt, nhiệt độ chung quanh trong nháy mắt liền lên cao gấp đôi.",
       "dich": "Một ngọn lửa màu vàng từ hố lửa chợt bùng lên, chiếu cho khuôn mặt góc cạnh của Phương Cách phủ đầy sắc đỏ, nhiệt độ xung quanh trong nháy mắt tăng lên gấp đôi.",
       "suggest": "Lò sưởi bỗng nhiên dâng lên một ngọn lửa màu vàng, chiếu lên gương mặt Phương Cách, chiếu sáng cả khuôn mặt, nhiệt độ xung quanh trong nháy mắt đã tăng lên gấp đôi.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "火塘猛地升起一团红黄色火焰，将方格一张棱角分明的方正脸颊映照得红光满面，周围的温度瞬间就升高了一倍。",
+        "text": "Lò sưởi bỗng nhiên dâng lên một đoàn đỏ vàng sắc hỏa diễm, đem ô vuông một trương góc cạnh rõ ràng đích ngay ngắn hai má chiếu rọi được mặt mày hồng hào, nhiệt độ chung quanh trong nháy mắt liền lên cao gấp đôi .",
+        "index": 3
+      }
     },
     {
       "convert": "\"Đây là chất dẫn cháy phấn, là lưu huỳnh, diêm tiêu những vật này phối trộn mà thành, có thể tiết kiệm không ít thời gian.",
@@ -59,7 +74,12 @@
       "convert": "Không lâu lắm, khối kia sắt phôi liền bị thiêu đến đỏ bừng.",
       "dich": "Không bao lâu sau, khối phôi sắt kia đã bị nung đỏ.",
       "suggest": "Không lâu sau, khối sắt phôi kia đã bị đốt đỏ bừng lên.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "不多时，那块铁胚就被烧得通红。",
+        "text": "Không bao lâu, khối kia thiết phôi liền bị thiêu đến đỏ bừng .",
+        "index": 5
+      }
     },
     {
       "convert": "\"Nhìn kỹ, ta chỉ biểu thị một lần.\"",
@@ -77,13 +97,23 @@
       "convert": "Chỉ gặp hắn đâm một cái trung bình tấn, đem sắt phôi phóng tới cái đe sắt bên trên, một tay cầm kẹp, một tay vung mạnh chuyển thiết chùy, hướng phía nung đỏ sắt phôi đập xuống.",
       "dich": "Chỉ thấy y tạo thế trung bình tấn, đưa phôi sắt đặt lên trên đe, một tay cầm cái kẹp, một tay vung mạnh cây búa, đập xuống phía phôi sắt đã nung đỏ.",
       "suggest": "Chỉ thấy hắn đâm một cái bình tấn vào một cái đe sắt, đưa một tay kẹp sắt phôi lên trên cái đe sắt, một tay vung thiết chùy đập mạnh xuống phôi sắt đang nung đỏ.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "只见其扎了一个马步，将铁胚放到的铁砧上，一手握着夹子，一手抡转铁锤，朝着烧红的铁胚砸了下去。",
+        "text": "Chỉ kiến nó đâm một cái trung bình tấn, đem thiết phôi đặt vào đích thiết châm thượng, một tay nắm cái cặp, một tay vung chuyển thiết chùy, hướng tới nung đỏ đích thiết phôi đập xuống .",
+        "index": 7
+      }
     },
     {
       "convert": "Cánh tay của hắn huy động thời điểm, từng đầu cơ bắp gồ lên, cầu gân lộ ra, toàn bộ cánh tay tựa như ở giữa không trung khoanh tròn, mang theo một sức mạnh không tên mỹ cảm.",
       "dich": "Khi y huy động cánh tay, từng khối cơ nổi lên, gân tay lộ ra, cả cánh tay như vẽ một vòng tròn giữa không trung, kéo theo một loại mỹ cảm không tên tràn đầy sức mạnh.",
       "suggest": "Khi cánh tay hắn vừa huy động, từng đầu cơ bắp gồ lên, từng sợi gân lộ ra, toàn bộ cánh tay tựa như đang khoanh tròn giữa không trung, mang theo một vẻ đẹp không tên.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他的手臂挥动之时，一条条肌肉坟起，虬筋毕露，整个胳膊好似在半空中画圆，带着一种莫名的力量美感。",
+        "text": "Cánh tay hắn huy động thời điểm, một đầu cái cơ bắp gồ lên, 虬 cơ bắp xong lộ, cả cánh tay coi như ở giữa không trung khoanh tròn, mang theo một sức mạnh không tên mỹ cảm .",
+        "index": 8
+      }
     },
     {
       "convert": "\"Keng \"",
@@ -95,13 +125,23 @@
       "convert": "Thiết chùy kết thúc, thanh âm trong trẻo, hoả tinh vẩy ra.",
       "dich": "Búa rèn đập xuống, thanh âm trong vắt vang lên, tia lửa bắn ra.",
       "suggest": "Thiết chùy kết thúc, thanh âm trong trẻo, như hoả tinh bắn ra.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "铁锤落定，声音清亮，火星飞溅。",
+        "text": "Thiết chùy kết thúc, thanh âm trong trẻo, đốm lửa vẩy ra .",
+        "index": 10
+      }
     },
     {
       "convert": "Viên Minh ánh mắt nhìn chằm chằm Phương Cách mỗi một bước động tác, cẩn thận quan sát hắn phát lực phương thức, trong lòng âm thầm phỏng đoán.",
       "dich": "Viên Minh chăm chú nhìn kỹ từng động tác của Phương Cách, cẩn thận quan sát cách y phát lực, đồng thời trong lòng âm thầm phỏng đoán.",
       "suggest": "Viên Minh nhìn chằm chằm vào động tác của Phương Cách mỗi một bước, cẩn thận quan sát phương thức hắn phát lực, trong lòng âm thầm phỏng đoán.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭目光紧盯着方格的每一步动作，细心观察他的发力方式，心中暗自揣摩。",
+        "text": "Viên Minh ánh mắt nhìn chằm chằm lấy ô vuông đích mỗi một bước động tác, cẩn thận quan sát hắn phát lực phương thức, trong lòng âm thầm nghiền ngẫm .",
+        "index": 11
+      }
     },
     {
       "convert": "\"Keng \"",
@@ -113,7 +153,12 @@
       "convert": "Lại từng tiếng sáng chùy âm vang lên, lần nữa bắn tung tóe bốc cháy hoa, động tác gọn gàng, không có chút nào kéo dài trì trệ.",
       "dich": "Lại một tiếng búa trong vắt vang lên, lại là tia lửa bắn tung tóe, động tác gọn gàng dứt khoát, không có chút chậm trễ nào.",
       "suggest": "Lại một tiếng trầm đục vang lên, một lần nữa bắn hoa lửa, động tác gọn gàng, không hề bị trì trệ chút nào.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "又一声清亮锤音响起，再次溅射起火花，动作干净利落，没有丝毫拖沓迟滞。",
+        "text": "Lại một tiếng trong trẻo chùy âm vang lên, lần nữa bắn tung toé bốc cháy hoa, động tác gọn gàng, không có chút nào kéo dài trì trệ .",
+        "index": 13
+      }
     },
     {
       "convert": "\"Quá trình không phức tạp, chỉ cần chiếu vào làm, tựa hồ không phải rất khó khăn dáng vẻ.\"",
@@ -131,79 +176,144 @@
       "convert": "Mười mấy chùy qua đi, Phương Cách động tác bắt đầu tăng tốc, vung mạnh cánh tay tốc độ tăng gấp bội, \"Keng keng\" thanh âm liên tục vang lên, tóe lên hoả tinh cũng tiếp tục hắt vẫy, như là khói lửa.",
       "dich": "Sau mười mấy búa, động tác của Phương Cách bắt đầu tăng tốc, tần suất vung tay tăng lên gấp bội, tiếng \"keng keng\" liên tục vang lên, tia lửa cũng liên tục bắn ra y như pháo hoa vậy.",
       "suggest": "Mười mấy chùy đã trôi qua, động tác Phương Cách bắt đầu tăng tốc, tốc độ vung tay tăng gấp bội, \"Keng keng\" thanh âm liên tục vang lên, những quả cầu lửa đang bắn tới cũng tiếp tục bắn lên, giống như khói lửa.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "十几锤过后，方格的动作开始加快，抡臂的速度倍增，“铛铛”的声音连续响起，溅起的火星也持续泼洒，如同烟火一般。",
+        "text": "Mươi mấy chùy qua đi, ô vuông đích động tác bắt đầu tăng nhanh, vung cánh tay đích tốc độ tăng gấp bội, “ keng keng ” đích thanh âm liên tục vang lên, tóe lên đích đốm lửa cũng duy trì lâu dài vẩy bắn, giống như pháo hoa bình thường .",
+        "index": 15
+      }
     },
     {
       "convert": "Viên Minh nhìn một chút, ánh mắt liền bắt đầu thay đổi.",
       "dich": "Viên Minh nhìn một chút, ánh mắt liền bắt đầu thay đổi.",
       "suggest": "Viên Minh nhìn một chút, ánh mắt liền bắt đầu thay đổi.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭看着看着，眼神就开始变了。",
+        "text": "Viên Minh nhìn một chút, nhãn thần liền bắt đầu thay đổi .",
+        "index": 16
+      }
     },
     {
       "convert": "Hắn ánh mắt hơi có phiêu hốt, ánh mắt giống như là đã mất đi tiêu cự, nhưng hai lỗ tai lại không tự chủ dựng lên, hết sức chăm chú địa muốn thông qua tai mắt cùng sử dụng, đem động tác của đối phương quan sát được thấu triệt hơn một chút.",
       "dich": "Tầm mắt hắn hơi phiêu hốt, ánh mắt giống như mất tiêu cự, nhưng hai lỗ tai lại bất giác dựng lên, vô cùng chăm chú như thể muốn thông qua việc dùng cả tai và mắt để quan sát động tác của đối phương thấu đáo hơn một chút.",
       "suggest": "Ánh mắt hắn hơi phiêu hốt, ánh mắt giống như đã mất tiêu cự, nhưng hai lỗ tai lại không tự chủ được mà dựng ngược lên, hết sức chăm chú muốn thông qua tai mắt cùng sử dụng, để đối phương có thể quan sát thấu triệt hơn một chút.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他的视线略有飘忽，目光像是失去了焦距，但双耳却不自觉的竖了起来，全神贯注地想要通过耳目并用，将对方的动作观察得更透彻一些。",
+        "text": "Hắn ánh mắt hơi có phiêu hốt, ánh mắt như là mất đi rồi tiêu cự, nhưng hai lỗ tai nhưng không tự chủ dựng lên, hết sức chăm chú địa muốn thông qua tai mắt cùng sử dụng, đem động tác của đối phương quan sát được thấu triệt hơn một chút .",
+        "index": 17
+      }
     },
     {
       "convert": "Cứ việc toàn bộ hỏa trong phường, đồng thời ở rèn sắt người, không có một trăm, cũng có tám mươi, thanh âm không thể bảo là không lộn xộn, nhưng Phương Cách đánh thanh âm, lại rõ ràng đã rơi vào Viên Minh trong tai.",
       "dich": "Cứ cho là trong Hỏa phường, số người đang rèn sắt cùng lúc không có một trăm thì cũng có tám mươi, thanh âm không thể nói là không hỗn tạp, nhưng tiếng nện búa của Phương Cách lại truyền vào tai Viên Minh rất rõ ràng.",
       "suggest": "Cho dù toàn bộ phường lửa trong phường đều có người luyện sắt, cũng có người tám mươi tuổi, thanh âm không thể bảo là không lộn xộn, nhưng thanh âm của Phương Cách đánh lại rõ ràng lọt vào tai Viên Minh.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "尽管整个火坊里，同时在锻铁的人，没有一百，也有八十，声音不可谓不杂乱，但方格捶打的声音，却清晰地落入了袁铭的耳中。",
+        "text": "Cứ việc cả lửa trong phường, cùng thời tại rèn sắt đích người, không có một trăm, cũng có tám mươi, thanh âm không thể bảo là không lộn xộn, nhưng ô vuông đấm đánh đích thanh âm, nhưng rõ rệt mà rơi vào rồi Viên Minh đích trong tai .",
+        "index": 18
+      }
     },
     {
       "convert": "Không phải là bởi vì hắn cách gần đó, mà là bởi vì thanh âm kia rõ ràng so với những người khác càng thêm trong trẻo, lại mang theo một loại không cách nào dùng lời nói diễn tả được độc hữu nhịp.",
       "dich": "Không phải bởi hắn đứng gần đó, mà là vì thanh âm kia rõ ràng là trong trẻo hơn những người khác, hơn nữa còn mang theo một nhịp điệu riêng có khó mà miêu tả bằng lời.",
       "suggest": "Không phải bởi vì hắn cách xa hắn, mà bởi vì thanh âm của hắn rõ ràng so với những người khác càng thêm trong trẻo, lại mang theo một loại nhịp điệu không cách nào diễn tả được.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "不是因为他离得近，而是因为那声音明显比其他人的更加清亮，且带着一种无法用语言形容的独有节律。",
+        "text": "Không phải là bởi vì hắn cách gần đó, mà là vì thanh âm kia rõ ràng so cái khác người đích càng thêm trong trẻo, lại còn mang theo một loại vô pháp dùng lời nói diễn tả được độc hữu nhịp .",
+        "index": 19
+      }
     },
     {
       "convert": "Viên Minh chau mày, nghe kia một lần lại một cái nện gõ âm thanh, yên lặng tính toán lấy đánh số lần.",
       "dich": "Viên Minh nhíu mày, nghe kỹ thêm một chút tiếng nện búa kia, đồng thời thầm tính toán số lần gõ.",
       "suggest": "Viên Minh chau mày, nghe tiếng gõ kia một lần lại một lần, yên lặng đánh số lần.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭眉头紧皱，听着那一下又一下的锤击声，默默计数着捶打的次数。",
+        "text": "Viên Minh chau mày, nghe ngóng kia một chút lại một cái chùy kích tiếng, yên lặng tính toán lấy đấm đánh đích số lần .",
+        "index": 20
+      }
     },
     {
       "convert": "Đây là hắn đặc hữu quen thuộc, liền như là lúc trước mới vừa tiến vào Thập Vạn Đại Sơn bên trong lúc, hắn liền sẽ yên lặng làm xuống tiến lên ký hiệu, trong đầu phác hoạ bản đồ, từ vừa mới bắt đầu, hắn ngay tại quan sát ghi chép sở hữu chi tiết.",
       "dich": "Đây là thói quen riêng có của hắn, giống như khi vừa mới tiến vào trong Thập Vạn Đại Sơn, hắn sẽ lập tức âm thầm đánh dấu hành trình của mình, từ đó vẽ ra lộ trình trong đầu, ngay từ đầu, hắn đã quan sát và ghi chép chi tiết tất cả mọi thứ.",
       "suggest": "Đây là điều rất quen thuộc với hắn, nếu như lúc trước vừa mới tiến vào Thập Vạn Đại sơn, hắn sẽ yên lặng ký hiệu lên, trong đầu vẽ bản đồ, từ khi bắt đầu, hắn luôn luôn ghi nhớ chi tiết.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这是他独有的习惯，就如同当初刚刚进入十万大山中时，他就会默默做下行进记号，在脑海中勾勒路线图一样，从一开始，他就在观察记录所有细节。",
+        "text": "Đây là hắn độc hữu thói quen, liền như là hồi đó mới vừa tiến vào Thập Vạn Đại Sơn trung thời, hắn liền sẽ yên lặng làm xuống tiến lên ký hiệu, trong đầu phác hoạ bản đồ đồng dạng, từ vừa mới bắt đầu, hắn ngay tại quan sát ghi chép tất cả chi tiết .",
+        "index": 21
+      }
     },
     {
       "convert": "Phương Cách là thứ mười tám chùy về sau, lần thứ nhất bắt đầu tăng tốc đánh tốc độ, đợi đến thứ ba trăm sáu mươi chùy lúc, lần thứ hai tăng lên đánh tốc độ, hiện tại là thứ năm trăm ba mươi mốt chùy.",
       "dich": "Phương Cách sau búa thứ mười tám, lần đầu tiên tăng tốc độ quai búa, chờ đến búa từ ba trăm sau mươi, lần thứ hai tăng tốc độ quai nện, hiện tại đã là búa thứ năm trăm ba mươi mốt.",
       "suggest": "Phương Cách là thứ mười tám chùy, lần đầu tiên bắt đầu tăng tốc đánh tốc độ, đợi đến thứ ba trăm sáu mươi chùy, lần thứ hai lại tăng tốc đánh tốc độ, hiện tại là thứ năm trăm ba mươi mốt chùy.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "方格是第十八锤之后，第一次开始加快捶打速度的，等到第三百六十锤时，第二次增加了捶打速度，现在是第五百三十一锤。",
+        "text": "Ô vuông là thứ mười tám chùy sau đó, lần đầu tiên bắt đầu tăng nhanh đấm đánh tốc độ đích, đợi đến thứ ba trăm sáu mươi chùy thời, lần thứ hai tăng lên đấm đánh tốc độ, hiện tại là thứ năm trăm ba mươi mốt chùy .",
+        "index": 22
+      }
     },
     {
       "convert": "Nhìn đến đây thời điểm, Viên Minh tâm thái cùng trước đây không lâu so sánh, đã hoàn toàn thay đổi.",
       "dich": "Quan sát đến thời điểm này, tâm thái của Viên Minh so với trước đây không lâu đã hoàn toàn thay đổi.",
       "suggest": "Lúc này, tâm thái Viên Minh so với trước đây không lâu đã hoàn toàn thay đổi.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "看到这里的时候，袁铭的心态与不久前相比，已经完全变了。",
+        "text": "Nhìn đến đây thời điểm, Viên Minh tâm thái cùng trước đây không lâu so với, đã hoàn toàn thay đổi .",
+        "index": 23
+      }
     },
     {
       "convert": "Hắn đã ý thức được, loại này căn cứ vào luyện khí đánh rèn sắt phương thức, tuyệt không đơn giản.",
       "dich": "Hắn đã ý thức được, cách thức rèn sắt dựa trên luyện khí này tuyệt không đơn giản chút nào.",
       "suggest": "Hắn đã ý thức được, loại phương pháp luyện khí đánh rèn sắt này căn cứ vào phương pháp luyện khí đánh rèn sắt tuyệt không đơn giản.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他已经意识到，这种基于炼器的捶打锻铁方式，一点也不简单。",
+        "text": "Hắn đã ý thức được, loại này dựa vào luyện khí đấm đánh rèn sắt phương thức, tuyệt không giản đơn .",
+        "index": 24
+      }
     },
     {
       "convert": "Chỉ riêng một điểm mà nói, liền đã có thể nhìn ra chỗ bất phàm.",
       "dich": "Chỉ từ riêng một điểm đã có thấy thấy ngay được chỗ bất phàm.",
       "suggest": "Chỉ cần nhìn một điểm thôi cũng có thể nhìn ra điểm bất phàm.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "单就一点而言，就已经能够看出不凡之处。",
+        "text": "Chỉ riêng một chút mà nói, cũng đã có thể nhìn ra chỗ bất phàm .",
+        "index": 25
+      }
     },
     {
       "convert": "Phương Cách từ vung mạnh cánh tay vung chùy lên, ngoại trừ ban đầu ở lò sưởi ở bên trong làm nóng qua sắt phôi bên ngoài, liền không còn tiến hành qua tôi lại làm nóng.",
       "dich": "Kể từ khi Phương Cách nhấc tay vung búa lên, phôi sắt trừ lúc đầu được nung trong hố lửa ra thì chưa hề tiến hành nung nóng lại một lần nào.",
       "suggest": "Phương Cách vung mạnh cánh tay lên, chỉ trừ việc làm nóng phôi sắt trong lò sưởi ra thì không còn tiến hành hâm nóng nữa.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "方格从抡臂挥锤起，除了最开始在火塘里加热过铁胚之外，就再没有进行过回火加热了。",
+        "text": "Ô vuông từ vung cánh tay gạt chùy khởi, trừ bỏ ban đầu tại lò sưởi Ri-ga nóng qua thiết phôi bên ngoài, liền không còn tiến hành qua tôi lại đun nóng rồi .",
+        "index": 26
+      }
     },
     {
       "convert": "Có thể khối kia sắt phôi lại một mực duy trì sáng rõ đỏ bừng trạng thái, từ đầu đến cuối không có làm lạnh.",
       "dich": "Thế nhưng phôi sắt kia lại một mực duy trì trạng thái nóng đỏ, từ đầu tới cuối chưa từng thấy tối, nguội đi.",
       "suggest": "Nhưng khối sắt kia vẫn duy trì trạng thái đỏ bừng như ban đầu, từ đầu đến cuối không hề bị đông lại.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "可那块铁胚却一直保持着鲜亮通红的状态，始终没有冷却。",
+        "text": "Khả khối kia thiết phôi nhưng vẫn vẫn duy trì tươi sáng đỏ bừng trạng thái, từ đầu đến cuối không có làm lạnh .",
+        "index": 27
+      }
     },
     {
       "convert": "\"Đã tám trăm năm mươi nện cho, lại bắt đầu gia tăng tốc độ.\"",
@@ -227,13 +337,23 @@
       "convert": "Lúc này đánh thanh âm, đã trở nên mười phần chặt chẽ, ngay cả tiếng vang khởi phía dưới, như là lớn nhỏ ngân châu rơi khay ngọc, \"Đinh đinh đang đang\" mười phần êm tai.",
       "dich": "Lúc này tiếng nện búa đã trở nên dồn dập như dính vào nhau, cứ lặp đi lặp lại như ngân châu rơi trên đĩa ngọc, leng keng leng keng rất vui tai.",
       "suggest": "Tiếng đánh lúc này đã trở nên cực kỳ chặt chẽ, ngay cả tiếng vang cũng trở nên cực kỳ êm tai, tựa như tiếng kim châu rơi xuống khay ngọc, vô cùng êm tai.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这时候的捶打声音，已经变得十分紧密了，连声响起之下，如同大小银珠落玉盘，“叮叮当当”的十分悦耳。",
+        "text": "Lúc này đợi đích đấm lên tiếng âm, đã trở nên thập phần chặt chẽ rồi, liên thanh vang lên phía dưới, giống như lớn nhỏ ngân ngọc trai rơi mâm ngọc, “ đinh đinh đang đang ” đích thập phần dễ nghe .",
+        "index": 30
+      }
     },
     {
       "convert": "Ở đánh trong quá trình, Phương Cách còn tại lấy tốc độ cực nhanh không ngừng lật qua lật lại chồng chất sắt phôi, động tác cực kì thành thạo thông thuận.",
       "dich": "Trong lúc quai búa, Phương Cách còn dùng tốc độ cực nhanh liên tục lật qua lật lại phôi sắt, động tác vô cùng thành thạo trôi chảy.",
       "suggest": "Trong quá trình đánh, Phương Cách vẫn dùng tốc độ cực nhanh không ngừng lật qua lật lại phôi sắt, động tác cực kỳ thành thạo thông thuận.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "在捶打的过程中，方格还在以极快的速度不断翻动折叠铁胚，动作极为娴熟顺畅。",
+        "text": "Tại đấm đánh thắng được trình trung, ô vuông còn tại vô cùng tốc độ nhanh không ngừng lẩm nhẩm gấp thiết phôi, động tác cực kì thành thạo thông thuận .",
+        "index": 31
+      }
     },
     {
       "convert": "\"Như thế liên tục đánh, cần thiết lực lượng cùng sức chịu đựng đều tuyệt không phải, cái này Phương Cách sư huynh tu vi tất nhiên không thấp.\"",
@@ -251,19 +371,34 @@
       "convert": "Ngay tại hắn đếm tới thứ một ngàn chùy lúc, cuối cùng một mảnh hoả tinh tóe lên, Phương Cách ngừng đánh động tác.",
       "dich": "Ngay khi hắn đếm tới búa thứ một nghìn, một mảnh hoa lửa cuối cùng bắn lên, Phương Cách dừng động tác quai búa lại.",
       "suggest": "Ngay khi hắn đếm tới một ngàn chùy, một mảnh hỏa tinh bắn tóe lên, Phương Cách ngừng đánh.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在他数到第一千锤时，最后一片火星溅起，方格停下了捶打动作。",
+        "text": "Ngay tại hắn đếm tới thứ một ngàn chùy thời, tối hậu một mảnh đốm lửa tóe lên, ô vuông dừng đấm đả động làm .",
+        "index": 33
+      }
     },
     {
       "convert": "Hắn đem rèn đúc chùy để ở một bên, màu đen cái đe sắt bên trên, chỉ còn lại khối kia lớn chừng bàn tay, vẫn nóng hổi đỏ lên sắt phôi, một chút xíu làm lạnh biến sắc, cho đến lộ ra từng tầng từng tầng đường vân rậm rạp rèn đúc tầng.",
       "dich": "Y đặt búa rèn qua một bên, trên cái đe màu đen chỉ còn lại khối phôi sắt nóng đỏ lớn bằng bàn tay đang dần nguội đi, đồng thời đổi màu để lộ ra từng lớp, từng lớp đường vân rèn tinh mịn.",
       "suggest": "Hắn đặt cái búa rèn đúc ở một bên, trên cái đe sắt màu đen chỉ còn lại cái đầu lâu sắt to bằng bàn tay, vẫn còn nóng hổi màu sắt, một chút làm đông biến sắc, cho đến khi lộ ra từng tầng từng tầng những đường vân được rèn đúc tỉ mỉ.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他将锻造锤放在一边，黑色的铁砧上，只剩下那块巴掌大小，仍然滚烫发红的铁胚，一点点冷却变色，直至露出一层层纹路细密的锻造层。",
+        "text": "Hắn đem rèn chùy để ở một bên, hắc sắc đích thiết châm thượng, chỉ còn lại có khối kia lớn chừng bàn tay, vẫn cứ nóng bỏng đỏ lên đích thiết phôi, một chút điểm làm lạnh biến sắc, cho đến lộ ra một tầng tầng hoa văn tinh mịn đích rèn tầng .",
+        "index": 34
+      }
     },
     {
       "convert": "Viên Minh ánh mắt ngưng tụ, chỉ gặp kia rèn tạo nên hoa văn tầng tầng lớp lớp, không những mười phần rậm rạp, lại mỗi một tầng đường vân độ dày đều đại khái tương đương, nhìn cảnh đẹp ý vui, mười phần không tầm thường.",
       "dich": "Viên Minh nheo mắt nhìn, chỉ thấy tầng tầng lớp lớp đường vân rèn kia không những vô cùng tinh mịn, mà độ dày của đường vẫn mỗi tầng đều xêm xêm nhau, trông rất đẹp mắt, cũng rất không tầm thường.",
       "suggest": "Viên Minh nheo mắt, chỉ thấy lớp bột phấn kia được tạo thành tầng tầng lớp lớp, không những vô cùng rậm rạp, lại có độ dày đại khái tương đương, nhìn cảnh đẹp ý vui, vô cùng không tầm thường.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭目光一凝，只见那锻造出来的花纹层层叠叠，非但十分细密，且每一层的纹路厚度都大致相当，看起来赏心悦目，十分不俗。",
+        "text": "Viên Minh ánh mắt ngưng tụ, chỉ kiến kia rèn ra đích hoa văn tầng tầng lớp lớp, chẳng những thập phần tinh mịn, lại còn mỗi một tầng đích hoa văn độ dày đều đại khái tương đương, thoạt nhìn cảnh đẹp ý vui, thập phần không tầm thường .",
+        "index": 35
+      }
     },
     {
       "convert": "\"Dứt bỏ sở dụng vật liệu không nói, bình thường bình thường luyện khí dùng tinh thiết, chí ít đi qua như thế nghìn lần nện gõ về sau, mới có tư cách dùng để luyện chế pháp khí.",

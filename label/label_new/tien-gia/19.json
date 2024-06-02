@@ -18,7 +18,12 @@
       "dich": "Viên Minh nhìn Ô Lỗ dần tới gần, vô thức nhíu mày nhưng rất nhanh lại giãn ra.",
       "suggest": "Viên Minh từ từ đến gần Ô Lỗ, bất tri bất giác nhíu mày.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭望着逐渐走近的乌鲁，不知不觉皱起了眉头，很快又舒展开来。",
+        "text": "Viên Minh nhìn dần dần đến gần đích Ô Lỗ, bất tri bất giác nhíu mày, rất nhanh lại giãn ra .",
+        "index": 0
+      }
     },
     {
       "convert": "Chỉ thấy Ô Lỗ bả vai, ngực, cánh tay đợi chỗ đều mang theo tổn thương, thậm chí có mấy chỗ vẫn còn ra bên ngoài thấm lấy máu, tựa hồ trước đây không lâu mới vừa trải qua một hồi ác chiến, nhìn tới có chút chật vật.",
@@ -30,7 +35,12 @@
           0.34
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "只见乌鲁肩膀，胸口，手臂等处都带着伤，甚至有几处还在往外渗着血，似乎前不久刚刚经历一场恶战，看起来颇为狼狈。",
+        "text": "Chỉ kiến Ô Lỗ bả vai, ngực, cánh tay đợi chỗ đều mang thương tổn, thậm chí có vài chỗ còn tại ra bên ngoài rướm lấy máu, tựa hồ trước đó không lâu vừa mới kinh lịch một trận ác chiến, thoạt nhìn có chút chật vật .",
+        "index": 1
+      }
     },
     {
       "convert": "Lại nói tiếp, này Ô Lỗ cũng không biết có cái gì đặc biệt cơ duyên, mặc dù khoảng cách Luyện Khí một tầng còn có chút khoảng cách, nhưng tổng thể tốc độ tu luyện tựa hồ cũng không tại hắn phía dưới.",
@@ -42,7 +52,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "说起来，这乌鲁也不知有什么特别的机缘，虽然距离炼气一层还有些距离，但整体修炼速度似乎并不在他之下。",
+        "text": "Nói lên tới, này Ô Lỗ cũng không biết có cái gì đặc biệt đích cơ duyên, tuy rằng cự ly luyện khí một tầng còn có chút cự ly, nhưng chỉnh thể tốc độ tu luyện tựa hồ chẳng hề tại hắn phía dưới .",
+        "index": 2
+      }
     },
     {
       "convert": "Mà hắn thu được da thú bản thể hoa ban mãnh hổ, luận tổng thể sức chiến đấu xa so với Bạch Viên mạnh hơn, ứng phó tầm thường cấp một hạ cấp hung thú hẳn là không tốn sức chút nào mới đúng, cũng không biết rốt cuộc gặp cái gì.",
@@ -54,7 +69,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "而他所获的兽皮本体花斑猛虎，论整体战斗力远比白猿要强，应付寻常一级下阶凶兽应该毫不费力才对，也不知究竟遭遇了什么。",
+        "text": "Mà hắn thu được da thú bản thể hoa ban mãnh hổ, luận chỉnh thể sức chiến đấu xa so với vượn trắng mạnh hơn, ứng phó tầm thường cấp một hạ giai hung thú hẳn phải không tốn sức chút nào mới đúng, cũng không biết đến cùng tao ngộ rồi gì .",
+        "index": 3
+      }
     },
     {
       "convert": "\"Hô Hỏa trưởng lão, tại hạ đã tới chậm, đây là tháng này hung thú tinh huyết.\"",
@@ -106,7 +126,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "呼火长老好像没有看到乌鲁的凄惨模样，面无表情地收走了他的五份精血，扔下两份解药后，便唤出巨禽离去。",
+        "text": "Hô hỏa trưởng lão dường như không nhìn thấy Ô Lỗ đích thê thảm bộ dáng, mặt không thay đổi lấy đi hắn năm phần tinh huyết, ném hai phần giải dược sau, liền gọi ra cự chim rời đi .",
+        "index": 5
+      }
     },
     {
       "convert": "Viên Minh ăn vào giải dược về sau, không có ở cái này lưu lại, cũng tính toán quay người rời đi.",
@@ -118,7 +143,12 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭服下解药后，没有在此逗留，也打算转身离开。",
+        "text": "Viên Minh ăn vào giải dược sau, không có ở đây lưu lại, cũng tính toán chuyển thân rời khỏi .",
+        "index": 6
+      }
     },
     {
       "convert": "\"Viên huynh, chờ một chốc, trong tay ngươi nhưng còn có cái loại này chữa thương cao thảo dược?\"",
@@ -398,7 +428,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭打开竹筒，里面是大半瓶紫黑色的粘稠液体。",
+        "text": "Viên Minh mở ra ống trúc, bên trong là quá nửa bình tím đen sắc đích dính đặc chất lỏng .",
+        "index": 12
+      }
     },
     {
       "convert": "Từ lần trước cứu giúp sự tình về sau, hai người quan hệ kéo gần lại nhiều, hai bên ở giữa cũng nhiều một chút trao đổi.",
@@ -410,14 +445,24 @@
           0.26
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "自从上次相救的事情后，二人的关系拉近了许多，彼此之间也多了一些交流。",
+        "text": "Từ lần trước cứu giúp đích sự tình sau, hai người đích quan hệ rút ngắn rất nhiều, lẫn nhau ở giữa cũng nhiều một chút giao lưu .",
+        "index": 13
+      }
     },
     {
       "convert": "Ô Lỗ tự xưng xuất thân từ một cái Nam Cương tiểu tộc, hiểu được luyện chế một chút vật kịch độc, này nhuyễn cốt độc dịch có thể làm cho người gân cốt bủn rủn, đối với hung thú có phần có hiệu quả, Viên Minh dùng chính mình điều phối thuốc chữa thương mỡ đổi qua hai lần, phát hiện hiệu quả không sai.",
       "dich": "Ô Lỗ tự xưng xuất thân từ một tộc nhỏ tại Nam Cương, biết luyện chế một ít thứ kịch độc. Nhuyễn Cốt độc dịch này có thể khiến người ta bủn rủn gân gốt, đối với hung thú cũng có chút hiệu quả. Viên Minh dùng cao thảo dược trị thương của mình trao đổi hai lần, phát hiện hiệu quả không tệ.",
       "suggest": "Ô Lỗ tự xưng xuất thân từ một tiểu tộc Nam Cương, hiểu được luyện chế một ít chất kịch độc, chất độc nhuyễn cốt này có thể làm cho gân cốt con người trở nên yếu ớt, Viên Minh điều chế thuốc trị thương cho mình đã dùng hai lần, phát hiện hiệu quả chữa thương không sai.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "乌鲁自称出身于一個南疆小族，懂得炼制一些剧毒之物，这软骨毒液能够让人筋骨酸软，对凶兽颇有效果，袁铭用自己调配的疗伤药膏换过两次，发现效果不错。",
+        "text": "Ô Lỗ tự xưng xuất thân tại một Nam Cương tiểu tộc, hiểu được luyện chế một chút kịch độc chi vật, này xương sụn nọc độc có thể làm cho người cơ bắp xương bủn rủn, đối hung thú rất có hiệu quả, Viên Minh dụng chính mình điều phối đích thuốc chữa thương cao đổi qua hai lần, phát hiện hiệu quả không tệ .",
+        "index": 14
+      }
     },
     {
       "convert": "\"Vừa rồi ta mơ hồ nghe thấy Hô Hỏa trưởng lão đang nói chuyện, không biết nói mấy thứ gì đó?\"",
@@ -501,7 +546,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "呼火长老既然没有将成为碧罗洞记名弟子之事告诉乌鲁，他自然不会多嘴乱说。",
+        "text": "Hô hỏa trưởng lão đã không có sẽ thành Bích La Động ký danh đệ tử sự tình nói cho Ô Lỗ, hắn đương nhiên sẽ không lắm miệng nói lung tung .",
+        "index": 17
+      }
     },
     {
       "convert": "Hai người chuyện phiếm chốc lát, trước sau rời đi nơi đây.",
@@ -513,7 +563,12 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "两人闲谈片刻，先后离开此地。",
+        "text": "Hai người nhàn đàm chốc lát, lần lượt rời khỏi nơi đây .",
+        "index": 18
+      }
     },
     {
       "convert": "Viên Minh trở lại động đất, tính toán lên kế hoạch tiếp theo.",
@@ -525,7 +580,12 @@
           0.71
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭回到地洞，盘算起接下来的计划。",
+        "text": "Viên Minh trở lại hầm ngầm, tính toán khởi kế hoạch tiếp theo .",
+        "index": 19
+      }
     },
     {
       "convert": "Hắn vốn định đi đến Thập Vạn Đại Sơn khu vực khác tìm một chút Phi Mao thú nô, nghe ngóng dưới liên quan Bích La Động cùng Hủ Tâm đan sự tình, xem một chút có thể hay không có cơ hội thoát khỏi nơi này, dù sao hắn cũng không nguyện vĩnh viễn đem một cái bị người bức hiếp không có chút nào tương lai thú nô.",
@@ -537,7 +597,12 @@
           0.32
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他本打算前往十万大山其他区域寻一些披毛兽奴，打听下关于碧罗洞以及腐心丹之事，看看能否有机会摆脱这里，毕竟他可不愿永远当一个受人胁迫毫无未来的兽奴。",
+        "text": "Hắn vốn định đi về phía trước Thập Vạn Đại Sơn khu vực khác tìm một chút Phi Mao thú nô, hỏi thăm hạ về Bích La Động cùng với mục nát tâm 丹 sự tình, nhìn xem có thể hay không hữu cơ có thể thoát khỏi chỗ này, xong nhưng lại hắn cũng không nguyện vĩnh viễn làm một cái bị người hiếp bức không hề vị lai đích 兽 nô .",
+        "index": 20
+      }
     },
     {
       "convert": "Hôm nay Hô Hỏa trưởng lão nếu như chỉ một cái có thể gia nhập Bích La Động đường sáng, cũng không cần phiền toái như vậy.",
@@ -553,7 +618,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "如今呼火长老既然指了一条能加入碧罗洞的明路，倒不用这么麻烦了。",
+        "text": "Ngày nay hô hỏa trưởng lão đã chỉ một đầu có thể gia nhập Bích La Động đích đường sáng, cũng không cần phiền toái như vậy rồi .",
+        "index": 21
+      }
     },
     {
       "convert": "Một ngàn phần hung thú tinh huyết nhìn tới không ít, bất quá nếu là giảm bớt thời gian tu luyện, hắn có nắm chắc trong vòng một năm gom góp.",
@@ -565,7 +635,12 @@
           0.48
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一千份凶兽精血看起来不少，不过若是减少修炼时间，他有把握在一年内筹集。",
+        "text": "Một ngàn phần hung thú tinh huyết thoạt nhìn không ít, chẳng qua nếu như giảm thiểu lúc tu luyện gian, hắn có nắm chắc trong vòng một năm gom góp .",
+        "index": 22
+      }
     },
     {
       "convert": "\"Có chút không đúng a, Bích La Động thấy thế nào cũng không giống là dễ nói chuyện tông môn, sao lại như thế quyết định như vậy rộng rãi điều kiện?",

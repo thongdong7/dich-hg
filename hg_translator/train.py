@@ -108,8 +108,8 @@ def load_tokenizer():
 
 tokenizer = load_tokenizer()
 
-source_lang = "convert"
-target_lang = "dich"
+source_lang = "zh"
+target_lang = "vi"
 
 
 def preprocess_function(examples):
@@ -224,10 +224,13 @@ print("Evaluating on test data...")
 eval_result = trainer.evaluate(tokenized_test_data)
 print(f"Test results: {eval_result}")
 
+
 model_dir = join(repo_dir, model_name)
 if exists(model_dir):
     print(f"Removing {model_dir}...")
     shutil.rmtree(model_dir)
+
+trainer.save_model(model_dir)
 
 # Remove model zip if exists
 if exists(f"{model_dir}.zip"):
@@ -238,7 +241,19 @@ if exists(f"{model_dir}.zip"):
 print(f"Saving model to {model_dir}.zip...")
 shutil.make_archive(model_dir, "zip", model_dir)
 
-trainer.save_model(model_dir)
+# Get 10 test examples
+test_examples = tokenized_test_data[:10]
+
+# Use the trained model to translate them
+translations = [
+    trainer.model.generate(example, num_return_sequences=1) for example in test_examples
+]
+
+# Print the translations
+for i, (input, translation) in enumerate(zip(test_examples, translations)):
+    print(f"Input {i+1}: {tokenizer.decode(input)}")
+    print(f"Translation {i+1}: {tokenizer.decode(translation[0])}")
+    print("-" * 100)
 
 # print("Remove run directly to save space...")
 # if exists(join(model_dir, "runs")):
@@ -253,7 +268,7 @@ trainer.save_model(model_dir)
 print("Training time: {:.2f} seconds".format(time.time() - start))
 print(f"Test results: {eval_result}")
 
-translator = pipeline("translation", model="convert_dich")
+translator = pipeline("translation", model=model_name)
 
 
 def _test(text: str, expected: str):
@@ -272,22 +287,22 @@ def _test(text: str, expected: str):
 #     "translate English to French: Legumes share resources with nitrogen-fixing bacteria."
 # )
 _test(
-    "Hàn Lập đem thể nội trong kinh mạch năng lượng chảy chậm rãi địa thu về đan điền",
-    "Hàn Lập đưa toàn bộ năng lượng trong cơ thể theo kinh mạch chảy chậm về đan điền",
+    "说着，他就扬了扬拎在手中的两个深红色的小酒埕。",
+    "Vừa nói, hắn vừa vung vẩy hai chai rượu đỏ thẫm trong tay.",
 )
 
 
 _test(
-    "Hàn Lập đem thể nội trong kinh mạch năng lượng chảy chậm rãi địa thu về đan điền, đây là hắn hôm nay liên tiếp vận hành đệ thất cái đại chu thiên tuần hoàn, hắn biết rõ chính mình thân thể đã đạt đến có thể thừa nhận được cực hạn,",
-    "Hàn Lập đưa toàn bộ năng lượng trong cơ thể theo kinh mạch trở về đan điền, vậy là hôm nay hắn đã vận hành được bảy chu thiên tuần hoàn, hắn cũng tự biết rằng đây đã là giới hạn của bản thân hắn tại thời điểm này",
+    "“嘿，你真带酒来了？”鱼翁一看到有酒，眼睛里顿时有了光亮。",
+    "“Hắc, ngươi thật mang rượu tới tới?” cá ông vừa nhìn thấy có rượu, con mắt trong tức khắc có rồi ánh sáng.",
 )
 
 _test(
-    "Nhị Lăng Tử mở to hai mắt, thẳng tắp nhìn cỏ tranh cùng bùn nhão dán thành đen nóc nhà,",
-    "‘Anh ngố’ nhìn chằm chằm vào nóc nhà được tạo thành từ cỏ dại và bùn trộn lẫn.",
+    "他忙起身相迎。",
+    "Hắn vội vàng đứng dậy nghênh tiếp.",
 )
 
 _test(
-    "Một đạo gầy yếu bóng dáng nhảy vào mặt sông, tóe lên một mảnh bọt nước.",
-    "Một đạo bóng dáng gầy yếu nhảy vào mặt sông, tóe lên một mảnh bọt nước.",
+    "“答应过您的事，怎么可能会忘？”袁铭笑着把酒递了过去，说道。",
+    "“Đã đáp ứng chuyện của ngài, làm sao lại quên?” Viên Minh cười nâng cốc đưa tới, nói.",
 )

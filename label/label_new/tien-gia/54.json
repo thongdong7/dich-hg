@@ -171,7 +171,12 @@
           0.41
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "高大青年笑容一敛，咧嘴说道：“不带路的话，你也就没什么用了，杀了也不是不行。”",
+        "text": "Cao lớn thanh niên tiếu dung chợt tắt, nhếch miệng nói : “ không dẫn đường thì, ngươi cũng liền không còn tác dụng gì nữa, giết cũng không phải không được . ”",
+        "index": 4
+      }
     },
     {
       "convert": "Viên Minh nghe vậy, đành phải đáp ứng.",
@@ -183,7 +188,12 @@
           0.53
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭闻言，只好答应下来。",
+        "text": "Viên Minh nghe vậy, đành phải đáp ứng .",
+        "index": 5
+      }
     },
     {
       "convert": "Hắn từ một người trong tay tiếp nhận bó đuốc, đi ở đội ngũ phía trước nhất, mang theo đám người trở về.",
@@ -195,7 +205,12 @@
           0.33
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他从一人手中接过火把，走在了队伍最前方，带着众人返回。",
+        "text": "Hắn từ một người trong tay tiếp nhận cây đuốc, tẩu tại rồi đội ngũ trước nhất phương, mang theo chúng nhân phản hồi .",
+        "index": 6
+      }
     },
     {
       "convert": "Đi hồi lâu, tới gần toà kia động quật thời điểm, đám người cũng đều dần dần ngửi được trong không khí tràn ngập mùi máu tươi cùng mùi hôi thối, từng cái không tự giác địa thu âm thanh, bắt đầu trở nên yên tĩnh.",
@@ -207,7 +222,12 @@
           0.4
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "走了许久，临近那座洞窟的时候，众人也都逐渐嗅到了空气中弥漫的血腥味和腐臭味，一个個不自觉地收了声，开始变得安静起来。",
+        "text": "Tẩu rồi hồi lâu, lân cận toà kia động quật thời điểm, chúng nhân cũng đều dần dần ngửi được trong không khí tràn ngập mùi máu tươi cùng mùi hôi thối, một cái 個 không tự giác địa thu tiếng, bắt đầu trở nên an tĩnh lại .",
+        "index": 7
+      }
     },
     {
       "convert": "Chi đội ngũ này, trừ bỏ Viên Minh vẫn còn mười bảy mười tám người, xem ra cũng đều là ký danh đệ tử ở bên trong người nổi bật, được cho người đông thế mạnh, mặc dù nhiều ít có mấy phần cuồng vọng, lại đều không ngốc.",
@@ -219,7 +239,12 @@
           0.44
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这支队伍，除去袁铭还有十七八人，看样子也都是记名弟子里的佼佼者，算得上人多势众，虽然多少有几分狂妄，却都不傻。",
+        "text": "Chi đội ngũ này, trừ đi Viên Minh còn có mười bảy mười tám người, xem chừng cũng đều là ký danh đệ tử trong đích người nổi bật, được cho người đông thế mạnh, mặc dù nhiều ít có mấy phần cuồng vọng, lại đều không ngốc .",
+        "index": 8
+      }
     },
     {
       "convert": "Đi vào động quật cửa vào thời điểm, bọn hắn tất cả đều không tự giác địa ngừng lại, sai sử Viên Minh đi vào trước.",
@@ -231,7 +256,12 @@
           0.38
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "来到洞窟入口的时候，他们全都不自觉地停了下来，指使着袁铭先进去。",
+        "text": "Đi tới động quật nhập khẩu thời điểm, bọn họ tất cả đều không tự giác địa ngừng lại, sai sử Viên Minh đi vào trước .",
+        "index": 9
+      }
     },
     {
       "convert": "Viên Minh bất đắc dĩ, chỉ có thể dẫn đầu đi vào.",
@@ -243,7 +273,12 @@
           0.63
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭无奈，只能率先走了进去。",
+        "text": "Viên Minh bất đắc dĩ, chỉ có thể dẫn trước đi vào .",
+        "index": 10
+      }
     },
     {
       "convert": "May mắn, trong động quật trống rỗng, Nhân Tiêu Vương cũng không có trở về.",
@@ -279,14 +314,24 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "所幸，洞窟里空荡荡的，人魈王并没有返回。",
+        "text": "May mà, trong động quật trống rỗng, người tiêu vương cũng không có trở về .",
+        "index": 11
+      }
     },
     {
       "convert": "Hắn giơ bó đuốc ở bên trong tuần sát một vòng, đem lúc trước không cách nào thấy rõ nơi hẻo lánh, tất cả đều nhìn một lần, không thể tìm tới lúc trước truyền âm cho hắn tồn tại, lại phát hiện ao máu kia trên mặt đất, nhiều từng nét bùa chú vết khắc, ẩn ẩn đem toàn bộ huyết trì vây lại.",
       "dich": "Hắn cầm đuốc đi kiểm tra động quật một vòng, nhìn kỹ mọi ngóc ngách mà lúc trước không nhìn rõ, tuy không tìm thấy \"kẻ\" phát ra âm thanh khi trước, nhưng lại phát hiện thêm rất nhiều phù văn được khắc trên mặt đất quanh ao máu, mơ hồ quây toàn bộ ao máu lại.",
       "suggest": "Hắn giơ bó đuốc lên, tuần sát một vòng khắp nơi mà hắn không thể thấy được, tất cả đều nhìn một lần, không thể tìm được chỗ nào khác để truyền âm cho hắn, lại phát hiện trên mặt đất có khắc từng nét bùa chú, ẩn ẩn bao phủ toàn bộ huyết trì.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他举着火把在里面巡视一圈，将先前无法看清的角落，全都看了一遍，没能找到先前传音给他的存在，却发现那座血池地面上，多了一道道符文刻痕，隐隐将整个血池围了起来。",
+        "text": "Hắn giơ cây đuốc ở bên trong tuần tra một vòng, đem lúc trước vô pháp thấy rõ xó xỉnh, tất cả đều nhìn một lần, không thể tìm được lúc trước truyền âm cho hắn tồn tại, lại phát hiện ao máu kia trên mặt đất, nhiều từng nét bùa chú vết khắc, ẩn ẩn đem toàn bộ huyết trì vây lại .",
+        "index": 12
+      }
     },
     {
       "convert": "Viên Minh trong lòng vững tin, lúc trước vùi lấp tam giác phù sắt thời điểm, trên mặt đất còn không có những phù văn này vết khắc, hiển nhiên là ở hắn sau khi đi mới bị khắc hoạ đi lên.",
@@ -298,7 +343,12 @@
           0.16
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭心中确信，先前掩埋三角符铁的时候，地上还没有这些符文刻痕，显然是在他走之后才被刻画上去的。",
+        "text": "Viên Minh trong lòng tin tưởng, lúc trước vùi lấp tam giác phù thiết thời điểm, địa thượng còn không có những phù văn này vết khắc, hiển nhiên là tại hắn sau khi đi mới bị khắc đi lên đích .",
+        "index": 13
+      }
     },
     {
       "convert": "\"Nhân Tiêu Vương không ở, bên trong tạm thời không có nguy hiểm.\"",
@@ -370,7 +420,12 @@
           0.29
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "话音落下，等了足足一炷香的时间，才有人走进洞窟。",
+        "text": "Thoại âm rơi xuống, đợi ước chừng thời gian một nén nhang, mới có người đi vào động quật .",
+        "index": 15
+      }
     },
     {
       "convert": "Về sau, đám người nối đuôi nhau mà vào, mắt thấy bên trong không có nguy hiểm, lá gan cũng đều lớn lên, bắt đầu bốn phía xem xét.",
@@ -382,7 +437,12 @@
           0.59
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "之后，众人鱼贯而入，眼见里面没有危险，胆子也都大了起来，开始四下查看。",
+        "text": "Sau đó, chúng nhân nối đuôi nhau mà vào, mắt thấy bên trong không có nguy hiểm, lá gan cũng đều lớn lên, bắt đầu mọi nơi dò xét .",
+        "index": 16
+      }
     },
     {
       "convert": "\"Nhân Tiêu Vương đâu?",
@@ -530,7 +590,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "坤图则有意无意地朝着袁铭靠近。",
+        "text": "Khôn đồ thì vô tình hay cố ý hướng tới Viên Minh tới gần .",
+        "index": 20
+      }
     },
     {
       "convert": "Viên Minh trong lòng có đề phòng, bước chân dao động, từ đầu đến cuối cùng hắn giữ một khoảng cách.",
@@ -542,7 +607,12 @@
           0.16
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭心中有所防备，脚步游移，始终与他保持距离。",
+        "text": "Viên Minh trong lòng có đề phòng, cước bộ dao động, thủy chung cùng hắn giữ một khoảng cách .",
+        "index": 21
+      }
     },
     {
       "convert": "Đúng lúc này, động quật một bên khác, bỗng nhiên có một tiếng hét thảm truyền đến.",
@@ -554,7 +624,12 @@
           0.22
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在这时，洞窟的另一边，忽然有一声惨叫传来。",
+        "text": "Đúng lúc này, động quật đích bên kia, bỗng nhiên có một tiếng hét thảm truyền đến .",
+        "index": 22
+      }
     },
     {
       "convert": "Đám người còn không có kịp phản ứng, liền thấy một viên đầu to lớn, \"Nhanh như chớp\" địa lăn đến đám người bên chân.",
@@ -570,7 +645,12 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "众人还没反应过来，就看到一颗硕大的脑袋，“骨碌碌”地滚到了众人脚边。",
+        "text": "Chúng nhân còn chưa phản ứng, liền thấy một viên cực đại đích cái đầu, “ nhanh như chớp ” địa lăn đến rồi chúng nhân bên chân .",
+        "index": 23
+      }
     },
     {
       "convert": "Ngay sau đó, mờ tối trong động quật, bỗng nhiên một đạo huyết ảnh bay lượn mà qua.",
@@ -586,7 +666,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "紧接着，昏暗的洞窟里，忽然一道血影飞舞而过。",
+        "text": "Ngay sau đó lấy, mờ tối trong động quật, bỗng nhiên một đạo huyết ảnh bay múa mà qua .",
+        "index": 24
+      }
     },
     {
       "convert": "Lúc trước chế giễu Viên Minh cái kia cao gầy nam tử, chỉ tới kịp phát ra một tiếng ngắn ngủi la lên, nửa thân thể liền đã bay lên, mang theo lớn nâng máu tươi hắt vẫy ra ngoài.",
@@ -598,7 +683,12 @@
           0.39
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "先前嘲笑袁铭的那个瘦高男子，只来得及发出一声短促的呼喊，半截身子就已经飞了起来，带着大捧鲜血泼洒出去。",
+        "text": "Lúc trước cười nhạo Viên Minh đích cái kia cao gầy nam tử, chỉ tới kịp phát ra một tiếng ngắn ngủi đích hô hoán, một nửa thân thể cũng đã bay lên, mang theo đại nắm máu tươi vẩy bắn đi ra .",
+        "index": 25
+      }
     },
     {
       "convert": "\"Nhân Tiêu Vương, là Nhân Tiêu Vương...\"",
@@ -678,7 +768,12 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "洞窟各处纷纷有颜色各异的光芒亮起，这些记名弟子们纷纷激发了各自的护身法器，朝着另一边退了开去。",
+        "text": "Động quật các nơi nhao nhao có nhan sắc khác nhau quang mang sáng lên, những này đám ký danh đệ tử bọn họ nhao nhao kích phát rồi mỗi cái đích pháp khí hộ thân, hướng tới bên kia lui ra .",
+        "index": 27
+      }
     },
     {
       "convert": "Viên Minh một tay lấy bó đuốc hướng phía Khôn Đồ phương hướng ném tới, quay người chui vào trong bóng tối, bằng vào so với những người khác hiểu rõ hơn địa hình ưu thế, cấp tốc che giấu thân hình của mình.",
@@ -690,7 +785,12 @@
           0.33
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭一把将火把朝着坤图的方向扔了过去，转身钻入黑暗里，凭借比其他人更了解地形的优势，迅速掩藏了自己的身形。",
+        "text": "Viên Minh một cái đem cây đuốc hướng tới khôn đồ phương hướng ném tới, chuyển thân chui vào hắc ám trong, bằng vào so cái khác người hiểu rõ hơn địa hình đích ưu thế, nhanh chóng che giấu thân hình của mình .",
+        "index": 28
+      }
     },
     {
       "convert": "Nhận bó đuốc hấp dẫn, Nhân Tiêu Vương thân ảnh lóe lên, liền hướng phía Khôn Đồ nhào tới.",
@@ -718,7 +818,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "受到火把吸引，人魈王身影一闪，就朝着坤图扑了上去。",
+        "text": "Nhận cây đuốc hấp dẫn, người tiêu vương thân ảnh chợt lóe, liền hướng tới khôn đồ nhào tới .",
+        "index": 29
+      }
     },
     {
       "convert": "\"Viên Minh!\"",
@@ -766,7 +871,12 @@
           0.28
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "坤图怒火中烧，连忙催动法力，身上悬挂的一枚颜色翠绿的玉佩上顿时绽放出柔和光芒，将他周身笼罩。",
+        "text": "Khôn đồ trong cơn giận dữ, vội vàng thúc động pháp lực, trên thân treo đích một viên nhan sắc xanh biếc đích trên ngọc bội tức khắc nở rộ ra nhu hòa quang mang, đem hắn quanh thân bao phủ .",
+        "index": 31
+      }
     },
     {
       "convert": "Cùng lúc đó, hắn cũng một cái nghiêng người né tránh, né tránh Nhân Tiêu Vương chính diện tập kích.",
@@ -790,7 +900,12 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "与此同时，他也一个侧身闪避，躲开了人魈王的正面袭击。",
+        "text": "Cùng lúc đó, hắn cũng một cái nghiêng người né tránh, né tránh rồi người tiêu vương đích chính diện tập kích .",
+        "index": 32
+      }
     },
     {
       "convert": "Nhưng mà, ngay tại hai người thác thân mà qua thời điểm, Nhân Tiêu Vương bỗng nhiên ngang tay quét qua, cơ bắp khô cạn từng cục, lông dài run run cánh tay rắn rắn chắc chắc địa đập vào trên người hắn.",
@@ -802,7 +917,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "然而，就在两人错身而过的时候，人魈王忽然横臂一扫，肌肉干枯虬结，长毛耸动的手臂结结实实地砸在了他的身上。",
+        "text": "Nhưng mà, ngay tại hai người thác thân mà qua thời điểm, người tiêu vương bỗng nhiên ngang tay quét qua, cơ bắp khô héo cuồn cuộn, lông dài rúng động đích cánh tay cứng rắn địa đập vào trên người hắn .",
+        "index": 33
+      }
     },
     {
       "convert": "Khôn Đồ quanh thân thanh quang một thịnh, tiếp theo \"Két\" một tiếng vỡ vụn, thân thể cuồn cuộn lấy ngã văng ra ngoài.",
@@ -814,7 +934,12 @@
           0.42
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "坤图周身青光一盛，继而“咔”的一声碎裂，身躯翻滚着摔了出去。",
+        "text": "Khôn đồ quanh thân thanh quang một thịnh, tiếp đó “ két ” đích một tiếng vỡ vụn, thân thể quay cuồng lấy ngã văng ra ngoài .",
+        "index": 34
+      }
     },
     {
       "convert": "Lúc này mới vừa đối mặt, đám người thậm chí cũng không kịp thấy rõ Nhân Tiêu Vương bộ dáng, liền đã liên tiếp có mấy người tử thương, cái này khiến những cái kia đáng nhẽ chí khí ngang dương đám ký danh đệ tử bọn họ, lập tức có chút tâm thần thất thủ.",
@@ -826,7 +951,12 @@
           0.4
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这才一个照面，众人甚至都没来得及看清人魈王的模样，就已经接连有数人死伤，这让那些本来志气昂扬的记名弟子们，顿时有些心神失守。",
+        "text": "Lúc này mới vừa đối mặt, chúng nhân thậm chí cũng không kịp xem rõ người tiêu vương đích bộ dáng, cũng đã liên tiếp hiểu rõ người tử thương, cái này khiến những cái kia vốn dĩ chí khí dâng trào đích đám ký danh đệ tử bọn họ, tức khắc có chút tâm thần thất thủ .",
+        "index": 35
+      }
     },
     {
       "convert": "\"Ngăn không được, pháp khí hộ thân ngay cả một kích cũng đỡ không nổi.\"",
@@ -838,7 +968,12 @@
           0.22
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "“挡不住，护身法器连一击都挡不住。”",
+        "text": "“ ngăn không được, pháp khí hộ thân liền một kích cũng đỡ không nổi . ”",
+        "index": 36
+      }
     },
     {
       "convert": "\"Quá mạnh, nó quá mạnh...\"",
@@ -862,7 +997,12 @@
           0.59
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "众人一边惊恐叫喊着，一边朝后退去，不知不觉地挤在了一团。",
+        "text": "Chúng nhân một bên hoảng sợ gào thét, một bên hướng về sau thối lui, bất tri bất giác chen tại rồi một đoàn .",
+        "index": 38
+      }
     },
     {
       "convert": "\"Ngu xuẩn, đều tản ra, đừng nhét chung một chỗ.\"",

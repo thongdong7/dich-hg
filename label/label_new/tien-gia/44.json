@@ -47,7 +47,12 @@
           0.51
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一群人搜寻了一夜，最终一无所获。",
+        "text": "Một đám người tìm tòi một đêm, sau cùng không thu hoạch được gì .",
+        "index": 1
+      }
     },
     {
       "convert": "\"Uy, cái kia Thú Nô, ngươi coi là thật nhìn thấy Nhân Tiêu?\"",
@@ -239,7 +244,12 @@
           0.37
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一句话就呛住了坤图，让他想要发怒都没了借口。",
+        "text": "Một câu lời liền sặc ở khôn đồ, khiến hắn muốn tức giận đều không còn mượn cớ .",
+        "index": 6
+      }
     },
     {
       "convert": "\"Theo tông môn cho tình báo, Nhân Tiêu không nên ở chỗ này hoạt động a.\"",
@@ -339,7 +349,12 @@
           0.22
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭略一犹豫，还是开口说道：“如果你们说的人魈，就是我昨晚见过的怪物的话，那去年的时候，就有人已经遇到过了。”",
+        "text": "Viên Minh hơi chút do dự, mới lên tiếng nói : “ nếu các ngươi nói người tiêu, chính là ta tối hôm qua thấy qua quái vật thì, vậy đi năm thời điểm, liền đã có người gặp phải qua . ”",
+        "index": 9
+      }
     },
     {
       "convert": "\"Ngươi nói cái gì?",

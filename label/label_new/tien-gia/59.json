@@ -18,7 +18,12 @@
       "dich": "Viên Minh trầm ngâm một lát, xong liền cúi người đưa cây củi lửa xuống, toan nhìn cho rõ ràng hơn.",
       "suggest": "Viên Minh suy nghĩ một chút, cúi người xuống, cầm lấy cái búa vung lên, muốn xem rõ hơn một chút.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭略一沉吟，俯下身子，将火棍往下探去，想要看得更清楚些。",
+        "text": "Viên Minh suy nghĩ một chút, cúi người xuống, đem chùy đi xuống tìm kiếm, muốn xem được rõ ràng hơn chút .",
+        "index": 0
+      }
     },
     {
       "convert": "Kia Thanh Lang lại giống như là bị ánh lửa kích thích, đột nhiên một tiếng nổi giận gào thét, toàn bộ thân thể đột nhiên hướng lên xông lên, song trảo víu vào hố đất vách tường, từ bên trong bỗng nhiên thoan xuất hiện.",
@@ -30,14 +35,24 @@
           0.16
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "那青狼却像是被火光刺激到了，突然一声暴怒嘶吼，整个身子陡然向上一冲，双爪一扒土坑墙壁，从里面猛地蹿了出来。",
+        "text": "Kia sói xanh nhưng như là bị ánh lửa kích thích, đột nhiên một tiếng nổi giận gào thét, cả thân thể đột nhiên hướng về phía trước xông lên, hai móng víu vào hố đất vách tường, từ giữa mặt bỗng nhiên nhảy lên rồi ra .",
+        "index": 1
+      }
     },
     {
       "convert": "Phía trên bắt lưới cùng gỗ tròn vậy mà không có thể ngăn ở, Thanh Lang trực tiếp phá tan Liễu Viên Mộc, ở bắt lưới bọc vào ngã xuất hiện.",
       "dich": "Mấy khúc cây và tấm lưới bên trên không thể ngăn cản, sói xanh trực tiếp đánh văng mấy khúc cây rồi đội cả tấm lưới lăn ra bên cạnh.",
       "suggest": "Trên lưới và gỗ tròn không có ngăn cách, thanh Lang trực tiếp đập vào người Liễu Viên Mộc, nằm thẳng cẳng lên đó.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "上面的捕网和圆木竟然没能挡住，青狼直接撞开了圆木，在捕网的包裹下摔了出来。",
+        "text": "Phía trên bắt lưới cùng gỗ tròn vậy mà không có thể ngăn trụ, sói xanh trực tiếp phá tan liễu viên mộc, tại bắt lưới đích bọc vào ngã ra .",
+        "index": 2
+      }
     },
     {
       "convert": "Thanh Lang thân thể tứ chi bị bắt lưới quấn quanh, vùng vẫy mấy lần đều không thể thoát thân xuất hiện.",
@@ -53,7 +68,12 @@
           0.15
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "青狼身子四肢被捕网缠绕，挣扎了几次都没能脱身出来。",
+        "text": "Sói xanh thân thể tứ chi bị bắt lưới quấn quanh, vùng vẫy mấy lần đều không thể thoát thân ra .",
+        "index": 3
+      }
     },
     {
       "convert": "Viên Minh thấy thế, một cái ném xuống chùy, rút ra bên hông trường kiếm, thả người vọt lên liền hướng phía Thanh Lang huy kiếm chém xuống tới.",
@@ -65,7 +85,12 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭见状，一把扔掉了火棍，抽出腰间长剑，纵身跃起就朝着青狼挥剑斩了下来。",
+        "text": "Viên Minh thấy thế, một cái ném xuống chùy, rút ra bên hông trường kiếm, nhún người vọt khởi liền hướng tới sói xanh huy kiếm chém xuống .",
+        "index": 4
+      }
     },
     {
       "convert": "Thanh Lang lập tức ngay tại chỗ lăn mình một cái, né tránh trường kiếm đồng thời, cũng từ bắt lưới chỗ thủng bên trong tránh thoát xuất hiện.",
@@ -77,7 +102,12 @@
           0.15
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "青狼立即就地一个翻滚，躲开长剑的同时，也从捕网的破口中挣脱了出来。",
+        "text": "Sói xanh lập tức ngay tại chỗ lăn mình một cái, né tránh trường kiếm đồng thời, cũng từ bắt lưới đích miệng vỡ trung tránh thoát ra .",
+        "index": 5
+      }
     },
     {
       "convert": "Đứng dậy trong nháy mắt, Thanh Lang khôi phục tứ chi chạm đất tư thái, hướng phía Viên Minh nhe răng, lộ ra một ngụm sắc nhọn răng trắng như tuyết.",
@@ -89,7 +119,12 @@
           0.23
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "起身的瞬间，青狼恢复了四肢着地的姿态，朝着袁铭龇牙，露出一口尖利雪白的牙齿。",
+        "text": "Đứng dậy đích trong nháy mắt, sói xanh khôi phục rồi tứ chi chạm đất đích tư thái, hướng tới Viên Minh nhe răng, lộ ra một ngụm sắc nhọn tuyết trắng đích răng nanh .",
+        "index": 6
+      }
     },
     {
       "convert": "Viên Minh lại tại xem Thanh Thanh lang bộ dáng một nháy mắt, ngây ngẩn cả người.",
@@ -101,14 +136,24 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭却在看清青狼模样的一瞬间，愣住了。",
+        "text": "Viên Minh lại tại xem rõ sói xanh bộ dáng một cái chớp mắt gian, ngây ngẩn cả người .",
+        "index": 7
+      }
     },
     {
       "convert": "Lúc này Thanh Lang, toàn thân trải rộng máu me đầm đìa vết thương, trong cặp mắt không có u lục quang mang, ngược lại hiện ra huyết hồng chi sắc, toét ra khóe miệng không ngừng chảy xuống nước bọt.",
       "dich": "Sói xanh lúc này, cả người chằng chịt những vết thương máu chảy đầm đìa, trong mắt không còn quang mang xanh tối, mà lại lộ ra sắc máu, khóe miệng nhếch lên không ngừng chảy nước bọt.",
       "suggest": "Lúc này, toàn thân con sói này đều nhuốm máu, trong hai mắt không có chút u quang, trái lại còn hiện lên màu đỏ thẫm, nước bọt liên tục chảy ra từ khóe miệng.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "此时的青狼，浑身遍布鲜血淋漓的伤口，一双眼睛里没有幽绿光芒，反而泛着血红之色，咧开的嘴角不断淌着涎水。",
+        "text": "Lúc này đích sói xanh, toàn thân trải rộng máu me đầm đìa đích miệng vết thương, trong cặp mắt không có u lục quang mang, ngược lại hiện ra huyết hồng chi sắc, toét ra đích khóe miệng không ngừng chảy lấy nước dãi .",
+        "index": 8
+      }
     },
     {
       "convert": "Mặc dù con mắt không khớp hào, nhưng này bộ dáng Viên Minh cũng không lạ lẫm.",
@@ -120,7 +165,12 @@
           0.15
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "虽然眼睛对不上号，但那模样袁铭并不陌生。",
+        "text": "Tuy rằng con mắt đúng không số trên, nhưng bộ dáng kia Viên Minh chẳng hề xa lạ .",
+        "index": 9
+      }
     },
     {
       "convert": "\"Cáp Cống, là ngươi sao?\"",
@@ -196,14 +246,24 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "原本还在低声吼叫的青狼，在听到袁铭问话时，血红色的眼眸里顿时浮现出挣扎之色，本应墨绿的光泽重新显现。",
+        "text": "Nguyên bản còn tại thấp giọng gầm rú đích sói xanh, đang nghe Viên Minh tra hỏi thời, tròng mắt màu đỏ ngòm trong tức khắc hiện ra giãy dụa chi sắc, vốn nên xanh thẫm đích sáng bóng lần nữa hiển hiện .",
+        "index": 11
+      }
     },
     {
       "convert": "Nhưng chỉ là một cái chớp mắt, hắn đôi mắt lại lần nữa bị huyết sắc bao trùm, hướng phía Viên Minh mãnh nhào tới.",
       "dich": "Nhưng chỉ chớp mắt sau đó, đôi mắt sói xanh lại bị sắc máu bao trùm, thân thể hung hăng nhào về phía Viên Minh.",
       "suggest": "Nhưng chỉ trong nháy mắt, hai mắt hắn lại một lần nữa bị máu tươi bao phủ, hướng Viên Minh liều mạng nhào tới.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "但只是一瞬，其眼眸又再次被血色覆盖，朝着袁铭猛扑了上来。",
+        "text": "Nhưng chỉ là một cái chớp mắt, nó đôi mắt lại lần nữa bị huyết sắc bao trùm, hướng tới Viên Minh bổ nhào tới .",
+        "index": 12
+      }
     },
     {
       "convert": "\"Hắn đây là nhận Phi Mao Thuật phản phệ rồi?\"",
@@ -262,7 +322,12 @@
       "dich": "Khi sói xanh vọt qua bên cạnh người, Viên Minh đưa mắt nhìn thoáng qua, phát hiện hai chân sau sói xanh tráng kiện dị thường, không những không giống chân những con sói xanh khác, trái lại trông không khác gì chân người bị phủ lông thú.",
       "suggest": "Con sói nhỏ nhảy chồm ra từ bên cạnh, Viên Minh thì ánh mắt thoáng nhìn, nhìn thấy hai đầu chân sau của nó vô cùng tráng kiện, so với chân thú thì hoàn toàn khác biệt so với chân thú mà sói xanh đang mặc.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "青狼从他身旁错身扑开，袁铭则目光一瞥，看到它的两条后腿异常粗壮，跟青狼的兽腿不同，反而更像是被毛发覆盖的人腿。",
+        "text": "Sói xanh từ bên cạnh hắn thác thân nhào khai, Viên Minh thì ánh mắt thoáng nhìn, nhìn thấy nó hai đầu chân sau dị thường tráng kiện, cùng sói xanh đích chân thú bất đồng, ngược lại càng giống là bị lông tóc bao trùm đùi người .",
+        "index": 14
+      }
     },
     {
       "convert": "Đồng thời người kia đi đứng bên trên lông tóc, còn không phải màu xanh đen, mà là màu trắng.",
@@ -274,7 +339,12 @@
           0.54
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "并且那人腿脚上的毛发，还不是青黑色，而是白色。",
+        "text": "Mà còn người kia đi đứng thượng đích lông tóc, còn không phải thanh hắc sắc, mà là màu trắng .",
+        "index": 15
+      }
     },
     {
       "convert": "Viên Minh trong lòng kinh nghi không chừng, mới vừa vặn rơi xuống đất, liền bị sau lưng đã cấp tốc trở về Thanh Lang đụng đầu, chỉ có thể ném Thanh Ngư Kiếm, hai tay trùng điệp ngang tay, ngăn tại trước ngực.",
@@ -286,7 +356,12 @@
           0.22
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭心中惊疑不定，才刚刚落地，就被身后已经急速折返的青狼迎头撞上，只能扔下青鱼剑，双手交叠横臂，挡在了胸前。",
+        "text": "Viên Minh trong lòng kinh nghi bất định, vừa mới vừa xuống đất, liền bị sau lưng đã cấp tốc đi vòng vèo đích sói xanh đụng đầu, chỉ có thể ném cá trắm đen 剑, hai tay chập lại ngang tay, chắn trước ngực .",
+        "index": 16
+      }
     },
     {
       "convert": "\"Oanh \"",
@@ -334,7 +409,12 @@
           0.38
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "巨大的力量冲撞之下，一下将袁铭顶飞了十数丈。",
+        "text": "Lực lượng khổng lồ va chạm phía dưới, một chút đem Viên Minh húc bay rồi hơn mười trượng .",
+        "index": 18
+      }
     },
     {
       "convert": "Giữa không trung, hắn nhanh chóng phủ thêm vượn da, thi triển Phi Mao Chi Thuật, hóa thành vượn trắng thân thể hậu thân hình một cái sau lật, bình ổn rơi xuống đất.",
@@ -346,7 +426,12 @@
           0.28
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "半空中，他快速披上猿皮，施展了披毛之术，化作白猿之躯后身形一个后翻，平稳落地。",
+        "text": "Giữa không trung trung, hắn nhanh chóng phủ thêm vượn da, thi triển khoác lông thuật, hóa thành vượn trắng thân thể hậu thân hình một cái sau vượt, bình ổn rơi xuống đất .",
+        "index": 19
+      }
     },
     {
       "convert": "\"Cáp Cống, tỉnh!\"",
@@ -405,7 +490,12 @@
       "dich": "Cánh tay vượn tráng kiện của hắn kẹp trúng ngay yết hầu sói xanh, chặn đứng thân thể nó lại.",
       "suggest": "Tay vượn của hắn lần nữa kẹp chặt vào yết hầu của con sói, ép chặt nó xuống để bảo vệ.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "其粗壮的猿臂一下卡住青狼的喉咙，将它的身躯死死抵住。",
+        "text": "Nó tráng kiện đích tay vượn một chút kìm lại sói xanh đích yết hầu, đưa nó đích thân thể gắt gao chống trụ .",
+        "index": 21
+      }
     },
     {
       "convert": "Thanh Lang miệng máu không ngừng cắn xé, nhưng thủy chung không cách nào cắn trúng Viên Minh.",
@@ -417,7 +507,12 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "青狼血口不断撕咬，却始终无法咬中袁铭。",
+        "text": "Sói xanh miệng máu không ngừng cắn xé, nhưng thủy chung vô pháp cắn trúng Viên Minh .",
+        "index": 22
+      }
     },
     {
       "convert": "Viên Minh chú ý tới, mới vừa rồi còn chỉ có toàn bộ chân lông tóc trắng Thanh Lang, lúc này hai đầu chân sau đều đã biến thành màu trắng.",
@@ -429,7 +524,12 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭注意到，方才还只有整個脚毛发白的青狼，此刻两条后腿已经尽数变成了白色。",
+        "text": "Viên Minh chú ý tới, mới còn chỉ có cả cước lông tóc bạch đích sói xanh, lúc này hai đầu chân sau đều đã biến thành màu trắng .",
+        "index": 23
+      }
     },
     {
       "convert": "\"Nhanh như vậy...\"",
@@ -457,7 +557,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他联想到自己那个深藏心底的猜测，心头不由一跳。",
+        "text": "Hắn liên tưởng đến chính mình cái kia che giấu đáy lòng suy đoán, trong lòng bất giác nhảy dựng .",
+        "index": 25
+      }
     },
     {
       "convert": "\"Xin lỗi, Cáp Cống, ngươi được tranh thủ thời gian tỉnh lại.\"",
@@ -504,14 +609,24 @@
       "dich": "Một quyền của Viên Minh cực mạnh này trực tiếp đánh cho sói xanh đổ vật xuống đất, giãy dụa mấy lần xong mới lảo đảo đứng lên.",
       "suggest": "Một quyền này của Viên Minh trực tiếp nện cho con sói này ngã lăn xuống mặt đất, vùng vẫy mấy lần mới loạng choạng đứng lên.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭这一拳的力量极重，直接将青狼砸得摔倒在了地上，挣扎了好几下，才摇摇晃晃地站了起来。",
+        "text": "Viên Minh một quyền này đích lực lượng rất nặng, trực tiếp đem sói xanh nện đến ngã rầm trên mặt đất, vùng vẫy đến mấy lần, mới lảo đảo đứng lên .",
+        "index": 28
+      }
     },
     {
       "convert": "Bất quá lần này, Thanh Lang lại là chân sau chống đất, đứng thẳng đứng lên.",
       "dich": "Có điều khác là, lần này sói xanh đứng thẳng người bằng hai chân sau.",
       "suggest": "Nhưng lần này, con sói này lại chống chân chống đất, đứng thẳng lên.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "不过这一次，青狼却是后腿撑地，直立着站了起来。",
+        "text": "Chẳng qua một lần này, sói xanh lại là chân sau chống đất, đứng thẳng đứng lên .",
+        "index": 29
+      }
     },
     {
       "convert": "Trong mắt của nó huyết hồng chi sắc lui đi hơn phân nửa, một lần nữa biến thành màu xanh sẫm, ở phía xa đống lửa quang mang chiếu rọi, phản xạ ra làm người ta sợ hãi lục quang.",
@@ -523,7 +638,12 @@
           0.29
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "它的眼中血红之色退去了大半，重新变成墨绿色，在远处火堆光芒的映照下，反射出渗人的绿光。",
+        "text": "Mắt của nó trung huyết hồng chi sắc lui đi quá nửa, lần nữa biến thành màu xanh sẫm, ở phía xa đống lửa quang mang đích chiếu rọi, phản xạ ra rướm người đích lục quang .",
+        "index": 30
+      }
     },
     {
       "convert": "\"Viên... Minh...\"",
@@ -595,7 +715,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "它的嘴巴开合有些慢，声音也显得有些模糊，仿佛张口说话变得十分困难。",
+        "text": "Miệng của nó mở to khép mở có chút chậm, thanh âm cũng có vẻ hơi mơ hồ, phảng phất há mồm nói chuyện trở nên thập phần khó khăn .",
+        "index": 32
+      }
     },
     {
       "convert": "\"Cáp Cống, trả lời ta, ngươi đây có phải hay không là bị Phi Mao Chi Thuật phản phệ rồi?\"",
@@ -681,7 +806,12 @@
       "dich": "Dứt lời, y bất ngờ đờ người ngồi bịch xuống đất.",
       "suggest": "Nói xong, hắn ngã xuống đất, ngồi xuống.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "说着，他竟然瘫倒着坐了下来。",
+        "text": "Nói, hắn vậy mà tê liệt ngã xuống lấy ngồi xuống .",
+        "index": 35
+      }
     },
     {
       "convert": "Viên Minh thấy thế, thu hồi Phi Mao Chi Thuật, đi tới gần, lo lắng hỏi: \"Ngươi bây giờ cảm giác như thế nào, hiện tại ta có thể làm cái gì?\"",
@@ -697,7 +827,12 @@
           0.39
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭见状，收起了披毛之术，来到近前，关切问道：“你现在感觉如何，现在我可以做什么？”",
+        "text": "Viên Minh thấy thế, thu hồi khoác lông thuật, đi tới gần, quan tâm hỏi : “ ngươi bây giờ cảm giác như thế nào, hiện tại ta khả dĩ làm cái gì ? ”",
+        "index": 36
+      }
     },
     {
       "convert": "\"Ta dùng... Dùng quá nhiều lần, ta Phi Mao Chi Thuật... Giải trừ không được... Da thú đã, đã thoát không xuống... Ta không biết, nên làm cái gì...\"",
@@ -732,7 +867,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "其锋利的尖爪立马划破了毛发覆盖的脸皮，哈贡却是强忍着剧痛，硬生生将一块皮毛撕扯开来，里面露出血肉模糊的脸。",
+        "text": "Kỳ phong lợi đích móng nhọn lập tức phá vỡ lông tóc bao trùm đích da mặt, ha cống lại là cố nén đau nhức, cứng rắn đem một khối da lông xé rách ra tới, bên trong lộ ra máu thịt be bét đích mặt .",
+        "index": 38
+      }
     },
     {
       "convert": "Viên Minh đem thần hồn chi lực ngưng ở hai mắt, cẩn thận quan sát, phát hiện Cáp Cống trên mặt căn bản không có phi mao vết tích, ngược lại là từng chiếc lông tóc đều giống như từ trong máu thịt của hắn mọc ra.",
@@ -744,7 +884,12 @@
           0.35
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭将神魂之力凝于双目，仔细观察之下，发现哈贡脸上根本没有披毛痕迹，反倒是根根毛发都像是从他的血肉里长出来的一般。",
+        "text": "Viên Minh đem thần hồn chi lực ngưng ở hai mắt, tỉ mỉ quan sát, phát hiện ha cống trên mặt căn bản không có khoác lông dấu vết, ngược lại là từng chiếc lông tóc đều giống như từ trong máu thịt của hắn mọc ra đồng dạng .",
+        "index": 39
+      }
     },
     {
       "convert": "\"Viên Minh, mau cứu ta...\"",
@@ -812,7 +957,12 @@
           0.37
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "听到这句话，哈贡举在半空的手一僵，紧接着剧烈地颤抖了起来。",
+        "text": "Nghe được câu này, ha tiến cử giữa không trung đích tay cứng đờ, ngay sau đó lấy kịch liệt run rẩy lên .",
+        "index": 42
+      }
     },
     {
       "convert": "\"Ngươi nói... Cái gì, ta muốn biến thành... Loại kia quái vật sao?",
@@ -1682,7 +1832,7 @@
     },
     {
       "convert": "\"Thanh Áo Sơn Miêu hoa trại, lớn nhất cây kia Mộc Miên Hoa dưới cây.\"",
-      "dich": "\"Thanh Áo sơn, Miêu Hoa trại, dưới gốc cây hoa gạo lớn nhất.\"",
+      "dich": "\"Thanh Áo Sơn, Miêu Hoa trại, dưới gốc cây hoa gạo lớn nhất.\"",
       "suggest": "\"Thanh Áo Sơn Miêu trại, trại lớn nhất ở dưới gốc cây Mộc Miên Hoa kia.\"",
       "similarity": [
         [

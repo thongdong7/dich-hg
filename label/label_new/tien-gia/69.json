@@ -47,13 +47,23 @@
       "convert": "Ô Nhật ngay từ đầu còn đối Viên Minh có mấy phần khinh thị, nhưng nghe nghe, rốt cục có chút động dung.",
       "dich": "Ô Nhật ban đầu còn có vẻ xem thường Viên Minh, nhưng nghe hắn kể xong, rốt cuộc hơi đổi sắc mặt.",
       "suggest": "Ô Nhật ngay từ đầu còn khinh thị Viên Minh vài phần, nhưng sau khi nghe xong, rút cuộc cũng có chút động dung.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "乌日一开始还对袁铭有几分轻视，但听着听着，终于有些动容了。",
+        "text": "Ô nhật vừa mở bắt đầu còn đối Viên Minh có mấy phần khinh thị, nhưng nghe nghe ngóng, cuối cùng có chút động dung .",
+        "index": 3
+      }
     },
     {
       "convert": "Hôm nay hắn luyện chế chính là một kiện kỳ hình ám khí, dùng vật liệu đều phi thường hẻo lánh, Viên Minh vậy mà một thanh nói ra những khoáng thạch này danh xưng.",
       "dich": "Thứ hôm nay y luyện chế chính là một kiện ám khí hình dáng kỳ lạ, dùng những vật liệu rất ít thấy, thế mà Viên Minh lại có thể kể liền một mạch tên những loại khoáng thạch này.",
       "suggest": "Hôm nay hắn luyện chế được một kiện ám khí kỳ hình, vật liệu dùng để phi thường hẻo lánh, Viên Minh không ngờ lại nói ra tên những khoáng thạch này.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "今日他炼制的是一件奇型暗器，用的材料都非常冷僻，袁铭竟然一口道出了这些矿石的名称。",
+        "text": "Hôm nay hắn luyện chế là một kiện 奇 hình ám khí, dụng đích tài liệu đều phi thường hẻo lánh, Viên Minh vậy mà một ngụm nói ra rồi những quáng thạch này danh xưng .",
+        "index": 4
+      }
     },
     {
       "convert": "\"... Về phần cuối cùng này một loại, hẳn là Âm Tủy tinh.\"",
@@ -83,7 +93,12 @@
       "convert": "Cái này Âm Tủy tinh hắn hôm qua mới cầm tới, là phi thường hiếm thấy thiên môn linh tài, hắn nếu không phải mượn nhiệm vụ này, cũng sẽ không nhận biết vật này.",
       "dich": "Âm Tủy tinh này là y hôm qua mới mang tới, là thiên môn linh tài cực kỳ hiếm thấy, đến bản thân y nếu không nhờ nhiệm vụ này cũng sẽ không biết được thứ này.",
       "suggest": "Âm Tủy Tinh này hắn vừa mới nhận được, là thiên môn linh tài phi thường hiếm thấy, nếu không phải nhờ vào nhiệm vụ này, cũng sẽ không nhận ra vật này.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这阴髓晶他昨日才拿到，是非常罕见的偏门灵材，他若不是借了这个任务，也不会识得此物。",
+        "text": "Này âm tủy 晶 hắn hôm qua mới giành được, là phi thường hiếm thấy đích không chính thống linh tài, hắn nếu không phải mượn nhiệm vụ này, cũng sẽ không nhận biết vật ấy .",
+        "index": 7
+      }
     },
     {
       "convert": "\"Ngẫu nhiên tại một bản linh tài thư tịch bên trên nhìn thấy qua ghi chép.\"",
@@ -101,13 +116,23 @@
       "convert": "Cái này Âm Tủy tinh, hắn không phải tại « Bách Thảo Tập » « Luyện Khí Cơ Yếu » nhìn thấy, mà là từ Minh Nguyệt Quyết bên trên hiểu rõ, vật này ẩn chứa nồng đậm âm khí, là Minh Nguyệt Quyết đến tiếp sau trong tu luyện cần một loại linh tài.",
       "dich": "Âm Tủy tinh này, không phải hắn thấy trên Bách Thảo Tập, Luyện Khí Cơ Yếu, mà biết được từ Minh Nguyệt Quyết, vật này ẩn chưa âm khí nồng đậm, là một trong những loại linh tài để tu luyện Minh Nguyệt Quyết giai đoạn sau này.",
       "suggest": "Âm Tủy tinh này, hắn không thấy trong Bách Thảo Tập  Cơ Yếu Luyện Khí Cơ Yếu  mà là từ trên người Minh Nguyệt Quyết hiểu được, vật này ẩn chứa âm khí nồng đậm, là một loại linh tài trong quá trình tu luyện của Minh Nguyệt Quyết.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这阴髓晶，他不是在《佰草集》《炼器基要》看到，而是从冥月诀上了解，此物蕴含浓郁阴气，是冥月诀后续修炼中需要的一种灵材。",
+        "text": "Này âm tủy 晶, hắn không phải tại 《 bách cỏ tập 》 luyện khí cơ muốn 》 nhìn thấy, mà là từ Minh Nguyệt quyết bên trên hiểu rõ, vật ấy ẩn chứa nồng đậm âm khí, là Minh Nguyệt quyết tiếp sau trong tu luyện cần một loại linh tài .",
+        "index": 9
+      }
     },
     {
       "convert": "\"Không sai, người này ta muốn.\" Ô Nhật trên mặt lộ ra tiếu dung, quay người xông Trần Uyển nói.",
       "dich": "\"Không tệ, ta muốn người này.\" Ô Nhật nở nụ cười, quay qua nhìn Trần Uyển, nói.",
       "suggest": "\"Đúng vậy, người này ta muốn.\" Ô Nhật lộ vẻ tươi cười, quay người lại phía Trần Uyển nói.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "“不错，这个人我要了。”乌日脸上透出笑容，转身冲陈婉说道。",
+        "text": "“ không tệ, cái này người ta muốn rồi . ” ô nhật trên mặt lộ ra tiếu dung, chuyển thân xung trần uyển nói .",
+        "index": 10
+      }
     },
     {
       "convert": "\"Kia người này liền giao cho ngươi.\"",

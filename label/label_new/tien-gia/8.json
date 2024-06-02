@@ -30,7 +30,12 @@
           0.25
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭按照自己来时的线路，开始往回赶去。",
+        "text": "Viên Minh dựa theo chính mình lúc đến đích đường bộ, bắt đầu chạy trở về .",
+        "index": 2
+      }
     },
     {
       "convert": "Tới gần buổi trưa, hắn liền trở về lúc trước bị đầu kia gấu đen tập kích địa phương.",
@@ -42,7 +47,12 @@
           0.23
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "临近中午的时候，他就回到了当初被那头黑熊袭击的地方。",
+        "text": "Lân cận buổi trưa, hắn liền trở về hồi đó bị đầu kia gấu chó tập kích đích địa phương .",
+        "index": 3
+      }
     },
     {
       "convert": "Gấu đen loại này dã thú, lãnh địa ý thức rất mạnh, bình thường hiếm khi rời khỏi nguyên bản sinh hoạt sinh sôi địa phương, mà Viên Minh sở dĩ muốn về tới đây, là bởi vì hắn muốn săn giết mục tiêu, chính là đầu kia gấu đen.",
@@ -54,7 +64,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑熊这种野兽，领地意识很强，通常极少离开原本生活繁衍的地方，而袁铭之所以要回到这里，是因为他想要猎杀的目标，正是那头黑熊。",
+        "text": "Gấu chó loại này dã thú, lãnh địa ý thức rất mạnh, thông thường hiếm khi rời khỏi nguyên bản sinh hoạt sinh sôi đích địa phương, mà Viên Minh chỗ dĩ muốn về đến nơi đây, là bởi vì hắn muốn săn giết mục tiêu, chính là đầu kia gấu chó .",
+        "index": 4
+      }
     },
     {
       "convert": "Đến lúc đó về sau, Viên Minh từ trên thân cởi xuống bó kia Thanh Lang xương thú, từ bên trong lấy ra một cây tráng kiện xương ống chân, hai tay nắm chặt, bắt đầu ở một chỗ sườn dốc phía dưới đào hố.",
@@ -66,7 +81,12 @@
           0.22
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "到了地方之后，袁铭从身上解下那捆青狼兽骨，从里面挑出一根粗壮的胫骨，双手紧握着，开始在一处斜坡下面刨坑。",
+        "text": "Đến lúc đó sau đó, Viên Minh từ trên thân cởi xuống bó kia sói xanh thú cốt, từ giữa mặt lấy ra một cây tráng kiện đích xương ống chân, hai tay nắm chặt lấy, bắt đầu tại một chỗ sườn dốc hạ diện đào hố .",
+        "index": 5
+      }
     },
     {
       "convert": "Cứ việc Viên Minh lực lượng đã khôi phục không ít, đối bộ thân thể này cũng đã cơ bản thích ứng, nhưng hắn như cũ không có muốn cùng gấu đen chính diện chém giết dự định, mà là định dùng cạm bẫy loại này càng thêm biện pháp ổn thỏa.",
@@ -78,7 +98,12 @@
           0.15
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "尽管袁铭的力量已经恢复了不少，对这副身躯也已经基本适应，但他仍旧没有要和黑熊正面厮杀的打算，而是打算用陷阱这种更为稳妥的办法。",
+        "text": "Cứ việc Viên Minh đích lực lượng đã khôi phục không ít, đối bộ thân thể này cũng đã cơ bản thích ứng, nhưng hắn như cũ không có muốn cùng gấu chó chính diện chém giết đích tính toán, mà là định dùng cạm bẫy loại này càng thêm biện pháp ổn thỏa .",
+        "index": 6
+      }
     },
     {
       "convert": "Trong núi rừng thổ chất xốp, chỉ chốc lát sau, Viên Minh liền đào ra một cái đến hai trượng sâu, phương viên bất quá sáu thước hố lõm.",
@@ -90,14 +115,24 @@
           0.28
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "山林里的土质松软，不一会儿，袁铭就挖出了一个两丈来深，方圆不过六尺的陷坑。",
+        "text": "Trong núi rừng đích thổ chất thả lỏng mềm, chỉ chốc lát sau, Viên Minh liền đào ra rồi một cái hai trượng tới sâu, chu vi chẳng qua sáu thước đích cạm bẫy .",
+        "index": 7
+      }
     },
     {
       "convert": "Hắn tại đáy hố lại đào ra rất nhiều hố nhỏ, đem những cái kia Thanh Lang xương sườn, một cây một cây ngược lại cắm vào, đem thổ nện vững chắc.",
       "dich": "Hắn đào thêm nhiều lỗ nhỏ ở đáy hố, tiếp đó cắm từng cái, từng cái xương sườn sói xám xuống, xong lại lèn đất cho chắc chắn.",
       "suggest": "Đáy hố lại đào ra rất nhiều hố nhỏ, đục đẽo những xương sườn của Thanh Lang, một cây ngược lại cắm vào, làm cho nền đất nện rất chắc chắn.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他在坑底又刨出了许多小坑，将那些青狼肋骨，一根一根倒插了进去，把土夯实。",
+        "text": "Hắn tại đáy hố lại đào ra rất nhiều hố nhỏ, đem những cái kia sói xanh xương sườn, một cây một cây cắm ngược rồi đi vào, đem thổ củng cố .",
+        "index": 8
+      }
     },
     {
       "convert": "Những cái kia cắm ngược lấy xương sườn, đỉnh đã để Viên Minh mài đến lanh lảnh, sắc bén tựa như mũi đao.",
@@ -109,7 +144,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "那些倒插着的肋骨，顶端已经让袁铭磨得尖细，锋利好似刀尖。",
+        "text": "Những cái kia cắm ngược lấy đích xương sườn, đỉnh đã để Viên Minh mài đến lanh lảnh, sắc bén coi như mũi đao .",
+        "index": 9
+      }
     },
     {
       "convert": "Sau đó, hắn lại tìm đến mấy cây cành cây khô, đan xen hoành khoác lên hố lõm phía trên, từ chung quanh sưu tập chút lá cây khô ôm lấy, đều đều địa rơi tại phía trên, đem cửa hang che đậy chặt chẽ.",
@@ -121,7 +161,12 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "随后，他又找来几根枯树枝，交错横搭在陷坑上方，从周围搜集了些枯树叶抱了过来，均匀地撒在上面，把洞口遮盖严实。",
+        "text": "Theo sau, hắn lại tìm đến mấy cây cành cây khô, đan xen ngang khoác lên cạm bẫy phía trên, từ chung quanh sưu tập chút lá cây khô ôm lấy, chia đều địa rơi tại thượng diện, đem cái động khẩu che đậy kín .",
+        "index": 10
+      }
     },
     {
       "convert": "Làm tốt những này về sau, Viên Minh lại đem một khối Thanh Lang xương bả vai, dùng cây mây cột vào trước ngực mình, giống như là hộ tâm kính đồng dạng bảo vệ tim, lập tức nhặt lên kia hai cây bị hắn mài đến giống đoản thương đồng dạng xương ống chân, nắm ở trong tay.",
@@ -133,7 +178,12 @@
           0.1
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "做好这些后，袁铭又把一块青狼的肩胛骨，用树藤绑在了自己胸前，像是护心镜一样护住心口，随即拾起那两根被他磨得像短枪一样的胫骨，握在手里。",
+        "text": "Làm tốt những này sau, Viên Minh lại đem một khối sói xanh đích xương bả vai, dụng cây mây cột vào rồi trước ngực mình, như là hộ tâm kính đồng dạng bảo vệ tim, lập tức nhặt lên kia hai cây bị hắn mài đến giống súng lục đồng dạng đích xương ống chân, nắm ở trong tay .",
+        "index": 11
+      }
     },
     {
       "convert": "Đợi đã lâu, Viên Minh đều không đợi được gấu đen xuất hiện.",
@@ -149,14 +199,24 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "等了许久，袁铭都没等到黑熊出现。",
+        "text": "Đợi đã lâu, Viên Minh đều không đợi được gấu chó xuất hiện .",
+        "index": 12
+      }
     },
     {
       "convert": "Hắn sau một phen suy tính, lập tức dùng một cây màu trắng Cốt Thương, hướng tay mình tâm một đâm.",
       "dich": "Hắn tính toán một chút, xong lập tức lấy một cây cốt thương cứa một đường lên gan bàn tay.",
       "suggest": "Sau một phen suy tính, lập tức dùng một cây Cốt Thương màu trắng đâm vào lòng bàn tay mình.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他略一思量后，随即用一根白色骨枪，往自己手心一扎。",
+        "text": "Hắn sau một phen suy tính, lập tức dụng một cây màu trắng xương thương, hướng chính mình lòng bàn tay một đâm .",
+        "index": 13
+      }
     },
     {
       "convert": "Nhìn thấy lòng bàn tay có máu tươi toát ra về sau, Viên Minh lập tức đem máu tươi hướng phía cạm bẫy bốn phía trên cây, đều lau một chút, để mùi máu tươi tận khả năng địa khuếch tán ra tới.",
@@ -168,7 +228,12 @@
           0.18
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "看到掌心有鲜血冒出后，袁铭立即把鲜血朝着陷阱四周的树上，都抹了一些，让血腥味尽可能地扩散开来。",
+        "text": "Nhìn thấy lòng bàn tay có máu tươi tỏa ra sau, Viên Minh lập tức đem máu tươi hướng tới cạm bẫy bốn phía đích trên cây, đều lau một chút, khiến mùi máu tươi tận khả năng địa khuếch tán ra tới .",
+        "index": 14
+      }
     },
     {
       "convert": "Sau đó, hắn mới từ trên mặt đất bắt chút bùn đất, lung tung bôi lên vết thương một chút, sau đó nắm chặt bạch cốt đoản thương, yên lặng chờ lấy gấu đen mắc câu.",
@@ -180,7 +245,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "随后，他才从地上抓了些泥土，胡乱涂抹了一下伤口，然后握住白骨短枪，静等着黑熊上钩。",
+        "text": "Theo sau, hắn mới từ địa thượng bắt chút bùn đất, lung tung bôi lên rồi vết thương một chút, nhưng sau cầm chắc bạch cốt súng lục, yên lặng chờ lấy gấu chó mắc câu .",
+        "index": 15
+      }
     },
     {
       "convert": "Viên Minh leo lên một gốc cây già, đợi không bao lâu, trong núi rừng liền truyền đến một hồi cỏ cây run run thanh âm, tới kèm theo, vẫn còn một hồi nặng nề tiếng thở dốc.",
@@ -192,21 +262,36 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭爬上一棵老树，等了没多久，山林之中就传来一阵草木耸动的声音，与之伴随着的，还有一阵沉重的喘息声。",
+        "text": "Viên Minh bò lên trên một cây cây già, đợi không bao lâu, trong núi rừng liền truyền đến một trận thảo mộc rúng động đích thanh âm, tới cùng với lấy đích, còn có một trận trầm trọng đích tiếng thở dốc .",
+        "index": 16
+      }
     },
     {
       "convert": "Hắn lần theo thanh âm nhìn lại, rất nhanh liền thấy đầu kia gấu đen thân ảnh.",
       "dich": "Hắn nương theo tiếng động nhìn lại, lập tức thấy bóng dáng con gấu kia.",
       "suggest": "Hắn quay đầu lại nhìn, rất nhanh đã thấy thân ảnh đầu gấu đen kia.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他循着声音望去，很快就看到了那头黑熊的身影。",
+        "text": "Hắn lần theo thanh âm nhìn lại, rất nhanh liền thấy được đầu kia gấu chó đích thân ảnh .",
+        "index": 17
+      }
     },
     {
       "convert": "Chỉ gặp một chỗ lùm cây bị gấu đen thân thể cao lớn xông mở, bước chân lảo đảo hướng lấy bên này lao đến.",
       "dich": "Chỉ thấy con gấu to lớn rẽ đôi một lùm cây, lảo đảo bước về phía bên này.",
       "suggest": "Chỉ thấy một thân thể to lớn của gấu đen xông lên, bước chân lảo đảo hướng về phía này.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "只见一处灌木丛被黑熊庞大的身躯冲开，脚步踉跄地朝着这边冲了过来。",
+        "text": "Chỉ kiến một chỗ lùm cây bị gấu chó thân thể cao lớn giải khai, cước bộ lảo đảo hướng lấy bên này lao đến .",
+        "index": 18
+      }
     },
     {
       "convert": "\"A, nó giống như thụ thương rồi?\"",
@@ -250,7 +335,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他仔细打量了黑熊片刻，却没看到其身上有什么明显的伤口，可从黑熊奔跑的状态来看，又明显有些异样。",
+        "text": "Hắn quan sát tỉ mỉ rồi gấu chó chốc lát, lại không nhìn thấy nó trên người có gì rõ ràng miệng vết thương, nhưng từ gấu chó chạy nhanh đích trạng thái đến xem, lại rõ ràng có chút dị dạng .",
+        "index": 20
+      }
     },
     {
       "convert": "\"Không phải là trúng độc?\"",
@@ -281,7 +371,12 @@
       "dich": "Nếu đúng là như thế thì đây thực là cơ hội trời ban.",
       "suggest": "Nếu thực sự là như thế, vậy thật đúng là cơ hội trơi ban cho hắn.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "若真是如此的话，那还真是天赐的良机了。",
+        "text": "Nếu thật sự là như thế thì, vậy thật đúng là trời ban đích cơ hội rồi .",
+        "index": 22
+      }
     },
     {
       "convert": "Viên Minh không xác thực thư bản thân có như thế tốt vận khí, không có tùy tiện xuất thủ công kích, chỉ là yên lặng chờ lấy gấu đen rơi vào cạm bẫy.",
@@ -293,7 +388,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭不确信自己有如此好的运气，没有贸然出手攻击，只是静等着黑熊落入陷阱。",
+        "text": "Viên Minh không xác thực tín chính mình giống như này tốt vận khí, không có tùy tiện ra tay công kích, chỉ là yên lặng chờ lấy gấu chó rơi vào cạm bẫy .",
+        "index": 23
+      }
     },
     {
       "convert": "Chỉ gặp gấu đen kia đi vào bên này, đối trên cây vết máu từng cái ngửi đi, bỗng nhiên ngửa đầu phát ra một tiếng nổi giận gầm rú, trong hai mắt của nó hiện ra chút không quá bình thường màu đỏ, phảng phất bịt kín một tầng che lấp.",
@@ -305,7 +405,12 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "只见那黑熊来到这边，对着树上的血迹一一嗅去，忽然仰头发出一声暴怒的吼叫，它的双眼之中泛着些不太正常的红色，仿佛蒙上了一层阴翳。",
+        "text": "Chỉ kiến gấu đen kia đi tới bên này, đối trên cây vết máu nhất nhất ngửi đi, bỗng nhiên ngửa đầu phát ra một tiếng nổi giận đích gầm rú, nó trong hai mắt hiện ra chút không quá bình thường màu đỏ, phảng phất bịt kín rồi một tầng che lấp .",
+        "index": 24
+      }
     },
     {
       "convert": "Gấu đen tả hữu tìm một vòng, không có phát hiện con mồi, bước chân một mực dán cạm bẫy biên giới, có thể hết lần này tới lần khác liền tổng chênh lệch như vậy một chút, từ đầu đến cuối không có rơi xuống.",
@@ -317,7 +422,12 @@
           0.26
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑熊左右找了一圈，没有发现猎物，脚步一直贴着陷阱的边缘，可偏偏就总差那么一点，始终没有掉落下去。",
+        "text": "Gấu chó tả hữu tìm một vòng, không có phát hiện con mồi, cước bộ một mạch dán cạm bẫy đích biên duyên, khả hết lần này tới lần khác liền tổng kém như vậy một chút, từ đầu đến cuối không có rơi xuống .",
+        "index": 26
+      }
     },
     {
       "convert": "Viên Minh trên tàng cây thấy lo lắng suông, chờ giây lát về sau, rốt cục quyết định động thủ.",
@@ -329,14 +439,24 @@
           0.23
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭在树上看得干着急，等了片刻后，终于决定动手。",
+        "text": "Viên Minh trên tàng cây thấy lo lắng suông, chờ giây lát sau, cuối cùng quyết định động thủ .",
+        "index": 27
+      }
     },
     {
       "convert": "Một cái tay của hắn trên cánh tay quấn lấy một đầu từ trên cây rủ xuống cây mây, một cái tay khác nắm chặt một cây bạch cốt đoản thương, thân hình nhảy xuống cây già, tiếp lấy cây mây dẫn dắt, hướng phía gấu đen đu qua.",
       "dich": "Một tay hắn tóm một dây leo rủ xuống dọc thân cây, tay kia nắm chặt cốt thương, tung mình nhảy xuống dưới, đu dây lướt về phía con gấu.",
       "suggest": "Một tay hắn quấn một cây mây rủ xuống từ trên cây, tay kia cầm một cây đoản thương từ trên cây xuống, thân hình nhảy xuống khỏi cây mây, tiếp đó thân hình nhảy xuống khỏi cây mây, tiếp đó hướng về phía gấu đen đu qua.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他的一只手臂上缠着一条从树上垂下来的树藤，另一只手紧握着一根白骨短枪，身形跃下老树，接着树藤的牵引，朝着黑熊荡了过去。",
+        "text": "Một cái tay của hắn trên cánh tay quấn quít lấy một đầu từ trên cây rủ xuống đích cây mây, tay kia thì nắm chặt lấy một cây bạch cốt súng lục, thân hình vọt hạ cây già, tiếp theo cây mây đích dẫn dắt, hướng tới gấu chó đu qua .",
+        "index": 28
+      }
     },
     {
       "convert": "\"Đi xuống cho ta.\"",
@@ -360,7 +480,12 @@
           0.25
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭在心中一声暴喝，双腿如同两根撞门柱一样，冲撞向了黑熊。",
+        "text": "Viên Minh ở trong lòng quát to một tiếng, hai chân giống như hai cây xô cửa 柱 đồng dạng, va chạm hướng về phía gấu chó .",
+        "index": 30
+      }
     },
     {
       "convert": "Đúng lúc này, gấu đen cũng nhạy cảm đã nhận ra đến từ sau lưng nguy hiểm, thân hình đột nhiên thay đổi, khi nhìn đến Viên Minh trong nháy mắt, hung tính đại phát, hai con tay gấu hướng phía Viên Minh liền mãnh vỗ tới.",
@@ -372,7 +497,12 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在这时，黑熊也敏锐察觉到了来自身后的危险，身形突然扭转，在看到袁铭的瞬间，凶性大发，两只熊掌朝着袁铭就猛拍了上去。",
+        "text": "Đúng lúc này, gấu chó cũng nhạy bén đã nhận ra đến từ sau lưng nguy hiểm, thân hình đột nhiên xoay chuyển, khi nhìn đến Viên Minh đích trong nháy mắt, hung tính đại phát, hai con hùng chưởng hướng tới Viên Minh liền vỗ mạnh đi lên .",
+        "index": 31
+      }
     },
     {
       "convert": "\"Phanh\" một thanh âm vang lên.",
@@ -400,7 +530,12 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭的双腿蹬在了黑熊的双掌上，两股强大的力量反冲，先是将袁铭撞得倒飞了回去，后也将黑熊撞得一个趔趄。",
+        "text": "Viên Minh đích hai chân đạp ở rồi gấu chó đích trên song chưởng, hai cỗ cường đại đích lực lượng phản xung, đầu tiên là đem Viên Minh đâm đến bay ngược trở về, sau cũng đem gấu chó đâm đến một cái lảo đảo .",
+        "index": 33
+      }
     },
     {
       "convert": "Gấu đen lui lại một bước, phần sau cái gót chân đã giẫm tại Viên Minh làm cạm bẫy trên nhánh cây, nhưng lại liền ngừng lại lui ra phía sau chi thế, quả thực là không có rơi xuống.",
@@ -412,14 +547,24 @@
           0.14
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑熊后退一步，后半个脚跟已经踩在了袁铭搭设陷阱的树枝上，但偏就止住了退后之势，硬是没有掉落。",
+        "text": "Gấu chó lui về phía sau một bước, phần sau cái gót chân đã dẫm nát Viên Minh làm cạm bẫy đích nhánh cây thượng, nhưng lại liền ngừng rồi lui ra phía sau chi thế, quả thực là không có rơi xuống .",
+        "index": 34
+      }
     },
     {
       "convert": "Ngược lại là Viên Minh tựa như nhảy dây, bị đụng bay mở về sau, lại lần nữa đãng trở về.",
       "dich": "Mà Viên Minh như đu xích, sau khi bị đánh bay ra, lại tiếp tục đu trở lại.",
       "suggest": "Ngược lại Viên Minh giống như nhảy dây, bị quăng ra ngoài, lại một lần nữa chìm vào trong biển lửa.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "反倒是袁铭好似荡秋千一样，被撞飞开后，又再次荡了回来。",
+        "text": "Ngược lại là Viên Minh coi như đong đưa ghế xích đu đồng dạng, bị đánh bay khai sau, lại lần nữa đãng rồi trở lại .",
+        "index": 35
+      }
     },
     {
       "convert": "Gấu đen nhìn xem Viên Minh lại xông về bản thân, lần này nhưng không có lại đi đập hắn, mà là chủ động tiến về phía trước một bước, hai trảo vung lên hướng phía hai chân của hắn bắt đi lên.",
@@ -431,7 +576,12 @@
           0.4
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑熊看着袁铭又冲向了自己，这次却没有再去拍他，而是主动向前一步，两爪一挥朝着他的双腿抓了上去。",
+        "text": "Gấu chó nhìn xem Viên Minh lại xông về chính mình, lần này nhưng không có lại đi đập hắn, mà là chủ động tiến về phía trước một bước, lưỡng trảo vung lên hướng tới hai chân của hắn bắt đi lên .",
+        "index": 36
+      }
     },
     {
       "convert": "Viên Minh sao có thể như ước nguyện của hắn, trong tay cây kia bạch cốt đoản thương, lập tức tụ lực hướng phía ném ném ra ngoài.",
@@ -443,14 +593,24 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭哪能如他所愿，手中那根白骨短枪，顿时蓄力朝其投掷了出去。",
+        "text": "Viên Minh sao có thể 如 ước nguyện của hắn, trong tay cây kia bạch cốt súng lục, tức khắc tụ lực hướng nó ném rồi đi ra .",
+        "index": 37
+      }
     },
     {
       "convert": "Gấu đen gặp kia đoản thương hướng phía bản thân mặt mà đến, lúc này vung trảo đi đón đỡ, lại không có thể ngăn cản, để phía dán cánh tay của mình trượt đi tới.",
       "dich": "Con gấu thấy cây đoản thương lao về thẳng về phía mặt mình, lập tức vung trảo lên đỡ nhưng không kịp, để nó trượt mất qua cánh tay.",
       "suggest": "Con gấu đen thấy đoản thương của mình bay về phía mình, lúc này liền vung trảo lên đón đỡ, nhưng không thể ngăn cản được, để cho cánh tay đang dán lên cánh tay mình trượt đi.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑熊见那短枪朝着自己面门而来，当即挥爪去格挡，却没能拦住，让其贴着自己的手臂滑了过去。",
+        "text": "Gấu chó kiến kia súng lục hướng tới chính mình mặt mà đến, lúc này gạt trảo đi đón đỡ, lại không có thể ngăn cản, khiến nó dán cánh tay của mình trượt qua đi .",
+        "index": 38
+      }
     },
     {
       "convert": "\"Phốc\" một thanh âm vang lên.",
@@ -474,7 +634,12 @@
           0.38
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭的短枪径直刺入了黑熊的眼眶，喷溅起一团血花。",
+        "text": "Viên Minh đích súng lục lập tức đâm vào gấu chó đích hốc mắt, phun tung toé khởi một đoàn huyết hoa .",
+        "index": 40
+      }
     },
     {
       "convert": "\"Rống...\"",
@@ -510,7 +675,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑熊吃痛，口中发出一声怒吼。",
+        "text": "Gấu chó bị đau, trong miệng phát ra gầm lên giận dữ .",
+        "index": 42
+      }
     },
     {
       "convert": "Lúc này, Viên Minh cũng đã lần nữa vọt tới phụ cận, hai chân hung hăng đạp ở bộ ngực của nó.",
@@ -522,7 +692,12 @@
           0.26
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这时，袁铭也已经再次冲到了近前，双腿狠狠蹬在了它的胸膛。",
+        "text": "Lúc này, Viên Minh cũng đã lần nữa vọt tới phụ cận, hai chân hung hăng đạp ở rồi ngực của nó ngực .",
+        "index": 43
+      }
     },
     {
       "convert": "Gấu đen vẫn không có thể từ con mắt kịch liệt đau nhức bên trong kịp phản ứng, liền đã mất đi cân bằng, hướng về sau ngã chổng vó xuống.",
@@ -534,7 +709,12 @@
           0.14
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑熊还没能从眼睛的剧痛中反应过来，就已经失去平衡，向后栽倒了下去。",
+        "text": "Gấu chó vẫn không có thể từ con mắt đích đau nhức trung phản ứng, cũng đã mất đi thăng bằng, về phía sau ngã ngã xuống .",
+        "index": 44
+      }
     },
     {
       "convert": "\"Răng rắc \"",
@@ -557,7 +737,12 @@
       "dich": "Tiếng cành cây gãy vang lên, gấu đen ngã xuyên qua đám đất phủ trộn lẫn lá khô, rớt xuống hố.",
       "suggest": "Thanh âm đứt gãy của nhánh cây vang lên, nó đập mặt vào mặt đất và lá khô rơi xuống.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "陷阱树枝断裂的声音响起，黑熊砸穿了上面的浮土和枯叶，掉落了下去。",
+        "text": "Cạm bẫy nhánh cây rạn nứt đích thanh âm vang lên, gấu chó đập mặc vào phía trên đất mặt cùng lá khô, rơi xuống xuống dưới .",
+        "index": 46
+      }
     },
     {
       "convert": "Ngay sau đó, liền lại là một tiếng chấn thiên gào thét, thanh âm lại trở nên vô cùng thê lương, tựa như kêu rên.",
@@ -569,7 +754,12 @@
           0.29
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "紧接着，便又是一声震天咆哮，声音却变得凄厉无比，好似哀嚎。",
+        "text": "Ngay sau đó lấy, liền lại là một tiếng rung trời gầm gào, thanh âm nhưng trở nên vô cùng thê lương, coi như kêu rên .",
+        "index": 47
+      }
     },
     {
       "convert": "Viên Minh nhảy xuống mặt đất, vội vàng đi vào hố lõm bên cạnh xem xét, chỉ thấy gấu đen kia chính ngửa mặt nằm đổ vào bên trong, hai đầu mu bàn tay cùng một đầu đùi, đều đáy chăn hạ chôn lấy bạch cốt gai nhọn xuyên thấu.",
@@ -581,7 +771,12 @@
           0.3
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭跳落地面，连忙来到陷坑旁查看，就见那黑熊正仰面躺倒在里面，两条手背和一条大腿，都被底下埋着的白骨尖刺穿透。",
+        "text": "Viên Minh nhảy xuống mặt đất, vội vàng đi tới cạm bẫy bên cạnh dò xét, chỉ thấy gấu đen kia chính ngửa mặt té nằm bên trong, hai đầu lưng bàn tay cùng một đầu bắp đùi, đều bị phía dưới chôn lấy đích bạch cốt gai nhọn xuyên thấu .",
+        "index": 48
+      }
     },
     {
       "convert": "Phía ngực cùng nơi bụng, thì đều có một chỗ vết thương, chỉ lộ ra một chút xíu màu trắng xương trắng.",
@@ -593,14 +788,24 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "其胸口和小腹处，则各有一处伤口，只露出了一点点白色骨尖。",
+        "text": "Nó ngực cùng nơi bụng, thì đều có một chỗ miệng vết thương, chỉ lộ ra rồi một chút điểm màu trắng xương trắng .",
+        "index": 49
+      }
     },
     {
       "convert": "Gấu đen miệng mũi tràn ra máu tươi, còn tại mãnh liệt giãy dụa, trong miệng gầm nhẹ không ngừng.",
       "dich": "Gấu đen lúc này miệng mũi tràn ra máu tươi nhưng nó vẫn mãnh liệt giãy dụa, miệng không ngừng gầm nhẹ.",
       "suggest": "Miệng gấu đen tràn đầy máu tươi, đang giãy dụa mãnh liệt, miệng gầm nhẹ không ngừng.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑熊口鼻溢出鲜血，还在猛烈挣扎，口中低吼不断。",
+        "text": "Gấu chó miệng mũi tràn ra máu tươi, còn tại mãnh liệt giãy dụa, trong miệng gầm nhẹ không ngừng .",
+        "index": 50
+      }
     },
     {
       "convert": "Viên Minh thấy thế, quay người trở lại trên cây, lấy một căn khác bạch cốt đoản thương, dự định lập tức kết thúc gấu đen thống khổ.",
@@ -612,7 +817,12 @@
           0.43
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭见状，转身回到树上，取了另一根白骨短枪，打算立马结束黑熊的痛苦。",
+        "text": "Viên Minh thấy thế, chuyển thân trở lại trên cây, lấy một căn khác bạch cốt súng lục, tính toán lập tức kết thúc gấu chó đích thống khổ .",
+        "index": 51
+      }
     },
     {
       "convert": "Có thể chờ hắn trở lại hố lõm biên giới lúc, lại đột nhiên mắt choáng váng.",
@@ -624,7 +834,12 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "可等他回到陷坑边缘时，却突然傻了眼。",
+        "text": "Khả chờ hắn trở lại cạm bẫy biên duyên thời, lại đột nhiên mắt choáng váng .",
+        "index": 52
+      }
     },
     {
       "convert": "Địa đáy hố hạ lộn xộn không chịu nổi, từng cây bạch cốt gai nhọn ngã trái ngã phải tản một chỗ, phía trên rõ ràng vẫn còn đỏ thắm vết máu, có thể hết lần này tới lần khác đầu kia gấu đen, nhưng không thấy tung tích.",
@@ -636,7 +851,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "地坑底下凌乱不堪，一根根白骨尖刺东倒西歪散了一地，上面明显还有殷红的血迹，可偏偏那头黑熊，却不见了踪迹。",
+        "text": "Địa đáy hố hạ hỗn độn chịu không nổi, một cây căn bạch cốt gai nhọn ngã trái ngã phải tán đầy đất, thượng diện rõ ràng còn có đỏ sẫm vết máu, khả hết lần này tới lần khác đầu kia gấu chó, nhưng không thấy rồi tung tích .",
+        "index": 53
+      }
     },
     {
       "convert": "Không đợi Viên Minh hiểu rõ là chuyện gì xảy ra, phía sau hắn liền bỗng nhiên gió táp đại tác.",
@@ -648,14 +868,24 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "还没等袁铭弄明白是怎么回事，他的身后就忽然疾风大作。",
+        "text": "Không đợi Viên Minh làm minh bạch là chuyện gì xảy ra, phía sau hắn liền bỗng nhiên nhanh gió lớn làm .",
+        "index": 54
+      }
     },
     {
       "convert": "Viên Minh thầm nghĩ trong lòng một tiếng \"Không tốt\", chợt sau lưng liền lọt vào một cái trọng kích, cả người giống như là bị thứ gì trọng chùy một quyền, cho nện đến hướng phía trước nhào bay ra ngoài.",
       "dich": "Viên Minh thầm kêu một tiếng 'Không ổn', thắt lưng thình lình bị trúng một đòn nặng, cả người như bị thứ gì đó đấm mạnh một cú, đánh văng hắn về phía trước.",
       "suggest": "Viên Minh thầm nghĩ trong lòng một tiếng \"Không tốt\", sau đó lưng bỗng nhiên bị một trọng kích, cả người giống như bị một quyền nặng nề gì đó đánh cho văng ra ngoài.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭心中暗道一声“不好”，旋即后腰就遭到一记重击，整个人像是被什么东西重锤了一拳，给砸得朝前扑飞了出去。",
+        "text": "Viên Minh thầm nghĩ trong lòng một tiếng “ bất hảo ”, lát sau sau lưng liền lọt vào một cái đòn nghiêm trọng, cả người như là bị thứ gì búa tạ rồi một quyền, cho nện đến hướng phía trước bay nhào rồi đi ra .",
+        "index": 55
+      }
     },
     {
       "convert": "Thân hình của hắn vượt qua hố lõm, đâm vào đối diện xa ba, bốn trượng trên một thân cây, mới rớt xuống.",
@@ -667,7 +897,12 @@
           0.29
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他的身形越过了陷坑，撞在了对面三四丈远的一棵树上，才掉落下来。",
+        "text": "Thân hình của hắn vượt qua rồi cạm bẫy, đâm vào rồi đối diện xa ba, bốn trượng đích trên một thân cây, mới rớt xuống .",
+        "index": 56
+      }
     },
     {
       "convert": "Viên Minh cố nén đau đớn, giãy dụa lấy bò lên quay người, còn không có thấy rõ sau lưng tình trạng, trước mắt liền có một đạo hắc ảnh \"Ba\" địa một lần hiện lên, trên gương mặt lập tức truyền đến một hồi nóng bỏng cảm giác đau.",
@@ -679,14 +914,24 @@
           0.18
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭强忍着疼痛，挣扎着爬起转身，还没看清身后状况，眼前便有一道黑影“啪”地一下闪过，脸颊上随即传来一阵火辣的痛感。",
+        "text": "Viên Minh cố nén đau đớn, giãy dụa lấy bò lên chuyển thân, còn chưa xem rõ sau lưng trạng huống, trước mắt liền có một đạo hắc ảnh “ pằng ” địa một chút hiện lên, trên gương mặt lập tức truyền đến một trận nóng bỏng đích cảm nhận sâu sắc .",
+        "index": 57
+      }
     },
     {
       "convert": "Hắn giơ tay gạt một cái, trên mặt máu me đầm đìa, lại hướng phía trước nhìn lại lúc, không khỏi ngây dại.",
       "dich": "Hắn đưa tay lau máu tươi đầm đìa trên mặt, đưa mắt nhìn về phía trước, tức thì không khỏi ngây dại.",
       "suggest": "Hắn vung tay gạt một cái, máu me đầm đìa, muốn nhìn kỹ phía trước một chút, nhưng lúc này lại không kìm được mà ngây dại ra.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他抬手一抹，脸上鲜血淋漓，再朝前看去时，不禁呆住了。",
+        "text": "Hắn giơ tay gạt một cái, trên mặt máu me đầm đìa, lại hướng phía trước nhìn lại thời, không khỏi ngây dại .",
+        "index": 58
+      }
     },
     {
       "convert": "Chỉ gặp tại trước người hắn bảy tám trượng bên ngoài trên cây, thình lình rủ xuống lấy một cái... Một cái khó mà hình dung quái vật.",
@@ -710,7 +955,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "之所以说那东西难以形容，是因为它的主体正是那头黑熊，可它身上的伤口里，此刻却有一条条成人手臂粗细的青黑藤蔓生长而出。",
+        "text": "Chỗ dĩ nói vật kia khó có thể hình dung, là bởi vì nó chủ thể chính là đầu kia gấu chó, khả trên người nó đích trong vết thương, lúc này đã có một đầu cái thành nhân lớn bằng cánh tay đích thanh hắc dây mây sinh trưởng mà ra .",
+        "index": 60
+      }
     },
     {
       "convert": "Trong đó từ phía chỗ ngực mọc ra hai cây nhất là thô hình, một con kéo dài đến phía trên trên nhánh cây, đem gấu đen thân thể treo lên, treo tại trong giữa không trung.",
@@ -722,14 +972,24 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "其中从其胸口处长出的两根最为粗状，一只延伸到上方的树枝上，将黑熊的身躯吊起，挂在了半空中。",
+        "text": "Trong đó từ nó chỗ ngực mọc ra đích hai cây nhất là thô trạng, một con kéo dài đến phía trên đích nhánh cây thượng, đem gấu chó đích thân thể treo lên, treo ở rồi giữa không trung trung .",
+        "index": 61
+      }
     },
     {
       "convert": "Mà càng thêm quỷ dị, là gấu đen kia bị Viên Minh đâm thủng qua mắt trái bên trên, lúc này chính thình lình mọc ra một đóa tràn ngập chất thịt sáu cánh Hồng Liên, trong đó trưởng phòng lấy dày đặc màu trắng nhụy hoa, ngay tại điên cuồng ngọ nguậy, giống từng vòng từng vòng màu trắng rậm rạp răng, nhìn thấy người sau sống lưng một hồi phát lạnh.",
       "dich": "Mà quỷ dị nhất là con mắt trái bị Viên Minh đâm thủng của con gấu, giờ phút này rõ ràng đang mọc ra một đóa sen đỏ sáu cánh núc ních thịt. Ở giữa đóa hoa, phần nhụy màu trắng dày đặc đang điên cuồng nhúc nhích, trông như một mảng toàn răng trắng mọc chi chít, khiến người nhìn cảm thấy lạnh toát cả lưng.",
       "suggest": "Mà càng quỷ dị hơn, chính là trên mắt phải của gấu đen đã bị Viên Minh đâm thủng, lúc này bỗng nhiên mọc ra một đóa hồng liên đầy lông màu trắng, trong đó có trưởng phòng lấy ra một chùm hoa màu trắng điên cuồng ngọ nguậy, giống như ma quỷ cắn nuốt, nhìn thấy sống lưng người sau lưng phát lạnh.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "而更为诡异的，是黑熊那被袁铭刺穿的左眼上，此刻正赫然长着一朵充满肉质的六瓣红莲，其中心处长着密集的白色花蕊，正在疯狂蠕动着，像一圈圈白色的细密牙齿，看得人后脊一阵生寒。",
+        "text": "Mà càng thêm quỷ dị đích, là gấu chó kia bị Viên Minh đâm thủng qua mắt trái thượng, lúc này chính rõ ràng trưởng thành một đóa tràn ngập chất thịt đích sáu cánh hoa Hồng Liên, trong đó trung tâm trưởng thành dày đặc đích màu trắng nhụy hoa, ngay tại điên cuồng mấp máy lấy, giống một vòng vòng màu trắng đích tinh mịn răng nanh, người xem sau xương sống một trận phát lạnh .",
+        "index": 62
+      }
     },
     {
       "convert": "\"Đây rốt cuộc là cái thứ quỷ gì?\"",
@@ -765,7 +1025,12 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "从黑熊此刻的古怪状态来看，它似乎是被什么东西寄生了。",
+        "text": "Từ gấu chó lúc này đích cổ quái trạng thái đến xem, nó tựa hồ là bị thứ gì ký sinh rồi .",
+        "index": 64
+      }
     },
     {
       "convert": "Đúng lúc này, quái vật kia lại lần nữa bắt đầu chuyển động, phía từ gấu đen thể nội dọc theo người ra ngoài dây leo lần nữa lăng không hất lên, quất hướng Viên Minh.",
@@ -781,7 +1046,12 @@
           0.34
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在这时，那怪物又再次动了起来，其从黑熊体内延伸出来的藤蔓再次凌空一甩，抽向袁铭。",
+        "text": "Đúng lúc này, quái vật kia lại lần nữa bắt đầu chuyển động, nó từ gấu chó thể nội dọc theo người ra ngoài đích dây mây lần nữa lăng không hất lên, quất hướng Viên Minh .",
+        "index": 65
+      }
     },
     {
       "convert": "Viên Minh vội vàng xoay người hướng phía trước lăn mình một cái, ý đồ tránh né.",
@@ -801,7 +1071,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭连忙弯腰朝前一个翻滚，试图躲避。",
+        "text": "Viên Minh vội vàng xoay người hướng phía trước lăn mình một cái, thử đồ tránh né .",
+        "index": 66
+      }
     },
     {
       "convert": "Có thể kia dây leo lại dường như mọc thêm con mắt giữa không trung thay đổi phương hướng, vẫn là quất vào lưng của hắn bên trên, trực tiếp xé mở một đạo hỏa cay vết máu.",
@@ -813,7 +1088,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "可那藤蔓却彷如长了眼睛一般在半空变了方向，还是抽打在了他的脊背上，直接撕开了一道火辣辣的血痕。",
+        "text": "Khả kia dây mây nhưng dường như mọc thêm con mắt giữa không trung thay đổi phương hướng, vẫn là quất vào hắn sống lưng thượng, trực tiếp xé mở một đạo hỏa cay vết máu .",
+        "index": 67
+      }
     },
     {
       "convert": "Viên Minh nhịn đau đứng dậy, dự định đi đầu thoát đi.",
@@ -825,7 +1105,12 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭忍痛起身，打算先行逃离。",
+        "text": "Viên Minh nhịn đau đứng dậy, tính toán đi đầu thoát đi .",
+        "index": 68
+      }
     },
     {
       "convert": "Nếu là đối mặt đầu kia gấu đen, hắn coi như hiểu rõ, có một trận chiến lực lượng, nhưng trước mắt này vật cổ quái, lại là hắn nửa điểm đều không hiểu rõ, thậm chí cũng không biết thế nào mới có thể giết chết, này làm sao đánh?",
@@ -837,7 +1122,12 @@
           0.2
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "要是面对那头黑熊，他还算知根知底，有一战的底气，可眼前这古怪的东西，却是他半点都不了解的，甚至都不知道怎么样才能杀死，这怎么打？",
+        "text": "Nếu là đối diện đầu kia gấu chó, hắn còn tính hiểu tận gốc rễ, có một trận chiến đích tự tin, nhưng trước mắt này vật cổ quái, lại là hắn mảy may đều không biết đích, thậm chí cũng không biết thế nào mới có thể giết chết, điều này sao đánh ?",
+        "index": 69
+      }
     },
     {
       "convert": "Mắt thấy hắn quay người chạy trốn, kia ký sinh quái vật lại không dự định thả hắn đi, hai cây dây leo một trái một phải bắn ra, đồng thời hướng hắn đánh tới.",
@@ -849,7 +1139,12 @@
           0.3
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "眼见他转身逃跑，那寄生怪物却没打算放他走，两根藤蔓一左一右飞射而出，同时朝他袭来。",
+        "text": "Mắt thấy hắn chuyển thân chạy trốn, kia ký sinh quái vật lại không tính toán thả hắn đi, hai cây dây mây một tả một hữu bắn ra, cùng thời hướng hắn đánh úp lại .",
+        "index": 70
+      }
     },
     {
       "convert": "Lần này, Viên Minh ngay cả cuối cùng cơ hội phản kích cũng bị mất.",
@@ -861,7 +1156,12 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这一下，袁铭连最后反击的机会都没了。",
+        "text": "Lần này, Viên Minh liền tối hậu cơ hội phản kích đều không còn .",
+        "index": 73
+      }
     },
     {
       "convert": "Cứ như vậy, hắn bị kia dây leo một mực nắm kéo đi tới \"Gấu đen\" trước mặt.",
@@ -873,7 +1173,12 @@
           0.23
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就这样，他被那藤蔓一直拉扯着来到了“黑熊”的面前。",
+        "text": "Cứ như vậy, hắn bị kia dây mây một mạch lôi kéo lấy đi tới “ gấu chó ” trước mặt .",
+        "index": 74
+      }
     },
     {
       "convert": "Đến trước mặt, Viên Minh mới kinh ngạc phát hiện, đầu kia gấu đen vậy mà còn chưa chết, nó một cái khác huyết con ngươi màu đỏ còn tại nhấp nhô, miệng há ra hợp lại, phát ra nặng nề tiếng thở dốc vang.",
@@ -889,7 +1194,12 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "到了跟前，袁铭才惊讶地发现，那头黑熊竟然还没有死，它的另一个血红色的眼珠还在滚动，嘴巴一张一合，发出沉重的喘息声响。",
+        "text": "Đến rồi sắp tới, Viên Minh mới kinh ngạc phát hiện, đầu kia gấu chó lại còn không có chết, nó một cái khác đỏ như máu đích con mắt còn tại lên xuống, miệng há ra hợp lại, phát ra trầm trọng đích tiếng thở dốc vang .",
+        "index": 75
+      }
     },
     {
       "convert": "Viên Minh con ngươi đảo một vòng, lập tức giống như nghĩ tới điều gì.",
@@ -901,7 +1211,12 @@
           0.18
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭眼珠子一转，立即好像想到了什么。",
+        "text": "Viên Minh con ngươi đảo một vòng, lập tức dường như nghĩ tới điều gì .",
+        "index": 76
+      }
     },
     {
       "convert": "Thứ này nếu là ký sinh thể, như vậy chỉ cần triệt để giết chết nó chỗ ký sinh vật sống, sẽ cùng với đoạn mất nó sinh cơ, chỉ cần triệt để giết chết gấu đen, nó cũng liền sống không được.",
@@ -913,7 +1228,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这东西既然是寄生体，那么只要彻底杀死它所寄生的活物，就等同于断了它的生机，只要彻底杀死黑熊，它也就活不了。",
+        "text": "Thứ này nếu là ký sinh thể, như vậy chỉ cần triệt để giết chết nó sở ký sinh đích vật còn sống, sẽ cùng tại đoạn mất nó sinh cơ, chỉ cần triệt để giết chết gấu chó, nó cũng liền sống không được .",
+        "index": 77
+      }
     },
     {
       "convert": "Đáng tiếc, dưới mắt đã muộn.",
@@ -925,7 +1245,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "可惜，眼下已经迟了。",
+        "text": "Đáng tiếc, trước mắt đã muộn .",
+        "index": 78
+      }
     },
     {
       "convert": "Chỉ gặp gấu đen lồng ngực chỗ, bỗng nhiên phân liệt ra một đường vết rách, bên trong từng chiếc xương sườn tựa như là hai hàng đan xen cốt trảo, hướng về hai bên phân liệt ra đến, bên trong lộ ra một viên đỏ tươi trái tim, còn tại \"Phù phù, phù phù\" địa nhảy lên.",
@@ -937,7 +1262,12 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "只见黑熊的胸膛处，忽然分裂开一道口子，里面的根根肋骨好像是两排交错的骨爪，向着两边分裂开来，里面露出一颗鲜红的心脏，还在“噗通，噗通”地跳动。",
+        "text": "Chỉ kiến gấu chó đích lồng ngực chỗ, bỗng nhiên phân liệt ra một đường vết rách, bên trong từng chiếc xương sườn tựa như là hai hàng đan xen đích cốt trảo, hướng về hai bên phân liệt ra tới, bên trong lộ ra một viên đỏ tươi trái tim, còn tại “ phù phù, phù phù ” địa nhảy lên .",
+        "index": 79
+      }
     },
     {
       "convert": "Ngay tại Viên Minh cho là mình muốn bị ăn hết thời điểm, bó kia trói buộc hắn dây leo đột nhiên từng vòng từng vòng buông ra, đem bộ ngực của hắn bộ vị đản lộ ra.",
@@ -949,7 +1279,12 @@
           0.32
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在袁铭以为自己要被吃掉的时候，那捆缚着他的藤蔓突然一圈圈松开，将他的胸膛部位袒露了出来。",
+        "text": "Ngay tại Viên Minh cho là mình muốn bị ăn hết thời điểm, bó kia trói lấy hắn dây mây đột nhiên một vòng vòng thả lỏng khai, đem hắn đích lồng ngực bộ vị loã lồ rồi ra .",
+        "index": 81
+      }
     },
     {
       "convert": "Viên Minh lập tức hiểu được, gấu đen thân thể đã bị thương nặng tàn phá, chỉ có đổi mới túc chủ, thứ này mới có thể tiếp tục sống sót, nó không phải muốn ăn bản thân, mà là muốn đem hắn với tư cách mới túc chủ ký sinh.",
@@ -961,7 +1296,12 @@
           0.29
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭顿时明白过来，黑熊的身躯已经伤重残破，只有更换新的宿主，这东西才能继续存活，它不是要吃了自己，而是要把他作为新的宿主寄生。",
+        "text": "Viên Minh tức khắc hiểu được, gấu chó đích thân thể đã bị thương nặng tàn phá, chỉ có đổi mới đích ký chủ, thứ này mới có thể tiếp tục sống còn, nó không phải muốn ăn rồi chính mình, mà là muốn đem hắn là mới ký chủ ký sinh .",
+        "index": 82
+      }
     }
   ],
   "currentWorkingLine": 81,

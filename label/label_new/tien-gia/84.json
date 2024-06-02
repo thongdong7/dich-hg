@@ -1,4 +1,5 @@
 {
+  "currentLine": 86,
   "next": {
     "id": 85,
     "title": "Chương 85: Theo đuổi không bỏ"
@@ -15,459 +16,881 @@
     {
       "convert": "Viên Minh nhìn lướt qua báo đốm hung thú thi thể, không có làm nhiều cử động gì, tiếp tục cất bước tiến lên.",
       "dich": "Viên Minh nhìn lướt qua thi thể hung thú báo đốm, song cũng không làm gì, chỉ tiếp tục cất bước tiến lên.",
-      "suggest": "Viên Minh nhìn lướt qua thi thể hung thú báo đốm, không có làm động tác gì, tiếp tục cất bước tiến lên."
+      "suggest": "Viên Minh nhìn lướt qua thi thể hung thú báo đốm, không có làm động tác gì, tiếp tục cất bước tiến lên.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭扫了一眼花豹凶兽的尸体，没有多做什么举动，继续迈步前行。",
+        "text": "Viên Minh nhìn lướt qua báo đốm hung thú đích thi thể, không có làm nhiều cử động gì, tiếp tục cất bước tiền hành .",
+        "index": 0
+      }
     },
     {
       "convert": "Hắn hôm nay, trở lại chốn cũ, cũng đã cảnh còn người mất.",
       "dich": "Hắn hôm nay trở lại chốn cũ, nhưng đã là cảnh còn người mất.",
-      "suggest": "Hôm nay hắn trở lại chốn cũ, cảnh còn người mất."
+      "suggest": "Hôm nay hắn trở lại chốn cũ, cảnh còn người mất.",
+      "approved": true,
+      "chinese": {
+        "raw": "如今的他，故地重游，却已物是人非。",
+        "text": "Hắn hôm nay, trở lại chốn cũ, cũng đã cảnh còn người mất .",
+        "index": 1
+      }
     },
     {
       "convert": "Thân là Bích La Động ký danh đệ tử hắn, tự nhiên đã không cần lại thu thập cái gì huyết thực, gông xiềng đã đi, kia đoạn làm hắn bộ bộ kinh tâm trải qua cũng tựa hồ trở thành tới.",
       "dich": "Hắn thân là đệ tử ký danh của Bích La Động, dĩ nhiên không cần phải đi thu thập huyết thực gì đó nữa, gông xiềng đã được cởi bỏ, đoạn trải nghiệm khiến hắn bộ bộ kinh tâm kia dường như cũng đã trở thành quá khứ.",
-      "suggest": "Hắn là đệ tử ký danh Bích La Động, đương nhiên không cần thu thập thêm cái gì nữa, gông xiềng đã đi qua, những cảm xúc kinh tâm mà hắn trải qua dường như cũng đã trở lại."
+      "suggest": "Hắn là đệ tử ký danh Bích La Động, đương nhiên không cần thu thập thêm cái gì nữa, gông xiềng đã đi qua, những cảm xúc kinh tâm mà hắn trải qua dường như cũng đã trở lại.",
+      "approved": true,
+      "chinese": {
+        "raw": "身为碧罗洞记名弟子的他，自然已经不需要再收集什么血食了，枷锁已去，那段令他步步惊心的经历也似乎成为了过去。",
+        "text": "Thân là Bích La Động ký danh đệ tử đích hắn, tự nhiên đã không cần lại thu thập gì huyết thực rồi, gông xiềng đã đi, kia đoạn làm hắn bộ bộ kinh tâm đích kinh lịch cũng tựa hồ trở thành tới .",
+        "index": 2
+      }
     },
     {
       "convert": "Nhưng hắn nhưng trong lòng hết sức rõ ràng, Bích La Động mặc dù để hắn đánh bậy đánh bạ bước vào tiên đồ, lại không phải hắn chân chính kết cục, hắn cuối cùng sẽ có một ngày phải nghĩ biện pháp trở lại Trung Nguyên, đi tìm về chân thực bản thân, đồng thời cũng phải tìm đến cái kia làm chính mình gặp đây hết thảy kẻ cầm đầu.",
       "dich": "Nhưng trong lòng của hắn lại hiểu rất rõ, Bích La Động dù để hắn đánh bậy đánh bạ bước lên tiên đồ, nhưng đây không phải là đích đến thực sự của hắn, một ngày nào đó hắn sẽ phải tìm cách trở về Trung Nguyên, tìm lại con người thực của mình, đồng thời cũng phải tìm đến kẻ cầm đầu đã khiến hắn phải chịu hết thảy những việc này.",
-      "suggest": "Nhưng hắn vẫn rất rõ ràng, Bích La Động mặc dù khiến hắn đánh bậy đánh bạ bước vào tiên đồ, nhưng lại không phải kết cục của hắn, cuối cùng hắn sẽ phải nghĩ biện pháp trở về Trung Nguyên, đi tìm lại chính mình, đồng thời cũng phải tìm ra kẻ cầm đầu đã bắt hắn."
+      "suggest": "Nhưng hắn vẫn rất rõ ràng, Bích La Động mặc dù khiến hắn đánh bậy đánh bạ bước vào tiên đồ, nhưng lại không phải kết cục của hắn, cuối cùng hắn sẽ phải nghĩ biện pháp trở về Trung Nguyên, đi tìm lại chính mình, đồng thời cũng phải tìm ra kẻ cầm đầu đã bắt hắn.",
+      "approved": true,
+      "chinese": {
+        "raw": "但他心中却十分清楚，碧罗洞虽让他误打误撞的踏入仙途，却并非他真正的归宿，他终有一日要想办法回到中原，去寻回真实的自己，同时也要找到那个令自己遭受这一切的罪魁祸首。",
+        "text": "Nhưng hắn nhưng trong lòng hết sức rõ ràng, Bích La Động mặc dù khiến hắn đánh bậy đánh bạ bước vào tiên đồ, lại không phải hắn chân chính chỗ trở về, hắn cuối cùng sẽ có một ngày phải nghĩ biện pháp trở lại Trung Nguyên, đi tìm về chân thực đích chính mình, cùng thời cũng phải tìm đến cái kia làm chính mình chịu đựng đây hết thảy đích tội phạm đầu sỏ .",
+        "index": 3
+      }
     },
     {
       "convert": "Đương nhiên, trước đó, bản thân nhất định phải mạnh lên.",
       "dich": "Dĩ nhiên trước đó, hắn nhất định phải mạnh lên.",
-      "suggest": "Đương nhiên, trước tiên bản thân nhất định phải mạnh mẽ lên."
+      "suggest": "Đương nhiên, trước tiên bản thân nhất định phải mạnh mẽ lên.",
+      "approved": true,
+      "chinese": {
+        "raw": "当然，在此之前，自己必须要变强。",
+        "text": "Đương nhiên, trước đó, chính mình nhất định phải mạnh lên .",
+        "index": 4
+      }
     },
     {
       "convert": "Bởi vì chỉ có cường giả, mới có thể không bị người xem thường, không bị khi nhục, mới có thể ở trong hoàn cảnh tàn khốc sống sót, cũng có được báo thù vốn liếng.",
       "dich": "Bởi vì chỉ có kẻ mạnh mới không bị người khác xem thường, không bị khi nhục, mới có thể sống sót trong hoàn cảnh tàn khốc, cũng có được vốn liếng báo thù.",
-      "suggest": "Bởi vì chỉ có cường giả, mới có thể không bị người xem thường, không bị khi nhục, mới có thể sống sót trong hoàn cảnh tàn khốc, cũng có được vốn liếng báo thù."
+      "suggest": "Bởi vì chỉ có cường giả, mới có thể không bị người xem thường, không bị khi nhục, mới có thể sống sót trong hoàn cảnh tàn khốc, cũng có được vốn liếng báo thù.",
+      "approved": true,
+      "chinese": {
+        "raw": "因为唯有强者，才能不被人看不起，不被欺辱，才能在残酷的环境中活下去，并拥有复仇的资本。",
+        "text": "Vì chỉ có cường giả, mới có thể không bị người khinh thường, không bị khi nhục, mới có thể tại tàn khốc hoàn cảnh trung sống sót đi, đồng thời nắm giữ báo thù đích tư bản .",
+        "index": 5
+      }
     },
     {
       "convert": "Đây là Thập Vạn Đại Sơn, cùng Bích La Động, dạy biết hắn.",
       "dich": "Đây chính là điều mà Thập Vạn Đại Sơn và Bích La Động đã dạy hắn.",
-      "suggest": "Đây là Thập Vạn Đại Sơn, người dạy hắn cách làm người."
+      "suggest": "Đây là Thập Vạn Đại Sơn, người dạy hắn cách làm người.",
+      "approved": true,
+      "chinese": {
+        "raw": "这是十万大山，以及碧罗洞，所教会他的。",
+        "text": "Đây là Thập Vạn Đại Sơn, cùng với Bích La Động, dạy có thể hắn .",
+        "index": 6
+      }
     },
     {
       "convert": "Sau nửa canh giờ, tầm mắt dần dần trở nên khoáng đạt, theo một cỗ tươi tắn khí tức xông vào mũi, một chỗ to lớn hồ nước xuất hiện ở phía trước, mênh mông không nhìn thấy bờ.",
       "dich": "Sau nửa canh giờ, tầm mắt dần dần trở nên thoáng đãng, theo một làn gió tươi mát xộc vào mũi, một hồ nước khổng lồ, mênh mông không nhìn thấy bờ xuất hiện ở phía trước.",
-      "suggest": "Sau nửa canh giờ, tầm mắt dần dần trở nên khoáng đạt, theo một luồng khí tươi mới xộc vào mũi, một hồ nước cực lớn xuất hiện trước mắt, mênh mông không thấy bờ."
+      "suggest": "Sau nửa canh giờ, tầm mắt dần dần trở nên khoáng đạt, theo một luồng khí tươi mới xộc vào mũi, một hồ nước cực lớn xuất hiện trước mắt, mênh mông không thấy bờ.",
+      "approved": true,
+      "chinese": {
+        "raw": "半个时辰后，视野逐渐变得开阔，随着一股清新气息扑鼻而来，一处巨大湖泊出现在前方，茫茫看不到边。",
+        "text": "Sau nửa canh giờ, tầm nhìn dần dần trở nên khoáng đạt, theo một luồng thanh tân khí tức xông vào mũi, một chỗ thật lớn hồ nước xuất hiện ở phía trước, mờ mịt không nhìn thấy bờ .",
+        "index": 7
+      }
     },
     {
       "convert": "Nước hồ hiện ra thanh bích sắc, từng mảnh từng mảnh tươi tốt cỏ lau sinh trưởng nơi đây, cũng một mực kéo dài đến tầm mắt phần cuối, trong phiến thiên địa này vẽ ra nổi bật một cỗ lục sắc.",
       "dich": "Nước hồ trong xanh một màu, nơi đây lau sậy mọc um tùm, trải dài đến cuối tầm mắt, vẽ nên một một màu xanh nổi bật giữa khoảng trời đất này.",
-      "suggest": "Nước hồ trong xanh, từng đám từng đám cỏ lau tươi tốt sinh trưởng nơi đây, cũng đều đặn kéo dài đến tận cuối tầm mắt, trong phạm vi này còn có một màu xanh lục."
+      "suggest": "Nước hồ trong xanh, từng đám từng đám cỏ lau tươi tốt sinh trưởng nơi đây, cũng đều đặn kéo dài đến tận cuối tầm mắt, trong phạm vi này còn có một màu xanh lục.",
+      "approved": true,
+      "chinese": {
+        "raw": "湖水呈现青碧色，一片片茂盛的芦苇生长此间，也一直延绵到视野尽头，在这片天地中绘出了浓墨重彩的一股绿色。",
+        "text": "Hồ nước hiện ra thanh bích sắc, một mảnh phiến tươi tốt đích cỏ lau sinh trưởng nơi đây, cũng một mạch kéo dài đến tầm nhìn phần cuối, trong phiến thiên địa này vẽ ra rồi mực đậm màu đậm đích một luồng lục sắc .",
+        "index": 8
+      }
     },
     {
       "convert": "Gió hồ thổi qua, ngàn vạn cỏ lau phát ra rào tiếng ồn ào, hội tụ vào một chỗ, có loại hồng thủy gợn sóng quét sạch thiên địa cảm giác.",
       "dich": "Gió hồ thổi qua, ngàn vạn cây lau phát ra tiếng xào xạc rồi tụ lại với nhau, tạo cảm giác như hồng thủy cuộn sóng quét qua nhân gian.",
-      "suggest": "Gió hồ thổi qua, ngàn vạn cây lau phát ra tiếng ồn ào, tụ tập vào một chỗ, tạo ra cảm giác như sóng nước cuộn sóng quét qua thiên địa."
+      "suggest": "Gió hồ thổi qua, ngàn vạn cây lau phát ra tiếng ồn ào, tụ tập vào một chỗ, tạo ra cảm giác như sóng nước cuộn sóng quét qua thiên địa.",
+      "approved": true,
+      "chinese": {
+        "raw": "湖风吹过，万千芦苇发出哗哗的声音，汇聚在一起，有种洪水波浪席卷天地之感。",
+        "text": "Gió hồ thổi qua, muôn vàn cỏ lau phát ra ào ào đích thanh âm, hội tụ cùng nhau, có loại hồng thủy ba lãng thổi quét thiên địa cảm giác .",
+        "index": 9
+      }
     },
     {
       "convert": "\"Nguyên lai đây chính là ngàn lô hồ a, diện tích quả nhiên không nhỏ!\"",
       "dich": "\"Thì ra đây là Thiên Lô hồ sao, diện tích quả nhiên không nhỏ!\"",
-      "suggest": "\"Thì ra đây chính là ngàn lô hồ, diện tích quả nhiên không nhỏ!\""
+      "suggest": "\"Thì ra đây chính là ngàn lô hồ, diện tích quả nhiên không nhỏ!\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh nhìn trước mắt tình cảnh, lòng dạ cũng là một khoát.",
       "dich": "Viên Minh ngắm nhìn cảnh tượng trước mắt, tâm tình cũng trở nên thoáng đạt.",
-      "suggest": "Viên Minh nhìn cảnh tượng trước mắt, lòng dạ cũng đã quyết định."
+      "suggest": "Viên Minh nhìn cảnh tượng trước mắt, lòng dạ cũng đã quyết định.",
+      "approved": true
     },
     {
       "convert": "Ngàn lô hồ là Thập Vạn Đại Sơn bên trong một tòa hồ nước, diện tích bao la, chừng trăm dặm lớn nhỏ, bởi vì trong đó sinh trưởng vô số cỏ lau gọi tên.",
       "dich": "Thiên Lô hồ là một trong nhiều hồ nước trong Thập Vạn Đại Sơn, diện tích bao la, rộng khoảng trăm dặm, bởi vì trong hồ mọc rất nhiều lau sậy nên đặt tên như vậy.",
-      "suggest": "Ngàn lô hồ là một hồ nước trong Thập Vạn Đại Sơn, diện tích bao la, dài chừng trăm dặm, bởi vì trong đó sinh trưởng vô số loại cỏ lau."
+      "suggest": "Ngàn lô hồ là một hồ nước trong Thập Vạn Đại Sơn, diện tích bao la, dài chừng trăm dặm, bởi vì trong đó sinh trưởng vô số loại cỏ lau.",
+      "approved": true,
+      "chinese": {
+        "raw": "千芦湖是十万大山内一座湖泊，面积辽阔，足有百里大小，因为其中生长着无数芦苇得名。",
+        "text": "Nghìn lô hồ là Thập Vạn Đại Sơn nội một tòa hồ nước, diện tích mở mang, chừng trăm dặm lớn nhỏ, vì trong đó sinh trưởng vô số cỏ lau được gọi là .",
+        "index": 11
+      }
     },
     {
       "convert": "Viên Minh mang Hỏa Sàm Nhi tới Thập Vạn Đại Sơn, ngoại trừ cho hắn tìm một cái thích hợp chơi đùa nơi chốn hóng gió một chút bên ngoài, tự nhiên còn mang theo mục đích khác.",
       "dich": "Viên Minh mang Hỏa Sàm Nhi đến Thập Vạn Đại Sơn, ngoài việc tìm cho nó một nơi hóng gió, nô đùa thích hợp ra, tự nhiên còn có mục đích khác.",
-      "suggest": "Viên Minh dẫn Hỏa Sàm Nhi tới Thập Vạn Đại sơn, ngoại trừ giúp hắn tìm một nơi thích hợp để chơi đùa, đương nhiên còn mang theo một mục đích khác."
+      "suggest": "Viên Minh dẫn Hỏa Sàm Nhi tới Thập Vạn Đại sơn, ngoại trừ giúp hắn tìm một nơi thích hợp để chơi đùa, đương nhiên còn mang theo một mục đích khác.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭带火馋儿来十万大山，除了给其找一个合适的玩耍场所放放风外，自然还带着其他的目的。",
+        "text": "Viên Minh dẫn lửa thèm muốn nhi tới Thập Vạn Đại Sơn, trừ bỏ cho nó tìm một thích hợp chơi đùa nơi chốn hóng gió một chút ngoại, tự nhiên còn mang theo mục đích khác .",
+        "index": 12
+      }
     },
     {
       "convert": "Trong tông môn địa phương nào đều cần điểm cống hiến, hắn đã muốn xuất hiện đi một chuyến, liền thuận tiện từ Hành Chấp Đường bên trong tiếp một cái tương đối đơn giản thu thập nhiệm vụ, đến cái này ngàn lô hồ tìm kiếm nơi đây đặc sản nước xanh thạch.",
-      "dich": "Trong tông môn chỗ nào cũng đều cần điểm cống hiến, hắn đã muốn đi ra ngoài một chuyến, liền thuận tiện nhận một nhiệm vụ thu thập tương đối đơn giản trong Hành Chấp Đường, cũng chính là đến Thiên Lô hồ này tìm Bích Thủy thạch, đặc sản nơi đây.",
-      "suggest": "Hắn muốn đến bất cứ địa phương nào trong tông môn cần điểm cống hiến, liền thuận tiện đi một chuyến từ Hành Chấp Đường tới đây tiếp nhận một nhiệm vụ tương đối đơn giản, đến ngàn lô hồ tìm đặc sản nước xanh nơi đây."
+      "dich": "Trong tông môn chỗ nào cũng đều cần điểm cống hiến, hắn đã muốn đi ra ngoài một chuyến, liền thuận tiện nhận một nhiệm vụ thu thập tương đối đơn giản trong Hành Chấp Đường, cũng chính là đến Thiên Lô hồ này tìm Bích Thủy Thạch, đặc sản nơi đây.",
+      "suggest": "Hắn muốn đến bất cứ địa phương nào trong tông môn cần điểm cống hiến, liền thuận tiện đi một chuyến từ Hành Chấp Đường tới đây tiếp nhận một nhiệm vụ tương đối đơn giản, đến ngàn lô hồ tìm đặc sản nước xanh nơi đây.",
+      "approved": true,
+      "chinese": {
+        "raw": "宗门内什么地方都需要贡献值，他既然要出来走一趟，便顺便从行执堂内接了一个比较简单的收集任务，到这千芦湖寻找此地特产的碧水石。",
+        "text": "Trong tông môn địa phương nào đều cần cống hiến trực, hắn đã muốn ra đi một chuyến, liền thuận tiện từ hành cầm nội đường tiếp một cái tương đối đơn giản đích thu thập nhiệm vụ, đến này nghìn lô hồ tìm kiếm nơi đây đặc sản đích nước xanh thạch .",
+        "index": 13
+      }
     },
     {
       "convert": "Đây coi như là Hành Chấp Đường bên trong rất nhiều trường kỳ nhiệm vụ một trong số đó, không có cái gì thời gian kỳ hạn, chỉ cần thu tập được nước xanh thạch, bất cứ lúc nào đều có thể về tông môn hối đoái điểm cống hiến.",
-      "dich": "Đây xem như một trong số những nhiệm vụ dài kỳ của Hành Chấp Đường, không có thời gian kỳ hạn, chỉ cần thu thập được Bích Thủy thạch thì bất cứ lúc nào cũng có thể trở về tông môn đổi lấy điểm cống hiến.",
-      "suggest": "Đây cũng coi như là một trong rất nhiều nhiệm vụ trường kỳ trong Hành Chấp Đường, không có kỳ hạn nào, chỉ cần thu được một viên đá xanh, bất cứ lúc nào cũng có thể nhận được điểm cống hiến."
+      "dich": "Đây xem như một trong số những nhiệm vụ dài kỳ của Hành Chấp Đường, không có thời gian kỳ hạn, chỉ cần thu thập được Bích Thủy Thạch thì bất cứ lúc nào cũng có thể trở về tông môn đổi lấy điểm cống hiến.",
+      "suggest": "Đây cũng coi như là một trong rất nhiều nhiệm vụ trường kỳ trong Hành Chấp Đường, không có kỳ hạn nào, chỉ cần thu được một viên đá xanh, bất cứ lúc nào cũng có thể nhận được điểm cống hiến.",
+      "approved": true,
+      "chinese": {
+        "raw": "这算是行执堂内诸多长期任务的其中之一，没有什么时间期限，只要收集到碧水石，任何时候都可回宗门兑换贡献值。",
+        "text": "Đây coi là là hành cầm nội đường rất nhiều trường kỳ nhiệm vụ một trong số đó, không có cái gì thời gian kỳ hạn, chỉ cần thu tập được nước xanh thạch, bất cứ lúc nào đều có thể hồi tông môn đổi cống hiến trực .",
+        "index": 14
+      }
     },
     {
       "convert": "Nguyên bản nằm ở Viên Minh đầu vai buồn ngủ Hỏa Sàm Nhi, vừa nhìn thấy trước mắt bát ngát hồ nước, lập tức mừng rỡ, mặt lộ vẻ mới lạ chi sắc địa từ hắn đầu vai ba nhảy hai nhảy đi vào bên hồ, không chớp mắt quan sát nước hồ, thân thể kích động, một bộ muốn nhảy đến trong hồ chơi đùa dáng vẻ.",
       "dich": "Hỏa Sàm Nhi vốn đang buồn ngủ nằm trên đầu vai Viên Minh, vừa nhìn thấy hồ nước mênh mông trước mắt, lập tức mừng rỡ, mặt lộ vẻ mới lạ, từ trên đầu vai hắn nhảy mấy cái đi tới bên hồ, nhìn mặt nước không chớp mắt, bộ dạng y như muốn nhảy xuống nước vui đùa.",
-      "suggest": "Hỏa Sàm Nhi vốn đang buồn ngủ trên vai Viên Minh, vừa nhìn thấy hồ nước bát ngát trước mắt, lập tức mừng rỡ, mặt lộ vẻ tươi mới lạ, từ đầu vai hắn nhảy xuống hồ, không chớp mắt quan sát nước hồ, thân thể kích động, làm bộ muốn nhảy vào trong hồ đùa nghịch."
+      "suggest": "Hỏa Sàm Nhi vốn đang buồn ngủ trên vai Viên Minh, vừa nhìn thấy hồ nước bát ngát trước mắt, lập tức mừng rỡ, mặt lộ vẻ tươi mới lạ, từ đầu vai hắn nhảy xuống hồ, không chớp mắt quan sát nước hồ, thân thể kích động, làm bộ muốn nhảy vào trong hồ đùa nghịch.",
+      "approved": true,
+      "chinese": {
+        "raw": "原本趴伏在袁铭肩头昏昏欲睡的火馋儿，一看到眼前辽阔的湖泊，顿时精神一振，面露新奇之色地从其肩头三蹦两跳的来到湖边，目不转睛地观看着湖水，身子跃跃欲试，一副想要跳到湖中玩耍的样子。",
+        "text": "Nguyên bản nằm sấp nằm ở Viên Minh đầu vai buồn ngủ đích lửa thèm muốn nhi, xem xét đến trước mắt mở mang đích hồ nước, tức khắc mừng rỡ, mặt lộ vẻ tân kỳ chi sắc địa từ nó đầu vai ba nhảy lưỡng nhảy đi tới bên hồ, không chớp mắt quan sát hồ nước, thân thể vọt vọt muốn thử, một bức muốn nhảy đến trong hồ chơi đùa dáng vẻ .",
+        "index": 15
+      }
     },
     {
       "convert": "Viên Minh gặp này có chút ngoài ý muốn, Hỏa Sàm Nhi là Hỏa thuộc tính Linh thú, hắn còn tưởng rằng gặp nước sẽ rất kháng cự, nghĩ không ra sẽ là cái dạng này.",
       "dich": "Viên Minh trông cảnh này thấy hơi ngạc nhiên, Hỏa Sàm Nhi là linh thú Hỏa thuộc tính, hắn còn tưởng nó thấy nước sẽ chán ghét, không ngờ lại thành ra dạng này.",
-      "suggest": "Viên Minh thấy cảnh này có chút bất ngờ, Hỏa Sàm Nhi là Linh thú thuộc tính Hỏa, hắn còn tưởng rằng khi gặp nước sẽ rất kháng cự, không nghĩ ra lại là dạng này."
+      "suggest": "Viên Minh thấy cảnh này có chút bất ngờ, Hỏa Sàm Nhi là Linh thú thuộc tính Hỏa, hắn còn tưởng rằng khi gặp nước sẽ rất kháng cự, không nghĩ ra lại là dạng này.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭见此颇为意外，火馋儿是火属性灵兽，他还以为遇水会很抗拒，想不到会是这个样子。",
+        "text": "Viên Minh kiến này có chút ý ngoại, lửa thèm muốn nhi là hỏa thuộc tính linh thú, hắn còn tưởng rằng gặp thủy sẽ rất kháng cự, nghĩ không ra sẽ là cái dạng này .",
+        "index": 16
+      }
     },
     {
       "convert": "\"Một hồi dẫn ngươi đi trên mặt nước đi dạo một vòng, có được hay không?\"",
       "dich": "\"Lát nữa dẫn người đi dạo một vòng trên mặt hồ, có được không?\"",
-      "suggest": "\"Một lát dẫn ngươi đi dạo trên mặt nước một vòng, được không?\""
+      "suggest": "\"Một lát dẫn ngươi đi dạo trên mặt nước một vòng, được không?\"",
+      "approved": true
     },
     {
       "convert": "Hắn nửa ngồi xuống tới, đưa tay gãi gãi Hỏa Chồn sau tai, vừa cười vừa nói.",
       "dich": "Hắn nửa ngồi xổm xuống, đưa tay gãi gãi chỗ sau tai chồn lửa, cười nói.",
-      "suggest": "Hắn ngồi xổm xuống, đưa tay gãi gãi sau tai con Hỏa Chồn, vừa cười vừa nói."
+      "suggest": "Hắn ngồi xổm xuống, đưa tay gãi gãi sau tai con Hỏa Chồn, vừa cười vừa nói.",
+      "approved": true
     },
     {
       "convert": "Hỏa Sàm Nhi không biết có nghe hiểu hay không, quay đầu xem xét Viên Minh một chút, lập tức lại quay qua cái đầu nhỏ, đem lực chú ý đặt ở mênh mông trong hồ nước.",
       "dich": "Hỏa Sàm Nhi không biết nghe có hiểu không, chỉ quay đầu nhìn Viên Minh một cái rồi lập tức quay cái đầu nhỏ lại, đặt sự chú ý vào trong hồ nước mênh mông.",
-      "suggest": "Hỏa Sàm Nhi không biết có nghe hiểu hay không, quay đầu nhìn Viên Minh một chút, sau đó lập tức quay đầu, tập trung sự chú ý vào hồ nước mênh mông."
+      "suggest": "Hỏa Sàm Nhi không biết có nghe hiểu hay không, quay đầu nhìn Viên Minh một chút, sau đó lập tức quay đầu, tập trung sự chú ý vào hồ nước mênh mông.",
+      "approved": true,
+      "chinese": {
+        "raw": "火馋儿不知有没有听懂，回头瞅了袁铭一眼，立刻又别过小脑袋，将注意力放在了茫茫湖水之中。",
+        "text": "Lửa thèm muốn nhi không biết có nghe hiểu hay không, hồi đầu xem xét Viên Minh một chút, lập tức lại quay qua cái đầu nhỏ, đem lực chú ý đặt ở mờ mịt trong hồ nước .",
+        "index": 18
+      }
     },
     {
       "convert": "Viên Minh gặp này cũng không tiếp tục để ý, tế ra Thanh Ngư Kiếm, chặt đứt phụ cận mấy gốc đại thụ, đem nhánh cây thân cây gọt sạch, chỉ để lại trụ cột.",
       "dich": "Viên Minh thấy thế cũng không tiếp tục để ý nó, tế Thanh Ngư Kiếm ra, chặt đứt mấy gốc đại thụ xung quanh, đoạn gọt sạch cành nhánh, chỉ để lại thân cây.",
-      "suggest": "Viên Minh thấy vậy cũng không quan tâm, tế ra Thanh Ngư Kiếm, chặt mấy gốc đại thụ xung quanh, đem thân cây cắt bỏ, chỉ để lại trụ cột."
+      "suggest": "Viên Minh thấy vậy cũng không quan tâm, tế ra Thanh Ngư Kiếm, chặt mấy gốc đại thụ xung quanh, đem thân cây cắt bỏ, chỉ để lại trụ cột.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭见此也不再理会，祭出青鱼剑，斩断了附近的几株大树，将树枝树干削掉，只留下主干。",
+        "text": "Viên Minh kiến này cũng không tiếp tục để ý, tế ra cá trắm đen 剑, chặt đứt phụ cận đích mấy gốc đại thụ, đem nhánh cây thân cây gọt sạch, chỉ để lại trụ cột .",
+        "index": 19
+      }
     },
     {
       "convert": "Hắn sau đó dùng từ trong tông môn mang tới dây thừng, đem vài đoạn đại thụ trụ cột song song trói buộc chung một chỗ, một cái dài hai, ba trượng giản dị bè gỗ bè liền chế tác hoàn thành.",
       "dich": "Tiếp đó, hắn dùng dây thừng mang từ trong tông môn đến, đặt mấy khúc thân cây nằm song song rồi buộc lại với nhanh, rất nhanh đã chế tác thành công một cái bè gỗ đơn giản dài hai, ba trượng.",
-      "suggest": "Sau đó hắn dùng dây thừng từ tông môn mang tới, trói mấy cây đại thụ lại với nhau, tạo thành một bè gỗ đơn giản dài hai, ba trượng."
+      "suggest": "Sau đó hắn dùng dây thừng từ tông môn mang tới, trói mấy cây đại thụ lại với nhau, tạo thành một bè gỗ đơn giản dài hai, ba trượng.",
+      "approved": true,
+      "chinese": {
+        "raw": "他随后用从宗门里带来的绳索，将几截大树主干并排捆绑在一起，一个两三丈长的简易木排筏子便制作完成。",
+        "text": "Hắn theo sau dụng từ trong tông môn mang tới dây thừng, đem vài đoạn đại thụ trụ cột song song trói chặt cùng nhau, một cái dài hai, ba trượng đích giản dị bè gỗ bè liền chế tác hoàn thành .",
+        "index": 20
+      }
     },
     {
       "convert": "\"Đi.\"",
       "dich": "\"Đi.\"",
-      "suggest": "\"Đi.\""
+      "suggest": "\"Đi.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh nắm lên Hỏa Sàm Nhi hướng về đầu vai vừa để xuống, nhảy lên bè gỗ bè, dùng một cây dài nhỏ thẳng tắp thân cây đem sào, hướng phía trung tâm hồ nước phương hướng vạch tới.",
       "dich": "Viên Minh xách Hỏa Sàm Nhi đặt lên đầu vai, nhảy lên bè gỗ rồi dùng một thân cây nhỏ dài thẳng tắp làm sào, lái bè đi về phía trung tâm hồ nước.",
-      "suggest": "Viên Minh nắm lấy tay Hỏa Sàm Nhi, nhảy lên bè gỗ, dùng một thân cây to thẳng tắp cắm thẳng xuống hồ nước, vạch một đường thẳng về phía hồ nước."
+      "suggest": "Viên Minh nắm lấy tay Hỏa Sàm Nhi, nhảy lên bè gỗ, dùng một thân cây to thẳng tắp cắm thẳng xuống hồ nước, vạch một đường thẳng về phía hồ nước.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭抓起火馋儿往肩头一放，跳上木排筏子，用一根细长笔直的树干当撑杆，朝着湖泊中心方向划去。",
+        "text": "Viên Minh nắm lên lửa thèm muốn nhi hướng đầu vai vừa để xuống, nhảy lên bè gỗ bè, dụng một cây dài nhỏ thẳng tắp đích thân cây đương sào, hướng tới trung tâm hồ nước phương hướng vạch tới .",
+        "index": 22
+      }
     },
     {
       "convert": "Rất nhiều Bích La Động đồ đệ đều tiếp nhận nước xanh thạch nhiệm vụ, bên hồ khu vực khoáng thạch đã sớm bị hái sạch sành sanh, đạt được sâu hơn địa phương đi tìm.",
-      "dich": "Rất nhiều đệ tử Bích La Động cùng tiếp nhận nhiệm vụ Bích Thủy thạch nên khoáng thạch ở khu vực bờ hô đã sớm bị hái sạch sẽ, phải tới chỗ sâu mới tìm được.",
-      "suggest": "Rất nhiều đồ đệ Bích La Động đều nhận nhiệm vụ nước xanh, khoáng thạch bên hồ đã bị hái sạch sành sanh, tìm được chỗ sâu hơn."
+      "dich": "Rất nhiều đệ tử Bích La Động cùng tiếp nhận nhiệm vụ Bích Thủy Thạch nên khoáng thạch ở khu vực bờ hồ đã sớm bị hái sạch sẽ, phải tới chỗ sâu mới tìm được.",
+      "suggest": "Rất nhiều đồ đệ Bích La Động đều nhận nhiệm vụ nước xanh, khoáng thạch bên hồ đã bị hái sạch sành sanh, tìm được chỗ sâu hơn.",
+      "approved": true,
+      "chinese": {
+        "raw": "很多碧罗洞弟子都接过碧水石的任务，湖边区域的矿石早已被采了个精光，得到较深的地方去找。",
+        "text": "Rất nhiều Bích La Động đệ tử đều tiếp nhận nước xanh thạch đích nhiệm vụ, bên hồ khu vực đích khoáng thạch đã sớm bị hái sạch sành sanh, được đến sâu hơn đích địa phương đi tìm .",
+        "index": 23
+      }
     },
     {
       "convert": "Hỏa Sàm Nhi ở bè gỗ bè trước sau lanh lợi, thỉnh thoảng dùng móng vuốt nhẹ nhàng điểm một cái mặt hồ, lập tức liền rụt trở về, chơi quên cả trời đất.",
       "dich": "Hỏa Sàm Nhi ở trên bè gỗ nhảy trước chạy sau, thỉnh thoảng đưa móng vuốt điểm nhẹ lên mặt hồ một cái rồi lập tức rụt về, chơi đến quên cả trời đất.",
-      "suggest": "Hỏa Sàm Nhi ở trên bè gỗ vô cùng lanh lợi, thỉnh thoảng lại dùng móng vuốt nhẹ nhàng điểm lên mặt hồ, lập tức rụt trở về, chơi quên cả trời đất."
+      "suggest": "Hỏa Sàm Nhi ở trên bè gỗ vô cùng lanh lợi, thỉnh thoảng lại dùng móng vuốt nhẹ nhàng điểm lên mặt hồ, lập tức rụt trở về, chơi quên cả trời đất.",
+      "approved": true,
+      "chinese": {
+        "raw": "火馋儿在木排筏子前后蹦蹦跳跳，间或用爪子轻轻一点湖面，立刻就缩了回去，玩的不亦乐乎。",
+        "text": "Lửa thèm muốn nhi tại bè gỗ bè trước sau sôi nổi, thỉnh thoảng dụng trảo nhẹ nhàng điểm một cái mặt hồ, lập tức liền rụt trở về, chơi đích bất diệc nhạc hồ (khủng khiếp) .",
+        "index": 24
+      }
     },
     {
       "convert": "Viên Minh để ở trong mắt, cũng rõ ràng một chút, Hỏa Sàm Nhi mặc dù không sợ nước, thân là Hỏa thuộc tính Linh thú, vẫn có chút kị nước.",
       "dich": "Viên Minh thu cảnh này vào trong mắt, từ đó cũng hiểu rõ thêm, Hỏa Sàm Nhi dù không sợ nước, nhưng thân là linh thú Hỏa thuộc tính nên vẫn hơi kỵ nước.",
-      "suggest": "Viên Minh để trong mắt, cũng hiểu được một chút, Hỏa Sàm Nhi mặc dù không sợ nước, nhưng thân là Linh thú thuộc tính Hỏa, vẫn có chút kị nước."
+      "suggest": "Viên Minh để trong mắt, cũng hiểu được một chút, Hỏa Sàm Nhi mặc dù không sợ nước, nhưng thân là Linh thú thuộc tính Hỏa, vẫn có chút kị nước.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭看在眼中，也明白了一点，火馋儿虽然不怕水，身为火属性灵兽，仍然颇为忌水。",
+        "text": "Viên Minh để ở trong mắt, cũng rõ ràng một chút, lửa thèm muốn nhi tuy rằng không sợ thủy, thân là hỏa thuộc tính linh thú, vẫn cứ có chút kị thủy .",
+        "index": 25
+      }
     },
     {
       "convert": "Dạng này cũng tốt, liền không cần lo lắng hắn tìm kiếm nước xanh thạch thời điểm, Hỏa Sàm Nhi biết nhảy nước trốn",
-      "dich": "Như vậy cũng tốt, không cần phải lo lắng khi hắn tìm kiếm Bích Thủy thạch, Hỏa Sàm Nhi sẽ nhảy xuống nước chạy trốn.",
-      "suggest": "Dạng này cũng tốt, không cần lo lắng khi hắn tìm kiếm nước xanh mà Hỏa Sàm Nhi không biết nhảy xuống nước trốn thoát"
+      "dich": "Như vậy cũng tốt, không cần phải lo lắng khi hắn tìm kiếm Bích Thủy Thạch, Hỏa Sàm Nhi sẽ nhảy xuống nước chạy trốn.",
+      "suggest": "Dạng này cũng tốt, không cần lo lắng khi hắn tìm kiếm nước xanh mà Hỏa Sàm Nhi không biết nhảy xuống nước trốn thoát",
+      "approved": true
     },
     {
       "convert": "Bè gỗ bè rất nhanh tới hồ nước sâu hơn địa phương, Viên Minh quan sát bốn phía một chút về sau, thả người nhảy vào trong hồ, hướng đáy nước kín đáo đi tới.",
       "dich": "Bè gỗ rất nhanh tới chỗ nước sâu hơn, Viên Minh sau khi quan sát xung quanh một chút liền thả người nhảy vào trong hồ, lặn xuống phía đáy tìm kiếm.",
-      "suggest": "Bè gỗ rất nhanh đã tới chỗ sâu hơn hồ, Viên Minh quan sát bốn phía một lượt, sau đó lập tức tung người nhảy vào trong hồ, lặn sâu xuống đáy nước."
+      "suggest": "Bè gỗ rất nhanh đã tới chỗ sâu hơn hồ, Viên Minh quan sát bốn phía một lượt, sau đó lập tức tung người nhảy vào trong hồ, lặn sâu xuống đáy nước.",
+      "approved": true,
+      "chinese": {
+        "raw": "木排筏子很快到了湖泊较深的地方，袁铭四下打量了一眼后，纵身跃入湖中，朝水底潜去。",
+        "text": "Bè gỗ bè rất nhanh tới rồi hồ nước sâu hơn đích địa phương, Viên Minh quan sát bốn phía một chút sau, nhún người vọt nhập trong hồ, hướng đáy nước kín đáo đi tới .",
+        "index": 27
+      }
     },
     {
       "convert": "Lấy hắn ngày nay tu vi, cho dù không thi triển cóc biến thân, cũng có thể dưới đáy nước kiên trì có phần thời gian dài.",
       "dich": "Lấy tu vi hiện tại của hắn, dù không thi triển biến thân cóc thì vẫn có thể kiên trì dưới đáy nước được một khoảng thời gian dài.",
-      "suggest": "Với tu vi hiện tại của hắn, cho dù không thi triển biến thân cóc, cũng có thể kiên trì ở dưới nước được một thời gian dài."
+      "suggest": "Với tu vi hiện tại của hắn, cho dù không thi triển biến thân cóc, cũng có thể kiên trì ở dưới nước được một thời gian dài.",
+      "approved": true,
+      "chinese": {
+        "raw": "以他如今修为，即便不施展蛤蟆变身，也能在水底坚持颇长的时间。",
+        "text": "Dĩ hắn ngày nay tu vi, mặc dù không thi triển cóc biến thân, cũng có thể dưới đáy nước kiên trì rất lâu đích thời gian .",
+        "index": 28
+      }
     },
     {
       "convert": "Nửa khắc đồng hồ về sau, hắn từ đáy nước toát ra, lại là hai tay trống trơn.",
       "dich": "Sau nửa khắc đồng hồ, hắn từ đáy nước trồi lên, có điều hai tay trống trơn.",
-      "suggest": "Nửa khắc sau, hắn từ dưới nước trồi lên, để lộ hai tay trống trơn."
+      "suggest": "Nửa khắc sau, hắn từ dưới nước trồi lên, để lộ hai tay trống trơn.",
+      "approved": true,
+      "chinese": {
+        "raw": "半刻钟后，他从水底冒出，却是两手空空。",
+        "text": "Nửa khắc phút sau, hắn từ đáy nước tỏa ra, lại là hai tay trống trơn .",
+        "index": 29
+      }
     },
     {
       "convert": "Viên Minh quay đầu nhìn về phía bè gỗ bè, gặp Hỏa Sàm Nhi còn rất tốt đợi ở phía trên, sắc mặt buông lỏng, hơi nghỉ ngơi về sau, lại lần nữa lặn xuống nước, kết quả tìm tòi cả buổi, vẫn không thể tìm được một khối nước xanh thạch.",
-      "dich": "Viên Minh quay đầu nhìn về phía bè gỗ, thấy Hỏa Sàm Nhi vẫn ngoan ngoãn đợi ở trên đó mới thả lỏng cơ mặt, nghỉ ngơi thêm một lúc rồi lại lần nữa lặn xuống nước, kết quả là tìm kiếm một hồi lâu mà vẫn không thể tìm thấy khối Bích Thủy thạch nào.",
-      "suggest": "Viên Minh quay đầu nhìn về phía bè gỗ, thấy Hỏa Sàm Nhi vẫn đang đợi ở trên thuyền gỗ, sắc mặt buông lỏng, sau khi nghỉ ngơi một chút lại tiếp tục lặn xuống nước, kết quả tìm kiếm cả buổi vẫn không tìm được một khối đá xanh."
+      "dich": "Viên Minh quay đầu nhìn về phía bè gỗ, thấy Hỏa Sàm Nhi vẫn ngoan ngoãn đợi ở trên đó mới thả lỏng cơ mặt, nghỉ ngơi thêm một lúc rồi lại lần nữa lặn xuống nước, kết quả là tìm kiếm một hồi lâu mà vẫn không thể tìm thấy khối Bích Thủy Thạch nào.",
+      "suggest": "Viên Minh quay đầu nhìn về phía bè gỗ, thấy Hỏa Sàm Nhi vẫn đang đợi ở trên thuyền gỗ, sắc mặt buông lỏng, sau khi nghỉ ngơi một chút lại tiếp tục lặn xuống nước, kết quả tìm kiếm cả buổi vẫn không tìm được một khối đá xanh.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭转头看向木排筏子，见火馋儿还好好的待在上面，面色一松，略微休息后，再度潜入水中，结果搜寻了老半天，仍然没能寻到一块碧水石。",
+        "text": "Viên Minh quay đầu nhìn về phía bè gỗ bè, kiến lửa thèm muốn nhi còn rất tốt đợi ở phía trên, sắc mặt buông lỏng, hơi nghỉ hơi thở sau, lại lần nữa lặn xuống nước, kết quả tìm tòi cả buổi, vẫn cứ không thể tìm được một khối nước xanh thạch .",
+        "index": 30
+      }
     },
     {
       "convert": "\"Cái này đồ bỏ nhiệm vụ, xem ra cũng không thế nào đơn giản a!\"",
       "dich": "\"Cái nhiệm vụ cùi bắp này xem ra cũng không dễ làm lắm.\"",
-      "suggest": "\"Nhiệm vụ bỏ đi này, xem ra cũng không đơn giản chút nào!\""
+      "suggest": "\"Nhiệm vụ bỏ đi này, xem ra cũng không đơn giản chút nào!\"",
+      "approved": true
     },
     {
       "convert": "Hắn lầm bầm một câu, xoay người nhảy lên bè gỗ bè, tiếp tục hướng hồ trung tâm vạch tới, lần này đi tới vài dặm khoảng cách mới dừng lại, tiếp tục lặn xuống nước tìm kiếm, vẫn là không thu hoạch được gì.",
-      "dich": "Hắn lầm bầm tự nói, đoạn xoay người nhảy lên bè gỗ, tiếp tục chống sào đi về phía trung tâm hồ.",
-      "suggest": "Hắn lẩm bẩm một câu, xong xoay người nhảy lên bè gỗ, tiếp tục vạch hướng hồ, đi được mấy dặm mới dừng lại, tiếp tục lặn xuống nước tìm kiếm, song vẫn không thu hoạch được gì."
+      "dich": "Hắn lầm bầm tự nói, đoạn xoay người nhảy lên bè gỗ, tiếp tục chống sào đi về phía trung tâm hồ. Lần này bè đi liền mấy dặm mới dùng lại, hắn lại tiếp tục xuống nước tìm kiếm nhưng vẫn không thu hoạch được gì.",
+      "suggest": "Hắn lẩm bẩm một câu, xong xoay người nhảy lên bè gỗ, tiếp tục vạch hướng hồ, đi được mấy dặm mới dừng lại, tiếp tục lặn xuống nước tìm kiếm, song vẫn không thu hoạch được gì.",
+      "approved": true,
+      "chinese": {
+        "raw": "他嘟囔了一句，翻身跳上木排筏子，继续朝湖中心划去，这次前进了数里距离才停下，继续潜入水中寻找，还是一无所获。",
+        "text": "Hắn lầm bầm một câu, trở mình nhảy lên bè gỗ bè, tiếp tục hướng hồ trung tâm vạch tới, lần này đi tới vài dặm cự ly mới dừng lại, tiếp tục lặn xuống nước tìm kiếm, vẫn là không thu hoạch được gì .",
+        "index": 32
+      }
     },
     {
       "convert": "Viên Minh mặc dù có chút buồn bực nhưng cũng không có quá nhiều thất vọng, ngàn lô hồ bị tìm kiếm nhiều năm, đáy hồ nước xanh thạch đã còn thừa không nhiều, rất dễ dàng tìm đến, hắn ngược lại sẽ cảm thấy kỳ quái.",
-      "dich": "Lần này bè đi liền mấy dặm mới dùng lại, hắn lại tiếp tục xuống nước tìm kiếm nhưng vẫn không thu hoạch được gì.",
-      "suggest": "Viên Minh dù có chút buồn bực nhưng cũng không có quá nhiều thất vọng. Hơn ngàn lô hồ bị tìm kiếm nhiều năm, đá xanh dưới hồ còn thừa không nhiều, rất dễ dàng tìm đến, hắn ngược lại sẽ cảm thấy kỳ quái."
+      "dich": "Viên Minh dù có hơi buồn bực nhưng cũng không quá thất vọng, Thiên Lô hồ đã bị khai thác nhiều năm, Bích Thủy Thạch ở dưới đáy không còn được bao nhiêu, nếu dễ dàng tìm được thì mới khiến hắn thấy kỳ quái.",
+      "suggest": "Viên Minh dù có chút buồn bực nhưng cũng không có quá nhiều thất vọng. Hơn ngàn lô hồ bị tìm kiếm nhiều năm, đá xanh dưới hồ còn thừa không nhiều, rất dễ dàng tìm đến, hắn ngược lại sẽ cảm thấy kỳ quái.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭虽有些郁闷却也没太多失望，千芦湖被搜寻多年，湖底的碧水石已经所剩不多，太容易就找到，他反而会觉得奇怪。",
+        "text": "Viên Minh tuy có chút phiền muộn nhưng cũng không quá nhiều thất vọng, nghìn lô hồ bị sưu tầm nhiều năm, đáy hồ đích nước xanh thạch đã còn thừa không nhiều, rất dễ dàng tìm đến, hắn ngược lại sẽ cảm thấy kỳ quái .",
+        "index": 33
+      }
     },
     {
       "convert": "Hắn tiếp tục hướng hồ nước chỗ sâu bước đi, liên tục đổi ba cái địa phương, rốt cuộc tìm được khối thứ nhất nước xanh thạch.",
-      "dich": "Viên Minh dù có hơi buồn bực nhưng cũng không quá thất vọng, Thiên Lô hồ đã bị khai thác nhiều năm, Bích Thủy thạch ở dưới đáy không còn được bao nhiêu, nếu dễ dàng tìm được thì mới khiến hắn thấy kỳ quái.",
-      "suggest": "Hắn tiếp tục bước sâu xuống đáy hồ, liên tục đổi địa điểm ba lần, cuối cùng cũng tìm được khối đá màu xanh."
+      "dich": "Hắn tiếp tục lái bè tiến về chỗ sâu trong hồ, sau khi liên tục đổi ba chỗ, cuối cũng đã tìm được khối Bích Thủy Thạch đầu tiên.",
+      "suggest": "Hắn tiếp tục bước sâu xuống đáy hồ, liên tục đổi địa điểm ba lần, cuối cùng cũng tìm được khối đá màu xanh.",
+      "approved": true,
+      "chinese": {
+        "raw": "他继续朝湖泊深处行去，连续换了三个地方，终于找到了第一块碧水石。",
+        "text": "Hắn tiếp tục hướng hồ nước chỗ sâu bước đi, liên tục đổi ba cái địa phương, rốt cuộc tìm được khối thứ nhất nước xanh thạch .",
+        "index": 34
+      }
     },
     {
       "convert": "Nước xanh thạch hình như phỉ thúy, bên trong ẩn hiện từng tia từng tia khí lưu, sờ tới sờ lui càng cho người ta một loại lạnh buốt thấm tâm cảm giác.",
-      "dich": "Hắn tiếp tục lái bè tiến về chỗ sâu trong hồ, sau khi liên tục đổi ba chỗ, cuối cũng đã tìm được khối Bích Thủy thạch đầu tiên.",
-      "suggest": "Nước màu xanh như phỉ thúy, bên trong ẩn hiện từng tia khí lưu, khiến cho người ta có cảm giác lạnh lẽo thấu tâm."
+      "dich": "Bích Thủy Thạch trông như ngọc phỉ thúy, bên trong lờ mờ thấy từng tia, từng tia khí lưu, sờ tới sờ lui lại cho người ta một loại cái giác lạnh giá thấu tim.",
+      "suggest": "Nước màu xanh như phỉ thúy, bên trong ẩn hiện từng tia khí lưu, khiến cho người ta có cảm giác lạnh lẽo thấu tâm.",
+      "approved": true,
+      "chinese": {
+        "raw": "碧水石形如翡翠，内部隐现丝丝气流，摸起来更给人一种冰凉沁心之感。",
+        "text": "Nước xanh thạch hình 如 ngọc bích, nội bộ ẩn hiện nhè nhẹ khí lưu, sờ tới sờ lui càng cho người ta một loại băng lạnh tẩm tâm cảm giác .",
+        "index": 35
+      }
     },
     {
       "convert": "Viên Minh lật xem mấy lần, đem vật này thu vào trữ vật đại.",
-      "dich": "Bích Thủy thạch trông như ngọc phỉ thúy, bên trong lờ mờ thấy từng tia, từng tia khí lưu, sờ tới sờ lui lại cho người ta một loại cái giác lạnh giá thấu tim.",
-      "suggest": "Viên Minh lật xem mấy lần, thu vật này vào túi trữ vật."
+      "dich": "Viên Minh lật qua lật lại xem mấy lượt rồi thu vào trong túi trữ vật.",
+      "suggest": "Viên Minh lật xem mấy lần, thu vật này vào túi trữ vật.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭翻看几遍，将此物收入储物袋。",
+        "text": "Viên Minh lật xem mấy lần, đem vật ấy thu vào trữ vật đại .",
+        "index": 36
+      }
     },
     {
       "convert": "Khối đá này với tư cách Thủy thuộc tính khoáng thạch, cũng coi là trong tông môn nhu cầu lượng không nhỏ một loại thông thường linh tài, bất quá luận giá trị so với Hỏa Phác Ngọc hơi thấp, mười khối mới có thể đổi được một điểm điểm cống hiến.",
-      "dich": "Viên Minh lật qua lật lại xem mấy lượt rồi thu vào trong túi trữ vật.",
-      "suggest": "Khối đá này với tư cách khoáng thạch thuộc tính Thủy, cũng coi là nhu cầu không nhỏ của một loại linh tài thông thường trong tông môn, nhưng luận giá trị thì hơi thấp một chút, chỉ bằng một khối Hỏa Phác Ngọc cũng chỉ đổi được một điểm cống hiến."
+      "dich": "Khối khoáng thạch Thủy thuộc tính này cũng xem như một loại linh tài thông thường mà tông môn có nhu cầu tương đối lớn, có điều giá trị hơi thấp so với Hỏa Phác Ngọc, mười khối mới có thể đổi được một điểm cống hiến.",
+      "suggest": "Khối đá này với tư cách khoáng thạch thuộc tính Thủy, cũng coi là nhu cầu không nhỏ của một loại linh tài thông thường trong tông môn, nhưng luận giá trị thì hơi thấp một chút, chỉ bằng một khối Hỏa Phác Ngọc cũng chỉ đổi được một điểm cống hiến.",
+      "approved": true,
+      "chinese": {
+        "raw": "此石作为水属性矿石，也算是宗门内需求量不小的一种常规灵材，不过论价值比起火璞玉略低，十块才能兑换到一点贡献值。",
+        "text": "Khối đá này là thủy chúc tính khoáng thạch, cũng coi là trong tông môn nhu cầu lượng không nhỏ một loại thường quy linh tài, chẳng qua luận giá trị so với lửa ngọc thô hơi thấp, mười khối mới có thể đổi được một chút cống hiến trực .",
+        "index": 37
+      }
     },
     {
       "convert": "Giá trị mặc dù hơi thấp, có thể ngàn lô hồ không có trong tháp núi lửa nguy hiểm như vậy, cho nên trong ngày thường nhận nhiệm vụ này tông môn đồ đệ cũng không tính ít.",
-      "dich": "Khối khoáng thạch Thủy thuộc tính này cũng xem như một loại linh tài thông thường mà tông môn có nhu cầu tương đối lớn, có điều giá trị hơi thấp so với Hỏa Phác Ngọc, mười khối mới có thể đổi được một điểm cống hiến.",
-      "suggest": "Giá trị tuy hơi thấp nhưng hơn ngàn lô hồ không có trong tháp núi lửa nguy hiểm như vậy, cho nên đồ đệ tông môn ngày thường nhận nhiệm vụ tông môn cũng không ít."
+      "dich": "Giá trị dù hơi thấp nhưng Thiên Lô hồ không nguy hiểm như núi lửa Tháp Lý, thế nên thường ngày số đệ tử tông môn tiếp nhận nhiệm vụ này cũng không ít.",
+      "suggest": "Giá trị tuy hơi thấp nhưng hơn ngàn lô hồ không có trong tháp núi lửa nguy hiểm như vậy, cho nên đồ đệ tông môn ngày thường nhận nhiệm vụ tông môn cũng không ít.",
+      "approved": true,
+      "chinese": {
+        "raw": "价值虽然略低，可千芦湖没有塔里火山那么危险，故而往日里接这个任务的宗门弟子也不算少。",
+        "text": "Giá trị tuy rằng hơi thấp, khả nghìn lô hồ không có trong tháp núi lửa nguy hiểm như vậy, cho nên trong ngày thường nhận nhiệm vụ này tông môn đệ tử cũng không tính ít .",
+        "index": 38
+      }
     },
     {
       "convert": "Viên Minh tiếp tục hướng ngàn lô hồ chỗ sâu mà đi, ven đường không đương thời nước tìm kiếm một phen, mỗi lần cũng sẽ không dừng lại quá nhiều thời gian.",
-      "dich": "Giá trị dù hơi thấp nhưng Thiên Lô hồ không nguy hiểm như núi lửa Tháp Lý, thế nên thường ngày số đệ tử tông môn tiếp nhận nhiệm vụ này cũng không ít.",
-      "suggest": "Viên Minh tiếp tục đi sâu vào trong ngàn lô hồ, dọc đường không ngừng tìm kiếm nước sông, nhưng mỗi lần cũng sẽ không dừng lại quá lâu."
+      "dich": "Viên Minh tiếp tục đi về phía chỗ sâu trong Thiên Lô hồ, dọc đường đi thỉnh thoảng lại xuống nước tìm kiếm một phen, chỉ là mỗi lần sẽ không ở dưới nước quá lâu.",
+      "suggest": "Viên Minh tiếp tục đi sâu vào trong ngàn lô hồ, dọc đường không ngừng tìm kiếm nước sông, nhưng mỗi lần cũng sẽ không dừng lại quá lâu.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭继续朝千芦湖深处而去，沿途不时下水寻觅一番，每次都不会停留太多时间。",
+        "text": "Viên Minh tiếp tục hướng nghìn lô hồ chỗ sâu mà đi, dọc đường không đương thời thủy tìm kiếm một phen, mỗi lần cũng sẽ không dừng lại quá nhiều thời gian .",
+        "index": 39
+      }
     },
     {
       "convert": "Mặc dù sử dụng Phi Mao Thuật hóa thân cóc hình thái, hắn có thể lặn xuống nước thời gian dài hơn, nhưng này dạng sẽ tăng nhanh Phi Mao Thuật phản phệ, được không bù mất.",
-      "dich": "Viên Minh tiếp tục đi về phía chỗ sâu trong Thiên Lô hồ, dọc đường đi thỉnh thoảng lại xuống nước tìm kiếm một phen, chỉ là mỗi lần sẽ không ở dưới nước quá lâu.",
-      "suggest": "Mặc dù sử dụng Phi Mao Thuật hóa thân hình thái cóc, hắn có thể lặn dưới nước trong thời gian dài hơn, nhưng điều này cũng đồng nghĩa với việc Phi Mao Thuật phản phệ nhanh hơn, có khi còn hơn."
+      "dich": "Dù sử dụng Phi Mao Thuật hóa thành hình thái cóc, hắn có thể kéo dài thời gian lặn dưới nước, nhưng như thế sẽ đẩy nhanh việc Phi Mao Thuật phản phệ, được không bù mất.",
+      "suggest": "Mặc dù sử dụng Phi Mao Thuật hóa thân hình thái cóc, hắn có thể lặn dưới nước trong thời gian dài hơn, nhưng điều này cũng đồng nghĩa với việc Phi Mao Thuật phản phệ nhanh hơn, có khi còn hơn.",
+      "approved": true,
+      "chinese": {
+        "raw": "虽然使用披毛术化身蛤蟆形态，他可以潜入水中更长时间，但那样会加快披毛术反噬，得不偿失。",
+        "text": "Tuy rằng sử dụng Phi Mao Thuật hóa thân cóc hình thái, hắn khả dĩ lặn xuống nước thời gian dài hơn, nhưng như vậy sẽ tăng nhanh Phi Mao Thuật phản phệ, mất nhiều hơn được .",
+        "index": 40
+      }
     },
     {
       "convert": "Nửa ngày thời gian đảo mắt đã qua.",
-      "dich": "Dù sử dụng Phi Mao Thuật hóa thành hình thái cóc, hắn có thể kéo dài thời gian lặn dưới nước, nhưng như thế sẽ đẩy nhanh việc Phi Mao Thuật phản phệ, được không bù mất.",
-      "suggest": "Nửa ngày trôi qua."
+      "dich": "Nửa ngày nhoáng cái trôi qua.",
+      "suggest": "Nửa ngày trôi qua.",
+      "approved": true,
+      "chinese": {
+        "raw": "半日时间转眼过去。",
+        "text": "Nửa ngày thời gian đảo mắt đã qua .",
+        "index": 41
+      }
     },
     {
       "convert": "Viên Minh chống đỡ bè gỗ bè tiến lên, ánh mắt hướng chung quanh nhìn lại, lông mày nhíu chặt.",
-      "dich": "Nửa ngày nhoáng cái trôi qua.",
-      "suggest": "Viên Minh chống tay lên bè gỗ, đưa mắt nhìn quanh, nhíu chặt mày."
+      "dich": "Viên Minh chống sào đẩy bè gỗ tiến lên, đồng thời đưa mắt nhìn bốn phía xung quanh, lông mày nhíu chặt.",
+      "suggest": "Viên Minh chống tay lên bè gỗ, đưa mắt nhìn quanh, nhíu chặt mày.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭撑着木排筏子前行，视线朝周围望去，眉头紧蹙。",
+        "text": "Viên Minh chống đỡ bè gỗ bè tiền hành, tầm mắt hướng chung quanh nhìn lại, đầu mi nhíu chặt .",
+        "index": 42
+      }
     },
     {
       "convert": "Bận rộn một buổi sáng, hắn chỉ tìm được bảy tám viên nước xanh thạch.",
-      "dich": "Viên Minh chống sào đẩy bè gỗ tiến lên, đồng thời đưa mắt nhìn bốn phía xung quanh, lông mày nhíu chặt.",
-      "suggest": "Một buổi sáng, hắn chỉ tìm được bảy, tám viên đá màu xanh."
+      "dich": "Vất vả cả một buổi sáng mà hắn chỉ tìm được bảy, tám miếng Bích Thủy Thạch.",
+      "suggest": "Một buổi sáng, hắn chỉ tìm được bảy, tám viên đá màu xanh.",
+      "approved": true,
+      "chinese": {
+        "raw": "忙碌了一个上午，他只寻得了七八枚碧水石。",
+        "text": "Bận rộn một buổi sáng, hắn chỉ tìm được rồi bảy tám miếng nước xanh thạch .",
+        "index": 43
+      }
     },
     {
       "convert": "Cái này ngược lại là không quan trọng, vốn là thuận tiện mà vì đó sự tình, ngược lại là tìm kiếm thăm dò ở giữa, hắn đã tiến vào ngàn lô hồ chỗ sâu.",
-      "dich": "Vất vả cả một buổi sáng mà hắn chỉ tìm được bảy, tám miếng Bích Thủy thạch.",
-      "suggest": "Điều này trái lại không quan trọng, vốn là chuyện thuận tiện để làm, hắn lại đi dò xét trong ngàn lô hồ."
+      "dich": "Cái này thực ra cũng không quan trọng, vốn chỉ là việc tiện tay, quan trọng chính là trong quá trình thăm dò tìm kiếm, hắn đã tiến vào chỗ sâu của Thiên Lô hồ.",
+      "suggest": "Điều này trái lại không quan trọng, vốn là chuyện thuận tiện để làm, hắn lại đi dò xét trong ngàn lô hồ.",
+      "approved": true,
+      "chinese": {
+        "raw": "这个倒是无所谓，本就是顺便而为之事，反倒是寻寻觅觅间，他已经进入了千芦湖深处。",
+        "text": "Cái này ngược lại không quan trọng, vốn là là thuận tiện mà làm sự tình, ngược lại là tìm kiếm thăm dò gian, hắn đã tiến nhập nghìn lô hồ chỗ sâu .",
+        "index": 44
+      }
     },
     {
       "convert": "Hồ này diện tích lớn đến kinh người, hồ nước chỗ sâu thỉnh thoảng nổi lên hơi nước, lại thêm hôm nay không có thái dương, hắn lúc này phân biệt không ra phương hướng.",
-      "dich": "Cái này thực ra cũng không quan trọng, vốn chỉ là việc tiện tay, quan trọng chính là trong quá trình thăm dò tìm kiếm, hắn đã tiến vào chỗ sâu của Thiên Lô hồ.",
-      "suggest": "Hồ này có diện tích lớn đến kinh người, chỗ sâu trong lòng hồ thỉnh thoảng lại có hơi nước bốc lên, cộng thêm hôm nay không có nắng, hắn lúc này phân biệt không rõ phương hướng."
+      "dich": "Hồ này có diện tích lớn đến kinh người, chỗ sâu trong hồ thỉnh thoảng có hơi nước bốc lên, hơn nữa hiện tại không thấy mặt trời, khiến hắn lúc này không phân biệt được phương hướng.",
+      "suggest": "Hồ này có diện tích lớn đến kinh người, chỗ sâu trong lòng hồ thỉnh thoảng lại có hơi nước bốc lên, cộng thêm hôm nay không có nắng, hắn lúc này phân biệt không rõ phương hướng.",
+      "approved": true,
+      "chinese": {
+        "raw": "此湖的面积大得惊人，湖泊深处不时泛起水雾，再加上今天没有太阳，他此刻分辨不出方向了。",
+        "text": "Hồ này đích diện tích lớn đến kinh người, hồ nước chỗ sâu thỉnh thoảng nổi lên hơi nước, lại thêm hôm nay không có thái dương, hắn lúc này phân biệt không ra phương hướng rồi .",
+        "index": 45
+      }
     },
     {
       "convert": "\"Hỏa Sàm Nhi, đều nói linh thú phương hướng cảm so với người nhạy cảm nhiều lắm, ngươi có thể phân rõ phương hướng sao?\"",
-      "dich": "Hồ này có diện tích lớn đến kinh người, chỗ sâu trong hồ thỉnh thoảng có hơi nước bốc lên, hơn nữa hiện tại không thấy mặt trời, khiến hắn lúc này không phân biệt được phương hướng.",
-      "suggest": "\"Hỏa Sàm Nhi, ngươi nói linh thú nhạy cảm hơn người bình thường nhiều, ngươi có thể phân biệt rõ phương hướng được không?\""
+      "dich": "\"Hỏa Sàm Nhi, ai cũng nói cảm giác phương hướng của linh thú nhạy hơn người nhiều, ngươi có thể phân biệt phương hướng không?\"",
+      "suggest": "\"Hỏa Sàm Nhi, ngươi nói linh thú nhạy cảm hơn người bình thường nhiều, ngươi có thể phân biệt rõ phương hướng được không?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh nhìn về phía Hỏa Chồn.",
-      "dich": "\"Hỏa Sàm Nhi, ai cũng nói cảm giác phương hướng của linh thú nhạy hơn người nhiều, ngươi có thể phân biệt phương hướng không?\"",
-      "suggest": "Viên Minh nhìn về phía đám Hỏa Chồn."
+      "dich": "Viên Minh nhìn về phía chồn lửa, hỏi.",
+      "suggest": "Viên Minh nhìn về phía đám Hỏa Chồn.",
+      "approved": true
     },
     {
       "convert": "Hỏa Sàm Nhi cũng mất ngay từ đầu hoạt bát, ghé vào trên bả vai hắn, hữu khí vô lực kêu lên một tiếng, trạng thái tinh thần rất là uể oải.",
-      "dich": "Viên Minh nhìn về phía chồn lửa, hỏi.",
-      "suggest": "Hỏa Sàm Nhi cũng mất đi sự hoạt bát ban đầu, ghé sát vào bả vai hắn, hữu khí vô lực kêu lên một tiếng, trạng thái tinh thần vô cùng uể oải."
+      "dich": "Hỏa Sàm Nhi cũng không còn vẻ hoạt bát lúc đầu, lúc này nằm sấp trên vai hắn, thều thào kêu một tiếng, trạng trái tinh thần vô cùng uể oải.",
+      "suggest": "Hỏa Sàm Nhi cũng mất đi sự hoạt bát ban đầu, ghé sát vào bả vai hắn, hữu khí vô lực kêu lên một tiếng, trạng thái tinh thần vô cùng uể oải.",
+      "approved": true,
+      "chinese": {
+        "raw": "火馋儿也没了一开始的活泼，趴在他肩膀上，有气无力的叫唤了一声，精神状态甚是萎靡。",
+        "text": "Lửa thèm muốn nhi cũng mất vừa mở bắt đầu đích hoạt bát, nằm sấp tại trên bả vai hắn, hữu khí vô lực kêu lên một tiếng, trạng thái tinh thần rất là uể oải .",
+        "index": 47
+      }
     },
     {
       "convert": "\"Hẳn là tiểu gia hỏa này không thể ở cái này tràn ngập hơi nước địa phương mỏi mòn chờ đợi?\"",
-      "dich": "Hỏa Sàm Nhi cũng không còn vẻ hoạt bát lúc đầu, lúc này nằm sấp trên vai hắn, thều thào kêu một tiếng, trạng trái tinh thần vô cùng uể oải.",
-      "suggest": "\"Hẳn là tiểu gia hỏa này không thể ở nơi tràn ngập hơi nước này chờ đợi?\""
+      "dich": "\"Không lẽ tiểu gia hỏa này không thể ở lâu tại nơi tràn ngập hơi nước sao?\"",
+      "suggest": "\"Hẳn là tiểu gia hỏa này không thể ở nơi tràn ngập hơi nước này chờ đợi?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh lại nếm thử trao đổi một lần, không có đạt được trả lời.",
-      "dich": "\"Không lẽ tiểu gia hỏa này không thể ở lâu tại nơi tràn ngập hơi nước sao?\"",
-      "suggest": "Viên Minh lại thử một lần nữa, nhưng không nhận được trả lời."
+      "dich": "Viên Minh lại thử giao tiếp một chút, kết quả không thấy nó hồi đáp gì.",
+      "suggest": "Viên Minh lại thử một lần nữa, nhưng không nhận được trả lời.",
+      "approved": true
     },
     {
       "convert": "Hắn lấy ra một khối Hỏa Phác Ngọc cho ăn, Hỏa Sàm Nhi nhìn thoáng qua liền dời ánh mắt.",
-      "dich": "Viên Minh lại thử giao tiếp một chút, kết quả không thấy nó hồi đáp gì.",
-      "suggest": "Hắn lấy một khối Hỏa Phác Ngọc ra cho ăn, Hỏa Sàm Nhi vừa nhìn liền dời ánh mắt đi."
+      "dich": "Hắn lấy một khối Hỏa Phác Ngọc ra cho nó ăn, nhưng Hỏa Sàm Nhi chỉ liếc nhìn qua rồi dời ánh mắt đi.",
+      "suggest": "Hắn lấy một khối Hỏa Phác Ngọc ra cho ăn, Hỏa Sàm Nhi vừa nhìn liền dời ánh mắt đi.",
+      "approved": true,
+      "chinese": {
+        "raw": "他取出一块火璞玉喂食，火馋儿看了一眼便移开视线。",
+        "text": "Hắn lấy ra một khối lửa ngọc thô cho ăn, lửa thèm muốn nhi nhìn thoáng qua liền dời tầm mắt .",
+        "index": 49
+      }
     },
     {
       "convert": "\"Cái này không phải là bệnh a?\"",
-      "dich": "Hắn lấy một khối Hỏa Phác Ngọc ra cho nó ăn, nhưng Hỏa Sàm Nhi chỉ liếc nhìn qua rồi dời ánh mắt đi.",
-      "suggest": "\"Điều này không phải là bệnh sao?\""
+      "dich": "\"Cái này chắc không phải là ốm rồi chứ?\"",
+      "suggest": "\"Điều này không phải là bệnh sao?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh chưa phát giác hơi khẩn trương lên.",
-      "dich": "\"Cái này chắc không phải là ốm rồi chứ?\"",
-      "suggest": "Viên Minh chưa phát giác ra mình đang khẩn trương."
+      "dich": "Viên Minh bất giác hơi căng thẳng.",
+      "suggest": "Viên Minh chưa phát giác ra mình đang khẩn trương.",
+      "approved": true
     },
     {
       "convert": "Nếu là Hỏa Sàm Nhi xảy ra vấn đề gì, hắn nhưng không cách nào cùng Tam động chủ bàn giao.",
-      "dich": "Viên Minh bất giác hơi căng thẳng.",
-      "suggest": "Nếu như Hỏa Sàm Nhi xảy ra chuyện gì, hắn cũng không thể nào bàn giao cho tam động chủ được."
+      "dich": "Nếu Hỏa Sàm Nhi xảy ra vấn đề gì, hắn thực sự không cách nào bàn giao với Tam động chủ.",
+      "suggest": "Nếu như Hỏa Sàm Nhi xảy ra chuyện gì, hắn cũng không thể nào bàn giao cho tam động chủ được.",
+      "approved": true,
+      "chinese": {
+        "raw": "若是火馋儿出了什么问题，他可无法和三洞主交代。",
+        "text": "Nếu như lửa thèm muốn nhi xảy ra vấn đề gì, hắn nhưng không cách nào cùng ba động chủ bàn giao .",
+        "index": 51
+      }
     },
     {
       "convert": "Hắn suy nghĩ một chút, đem Hỏa Sàm Nhi thu nhập Linh Thú Đại.",
-      "dich": "Nếu Hỏa Sàm Nhi xảy ra vấn đề gì, hắn thực sự không cách nào bàn giao với Tam động chủ.",
-      "suggest": "Hắn suy nghĩ một chút rồi thu Hỏa Sàm Nhi vào Linh Thú."
+      "dich": "Hắn suy nghĩ một chút rồi thu Hỏa Sàm Nhi vào túi linh thú.",
+      "suggest": "Hắn suy nghĩ một chút rồi thu Hỏa Sàm Nhi vào Linh Thú.",
+      "approved": true,
+      "chinese": {
+        "raw": "他略一沉吟，将火馋儿收入灵兽袋。",
+        "text": "Hắn suy nghĩ một chút, đem lửa thèm muốn nhi thu nhập linh thú túi .",
+        "index": 52
+      }
     },
     {
       "convert": "Dĩ vãng Hỏa Sàm Nhi được thu vào Linh Thú Đại, đều sẽ la to, lần này vậy mà hoàn toàn không có phản ứng, an tĩnh nằm ở trong túi, hồi lâu sau cũng không có động tác khác.",
-      "dich": "Hắn suy nghĩ một chút rồi thu Hỏa Sàm Nhi vào túi linh thú.",
-      "suggest": "Trước kia Hỏa Sàm Nhi được thu làm Linh Thú Đại Nhân, cũng sẽ la to, nhưng lần này lại hoàn toàn không có phản ứng, yên tĩnh nằm trong túi, một lúc lâu sau cũng không có động tác gì khác."
+      "dich": "Trước khi mỗi lần bị thu vào trong túi linh thú, Hỏa Sàm Nhi đều la to, thế nhưng lần này lại hoàn toàn không có phản ứng, chỉ an tĩnh nằm trong túi, một lúc lâu sau cũng không có động tác gì.",
+      "suggest": "Trước kia Hỏa Sàm Nhi được thu làm Linh Thú Đại Nhân, cũng sẽ la to, nhưng lần này lại hoàn toàn không có phản ứng, yên tĩnh nằm trong túi, một lúc lâu sau cũng không có động tác gì khác.",
+      "approved": true,
+      "chinese": {
+        "raw": "以往火馋儿被收入灵兽袋，都会大喊大叫，这次竟然全无反应，安静的躺在袋内，许久之后也没有其他的动作。",
+        "text": "Dĩ vãng lửa thèm muốn nhi được thu nhập linh thú túi, đều sẽ la to, lần này vậy mà hoàn toàn không có phản ứng, an tĩnh nằm ở trong túi, hồi lâu sau cũng không có động tác khác .",
+        "index": 53
+      }
     },
     {
       "convert": "Viên Minh vội vàng chống đỡ động bè gỗ bè, lựa chọn một cái phương hướng nhanh chóng tiến lên, ý đồ rời đi nơi đây.",
-      "dich": "Trước khi mỗi lần bị thu vào trong túi linh thú, Hỏa Sàm Nhi đều la to, thế nhưng lần này lại hoàn toàn không có phản ứng, chỉ an tĩnh nằm trong túi, một lúc lâu sau cũng không có động tác gì.",
-      "suggest": "Viên Minh vội vàng chống bè gỗ lên, lựa chọn một hướng nhanh chóng chạy lên, hòng nhanh chóng rời khỏi nơi đây."
+      "dich": "Viên Minh vội vàng chống sào đẩy bè đi, chọn đại một hướng rồi nhanh chóng tiến lên, ý đồ rời khỏi chỗ này.",
+      "suggest": "Viên Minh vội vàng chống bè gỗ lên, lựa chọn một hướng nhanh chóng chạy lên, hòng nhanh chóng rời khỏi nơi đây.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭急忙撑动木排筏子，选择一个方向快速前进，试图离开此处。",
+        "text": "Viên Minh vội vàng chống động bè gỗ bè, lựa chọn một cái phương hướng nhanh chóng tiến tới, thử đồ rời khỏi chỗ này .",
+        "index": 54
+      }
     },
     {
       "convert": "Chung quanh mặt nước cùng cỏ lau nhanh chóng lùi về phía sau, đảo mắt đã qua gần nửa canh giờ, vẫn mảy may sang bên dấu hiệu cũng không có, mặt hồ hơi nước ngược lại càng phát ra nồng đậm, chỉ có thể nhìn ra bảy tám trượng bên ngoài xa.",
-      "dich": "Viên Minh vội vàng chống sào đẩy bè đi, chọn đại một hướng rồi nhanh chóng tiến lên, ý đồ rời khỏi chỗ này.",
-      "suggest": "Mặt hồ xung quanh nhanh chóng lùi lại phía sau, đảo mắt đã qua nửa canh giờ mà chẳng thấy dấu hiệu báo trước nào, ngược lại hơi nước càng lúc càng nồng đậm, chỉ có thể nhìn xa hơn bảy, tám trượng."
-    },
-    {
-      "convert": "\"Thoạt nhìn là đi nhầm phương hướng.\"",
       "dich": "Mặt nước cùng cỏ lau xung quanh nhanh chóng lùi lại phía sau, đảo mắt đã qua gần nửa canh giờ mà chẳng có dấu hiệu nào cho thấy sắp tới gần bờ, trái lại hơi nước trên mặt hồ càng lúc càng dày thêm, chỉ có thể nhìn thấy chỗ cách người khoảng bảy, tám trượng.",
-      "suggest": "\"Thoạt nhìn thì đúng là đi nhầm hướng.\""
+      "suggest": "Mặt hồ xung quanh nhanh chóng lùi lại phía sau, đảo mắt đã qua nửa canh giờ mà chẳng thấy dấu hiệu báo trước nào, ngược lại hơi nước càng lúc càng nồng đậm, chỉ có thể nhìn xa hơn bảy, tám trượng.",
+      "approved": true,
+      "chinese": {
+        "raw": "周围的水面和芦苇快速后退，转眼过去了小半个时辰，仍然丝毫靠边的迹象也没有，湖面的水雾反而越发浓郁，只能看出七八丈外远。",
+        "text": "Chung quanh mặt nước cùng cỏ lau nhanh chóng lùi về phía sau, đảo mắt đã qua rồi gần nửa canh giờ, vẫn cứ mảy may dựa vào đích dấu hiệu cũng không có, mặt hồ đích hơi nước ngược lại càng phát nồng đậm, chỉ có thể nhìn ra bảy tám trượng ngoại xa .",
+        "index": 55
+      }
     },
     {
-      "convert": "Viên Minh dừng lại bè gỗ bè, đang muốn quay đầu trở về.",
+      "convert": "\"Thoạt nhìn là đi nhầm phương hướng.\" Viên Minh dừng lại bè gỗ bè, đang muốn quay đầu trở về.",
       "dich": "\"Xem ra là đi nhầm hướng.\" Viên Minh dừng bè gỗ lại, đang định quay đầu trở về.",
-      "suggest": "Viên Minh dừng bè gỗ lại, toan quay đầu trở về."
+      "suggest": "\"Thoạt nhìn thì đúng là đi nhầm hướng.\" Viên Minh dừng bè gỗ lại, toan quay đầu trở về.",
+      "approved": true,
+      "chinese": {
+        "raw": "“看起来是走错了方向。”袁铭停下木排筏子，正要掉头回去。",
+        "text": "“ thoạt nhìn là đi nhầm phương hướng . ” Viên Minh dừng lại bè gỗ bè, đang muốn quay đầu trở về .",
+        "index": 56
+      }
     },
     {
       "convert": "\"Chi chi chi .\" Linh Thú Đại bên trong Hỏa Sàm Nhi đột nhiên kêu lên, ở bên trong lanh lợi, một bộ muốn xuất hiện dáng vẻ, quét qua trước đó uể oải thái độ.",
       "dich": "\"Chi chi chi.\" Hỏa Sàm Nhi trong túi linh thú đột nhiên kêu lên, đồng thời liên tục nhảy nhót trong túi, bộ dạng như muốn đi ra, hoàn toàn không có vẻ uể oải lúc trước.",
-      "suggest": "\"Chi chi chi!\" Hỏa Sàm Nhi trong Linh Thú Đại đột nhiên kêu lên, bộ dáng lanh lợi, giống như muốn xuất hiện, quét qua vẻ uể oải trước đó."
+      "suggest": "\"Chi chi chi!\" Hỏa Sàm Nhi trong Linh Thú Đại đột nhiên kêu lên, bộ dáng lanh lợi, giống như muốn xuất hiện, quét qua vẻ uể oải trước đó.",
+      "approved": true
     },
     {
       "convert": "Viên Minh nhìn thấy cảnh này, tất nhiên là vừa mừng vừa sợ, vỗ Linh Thú Đại đem Hỏa Sàm Nhi phóng ra.",
       "dich": "Viên Minh thấy cảnh này, dĩ nhiên là vừa mừng vừa sợ, lập tức vỗ túi linh thú thả nó ra.",
-      "suggest": "Viên Minh thấy cảnh này đương nhiên vừa mừng vừa sợ, vỗ Linh Thú Đại phóng Hỏa Sàm Nhi ra."
+      "suggest": "Viên Minh thấy cảnh này đương nhiên vừa mừng vừa sợ, vỗ Linh Thú Đại phóng Hỏa Sàm Nhi ra.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭看到此幕，自是又惊又喜，一拍灵兽袋将火馋儿放了出来。",
+        "text": "Viên Minh nhìn thấy màn này, tất nhiên là vừa mừng vừa sợ, một nhịp linh thú túi đem lửa thèm muốn nhi phóng ra .",
+        "index": 58
+      }
     },
     {
       "convert": "Hỏa Sàm Nhi hai ba bước chạy đến tấm bảng gỗ bè phía trước, nửa đứng thẳng thân thể nhìn về phía phía trước, chi chi chi một trận gọi bậy.",
       "dich": "Hỏa Sàm Nhi chạy mấy bước đến đầu bè gỗ, nhấc hai chân trước lên đứng thẳng người, đưa mắt nhìn về phía trước, đồng thời liên tục kêu loạn một hồi.",
-      "suggest": "Hỏa Sàm Nhi chạy hai ba bước tới trước tấm bảng gỗ, nửa đứng thẳng thân thể nhìn về phía trước, hô lên một tràng."
+      "suggest": "Hỏa Sàm Nhi chạy hai ba bước tới trước tấm bảng gỗ, nửa đứng thẳng thân thể nhìn về phía trước, hô lên một tràng.",
+      "approved": true,
+      "chinese": {
+        "raw": "火馋儿三两步跑到木牌筏子前端，半立着身子望向前方，吱吱吱一通乱叫。",
+        "text": "Lửa thèm muốn nhi hai ba bước chạy đến tấm bảng gỗ bè ngay trước, nửa đứng thẳng thân thể nhìn phía tiền phương, xèo xèo kít một trận gọi bậy .",
+        "index": 59
+      }
     },
     {
       "convert": "\"Ngươi là muốn đi phía trước?\"",
       "dich": "\"Ngươi là muốn đến đằng trước?\"",
-      "suggest": "\"Ngươi muốn đi trước?\""
+      "suggest": "\"Ngươi muốn đi trước?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh khẽ giật mình, có chút không xác định hỏi.",
       "dich": "Viên Minh ngẩn ra, có chút không chắc chắn hỏi.",
-      "suggest": "Viên Minh khẽ giật mình, có chút không chắc chắn hỏi."
+      "suggest": "Viên Minh khẽ giật mình, có chút không chắc chắn hỏi.",
+      "approved": true
     },
     {
       "convert": "Hỏa Sàm Nhi quay đầu, hướng về phía hắn liên tục gật đầu.",
       "dich": "Hỏa Sàm Nhi xoay đầu rồi gật đầu lia lịa với hắn.",
-      "suggest": "Hỏa Sàm Nhi quay đầu lại, liên tục gật đầu với hắn."
+      "suggest": "Hỏa Sàm Nhi quay đầu lại, liên tục gật đầu với hắn.",
+      "approved": true,
+      "chinese": {
+        "raw": "火馋儿回过头来，冲着他连连点头。",
+        "text": "Lửa thèm muốn nhi quay đầu, hướng về phía hắn liên tục gật đầu .",
+        "index": 61
+      }
     },
     {
       "convert": "Viên Minh hướng trước mặt nhìn lại, trong lòng có chút chần chờ.",
       "dich": "Viên Minh nhìn về phía trước mặt, trong lòng hơi phân vân.",
-      "suggest": "Viên Minh nhìn về phía trước, trong lòng có chút do dự."
+      "suggest": "Viên Minh nhìn về phía trước, trong lòng có chút do dự.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭朝前面望去，心中有些迟疑起来。",
+        "text": "Viên Minh hướng trước mặt nhìn lại, trong lòng có chút chần chờ .",
+        "index": 62
+      }
     },
     {
       "convert": "Lại hướng phía trước nên tính là tiến vào ngàn lô hồ khu vực trung tâm, thủy khí sẽ chỉ càng nặng, Hỏa Sàm Nhi đến đó chỉ sợ có hại không có ích, có thể nó như thế thái độ khác thường địa mãnh liệt muốn đi qua, hẳn là có chỗ đặc biết gì?",
       "dich": "Nếu tiếp tục đi tới chính là tiến vào khu vực trung tâm Thiên Lô hồ, hơi nước sẽ chỉ càng thêm dày, Hỏa Sàm Nhi tới đó e là chỉ hại không lợi, nhưng nó lại tỏ thái độ muốn đi qua mãnh liệt khác thường như vậy, chẳng lẽ là có chỗ đặc biệt nào?",
-      "suggest": "Lại nói về phía trước, nếu tiến vào khu vực trung tâm ngàn lô hồ, khí nước sẽ càng lúc càng nặng, Hỏa Sàm Nhi tới đó chỉ sợ sẽ có hại không có ích, nhưng thái độ của nó như thế, có điểm khác thường gì đó muốn đi qua?"
+      "suggest": "Lại nói về phía trước, nếu tiến vào khu vực trung tâm ngàn lô hồ, khí nước sẽ càng lúc càng nặng, Hỏa Sàm Nhi tới đó chỉ sợ sẽ có hại không có ích, nhưng thái độ của nó như thế, có điểm khác thường gì đó muốn đi qua?",
+      "approved": true,
+      "chinese": {
+        "raw": "再往前应该算是进入千芦湖的中心区域了，水气只会更重，火馋儿去那里只怕有害无益，可它如此一反常态地强烈要过去，莫非有什么特别之处？",
+        "text": "Lại hướng phía trước nên tính là tiến vào nghìn lô hồ đích khu vực trung tâm rồi, hơi nước sẽ chỉ càng nặng, lửa thèm muốn mà đi nơi đó chỉ sợ có hại vô ích, khả nó như thế thái độ khác thường địa mãnh liệt muốn đi qua, chẳng lẽ có cái gì đặc biệt chỗ ?",
+        "index": 63
+      }
     },
     {
       "convert": "Viên Minh yên lặng hồi tưởng đến bản thân ở Quy Tàng Các bên trong chỗ xem những cái kia liên quan tới linh thú tập tính ghi chép, suy tính một hồi lâu, hay là quyết định tin tưởng Hỏa Sàm Nhi phán đoán, tiếp tục huy động lấy bè gỗ bè hướng phía trước bước đi.",
       "dich": "Viên Minh im lặng nhớ lại những ghi ghép liên quan đến tập tính linh thú mà hắn từng đọc tại Quy Tàng Các, sau đó lại cân nhắc một hồi lâu, cuối cùng vẫn quyết định tin tưởng phán đoán của Hỏa Sàm Nhi, tiếp tục vung sào đấy bè gỗ tiến về phía trước.",
-      "suggest": "Viên Minh yên lặng hồi tưởng lại những ghi chép liên quan đến linh thú mà bản thân đã ghi chép trong các chỗ trong Quy Tàng, suy nghĩ một hồi lâu, cuối cùng vẫn quyết định tin tưởng phán đoán của Hỏa Sàm Nhi, tiếp tục huy động bè gỗ tiến về trước."
+      "suggest": "Viên Minh yên lặng hồi tưởng lại những ghi chép liên quan đến linh thú mà bản thân đã ghi chép trong các chỗ trong Quy Tàng, suy nghĩ một hồi lâu, cuối cùng vẫn quyết định tin tưởng phán đoán của Hỏa Sàm Nhi, tiếp tục huy động bè gỗ tiến về trước.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭默默回想着自己在归藏阁中所看的那些关于灵兽的习性记载，考虑了好一会儿，还是决定相信火馋儿的判断，继续划动着木排筏子朝前方行去。",
+        "text": "Viên Minh yên lặng hồi tưởng đến chính mình trả lại tàng các trung sở coi đích những cái kia về linh thú đích tập tính ghi chép, suy tính một hồi lâu, vẫn là quyết định tin tưởng lửa thèm muốn nhi đích phán đoán, tiếp tục huy động lấy bè gỗ bè hướng phía trước bước đi .",
+        "index": 64
+      }
     },
     {
       "convert": "Hỏa Sàm Nhi với tư cách huyết mạch có chút tinh thuần thông linh Linh thú, sẽ không cầm tính mạng của mình nói đùa.",
       "dich": "Hỏa Sàm Nhi là thông linh linh thú với huyết mạch khá tinh thuần, hẳn sẽ không mạng mình ra đùa.",
-      "suggest": "Hỏa Sàm Nhi với tư cách là Linh thú có chút tinh thuần Thông Linh, sẽ không đem tính mạng của mình ra đùa."
+      "suggest": "Hỏa Sàm Nhi với tư cách là Linh thú có chút tinh thuần Thông Linh, sẽ không đem tính mạng của mình ra đùa.",
+      "approved": true,
+      "chinese": {
+        "raw": "火馋儿作为血脉颇为精纯的通灵灵兽，不会拿自己的性命开玩笑。",
+        "text": "Lửa thèm muốn nhi là huyết mạch có chút tinh thuần đích thông linh linh thú, sẽ không lấy chính mình đích tính mệnh đùa giỡn .",
+        "index": 65
+      }
     },
     {
       "convert": "Cho dù gặp được nguy hiểm gì, bản thân đại khái có thể đem vật nhỏ này hướng về Linh Thú Đại bên trong một giả, thi triển Phi Mao Thuật hóa thân cóc vứt bỏ bè đào tẩu.",
       "dich": "Cho dù gặp phải nguy hiểm gì, hắn đại khái vẫn có thể bỏ con vật nhỏ này vào trong túi linh thú, thi triển Phi Mao Thuật hóa thân cóc vứt bè bỏ chạy.",
-      "suggest": "Cho dù gặp phải nguy hiểm gì, bản thân cũng đại khái có thể mang vật nhỏ này về phía một người trong Linh Thú Đại, thi triển Phi Mao Thuật hóa thân cóc rồi bỏ chạy."
+      "suggest": "Cho dù gặp phải nguy hiểm gì, bản thân cũng đại khái có thể mang vật nhỏ này về phía một người trong Linh Thú Đại, thi triển Phi Mao Thuật hóa thân cóc rồi bỏ chạy.",
+      "approved": true,
+      "chinese": {
+        "raw": "即便遇到什么危险，自己大可以将这小东西往灵兽袋中一装，施展披毛术化身蛤蟆弃筏逃走。",
+        "text": "Mặc dù gặp phải nguy hiểm gì, chính mình đại khái có thể đem vật nhỏ này hướng linh thú trong túi một cải trang, thi triển Phi Mao Thuật hóa thân cóc vứt bỏ bè đào tẩu .",
+        "index": 66
+      }
     },
     {
-      "convert": "Theo bè gỗ bè không ngừng tiến lên, quanh mình sương mù tràn ngập càng lúc càng nồng nặc, ánh mắt chỉ có thể nhìn",
+      "convert": "Theo bè gỗ bè không ngừng tiến lên, quanh mình sương mù tràn ngập càng lúc càng nồng nặc, ánh mắt chỉ có thể nhìn ra ngoài bốn năm trượng.",
       "dich": "Theo bè gỗ không ngừng tiến lên, sương mù tràn ngập xung quanh càng lúc càng dày đặc, tầm mắt chỉ có thể xa khoảng bốn, năm trượng.",
-      "suggest": "Theo dòng gỗ không ngừng tiến lên, khói mù xung quanh càng lúc càng nồng nặc, ánh mắt chỉ có thể nhìn thấy"
-    },
-    {
-      "convert": "Ra ngoài bốn năm trượng.",
-      "dich": "Mặt nước bỗng nhộn nhạo, không ngừng vỗ thẳng vào bè gỗ, phát ra những tiếng \"rào rào\".",
-      "suggest": "Ra ngoài bốn năm trượng."
+      "suggest": "Theo dòng gỗ không ngừng tiến lên, khói mù xung quanh càng lúc càng nồng nặc, ánh mắt chỉ có thể nhìn thấy. Ra ngoài bốn năm trượng.",
+      "approved": true,
+      "chinese": {
+        "raw": "随着木排筏子不断前行，周遭弥漫的雾气越来越浓郁，视线只能看出四五丈外。",
+        "text": "Theo bè gỗ bè không ngừng tiền hành, chung quanh sương mù tràn ngập càng lúc càng nồng nặc, tầm mắt chỉ có thể nhìn ra ngoài bốn năm trượng .",
+        "index": 67
+      }
     },
     {
       "convert": "Đột nhiên, mặt nước nhộn nhạo, không ngừng đánh thẳng vào bè gỗ bè, phát ra \"Ào ào\" thanh âm.",
-      "dich": "Viên Minh thấy vậy lập tức dừng bè lại, không gió mà dậy sóng, nhất định có nguyên nhân khác.",
-      "suggest": "Đột nhiên, mặt nước sôi lên, không ngừng đập vào bè gỗ, phát ra tiếng 'rầm rầm'."
+      "dich": "Mặt nước bỗng nhộn nhạo, không ngừng vỗ thẳng vào bè gỗ, phát ra những tiếng \"rào rào\".",
+      "suggest": "Đột nhiên, mặt nước sôi lên, không ngừng đập vào bè gỗ, phát ra tiếng 'rầm rầm'.",
+      "approved": true,
+      "chinese": {
+        "raw": "突然间，水面荡漾起来，不断冲击着木排筏子，发出“哗哗”的声音。",
+        "text": "Đột nhiên, mặt nước nhộn nhạo, không ngừng đánh thẳng vào bè gỗ bè, phát ra “ ào ào ” đích thanh âm .",
+        "index": 68
+      }
     },
     {
       "convert": "Viên Minh gặp này lập tức dừng lại bè gỗ, không gió dậy sóng, nhất định có nguyên nhân.",
-      "dich": "Đúng lúc này, mặt nước dưới bè gỗ đột nhiên dâng trào dữ dội, hình thành một vòng xoáy lớn chừng vài trượng, phát ra lực xé cực mạnh.",
-      "suggest": "Viên Minh thấy vậy lập tức dừng bè gỗ lại, không gió mà nổi sóng, nhất định có nguyên nhân."
+      "dich": "Viên Minh thấy vậy lập tức dừng bè lại, không gió mà dậy sóng, nhất định có nguyên nhân khác.",
+      "suggest": "Viên Minh thấy vậy lập tức dừng bè gỗ lại, không gió mà nổi sóng, nhất định có nguyên nhân.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭见此立刻停下木排，无风起浪，必定有原因。",
+        "text": "Viên Minh kiến này lập tức dừng lại bè gỗ, không gió dậy sóng, nhất định có nguyên nhân .",
+        "index": 69
+      }
     },
     {
       "convert": "Vào thời khắc này, bè gỗ bè hạ mặt nước đột nhiên kịch liệt dũng động, hình thành một vài trượng lớn nhỏ vòng xoáy, phát ra cường đại xé rách chi lực.",
-      "dich": "Chiếc bè gỗ lập tức bị hút vào trong, liên tục xoay tròn, sợi dây cột bè nhanh chóng đứt lìa, theo đó chiếc bè gỗ vốn không chắc chắn gì mấy lập tức tan rã.",
-      "suggest": "Đúng lúc này, mặt nước dưới bè gỗ đột nhiên dữ dội, hình thành một vòng xoáy lớn vài trượng, phát ra lực lượng xé gió mạnh mẽ."
+      "dich": "Đúng lúc này, mặt nước dưới bè gỗ đột nhiên dâng trào dữ dội, hình thành một vòng xoáy lớn chừng vài trượng, phát ra lực xé cực mạnh.",
+      "suggest": "Đúng lúc này, mặt nước dưới bè gỗ đột nhiên dữ dội, hình thành một vòng xoáy lớn vài trượng, phát ra lực lượng xé gió mạnh mẽ.",
+      "approved": true,
+      "chinese": {
+        "raw": "就在此刻，木排筏子下的水面突然剧烈涌动起来，形成一个数丈大小的漩涡，发出强大的撕扯之力。",
+        "text": "Vào thời khắc này, bè gỗ bè hạ đích mặt nước đột nhiên kịch liệt bắt đầu khởi động lên tới, hình thành một vài trượng lớn bé lốc xoáy, phát ra cường đại đích xé rách chi lực .",
+        "index": 70
+      }
     },
     {
       "convert": "Bè gỗ bè lập tức bị hút vào, quay tròn đảo quanh, cột vào phía trên dây thừng ba đứt gãy, nguyên bản liền không thế nào kiên cố bè gỗ bè lập tức giải thể.",
-      "dich": "Viên Minh trầm mặt xuống, tóm Hỏa Sàm Nhi đặt lên đầu vai, đoạn tung ngươi nhảy lên.",
-      "suggest": "Bè gỗ lập tức bị hút vào, quay tròn vòng quanh, cột chặt ba khúc dây thừng, bè gỗ vốn không thể nào kiên cố lập tức giải thể."
+      "dich": "Chiếc bè gỗ lập tức bị hút vào trong, liên tục xoay tròn, sợi dây cột bè nhanh chóng đứt lìa, theo đó chiếc bè gỗ vốn không chắc chắn gì mấy lập tức tan rã.",
+      "suggest": "Bè gỗ lập tức bị hút vào, quay tròn vòng quanh, cột chặt ba khúc dây thừng, bè gỗ vốn không thể nào kiên cố lập tức giải thể.",
+      "approved": true,
+      "chinese": {
+        "raw": "木排筏子顿时被吸了进去，滴溜溜打转，绑在上面的绳子啪的断裂，原本就不怎么牢固的木排筏子顿时解体。",
+        "text": "Bè gỗ bè tức khắc bị hút vào, xoay tròn đảo quanh, cột vào phía trên dây thừng pằng đích rạn nứt, nguyên bản liền không thế nào kiên cố đích bè gỗ bè tức khắc giải thể .",
+        "index": 71
+      }
     },
     {
       "convert": "Viên Minh sắc mặt trầm xuống, bắt lấy Hỏa Sàm Nhi đặt ở đầu vai, thả người nhảy lên một cái.",
-      "dich": "Ánh sáng xanh lóe lên trên cánh tay phải của hắn, lư hương thần bí lập tức xuất hiện, lơ lửng giữa không trung.",
-      "suggest": "Viên Minh trầm mặt xuống, nắm lấy tay Hỏa Sàm Nhi đặt lên vai, tung người nhảy lên."
+      "dich": "Viên Minh trầm mặt xuống, tóm Hỏa Sàm Nhi đặt lên đầu vai, đoạn tung ngươi nhảy lên.",
+      "suggest": "Viên Minh trầm mặt xuống, nắm lấy tay Hỏa Sàm Nhi đặt lên vai, tung người nhảy lên.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭面色一沉，抓住火馋儿放在肩头，纵身一跃而起。",
+        "text": "Viên Minh sắc mặt trầm xuống, bắt lấy lửa thèm muốn nhi đặt ở đầu vai, nhún người nhảy lên một cái .",
+        "index": 72
+      }
     },
     {
       "convert": "Cánh tay hắn thanh quang hiện lên, thần bí lư hương nổi lên, nổi bồng bềnh giữa không trung.",
-      "dich": "Viên Minh một tay nắm lấy lư hương, một tay chống sào, cả người cứ như vậy lơ lửng giữa trời.",
-      "suggest": "Cánh tay hắn tỏa ánh sáng xanh, lư hương thần bí nổi lên, bồng bềnh giữa không trung."
+      "dich": "Ánh sáng xanh lóe lên trên cánh tay phải của hắn, lư hương thần bí lập tức xuất hiện, lơ lửng giữa không trung.",
+      "suggest": "Cánh tay hắn tỏa ánh sáng xanh, lư hương thần bí nổi lên, bồng bềnh giữa không trung.",
+      "approved": true,
+      "chinese": {
+        "raw": "他手臂青光闪过，神秘香炉浮现而出，漂浮在空中。",
+        "text": "Cánh tay hắn thanh quang hiện lên, thần bí lư hương nổi lên, nổi bồng bềnh giữa không trung .",
+        "index": 73
+      }
     },
     {
       "convert": "Viên Minh một tay bắt lấy lư hương, một cái tay khác dẫn theo sào, cả người cứ như vậy lơ lửng ở giữa không trung.",
-      "dich": "Lư hương cực kỳ mẫn cảm với Khu Vật Thuật, chỉ cần thúc giục một chút là có thể bay lên, lúc trước khi tu luyện, hắn chợt nảy ra ý tưởng dùng vật này để bay lên không trung.",
-      "suggest": "Viên Minh một tay bắt lấy lư hương, một tay khác cầm sào, cả người cứ như vậy lơ lửng giữa không trung."
+      "dich": "Viên Minh một tay nắm lấy lư hương, một tay chống sào, cả người cứ như vậy lơ lửng giữa trời.",
+      "suggest": "Viên Minh một tay bắt lấy lư hương, một tay khác cầm sào, cả người cứ như vậy lơ lửng giữa không trung.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭单手抓住香炉，另一只手提着撑杆，整个人就这么悬浮在了半空。",
+        "text": "Viên Minh một tay bắt lấy lư hương, tay kia thì nâng lên sào, cả người cứ như vậy huyền phù ở giữa không trung .",
+        "index": 74
+      }
     },
     {
       "convert": "Lư hương đối Khu Vật Thuật phi thường mẫn cảm, hơi thôi động liền có thể lơ lửng mà lên, lúc trước hắn luyện tập thời điểm ý tưởng đột phát, lợi dụng vật này đằng không mà lên.",
-      "dich": "Trong nửa tháng qua, Viên Minh luyện qua rất nhiều lần, cũng có thể thuần thục sử dụng kỹ năng này, chỉ có điều pháp lực của hắn không đủ thâm hậu, lư hương lại không phải là pháp khí phi hành chân chính, không cách nào bay trong thời gian dài.",
-      "suggest": "Lư hương đối với thuật Khu Vật phi thường mẫn cảm, chỉ cần hơi thôi động là có thể lơ lửng, lúc trước khi hắn luyện tập ý tưởng này đột nhiên xuất hiện, lợi dụng vật này bay lên không."
+      "dich": "Lư hương cực kỳ mẫn cảm với Khu Vật Thuật, chỉ cần thúc giục một chút là có thể bay lên, lúc trước khi tu luyện, hắn chợt nảy ra ý tưởng dùng vật này để bay lên không trung.",
+      "suggest": "Lư hương đối với thuật Khu Vật phi thường mẫn cảm, chỉ cần hơi thôi động là có thể lơ lửng, lúc trước khi hắn luyện tập ý tưởng này đột nhiên xuất hiện, lợi dụng vật này bay lên không.",
+      "approved": true,
+      "chinese": {
+        "raw": "香炉对驱物术非常敏感，略微催动就能悬浮而起，他之前练习的时候突发奇想，利用此物腾空而起。",
+        "text": "Lư hương đối Khu vật thuật phi thường mẫn cảm, hơi thúc động liền có thể huyền phù mà khởi, lúc trước hắn luyện tập thời điểm ý tưởng đột phát, lợi dụng vật ấy bay lên trời .",
+        "index": 75
+      }
     },
     {
       "convert": "Nửa tháng này đến, Viên Minh nhiều lần luyện tập, đã có thể thuần thục nắm giữ kỹ năng này, chỉ là hắn pháp lực không đủ thâm hậu, lư hương cũng không phải đường đường chính chính phi hành pháp khí, không cách nào bay lên không quá lâu.",
-      "dich": "Ngay thời khắc này, một tiếng \"rầm\" từ mặt nước phía dưới truyền lên, nhìn xuống chỉ thấy một thứ trông như một cái xúc tu thô to màu đen, phía trên còn từng đạo hồ quang điện màu lam lập lóe, quất lên trên cái bè gỗ vốn đã tách ra thành nhiều mảnh.",
-      "suggest": "Nửa tháng sau, Viên Minh sau nhiều lần luyện tập đã có thể thuần thục nắm giữ kỹ năng này, chỉ có điều pháp lực hắn không đủ thâm hậu, lư hương cũng không phải pháp khí phi hành đường đường chính chính, không cách nào bay lên không quá lâu."
+      "dich": "Trong nửa tháng qua, Viên Minh luyện qua rất nhiều lần, cũng có thể thuần thục sử dụng kỹ năng này, chỉ có điều pháp lực của hắn không đủ thâm hậu, lư hương lại không phải là pháp khí phi hành chân chính, không cách nào bay trong thời gian dài.",
+      "suggest": "Nửa tháng sau, Viên Minh sau nhiều lần luyện tập đã có thể thuần thục nắm giữ kỹ năng này, chỉ có điều pháp lực hắn không đủ thâm hậu, lư hương cũng không phải pháp khí phi hành đường đường chính chính, không cách nào bay lên không quá lâu.",
+      "approved": true,
+      "chinese": {
+        "raw": "这半个月来，袁铭多次练习，已经能熟练掌握这个技能，只是他法力不够深厚，香炉也不是正儿八经的飞行法器，无法腾空太久。",
+        "text": "Nửa tháng này tới, Viên Minh nhiều lần luyện tập, đã năng thuần thục nắm vững kỹ năng này, chỉ là hắn pháp lực không đủ thâm hậu, lư hương cũng không phải nghiêm túc đích phi hành pháp khí, vô pháp bay lên không quá lâu .",
+        "index": 76
+      }
     },
     {
       "convert": "Vào thời khắc này, phía dưới mặt nước \"Xoẹt\" một tiếng, toát ra một cây thô to màu đen đồ vật, tựa như là xúc tu, phía trên lóe ra từng đạo màu lam hồ quang điện, quất vào vốn đã tan ra thành từng mảnh bè gỗ bè bên trên.",
-      "dich": "Mấy khúc cây vốn cũng coi như tráng kiện lại theo âm thanh kia đứt đoạn, văng ra khắp bốn phương tám hướng.",
-      "suggest": "Đúng lúc này, mặt nước phía dưới \"xoẹt\" một tiếng, một vật màu đen thô to xuất hiện, trên vật này tỏa ra một luồng ánh sáng màu lam, từng đạo hồ quang điện màu lam lóe lên, quất vào từng bè gỗ vốn đã tan ra thành từng bè gỗ."
+      "dich": "Ngay thời khắc này, một tiếng \"rầm\" từ mặt nước phía dưới truyền lên, nhìn xuống chỉ thấy một thứ trông như một cái xúc tu thô to màu đen, phía trên còn từng đạo hồ quang điện màu lam lập lóe, quất lên trên cái bè gỗ vốn đã tách ra thành nhiều mảnh.",
+      "suggest": "Đúng lúc này, mặt nước phía dưới \"xoẹt\" một tiếng, một vật màu đen thô to xuất hiện, trên vật này tỏa ra một luồng ánh sáng màu lam, từng đạo hồ quang điện màu lam lóe lên, quất vào từng bè gỗ vốn đã tan ra thành từng bè gỗ.",
+      "approved": true,
+      "chinese": {
+        "raw": "就在此刻，下方水面“嗤啦”一声，冒出一根粗大的黑色东西，好像是触手，上面闪烁着一道道蓝色电弧，抽打在本已散架的木排筏子上。",
+        "text": "Vào thời khắc này, phía dưới mặt nước “ xoẹt ” một tiếng, tỏa ra một cây thô to đích hắc sắc đồ vật, tựa như là chạm tay, thượng diện lóe ra một đạo đạo màu lam hồ quang, quất vào vốn đã tan ra thành từng mảnh đích bè gỗ bè thượng .",
+        "index": 77
+      }
     },
     {
       "convert": "Nguyên bản coi như tráng kiện cây cối ứng thanh đứt gãy, hướng bốn phương tám hướng bay đi.",
-      "dich": "Nhìn cảnh này, Viên Minh không khỏi rùng mình ớn lạnh, lập tức đuổi theo một khúc cây văng ra phía ngoài, đoạn nhẹ nhàng đáp lên đó, sau khi ổn định thân hình liền nhanh chóng chống sào tiến về phía trước.",
-      "suggest": "Cây cối vốn dĩ tráng kiện, nhưng khi gãy đổ thì gãy đổ tung tóe khắp nơi."
+      "dich": "Mấy khúc cây vốn cũng coi như tráng kiện lại theo âm thanh kia đứt đoạn, văng ra khắp bốn phương tám hướng.",
+      "suggest": "Cây cối vốn dĩ tráng kiện, nhưng khi gãy đổ thì gãy đổ tung tóe khắp nơi.",
+      "approved": true,
+      "chinese": {
+        "raw": "原本还算粗壮的树木应声断裂，朝四面八方飞去。",
+        "text": "Nguyên bản còn tính tráng kiện đích cây cối ứng thanh rạn nứt, hướng bốn phương tám hướng bay đi .",
+        "index": 78
+      }
     },
     {
       "convert": "Viên Minh gặp này lạnh cả tim, sau đó truy hướng một cây bay ra ngoài đoạn mộc, nhẹ nhàng rơi vào phía trên, đứng vững vàng, nhanh chóng sào hướng phía trước mà đi.",
-      "dich": "Chỉ có một khúc gỗ nên hắn chống lướt đi rất nhanh, trong chốc lát đã rời xa vòng xoáy khổng lồ kia.",
-      "suggest": "Viên Minh thấy cảnh này thì lạnh cả tim, sau đó liền truy đuổi một đoạn mộc bay ra ngoài, nhẹ nhàng rơi xuống, đứng vững vàng, nhanh chóng cắm sào tiến về trước."
+      "dich": "Nhìn cảnh này, Viên Minh không khỏi rùng mình ớn lạnh, lập tức đuổi theo một khúc cây văng ra phía ngoài, đoạn nhẹ nhàng đáp lên đó, sau khi ổn định thân hình liền nhanh chóng chống sào tiến về phía trước.",
+      "suggest": "Viên Minh thấy cảnh này thì lạnh cả tim, sau đó liền truy đuổi một đoạn mộc bay ra ngoài, nhẹ nhàng rơi xuống, đứng vững vàng, nhanh chóng cắm sào tiến về trước.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭见此心中一寒，随后追向一根飞出去的断木，轻轻落在上面，稳稳站住，快速撑杆往前而去。",
+        "text": "Viên Minh kiến này lạnh cả tim, theo sau truy hướng một cây bay ra ngoài đích cắt đứt mộc, nhẹ nhàng rơi vào thượng diện, đứng vững vàng, nhanh chóng sào hướng phía trước mà đi .",
+        "index": 79
+      }
     },
     {
       "convert": "Chỉ có một cây gỗ, hắn chống lên tới chạy nhanh chóng, rất nhanh cách xa cái kia vòng xoáy khổng lồ.",
-      "dich": "*Chú giải*",
-      "suggest": "Chỉ có một cây gỗ, hắn chống người chạy nhanh hơn, rất nhanh đã chạy xa vòng xoáy khổng lồ kia."
-    },
-    {
-      "dich": "1."
-    },
-    {
-      "dich": "Bộ bộ kinh tâm: Mỗi bước đều tràn đầy nguy cơ, khiến bản thân kinh tâm động phách."
-    },
-    {
-      "dich": "2."
-    },
-    {
-      "dich": "Thiên Lô hồ: Hồ Ngàn Lau (sậy), lô ở đây là cây lau sậy."
+      "dich": "Chỉ có một khúc gỗ nên hắn chống lướt đi rất nhanh, trong chốc lát đã rời xa vòng xoáy khổng lồ kia.",
+      "suggest": "Chỉ có một cây gỗ, hắn chống người chạy nhanh hơn, rất nhanh đã chạy xa vòng xoáy khổng lồ kia.",
+      "approved": true,
+      "chinese": {
+        "raw": "只有一根木头，他撑起来跑的飞快，很快远离了那个巨大漩涡。",
+        "text": "Chỉ có một cây đầu gỗ, hắn chống lên tới chạy nhanh chóng, rất nhanh cách xa cái kia vòng xoáy khổng lồ .",
+        "index": 80
+      }
     }
-  ]
+  ],
+  "currentWorkingLine": 87,
+  "changed": true
 }

@@ -1,4 +1,5 @@
 {
+  "currentLine": 70,
   "next": {
     "id": 80,
     "title": "Chương 80: Trời sinh thân cận"
@@ -14,376 +15,741 @@
   "lines": [
     {
       "convert": "Viên Minh sở dụng ở thuần thú loại thư tịch bên trên thời gian, so với mình dự đoán ít đi rất nhiều, thế là hắn ở đem sách cũng còn sau khi trở về, liền bắt đầu ở trước kệ sách dạo bước, chọn lựa một chút mới nội dung xem xét.",
-      "dich": "Thời gian dành cho sách thuần thú ít hơn nhiều so với dự kiến, thế nên sau khi trả hết toàn bộ sách về chỗ cũ, hắn bắt đầu dạo bước trước kệ sách, chọn một ít nội dung khác để đọc.",
-      "suggest": "Viên Minh sử dụng loại thư tịch này trong thời gian dài hơn dự đoán của mình rất nhiều, vì vậy sau khi đem sách trả lại, hắn bắt đầu dạo bước trước kệ sách, chọn lựa một vài nội dung cần xem xét."
+      "dich": "Thời gian Viên Minh dành cho sách thuần thú ít hơn nhiều so với dự kiến, thế nên sau khi trả hết toàn bộ sách về chỗ cũ, hắn bắt đầu dạo bước trước kệ sách, chọn một ít nội dung khác để đọc.",
+      "suggest": "Viên Minh sử dụng loại thư tịch này trong thời gian dài hơn dự đoán của mình rất nhiều, vì vậy sau khi đem sách trả lại, hắn bắt đầu dạo bước trước kệ sách, chọn lựa một vài nội dung cần xem xét.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭所用在驯兽类书籍上的时间，比自己预估的少了很多，于是他在将书都还回去后，便开始在书架前踱步，挑选一些新的内容查看。",
+        "text": "Viên Minh sở dụng tại thuần thú loại thư tịch thượng đích thời gian, so với chính mình dự đoán đích thiếu đi rất nhiều, thế là hắn tại đem sách cũng còn sau khi trở về, liền bắt đầu tại trước kệ sách bước đi thong thả bước, chọn lựa một chút mới nội dung dò xét .",
+        "index": 0
+      }
     },
     {
-      "convert": "Đi vào \"Địa lý chí\" cái này mắt loại dưới, Viên Minh dừng bước, ánh mắt ở trên giá sách băn khoăn thật lâu, mới từ phía trên tìm ra một bản tên là « Lục Thông chí » sách.",
+      "convert": "Đi vào \"Địa Lý Chí\" cái này mắt loại dưới, Viên Minh dừng bước, ánh mắt ở trên giá sách băn khoăn thật lâu, mới từ phía trên tìm ra một bản tên là « Lục Thông Chí » sách.",
       "dich": "Đi tới danh mục 'Địa Lý Chí', Viên Minh dừng bước, phân vân nhìn một lúc lâu mới lấy từ trên giá xuống một cuốn có tên là 'Lục Thông Chí'.",
-      "suggest": "Đi vào trong \"Địa lý chí\", Viên Minh dừng bước, ánh mắt nhìn lên giá sách một lúc lâu, mới tìm được một quyển sách bìa xanh có tên Lục Thông chí."
+      "suggest": "Đi vào trong \"Địa Lý Chí\", Viên Minh dừng bước, ánh mắt nhìn lên giá sách một lúc lâu, mới tìm được một quyển sách bìa xanh có tên Lục Thông Chí.",
+      "approved": true,
+      "chinese": {
+        "raw": "来到“地理志”这个目类下，袁铭停下了脚步，目光在书架上逡巡良久，才从上面找出一本名为《陆通志》的书册。",
+        "text": "Đi tới “ địa lý chí ” cái này mục loại hạ, Viên Minh dừng bước, ánh mắt tại trên giá sách băn khoăn thật lâu sau, mới từ thượng diện tìm ra một quyển tên là 《 lục 通 chí 》 đích sổ sách .",
+        "index": 1
+      }
     },
     {
       "convert": "Quyển sách này so với quyển sách khác càng lớn càng dày, trang bìa cũng rất là khác biệt, là lấy cứng rắn chất tấm ván gỗ chế thành, phía trên chạm rỗng điêu khắc một tấm bản đồ.",
       "dich": "Quyển sách này so với những quyển khác thì dày và lớn hơn hẳn, trang bìa cũng rất khác biệt, dùng một tấm gỗ cứng rắn chế thành, trên bìa còn chạm khắc một tấm bản đồ.",
-      "suggest": "Quyển sách này dày hơn những quyển sách khác rất nhiều, trang bìa cũng rất khác so với những quyển sách khác, bìa sách được làm bằng chất liệu ván gỗ cứng rắn, bên trên có khắc một tấm bản đồ."
+      "suggest": "Quyển sách này dày hơn những quyển sách khác rất nhiều, trang bìa cũng rất khác so với những quyển sách khác, bìa sách được làm bằng chất liệu ván gỗ cứng rắn, bên trên có khắc một tấm bản đồ.",
+      "approved": true,
+      "chinese": {
+        "raw": "这本书籍比其他书籍更大更厚，封面也很是不同，是以硬质的木板制成，上面镂空雕刻着一张地图。",
+        "text": "Quyển sách này so quyển sách khác càng lớn càng dày, bìa mặt cũng rất là bất đồng, là dĩ cứng rắn chất đích tấm ván gỗ chế thành, thượng diện chạm rỗng điêu khắc một tấm bản đồ .",
+        "index": 2
+      }
     },
     {
-      "convert": "Viên Minh lật ra « Lục Thông chí » bắt đầu xem, lại phát hiện bên trong tờ thứ nhất là gấp lại.",
-      "dich": "Viên Minh bắt đầu lật \"Địa Thông Chí\" ra xem, lại phát hiện trang đầu tiên bên trong được gấp lại.",
-      "suggest": "Viên Minh lật giở quyển Lục Thông chí ra xem, lại phát hiện tờ thứ nhất gấp gáp hơn."
+      "convert": "Viên Minh lật ra « Lục Thông Chí » bắt đầu xem, lại phát hiện bên trong tờ thứ nhất là gấp lại.",
+      "dich": "Viên Minh bắt đầu lật \"Lục Thông Chí\" ra xem, lại phát hiện trang đầu tiên bên trong được gấp lại.",
+      "suggest": "Viên Minh lật giở quyển Lục Thông Chí ra xem, lại phát hiện tờ thứ nhất gấp gáp hơn.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭翻开《陆通志》开始阅览，却发现里面第一页是折叠起来的。",
+        "text": "Viên Minh mở ra 《 lục 通 chí 》 bắt đầu xem, lại phát hiện bên trong tờ thứ nhất là gấp lại đích .",
+        "index": 3
+      }
     },
     {
       "convert": "Hắn đem mở ra trải ra, phát hiện khoảng chừng ba trang sách lớn như vậy, phía trên dùng đỏ thẫm hai màu đường cong vẽ ra một trương diện tích lãnh thổ bát ngát bản đồ địa hình.",
       "dich": "Hắn mở nó trải ra, phát hiện trang này lớn bằng ba trang sách bình thường, trên đó vẽ một tấm địa hình đồ diện tích rộng lớn bằng những đường nét màu đen và đỏ.",
-      "suggest": "Hắn mở ra xem, phát hiện được khoảng ba trang sách lớn cỡ này, phía trên dùng đường cong đỏ thẫm vẽ lên hai màu đỏ và tím."
+      "suggest": "Hắn mở ra xem, phát hiện được khoảng ba trang sách lớn cỡ này, phía trên dùng đường cong đỏ thẫm vẽ lên hai màu đỏ và tím.",
+      "approved": true,
+      "chinese": {
+        "raw": "他将之打开铺展，发现足足有三页书册那么大，上面用黑红两色线条绘制出了一张幅员辽阔的地形图。",
+        "text": "Hắn đem mở ra trải ra, phát hiện khoảng chừng ba trang sổ sách lớn như vậy, thượng diện dụng đỏ thẫm hai màu đường cong vẽ ra một trương diện tích lãnh thổ mở mang đích bản đồ địa hình .",
+        "index": 4
+      }
     },
     {
       "convert": "Nói là bản đồ địa hình, cũng không chính xác, bởi vì tấm bản đồ này nửa bộ phận trên chỉ là thô sơ giản lược tuyến đồ, phía trên có cương vực phân ra đại khái khu vực, nhưng không có địa hình địa vật đánh dấu.",
       "dich": "Nói là địa hình đồ cũng không chính xác, bởi nửa phần trên của tấm bản đồ này chỉ là những đường bản đồ thô sơ giản lược, trên đó có phân chia lãnh thổ với diện tích gần đúng, nhưng không có đánh dấu địa hình địa vật.",
-      "suggest": "Nói là bản đồ địa hình, cũng không chính xác, bởi vì nửa phần trên tấm bản đồ này chỉ là tuyến đồ thô sơ, phía trên có phân chia khu vực đại khái, nhưng không có địa hình địa vật."
+      "suggest": "Nói là bản đồ địa hình, cũng không chính xác, bởi vì nửa phần trên tấm bản đồ này chỉ là tuyến đồ thô sơ, phía trên có phân chia khu vực đại khái, nhưng không có địa hình địa vật.",
+      "approved": true,
+      "chinese": {
+        "raw": "说是地形图，也并不准确，因为这张地图的上半部分只是粗略的线图，上面有疆域划分出的大致区域，却没有地形地貌标注。",
+        "text": "Nói là bản đồ địa hình, cũng không chính xác, bởi vì này tấm bản đồ đích nửa bộ phận trên chỉ là thô sơ giản lược tuyến đồ, thượng diện có lãnh thổ quốc gia phân ra đích đại khái khu vực, nhưng không có địa hình địa vật đánh dấu .",
+        "index": 5
+      }
     },
     {
       "convert": "Mà nửa phần dưới, thì rõ ràng tiêu chú các loại địa hình địa vật, trong đó sơn phong nổi lên, lòng chảo sông hạ xuống, thế núi thủy mạch vô cùng rõ ràng, sinh động như thật.",
       "dich": "Còn nửa phần dưới lại được đánh dấu rõ ràng các loại địa hình địa vật, trong đấy núi non nổi lên, thung lũng sông chìm xuống, sơn thế thủy mạch cực kỳ rõ nét, sinh động như thật.",
-      "suggest": "Mà nửa phần dưới, rõ ràng ghi rõ các loại địa hình địa vật, trong đó sơn phong nổi lên, lòng chảo nổi lên, thủy mạch nổi lên, thế núi thủy mạch nổi lên vô cùng rõ ràng, sinh động như thật."
+      "suggest": "Mà nửa phần dưới, rõ ràng ghi rõ các loại địa hình địa vật, trong đó sơn phong nổi lên, lòng chảo nổi lên, thủy mạch nổi lên, thế núi thủy mạch nổi lên vô cùng rõ ràng, sinh động như thật.",
+      "approved": true,
+      "chinese": {
+        "raw": "而下半部分，则清晰地标注了各种地形地貌，其中山峰突起，河谷下陷，山势水脉清晰无比，栩栩如生。",
+        "text": "Mà hạ nửa bộ phân, thì rõ rệt tiêu chí rót các loại địa hình địa vật, trong đó ngọn núi nổi lên, lũng sông hạ xuống, thế núi thủy mạch rõ rệt vô cùng, trông rất sống động .",
+        "index": 6
+      }
     },
     {
       "convert": "Nhưng mà, Viên Minh ánh mắt, lại thẳng vào rơi vào bên trên kia một phần ba giản lược đến không thể lại giản lược trên bản đồ.",
       "dich": "Nhưng ánh mắt Viên Minh lại rơi thẳng vào khoảng một phần ba bản đồ, chỗ được vẽ đơn giản đến độ không thể đơn giản hơn.",
-      "suggest": "Nhưng ánh mắt Viên Minh lại rơi thẳng xuống trên một phần ba bản đồ được vẽ trên đó."
+      "suggest": "Nhưng ánh mắt Viên Minh lại rơi thẳng xuống trên một phần ba bản đồ được vẽ trên đó.",
+      "approved": true,
+      "chinese": {
+        "raw": "然而，袁铭的目光，却直勾勾地落在了上边那三分之一的简略得不能再简略的地图上。",
+        "text": "Nhưng mà, Viên Minh đích ánh mắt, nhưng thẳng vào rơi vào rồi bên trên kia một phần ba đích giản lược được không thể lại giản lược đích trên bản đồ .",
+        "index": 7
+      }
     },
     {
       "convert": "Bởi vì, chỉ vì phía trên tới gần địa đồ biên giới, ghi chú hai cái chữ to \"Trung Nguyên\", kia là Viên Minh trong trí nhớ mơ mơ hồ hồ quê quán, là hắn muốn trở về, lại không biết nên trở về nơi nào nơi hội tụ.",
       "dich": "Nguyên do chính là vì trên chỗ sát mép bản đồ có ghi chú hai chữ to \"Trung Nguyên\", đó chính quê hương trong trí nhớ mơ mơ hồ hồ của Viên Minh, cũng chính nơi mà hắn muốn trở về nhưng lại không biết là cụ thể là nên về nơi nào trên đó.",
-      "suggest": "Bởi vì phía trên có ghi hai chữ Trung Nguyên, đó là quê quán trong trí nhớ Viên Minh, là nơi hắn nhớ đến, là nơi hắn muốn trở về, nhưng lại không biết nên trở về nơi nào."
+      "suggest": "Bởi vì phía trên có ghi hai chữ Trung Nguyên, đó là quê quán trong trí nhớ Viên Minh, là nơi hắn nhớ đến, là nơi hắn muốn trở về, nhưng lại không biết nên trở về nơi nào.",
+      "approved": true,
+      "chinese": {
+        "raw": "原因无他，只因上面临近地图边缘，标注着的两个大字“中原”，那是袁铭记忆中模模糊糊的家乡，是他想要回去，却不知该回哪里的归处。",
+        "text": "Bởi vì, chỉ vì thượng diện lân cận bản đồ biên duyên, ghi chú đích hai cái chữ to “ Trung Nguyên ”, kia là Viên Minh trong trí nhớ mơ mơ hồ hồ quê hương, là hắn muốn trở về, lại không biết nên trở về nơi nào nơi hội tụ .",
+        "index": 8
+      }
     },
     {
       "convert": "Viên Minh nhìn kỹ một hồi, liền phát hiện kia chỉ có một phần ba bản đồ hiển nhiên cũng không hoàn chỉnh, chỉ là mơ hồ đánh dấu ra hai quốc gia bộ phận bản đồ, một cái tên là Đại Tấn, cùng hắn giờ hương thì nhìn thấy tiểu hoàng đế kia quốc gia cùng tên, một cái khác, thì gọi là Tây Việt.",
       "dich": "Viên Minh nhìn kỹ một hồi, liền phát hiện chỗ chỉ chiếm một phần ba bản đồ còn không được hoàn chỉnh, mà chỉ đại khái đánh dấu phần bản đồ của hai quốc gia, một gọi là Đại Tấn, cùng tên với quốc gia của tiểu hoàng đế mà hắn thấy khi châm hương khi trước, một nước khác gọi là Tây Việt.",
-      "suggest": "Viên Minh nhìn kỹ một hồi, liền phát hiện bản đồ kia hiển nhiên cũng không hoàn chỉnh, chỉ là mơ hồ đánh dấu hai quốc gia, một quốc gia tên là Đại Tấn, cùng ngày sinh của tiểu hoàng đế kia, còn quốc gia kia, tên hắn thì gọi là Tây Việt."
+      "suggest": "Viên Minh nhìn kỹ một hồi, liền phát hiện bản đồ kia hiển nhiên cũng không hoàn chỉnh, chỉ là mơ hồ đánh dấu hai quốc gia, một quốc gia tên là Đại Tấn, cùng ngày sinh của tiểu hoàng đế kia, còn quốc gia kia, tên hắn thì gọi là Tây Việt.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭仔细看了一会，便发现那仅有的三分之一版图显然也不完整，只是大略标注出了两个国家的部分版图，一個名为大晋，和他点香时看到的那个小皇帝的国家同名，另一个，则叫做西越。",
+        "text": "Viên Minh nhìn kỹ một lúc, liền phát hiện kia chỉ có đích một phần ba bản đồ hiển nhiên cũng không hoàn chỉnh, chỉ là đại lược đánh dấu ra hai quốc gia đích bộ phận bản đồ, một tên là Đại Tấn, cùng hắn điểm hương thời nhìn thấy đích tiểu hoàng đế kia đích quốc gia cùng danh, một cái khác, thì gọi là tây càng .",
+        "index": 9
+      }
     },
     {
       "convert": "Hai quốc gia này láng giềng mà cư, đều cùng kia như là giao long vắt ngang Thập Vạn Đại Sơn giáp giới, mà vượt qua kia hắc tuyến phác hoạ tráng kiện lưng núi, một bên khác chính là Nam Cương.",
       "dich": "Hai quốc gia này sát cạnh nhau, và đều giáp với Thập Vạn Đại Sơn như giao long nằm vắt ngang, và nếu vượt qua sườn núi khổng lồ được phác họa bằng đường màu đen trên bản đồ, sẽ thấy Nam Cương nằm phía bên kia.",
-      "suggest": "Hai quốc gia này cư trú cùng một chỗ, đều nằm giáp giới với Thập Vạn Đại sơn, mà phía trước là một vách núi sừng sững, một bên là Nam Cương."
+      "suggest": "Hai quốc gia này cư trú cùng một chỗ, đều nằm giáp giới với Thập Vạn Đại sơn, mà phía trước là một vách núi sừng sững, một bên là Nam Cương.",
+      "approved": true,
+      "chinese": {
+        "raw": "这两个国家比邻而居，都与那如同蛟龙横亘的十万大山接壤，而翻过那黑线勾勒的粗壮山脊，另一边就是南疆了。",
+        "text": "Hai quốc gia này láng giềng mà cư, đều cùng kia giống như giao long vắt ngang đích Thập Vạn Đại Sơn giáp giới, mà bay qua kia hắc tuyến phác hoạ đích tráng kiện lưng núi, bên kia chính là Nam Cương rồi .",
+        "index": 10
+      }
     },
     {
       "convert": "Nam Cương địa hình phác hoạ đến liền muốn cẩn thận hơn nhiều, ngoại trừ núi non sông ngòi bên ngoài, còn tiêu chú một chút quốc gia cùng cùng loại với quốc gia phạm vi thế lực.",
       "dich": "Địa hình Nam Cương được phác họa tỉ mỉ hơn rất nhiều, ngoại trừ núi non sông ngòi còn đánh dấu một số quốc gia và phạm vi thế lực tương tự quốc gia.",
-      "suggest": "Địa hình Nam Cương đã được phác thảo cẩn thận hơn nhiều, ngoại trừ núi non sông ngòi, còn có khắc ghi một vài thế lực cùng loại với quốc gia."
+      "suggest": "Địa hình Nam Cương đã được phác thảo cẩn thận hơn nhiều, ngoại trừ núi non sông ngòi, còn có khắc ghi một vài thế lực cùng loại với quốc gia.",
+      "approved": true,
+      "chinese": {
+        "raw": "南疆的地形勾勒得就要仔细得多了，除了山川河流之外，还标注了一些国家和类似于国家的势力范围。",
+        "text": "Nam Cương đích địa hình phác hoạ được liền muốn tỉ mỉ hơn nhiều, trừ bỏ núi non sông ngòi bên ngoài, còn tiêu chú một chút quốc gia cùng cùng loại với quốc gia phạm vi thế lực .",
+        "index": 11
+      }
     },
     {
       "convert": "Viên Minh tốt một phen tìm kiếm, rốt cục tìm ra Bích La Động chỗ.",
       "dich": "Viên Minh cẩn thận tìm kiếm một phen, cuối cùng cũng tìm thấy vị trí của Bích La Động.",
-      "suggest": "Viên Minh tìm kiếm một hồi lâu, cuối cùng cũng tìm ra Bích La Động."
+      "suggest": "Viên Minh tìm kiếm một hồi lâu, cuối cùng cũng tìm ra Bích La Động.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭好一番寻找，终于找出了碧罗洞的所在。",
+        "text": "Viên Minh hảo một phen tìm kiếm, cuối cùng tìm ra Bích La Động đích sở tại .",
+        "index": 12
+      }
     },
     {
       "convert": "Hắn cẩn thận so sánh qua về sau, mới kinh ngạc phát hiện, nhìn như địa vực rộng rãi Bích La Động, cùng cái kia khổng lồ Thập Vạn Đại Sơn so sánh, đơn giản không đáng giá nhắc tới.",
       "dich": "Sau khi cẩn thận so sánh, hắn mới kinh ngạc phát hiện Bích La Động trông có vẻ rộng lớn, nhưng đem so với dãy Thập Vạn Đại Sơn khổng lổ kia, quả thực là không đáng để nhắc tới.",
-      "suggest": "Hắn cẩn thận đánh giá một hồi mới kinh ngạc phát hiện ra Bích La Động nhìn như rộng lớn, so với Thập Vạn Đại Sơn khổng lồ kia, đơn giản không đáng nhắc tới."
+      "suggest": "Hắn cẩn thận đánh giá một hồi mới kinh ngạc phát hiện ra Bích La Động nhìn như rộng lớn, so với Thập Vạn Đại Sơn khổng lồ kia, đơn giản không đáng nhắc tới.",
+      "approved": true,
+      "chinese": {
+        "raw": "他仔细对比过之后，才惊讶的发现，看似地域广袤的碧罗洞，与那庞大的十万大山相比，简直不值一提。",
+        "text": "Hắn tỉ mỉ so đọ qua sau, mới kinh ngạc đích phát hiện, nhìn như địa vực rộng rãi đích Bích La Động, cùng cái kia khổng lồ đích Thập Vạn Đại Sơn so với, quả thực không đáng giá nhắc tới .",
+        "index": 13
+      }
     },
     {
       "convert": "Mà toàn bộ Nam Cương cương vực diện tích, cũng càng là to đến không hợp thói thường.",
       "dich": "Mà toàn bộ diện tích lãnh thổ Nam Cương còn lớn hơn nhiều, cho người ta cảm giác lớn đến mức thái quá.",
-      "suggest": "Mà diện tích toàn bộ cương vực Nam Cương cũng trở nên rất lớn, không hợp với thói thường."
+      "suggest": "Mà diện tích toàn bộ cương vực Nam Cương cũng trở nên rất lớn, không hợp với thói thường.",
+      "approved": true,
+      "chinese": {
+        "raw": "而整个南疆的疆域面积，也更是大得离谱。",
+        "text": "Mà cả Nam Cương đích lãnh thổ quốc gia diện tích, cũng càng là to đến không tuân theo chuẩn mực .",
+        "index": 14
+      }
     },
     {
       "convert": "Viên Minh nhìn ra ngoài một hồi về sau, muốn tìm ra một đầu từ Nam Cương thông hướng Trung Nguyên đường xá, lại chung quy là không thu hoạch được gì.",
       "dich": "Viên Minh định tìm một lộ tuyến nối từ Nam Cương đến Trung Nguyên, có điều sau khi nhìn kỹ một hồi, cuối cũng vẫn không thu hoạch được gì.",
-      "suggest": "Viên Minh nhìn ra ngoài một hồi, muốn tìm một con đường thông từ Nam Cương thông tới Trung Nguyên nhưng rốt cuộc không thu hoạch được gì."
+      "suggest": "Viên Minh nhìn ra ngoài một hồi, muốn tìm một con đường thông từ Nam Cương thông tới Trung Nguyên nhưng rốt cuộc không thu hoạch được gì.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭看了一阵后，想要找出一条从南疆通往中原的路途，却终究是一无所获。",
+        "text": "Viên Minh nhìn ra ngoài một hồi sau, muốn tìm ra một đầu từ Nam Cương đi thông Trung Nguyên đường xá, nhưng chung quy là không thu hoạch được gì .",
+        "index": 15
+      }
     },
     {
       "convert": "\"Trời đất bao la, muốn trở lại quê hương, cuối cùng không phải chuyện dễ a.\"",
       "dich": "\"Trời đất bao la, muốn trở lại quê nhà, chung quy cũng không phải chuyện dễ dàng.\"",
-      "suggest": "\"Trời đất bao la, muốn trở về quê hương, cuối cùng không phải chuyện dễ a.\""
+      "suggest": "\"Trời đất bao la, muốn trở về quê hương, cuối cùng không phải chuyện dễ a.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh trong lòng cảm thán nói.",
       "dich": "Viên Minh thầm cảm thán trong lòng.",
-      "suggest": "Viên Minh thầm cảm thán."
+      "suggest": "Viên Minh thầm cảm thán.",
+      "approved": true
     },
     {
-      "convert": "Lúc này, hắn nhớ lại một chuyện, lại bắt đầu tại trên địa đồ ngưng mắt tìm kiếm, sau một lúc lâu, mới rốt cuộc tìm được một tòa nhỏ như hạt gạo sơn phong, thấy được bên cạnh đánh dấu chữ nhỏ \"Thanh Áo sơn\".",
+      "convert": "Lúc này, hắn nhớ lại một chuyện, lại bắt đầu tại trên địa đồ ngưng mắt tìm kiếm, sau một lúc lâu, mới rốt cuộc tìm được một tòa nhỏ như hạt gạo sơn phong, thấy được bên cạnh đánh dấu chữ nhỏ \"Thanh Áo Sơn\".",
       "dich": "Lúc này, hắn nhớ đến một chuyện, lại bắt đầu ngưng mắt tìm kiếm trên bản đồ, mất một lúc sau mới tìm ra được một ngọn núi bé như hạt gạo, ở bên cạnh đánh dấu mấy chữ nhỏ \"Thanh Áo Sơn\".",
-      "suggest": "Lúc này, hắn lại bắt đầu tập trung mắt nhìn lên bản đồ, sau một lúc lâu, mới rốt cuộc tìm được một ngọn núi nhỏ bằng hạt gạo, bên cạnh có khắc dòng chữ \"Thanh Áo Sơn\"."
+      "suggest": "Lúc này, hắn lại bắt đầu tập trung mắt nhìn lên bản đồ, sau một lúc lâu, mới rốt cuộc tìm được một ngọn núi nhỏ bằng hạt gạo, bên cạnh có khắc dòng chữ \"Thanh Áo Sơn\".",
+      "approved": true,
+      "chinese": {
+        "raw": "这时，他记起一事，又开始在地图上凝眸搜寻，好一会儿后，才终于找到一座小如米粒的山峰，看到了旁边标注的小字“青袄山”。",
+        "text": "Lúc này, hắn nhớ lại một chuyện, lại bắt đầu tại trên địa đồ ngưng mắt sưu tầm, sau một lúc lâu, mới rốt cục tìm được một tòa nhỏ như hạt gạo đích ngọn núi, thấy được bên cạnh đánh dấu đích chữ nhỏ “ thanh áo núi ” .",
+        "index": 17
+      }
     },
     {
       "convert": "Kia là Cáp Cống đề cập qua quê quán, cũng là hắn lúc lâm chung sau cùng lo lắng.",
       "dich": "Đó chính quê nhà mà Cáp Cống từng nhắc tới, cũng điều cuối cùng mà y nghĩ tới lúc lâm chung.",
-      "suggest": "Đây là nơi Cáp Cống nhắc tới, cũng là nỗi lo lắng lớn nhất của hắn lúc lâm chung."
+      "suggest": "Đây là nơi Cáp Cống nhắc tới, cũng là nỗi lo lắng lớn nhất của hắn lúc lâm chung.",
+      "approved": true,
+      "chinese": {
+        "raw": "那是哈贡提及过的家乡，也是他临终时最后的牵挂。",
+        "text": "Kia là ha cống đề cập qua gia hương, cũng là hắn lúc lâm chung tối hậu đích vướng bận .",
+        "index": 18
+      }
     },
     {
-      "convert": "Viên Minh tính toán đợi hắn ở Bích La Động đứng vững gót chân về sau, liền nghĩ biện pháp đi ra ngoài một chuyến, muốn về Trung Nguyên rất khó khăn, đi một chuyến Thanh Áo sơn, nghĩ đến biết tương đối dễ dàng một chút.",
-      "dich": "Viên Minh dự định đợi sau khi hắn đứng vững gót chân ở Bích La Động, sẽ nghĩ cách đi ra ngoài một chuyện, muốn về Trung Nguyên thì quá khó, nhưng nếu đi một chuyến tới Thanh Áo sơn, phỏng chừng sẽ tương đối dễ dàng.",
-      "suggest": "Viên Minh tính toán đợi sau khi hắn đứng vững gót chân ở Bích La Động, liền nghĩ biện pháp đi ra ngoài một chuyến, muốn trở về Trung Nguyên rất khó khăn, đi một chuyến Thanh Áo sơn, nghĩ tới nghĩ lui cũng dễ dàng hơn một chút."
+      "convert": "Viên Minh tính toán đợi hắn ở Bích La Động đứng vững gót chân về sau, liền nghĩ biện pháp đi ra ngoài một chuyến, muốn về Trung Nguyên rất khó khăn, đi một chuyến Thanh Áo Sơn, nghĩ đến biết tương đối dễ dàng một chút.",
+      "dich": "Viên Minh dự định đợi sau khi hắn đứng vững gót chân ở Bích La Động, sẽ nghĩ cách đi ra ngoài một chuyện, muốn về Trung Nguyên thì quá khó, nhưng nếu đi một chuyến tới Thanh Áo Sơn, phỏng chừng sẽ tương đối dễ dàng.",
+      "suggest": "Viên Minh tính toán đợi sau khi hắn đứng vững gót chân ở Bích La Động, liền nghĩ biện pháp đi ra ngoài một chuyến, muốn trở về Trung Nguyên rất khó khăn, đi một chuyến Thanh Áo Sơn, nghĩ tới nghĩ lui cũng dễ dàng hơn một chút.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭打算等他在碧罗洞站稳脚跟之后，就想办法出去一趟，要回中原太难，去一趟青袄山，想来会相对容易一些。",
+        "text": "Viên Minh tính toán đợi hắn tại Bích La Động đứng vững gót chân sau đó, liền nghĩ biện pháp đi ra một chuyến, muốn về Trung Nguyên rất khó khăn, đi một chuyến thanh áo núi, nghĩ đến có thể tương đối dễ dàng một chút .",
+        "index": 19
+      }
     },
     {
       "convert": "Nhìn một lát, hắn thu hồi khó phân nỗi lòng, đem địa đồ chồng chất trở về, bắt đầu lật sách đọc.",
       "dich": "Nhìn một lát nữa, hắn thu hồi nỗi băn khoăn trong lòng, gập tấm bản đồ lại rồi bắt đầu lật sách đọc.",
-      "suggest": "Nhìn một hồi, hắn thu hồi những tâm sự khó nói, cầm tấm bản đồ bỏ vào trong ngực, bắt đầu lật sách đọc."
+      "suggest": "Nhìn một hồi, hắn thu hồi những tâm sự khó nói, cầm tấm bản đồ bỏ vào trong ngực, bắt đầu lật sách đọc.",
+      "approved": true,
+      "chinese": {
+        "raw": "看了片刻，他收起纷繁心绪，将地图折叠回去，开始翻书阅读。",
+        "text": "Nhìn chốc lát, hắn thu hồi khó phân nỗi lòng, đem bản đồ gấp trở về, bắt đầu lật sách đọc .",
+        "index": 20
+      }
     },
     {
       "convert": "Sách này sách bên trong ghi lại, đại đa số đều là Nam Cương từng cái dãy núi cùng dòng sông tình huống giới thiệu, ở trong pha tạp rất nhiều thần tiên chí quái dị truyền thuyết dị văn cố sự, kỳ quái, thật giả vô định.",
       "dich": "Nội dung được ghi trong sách này chủ yếu là giới thiệu tình huống các dòng sông, dãy núi của Nam Cương, ở trong đó còn pha tạp rất nhiều dị văn cố sự, truyền thuyết thần tiên chí quái, vừa kỳ quái vừa khó phân biệt thật giả.",
-      "suggest": "Trong sách này, phần lớn đều là ghi chép tình hình từng dãy núi và dòng sông Nam Cương, bên trong còn pha tạp rất nhiều truyền thuyết dị văn quái dị, kỳ quái, thật giả lẫn lộn."
+      "suggest": "Trong sách này, phần lớn đều là ghi chép tình hình từng dãy núi và dòng sông Nam Cương, bên trong còn pha tạp rất nhiều truyền thuyết dị văn quái dị, kỳ quái, thật giả lẫn lộn.",
+      "approved": true,
+      "chinese": {
+        "raw": "这书册中记载的，大多数都是南疆各个山脉与河流的情况介绍，当中参杂了许多神仙志怪的传说异闻故事，光怪陆离，真假未知。",
+        "text": "Sách này cuốn trung ghi lại, đại đa số đều là Nam Cương mỗi cái sơn mạch cùng hà lưu đích tình huống giới thiệu, trong đó pha rất nhiều thần tiên chí quái đích truyền thuyết dị văn câu chuyện, kỳ quái, thật giả chưa biết .",
+        "index": 21
+      }
     },
     {
       "convert": "Bởi vì đại đa số địa phương đều rất lạ lẫm, hắn không có đi qua cũng chưa từng nghe qua, cho nên trong đầu cũng không có khái niệm gì, xem trong chốc lát, liền cảm giác không hứng lắm, đem sách thả trở về.",
       "dich": "Do đại đa số các địa phương đều rất xa lạ, hơn chưa từng đi qua hay nghe qua nên trong đầu cũng không có khái niệm gì, sau khi đọc một lát liền cảm giác không hứng thú lắm, đem sách trả về chỗ cũ.",
-      "suggest": "Bởi vì đại đa số các địa phương đều rất lạ lẫm, hắn chưa từng đi qua cũng chưa từng nghe qua, cho nên trong đầu cũng không có khái niệm gì, chỉ xem trong chốc lát, liền cảm thấy không hứng thú, cầm sách trả lại."
+      "suggest": "Bởi vì đại đa số các địa phương đều rất lạ lẫm, hắn chưa từng đi qua cũng chưa từng nghe qua, cho nên trong đầu cũng không có khái niệm gì, chỉ xem trong chốc lát, liền cảm thấy không hứng thú, cầm sách trả lại.",
+      "approved": true,
+      "chinese": {
+        "raw": "由于大多数地方都很陌生，他没去过也没听过，故而脑海中也没什么概念，看了一会儿，便觉兴致缺缺，将书放了回去。",
+        "text": "Bởi vì đại đa số địa phương đều rất xa lạ, hắn không đi qua cũng chưa từng nghe qua, cho nên trong đầu cũng không có gì khái niệm, nhìn một lúc nhi, liền cảm giác không hứng lắm, đem sách thả trở về .",
+        "index": 22
+      }
     },
     {
       "convert": "Sau đó, hắn lại cố ý tìm mấy quyển địa lý phương diện điển tịch, muốn nhìn một chút càng nhiều liên quan tới Trung Nguyên nội dung, đáng tiếc bên trong ghi lại rải rác, cũng không thể cho hắn cung cấp quá nhiều tin tức.",
       "dich": "Sau đó, hắn lại chú tâm tìm mấy cuốn điển tịch về phương diện địa lý, tính tìm kiếm thêm chút ít thông tin liên quan đến Trung Nguyên, đáng tiếc những ghi chép như vậy ở trong sách vừa thưa thớt, hơn nữa lại chẳng thể cũng cấp cho hắn quá nhiều tin tức.",
-      "suggest": "Sau đó, hắn lại cố ý tìm kiếm trên mạng mấy quyển điển tịch về địa lý, muốn tìm hiểu thêm một chút nội dung có liên quan đến Trung Nguyên, đáng tiếc nội dung bên trong ghi lại khá rải rác, cũng không thể cung cấp cho hắn nhiều tin tức."
+      "suggest": "Sau đó, hắn lại cố ý tìm kiếm trên mạng mấy quyển điển tịch về địa lý, muốn tìm hiểu thêm một chút nội dung có liên quan đến Trung Nguyên, đáng tiếc nội dung bên trong ghi lại khá rải rác, cũng không thể cung cấp cho hắn nhiều tin tức.",
+      "approved": true,
+      "chinese": {
+        "raw": "随后，他又特意找了几本地理方面的典籍，想要看看更多关于中原的内容，可惜里面的记述寥寥，并不能给他提供太多的信息。",
+        "text": "Theo sau, hắn lại cố ý tìm mấy bản địa lý phương diện đích điển tịch, muốn nhìn một chút càng nhiều về Trung Nguyên đích nội dung, đáng tiếc bên trong ghi lại ít ỏi, chẳng hề có thể cho hắn cung cấp quá nhiều đích tin tức .",
+        "index": 23
+      }
     },
     {
       "convert": "\"Đến cùng là ở Nam Cương địa vực, liên quan tới Trung Nguyên thư tịch, thực sự là ít đến đáng thương.\"",
       "dich": "\"Rốt cuộc thì ở mảnh đất Nam Cương, thư tịch liên quan tới Trung Nguyên thực sự là ít đến đáng thương.\"",
-      "suggest": "\"Cuối cùng là địa điểm ở Nam Cương, thư tịch liên quan đến Trung Nguyên thật sự là ít đáng thương.\""
+      "suggest": "\"Cuối cùng là địa điểm ở Nam Cương, thư tịch liên quan đến Trung Nguyên thật sự là ít đáng thương.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh đem cuối cùng một quyển sách nhét thư trả lời đỡ, tiếp tục dạo bước, muốn nhìn một chút cái khác mắt loại, còn có cái gì nội dung.",
       "dich": "Viên Minh đặt quyển sách cuối cùng đặt lại lên giá, đoạn tiếp tục dạo bước, muốn nhìn chút xem các mục khác còn có nội dung gì.",
-      "suggest": "Viên Minh trả lời mấy quyển sách cuối cùng, xong tiếp tục dạo bước, muốn xem loại mắt khác còn có nội dung gì khác không."
+      "suggest": "Viên Minh trả lời mấy quyển sách cuối cùng, xong tiếp tục dạo bước, muốn xem loại mắt khác còn có nội dung gì khác không.",
+      "approved": true
     },
     {
       "convert": "Mấy bước về sau, hắn đi tới \"Tu hành\" mắt loại trước, ngừng lại.",
       "dich": "Sau khi đi mấy bước, hắn dừng chân trước mục 'Tu Hành'.",
-      "suggest": "Sau mấy bước, hắn đi tới trước tiểu viện tu luyện, ngừng lại."
+      "suggest": "Sau mấy bước, hắn đi tới trước tiểu viện tu luyện, ngừng lại.",
+      "approved": true,
+      "chinese": {
+        "raw": "几步之后，他来到了“修行”目类前，停了下来。",
+        "text": "Vài bước sau đó, hắn đi tới “ tu hành ” mục loại trước, ngừng lại .",
+        "index": 25
+      }
     },
     {
       "convert": "Viên Minh tiện tay từ trên giá sách lấy ra một quyển sách, nhìn thoáng qua phong bì, phía trên lấy Nam Cương văn tự viết « Tu Hành Thông Thức », lập tức hứng thú.",
-      "dich": "Viên Minh tiện tay lấy một quyển từ trên giá xuống, liếc mắt nhìn bìa, thấy bên trên ghi \"Tu Hành Thông Thức\" bằng văn tự Nam Cường, lòng lập tức cảm thấy hứng thú.",
-      "suggest": "Viên Minh tiện tay lấy một quyển sách từ trên giá sách ra, nhìn thoáng qua phong bì, trên phong bì viết mấy dòng chữ Nam Cương, trong đó viết rõ ràng là  Tu Hành Thông Thức, lập tức có hứng thú."
+      "dich": "Viên Minh tiện tay lấy một quyển từ trên giá xuống, liếc mắt nhìn bìa, thấy bên trên ghi \"Tu Hành Thông Thức\" bằng văn tự Nam Cương, lòng lập tức cảm thấy hứng thú.",
+      "suggest": "Viên Minh tiện tay lấy một quyển sách từ trên giá sách ra, nhìn thoáng qua phong bì, trên phong bì viết mấy dòng chữ Nam Cương, trong đó viết rõ ràng là  Tu Hành Thông Thức, lập tức có hứng thú.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭随手从书架上取出一本书册，看了一眼封皮，上面以南疆文字书写《修行通识》，顿时来了兴趣。",
+        "text": "Viên Minh tiện tay từ trên giá sách lấy ra một quyển sách, nhìn thoáng qua phong bì, thượng diện phía Nam cương văn tự viết 《 tu hành 通 biết 》, tức khắc hứng thú .",
+        "index": 26
+      }
     },
     {
       "convert": "Hắn có thể bước lên con đường tu hành, vốn là một kiện ra ngoài ý định bên ngoài sự tình, trước đây bị vây ở Thập Vạn Đại Sơn bên trong với tư cách Phi Mao thú nô, tự nhiên cũng sẽ không có nhân giáo đạo hắn liên quan tới tu hành phương diện kiến thức căn bản.",
       "dich": "Hắn có thể đạp bước trên con đường tu hành, vốn đã là một chuyện nằm ngoài dự liệu, trước đây bị nhốt trong Thập Vạn Đại Sơn làm Phi Mao thú nô, tự nhiên cũng sẽ chẳng có ai dạy cho hắn những kiến thức căn bản về phương diện tu hành.",
-      "suggest": "Hắn có thể bước lên con đường tu hành vốn là một chuyện ngoài ý liệu, trước kia bị vây trong Thập Vạn Đại Sơn với tư cách Phi Mao thú nô, đương nhiên cũng không có người nào dạy cho hắn kiến thức căn bản về tu hành cả."
+      "suggest": "Hắn có thể bước lên con đường tu hành vốn là một chuyện ngoài ý liệu, trước kia bị vây trong Thập Vạn Đại Sơn với tư cách Phi Mao thú nô, đương nhiên cũng không có người nào dạy cho hắn kiến thức căn bản về tu hành cả.",
+      "approved": true,
+      "chinese": {
+        "raw": "他能踏上修行之路，本就是一件出乎意料之外的事，此前被困在十万大山之中作为披毛兽奴，自然也不会有人教导他关于修行方面的基础知识。",
+        "text": "Hắn năng đạp lên con đường tu hành, vốn là là một kiện ra ngoài ngoài ý liệu đích sự, trước đó bị nhốt tại Thập Vạn Đại Sơn bên trong là Phi Mao thú nô, tự nhiên cũng sẽ không có Nhân giáo dẫn hắn về tu hành phương diện đích kiến thức căn bản .",
+        "index": 27
+      }
     },
     {
       "convert": "Lần này trời đất xui khiến trở thành ký danh đệ tử về sau, cũng tương tự không ai vì hắn giải đáp nghi vấn giải hoặc, Viên Minh chính khiếm khuyết loại này tri thức.",
       "dich": "Lần này, sau khi trời đưa đất đẩy khiến hắn trở thành đệ tử ký danh, vẫn như trước chẳng có ai giải đáp thắc mắc cho hắn, vậy nên thứ Viên Minh thiếu khuyết chính là loại kiến thức này.",
-      "suggest": "Lần này trời đất xui khiến hắn trở thành đệ tử ký danh, cũng giống như không ai giải đáp nghi vấn của hắn, Viên Minh chính là khiếm khuyết tri thức này."
+      "suggest": "Lần này trời đất xui khiến hắn trở thành đệ tử ký danh, cũng giống như không ai giải đáp nghi vấn của hắn, Viên Minh chính là khiếm khuyết tri thức này.",
+      "approved": true,
+      "chinese": {
+        "raw": "此番阴差阳错的成为记名弟子之后，同样也没人为他答疑解惑，袁铭正欠缺此类知识。",
+        "text": "Lần này trời đất xui khiến trở thành ký danh đệ tử sau đó, cũng tương tự không ai vì hắn giải đáp nghi vấn giải thích nghi hoặc, Viên Minh chính khiếm khuyết loại này tri thức .",
+        "index": 28
+      }
     },
     {
       "convert": "Hắn lúc này trở lại trên chỗ ngồi, mở ra quyển sách bắt đầu tinh tế lật xem.",
       "dich": "Hắn lập tức quay lại chỗ ngồi, mở sách ra rồi bắt đầu tỉ mỉ lật xem.",
-      "suggest": "Hắn trở lại chỗ ngồi, mở quyển sách ra, bắt đầu lật xem tỉ mỉ."
+      "suggest": "Hắn trở lại chỗ ngồi, mở quyển sách ra, bắt đầu lật xem tỉ mỉ.",
+      "approved": true,
+      "chinese": {
+        "raw": "他当即回到座位上，翻开书册开始细细翻阅起来。",
+        "text": "Hắn lúc này trở lại trên chỗ ngồi, mở ra quyển sách bắt đầu tỉ mỉ lật xem .",
+        "index": 29
+      }
     },
     {
       "convert": "Nhìn một lát, Viên Minh lông mày liền nhàu lên, thầm nghĩ trong lòng: \"Nguyên lai đồng dạng là tu hành, tu sĩ cùng tu sĩ cũng không giống nhau, vẫn còn pháp tu, thể tu cùng hồn tu phân chia a.\"",
       "dich": "Đọc được một lúc, lông mày Viên Minh nhăn tít lại, trong lòng thầm nghĩ: \"Hóa ra cùng là tu hành mà không phải tu sĩ nào cũng giống tu sĩ nào, còn có phân chia Pháp tu, Thể tu và Hồn tu.\"",
-      "suggest": "Nhìn một lúc, Viên Minh cau mày, thầm nghĩ: \"Thì ra là tu hành, pháp tu và hồn tu cũng khác nhau, phải phân chia pháp tu và hồn tu a.\""
+      "suggest": "Nhìn một lúc, Viên Minh cau mày, thầm nghĩ: \"Thì ra là tu hành, pháp tu và hồn tu cũng khác nhau, phải phân chia pháp tu và hồn tu a.\"",
+      "approved": true,
+      "chinese": {
+        "raw": "看了片刻，袁铭眉头就蹙了起来，心中暗道：“原来同样是修行，修士与修士并不相同，还有法修，体修和魂修之分啊。”",
+        "text": "Nhìn chốc lát, Viên Minh đầu mi liền nhăn lên tới, thầm nghĩ trong lòng : “ nguyên lai đồng dạng là tu hành, tu sĩ cùng tu sĩ chẳng hề tương đồng, còn có 法 tu, thể tu cùng 魂 tu phân chia a . ”",
+        "index": 30
+      }
     },
     {
       "convert": "Theo như sách viết nội dung thuật, cái gọi là thể tu, chính là chuyên cần thể phách, tu luyện công pháp rèn thể, chú trọng rèn luyện da lông gân cốt huyết nhục cùng tạng phủ, đem bản thân thể phách đoán luyện tới như là pháp bảo, cùng người giao chiến, không lấy ngoại vật vì thị, bản thân chính là sát khí, lại sinh tồn năng lực mạnh.",
       "dich": "Theo như nội dung ghi trên sách, cái gọi là Thể tu chính là chuyên tu thể phách, tu luyện công pháp luyện thể, chú trọng rèn luyện da lông gân cốt huyết nhục và tạng phủ, rèn luyện chính bản thân mình tới mức độ như pháp bảo, khi đối chiến với kẻ địch thì không cần dựa vào ngoại vật, bản thân chính là vũ khí giết địch, hơn nữa năng lực sinh tồn còn rất mạnh.",
-      "suggest": "Theo như trong sách viết, thuật Thể Tu chính là chuyên cần thể phách, tu luyện công pháp rèn luyện thân thể, chú trọng rèn luyện da lông gân cốt, tạng phủ, đem thể phách bản thân luyện chế thành pháp bảo, cùng người giao chiến, không để ngoại vật thị phi, bản thân chính là sát khí, sinh tồn năng lực."
+      "suggest": "Theo như trong sách viết, thuật Thể Tu chính là chuyên cần thể phách, tu luyện công pháp rèn luyện thân thể, chú trọng rèn luyện da lông gân cốt, tạng phủ, đem thể phách bản thân luyện chế thành pháp bảo, cùng người giao chiến, không để ngoại vật thị phi, bản thân chính là sát khí, sinh tồn năng lực.",
+      "approved": true,
+      "chinese": {
+        "raw": "按照书中内容所述，所谓的体修，便是勤修体魄，修炼锻体功法，注重锤炼皮毛筋骨血肉和脏腑，将自身体魄锻炼得如同法宝一般，与人交战，不以外物为恃，本身便是杀器，且生存能力强。",
+        "text": "Theo như sách viết nội dung thuật, cái gọi là thể tu, chính là chuyên cần thể phách, tu luyện rèn thể công pháp, chú trọng rèn luyện da lông cơ bắp cốt nhục thịt cùng tạng phủ, đem tự thân thể phách rèn luyện được giống như pháp bảo bình thường, cùng người giao chiến, không lấy ngoại vật vi chỗ dựa, bản thân chính là sát khí, lại còn sinh tồn năng lực cường .",
+        "index": 31
+      }
     },
     {
       "convert": "Pháp tu thì là chú trọng pháp lực tích lũy tu luyện, đem linh khí trong thiên địa dẫn vào thể nội, tiến một bước tịnh hóa, tinh túy, tiếp theo chứa đựng vu đan điền kinh mạch bên trong, phối hợp thuật pháp phóng thích, liền có thể có năng lực quỷ thần cũng không lường được, tu đến chỗ cao thâm, càng có thể di sơn đảo hải.",
       "dich": "Pháp tu thì là chú trọng tu luyện tích lũy pháp lực, dẫn linh khí thiên địa nhập vào trong cơ thể, từng bước thanh lọc, cô đọng, sau đó chứa đụng ở trong đan điền, kinh mạch, kết hợp với pháp thuật phóng ra, sẽ có thể có năng lực quỷ thần cũng không lường được, tu tới chỗ cao thâm thậm chí còn có thể dời non lấp bể.",
-      "suggest": "Pháp tu là chú trọng tích lũy pháp lực, đưa linh khí trong thiên địa vào trong cơ thể, tiến một bước tịnh hóa, tinh túy, tiếp theo là chứa đựng kinh mạch vu đan điền, phối hợp thuật pháp phóng thích, có thể có năng lực quỷ thần không thể lường được, tu đến cảnh giới cao thâm, lại có thể có năng lực quỷ thần không thể lường được, tu đến cảnh giới cao thâm, lại có thể di sơn đảo hải."
+      "suggest": "Pháp tu là chú trọng tích lũy pháp lực, đưa linh khí trong thiên địa vào trong cơ thể, tiến một bước tịnh hóa, tinh túy, tiếp theo là chứa đựng kinh mạch vu đan điền, phối hợp thuật pháp phóng thích, có thể có năng lực quỷ thần không thể lường được, tu đến cảnh giới cao thâm, lại có thể có năng lực quỷ thần không thể lường được, tu đến cảnh giới cao thâm, lại có thể di sơn đảo hải.",
+      "approved": true,
+      "chinese": {
+        "raw": "法修则是注重法力的积累修炼，将天地间的灵气引入体内，进一步净化，精粹，继而储存于丹田经脉之中，配合术法释放，便能有鬼神莫测之能，修到高深处，更能移山填海。",
+        "text": "法 tu thì là chú trọng pháp lực đích tích lũy tu luyện, đem linh khí trong thiên địa dẫn nhập thể nội, tiến thêm một bước tinh lọc, tinh túy, tiếp đó trữ tồn ở đan điền kinh mạch bên trong, phối hợp thuật pháp phóng thích, liền có thể có năng lực quỷ thần cũng không lường được, tu đến chỗ cao thâm, càng năng di sơn đảo hải .",
+        "index": 32
+      }
     },
     {
       "convert": "So với thể tu mà nói, cuốn sách này rõ ràng càng sùng bái pháp tu chi đạo, hắn thể phách mặc dù tương đối yếu đuối, nhưng thi pháp ngự vật, thủ đoạn tầng tầng lớp lớp, công kích biến hóa đa đoan, cũng có thể thông qua như là thôi động cùng mặc pháp khí, dược vật rèn luyện các loại thủ đoạn tăng lên bản thân, thường thường công thủ càng thêm toàn diện.",
       "dich": "So với Thể tu mà nói, cuốn sách này rõ ràng tôn sùng con đường tu pháp hơn, nói dù thể phách tương đối yếu nhược, nhưng thi pháp ngự vật, thủ đoạn tầng tầng lớp lớp, công kích biến hóa đa đoan, cũng có thể thông qua các loại thủ đoạn như trang bị điều khiển pháp khí, rèn luyện dược vật để tăng thực lực bản thân, thường thường công thủ càng thêm toàn diện.",
-      "suggest": "So với thể tu, cuốn sách này rõ ràng càng sùng bái pháp tu hơn, thể phách của hắn mặc dù tương đối yếu đuối, nhưng thi pháp ngự vật, thủ đoạn tầng tầng lớp lớp, công kích biến hóa đa đoan, cũng có thể thông qua việc thôi động và mặc pháp khí, dược vật rèn luyện các loại thủ đoạn tăng lên bản thân, thường thường công thủ lại càng thêm toàn diện."
+      "suggest": "So với thể tu, cuốn sách này rõ ràng càng sùng bái pháp tu hơn, thể phách của hắn mặc dù tương đối yếu đuối, nhưng thi pháp ngự vật, thủ đoạn tầng tầng lớp lớp, công kích biến hóa đa đoan, cũng có thể thông qua việc thôi động và mặc pháp khí, dược vật rèn luyện các loại thủ đoạn tăng lên bản thân, thường thường công thủ lại càng thêm toàn diện.",
+      "approved": true,
+      "chinese": {
+        "raw": "相比于体修而言，此书明显更推崇法修之道，其体魄虽较为孱弱，但施法御物，手段层出不穷，攻击变化多端，也能通过诸如催动和穿戴法器，药物淬炼等手段提升自身，往往攻防更加全面。",
+        "text": "So với tại thể tu mà nói, cuốn sách này rõ ràng càng tôn sùng 法 tu chi đạo, nó thể phách mặc dù tương đối yếu đuối, nhưng thi pháp 御 vật, thủ đoạn liên tiếp xuất hiện, công kích thay đổi thất thường, cũng có thể thông qua như là thúc động cùng mặc pháp khí, dược vật tôi luyện các loại thủ đoạn đề thăng tự thân, thường thường công thủ càng thêm toàn diện .",
+        "index": 33
+      }
     },
     {
       "convert": "Trong sách nhắc tới thứ ba loại lớn, thì là hồn tu, độ dài cực ít.",
       "dich": "Loại thứ ba được đề cập trong sách là Hồn tu, có điều nội dung rất ít.",
-      "suggest": "Trong sách nói đến ba loại lớn thứ ba thì là Hồn tu, độ dài cực ít."
+      "suggest": "Trong sách nói đến ba loại lớn thứ ba thì là Hồn tu, độ dài cực ít.",
+      "approved": true,
+      "chinese": {
+        "raw": "书中提到的第三大类，则是魂修，篇幅极少。",
+        "text": "Trong sách nhắc tới đích đệ tam đại loại, thì là 魂 tu, độ dài cực ít .",
+        "index": 34
+      }
     },
     {
       "convert": "Đối với hồn tu, viết cuốn sách này tác giả tựa hồ mang theo rõ ràng kỳ thị, chỉ nói hắn cũng không luyện thể, cũng không tu pháp, chuyên chú vào thần hồn chi lực tinh tu, quả thật tu hành này dị đoan.",
       "dich": "Đối với Hồn tu, tác giả viết cuốn sách này tựa hồ có ý kỳ thị rất rõ ràng, chỉ nói nó đã không luyện thể, cũng không tu pháp, chuyên chú vào tinh tu lực lượng thần hồn, quả thực là tu hành dị đoan.",
-      "suggest": "Đối với Hồn tu, trong cuốn sách này tác giả tựa hồ mang theo sự kỳ thị rõ ràng, chỉ nói hắn không luyện thể, cũng không tu pháp, chuyên chú tu luyện vào thần hồn lực, quả thật tu hành có chút dị đoan."
+      "suggest": "Đối với Hồn tu, trong cuốn sách này tác giả tựa hồ mang theo sự kỳ thị rõ ràng, chỉ nói hắn không luyện thể, cũng không tu pháp, chuyên chú tu luyện vào thần hồn lực, quả thật tu hành có chút dị đoan.",
+      "approved": true,
+      "chinese": {
+        "raw": "对于魂修，书写此书的作者似乎带有明显的歧视，只说其既不炼体，也不修法，专注于神魂之力的精修，实乃修行之异端。",
+        "text": "Đối với 魂 tu, viết cuốn sách này đích tác giả tựa hồ mang theo rõ ràng kỳ thị, chỉ nói nó cũng không luyện thể, cũng không tu pháp, chuyên chú vào thần hồn chi lực đích tinh tu, chính là tu hành chi dị đoan .",
+        "index": 35
+      }
     },
     {
       "convert": "\"Dị đoan\" cái này một từ đánh giá, có thể nói vẫn như cũ thấp kém.",
-      "dich": "Đánh giá bằng một từ 'Dị đoạn' này cũng tương đương với nói nó cực kỳ thấp kém.",
-      "suggest": "\"Đánh giá thấp\", đánh giá của hắn có thể nói vẫn thấp kém."
+      "dich": "Đánh giá bằng một từ 'Dị đoan' này cũng tương đương với nói nó cực kỳ thấp kém.",
+      "suggest": "\"Đánh giá thấp\", đánh giá của hắn có thể nói vẫn thấp kém.",
+      "approved": true,
+      "chinese": {
+        "raw": "“异端”这一词的评价，可谓极其低劣了。",
+        "text": "“ dị đoan ” này một từ đích đánh giá, có thể nói cực kỳ thấp kém rồi .",
+        "index": 36
+      }
     },
     {
       "convert": "Ở về sau, trong sách hay là đối hồn tu thủ đoạn làm một chút giản yếu miêu tả, nhưng nói đến, nhiều ít đều có chút mơ hồ.",
       "dich": "Ở phần sau, trong sách vẫn miêu tả giản lược một chút thủ đoạn của Hồn tu, có điều mọi miêu tả ít nhiều đều có chút huyền bí.",
-      "suggest": "Sau này, trong sách miêu tả thủ đoạn của Hồn Tu một chút đơn giản, nhưng nói đến nói đi nói lại nhiều điều mơ hồ."
+      "suggest": "Sau này, trong sách miêu tả thủ đoạn của Hồn Tu một chút đơn giản, nhưng nói đến nói đi nói lại nhiều điều mơ hồ.",
+      "approved": true,
+      "chinese": {
+        "raw": "在之后，书中还是对魂修的手段做了一些简要描述，但说起来的，多少都有些玄乎。",
+        "text": "Tại sau đó, trong sách vẫn là đối 魂 tu thủ đoạn làm một chút giản yếu miêu tả, nhưng nói lên tới, bao nhiêu đều có chút mơ hồ .",
+        "index": 37
+      }
     },
     {
       "convert": "Tỉ như trong sách nhắc tới, hồn Tu Đạt đến cảnh giới nhất định, liền có thể khống chế không hồn này Thi, điều khiển hắn như người sống hành tẩu nhảy vọt, thậm chí công kích chiến đấu.",
       "dich": "Ví như trong sách có nói rằng, Hồn tu đạt đến cảnh giới nhất định sẽ lập tức có thể khống chế thi thể không hồn, điều khiển nó chạy nhảy như người sống, thậm chí công kích chiến đấu.",
-      "suggest": "Tỉ như trong sách đã đề cập, Hồn Tu Đạt đến cảnh giới nhất định, là có thể khống chế Thi Thi không hồn này, điều khiển hắn như người sống hành tẩu, thậm chí công kích chiến đấu."
+      "suggest": "Tỉ như trong sách đã đề cập, Hồn Tu Đạt đến cảnh giới nhất định, là có thể khống chế Thi Thi không hồn này, điều khiển hắn như người sống hành tẩu, thậm chí công kích chiến đấu.",
+      "approved": true,
+      "chinese": {
+        "raw": "比如书中提到，魂修达到一定境界，便能控制无魂之尸，操控其如活人一般行走跳跃，甚至攻击战斗。",
+        "text": "Tỷ như trong sách nhắc tới, 魂 tu đạt đến cảnh giới nhất định, liền có thể khống chế vô 魂 chi thi, thao túng nó 如 người sống bình thường hành tẩu nhảy vọt, thậm chí công kích chiến 斗 .",
+        "index": 38
+      }
     },
     {
       "convert": "\"Con kia ngân miêu, cũng không biết đến tột cùng là thần thánh phương nào?\"",
       "dich": "\"Con mèo bạc kia không biết rốt cuộc là thần thánh phương nào?\"",
-      "suggest": "\"Con mèo bạc kia, không biết rốt cuộc là thần thánh phương nào?\""
+      "suggest": "\"Con mèo bạc kia, không biết rốt cuộc là thần thánh phương nào?\"",
+      "approved": true
     },
     {
       "convert": "Nhìn thấy cái này một lúc thời điểm, Viên Minh không tự giác liền nghĩ tới lúc trước ở Nhân Tiêu Vương trong động quật, ngân miêu khống chế tàn thi công kích tràng cảnh.",
       "dich": "Khi đọc đến đoạn này, Viên Minh bất giác nhớ đến cảnh tượng mèo bạc khống chế tàn thi tấn công Nhân Tiêu Vương trong động quật khi trước.",
-      "suggest": "Nhìn thấy cảnh này, Viên Minh không tự giác nhớ tới tràng cảnh trong động quật Nhân Tiêu Vương lúc trước, cảnh tượng công kích tàn bạo của con mèo bạc trong động quật lúc trước."
+      "suggest": "Nhìn thấy cảnh này, Viên Minh không tự giác nhớ tới tràng cảnh trong động quật Nhân Tiêu Vương lúc trước, cảnh tượng công kích tàn bạo của con mèo bạc trong động quật lúc trước.",
+      "approved": true
     },
     {
       "convert": "Liên quan tới hồn tu, trong sách có khác thần du cùng sưu hồn chi năng miêu tả.",
       "dich": "Liên quan tới Hồn tu, trong sách còn miêu tả năng lực khác nữa là thần du và sưu hồn.",
-      "suggest": "Liên quan đến Hồn tu, trong sách có miêu tả thần du và sưu hồn năng."
+      "suggest": "Liên quan đến Hồn tu, trong sách có miêu tả thần du và sưu hồn năng.",
+      "approved": true,
+      "chinese": {
+        "raw": "关于魂修，书中另有神游和搜魂之能的描述。",
+        "text": "Về 魂 tu, trong sách có khác thần du cùng sưu hồn chi năng đích miêu tả .",
+        "index": 40
+      }
     },
     {
       "convert": "Trong đó, liên quan tới thần du miêu tả nói là, hồn Tu Đạt đến tu vi nhất định, có thể thần hồn ly thể, Phùng hư ngự phong mà thần hành ngàn dặm, thậm chí lấy hồn thể chi tư, công kích người khác, giết này ở ngoài ngàn dặm.",
       "dich": "Trong đó, miêu tả liên quan tới thần du có nói, khi Hồn tu đạt đến một tu vi nhất định, có thể đưa thần hồn ly thể, phùng hư ngự phong mà thần hành ngàn dặm, thậm chí dùng hình thái hồn thể tấn công kẻ khác, giết địch ngoài ngàn dặm.",
-      "suggest": "Trong đó, miêu tả từ thần du nói rằng, Hồn Tu Đạt đến tu vi nhất định, có thể thần hồn ly thể, Phùng Hư ngự phong mà thần hành ngàn dặm, thậm chí dùng hồn thể tư để công kích người khác, giết người ngoài ngàn dặm."
+      "suggest": "Trong đó, miêu tả từ thần du nói rằng, Hồn Tu Đạt đến tu vi nhất định, có thể thần hồn ly thể, Phùng Hư ngự phong mà thần hành ngàn dặm, thậm chí dùng hồn thể tư để công kích người khác, giết người ngoài ngàn dặm.",
+      "approved": true,
+      "chinese": {
+        "raw": "其中，关于神游的描述是说，魂修达到一定修为，能够神魂离体，冯虚御风而神行千里，甚至以魂体之姿，攻击他人，杀之于千里之外。",
+        "text": "Trong đó, về thần du đích miêu tả nói là, 魂 tu đạt đến tu vi nhất định, có thể thần hồn ly thể, phùng hư ngự phong mà thần hành ngàn dặm, thậm chí dĩ hồn thể tư thế, công kích người khác, giết chi ở ngoài ngàn dặm .",
+        "index": 41
+      }
     },
     {
       "convert": "Mà nhất làm cho Viên Minh cảm thấy hứng thú, nhưng thật ra là sưu hồn năng lực.",
       "dich": "Nhưng thứ khiến Viên Minh thấy hứng thú nhất, thực ra chính là năng lực sưu hồn.",
-      "suggest": "Mà thứ làm Viên Minh cảm thấy hứng thú nhất chính là năng lực sưu hồn."
+      "suggest": "Mà thứ làm Viên Minh cảm thấy hứng thú nhất chính là năng lực sưu hồn.",
+      "approved": true,
+      "chinese": {
+        "raw": "而最让袁铭感兴趣的，其实是搜魂的能力。",
+        "text": "Mà nhất làm cho Viên Minh cảm thấy hứng thú đích, kỳ thực là sưu hồn đích năng lực .",
+        "index": 42
+      }
     },
     {
       "convert": "Có được này có thể, hồn tu liền có thể cưỡng ép đem thần trí của mình xâm nhập người khác thức hải, tùy ý lục soát dò xét người khác ký ức, thậm chí, còn có thể cưỡng ép xuyên tạc hoặc xóa đi người khác ký ức.",
       "dich": "Hồn tu có được năng lực này liền có thể cưỡng ép đưa thần trí của mình xâm nhập vào thức hải người khác, tùy ỳ lục soát tra xét ký ức người khác, thậm chí còn có thể cưỡng ép thay đổi hoặc xóa ký ức của người đó.",
-      "suggest": "Có được thứ này, hồn tu có thể cưỡng ép thần trí xâm nhập thức hải của người khác, tùy ý lục soát dò xét người khác, thậm chí còn có thể cưỡng ép xuyên tạc hoặc xóa đi ký ức của người khác."
+      "suggest": "Có được thứ này, hồn tu có thể cưỡng ép thần trí xâm nhập thức hải của người khác, tùy ý lục soát dò xét người khác, thậm chí còn có thể cưỡng ép xuyên tạc hoặc xóa đi ký ức của người khác.",
+      "approved": true,
+      "chinese": {
+        "raw": "拥有此能，魂修便可强行将自己的神识侵入他人识海，肆意搜索探查他人记忆，更有甚者，还能够强行篡改或抹除他人记忆。",
+        "text": "Nắm giữ này năng, 魂 tu liền có thể cường hành đem thần trí của mình xâm nhập người khác thức hải, tùy ý tìm tòi tra xét người khác ký ức, thậm chí, còn có thể cường hành bóp méo hoặc xóa đi người khác ký ức .",
+        "index": 43
+      }
     },
     {
       "convert": "\"Nếu là có này thần thông, không biết có thể hay không tìm về trí nhớ của mình?\"",
       "dich": "\"Nếu có thần thông này, không biết có thể lấy lại ký ức của mình không?\"",
-      "suggest": "\"Nếu có thần thông này, không biết có thể tìm về trí nhớ của mình không?\""
+      "suggest": "\"Nếu có thần thông này, không biết có thể tìm về trí nhớ của mình không?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh trong lòng âm thầm thầm nói.",
       "dich": "Viên Minh trong lòng thầm nói.",
-      "suggest": "Viên Minh thầm nói."
+      "suggest": "Viên Minh thầm nói.",
+      "approved": true
     },
     {
       "convert": "Theo tiếp tục hướng về sau xem tiếp đi, Viên Minh cũng dần dần hiểu rõ đến, hồn tu mặc dù có rõ ràng chỗ độc đáo, cũng đồng dạng tồn tại thiếu hụt trí mệnh.",
       "dich": "Tiếp tục đọc tới phần sau, Viên Minh cũng dần dần hiểu rõ hơn, hồn tư dù có chỗ độc đáo rõ ràng, nhưng cũng tồn tại thiếu sót trí mạng.",
-      "suggest": "Tiếp tục quan sát, Viên Minh cũng dần dần hiểu được, Hồn tu dù có chỗ độc đáo, cũng đồng dạng tồn tại thiếu hụt trí mạng."
+      "suggest": "Tiếp tục quan sát, Viên Minh cũng dần dần hiểu được, Hồn tu dù có chỗ độc đáo, cũng đồng dạng tồn tại thiếu hụt trí mạng.",
+      "approved": true,
+      "chinese": {
+        "raw": "随着继续向后看下去，袁铭也逐渐了解到，魂修虽然有明显的独到之处，也同样存在致命的缺陷。",
+        "text": "Theo tiếp tục hướng sau xem tiếp đi, Viên Minh cũng dần dần hiểu rõ đến, 魂 tu mặc dù có rõ ràng độc đáo chỗ, cũng cùng 样 tồn tại thiếu hụt trí mệnh .",
+        "index": 45
+      }
     },
     {
       "convert": "So với cái khác hai cái thể hệ, hồn tu điều kiện tu luyện càng thêm hà khắc, quá trình tu luyện cũng càng thêm hung hiểm, mặc dù có chính thống hồn tu công pháp chỉ đạo, cũng rất dễ dàng liền sẽ tẩu hỏa nhập ma.",
       "dich": "So với hai cách thức tu luyện kia, điều kiện tu luyện của Hồn tu hà khắc hơn, quá trình tu luyện cũng hung hiểm hơn, cho dù có công pháp Hồn tu chính thống hướng dẫn thì vẫn rất dễ bị tẩu hỏa nhập ma.",
-      "suggest": "So với hai thể hệ khác, điều kiện tu luyện Hồn Tu càng thêm hà khắc, quá trình tu luyện cũng càng thêm hung hiểm, cho dù có công pháp chính thống của Hồn Tu chỉ đạo, cũng rất dễ dàng tẩu hỏa nhập ma."
+      "suggest": "So với hai thể hệ khác, điều kiện tu luyện Hồn Tu càng thêm hà khắc, quá trình tu luyện cũng càng thêm hung hiểm, cho dù có công pháp chính thống của Hồn Tu chỉ đạo, cũng rất dễ dàng tẩu hỏa nhập ma.",
+      "approved": true,
+      "chinese": {
+        "raw": "相比于其他两个体系，魂修的修炼条件更加苛刻，修炼过程也更加凶险，即便有正统魂修功法指导，也很容易就会走火入魔。",
+        "text": "So với tại cái khác hai cái hệ thống, 魂 tu đích điều kiện tu luyện càng thêm hà khắc, tu luyện qua trình cũng càng thêm hung hiểm, mặc dù có chính thống 魂 tu công 法 chỉ đạo, cũng rất dễ dàng liền sẽ tẩu hỏa nhập ma .",
+        "index": 46
+      }
     },
     {
       "convert": "Kẻ nhẹ đánh mất thần trí biến thành ngu dại, kẻ nặng hồn phi phách tán, liền chuyển đời làm người cơ hội đều không.",
       "dich": "Người bị tẩu hỏa nhập ma, nhẹ thì thì đánh mất thần trí biến thành ngu dại, nặng thì hồn phi phách tán, đến cơ hội đầu thai chuyển thế làm người cũng không có.",
-      "suggest": "Kẻ nhẹ đánh mất thần trí biến thành ngu dại, kẻ nặng hồn phi phách tán, ngay cả cơ hội chuyển đời làm người cũng không có."
+      "suggest": "Kẻ nhẹ đánh mất thần trí biến thành ngu dại, kẻ nặng hồn phi phách tán, ngay cả cơ hội chuyển đời làm người cũng không có.",
+      "approved": true,
+      "chinese": {
+        "raw": "轻者丧失神智沦为痴傻，重者魂飞魄散，连转世为人的机会都无。",
+        "text": "Kẻ nhẹ đánh mất thần trí biến thành si ngốc, kẻ nặng hồn phi phách tán, liền chuyển đời làm người đích cơ hội đều vô .",
+        "index": 47
+      }
     },
     {
       "convert": "Viên Minh gặp đây, không khỏi âm thầm kinh chảy mồ hôi lạnh ướt sũng cả người, bản thân tựa hồ đến nay chưa xuất hiện tương tự tình hình, cũng không biết là vận khí tốt, vẫn là bởi vì ngân miêu cho mình kia bộ « Minh Nguyệt Quyết » tương đối đặc biệt?",
       "dich": "Viên Minh thấy thế, không khỏi âm thầm kinh hãi, mồ hôi lạnh túa ra ướt sũng cả người, bản thân hắn hình như trước giờ chưa xuất hiện tình trạng như vậy, cũng chẳng biết là do may mắn, hay là vì bộ Minh Nguyệt Quyết mà mèo bạc cho hắn tương đối đặc biệt?",
-      "suggest": "Viên Minh thấy vậy, không khỏi âm thầm chảy mồ hôi lạnh ướt đẫm cả người, tựa hồ từ đó tới giờ chưa từng xuất hiện tình huống tương tự, cũng không biết là vận khí tốt hay là bởi vì Minh Nguyệt Quyết mà mình mang đến cho mình có đặc điểm gì đó tương tự?"
+      "suggest": "Viên Minh thấy vậy, không khỏi âm thầm chảy mồ hôi lạnh ướt đẫm cả người, tựa hồ từ đó tới giờ chưa từng xuất hiện tình huống tương tự, cũng không biết là vận khí tốt hay là bởi vì Minh Nguyệt Quyết mà mình mang đến cho mình có đặc điểm gì đó tương tự?",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭见此，不由暗暗惊出一身冷汗，自己似乎至今尚未出现类似的情形，也不知是运气好，还是因为银猫给自己的那部《冥月诀》比较特别？",
+        "text": "Viên Minh kiến này, bất giác âm thầm kinh chảy mồ hôi lạnh ướt sũng cả người, chính mình tựa hồ đến nay còn chưa xuất hiện tương tự tình hình, cũng không biết là vận khí tốt, hay là bởi vì ngân mèo cho mình đích kia 部 《 Minh Nguyệt quyết 》 tương đối đặc biệt ?",
+        "index": 48
+      }
     },
     {
       "convert": "Hồi tưởng lại, dưới mắt hắn tu hành bị ngăn trở, tiến triển chậm chạp, ngược lại là không có phát giác có cái gì tẩu hỏa nhập ma phong hiểm, ngược lại cảm thấy công pháp này có thể làm dịu bản thân trước đây tu luyện Phi Mao Thuật lưu lại phản phệ tai hoạ ngầm, đây cũng là hắn tiếp tục tu luyện chủ yếu động lực.",
       "dich": "Nhớ lại thì hiện tại tuy việc tu hành của hắn gặp cản trở, tiến triển chậm chạp, nhưng không có phát giác dấu hiệu nguy hiểm gì như tẩu hỏa nhập ma, trái lại còn cảm thấy công pháp này có thể làm dịu mầm họa phản phệ do việc tu luyện Phi Mao Thuật trước đây gây nên, đó cũng chính là động lực chủ yếu khiến hắn tiếp tục tu luyện.",
-      "suggest": "Hồi tưởng lại, trước mắt hắn tu hành bị cản trở, tiến triển chậm chạp, trái lại không phát giác có nguy hiểm tẩu hỏa nhập ma gì, trái lại cảm thấy công pháp này có thể làm dịu đi tai họa ngầm do Phi Mao Thuật trước đây lưu lại sau khi tu luyện Phi Mao Thuật, đây cũng là động lực chủ yếu hắn tiếp tục tu luyện."
+      "suggest": "Hồi tưởng lại, trước mắt hắn tu hành bị cản trở, tiến triển chậm chạp, trái lại không phát giác có nguy hiểm tẩu hỏa nhập ma gì, trái lại cảm thấy công pháp này có thể làm dịu đi tai họa ngầm do Phi Mao Thuật trước đây lưu lại sau khi tu luyện Phi Mao Thuật, đây cũng là động lực chủ yếu hắn tiếp tục tu luyện.",
+      "approved": true,
+      "chinese": {
+        "raw": "回想起来，眼下他修行受阻，进展缓慢，倒是没察觉有什么走火入魔的风险，反而觉得此功法能缓解自己此前修炼披毛术所留下的反噬隐患，这也是他继续修炼的主要动力。",
+        "text": "Hồi tưởng lại, trước mắt hắn tu hành bị ngăn trở, tiến triển thong thả, ngược lại không phát hiện có cái gì tẩu hỏa nhập ma phong hiểm, ngược lại cảm thấy công pháp này năng hoãn giải chính mình trước đó tu luyện Phi Mao Thuật lưu lại phản phệ tai hoạ ngầm, cái này cũng là hắn tiếp tục tu luyện đích chủ yếu động lực .",
+        "index": 49
+      }
     },
     {
       "convert": "Viên Minh thậm chí cảm thấy đến, có lẽ đây là cuốn sách này tác giả đối hồn tu thành kiến hạ một loại nói ngoa, hơi có chút xem thường.",
       "dich": "Viên Minh thậm chí còn cảm thấy rằng, có lẽ đây là sự cường điệu quá mức xuất phát từ thành kiến với Hồn tu của tác giả cuốn sách, do đó hắn có chút không đồng tình.",
-      "suggest": "Viên Minh thậm chí cảm thấy có lẽ đây là một loại nói ngoa với hồn tu vi của hắn, có chút xem thường."
+      "suggest": "Viên Minh thậm chí cảm thấy có lẽ đây là một loại nói ngoa với hồn tu vi của hắn, có chút xem thường.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭甚至觉得，或许这是此书作者对魂修偏见下的一种夸大其词，颇有些不以为然。",
+        "text": "Viên Minh thậm chí cảm thấy, có lẽ đây là cuốn sách này tác giả đối 魂 tu thành kiến hạ đích một loại nói ngoa, hơi có chút không cho là đúng .",
+        "index": 50
+      }
     },
     {
       "convert": "Phải biết, Phi Mao Thuật ngày nay vẫn là hắn lâm trận lúc đối địch trọng yếu dựa vào, ở không có đạt được tốt hơn ngăn địch thủ đoạn trước, hắn vẫn không có ý định từ bỏ, Minh Nguyệt Quyết tự nhiên cũng là không thể không sửa.",
       "dich": "Phải biết rằng, Phi Mao Thuật hiện tại vẫn là chỗ dựa chủ yếu của hắn mỗi khi lâm trận đối địch, hắn không có ý định từ bỏ nó trước khi có được thủ đoạn ngăn địch tốt hơn, vậy nên dĩ nhiên không thể không tiếp tục tu luyện Minh Nguyệt Quyết.",
-      "suggest": "Phải biết rằng Phi Mao Thuật ngày nay vẫn là chỗ dựa quan trọng nhất của hắn lúc lâm trận đối địch, trước khi không có được thủ đoạn ngăn địch tốt hơn, hắn vẫn không có ý định từ bỏ, Minh Nguyệt Quyết đương nhiên không thể không sửa đổi."
+      "suggest": "Phải biết rằng Phi Mao Thuật ngày nay vẫn là chỗ dựa quan trọng nhất của hắn lúc lâm trận đối địch, trước khi không có được thủ đoạn ngăn địch tốt hơn, hắn vẫn không có ý định từ bỏ, Minh Nguyệt Quyết đương nhiên không thể không sửa đổi.",
+      "approved": true,
+      "chinese": {
+        "raw": "要知道，披毛术如今仍是他临阵对敌时的重要仰仗，在没有得到更好的御敌手段前，他仍不打算放弃，冥月诀自然也是非修不可了。",
+        "text": "Nên biết đạo, Phi Mao Thuật ngày nay vẫn là hắn lâm trận đối địch thời đích trọng yếu dựa vào, tại không có được đến tốt hơn ngăn địch thủ đoạn trước, hắn vẫn không có ý định buông tha, Minh Nguyệt quyết tự nhiên cũng là không thể không sửa .",
+        "index": 51
+      }
     },
     {
       "convert": "Về sau, Viên Minh lại có ý định tìm kiếm liên quan tới hồn tu tư liệu, chỉ tiếc đơn độc ghi lại hồn tu nội dung hoàn toàn không có, cùng cái khác nội dung xen lẫn cùng một chỗ, ngược lại là có một ít.",
       "dich": "Tiếp đó, Viên Minh lại có ý định tìm kiếm thêm tư liệu liên quan tới Hồn tu, chỉ tiếc không có quyển nào mang nội dung nói riêng về Hồn tu, chỉ có một số cuốn ghi nội dung này xen lẫn các nội dung khác.",
-      "suggest": "Sau đó, Viên Minh lại có ý định tìm kiếm tư liệu liên quan đến Hồn Tu, chỉ tiếc nội dung ghi lại hoàn toàn không có, cùng với những nội dung khác trùng lặp nhau, trái lại còn có thêm một ít."
+      "suggest": "Sau đó, Viên Minh lại có ý định tìm kiếm tư liệu liên quan đến Hồn Tu, chỉ tiếc nội dung ghi lại hoàn toàn không có, cùng với những nội dung khác trùng lặp nhau, trái lại còn có thêm một ít.",
+      "approved": true,
+      "chinese": {
+        "raw": "之后，袁铭又有意寻找关于魂修的资料，只可惜单独记述魂修的内容完全没有，和其他内容夹杂在一起的，倒是有一些。",
+        "text": "Sau đó, Viên Minh lại có ý định tìm kiếm về 魂 tu đích tư liệu, chỉ đáng tiếc đơn độc ghi lại 魂 tu đích nội dung hoàn toàn không có, cùng cái khác nội dung pha trộn cùng nhau đích, ngược lại có một ít .",
+        "index": 52
+      }
     },
     {
       "convert": "Có thể những nội dung này rải rác hỗn tạp không nói, thậm chí lẫn nhau tồn tại tương hỗ bác bỏ nội dung, căn bản khó phân biệt đúng sai thật giả.",
       "dich": "Có điều những nội dung này không chỉ hỗn tạp phân tán mà thậm chí còn tồn tại những chỗ mâu thuẫn, bác bỏ lẫn nhau, cơ bản khó mà phân biệt đúng sai.",
-      "suggest": "Nhưng những nội dung này quá nhiều không nói, thậm chí còn tồn tại những nội dung tương hỗ bác bỏ lẫn nhau, căn bản khó phân biệt đúng sai thật giả."
+      "suggest": "Nhưng những nội dung này quá nhiều không nói, thậm chí còn tồn tại những nội dung tương hỗ bác bỏ lẫn nhau, căn bản khó phân biệt đúng sai thật giả.",
+      "approved": true,
+      "chinese": {
+        "raw": "可这些内容零散驳杂不说，甚至彼此存在相互驳斥的内容，根本难辨对错真假。",
+        "text": "Nhưng này chút nội dung rải rác pha tạp không nói, thậm chí lẫn nhau tồn tại tương hỗ bác bỏ đích nội dung, căn bản khó phân biệt đúng sai thật giả .",
+        "index": 53
+      }
     },
     {
       "convert": "Bất quá có một chút, những tài liệu này ngược lại là lạ thường nhất trí.",
       "dich": "Nhưng có một điểm mà những tài liệu này lại nhất trí lạ thường.",
-      "suggest": "Tuy nhiên có một số điểm trái ngược lại rất giống nhau."
+      "suggest": "Tuy nhiên có một số điểm trái ngược lại rất giống nhau.",
+      "approved": true,
+      "chinese": {
+        "raw": "不过有一点，这些资料倒是出奇的一致。",
+        "text": "Chẳng qua có một chút, những tài liệu này ngược lại thần kỳ đích nhất trí .",
+        "index": 54
+      }
     },
     {
       "convert": "Đó chính là bọn họ đối hồn tu thái độ, tốt một chút chính là sợ mà xa này, không tốt lại cho rằng hồn tu hết thảy đều là dị đoan, đồng thời nói hồn tu bên trong, bảy tám phần mười đều là tà tu, không có đi đường tà đạo, ngược lại không đến ba thành.",
       "dich": "Đó chính là thái độ của bọn họ với Hồn tu, tốt một chút thì là kính nhi viễn chi, không tốt thì cho rằng hết thảy Hồn tu đều là dị đoan, hơn nữa có nói trong số Hồn tu thì bảy tám phần mười là tà tu, kẻ không đi theo đường tà chỉ có chưa tới ba thành.",
-      "suggest": "Đó chính là thái độ của bọn họ đối với Hồn Tu, tốt một chút thì sợ mà xa, không thì cho rằng tất cả mọi dị đoan trong Hồn Tu đều là dị đoan, đồng thời cũng nói bảy tám phần mười hồn tu đều là tà tu, không có đi đường tà đạo, trái lại không đến ba thành."
+      "suggest": "Đó chính là thái độ của bọn họ đối với Hồn Tu, tốt một chút thì sợ mà xa, không thì cho rằng tất cả mọi dị đoan trong Hồn Tu đều là dị đoan, đồng thời cũng nói bảy tám phần mười hồn tu đều là tà tu, không có đi đường tà đạo, trái lại không đến ba thành.",
+      "approved": true,
+      "chinese": {
+        "raw": "那就是他们对魂修的态度，好一点的是畏而远之，不好的则认为魂修统统都是异端，并且说魂修之中，十之七八都是邪修，没有走邪路的，反而不到三成。",
+        "text": "Đó chính là bọn họ đối 魂 tu đích thái độ, tốt một chút chính là sợ mà xa chi, không tốt lại cho rằng 魂 tu hết thảy đều là dị đoan, mà còn nói 魂 tu bên trong, bảy tám phần mười đều là tà tu, không có đi đường tà đạo đích, ngược lại không đến ba thành .",
+        "index": 55
+      }
     },
     {
       "convert": "Viên Minh căn cứ vào trước đây vào trước là chủ phán đoán, đối với cái này từ chối cho ý kiến, chỉ nhận định hồn tu thủ đoạn quỷ bí, lại liên quan đến thần hồn ký ức một chuyện, ngược lại quyết định tiến một bước hảo hảo tu luyện « Minh Nguyệt Quyết ».",
       "dich": "Viên Minh căn cứ vào ấn tượng trước đó mà phán đoán, đối với việc này cũng không nói đúng sai, chỉ nhận định Hồn tu có thủ đoạn quỷ bí, hơn nữa nó còn liên quan đến chuyện thần hồn, ký ức nên trái lại quyết định tiến thêm một bước, chuyên tâm tu luyện Minh Nguyệt Quyết.",
-      "suggest": "Viên Minh căn cứ vào phán đoán trước đây là chủ, đối với việc này từ chối cho ý kiến, chỉ nhận định thủ đoạn quỷ bí của hồn tu là có liên quan đến ký ức thần hồn, ngược lại quyết định tiến một bước tu luyện Minh Nguyệt Quyết."
+      "suggest": "Viên Minh căn cứ vào phán đoán trước đây là chủ, đối với việc này từ chối cho ý kiến, chỉ nhận định thủ đoạn quỷ bí của hồn tu là có liên quan đến ký ức thần hồn, ngược lại quyết định tiến một bước tu luyện Minh Nguyệt Quyết.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭基于此前先入为主的判断，对此不置可否，只认定了魂修的手段诡秘，又涉及神魂记忆一事，反而决定进一步好好修炼《冥月诀》。",
+        "text": "Viên Minh dựa vào trước đó ấn tượng ban đầu giữ vai trò chủ đạo đích phán đoán, đối với cái này từ chối cho ý kiến, chỉ nhận định rồi 魂 tu thủ đoạn quỷ bí, lại liên quan thần hồn ký ức một chuyện, ngược lại quyết định tiến thêm một bước hảo hảo tu luyện 《 Minh Nguyệt quyết 》 .",
+        "index": 56
+      }
     },
     {
       "convert": "Thả lại lấy sau cùng đến một nhóm tư liệu về sau, Viên Minh duỗi lưng một cái, đang định lại đi tìm chút tư liệu đọc qua lúc, trên bậc thang đi xuống một người mặc chấp sự phục sức nam tử trung niên, trong miệng hô to lấy \"Giờ Tuất sắp tới, sắp bế các.\"",
       "dich": "Sau khi trả lại đống tài liệu lấy xuống sau cùng, Viên Minh vươn vai, đang định tìm thêm một ít tài liệu để đọc thì một người đàn ông trung niên ăn mặc như chấp sự đi xuống cầu thang, miệng hô lớn: \"Sắp đến giờ Tuất, chuẩn bị đóng các.\"",
-      "suggest": "Sau khi thu thập xong hết thảy, Viên Minh duỗi lưng một cái, đang định đi tìm thêm tư liệu xem sao thì trên bậc thang đi xuống một nam tử trung niên mặc phục sức mặc chấp sự đi xuống, miệng hô to \"Giờ Tuất sắp tới, sắp bế các.\""
+      "suggest": "Sau khi thu thập xong hết thảy, Viên Minh duỗi lưng một cái, đang định đi tìm thêm tư liệu xem sao thì trên bậc thang đi xuống một nam tử trung niên mặc phục sức mặc chấp sự đi xuống, miệng hô to \"Giờ Tuất sắp tới, sắp bế các.\"",
+      "approved": true,
+      "chinese": {
+        "raw": "放回最后拿到的一批资料后，袁铭伸了个懒腰，正打算再去找些资料翻阅时，楼梯上走下来一个身穿执事服饰的中年男子，口中高喊着“戌时将至，即将闭阁。”",
+        "text": "Thả lại tối hậu giành được đích một nhóm tư liệu sau, Viên Minh duỗi cái eo lưng mỏi, đang định lại đi tìm chút tư liệu lật xem thời, thang lầu thượng đi xuống một người mặc chấp sự phục sức đích nam tử trung niên, trong miệng hô lớn lấy “ giờ Tuất buông xuống, sắp bế các . ”",
+        "index": 57
+      }
     },
     {
       "convert": "Hắn lúc này mới phát hiện, bản thân trong bất tri bất giác, đã ở cái này Quy Tàng Các ở bên trong xem đã hơn nửa ngày sách.",
       "dich": "Hắn lúc này mới phát hiện, mình trong lúc bất tri bất giác đã ở trong Quy Tàng Các đọc sách hơn nửa ngày.",
-      "suggest": "Lúc này hắn mới phát hiện, trong bất tri bất giác, đã ở trong Quy Tàng Các hơn nửa ngày rồi."
+      "suggest": "Lúc này hắn mới phát hiện, trong bất tri bất giác, đã ở trong Quy Tàng Các hơn nửa ngày rồi.",
+      "approved": true,
+      "chinese": {
+        "raw": "他这才发现，自己不知不觉间，已经在这归藏阁里看了大半天书。",
+        "text": "Hắn lúc này mới phát hiện, chính mình trong bất tri bất giác, đã tại này quy tàng các trong nhìn hơn nửa ngày sách .",
+        "index": 58
+      }
     },
     {
       "convert": "Hắn không có lập tức rời đi, mà là lại cưỡi ngựa xem hoa địa ở lầu một lượn một vòng, cho đến giờ Tuất mới lưu luyến không rời rời đi....",
       "dich": "Hắn không có rời đi ngay mà dạo bước xem qua một vòng tầng một, tới giờ Tuất mới lưu luyến rời đi...",
-      "suggest": "Hắn không có rời đi ngay, mà lại cưỡi ngựa xem hoa ở trên lầu một cưỡi ngựa, cho đến tận giờ Tuất mới luyến tiếc không rời đi..."
+      "suggest": "Hắn không có rời đi ngay, mà lại cưỡi ngựa xem hoa ở trên lầu một cưỡi ngựa, cho đến tận giờ Tuất mới luyến tiếc không rời đi...",
+      "approved": true
     },
     {
       "convert": "Ngày thứ hai buổi chiều, Viên Minh tiến về Hành Chấp Đường.",
       "dich": "Buổi chiều ngày hôm sau, Viên Minh tiến về Hành Chấp Đường.",
-      "suggest": "Buổi chiều ngày thứ hai, Viên Minh trở về Hành Chấp Đường."
+      "suggest": "Buổi chiều ngày thứ hai, Viên Minh trở về Hành Chấp Đường.",
+      "approved": true,
+      "chinese": {
+        "raw": "第二天下午，袁铭前往行执堂。",
+        "text": "Ngày thứ hai buổi chiều, Viên Minh đi về phía trước hành cầm 堂 .",
+        "index": 61
+      }
     },
     {
       "convert": "Lấy hắn ngày nay tri thức lịch duyệt, tăng thêm phi phàm trí nhớ, cùng đối Hỏa Sàm Nhi quen thuộc, tự nhiên thuận lợi thông qua được quản lý chấp sự sơ bộ tán thành, xác nhận đến chiếu khán Hỏa Chồn nhiệm vụ.",
       "dich": "Lấy tri thức kinh nghiệm của hắn hiện tại, cộng thêm trí nhớ phi phàm và sự thân thuộc với Hỏa Sàm Nhi, tự nhiên thuận lợi thông quan sự chấp thuận sơ bộ của chấp sự quản lý, tiếp nhận nhiệm vụ trông nom chồn lửa.",
-      "suggest": "Với tri thức ngày nay của hắn, cộng thêm trí nhớ phi phàm, cùng với sự thân thuộc với Hỏa Sàm Nhi, đương nhiên thuận lợi thông qua chấp sự quản lý chấp sự tán thành, xác nhận nhiệm vụ chiếu khán Hỏa Chồn."
+      "suggest": "Với tri thức ngày nay của hắn, cộng thêm trí nhớ phi phàm, cùng với sự thân thuộc với Hỏa Sàm Nhi, đương nhiên thuận lợi thông qua chấp sự quản lý chấp sự tán thành, xác nhận nhiệm vụ chiếu khán Hỏa Chồn.",
+      "approved": true,
+      "chinese": {
+        "raw": "以他如今的知识阅历，加上非凡的记忆力，以及对火馋儿的熟悉，自然顺利通过了管理执事的初步认可，接取到了照看火貂的任务。",
+        "text": "Dĩ hắn ngày nay đích tri thức lịch duyệt, tăng thêm phi phàm đích trí nhớ, cùng với đối lửa thèm muốn nhi đích quen thuộc, tự nhiên thuận lợi thông qua được quản lý chấp sự đích bước đầu thừa nhận, nhận đến rồi trông nom lửa chồn đích nhiệm vụ .",
+        "index": 62
+      }
     },
     {
       "convert": "Sau đó, hắn liền căn cứ nhiệm vụ chỉ dẫn, trực tiếp trở về Hỏa Luyện Đường, đi tìm Tam động chủ.",
       "dich": "Sau đó, hắn liền căn cứ theo chỉ dẫn nhiệm vụ, trực tiếp trở về Hỏa Luyện Đường tìm Tam động chủ.",
-      "suggest": "Sau đó, hắn căn cứ nhiệm vụ chỉ dẫn, trực tiếp trở về Hỏa Luyện Đường, đi tìm Tam động chủ."
+      "suggest": "Sau đó, hắn căn cứ nhiệm vụ chỉ dẫn, trực tiếp trở về Hỏa Luyện Đường, đi tìm Tam động chủ.",
+      "approved": true,
+      "chinese": {
+        "raw": "随后，他便根据任务的指引，直接返回火炼堂，去寻找三洞主。",
+        "text": "Theo sau, hắn liền căn cứ nhiệm vụ chỉ dẫn, trực tiếp phản hồi hỏa luyện 堂, đi tìm ba động chủ .",
+        "index": 63
+      }
     },
     {
       "convert": "Tam động chủ sống một mình viện lạc, tọa lạc tại hậu sơn một chỗ yên lặng trong rừng trúc, hoàn cảnh mười phần thanh u.",
       "dich": "Tam động chủ sống trong một việc lạc riêng, tọa lạc trong một rừng trúc hẻo lánh phía sau núi, hoàn cảnh vô cùng thanh tĩnh.",
-      "suggest": "Tam động chủ sống một mình, tọa lạc trong một khu trúc lâm yên tĩnh, hoàn cảnh vô cùng thanh u."
+      "suggest": "Tam động chủ sống một mình, tọa lạc trong một khu trúc lâm yên tĩnh, hoàn cảnh vô cùng thanh u.",
+      "approved": true,
+      "chinese": {
+        "raw": "三洞主独居的院落，坐落在后山一处僻静的竹林中，环境十分清幽。",
+        "text": "Ba động chủ sống một mình đích sân nhỏ, tọa lạc tại phía sau núi một chỗ vắng lặng đích trong rừng trúc, hoàn cảnh thập phần thanh u .",
+        "index": 64
+      }
     },
     {
       "convert": "Viên Minh ở hỏi thăm mấy cái đồng môn về sau, mới tìm được thông hướng bên kia đường, chỉ là không đợi hắn đi đến cái rừng trúc kia, nửa đường liền gặp Trần Uyển.",
       "dich": "Sau khi hỏi thăm mấy vị đồng môn, Viên Minh mới tìm được con đường dẫn sang bên đó, chỉ là không đợi hắn đi đến rừng trúc kia thì giữa đường đã gặp Trần Uyển.",
-      "suggest": "Viên Minh sau khi hỏi thăm mấy người đồng môn mới tìm được hướng thông đạo bên kia, chỉ là không đợi hắn tới được trúc lâm, nửa đường đã gặp Trần Uyển."
+      "suggest": "Viên Minh sau khi hỏi thăm mấy người đồng môn mới tìm được hướng thông đạo bên kia, chỉ là không đợi hắn tới được trúc lâm, nửa đường đã gặp Trần Uyển.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭在询问了几个同门之后，才找到了通往那边的路，只是还没等他走到那片竹林，半路就遇到了陈婉。",
+        "text": "Viên Minh tại hỏi thăm mấy cái cùng môn sau đó, mới tìm đến rồi đi thông bên kia lộ, chỉ là không đợi hắn đi đến cái rừng trúc kia, nửa đường liền gặp phải rồi trần uyển .",
+        "index": 65
+      }
     },
     {
       "convert": "Hỏa Luyện Đường ngoại trừ Tam động chủ thu ba cái nội môn đệ tử bên ngoài, cái khác mấy cái trưởng lão phần lớn chỉ có một cái nội môn đệ tử, hoặc là dứt khoát liền không có thu đồ.",
       "dich": "Hỏa Luyện Đường ngoại trừ Tam động chủ thu ba đệ tử nội môn ra, mấy vị trưởng lão khác đa phần chỉ có một đệ tử nội môn, hoặc là dứt khoát không nhận đồ đệ.",
-      "suggest": "Hỏa Luyện Đường ngoại trừ Tam động chủ thu ba đệ tử nội môn, những trưởng lão khác thì chỉ thu một đệ tử nội môn, hoặc là dứt khoát không thu đồ."
+      "suggest": "Hỏa Luyện Đường ngoại trừ Tam động chủ thu ba đệ tử nội môn, những trưởng lão khác thì chỉ thu một đệ tử nội môn, hoặc là dứt khoát không thu đồ.",
+      "approved": true,
+      "chinese": {
+        "raw": "火炼堂除了三洞主收了三个内门弟子以外，其他几个长老大多只有一个内门弟子，或者干脆就没有收徒。",
+        "text": "Hỏa luyện 堂 trừ bỏ ba động chủ thu ba trong đó môn đệ tử ngoài ra, cái khác mấy cái trưởng lão phần lớn chỉ có một nội môn đệ tử, hoặc là dứt khoát liền không có thu đồ .",
+        "index": 66
+      }
     },
     {
       "convert": "Ngày bình thường, những này nội môn đệ tử phần lớn là phụng dưỡng ở riêng phần mình trái phải sư phụ, tùy thời tiếp nhận tự thân dạy dỗ, Trần Uyển cũng không ngoại lệ, cho nên từ lúc nhập môn đến nay, Viên Minh liền cực ít cùng với nàng chạm mặt.",
       "dich": "Ngày thường nhưng đệ tử nội môn này đa phần đều phụng dưỡng bên cạnh sư phụ của mình, sẵn sàng tiếp nhận ngôn truyền thân giáo, Trần Uyển cũng không ngoại lệ, thế nên từ khi nhập môn tới này, Viên Minh rất ít gặp nàng.",
-      "suggest": "Ngày bình thường, những đệ tử nội môn này phần lớn được phụng dưỡng bên trái sư phụ, tùy thời tiếp nhận sư phụ dạy dỗ, Trần Uyển cũng không ngoại lệ, cho nên từ khi nhập môn đến nay, Viên Minh cũng không ngoại lệ, cho nên từ khi nhập môn đến nay, Viên Minh cũng không ngoại lệ, cho nên từ khi nhập môn đến nay, Viên Minh rất ít khi đụng mặt với nàng."
-    },
-    {
-      "dich": "**Chú giải**"
-    },
-    {
-      "dich": "1."
-    },
-    {
-      "dich": "Địa hình đồ: Bản đồ địa hình."
-    },
-    {
-      "dich": "2."
-    },
-    {
-      "dich": "Ngôn truyền thân giáo: Dùng lời để dạy dỗ, dùng bản thân làm tấm gương."
-    },
-    {
-      "dich": "Ý trong chương là học theo lời nói và hành động của sư phụ, coi đó là chuẩn mực."
+      "suggest": "Ngày bình thường, những đệ tử nội môn này phần lớn được phụng dưỡng bên trái sư phụ, tùy thời tiếp nhận sư phụ dạy dỗ, Trần Uyển cũng không ngoại lệ, cho nên từ khi nhập môn đến nay, Viên Minh cũng không ngoại lệ, cho nên từ khi nhập môn đến nay, Viên Minh cũng không ngoại lệ, cho nên từ khi nhập môn đến nay, Viên Minh rất ít khi đụng mặt với nàng.",
+      "approved": true,
+      "chinese": {
+        "raw": "平日里，这些内门弟子大都是侍奉在各自师父左右，随时接受言传身教，陈婉也不例外，故而自打入门以来，袁铭就极少跟她碰面了。",
+        "text": "Ngày thường, những này nội môn đệ tử phần lớn là hầu hạ tại mỗi cái trái phải sư phụ, tùy thời tiếp thụ lời nói và việc làm đều mẫu mực, trần uyển cũng không ngoại lệ, cho nên từ lúc nhập môn tới nay, Viên Minh liền cực ít cùng với nàng chạm mặt .",
+        "index": 67
+      }
     }
-  ]
+  ],
+  "currentWorkingLine": 71,
+  "changed": true
 }

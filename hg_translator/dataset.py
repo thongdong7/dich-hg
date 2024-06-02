@@ -37,14 +37,14 @@ def get_full_dataset():
                     for i, line in enumerate(data["lines"]):
                         if (
                             line.get("approved")
-                            and line.get("convert")
+                            and line.get("chinese")
                             and line.get("dich")
                         ):
                             # Ignore too long line
-                            convert_words = len(line["convert"].split(" "))
-                            if convert_words > 100:
+                            chinese_words = len(line["chinese"]["raw"])
+                            if chinese_words > 100:
                                 print(
-                                    f"Line {file_id}_{i} is too long ({convert_words} words), ignoring...",
+                                    f"Line {file_id}_{i} is too long ({chinese_words} words), ignoring...",
                                     flush=True,
                                 )
                                 continue
@@ -52,8 +52,8 @@ def get_full_dataset():
                             yield {
                                 "id": f"{file_id}_{i}",
                                 "translation": {
-                                    "convert": line["convert"],
-                                    "dich": line["dich"],
+                                    "zh": line["chinese"]["raw"],
+                                    "vi": line["dich"],
                                 },
                             }
 

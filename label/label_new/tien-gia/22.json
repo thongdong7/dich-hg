@@ -23,7 +23,12 @@
           0.18
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭在湖边挖了一个土坑，将尸体掩埋后，站在有些孤凉的小土包前，呆立了半晌。",
+        "text": "Viên Minh ở bên hồ đào một cái hố đất, đem thi thể vùi lấp sau, đứng tại có chút cô lương đích tiểu đống đất trước, đứng ngẩn ngơ sau một lúc lâu .",
+        "index": 0
+      }
     },
     {
       "convert": "\"Ngươi hẳn là sớm đã đầu thai chuyển thế đi, đời sau nguyện ngươi không còn vì thú nô, cái này con đường tu tiên tàn khốc như vậy, chẳng bằng một giới phàm phu tục tử tới tiêu dao.\"",
@@ -35,7 +40,12 @@
           0.25
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "“你应该早已投胎转世了吧，下一世愿你不再为兽奴，这修仙之路如此残酷，倒不如一介凡夫俗子来的逍遥。”",
+        "text": "“ ngươi hẳn phải sớm đã đầu thai chuyển thế nhỉ, đời sau nguyện ngươi không còn vi 兽 nô, này con đường tu tiên tàn khốc như vậy, chẳng bằng một kẻ phàm phu tục tử tới tiêu dao . ”",
+        "index": 1
+      }
     },
     {
       "convert": "\"Hôm nay ngươi còn có ta vì ngươi vùi lấp thi cốt, ngày khác nếu ta gặp bất trắc, lại có ai tới thay ta nhặt xác?\"",
@@ -47,7 +57,12 @@
           0.32
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "“今日你尚有我为你掩埋尸骨，他日若我遭遇不测，又有谁来替我收尸？”",
+        "text": "“ hôm nay ngươi còn có ta vì ngươi vùi lấp thi cốt, ngày khác nếu ta gặp bất trắc, lại có ai tới thay ta nhặt xác ? ”",
+        "index": 2
+      }
     },
     {
       "convert": "\"Thiên địa bất nhân, mạnh được yếu thua, dưới mắt nếu như ta không cách nào dựa vào chính mình thoát khỏi thú nô thân phận, bái nhập Bích La Động, thời gian tới kết quả của ta chỉ sợ còn không bằng ngươi.\"",
@@ -59,21 +74,36 @@
           0.43
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "“天地不仁，弱肉强食，眼下如果我无法靠自己摆脱兽奴身份，拜入碧罗洞，未来我的下场恐怕还不如你。”",
+        "text": "“ thiên địa bất nhân, cá lớn nuốt cá bé, trước mắt nếu như ta vô pháp dựa vào chính mình thoát khỏi 兽 nô thân phận, bái nhập Bích La Động, vị lai kết quả của ta sợ còn không bằng ngươi . ”",
+        "index": 3
+      }
     },
     {
       "convert": "Viên Minh đối nhỏ đống đất tự lẩm bẩm vài câu, tựa hồ là đang nhắc nhở bản thân hiện thực tàn khốc, đồng thời lại tại cho mình kiên định trở về Trung Nguyên tín niệm.",
       "dich": "Viên Minh thì thầm mấy câu với nấm đất nhỏ, tựa như đang tự nhắc nhở chính mình về hiện thực tàn khốc, đồng thời củng cố niềm tin trở về Trung Nguyên của bản thân.",
       "suggest": "Viên Minh tự nhủ vài câu với đống đất xung quanh, tựa hồ đang nhắc nhở bản thân sự tàn khốc của hiện thực, đồng thời lại nhắc nhở mình phải kiên định trở về tín niệm Trung Nguyên.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭对着小土包喃喃自语了几句，似乎是在提醒自己现实的残酷，同时又在给自己坚定返回中原的信念。",
+        "text": "Viên Minh đối tiểu đống đất tự lẩm bẩm vài câu, tựa hồ là đang nhắc nhở chính mình hiện thực đích tàn khốc, cùng thời lại tại cho mình kiên định phản hồi Trung Nguyên đích tín niệm .",
+        "index": 4
+      }
     },
     {
       "convert": "Hắn không có tan thân vượn trắng, một đường tiếp tục tiến lên, rất nhanh cách xa hồ nước khu vực, lại tiến vào một mảnh rừng cây rậm rạp.",
       "dich": "Hắn không hóa thân vượn trắng, cứ thế một đường tiếp tục tiến về phía trước, thoáng chốc đã rời xa khu vực hồ, lại bước vào trong một khoảng rừng rậm rạp.",
       "suggest": "Hắn không chết mà vượn trắng vẫn tiếp tục tiến lên, rất nhanh đã cách xa hồ nước, lại tiến vào một khu rừng rậm.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他没有化身白猿，一路继续前行，很快远离了湖泊区域，又进入一片茂密树林。",
+        "text": "Hắn không có tan 身 vượn trắng, một đường tiếp tục tiến lên, rất nhanh cách xa hồ nước khu vực, lại tiến vào một mảnh rậm rạp rừng cây .",
+        "index": 5
+      }
     },
     {
       "convert": "Cách đó không xa một cây đại thụ trên cành cây, một đoàn ngân ảnh núp ở nơi đó, chính là trước đó con kia ngân miêu, dài nhỏ con ngươi nhìn chằm chằm Viên Minh bóng lưng.",
@@ -85,7 +115,12 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "不远处一株大树枝干上，一团银影蹲伏在那里，正是之前那只银猫，细长的瞳孔紧盯着袁铭的背影。",
+        "text": "Cách đó không xa một cây đại thụ thân cành thượng, một đoàn ngân ảnh núp ở đó, chính là trước đó con kia ngân mèo, dài nhỏ đích đồng tử nhìn chằm chằm lấy Viên Minh đích bóng lưng .",
+        "index": 6
+      }
     },
     {
       "convert": "Bốn phía tia sáng lờ mờ, Viên Minh bắt đầu chậm dần tốc độ, đi rất là cẩn thận.",
@@ -97,7 +132,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "四周光线昏暗，袁铭开始放缓速度，走的很是小心。",
+        "text": "Bốn phía ánh sáng hôn ám, Viên Minh bắt đầu chậm dần tốc độ, đi rất là cẩn thận .",
+        "index": 7
+      }
     },
     {
       "convert": "Đột nhiên, hắn dừng bước, nửa ngồi xuống tới.",
@@ -109,7 +149,12 @@
           0.65
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "忽然间，他停住了脚步，半蹲下来。",
+        "text": "Đột nhiên, hắn dừng bước, nửa ngồi xuống .",
+        "index": 8
+      }
     },
     {
       "convert": "Trên mặt đất lại phát hiện một nhóm dấu chân, nhìn lớn nhỏ đúng là mình trước đây truy tung người kia.",
@@ -121,21 +166,36 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "地面上又发现了一行脚印，看大小正是自己此前追踪的那人。",
+        "text": "Trên mặt đất lại phát hiện rồi một hàng dấu chân, coi lớn nhỏ đúng là mình trước đó truy tung đích người kia .",
+        "index": 9
+      }
     },
     {
       "convert": "Viên Minh theo dấu chân chầm chậm hướng phía trước, đi không bao lâu, một hồi đánh nhau chết sống âm thanh từ tiền phương truyền đến, trong đó xen lẫn hung thú gầm rú.",
       "dich": "Viên Minh men theo dấu chân, chậm rãi đi về phía trước, chưa đi được bao lâu thì chợt nghe thấy một tràng những tiếng đánh đấm kịch liệt, xen lẫn tiếng hung thú gầm ru từ hướng trước mặt truyền tới.",
       "suggest": "Viên Minh bước chậm rãi về trước, sau đó không lâu, một hồi âm thanh đánh nhau chết sống truyền đến từ phía trước, trong đó xen lẫn tiếng gầm rú của hung thú.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭顺着脚印徐徐往前，没走多久，一阵拼斗声从前方传来，其中夹杂着凶兽的吼叫。",
+        "text": "Viên Minh theo dấu chân từ từ hướng phía trước, đi không bao lâu, một trận đánh nhau chết sống tiếng lúc trước phương truyền đến, trong đó xen lẫn hung thú đích gầm rú .",
+        "index": 10
+      }
     },
     {
       "convert": "Viên Minh đuôi lông mày thượng thiêu, tăng tốc bước chân, rất nhanh đến thanh âm đầu nguồn.",
       "dich": "Viên Minh nhướng mày, rảo bước đi về phía phát ra âm thanh.",
       "suggest": "Đuôi lông mày Viên Minh nóng ran, sau đó bước nhanh về phía đầu nguồn.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭眉梢上挑，加快脚步，很快抵达声音的源头。",
+        "text": "Viên Minh đuôi lông mày hất lên, tăng nhanh cước bộ, rất nhanh tới thanh âm đích ngọn nguồn .",
+        "index": 11
+      }
     },
     {
       "convert": "Đây là một mảnh mênh mông trong rừng đất trống, hai đầu cao lớn dị thú ngay tại bỏ mạng chém giết, mấy gốc đại thụ sụp đổ trên mặt đất, đất trống bên trong bụi mù không ngừng phiêu đãng.",
@@ -147,7 +207,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这是一片空旷的林间空地，两头高大异兽正在亡命搏杀，几株大树倒塌在地，空地内烟尘不断飘荡。",
+        "text": "Đây là một mảnh trống trải đích trong rừng đất trống, hai đầu cao lớn dị thú ngay tại vong mệnh chém giết, mấy gốc đại thụ sập trên mặt đất, đất trống nội khói bụi không ngừng phiêu đãng .",
+        "index": 12
+      }
     },
     {
       "convert": "Chém giết trong đó một phe là đứng thẳng người lên thanh sắc Lang Thú, thân cao chừng một trượng nửa cao, tứ chi tráng kiện, tràn ngập cảm giác áp bách, uy thế càng cao hơn Viên Minh biến thành vượn trắng.",
@@ -159,7 +224,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "搏杀的其中一方是人立而起的青色狼兽，身高足有一丈半高，四肢粗壮，充满压迫感，威势尤胜袁铭所化白猿。",
+        "text": "Chém giết đích trong đó một phương là đứng thẳng người lên đích màu xanh sói 兽, thân cao chừng một trượng nửa cao, tứ chi tráng kiện, tràn ngập áp bách cảm, uy thế càng cao hơn Viên Minh biến thành vượn trắng .",
+        "index": 13
+      }
     },
     {
       "convert": "Lang Thú hai mắt dài nhỏ, nhạt con ngươi màu xanh tràn đầy lãnh ý, càng nhiều hơn là bình tĩnh, rõ ràng là Phi Mao thú nô.",
@@ -171,7 +241,12 @@
           0.29
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "狼兽双目细长，淡青色的瞳孔满是冷意，更多的却是冷静，明显是披毛兽奴。",
+        "text": "Sói 兽 hai mắt dài nhỏ, màu xanh nhạt đích đồng tử tràn đầy lãnh ý, càng nhiều hơn là lãnh tĩnh, rõ ràng là Phi Mao thú nô .",
+        "index": 14
+      }
     },
     {
       "convert": "Bên kia dị thú lại là một con nằm rạp trên mặt đất màu đen cá sấu, thân dài chừng ba trượng, toàn thân bao trùm lấy thật dày lân giáp, con mắt màu vàng bắn ra đói khát, hung ác quang mang.",
@@ -183,7 +258,12 @@
           0.35
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "另一头异兽却是一只匍匐在地的黑色鳄鱼，体长足有三丈，全身覆盖着厚厚的鳞甲，黄色的眼睛射出饥饿，凶狠的光芒。",
+        "text": "Bên kia dị thú lại là một con phủ phục trên mặt đất đích hắc sắc cá sấu, thân dài chừng ba trượng, toàn thân bao trùm lấy thật dày đích lân giáp, con mắt màu vàng bắn ra đói khát, hung ác quang mang .",
+        "index": 15
+      }
     },
     {
       "convert": "Này ngạc chẳng những hình thể to lớn, lực lượng cũng dị thường cường hoành, cái đuôi to dài giống ô Hắc Cương roi, mỗi lần vung vẩy cũng sẽ ở mặt đất quét ra một đạo ngấn sâu, tráng kiện ngạc miệng càng là có thể tuỳ tiện cắn đứt thô to như thùng nước đại thụ, so trước đó Gấu còn muốn lợi hại hơn không ít.",
@@ -195,14 +275,24 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "此鳄不但体型巨大，力量也异常强横，粗长的尾巴像乌黑钢鞭，每次甩动都会在地面扫出一道深痕，粗壮的鳄嘴更是能轻易咬断水桶粗大树，比之前的棕熊还要厉害不少。",
+        "text": "Này ngạc chẳng những hình thể to lớn, lực lượng cũng dị thường mạnh mẽ, cái đuôi to dài giống đen nhánh roi thép, mỗi lần vung vẩy cũng sẽ ở mặt đất quét ra một đạo ngấn sâu, tráng kiện đích ngạc miệng càng là năng dễ dàng cắn đứt thùng nước thô to cây, so trước đó đích gấu ngựa còn muốn lợi hại hơn không ít .",
+        "index": 16
+      }
     },
     {
       "convert": "Thanh Lang thú nô tại phương diện lực lượng rõ ràng không phải màu đen cá sấu đối thủ, lại thắng ở thân hình dị thường linh hoạt, bật lên năng lực cũng phi thường kinh người, không ngừng nhảy vọt né tránh hắc ngạc công kích, tìm tới cơ hội lấy bốn cái liêm đao lợi trảo phát ra công kích.",
       "dich": "Xét về sức mạnh, rõ ràng thú nô sói xanh không phải đối thủ của con cá sấu đen, nhưng \"y\" lại có cơ thể linh hoạt dị thường, năng lực bật nhảy cũng rất kinh người, nhờ thế mà có thể liên tục nhảy nhót tránh né đòn tấn công từ cá sâu, đồng thời còn tranh thủ cơ hội dùng bốn bộ trảo sắc bén như liêm đao tiến hành phản kích.",
       "suggest": "Về phương diện lực lượng, sói xanh ở phương diện sức mạnh rõ ràng không phải là đối thủ của con sói lớn màu đen, nhưng lại thắng ở thân hình vô cùng linh hoạt, bật ra công kích kinh người, không ngừng nhảy vọt né tránh công kích đen đủi của lũ Hắc Ngạc, tìm được cơ hội lấy bốn mũi tên lợi trảo phát ra công kích.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "青狼兽奴在力量方面明显不是黑色鳄鱼的对手，却胜在身形异常灵活，弹跳能力也非常惊人，不停跳跃躲开黑鳄的攻击，找到机会以四只镰刀般的利爪发出攻击。",
+        "text": "Sói xanh 兽 nô tại phương diện lực lượng rõ ràng không phải hắc sắc cá sấu đích đối thủ, nhưng thắng ở thân hình dị thường linh hoạt, nhảy đánh năng lực cũng không phải thường kinh người, không ngừng nhảy vọt né tránh hắc ngạc đích công kích, tìm được cơ hội dĩ bốn cái liêm đao kiểu đích lợi trảo phát ra công kích .",
+        "index": 17
+      }
     },
     {
       "convert": "Chỉ là hắc ngạc lân giáp dị thường kiên cố, Thanh Lang lợi trảo mỗi lần chỉ có thể lưu lại từng đạo nhàn nhạt vết thương, máu tươi đều không có chảy ra, chiến cuộc nhất thời lâm vào giằng co.",
@@ -214,7 +304,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "只是黑鳄的鳞甲异常坚固，青狼利爪每每只能留下一道道浅浅的伤痕，鲜血都没有流出，战局一时陷入僵持。",
+        "text": "Chỉ là hắc ngạc đích lân giáp dị thường kiên cố, sói xanh lợi trảo mỗi khi chỉ có thể lưu lại từng đạo thiển thiển đích vết thương, máu tươi đều không có chảy ra, chiến cục nhất thời lâm vào giằng co .",
+        "index": 18
+      }
     },
     {
       "convert": "\"Cái này Thanh Lang thú nô thực lực bất phàm, tu vi hẳn là tại trên ta.\"",
@@ -250,7 +345,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "青狼兽奴立刻注意到了袁铭的存在，眼蕴冷芒的扫了过来。",
+        "text": "Sói xanh 兽 nô lập tức chú ý tới Viên Minh đích tồn tại, mắt uẩn lãnh mang đích quét tới .",
+        "index": 20
+      }
     },
     {
       "convert": "Mảnh rừng núi này Phi Mao thú nô nhóm mặc dù đều đang vì Bích La Động thu thập tinh huyết, quan hệ lẫn nhau tuyệt chưa nói tới hòa thuận, minh tranh ám đấu, thậm chí giết người đoạt vật sự tình thường có phát sinh, mà Bích La Động đối với mấy cái này không chút nào để ý, buông xuôi bỏ mặc.",
@@ -262,7 +362,12 @@
           0.23
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这片山林的披毛兽奴们虽然都在为碧罗洞收集精血，彼此关系绝谈不上和睦，明争暗斗，甚至杀人夺物的事情时有发生，而碧罗洞对这些毫不理会，听之任之。",
+        "text": "Mảnh rừng núi này đích Phi Mao thú nô nhóm tuy rằng đều tại vì Bích La Động thu thập tinh huyết, quan hệ lẫn nhau tuyệt chưa nói tới sự hòa thuận, tranh đấu gay gắt, thậm chí giết người đoạt vật đích sự tình thường có phát sinh, mà Bích La Động đối với mấy cái này không chút nào để ý, buông xuôi bỏ mặc .",
+        "index": 21
+      }
     },
     {
       "convert": "Ngày nay đột nhiên xuất hiện một con vượn trắng thú nô ở bên thăm dò, hiển nhiên là tính toán đợi hắn cùng hắc ngạc hung thú lưỡng bại câu thương, tốt kiếm tiện nghi.",
@@ -274,7 +379,12 @@
           0.26
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "如今突然冒出来一只白猿兽奴在旁窥视，显然是打算等他和黑鳄凶兽两败俱伤，好捡便宜。",
+        "text": "Ngày nay đột nhiên xuất hiện một con vượn trắng 兽 nô ở bên nhìn trộm, hiển nhiên là tính toán đợi hắn cùng hắc ngạc hung thú lưỡng bại câu thương, hảo kiếm tiện nghi .",
+        "index": 22
+      }
     },
     {
       "convert": "Bất quá Thanh Lang thú nô trong lòng cũng có chút kỳ quái, làm bực này hạ độc thủ sự tình, bình thường đều là phục kích ở bên tùy thời gây rối loạn, cái này vượn trắng thú nô trực tiếp như vậy hiện thân lại là dụng ý gì?",
@@ -286,7 +396,12 @@
           0.23
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "不过青狼兽奴心中也有些奇怪，做这等下黑手之事，一般都是伏击在旁伺机发难，这白猿兽奴这么直接现身又是何用意？",
+        "text": "Chẳng qua sói xanh 兽 nô trong lòng cũng có chút kỳ quái, làm bậc này hạ độc thủ sự tình, bình thường đều là phục kích ở bên thừa cơ gây rối, này vượn trắng 兽 nô trực tiếp như vậy hiện thân lại là dụng ý gì ?",
+        "index": 23
+      }
     },
     {
       "convert": "Hắc ngạc thừa dịp Thanh Lang thú nô phân tâm sát na, há mồm phun một cái.",
@@ -298,7 +413,12 @@
           0.2
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑鳄趁着青狼兽奴分心的刹那，张口一吐。",
+        "text": "Hắc ngạc thừa dịp sói xanh 兽 nô phân tâm đích khoảnh khắc, há mồm phun một cái .",
+        "index": 24
+      }
     },
     {
       "convert": "Một đạo sáng như tuyết dòng nước như mũi tên nhọn từ hắc ngạc hung thú trong miệng bắn tung tóe xuất hiện, như lưỡi đao trảm Hướng Thanh Lang Thú nô hai chân, nhanh cơ hồ lôi ra tàn ảnh.",
@@ -310,7 +430,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一道雪亮水流如利箭般从黑鳄凶兽的口中溅射出来，刀锋般斩向青狼兽奴双腿，快的几乎拉出残影。",
+        "text": "Một đạo sáng như tuyết dòng nước 如 mũi tên nhọn từ hắc ngạc hung thú đích trong miệng bắn tung toé ra, như lưỡi đao chém về phía sói xanh 兽 nô hai chân, nhanh đích cơ hồ lôi ra tàn ảnh .",
+        "index": 25
+      }
     },
     {
       "convert": "Thanh Lang thú nô tựa hồ sớm có đoán trước, thân thể hướng lên nhảy một cái, thân hình cao lớn vọt lên ba thước, tuỳ tiện né tránh dòng nước công kích.",
@@ -322,7 +447,12 @@
           0.2
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "青狼兽奴似乎早有预料，身体向上一跳，高大的身躯跃起三尺，轻易躲开了水流的攻击。",
+        "text": "Sói xanh 兽 nô tựa hồ sớm có dự liệu, thân thể hướng về phía trước nhảy dựng, thân hình cao lớn vọt khởi ba thước, dễ dàng né tránh rồi dòng nước đích công kích .",
+        "index": 26
+      }
     },
     {
       "convert": "Thân thể của hắn sau đó rơi xuống, không biết là vừa lúc, vẫn là cố ý gây nên, vậy mà rơi vào hắc ngạc trên sống lưng, đùi phải lập tức khẽ động.",
@@ -334,7 +464,12 @@
           0.23
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他身体随后落下，不知是恰好，还是有意为之，竟然落在黑鳄背脊上，右腿立刻一动。",
+        "text": "Thân thể của hắn theo sau rơi xuống, không biết là vừa khéo, vẫn là hữu ý vì đó, vậy mà rơi vào hắc ngạc lưng thượng, bên phải chân lập tức khẽ động .",
+        "index": 27
+      }
     },
     {
       "convert": "Móng vuốt hóa thành một đạo thanh sắc tàn ảnh, chụp vào hắc ngạc con mắt.",
@@ -346,7 +481,12 @@
           0.2
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "爪子化为一道青色残影，抓向黑鳄眼睛。",
+        "text": "Trảo hóa thành một đạo màu xanh tàn ảnh, chụp vào hắc ngạc con mắt .",
+        "index": 28
+      }
     },
     {
       "convert": "Hắc ngạc kinh hãi, vội vàng hất đầu tránh né.",
@@ -358,7 +498,12 @@
           0.37
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑鳄大惊，急忙甩头躲避。",
+        "text": "Hắc ngạc kinh hãi, vội vàng hất đầu tránh né .",
+        "index": 29
+      }
     },
     {
       "convert": "Thế nhưng là Thanh Lang thú nô một kích này thực sự nhanh chóng, hắc ngạc không thể hoàn toàn né qua, cái mũi bị vồ một hồi.",
@@ -370,14 +515,24 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "可是青狼兽奴这一击实在迅疾，黑鳄没能完全避过，鼻子被抓了一下。",
+        "text": "Nhưng sói xanh 兽 nô một kích này thật sự nhanh chóng, hắc ngạc không thể hoàn toàn tránh qua, cái mũi bị bắt một chút .",
+        "index": 30
+      }
     },
     {
       "convert": "Cá sấu toàn thân bao trùm lấy lân phiến, trên mũi lại tương đối yếu ớt, lập tức bị bắt ra Ngũ đạo trưởng dài vết thương, máu tươi chảy ngang.",
       "dich": "Toàn thân cá sấu có vảy giáp bao bọc, nhưng phần mũi lại khá yếu mềm, nhoáng cái đã bị cào rách năm vết dài, máu tươi ròng ròng chảy ra.",
       "suggest": "Cả người con cá sấu bao trùm lân phiến, mũi khá yếu ớt, lập tức bị chém thành nhiều mũi rất dài.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "鳄鱼全身覆盖着鳞片，鼻子上却比较脆弱，顿时被抓出五道长长的伤口，鲜血横流。",
+        "text": "Cá sấu toàn thân bao trùm lấy vảy, trên mũi lại tương đối yếu ớt, tức khắc bị cầm ra năm đạo thật dài miệng vết thương, máu tươi tràn lan .",
+        "index": 31
+      }
     },
     {
       "convert": "Hắc ngạc phát ra cuồng nộ gầm rú, thân thể cao lớn nguyên địa lăn lộn, bụi mù nổi lên bốn phía.",
@@ -389,7 +544,12 @@
           0.16
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑鳄发出狂怒的吼叫，庞大的身躯原地翻滚，烟尘四起。",
+        "text": "Hắc ngạc phát ra cuồng nộ đích gầm rú, thân thể cao lớn nguyên địa quay cuồng, khói bụi nổi lên bốn phía .",
+        "index": 32
+      }
     },
     {
       "convert": "Thanh Lang thú nô kiêng kị hắc ngạc quái lực, vội vàng nhảy ra.",
@@ -405,7 +565,12 @@
           0.29
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "青狼兽奴忌惮黑鳄怪力，急忙跳开。",
+        "text": "Sói xanh 兽 nô kiêng kị hắc ngạc quái lực, vội vàng nhảy tránh .",
+        "index": 33
+      }
     },
     {
       "convert": "\"Rống a \"",
@@ -441,7 +606,12 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑鳄黄色眼睛死死盯着青狼兽奴，浮现出丝丝血色，原本黑色鳄皮也泛起道道诡异的血红纹路，身躯也在不断膨胀。",
+        "text": "Hắc ngạc con mắt màu vàng gắt gao nhìn chằm chằm sói xanh 兽 nô, hiện ra nhè nhẹ huyết sắc, nguyên bản hắc sắc da cá sấu cũng nổi lên đạo đạo quỷ dị đích huyết hồng hoa văn, thân thể cũng đang không ngừng bành trướng .",
+        "index": 35
+      }
     },
     {
       "convert": "\"Đây là năng lực gì?\"",
@@ -500,7 +670,12 @@
       "dich": "Cơ thể cá sấu đen chỉ trong chớp mắt đã hoàn thành biến hóa. Nó lúc này lớn hơn trước ba phần, trên vảy giáp xuất hiện nhiều đường vân màu đỏ máu, đồng thời vết thương trên mũi cũng ngừng chảy máu.",
       "suggest": "Thân thể kinh ngạc trong nháy mắt đã hoàn thành, thình lình biến lớn ba thành, lân giáp nổi lên huyết hồng, trên mũi vết thương cũng không chảy máu nữa.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑鳄的身体变化眨眼间便完成，赫然变大了三成，鳞甲上浮现出许多血红纹路，鼻子上的伤口也不再流血。",
+        "text": "Hắc ngạc đích thân thể biến hóa trong chớp mắt liền hoàn thành, rõ ràng biến lớn ba thành, lân giáp nổi lên hiện ra rất nhiều huyết hồng hoa văn, trên mũi đích miệng vết thương cũng không chảy máu nữa .",
+        "index": 38
+      }
     },
     {
       "convert": "Thứ tư cái móng vuốt trên mặt đất bỗng nhiên vỗ, thân hình khổng lồ mang theo một cỗ gió tanh nhào Hướng Thanh Lang Thú nô, mấy trượng phạm vi bên trong khí lưu ào ào vang lớn.",
@@ -512,7 +687,12 @@
           0.1
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "其四只爪子在地上猛地一拍，庞大身躯带起一股腥风扑向青狼兽奴，数丈范围内的气流哗哗大响。",
+        "text": "Thứ tư cái móng vuốt trên mặt đất bỗng nhiên một nhịp, thân hình khổng lồ mang theo một luồng gió tanh nhào về phía sói xanh 兽 nô, mấy trượng trong phạm vi đích khí lưu ào ào vang lớn .",
+        "index": 39
+      }
     },
     {
       "convert": "Thanh Lang thú nô mắt thấy cá sấu uy thế như vậy, không dám khinh anh kỳ phong, hướng bên cạnh trốn tránh.",
@@ -524,7 +704,12 @@
           0.15
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "青狼兽奴眼见鳄鱼这般威势，不敢轻撄其锋，朝旁边躲闪。",
+        "text": "Sói xanh 兽 nô mắt thấy cá sấu uy thế như vậy, không dám khinh anh kỳ phong, hướng bên cạnh trốn tránh .",
+        "index": 40
+      }
     },
     {
       "convert": "Nhưng mà hắc ngạc dị biến sau phản ứng linh hoạt rất nhiều, ngạc vĩ trên mặt đất vỗ, vậy mà trong nháy mắt thuận qua phương hướng, tiếp tục hướng Thanh Lang thú nô đánh tới, tốc độ chẳng những không có bất luận cái gì yếu bớt, ngược lại càng nhanh thêm mấy phần, chớp mắt liền đuổi kịp đối phương.",
@@ -536,7 +721,12 @@
           0.29
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "然而黑鳄异变后反应灵活了很多，鳄尾在地上一拍，竟然瞬间顺过方向，继续朝青狼兽奴扑去，速度非但没有任何减弱，反而更快了几分，眨眼便追上了对方。",
+        "text": "Nhưng mà hắc ngạc dị biến sau phản ứng linh hoạt rồi rất nhiều, ngạc đuôi trên mặt đất một nhịp, vậy mà trong nháy mắt 顺 qua phương hướng, tiếp tục hướng sói xanh 兽 nô bổ nhào tới, tốc độ chẳng những không có bất luận cái gì yếu bớt, ngược lại nhanh hơn mấy phần, nháy mắt liền đuổi kịp đối phương .",
+        "index": 41
+      }
     },
     {
       "convert": "Ngạc miệng như thiểm điện duỗi ra, cơ hồ mang ra tàn ảnh, cắn một cái vào Thanh Lang thú nô cánh tay trái, một con tráng kiện chân trước càng đặt tại Thanh Lang thú nô trên thân, mắt thấy là phải đem nó bổ nhào.",
@@ -548,7 +738,12 @@
           0.18
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "鳄嘴闪电般一伸，几乎带出残影，一口咬住了青狼兽奴的左臂，一只粗壮前爪更按在青狼兽奴身上，眼看就要将其扑倒。",
+        "text": "Ngạc miệng như thiểm điện duỗi ra, cơ hồ mang ra tàn ảnh, cắn một cái vào rồi sói xanh 兽 nô đích cánh tay trái, một con tráng kiện chân trước càng đặt tại sói xanh 兽 nô trên thân, mắt thấy là phải đem nó đập ngã .",
+        "index": 42
+      }
     },
     {
       "convert": "Vào thời khắc này, một đạo bóng xanh từ đằng xa bắn ra, thẳng đến hắc ngạc mắt trái.",
@@ -560,7 +755,12 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在此刻，一道青影从远处射出，直奔黑鳄左眼。",
+        "text": "Vào thời khắc này, một đạo bóng xanh từ xa chỗ bắn ra, băng băng chạy đến hắc ngạc mắt trái .",
+        "index": 43
+      }
     },
     {
       "convert": "Hắc ngạc mặc dù trong chiến đấu, nhưng cũng không có mất đi phân tấc, đầu hơi lệch, cái kia đạo bóng xanh nện ở nó mắt trái phụ cận lân giáp bên trên, lại là một con thanh sắc ống trúc.",
@@ -572,7 +772,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑鳄虽然在战斗中，却也没有失去分寸，脑袋微偏，那道青影砸在它左眼附近的鳞甲上，却是一只青色竹筒。",
+        "text": "Hắc ngạc tuy rằng ở trong chiến đấu, nhưng cũng không có mất đi chừng mực, cái đầu hơi chút thiên, cái kia đạo bóng xanh nện ở nó mắt trái phụ cận đích lân giáp thượng, lại là một con màu xanh ống trúc .",
+        "index": 44
+      }
     },
     {
       "convert": "Ầm!",
@@ -596,14 +801,24 @@
           0.18
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "竹筒爆裂开来，一片淡紫色液体泼洒而出，淋在黑鳄头上，也滴进它的眼睛里。",
+        "text": "Ống trúc vỡ ra, một mảnh chất lỏng màu tím nhạt vẩy bắn mà ra, xối tại hắc ngạc trên đầu, cũng nhỏ vào trong ánh mắt của nó .",
+        "index": 46
+      }
     },
     {
       "convert": "Hắc ngạc con mắt kịch liệt đau nhức, nhanh chóng biến thành đen hư thối, phát ra thống khổ kêu thảm, ngạc miệng lập tức mở ra.",
       "dich": "Con mắt của cá sấu đen bỗng cảm giác đau nhức dữ dội rồi nhanh chóng hư thối, đau đớn kêu rên thảm thiết, cái miệng cá sấu lập tức mở ra.",
       "suggest": "Đau nhức dữ dội ở mắt cá chân nhanh chóng biến thành màu đen, phát ra tiếng kêu thảm thiết, miệng lập tức mở ra.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑鳄眼睛剧痛，快速变黑腐烂，发出痛苦的惨叫，鳄嘴顿时张开。",
+        "text": "Hắc ngạc con mắt đau nhức, nhanh chóng biến thành đen hư thối, phát ra thống khổ đích kêu thảm, ngạc miệng tức khắc mở ra .",
+        "index": 47
+      }
     },
     {
       "convert": "Thanh Lang thú nô vội vàng rút ra cánh tay trái, kinh chảy mồ hôi lạnh ướt sũng cả người.",
@@ -615,7 +830,12 @@
           0.46
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "青狼兽奴急忙抽出左臂，惊出一身冷汗。",
+        "text": "Sói xanh 兽 nô vội vàng rút ra cánh tay trái, kinh chảy mồ hôi lạnh ướt sũng cả người .",
+        "index": 48
+      }
     },
     {
       "convert": "Bất quá người này dũng mãnh chi cực, chẳng những không có lui lại, ngược lại thừa cơ nhào về phía hắc ngạc, móng phải gấp duỗi mà ra.",
@@ -627,7 +847,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "不过此人悍勇之极，非但没有后退，反而趁机扑向黑鳄，右爪急伸而出。",
+        "text": "Chẳng qua người này dũng mãnh chi cực, chẳng những không có lui về phía sau, ngược lại thừa cơ nhào về phía hắc ngạc, bên phải trảo gấp duỗi mà ra .",
+        "index": 49
+      }
     },
     {
       "convert": "Huyết quang chợt hiện!",
@@ -643,7 +868,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "血光乍现！",
+        "text": "Huyết quang hiện ra !",
+        "index": 50
+      }
     },
     {
       "convert": "Thanh Lang thú nô tay phải thình lình đâm vào cá sấu mắt phải, đem nó con mắt bắt xuất hiện.",
@@ -655,7 +885,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "青狼兽奴的右手赫然刺入鳄鱼的右眼，将其眼珠抓了出来。",
+        "text": "Sói xanh 兽 nô đích bên phải tay rõ ràng đâm vào cá sấu đích bên phải mắt, đem nó con mắt bắt ra .",
+        "index": 51
+      }
     },
     {
       "convert": "Hắc ngạc phát ra kinh thiên động địa gầm rú, thân hình khổng lồ kịch liệt lăn lộn, ngạc vĩ điên cuồng vung vẩy, phụ cận mấy gốc đại thụ bị sinh sinh nện đứt, thanh thế doạ người.",
@@ -667,14 +902,24 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑鳄发出惊天动地的吼叫，庞大身躯剧烈翻滚，鳄尾疯狂甩动，附近几株大树被生生砸断，声势骇人。",
+        "text": "Hắc ngạc phát ra kinh thiên động địa gầm rú, thân hình khổng lồ kịch liệt quay cuồng, ngạc đuôi điên cuồng vung vẩy, phụ cận mấy gốc đại thụ bị sinh sinh nện đứt, thanh thế làm cho người ta sợ hãi .",
+        "index": 52
+      }
     },
     {
       "convert": "Thanh Lang thú nô sớm một bước nhảy ra, cũng không bị hắc ngạc điên cuồng đợt công kích cùng, nhìn về phía xa xa Viên Minh.",
       "dich": "Thú nô sói xanh đã nhảy ra trước một bước nên không bị công kích điên cuồng của con cá sấu ảnh hưởng, chỉ đưa mắt nhìn về Viên Minh ở đằng xa.",
       "suggest": "Con sói xanh này nhanh chóng nhảy ra, cũng không bị những con sói xanh điên cuồng công kích, nhìn về phía Viên Minh ở xa xa.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "青狼兽奴早一步跳开，并未被黑鳄疯狂的攻击波及，看向远处的袁铭。",
+        "text": "Sói xanh 兽 nô sớm một bước nhảy tránh, không hề bị hắc ngạc điên cuồng đợt công kích tới, nhìn về phía xa xa Viên Minh .",
+        "index": 53
+      }
     },
     {
       "convert": "Hắn thấy rất rõ ràng, cái kia ống trúc chính là Viên Minh ném tới.",
@@ -686,7 +931,12 @@
           0.31
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他看得很清楚，那个竹筒正是袁铭扔过来的。",
+        "text": "Hắn thấy rất rõ ràng, cái kia ống trúc chính là Viên Minh ném tới .",
+        "index": 54
+      }
     },
     {
       "convert": "Viên Minh đối Thanh Lang thú nô gật gật đầu, như cũ đứng ở nơi đó, không có chút nào đến gần ý tứ.",
@@ -698,7 +948,12 @@
           0.23
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭对青狼兽奴点点头，仍旧站在那里，没有丝毫靠近的意思。",
+        "text": "Viên Minh đối sói xanh 兽 nô điểm điểm 头, như cũ đứng ở nơi đó, không có chút nào đến gần ý tứ .",
+        "index": 55
+      }
     },
     {
       "convert": "Hắc ngạc cuồng nộ địa tứ ngược một hồi, trên người tơ máu nhanh chóng biến mất, hình thể cũng khôi phục trước đó lớn nhỏ.",
@@ -710,7 +965,12 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑鳄狂怒地肆虐了一阵，身上的血线快速消退，体型也恢复了之前的大小。",
+        "text": "Hắc ngạc cuồng nộ địa tàn sát bừa bãi rồi một trận, trên người tơ máu nhanh chóng biến mất, hình thể cũng khôi phục rồi trước đó đích lớn nhỏ .",
+        "index": 56
+      }
     },
     {
       "convert": "\"Nguyên lai loại này dị biến có thời gian hạn chế.\"",
@@ -770,7 +1030,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑鳄身体恢复，理智也恢复过来，四爪如飞，把地面踏得轰轰做响，朝远处逃去。",
+        "text": "Hắc ngạc thân thể khôi phục, lý trí cũng khôi phục lại, bốn trảo như bay, đem mặt đất đạp được rầm rầm kêu vang, hướng viễn xứ bỏ chạy .",
+        "index": 58
+      }
     },
     {
       "convert": "Nó hai mắt đã mất, không thể nào là Thanh Lang thú nô đối thủ, lưu lại chỉ có một con đường chết.",
@@ -782,7 +1047,12 @@
           0.41
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "它双目已失，不可能是青狼兽奴的对手，留下只有死路一条。",
+        "text": "Nó hai mắt đã mất, không thể nào là sói xanh 兽 nô đích đối thủ, lưu lại chỉ có một con đường chết .",
+        "index": 59
+      }
     },
     {
       "convert": "Nhưng mà hắc ngạc đã mất đi con mắt, căn bản là không có cách phán đoán phương hướng, không có chạy ra bao xa liền đụng đầu vào một gốc to bằng cái thớt đại thụ bên trên.",
@@ -794,14 +1064,24 @@
           0.18
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "然而黑鳄失去了眼睛，根本无法判断方向，没跑出多远便一头撞在一株磨盘大小的巨树上。",
+        "text": "Nhưng mà hắc ngạc mất đi rồi con mắt, căn bản là không có cách phán đoán phương hướng, không chạy ra bao xa liền đụng đầu vào một gốc cây to bằng cái thớt đích đại thụ thượng .",
+        "index": 60
+      }
     },
     {
       "convert": "\"Ầm ầm\" vang lớn âm thanh bên trong, đại thụ bị sinh sinh va nứt, ngã lệch ở nơi đó.",
       "dich": "Tiếng răng rắc, rầm rầm vang lên. Gốc đại thụ bị nó cứng rắn húc gãy, đổ gập qua một bên.",
       "suggest": "\"Ầm ầm\", một tiếng nổ lớn vang lên, cây cối bị va đập, ngã lêch ở đó.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "“轰隆”大响声中，巨树被生生撞裂，歪倒在那里。",
+        "text": "“ ầm vang ” vang lớn âm thanh bên trong, đại thụ bị sinh sinh va nứt, ngã lệch ở đó .",
+        "index": 61
+      }
     },
     {
       "convert": "Thanh Lang thú nô hiển nhiên là săn thú lão thủ, lập tức bay vút mà lên, hai con vuốt sói đâm vào ngạc bụng, dùng sức kéo một phát.",
@@ -813,7 +1093,12 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "青狼兽奴显然是猎兽的老手，立刻飞纵而上，两只狼爪刺进鳄腹，用力一拉。",
+        "text": "Sói xanh 兽 nô hiển nhiên là săn thú đích tay già đời, lập tức bay vút mà lên, hai con móng vuốt sói đâm vào ngạc bụng, dùng sức lôi kéo .",
+        "index": 63
+      }
     },
     {
       "convert": "Ngạc bụng lập tức bị vạch ra mấy đạo thật dài vết thương, máu tươi chen chúc mà ra, đỏ trắng chi vật chảy đầy đất.",
@@ -825,7 +1110,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "鳄腹顿时被划出几道长长的伤口，鲜血蜂拥而出，红白之物流了一地。",
+        "text": "Ngạc bụng tức khắc bị vẽ ra vài đạo thật dài miệng vết thương, máu tươi chen chúc mà ra, đỏ trắng chi vật chảy đầy đất .",
+        "index": 64
+      }
     },
     {
       "convert": "Hắc ngạc lại lần nữa điên cuồng giằng co, nhưng lần này nhận vết thương trí mạng, rất nhanh liền triệt để bất động.",
@@ -837,7 +1127,12 @@
           0.18
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "黑鳄再度疯狂挣扎起来，但这次受到致命伤，很快便彻底不动了。",
+        "text": "Hắc ngạc lại lần nữa điên cuồng giãy dụa lên tới, nhưng lần này nhận vết thương trí mệnh, rất nhanh liền triệt để bất động rồi .",
+        "index": 65
+      }
     },
     {
       "convert": "Thanh Lang thú nô cúi người lấy ra trữ huyết túi thu thập hắc ngạc huyết dịch, đồng thời mang theo cảnh giác chi ý địa nhìn cách đó không xa Viên Minh.",
@@ -849,7 +1144,12 @@
           0.3
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "青狼兽奴俯身取出储血袋收集黑鳄血液，同时略带警惕之意地看着不远处的袁铭。",
+        "text": "Sói xanh 兽 nô cúi người lấy ra trữ máu túi thu thập hắc ngạc huyết dịch, cùng thời mang theo cảnh giác chi ý mà nhìn xem cách đó không xa Viên Minh .",
+        "index": 66
+      }
     },
     {
       "convert": "Viên Minh vẫn như cũ lẳng lặng đứng tại chỗ, không có bất kỳ cái gì dị động, Thanh Lang thú nô gặp đây, ánh mắt thoáng hòa hoãn mấy phần.",
@@ -861,7 +1161,12 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭依旧静静站在原地，没有任何异动，青狼兽奴见此，眼神稍稍缓和几分。",
+        "text": "Viên Minh như cũ yên tĩnh đứng tại chỗ, không có bất kỳ cái gì dị động, sói xanh 兽 nô kiến này, nhãn thần thoáng hòa hoãn mấy phần .",
+        "index": 67
+      }
     },
     {
       "convert": "\"Đa tạ các hạ mới vừa rồi tương trợ, tại hạ Cáp Cống, không biết bằng hữu có thể cáo tri tính danh?\"",
@@ -1057,7 +1362,12 @@
           0.17
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "刚刚的大战动静极大，袁铭自然不会反对。",
+        "text": "Vừa mới đích đại chiến động tĩnh cực đại, Viên Minh đương nhiên sẽ không phản đối .",
+        "index": 71
+      }
     },
     {
       "convert": "Hai người nhanh chóng rời đi nơi này, rất mau tới đến một chỗ bên hồ.",
@@ -1069,7 +1379,12 @@
           0.25
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "两人快速离开这里，很快来到一处湖边。",
+        "text": "Hai người nhanh chóng rời đi nơi này, rất mau tới đến một chỗ bên hồ .",
+        "index": 72
+      }
     },
     {
       "convert": "Viên Minh lông mày khẽ nhúc nhích, cái hồ này đúng là hắn phát hiện màu đen da thú địa phương.",
@@ -1081,7 +1396,12 @@
           0.46
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭眉头微动，这个湖泊正是他发现黑色兽皮的地方。",
+        "text": "Viên Minh đầu mi vi động, cái hồ này đúng là hắn phát hiện hắc sắc da thú đích địa phương .",
+        "index": 73
+      }
     },
     {
       "convert": "Cáp Cống đầy người bụi đất, tại trong hồ nước cọ rửa một phen, bấm niệm pháp quyết giải trừ Phi Mao Thuật, hiển lộ ra bản thể, là cái hai mươi mấy tuổi thanh niên nam tử, thân hình cao lớn, tóc vàng mắt xanh, điển hình Nam Cương nhân dạng mạo.",
@@ -1093,7 +1413,12 @@
           0.41
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "哈贡满身尘土，在湖水里冲洗了一番，掐诀解除披毛术，显露出本体，是个二十几岁的青年男子，身形高大，金发碧眼，典型的南疆人样貌。",
+        "text": "Ha cống đầy người bụi đất, tại trong hồ nước rửa rồi một phen, bắt quyết giải trừ Phi Mao Thuật, hiển lộ ra bản thể, là cái hai mươi mấy tuổi thanh niên nam tử, thân hình cao lớn, tóc vàng mắt xanh, điển hình Nam Cương nhân dạng mạo .",
+        "index": 74
+      }
     },
     {
       "convert": "Viên Minh lúc này cũng đã thu hồi vượn da, hiển lộ dung mạo.",
@@ -1109,7 +1434,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭此时也已收起猿皮，显露了容貌。",
+        "text": "Viên Minh lúc này cũng đã thu hồi vượn da, hiển lộ dung mạo .",
+        "index": 75
+      }
     },
     {
       "convert": "\"Viên huynh là người Trung Nguyên?\"",

@@ -58,14 +58,24 @@
       "dich": "Ô Bảo rời khỏi đội ngũ trước, trên mặt đầy vẻ vinh quang tự hào.",
       "suggest": "Ô Bảo dẫn đầu ra khỏi đội ngũ, vẻ mặt vô cùng vui mừng.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "乌保率先走出队列，一脸的与有荣焉。",
+        "text": "Ô bảo vệ dẫn trước đi ra đội ngũ, một mặt đích cùng có vinh yên .",
+        "index": 1
+      }
     },
     {
       "convert": "Viên Minh thì là cau mày, chậm một bước đi ra, hai người thái độ có rõ ràng khác biệt.",
       "dich": "Trong khi đó Viên Minh lại cau mày, bước ra sau một nhịp. Hai ngươi có thái độ hoàn toàn khác biệt.",
       "suggest": "Viên Minh thì cau mày, chậm rãi bước ra, thái độ rõ ràng khác biệt.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭则是皱着眉，慢了一步走出，两个人的态度有着明显差异。",
+        "text": "Viên Minh thì là cau mày, chậm một bước đi ra, hai cái người đích thái độ có rõ ràng sai biệt .",
+        "index": 2
+      }
     },
     {
       "convert": "\"Chọn tốt, các ngươi lập tức liền lên đường đi.\"",
@@ -209,7 +219,12 @@
           0.1
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "其余三人也是告辞一声，便带着袁铭和乌保，朝着十万大山方向出发了。",
+        "text": "Còn lại ba người cũng là cáo từ một tiếng, liền dẫn Viên Minh cùng ô bảo vệ, hướng tới Thập Vạn Đại Sơn phương hướng xuất phát rồi .",
+        "index": 6
+      }
     },
     {
       "convert": "\"Trong khoảng thời gian này, các ngươi cũng muốn tiếp tục đi săn, một khi gặp được ký danh đệ tử, như có triệu hoán không được kháng cự, kẻ trái lệnh... Tin tưởng các ngươi sẽ không trái lệnh.\"",
@@ -257,7 +272,12 @@
           0.14
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "那几個记名弟子走在前面，脚程颇快，袁铭与乌保两人匆匆跟随，更像是随从，而非向导。",
+        "text": "Kia mấy 個 ký danh đệ tử đi ở phía trước, cước trình khá nhanh, Viên Minh cùng ô bảo vệ hai người vội vã đi theo, càng giống là tùy tùng, mà phi dẫn đường .",
+        "index": 9
+      }
     },
     {
       "convert": "Bất quá, đợi đến mấy người xuyên qua hẻm núi, chính thức tiến vào hung thú hoạt động khu vực về sau, những người kia liền ngừng lại.",
@@ -269,7 +289,12 @@
           0.3
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "不过，等到几人穿越峡谷，正式进入凶兽活动的区域后，那些人便停了下来。",
+        "text": "Chẳng qua, đợi đến mấy người xuyên việt khe sâu, chính thức tiến vào hung thú hoạt động đích khu vực sau, những người kia liền ngừng lại .",
+        "index": 10
+      }
     },
     {
       "convert": "Trần Uyển từ trong ngực tay lấy ra địa đồ bằng da thú, mở ra ở trên một tảng đá, gọi tới Viên Minh hai người, hỏi: \"Hai người các ngươi, có ai đi qua nơi này?\"",
@@ -281,7 +306,12 @@
           0.46
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "陈婉从怀中取出一张兽皮地图，摊开在一块石头上，喊来袁铭两人，问道：“你们两个，有谁去过这里？”",
+        "text": "Trần uyển từ trong lòng tay lấy ra địa đồ bằng da thú, mở ra tại trên một tảng đá, gọi tới Viên Minh hai người, hỏi : “ hai người các ngươi, có ai đi qua chỗ này ? ”",
+        "index": 11
+      }
     },
     {
       "convert": "Nàng tinh tế trắng noãn ngón tay, đang điểm lấy Thập Vạn Đại Sơn chỗ sâu một chỗ thung lũng.",
@@ -297,7 +327,12 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "她纤细洁白的手指，正点着十万大山深处的一处盆地。",
+        "text": "Nàng tinh tế trắng noãn đích ngón tay, đang điểm lấy Thập Vạn Đại Sơn chỗ sâu một chỗ bồn địa .",
+        "index": 12
+      }
     },
     {
       "convert": "Ô Bảo nhìn kỹ một lát, trong mắt lại nổi lên mê hoặc chi sắc.",
@@ -309,14 +344,24 @@
           0.32
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "乌保仔细看了片刻，眼中却泛起了迷惑之色。",
+        "text": "Ô bảo vệ nhìn kỹ chốc lát, trong mắt nhưng nổi lên mê hoặc chi sắc .",
+        "index": 13
+      }
     },
     {
       "convert": "Bọn hắn những này Phi Mao thú nô chưa hề đều là đi đâu mà tính chỗ nào, nhiều nhất nhớ một lần trở về lộ trình, địa đồ loại vật này, đưa cho hắn xem, hắn cũng xem không rõ.",
       "dich": "Những Phi Mao thú nô bọn họ trước giờ đều là tới chỗ nào hay chỗ đó, nhiều nhất cũng chỉ là nhớ sơ sơ lộ trình quay về, giờ đưa thứ như bản đồ này cho gã xem, gã cũng xem không nổi.",
       "suggest": "Bọn Phi Mao thú nô này chưa bao giờ đi đâu cả, ít nhất cũng phải nhớ một lần trở về, địa đồ mà bọn họ mang theo khi trở về, lúc trở về cũng không nhớ rõ.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他们这些披毛兽奴从来都是走哪儿算哪儿，最多记一下返回的路程，地图这种东西，拿给他看，他也看不明白。",
+        "text": "Bọn họ những này Phi Mao thú nô từ trước đến nay đều là đi đâu nhi tính chỗ nào, nhiều nhất nhớ một chút phản hồi lộ trình, bản đồ loại vật này, đưa cho hắn coi, hắn cũng coi không rõ .",
+        "index": 14
+      }
     },
     {
       "convert": "Ngược lại là Viên Minh, cau mày, thấy mười phần cẩn thận, một bộ vẻ do dự.",
@@ -328,7 +373,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "倒是袁铭，皱着眉，看得十分仔细，一副沉吟之色。",
+        "text": "Ngược lại Viên Minh, cau mày, thấy thập phần tỉ mỉ, một bức vẻ do dự .",
+        "index": 15
+      }
     },
     {
       "convert": "\"Nhìn hiểu sao?\"",
@@ -400,7 +450,12 @@
           0.36
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "乌保面露难色，只能摇了摇头，但看袁铭那副模样，心中不由暗骂一声：“装什么装？”",
+        "text": "Ô bảo vệ mặt lộ vẻ khó xử, chỉ có thể lắc lắc đầu, nhưng coi Viên Minh bộ dáng kia, trong lòng bất giác thầm mắng một tiếng : “ trang cái gì trang ? ”",
+        "index": 17
+      }
     },
     {
       "convert": "\"Trần Uyển sư muội, ta dẫn bọn hắn tới chính là ứng phó một lần việc phải làm, ngươi thật đúng là trông cậy vào bọn hắn có thể giúp một tay?\"",
@@ -470,7 +525,12 @@
       "dich": "Nghe lời này, Trần Uyển vốn không còn hy vọng gì liền sáng mắt lên, tiếp tục hỏi: \"Đoạn đường đằng trước này, chính là đến Tử Trúc Lâm mà ngươi nói, phải mất bao lâu mới tới?\"",
       "suggest": "Nghe được lời ấy, Trần Uyển vốn đang ôm hi vọng hai mắt sáng lên, lại tiếp tục nói: 'Lúc này là chỗ ở của Tử Trúc Lâm, bao lâu thì ngươi chạy tới đây?'",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "听闻此言，本已经不抱希望的陈婉眼眸一亮，继续说道：“前面这段距离，就是到伱说的紫竹林，多久能赶过去？”",
+        "text": "Nghe nói lời ấy, vốn đã kinh không ôm hy vọng đích trần uyển đôi mắt sáng lên, tiếp tục nói : “ phía trước đoạn này cự ly, chính là đến ngươi nói trúc tía rừng, bao lâu năng chạy tới ? ”",
+        "index": 20
+      }
     },
     {
       "convert": "\"Tránh đi đại bộ phận hung thú, tận lực không xảy ra chiến đấu kéo dài, năm ngày thời gian liền có thể đến.\"",
@@ -550,14 +610,24 @@
           0.33
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "说话间，他抬起头，视线偏移出去，却看到那名叫巴达的炼炉堂弟子，低垂的视线正似有似无地落在陈婉修长的玉腿上。",
+        "text": "Nói chuyện gian, hắn ngẩng đầu, tầm mắt lệch đi đi ra, nhưng nhìn thấy tên kia gọi mở to đạt đích 炼 lò đường đệ tử, buông xuống đích tầm mắt chính như có như không địa rơi vào trần uyển thon dài đích trên chân ngọc .",
+        "index": 22
+      }
     },
     {
       "convert": "Cái thằng này nhìn xem ngại ngùng, cũng là không phải cái gì người thành thật a.",
       "dich": "Tên nhãi này trông có vẻ rụt rè, không ngờ cũng chẳng phải người thành thật ha.",
       "suggest": "Thằng này nhìn thì ngại ngùng nhưng cũng không phải là người thành thật gì.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这厮看着腼腆，倒也不是什么老实人啊。",
+        "text": "Thằng nhãi này nhìn xem ngại ngùng, thật cũng không phải gì người thành thật a .",
+        "index": 23
+      }
     },
     {
       "convert": "\"Thừa cưỡi linh thú lời nói, không dùng đến năm ngày.\"",
@@ -621,7 +691,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "说罢，他抬手一拍腰间的灵兽袋，袋口当即有一道青光飞出，落在不远处，从中现出一头体长足有两丈的青色巨狼。",
+        "text": "Dứt lời, hắn giơ tay một nhịp bên hông đích linh thú túi, miệng túi lúc này có một đạo thanh quang bay ra, rơi vào cách đó không xa, từ trong hiện ra một đầu thân dài chừng hai trượng đích màu xanh cự lang .",
+        "index": 26
+      }
     },
     {
       "convert": "Này lang bắp thịt cả người sung mãn, trong hai mắt hiện ra nhàn nhạt màu đỏ sậm trạch, trong mi tâm ương sinh ra một lùm bộ lông màu trắng, trước đột miệng bên ngoài, hai cái sắc nhọn lại dài răng lộ ra ngoài, lộ ra đã hung lệ, lại uy mãnh.",
@@ -633,7 +708,12 @@
           0.15
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "此狼浑身肌肉饱满，双眼之中泛着淡淡的暗红色泽，眉心中央生有一丛白色毛发，前突的嘴巴外，两根尖利且长的牙齿外露，显得既凶戾，又威猛。",
+        "text": "Này sói bắp thịt cả người sung mãn, trong hai mắt hiện ra nhàn nhạt màu đỏ sậm trạch, trong mi tâm xin sinh ra một lùm bộ lông màu trắng, trước đột miệng ngoại, hai cây sắc nhọn lại còn lớn lên răng nanh lộ ra ngoài, lộ ra đã hung lệ, lại uy mãnh .",
+        "index": 27
+      }
     },
     {
       "convert": "\"Trần Uyển sư muội, ta Thanh Lang chính là một cấp thượng giai hung thú, không chỉ có tốc độ cực nhanh, mà lại chạy vô cùng thoải mái ổn định, không bằng ngươi cùng ta cộng đồng ngồi cưỡi đi.\"",
@@ -701,7 +781,12 @@
           0.26
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "听闻此言，不等陈婉开口，与坤图一样同出驭兽堂的央婵眉头立马蹙了起来，显然对师兄坤图的示好很是不满。",
+        "text": "Nghe nói lời ấy, không đợi trần uyển mở miệng, cùng khôn đồ đồng dạng cùng ra ngự 兽 堂 đích xin thiền đầu mi lập tức nhăn lên tới, hiển nhiên đối sư huynh khôn đồ đích lấy lòng rất là bất mãn .",
+        "index": 29
+      }
     },
     {
       "convert": "\"Đa tạ sư huynh hảo ý, bất quá không cần, ta có bản thân Linh thú.\"",
@@ -737,7 +822,12 @@
           0.16
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "说罢，抬手一拍自己腰间的灵兽袋，当即有青光飞出，化作一头丈二来长的青皮犀牛。",
+        "text": "Dứt lời, giơ tay một nhịp bên hông mình đích linh thú túi, lúc này có thanh quang bay ra, hóa thành một đầu trượng thứ hai lớn lên da xanh tê ngưu .",
+        "index": 31
+      }
     },
     {
       "convert": "Cùng Khôn Đồ đầu kia Thanh Lang so sánh, đầu này Thanh Bì Tê Ngưu hình thể mặc dù nhỏ không ít, nhưng đầu bên trên cùng chỗ cổ, lại đều phủ lấy một tầng áo giáp kim loại, trên lưng cũng an trí có yên ngựa đồng dạng bằng da ghế ngồi, nhìn xem liền rất thoải mái dễ chịu.",
@@ -749,7 +839,12 @@
           0.38
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "与坤图那头青狼相比，这头青皮犀牛体型虽然小了不少，但其头上和脖颈处，却都套着一层金属甲胄，背上也安置有马鞍一样的皮质坐具，看着就很舒适。",
+        "text": "Cùng khôn đồ đầu kia sói xanh so với, đầu này da xanh tê ngưu hình thể tuy rằng nhỏ không ít, nhưng đầu thượng cùng chỗ cổ, lại đều phủ lấy một tầng áo giáp kim loại, vác lên cũng an trí có yên ngựa đồng dạng đích bằng da ghế ngồi, nhìn xem liền rất thoải mái .",
+        "index": 32
+      }
     },
     {
       "convert": "\"Nguyên lai sư muội Linh thú an trí được như thế thoả đáng, ngược lại là sư huynh ta đường đột.\"",

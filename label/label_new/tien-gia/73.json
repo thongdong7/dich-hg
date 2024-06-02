@@ -17,13 +17,23 @@
       "convert": "Lam Kha há miệng, thổi nhẹ một tiếng uyển chuyển kéo dài huýt sáo, con kia Kim Tình Điêu liền bay tới, ở đây nữ đỉnh đầu xoay quanh, một đôi sáng ngời có thần hai mắt màu vàng óng liếc nhìn phía dưới.",
       "dich": "Lam Kha hé miệng thổi một tiếng huýt dài nhẹ nhàng du dương, theo đó con Kim Tình Điêu liền bay tới, lượn vòng trên đầu nàng, đưa đôi mắt màu vàng kim sáng lấp lánh có thần quét qua phía dưới.",
       "suggest": "Lam Kha há miệng, huýt sáo uyển chuyển, con Kim Tình Điêu kia liền bay tới, xoay đỉnh đầu nữ tử, hai mắt sáng ngời nhìn xuống phía dưới.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "蓝柯一张嘴，轻吹了一声婉转悠长的口哨，那只金睛雕便飞了过来，在此女头顶盘旋，一双炯炯有神的金色双目扫视下方。",
+        "text": "Lam kha một trương miệng, thổi nhẹ rồi một tiếng uyển chuyển kéo dài đích huýt sáo, con kia kim tình 雕 liền bay tới, ở đây 女 đỉnh đầu xoay quanh, một đôi sáng ngời có thần đích hai mắt màu vàng óng nhìn quét phía dưới .",
+        "index": 0
+      }
     },
     {
       "convert": "Viên Minh cùng A Cổ Lạp theo sát phía sau, đồng thời lưu ý bốn phía động tĩnh, cảnh giác Hỏa Nham Xà tập kích.",
       "dich": "Viên Minh và A Cổ Lạp theo sát phía sau, đồng thời chú ý đến động tĩnh xung quanh, đề phòng Hỏa Nham Xà tập kích.",
       "suggest": "Viên Minh và A Cổ Lạp theo sát phía sau, đồng thời chú ý động tĩnh bốn phía xung quanh, đề phòng Hỏa Nham Xà tập kích.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭和阿古拉紧随其后，同时留意四周动静，警惕火岩蛇的袭击。",
+        "text": "Viên Minh cùng A Cổ Lạp theo sát phía sau, cùng thời lưu ý bốn phía động tĩnh, cảnh giác Hỏa Nham Xà đích tập kích .",
+        "index": 1
+      }
     },
     {
       "convert": "\"Cục cục!\"",
@@ -35,145 +45,265 @@
       "convert": "Một lát sau, Kim Tình Điêu đột nhiên kêu một tiếng, con mắt nhìn về phía phải phía trước một khối hòn đá màu đen, thoạt nhìn là nham tương làm lạnh sau sản phẩm.",
       "dich": "Một lát sau, Kim Tình Điêu đột nhiên kêu một tiếng, ánh mắt nhìn về phía một khối đá màu đen nằm ở bên phải phía trước, thoại nhìn là sản phẩm của nham tương sau khi nguội đi.",
       "suggest": "Một lát sau, Kim Tình Điêu đột nhiên kêu lên một tiếng, đưa mắt nhìn về phía trước một khối đá màu đen, thoạt nhìn nó là sản phẩm làm lạnh sau khi nham tương đông cứng.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "片刻后，金睛雕突然叫了一声，眼睛望向右前方一块黑色石头，看起来是岩浆冷却后的产物。",
+        "text": "Một lát sau, kim tình 雕 đột nhiên kêu một tiếng, con mắt nhìn phía bên phải tiền phương một khối hòn đá màu đen, thoạt nhìn là nham thạch nóng chảy làm lạnh sau kết quả .",
+        "index": 3
+      }
     },
     {
       "convert": "Lam Kha gặp đây, không nói hai lời giơ tay hướng phía trước một chỉ, trên cổ tay ngân sắc vòng tay bắn ra, đánh vào trên tảng đá màu đen.",
       "dich": "Lam Kha thấy thế không nói lời nào, lập tức giơ tay chỉ về phía trước, vòng tay màu bạc trên cổ tay nàng bắn ra, đánh lên tảng đá màu đen.",
       "suggest": "Lam Kha thấy vậy, không nói hai lời giơ tay lên, vòng tay màu bạc trên cổ tay bắn ra, đánh lên tảng đá màu đen.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "蓝柯见此，二话不说地抬手往前一指，腕上的银色手链射出，打在黑色石头上。",
+        "text": "Lam kha kiến này, không nói hai lời giơ tay hướng phía trước một chỉ, trên cổ tay đích màu bạc dây xích tay bắn ra, đánh vào trên tảng đá màu đen .",
+        "index": 4
+      }
     },
     {
       "convert": "Vòng tay bên trên quang mang ngưng tụ, hình thành một đạo lưỡi kiếm ngân quang, như xuyên mục nát thổ đem màu đen hòn đá chém thành hai khúc.",
       "dich": "Hào quang bên trên vòng tay tụ lại, hình thành một lưỡi kiếm sáng bạc, dễ dàng chém tảng đá màu thành hai nửa như chém bùn.",
       "suggest": "Vòng tay ngưng tụ, hình thành một đường kiếm màu bạc, như một lưỡi kiếm sắc bén xuyên qua đất sét, chém hòn đá màu đen thành hai đoạn.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "手链上的光芒一凝，形成一道剑刃般的银光，如穿腐土般将黑色石块劈成两半。",
+        "text": "Dây xích tay thượng quang mang ngưng tụ, hình thành một đạo mũi kiếm kiểu đích ngân quang, 如 mặc mục nát thổ kiểu đem hắc sắc hòn đá chém thành hai khúc .",
+        "index": 5
+      }
     },
     {
       "convert": "Một khối to bằng đầu nắm tay hỏa hồng sắc ngọc thạch khảm nạm ở hắc thạch bên trong, chính là Hỏa Phác Ngọc.",
       "dich": "Một khối ngọc thạch màu đỏ lửa to bằng nắm tay khảm bên trong khối đá, chính là Hỏa Phác Ngọc.",
       "suggest": "Một khối ngọc thạch màu đỏ lửa to bằng nắm tay khảm nạm vào trong khối đá đen, chính là Hỏa Phác Ngọc.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一块拳头大小的火红色玉石镶嵌在黑石内，正是火璞玉。",
+        "text": "Một khối to bằng đầu nắm tay đích hỏa hồng sắc ngọc thạch được khảm tại hắc thạch nội, chính là lửa ngọc thô .",
+        "index": 6
+      }
     },
     {
       "convert": "Viên Minh trong mắt lóe lên một tia kinh ngạc, Kim Tình Điêu con mắt vậy mà như thế thần dị, ngay cả viên đá nội bộ cũng có thể nhìn thấu?",
       "dich": "Vẻ kinh ngạc lóe lên trong mắt Viên Minh, con mắt của Kim Tình Điêu lại thần dị như vậy, có thể nhìn thấu tình hình bên trong khối đá.",
       "suggest": "Viên Minh thoáng kinh ngạc, con mắt của Kim Tình Điêu vậy mà thần dị như thế, ngay cả nội bộ viên đá cũng có thể nhìn ra?",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭眼中闪过一丝惊讶，金睛雕的眼睛竟然如此神异，连石头内部也能看透？",
+        "text": "Viên Minh trong mắt lóe lên một tia kinh ngạc, kim tình 雕 đích con mắt vậy mà như thế thần dị, liền viên đá nội bộ cũng có thể nhìn thấu ?",
+        "index": 7
+      }
     },
     {
       "convert": "\"Khối thứ nhất!\" Lam Kha đi qua, phụ thân đi nhặt Hỏa Phác Ngọc.",
       "dich": "\"Khối đầu tiên!\" Lam Kha bước tới cạnh, cúi người nhặt Hỏa Phác Ngọc lên.",
       "suggest": "\"Khối thứ nhất!\" Lam Kha đi qua, phụ thân nhặt Hỏa Phác Ngọc.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "“第一块！”蓝柯走过去，附身去捡火璞玉。",
+        "text": "“ khối thứ nhất ! ” lam kha đi qua, cúi người đi nhặt lửa ngọc thô .",
+        "index": 8
+      }
     },
     {
       "convert": "Một đạo đỏ sậm cái bóng từ phụ cận hòn đá đằng sau bắn ra, lại là một đầu to cỡ miệng chén đỏ sậm đại xà, sáng như tuyết răng nanh cắn về phía Lam Kha bắp chân, chính là nơi đây đặc hữu Hỏa Nham Xà.",
       "dich": "Một cái bóng dài màu đỏ sậm từ chỗ gần ngay sau khối đá bắn vọt tới, không ngờ lại là một con rắn màu đỏ sậm thân to bằng miệng bát, đang nhe những cái nanh sáng như tuyết cắn về phía bắp chân Lam Kha, nhìn kỹ thì chính là Hỏa Nham Xà, hung thú chỉ nơi này mới có.",
       "suggest": "Một cái bóng màu đỏ sậm từ phía sau hòn đá phía sau bắn ra, tiếp đó là một con đại xà màu đỏ sậm to cỡ cái chén, nhe nanh sắc như tuyết cắn về phía bắp chân Lam Kha, chính là Hỏa Nham Xà mà hắn đặc hữu.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一道暗红影子从附近石块后面射出，却是一条碗口粗的暗红大蛇，雪亮的獠牙咬向蓝柯小腿，正是此地独有的火岩蛇。",
+        "text": "Một đạo đỏ sậm cái bóng từ phụ cận hòn đá phần sau bắn ra, lại là một đầu to cỡ miệng chén đích đỏ sậm đại xà, sáng như tuyết đích răng nanh cắn về phía lam kha cẳng chân, chính là nơi đây độc hữu đích Hỏa Nham Xà .",
+        "index": 9
+      }
     },
     {
       "convert": "Rắn này chỉ là một cấp hạ giai hung thú, công kích không tính là bao nhiêu lợi hại, nhưng xà răng ẩn chứa kịch độc, chính là Luyện Khí đỉnh phong tu sĩ bị cắn đến cũng sẽ có đại phiền toái.",
       "dich": "Rắn này chỉ là hung thú cấp một bậc thấp, tấn công cũng chẳng lợi hại gì mấy, nhưng răng nó lại ẩn chứa kịch độc, dù có là tu sĩ Luyện Khí đỉnh phong mà bị cắn cũng sẽ rất phiền toái.",
       "suggest": "Con rắn này chỉ là một hung thú cấp thấp, công kích không tính là lợi hại, nhưng hàm răng có chứa kịch độc, nếu tu sĩ Luyện Khí đỉnh phong bị cắn trúng cũng sẽ gặp phiền toái lớn.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "此蛇只是一级下阶凶兽，攻击算不上多厉害，但蛇牙蕴含剧毒，就是炼气巅峰的修士被咬到也会有大麻烦。",
+        "text": "Rắn này chỉ là cấp một hạ giai hung thú, công kích không tính là bao nhiêu lợi hại, nhưng xà răng ẩn chứa kịch độc, chính là luyện khí đỉnh phong đích tu sĩ bị cắn đến cũng sẽ có đại phiền toái .",
+        "index": 10
+      }
     },
     {
       "convert": "A Cổ Lạp khoát tay, lam quang lượn lờ ở giữa, một cây thủy tiễn cấp tốc bắn về phía Hỏa Nham Xà.",
       "dich": "A Cổ Lạp khoát tay, tức thì từ giữa ánh sáng màu lam lưu chuyển, một cây thủy tiễn bắn nhanh về phía Hỏa Nham Xà.",
       "suggest": "A Cổ Lạp khoát tay, ánh sáng màu xanh lượn lờ ở giữa, một cây thủy tiễn nhanh chóng bắn về phía Hỏa Nham Xà.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "阿古拉一抬手，蓝光缭绕间，一根水箭迅速射向火岩蛇。",
+        "text": "A Cổ Lạp vừa nhấc tay, lam quang lượn lờ gian, một cây thủy tiễn nhanh chóng bắn về phía Hỏa Nham Xà .",
+        "index": 11
+      }
     },
     {
       "convert": "Có thể động tác của hắn chậm một bước, thủy tiễn rõ ràng không kịp ngăn lại Hỏa Nham Xà.",
       "dich": "Có điều động tác của gã đã chậm một nhịp, thủy tiễn kia rõ ràng không kịp ngăn Hỏa Nham Xà.",
       "suggest": "Nhưng động tác của hắn chậm một bước, thủy tiễn rõ ràng không kịp ngăn cản.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "可他的动作迟了一步，水箭明显来不及拦住红蛇。",
+        "text": "Khả động tác của hắn chậm một bước, thủy tiễn rõ ràng không kịp ngăn lại đỏ xà .",
+        "index": 12
+      }
     },
     {
       "convert": "Lam Kha đôi mi thanh tú nhíu lên, trên cổ tay dây xích sáng lên ngân quang, đang muốn cản Hỏa Nham Xà.",
       "dich": "Đôi mi thanh tú của Lam Kha nhíu lại, chiếc vòng trên cổ tay tỏa ánh sáng bạc, nàng đang định ngăn con Hỏa Nham Xà lại.",
       "suggest": "Hai mi Lam Kha nhíu lại, sợi xích bạc trên cổ tay tỏa ánh sáng bạc, như muốn cản đường cho nham xà hơ lửa.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "蓝柯秀眉蹙起，腕上的链子亮起银光，正要拦向火岩蛇。",
+        "text": "Lam kha tú lông mày nhíu lên, trên cổ tay đích vòng trang sức sáng lên ngân quang, đang muốn chặn hơ lửa nham xà .",
+        "index": 13
+      }
     },
     {
       "convert": "Vào thời khắc này, mặt đất ù ù một vang, một cây bén nhọn gai gỗ một bốc lên mà ra, quán xuyên Hỏa Nham Xà thân thể, đem nó đẩy lên.",
       "dich": "Đúng vào thời khắc này, mặt đất ầm ầm rung động, ngay sau đó, một cây gai gỗ bén nhọn trồi lên, xuyên qua thân thể Hỏa Nham Xà, nâng nó lên cao.",
       "suggest": "Đúng lúc này, mặt đất dưới chân bỗng vang lên một tiếng 'ầm', một cây gai gỗ bén nhọn từ dưới đất bay lên, xuyên qua người Hỏa Nham Xà, đẩy gã lên.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在此刻，地面隆隆一响，一根尖锐木刺一冒而出，贯穿了火岩蛇的身体，将其顶了起来。",
+        "text": "Vào thời khắc này, mặt đất ù ù một vang, một cây bén nhọn gai gỗ một bốc lên mà ra, quán xuyên Hỏa Nham Xà đích thân thể, đem nó đỉnh lên tới .",
+        "index": 14
+      }
     },
     {
       "convert": "Cây kia màu lam thủy tiễn rốt cục phóng tới, đánh vào rắn này trên thân.",
       "dich": "Cây thủy tiễn màu lam cuối cùng đã phóng tới, đánh lên người con rắn kia.",
       "suggest": "Thủy tiễn màu lam kia cuối cùng cũng phóng tới, đánh lên người con rắn.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "那根蓝色水箭终于射来，打在此蛇身上。",
+        "text": "Cây kia màu lam thủy tiễn cuối cùng phóng tới, đánh vào rắn này trên thân .",
+        "index": 15
+      }
     },
     {
       "convert": "\"Phanh\" một tiếng vang lớn, Hỏa Nham Xà thân thể bị đánh cho hai đoạn, máu tươi hắt vẫy ra, hai đoạn thân rắn vặn vẹo mấy lần, rất nhanh bất động.",
       "dich": "Một tiếng \"phành\" lớn vang lên, thân thể Hỏa Nham Xà bị đánh đứt thành hai đoạn, máu tươi vẩy ra, hai đoạn thân vặn xoắn mấy vòng, rất nhanh liền ngừng lại.",
       "suggest": "\"Phanh\" một tiếng, thân thể Hỏa Nham Xà bị đánh cho hai đoạn, máu tươi bắn tóe ra, hai đoạn thân rắn vặn vẹo mấy lần, rất nhanh bất động.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "“砰”的一声大响，火岩蛇的身体被击成两段，鲜血泼洒开来，两截蛇躯扭曲几下，很快不动了。",
+        "text": "“ phanh ” đích một tiếng vang lớn, Hỏa Nham Xà đích thân thể bị đánh cho hai đoạn, máu tươi vẩy bắn mở ra, hai đoạn thân rắn vặn vẹo vài lần, rất nhanh bất động rồi .",
+        "index": 16
+      }
     },
     {
       "convert": "Lam Kha triệu hồi ngân sắc vòng tay, thu hồi khối kia Hỏa Phác Ngọc, quay đầu đối Viên Minh gật gật đầu, tiếp tục hướng phía trước tìm kiếm.",
       "dich": "Lam Kha triệu hồi vòng tay màu bạc, thu khối Hỏa Phác Ngọc lại rồi quay người gật đầu với Viên Minh, sau đó lại tiếp tục bước tới trước tìm kiếm.",
       "suggest": "Lam Kha triệu hồi vòng tay màu bạc, thu hồi Hỏa Phác Ngọc kia, quay đầu lại gật đầu với Viên Minh, tiếp tục tìm kiếm phía trước.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "蓝柯召回银色手链，收起那块火璞玉，转头对袁铭点点头，继续朝前方搜寻。",
+        "text": "Lam kha triệu hồi màu bạc dây xích tay, thu hồi khối kia lửa ngọc thô, quay đầu đối Viên Minh điểm điểm 头, tiếp tục hướng phía trước sưu tầm .",
+        "index": 17
+      }
     },
     {
       "convert": "Viên Minh theo sát phía sau, mật thiết chú ý động tĩnh chung quanh.",
       "dich": "Viên Minh theo sát phía sau, cẩn thận chú ý động tĩnh xung quanh.",
       "suggest": "Viên Minh theo sát phía sau, cẩn thận quan sát động tĩnh xung quanh.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭紧随其后，密切注意周围的动静。",
+        "text": "Viên Minh theo sát phía sau, chặt chẽ chú ý động tĩnh chung quanh .",
+        "index": 18
+      }
     },
     {
       "convert": "A Cổ Lạp tự giác có chút mất mặt, sắc mặt càng thêm khó coi, nhìn về phía Viên Minh bóng lưng trong mắt lướt qua một tia âm tàn.",
       "dich": "A Cổ Lạp tự thấy hơi mất mặt, thần sắc càng thêm khó coi, ánh mắt nhìn bóng lưng Viên Minh thoáng hiện lên một tia âm tàn.",
       "suggest": "A Cổ Lạp tự thấy có chút mất mặt, sắc mặt càng thêm khó coi, nhìn về phía bóng lưng Viên Minh.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "阿古拉自觉有些丢脸，面色愈发难看，望向袁铭背影的眼中掠过一丝阴狠。",
+        "text": "A Cổ Lạp tự giác có chút mất mặt, sắc mặt càng thêm khó coi, nhìn phía Viên Minh bóng lưng đích trong mắt xẹt qua một tia âm tàn .",
+        "index": 19
+      }
     },
     {
       "convert": "Nửa canh giờ trôi qua rất nhanh.",
       "dich": "Nửa canh giờ trôi qua rất nhanh.",
       "suggest": "Nửa canh giờ trôi qua rất nhanh.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "半个时辰很快过去。",
+        "text": "Nửa cái thời thần trôi qua rất nhanh .",
+        "index": 20
+      }
     },
     {
       "convert": "Ba người phối hợp càng thêm thành thạo, Viên Minh cùng A Cổ Lạp hợp lực, đem sở hữu phát động đánh lén Hỏa Nham Xà đều ngăn trở, mà Lam Kha không có nỗi lo về sau, có thể yên tâm khu động Kim Tình Điêu tìm kiếm Hỏa Phác Ngọc, hiệu suất quá nhanh.",
       "dich": "Ba người phối hợp càng lúc càng nhuần nhuyễn, Viên Minh và A Cổ Lạp hợp lực ngăn hết những con Nham Hỏa xà phát động đánh lén, Lam Kha cũng không cần lo lắng, có thể yên tâm điều khiển Kim Tình Điêu tìm kiếm Hỏa Phác Ngọc, hiệu suất làm việc cực nhanh.",
       "suggest": "Ba người phối hợp càng thêm thành thạo, Viên Minh và A Cổ Lạp hợp lực, ngăn trở toàn bộ những đòn tấn công đánh lén do Hỏa Nham Xà gây ra, mà Lam Kha cũng không cần lo lắng, có thể yên tâm khu động Kim Tình Điêu tìm kiếm Hỏa Phác Ngọc, hiệu suất quá nhanh.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "三人配合愈发娴熟，袁铭和阿古拉合力，将所有发动偷袭的火岩蛇尽数挡住，而蓝柯没了后顾之忧，可以放心驱动金睛雕搜寻火璞玉，效率甚快。",
+        "text": "Ba người phối hợp càng thêm thành thạo, Viên Minh cùng A Cổ Lạp hợp lực, đem tất cả phát động đánh lén Hỏa Nham Xà hết thảy ngăn trở, mà lam kha không còn nỗi lo về sau, khả dĩ yên tâm khu động kim tình 雕 sưu tầm lửa ngọc thô, hiệu suất quá nhanh .",
+        "index": 21
+      }
     },
     {
       "convert": "Cho đến bây giờ, bọn hắn đã tìm được hai mươi mấy khối Hỏa Phác Ngọc, Lam Kha cũng dựa theo trước đó thương nghị tốt tỉ lệ, đem Viên Minh cùng A Cổ Lạp Hỏa Phác Ngọc phân cho hai người.",
       "dich": "Cho tới lúc này, bọn hắn đã tìm được hai mươi mấy khối Hỏa Phác Ngọc, Lam Kha cũng dựa theo tỉ lệ phân chia đã thống nhất từ trước, chia Hỏa Phác Ngọc cho hai người Viên Minh và A Cổ Lạp.",
       "suggest": "Cho đến bây giờ, bọn hắn đã tìm được hai mươi mấy khối Hỏa Phác Ngọc, Lam Kha cũng dựa theo tỉ lệ đã thương nghị trước đó, phân cho Viên Minh và A Cổ Lạp Hỏa Phác Ngọc.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "到现在为止，他们已经找到了二十几块火璞玉，蓝柯也按照之前商议好的比例，将袁铭和阿古拉的火璞玉分给了二人。",
+        "text": "Đến tận bây giờ, bọn họ đã tìm được rồi hai mươi mấy khối lửa ngọc thô, lam kha cũng dựa theo trước đó thương nghị tốt tỉ lệ, đem Viên Minh cùng A Cổ Lạp đích lửa ngọc thô phân cho hai người .",
+        "index": 22
+      }
     },
     {
       "convert": "Viên Minh sờ lấy trong ngực, bên trong đã trang bảy khối Hỏa Phác Ngọc, va chạm ở giữa phát ra thanh thúy tiếng vang, năm khối Hỏa Phác Ngọc có thể đổi một điểm điểm cống hiến, những này Hỏa Phác Ngọc không sai biệt lắm một nửa điểm cống hiến.",
       "dich": "Viên Minh đưa tay sờ ngực áo, bên trong đã có bảy khối Hỏa Phác Ngọc thỉnh thoảng đập vào nhau phát tiếng đinh đang thanh thúy. Theo tỷ giá thì cứ năm khối Hỏa Phác Ngọc có thể đổi được một điểm cống hiến, vậy chỗ Hỏa Phác Ngọc này cũng gần tương đương một phẩy năm điểm cống hiến.",
       "suggest": "Viên Minh sờ sờ ngực, bên trong có bảy khối Hỏa Phác Ngọc, va chạm phát ra tiếng vang thanh thúy, năm khối Hỏa Phác Ngọc có thể đổi được một điểm cống hiến, những Hỏa Phác Ngọc này không khác lắm một nửa điểm cống hiến.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭摸着怀里，里面已经装了七块火璞玉，碰撞间发出清脆的声响，五块火璞玉能够换一点贡献值，这些火璞玉差不多一个半贡献值。",
+        "text": "Viên Minh vuốt trong ngực, bên trong đã trang bảy khối lửa ngọc thô, va chạm gian phát ra thanh thúy đích tiếng vang, năm khối lửa ngọc thô có thể đổi một chút cống hiến trực, những này lửa ngọc thô không sai biệt lắm một nửa cống hiến trực .",
+        "index": 23
+      }
     },
     {
       "convert": "Hiện tại thời gian còn sớm, nếu là dựa theo tốc độ bây giờ, trước khi trời tối có thể thu tập mười mấy, thậm chí hai mươi khối Hỏa Phác Ngọc, đây chính là bốn điểm điểm cống hiến.",
       "dich": "Thời gian hiện tại còn sớm, nếu cứ dựa theo tốc độ bây giờ thì trước khi trời tối có thể thu thập mười mấy, thậm chí hai mươi khối Hỏa Phác Ngọc, chính là tương đương bốn điểm cống hiến.",
       "suggest": "Hiện tại thời gian còn rất sớm, nếu dựa theo tốc độ bây giờ, trước lúc trời tối có thể thu thập được mười mấy, thậm chí hai mươi viên Hỏa Phác Ngọc, đây chính là bốn điểm cống hiến.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "现在时间还早，若是按照现在的速度，天黑之前能收集十几，甚至二十块火璞玉，那可是四点贡献值。",
+        "text": "Hiện tại thời gian còn sớm, nếu như dựa theo tốc độ bây giờ, trời tối trước đó có thể thu tập mươi mấy, thậm chí hai mươi khối lửa ngọc thô, đây chính là bốn điểm cống hiến trực .",
+        "index": 24
+      }
     },
     {
       "convert": "Vừa nghĩ đến đây, Viên Minh trong lòng lập tức nóng lên.",
       "dich": "Vừa nghĩ tới đây, trong lòng Viên Minh lập tức nóng lên.",
       "suggest": "Vừa nghĩ đến đây, trong lòng Viên Minh lập tức nóng lên.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一念及此，袁铭心中顿时一热。",
+        "text": "Vừa nghĩ đến đây, Viên Minh trong lòng tức khắc nóng lên .",
+        "index": 25
+      }
     },
     {
       "convert": "Vào thời khắc này, hắn đan điền đột nhiên nhảy một cái, pháp lực đã thấy đáy.",
       "dich": "Nhưng chính vào thời khắc này, đan điền của hắn chợt động, thì ra pháp lực đã cạn thấy đáy.",
       "suggest": "Đúng lúc này, đan điền hắn đột nhiên nhảy lên một cái, pháp lực đã tới đáy.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在此刻，他丹田突然一跳，法力已经见底。",
+        "text": "Vào thời khắc này, hắn đan điền đột nhiên nhảy dựng, pháp lực đã thấy đáy .",
+        "index": 26
+      }
     },
     {
       "convert": "Cũng không đủ pháp lực hộ thể, toàn thân hắn các nơi cũng bắt đầu hơi đau.",
@@ -185,7 +315,12 @@
       "convert": "Viên Minh không có Lam Kha, A Cổ Lạp như thế tích hỏa bảo vật, kiên trì đến bây giờ đã không dễ.",
       "dich": "Viên Minh không có bảo vật tịch hỏa (kháng lửa) như Lam Kha, A Cổ Lạp nên gắng gượng được tới lúc này đã không dễ dàng gì.",
       "suggest": "Viên Minh không có bảo vật của Lam Kha, A Cổ Lạp như thế, kiên trì đến bây giờ đã không dễ rồi.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭没有蓝柯，阿古拉那样的辟火宝物，坚持到现在已经不易。",
+        "text": "Viên Minh không có lam kha, A Cổ Lạp như vậy đích tích lửa bảo vật, kiên trì đến bây giờ đã không dễ .",
+        "index": 28
+      }
     },
     {
       "convert": "\"Hai vị, pháp lực của ta sắp tiêu hao hết, được rời đi nơi đây nghỉ ngơi một chút.\"",
@@ -203,7 +338,12 @@
       "convert": "A Cổ Lạp cái cằm khẽ nâng, trong mắt lộ ra một tia trào phúng, sắc mặt âm trầm ngược lại là dễ nhìn chút.",
       "dich": "A Cổ Lạp hơi hếch cằm lên, trong mắt lộ nét châm chọc, sắc mặt đu ám cũng trở nên khá hơn một chút.",
       "suggest": "Cái cằm A Cổ Lạp khẽ nâng lên, trong mắt lộ ra vẻ trào phúng, sắc mặt âm trầm trái lại còn dễ nhìn hơn một chút.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "阿古拉下巴微抬，眼中透出一丝嘲讽，阴沉的脸色倒是好看了些。",
+        "text": "A Cổ Lạp cằm khẽ nâng, trong mắt lộ ra một tia trào phúng, sắc mặt âm trầm ngược lại dễ nhìn chút .",
+        "index": 30
+      }
     },
     {
       "convert": "\"Không sao, ngươi đi trước đi, hai người chúng ta đủ tự bảo vệ mình.\"",
@@ -233,25 +373,45 @@
       "convert": "Nơi đây nhiệt độ đã khôi phục bình thường, hắn tìm một cái nơi yên tĩnh, vận chuyển Cửu Nguyên Quyết.",
       "dich": "Nơi này nhiệt độ đã trở lại bình thường, hắn tìm một chỗ yên tĩnh vận chuyển Cửu Nguyên Quyết.",
       "suggest": "Nhiệt độ nơi đây đã trở lại bình thường, hắn tìm một chỗ yên tĩnh, vận chuyển Cửu Nguyên Quyết.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "此地的温度已经恢复正常，他找了一个僻静之处，运转九元诀。",
+        "text": "Nơi đây đích độ ấm đã khôi phục bình thường, hắn tìm một cái vắng lặng chỗ, vận chuyển chín nguyên quyết .",
+        "index": 33
+      }
     },
     {
       "convert": "Thiên địa linh khí tụ đến, bổ sung pháp lực của hắn.",
       "dich": "Thiên địa linh khí tụ đến, bổ sung pháp lực cho hắn.",
       "suggest": "Thiên địa linh khí tụ lại, bổ sung pháp lực cho hắn.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "天地灵气汇聚而来，补充着他的法力。",
+        "text": "Thiên địa linh khí tụ đến, bổ sung lấy pháp lực của hắn .",
+        "index": 34
+      }
     },
     {
       "convert": "Một khắc đồng hồ trôi qua, Viên Minh đột nhiên mở to mắt.",
       "dich": "Một khắc đồng hồ sau, Viên Minh đột nhiên mở to mắt.",
       "suggest": "Một khắc đồng hồ trôi qua, Viên Minh đột nhiên mở to mắt.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一刻钟过去，袁铭突然睁开眼睛。",
+        "text": "Một khắc đồng hồ trôi qua, Viên Minh đột nhiên mở to mắt .",
+        "index": 35
+      }
     },
     {
       "convert": "Trong đan điền pháp lực chỉ khôi phục non nửa, tốc độ khôi phục rõ ràng so trước đó chậm.",
       "dich": "Pháp lực trong đan điền mới chỉ khôi phục được non nửa, tốc độ khôi phục rõ ràng chậm hơn trước.",
       "suggest": "Pháp lực trong đan điền mới khôi phục được nửa phân, tốc độ khôi phục rõ ràng chậm hơn trước.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "丹田内的法力只恢复了小半，恢复速度明显比之前慢。",
+        "text": "Trong đan điền đích pháp lực chỉ khôi phục rồi non nửa, tốc độ khôi phục rõ ràng so trước đó chậm .",
+        "index": 36
+      }
     },
     {
       "convert": "\"Đây là có chuyện gì?",
@@ -275,13 +435,23 @@
       "convert": "Hắn đứng lên, giấu đến phụ cận một tảng đá lớn về sau, hướng thanh âm phương hướng nhìn lại.",
       "dich": "Hắn đứng người lên, núp sau một tảng đá lớn gần đó rồi đưa mắt nhìn lại phía phát ra âm thanh.",
       "suggest": "Hắn đứng lên, giấu một tảng đá lớn ở gần đó, sau đó nhìn về phía âm thanh vọng lại.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他站起身，藏到附近一块大石后，朝声音方向望去。",
+        "text": "Hắn đứng người lên, tàng đến phụ cận một tảng đá lớn sau, hướng thanh âm phương hướng nhìn lại .",
+        "index": 38
+      }
     },
     {
       "convert": "Một đạo như hồ ly mảnh mai hồng ảnh xuất hiện ở phía xa, hướng núi lửa phương hướng nhanh chóng chạy tới, chính là Tam động chủ con kia Hỏa Điêu.",
       "dich": "Một cái bóng nhỏ nhắn màu đỏ lửa trông như hồ ly từ phía xa xuất hiện rồi nhanh chóng chạy về phía núi lửa, nhìn kỹ thì chính là con chồn lửa của Tam động chủ.",
       "suggest": "Một bóng hồng mảnh mai như hồ ly xuất hiện ở phía xa xa, nhanh chóng chạy về phía ngọn núi, chính là Hỏa Điêu của tam động chủ.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一道狐狸般的纤瘦红影出现在远处，朝火山方向快速奔来，正是三洞主的那只火貂。",
+        "text": "Một đạo như hồ ly đích mảnh mai hồng ảnh xuất hiện ở phía xa, hướng núi lửa phương hướng nhanh chóng chạy tới, chính là ba động chủ đích con kia lửa chồn .",
+        "index": 39
+      }
     },
     {
       "convert": "\"Hỏa tham mà!",
@@ -311,37 +481,67 @@
       "convert": "Chính mình nói cũng là Tam động chủ dẫn hắn nhập tông môn, ngày nay sở đãi Hỏa Luyện Đường cũng là về hắn quản hạt, nếu như nàng ở phụ cận, bản thân lẽ ra tiến lên bái kiến.",
       "dich": "Lại nói, hắn là do Tam động chủ dẫn vào tông môn, Hỏa Luyện Đường hiện tại cũng là do nàng quản hạt, nếu nàng ở gần đây thì bản thân hắn cũng nên bước ra bái kiến.",
       "suggest": "Chính mình cũng nói là tam động chủ dẫn hắn nhập tông môn, hiện giờ Hỏa Luyện Đường cũng đang thuộc quyền quản lý của hắn, nếu nàng ở gần đó, mình lẽ ra phải tiến lên bái kiến.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "自己说起来也是三洞主带他入的宗门，如今所待的火炼堂也是归其管辖，如果她在附近，自己理应上前拜见。",
+        "text": "Chính mình nói lên tới cũng là ba động chủ dẫn hắn nhập đích tông môn, ngày nay sở đãi đích hỏa luyện 堂 cũng là quy nó quản hạt, nếu nàng tại phụ cận, chính mình lý nên tiến lên bái kiến .",
+        "index": 41
+      }
     },
     {
       "convert": "Viên Minh hướng chung quanh nhìn cả buổi, cũng không phát hiện Tam động chủ thân ảnh.",
       "dich": "Viên Minh nhìn xung quanh một hồi lâu vẫn không phát hiện bóng dáng Tam động chủ.",
       "suggest": "Viên Minh nhìn ngó xung quanh cả buổi cũng không phát hiện ra thân ảnh tam động chủ.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭朝周围望了老半天，并未发现三洞主身影。",
+        "text": "Viên Minh hướng chung quanh nhìn cả buổi, không hề phát hiện ba động chủ thân ảnh .",
+        "index": 42
+      }
     },
     {
       "convert": "Lúc này, Hỏa Điêu cũng chú ý tới xa xa Viên Minh, quay đầu nhìn về bên này nhìn sang, chạy vội bước chân cũng là dừng lại.",
       "dich": "Lúc này, chồn lửa cũng để ý thấy Viên Minh ở nơi xa, nó vừa quay đầu nhìn sang phía bên này, đồng thời ngưng bước chân vội vã lại.",
       "suggest": "Lúc này, Hỏa Điêu cũng chú ý Viên Minh ở phía xa, quay đầu nhìn sang hướng khác, bước chân cũng dừng lại.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "此时，火貂也注意到远处的袁铭，转头朝这边望了过来，飞奔的脚步也是一顿。",
+        "text": "Lúc này, lửa chồn cũng chú ý tới xa xa Viên Minh, quay đầu nhìn về bên này nhìn sang, chạy vội bước chân cũng là một trận .",
+        "index": 43
+      }
     },
     {
       "convert": "Nhưng nó rất nhanh liền dời ánh mắt, tiếp tục hướng núi lửa phương hướng chạy gấp tới.",
       "dich": "Nhưng rất nhanh sau đó, nó đã đưa mắt rời đi rồi lại tiếp tục sải bước chạy nhanh về phía núi lửa.",
       "suggest": "Nhưng nó nhanh chóng dời ánh mắt, tiếp tục chạy về phía ngọn núi.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "但它很快便移开视线，继续朝火山方向飞奔过去。",
+        "text": "Nhưng nó rất nhanh liền dời tầm mắt, tiếp tục hướng núi lửa phương hướng chạy gấp tới .",
+        "index": 44
+      }
     },
     {
       "convert": "Viên Minh mắt lộ vẻ kinh ngạc, xem Hỏa Điêu cái dạng này, giống như đang đuổi thứ gì?",
       "dich": "Mắt Viên Minh lộ vẻ kinh ngạc, nhìn bộ dạng này của con chồn lửa giống như đang truy đuổi thứ gì đó?",
       "suggest": "Viên Minh lộ vẻ kinh ngạc, nhìn Hỏa Điêu này giống như đang đuổi thứ gì vậy?",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭面露诧异之色，看火貂这個样子，好像在追什么东西？",
+        "text": "Viên Minh mắt lộ vẻ kinh ngạc, xem lửa chồn này 個 bộ dáng, dường như đang đuổi thứ gì ?",
+        "index": 45
+      }
     },
     {
       "convert": "Vào thời khắc này, một hồi vội vàng tiếng bước chân từ đằng xa truyền đến, lại là một cái thân hình cao lớn thanh niên tóc đỏ đầu đầy mồ hôi hướng nơi này chạy tới, xem phục sức là Ngự Thú Đường đồ đệ.",
       "dich": "Vào thời khắc này, lại một hồi tiếng bước chân dồn dập từ đằng xa truyền đến, nhìn kỹ thì là một thanh niên cao lớn tóc đỏ, đầu đầy mồ hôi đang chạy về phía này, nhìn trang phục thì hẳn là đệ tử Ngự Thú Đường.",
       "suggest": "Đúng lúc này, một hồi những tiếng bước chân vội vàng từ đằng xa truyền tới, lại là một thanh niên tóc đỏ thân hình cao lớn, đầu đầy mồ hôi chạy tới nơi này, xem bộ dạng như là đồ đệ của Ngự Thú Đường.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在此刻，一阵匆忙的脚步声从远处传来，却是一个身形高大的红发青年满头大汗地朝这里跑来，看服饰是驭兽堂弟子。",
+        "text": "Vào thời khắc này, một trận gấp rút tiếng bước chân từ xa chỗ truyền đến, lại là một cái thân hình cao lớn đích thanh niên tóc đỏ đầu đầy mồ hôi hướng chỗ này chạy tới, coi phục sức là ngự 兽 đường đệ tử .",
+        "index": 46
+      }
     },
     {
       "convert": "\"Phía trước vị sư huynh kia, còn xin ngăn lại con kia Hỏa Điêu, nó là Tam động chủ Linh thú, không được để hắn đụng phải nham tương, nó không thể thừa nhận nham tương nhiệt độ cao!\"",
@@ -359,25 +559,45 @@
       "convert": "Viên Minh sửng sốt một chút.",
       "dich": "Viên Minh thoáng sửng sốt.",
       "suggest": "Viên Minh sửng sốt một chút.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭愣了一下。",
+        "text": "Viên Minh sửng sốt một chút .",
+        "index": 48
+      }
     },
     {
       "convert": "Chiếu ý của người nọ, Hỏa Điêu chẳng lẽ muốn hướng nham tương ở bên trong đi?",
       "dich": "Theo ý của người này, chẳng lẽ con chồn lửa vào đi vào trong dung nham?",
       "suggest": "Chiếu theo ý hắn, chẳng lẽ Hỏa Điêu muốn đi vào trong nham tương?",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "照此人的意思，火貂莫不是要往岩浆里去？",
+        "text": "Dựa theo này người đích ý tứ, lửa chồn ai cũng là muốn hướng nham thạch nóng chảy trong đi ?",
+        "index": 49
+      }
     },
     {
       "convert": "Mặc dù Hỏa Điêu linh trí chưa mở ra, nhưng chính là sâu kiến cũng có bản năng cầu sinh, làm sao lại hướng nham tương ở bên trong nhảy.",
       "dich": "Mặc dù chồn lửa này chưa khai mở linh trí, nhưng dù có là sâu kiến cũng có bản năng cầu sinh, làm sao lại đi nhảy vào trong dung nham chứ?",
       "suggest": "Mặc dù linh trí Hỏa Điêu chưa mở ra, nhưng cũng có bản năng cầu sinh, làm sao mà có thể nhảy vào trong nham tương được.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "虽然火貂的灵智尚未打开，可就是蝼蚁也有求生本能，怎么会往岩浆里跳。",
+        "text": "Tuy rằng lửa chồn đích linh trí còn chưa mở ra, nhưng chính là con sâu cái kiến cũng có chuyện nhờ sinh bản năng, làm sao lại hướng nham thạch nóng chảy trong nhảy .",
+        "index": 50
+      }
     },
     {
       "convert": "Bất quá cái này Hỏa Điêu lại là bay về phía trước chạy, trong mắt tràn đầy lửa nóng, rất có thẳng tiến không lùi, vĩnh viễn không quay đầu ý tứ.",
       "dich": "Có điều con chồn lửa kia vẫn cứ băng băng chạy về phía trước, trong mắt còn tràn đầy lửa nóng, trông khí thế đúng một bộ quyết ý thẳng tiến không lùi, vĩnh viễn không quay đầu.",
       "suggest": "Nhưng con Hỏa Điêu này lại bay về trước, trong mắt tràn đầy lửa nóng, rất có ý thẳng tiến không lùi, vĩnh viễn không quay đầu lại.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "不过这火貂却是向前飞奔，眼睛里满是火热，颇有一往无前，永不回头的意思。",
+        "text": "Chẳng qua lửa này chồn lại là bay về phía trước chạy, con mắt trong tràn đầy lửa nóng, rất có chưa từng có từ trước đến nay, vĩnh viễn không quay đầu đích ý tứ .",
+        "index": 51
+      }
     },
     {
       "convert": "\"Sẽ không thực hướng nham tương ở bên trong nhảy đi!\"",

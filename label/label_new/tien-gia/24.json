@@ -27,7 +27,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭跟着哈贡一路穿林越涧，走了半个多时辰，终于来到了一处隐蔽山谷。",
+        "text": "Viên Minh theo ha cống một đường mặc Lâm Việt khe, tẩu rồi hơn nửa canh giờ, cuối cùng đi tới một chỗ bí mật sơn cốc .",
+        "index": 0
+      }
     },
     {
       "convert": "Vừa tới nơi miệng hang, Viên Minh nhăn nhăn cái mũi, dừng bước lại.",
@@ -39,7 +44,12 @@
           0.33
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "刚到谷口处，袁铭皱起了鼻子，停下脚步。",
+        "text": "Vừa tới nơi miệng hang, Viên Minh nhăn nhăn cái mũi, dừng bước lại .",
+        "index": 1
+      }
     },
     {
       "convert": "\"Đây là cái gì mùi lạ đây?\"",
@@ -75,7 +85,12 @@
           0.26
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他闻到了一股好似硫磺一样的气味，实际却更加复杂。",
+        "text": "Hắn nghe thấy được một luồng coi như lưu hoàng đồng dạng đích mùi, thực tế nhưng càng thêm phức tạp .",
+        "index": 3
+      }
     },
     {
       "convert": "\"Khu thú phấn hương vị, có thể xua đuổi bộ phận độc trùng cùng hung thú, để bọn chúng không tới gần nơi này.\"",
@@ -183,7 +198,12 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "山谷入口处颇为狭窄，像是一个天然的关口，进入里面却是豁然开朗，变得颇为宽阔，就好似从蛤蟆嘴，来到了肚子里。",
+        "text": "Cửa vào sơn cốc chỗ có chút chật hẹp, như là một cái thiên nhiên đích quan khẩu, tiến vào bên trong lại là sáng tỏ thông suốt, trở nên có chút rộng lớn, liền tựa như từ cóc miệng, đi tới trong bụng .",
+        "index": 7
+      }
     },
     {
       "convert": "Hai người một tiến vào sơn cốc, đi chưa được mấy bước, phía trước liền xuất hiện vài toà kiểu dáng thô lậu, dùng tảng đá lũy thế mà thành tảng đá phòng.",
@@ -195,7 +215,12 @@
           0.15
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "两人一进入山谷，没走几步，前面就出现了几座样式粗陋，用石头垒砌而成的石头屋子。",
+        "text": "Hai người tiến vào núi cốc, đi chưa được mấy bước, phía trước liền xuất hiện rồi vài toà hình thức thô lậu, dụng hòn đá lũy thế mà thành hòn đá gian phòng .",
+        "index": 8
+      }
     },
     {
       "convert": "Thạch ốc đều không có cửa, chỉ có một cái trống rỗng cửa mở rộng ra, bên trong mơ hồ có thể nhìn thấy bóng người.",
@@ -207,14 +232,24 @@
           0.3
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "石屋都没有门，只有一个空洞的门口敞开着，里面隐约能够看到人影。",
+        "text": "Nhà đá đều không có môn, chỉ có một trống rỗng đích môn khẩu mở rộng ra, bên trong mơ hồ có thể nhìn thấy bóng người .",
+        "index": 9
+      }
     },
     {
       "convert": "Tại mấy cái này thạch ốc chung quanh, còn có một số trên thân đồng dạng hất lên da thú người, số lượng không nhiều, từng cái vẻ mặt ngây ngô, trên mặt đều không có cái gì cảm xúc.",
       "dich": "Ở quanh mấy gian nhà đá còn có một ít người khoác da thú trên thân, tính số lượng cũng không nhiều lắm, kẻ nào kẻ nấy thần sắc cứng ngắc, mặt không có cảm xúc gì.",
       "suggest": "Quanh mấy căn nhà đá này còn có một số người mặc da thú giống hệt người bình thường, số lượng không nhiều, khuôn mặt ngây ngốc, trên mặt đều không có chút cảm xúc nào.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "在这几個石屋周围，还有一些身上同样披着兽皮的人，数量不多，一个个表情麻木，脸上都没有什么情绪。",
+        "text": "Tại này mấy 個 nhà đá chung quanh, còn có một số trên thân cùng 样 khoác da thú đích người, số lượng không nhiều, từng cái vẻ mặt ngây ngô, trên mặt đều không có tâm tình gì .",
+        "index": 10
+      }
     },
     {
       "convert": "Viên Minh vừa định tiến lên nhìn xem, liền bị Cáp Cống ngăn lại.",
@@ -226,7 +261,12 @@
           0.43
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭刚想上前去看看，就被哈贡拦了下来。",
+        "text": "Viên Minh vừa định tiến lên nhìn xem, liền bị ha cống ngăn lại .",
+        "index": 11
+      }
     },
     {
       "convert": "\"Một hồi nói chuyện chú ý chút, chớ chọc đến những cái kia ký danh đệ tử, bọn hắn đại đa số tính tình đều không thế nào tốt.\"",
@@ -270,7 +310,12 @@
           0.7
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭闻言，默然点了点头。",
+        "text": "Viên Minh nghe vậy, im lặng gật gật đầu .",
+        "index": 13
+      }
     },
     {
       "convert": "Hắn đi đến tòa thứ nhất thạch ốc trước mặt, hướng bên trong đánh giá một chút, chỉ thấy bên trong bày biện mười phần đơn sơ, chỉ có một cái bàn gỗ cùng một cái ghế nằm.",
@@ -282,7 +327,12 @@
           0.44
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他走到第一座石屋跟前，朝里面打量了一眼，就见内里陈设十分简陋，只有一张木桌和一把躺椅。",
+        "text": "Hắn đi đến tòa thứ nhất nhà đá sắp tới, hướng bên trong đánh giá một chút, chỉ thấy nội bộ trần thiết thập phần đơn sơ, chỉ có một cái bàn gỗ cùng một cái ghế dựa .",
+        "index": 14
+      }
     },
     {
       "convert": "Một người mặc màu xanh biếc vải bào nam tử trẻ tuổi, đang nằm tại trên ghế nằm, ưu tai du tai đung đưa, trong tay hắn còn bưng lấy một bản giấy chất thanh sắc thư quyển, cản trở nửa gương mặt, lộ ra vô cùng hài lòng.",
@@ -294,7 +344,12 @@
           0.31
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一个身穿青绿色布袍的年轻男子，正躺在躺椅上，优哉游哉地晃悠着，他的手里还捧着一本纸质的青色书卷，挡着半张脸，显得无比惬意。",
+        "text": "Một người mặc xanh đậm sắc vải bào tuổi trẻ nam tử, đang nằm tại trên ghế nằm, nhàn nhã thong dong địa đung đưa, trong tay của hắn còn đang cầm một quyển giấy chất đích màu xanh quyển sách, chống đỡ hé mở mặt, lộ ra vô cùng thích ý .",
+        "index": 15
+      }
     },
     {
       "convert": "Nó trước người trên mặt bàn dựng thẳng một khối tấm bảng gỗ, phía trên dán giấy trắng, viết \"Thu mua đủ năm linh thảo, các loại khoáng thạch\".",
@@ -306,7 +361,12 @@
           0.1
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "其身前的桌子上竖着一块木牌，上面贴着白纸，写着“收购足年灵草，各类矿石”。",
+        "text": "Nó trước người cái bàn thượng dựng thẳng một khối tấm bảng gỗ, thượng diện dán giấy trắng, viết “ thu mua đủ niên linh thảo, các loại khoáng thạch ” .",
+        "index": 16
+      }
     },
     {
       "convert": "Chỉ có một câu đơn giản lời nói, thu mua danh mục cùng cụ thể niên hạn, cái gì đều không có viết.",
@@ -318,7 +378,12 @@
           0.11
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "只有简单一句话，收购的名目和具体年限，什么都没写。",
+        "text": "Chỉ có giản đơn một câu lời, thu mua đích danh mục cùng cụ thể niên hạn, gì đều không viết .",
+        "index": 17
+      }
     },
     {
       "convert": "Cùng hắn liền nhau trong nhà đá, đồng dạng có một cái bàn, phía trên cũng dựng thẳng một khối tấm bảng gỗ, phía trên dán đồng dạng giấy trắng, viết \"Thu mua linh thảo, khoáng thạch, xương thú, huyết thực\".",
@@ -330,21 +395,36 @@
           0.37
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "与他相邻的石屋里，同样有一张桌子，上面也竖着一块木牌，上面贴着同样的白纸，写着“收购灵草，矿石，兽骨，血食”。",
+        "text": "Cùng hắn lân cận đích nhà đá trong, cùng 样 có một cái bàn, thượng diện cũng dựng thẳng một khối tấm bảng gỗ, thượng diện dán đồng dạng giấy trắng, viết “ thu mua linh thảo, khoáng thạch, thú cốt, huyết thực ” .",
+        "index": 18
+      }
     },
     {
       "convert": "Khác biệt chính là, trong gian phòng này trống không, bên trong không có con người.",
       "dich": "Điểm khác là gian nhà này trống không, bên trong chẳng có người nào.",
       "suggest": "Khác biệt duy nhất ở đây là, trong gian phòng này không có một ai.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "不同的是，这间屋子里空着，里面没有人。",
+        "text": "Bất đồng chính là, trong gian phòng này bỏ không, bên trong không có người .",
+        "index": 19
+      }
     },
     {
       "convert": "Mặt khác hai gian thạch ốc, bên trong cũng là không sai biệt lắm tình hình, đều có trưng bày, nhưng đều có vẻ hơi thô lậu.",
       "dich": "Lại xem thêm gian nhà đá khác, tình cảnh bên trong cũng không khác lắm, gian nào cũng bày biện đồ đạc, nhưng vẫn như trước, đều có chút thô kệch.",
       "suggest": "Hai gian phòng khác cũng không khác nhau là mấy, đều có trưng bày, nhưng đều có vẻ thô lậu.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "另外两间石屋，里面也是差不多的情形，各有陈列，但都显得有些粗陋。",
+        "text": "Cái khác hai gian nhà đá, bên trong cũng là không sai biệt lắm tình hình, đều có trưng bày, nhưng đều có vẻ hơi thô lậu .",
+        "index": 20
+      }
     },
     {
       "convert": "Tại phía sau cùng một gian trong nhà đá, Viên Minh đúng lúc nhìn thấy hai cái Phi Mao thú nô đang cùng bên trong ký danh đệ tử giao dịch.",
@@ -360,7 +440,12 @@
           0.1
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "在最后面一间石屋里，袁铭正巧看到两个披毛兽奴正在与里面的记名弟子交易。",
+        "text": "Tại tối hậu mặt một gian nhà đá trong, Viên Minh vừa vặn nhìn thấy hai cái Phi Mao thú nô đang cùng bên trong ký danh đệ tử giao dịch .",
+        "index": 21
+      }
     },
     {
       "convert": "Tên đệ tử kia lộ ra rất không kiên nhẫn, đối Phi Mao thú nô mang tới hai khối màu đỏ sậm khoáng thạch, cùng một gốc bộ dáng tựa như nhân sâm, nhan sắc lại là vàng như nến thảo dược chọn chọn lựa lựa.",
@@ -372,7 +457,12 @@
           0.34
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "那名弟子显得很不耐烦，对披毛兽奴带来的两块暗红色矿石，和一株模样好似人参，颜色却是蜡黄的草药挑挑拣拣。",
+        "text": "Tên đệ tử kia lộ ra rất không kiên nhẫn, đối Phi Mao thú nô mang tới hai khối màu đỏ sậm khoáng thạch, cùng một gốc cây bộ dáng coi như nhân sâm, nhan sắc lại là vàng như nến đích thảo dược chọn chọn lựa lựa .",
+        "index": 22
+      }
     },
     {
       "convert": "Cuối cùng, dùng một cái sứ trắng bình nhỏ, đuổi cái kia Phi Mao thú nô.",
@@ -392,7 +482,12 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "最终，用了一个白瓷小瓶，打发了那个披毛兽奴。",
+        "text": "Sau cùng, dùng một cái sứ trắng bình nhỏ, đuổi rồi cái kia Phi Mao thú nô .",
+        "index": 23
+      }
     },
     {
       "convert": "Tên kia Phi Mao thú nô thiên ân vạn tạ về sau, mới mang theo bình nhỏ, mặt mũi tràn đầy vui mừng rời đi.",
@@ -408,7 +503,12 @@
           0.23
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "那名披毛兽奴千恩万谢之后，才带着小瓶，满脸喜色地离开了。",
+        "text": "Tên kia Phi Mao thú nô thiên ân vạn tạ sau đó, mới mang theo bình nhỏ, đầy mặt sắc mặt vui mừng rời đi .",
+        "index": 24
+      }
     },
     {
       "convert": "\"Hai khối hỏa văn quặng sắt, cùng một cây Xích Hoàng Tinh, liền đổi một bình bổ huyết đan, bọn gia hỏa này thật sự là càng ngày càng tâm đen.\"",
@@ -444,7 +544,12 @@
           0.25
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他的声音很轻，几乎除了他自己，没人能听得到。",
+        "text": "Thanh âm của hắn rất nhẹ, cơ hồ ngoại trừ chính hắn, không ai năng nghe được .",
+        "index": 26
+      }
     },
     {
       "convert": "Viên Minh lại nghe cái rõ ràng.",
@@ -464,7 +569,12 @@
           0.15
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭却听了个真切。",
+        "text": "Viên Minh lại nghe rồi cái rõ ràng .",
+        "index": 27
+      }
     },
     {
       "convert": "Chỉ là ở chỗ này, hắn không có hỏi nhiều, mà là chờ cùng Cáp Cống cùng đi xa, mới lên tiếng hỏi:",
@@ -476,7 +586,12 @@
           0.24
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "只是在这边，他没有多问，而是等和哈贡一起走远了，才出声问道：",
+        "text": "Chỉ là ở bên cạnh, hắn không có hỏi nhiều, mà là chờ cùng ha cống cùng nhau đi xa, mới lên tiếng hỏi :",
+        "index": 28
+      }
     },
     {
       "convert": "\"Ăn thiệt thòi là chuyện thường xảy ra, bất quá lần này cái thằng này giá ép tới quá độc ác.",

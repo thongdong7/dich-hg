@@ -25,7 +25,12 @@
           0.14
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭活动了一下浑身筋骨，发现伤口处肌肉牵扯起来还是会有痛感，但比起昨天，已经好了太多了。",
+        "text": "Viên Minh hoạt động một chút toàn thân cơ bắp xương, phát hiện miệng vết thương cơ bắp dây dưa lên tới vẫn sẽ có cảm nhận sâu sắc, nhưng so với ngày hôm qua, đã tốt quá nhiều rồi .",
+        "index": 0
+      }
     },
     {
       "convert": "Hắn một phen tư lượng sau đó, quyết định trước không nên mạo hiểm đi săn thú, tính toán làm điểm cạm bẫy các loại đồ vật, xem một chút có thể hay không dụ bắt đến một chút như là thỏ rừng chuột đất các loại tiểu thú.",
@@ -37,7 +42,12 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他略一思量过后，决定先不要冒险去猎兽，打算做点陷阱之类的东西，看看能不能诱捕到一些诸如野兔地鼠之类的小兽。",
+        "text": "Hắn một phen tư lượng qua đi, quyết định trước không nên mạo hiểm đi săn thú, tính toán làm điểm cạm bẫy các loại đồ vật, nhìn xem có thể hay không dụ bắt đến một chút như là thỏ hoang chuột đất các loại đích thú nhỏ .",
+        "index": 1
+      }
     },
     {
       "convert": "Đợi đến lúc ăn uống no đủ, đã có sức lực về sau, lại đi bắt giết dã thú.",
@@ -49,7 +59,12 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "等到吃饱喝足，有了力气之后，再去捕杀野兽。",
+        "text": "Đợi đến ăn uống no đủ, có rồi khí lực sau đó, lại đi bắt giết dã thú .",
+        "index": 2
+      }
     },
     {
       "convert": "Một nghĩ đến đây, Viên Minh liền bắt đầu tại bốn phía sưu tập cứng cỏi cây dây cùng nhánh cây, cùng lúc lưu ý tìm kiếm phù hợp thu xếp địa điểm.",
@@ -61,7 +76,12 @@
           0.26
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一念及此，袁铭就开始在四周搜集坚韧的树藤和树枝，同时留意寻找合适的安置地点。",
+        "text": "Vừa nghĩ đến đây, Viên Minh liền bắt đầu tại bốn phía sưu tập cứng cỏi đích cây mây cùng nhánh cây, cùng thời lưu ý tìm kiếm thích hợp an trí địa điểm .",
+        "index": 3
+      }
     },
     {
       "convert": "Đối với bắt thú một chuyện, chính hắn cũng không có quá nhiều kinh nghiệm hoặc trí nhớ, chỉ có thể nhờ vào mơ hồ ấn tượng, làm một chút dây thừng bộ cùng Kako, có thể hay không bị bắt được dã thú, chỉ có thể nhìn vận khí.",
@@ -73,7 +93,12 @@
           0.29
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "对于捕兽一事，他自己并没有太多经验或记忆，只能凭借模糊的印象，做了一些绳套和卡口，能不能捕捉到野兽，只能看运气了。",
+        "text": "Đối với bắt 兽 một chuyện, chính hắn không hề có quá nhiều kinh nghiệm hoặc ký ức, chỉ có thể bằng vào mơ hồ đích ấn tượng, làm một chút thừng bộ cùng khe gắn, có thể hay không bắt được dã thú, chỉ có thể nhìn vận khí .",
+        "index": 4
+      }
     },
     {
       "convert": "Bất quá tại để đặt cạm bẫy thời điểm, hắn trái lại thu thập một chút quả dại trở về.",
@@ -85,7 +110,12 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "不过在放置陷阱的时候，他倒是采集了一些野果回来。",
+        "text": "Chẳng qua tại sắp đặt cạm bẫy thời điểm, hắn ngược lại đào được một chút quả dại trở lại .",
+        "index": 5
+      }
     },
     {
       "convert": "Trong đó có to như quả táo, toàn thân đỏ tía sung mãn, có nhỏ như viên đạn, màu sắc đỏ thẫm khả quan, còn có một loại lớn lên rất giống cây mơ, phía trên có giăng đầy thật nhỏ viên bi, nhìn hết sức mê người.",
@@ -97,21 +127,36 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "其中有的大如苹果，通体紫红饱满，有的小如弹丸，颜色殷红喜人，还有一种长得很像树莓，上面有密布的细小颗粒，看着十分诱人。",
+        "text": "Trong đó có đích to như cây táo, toàn thân tử hồng sung mãn, có đích nhỏ như viên đạn, nhan sắc đỏ sẫm khả quan, còn có một loại dáng dấp rất giống cây mơ, thượng diện có dầy đặc đích thật nhỏ mùa màng, nhìn xem thập phần mê người .",
+        "index": 6
+      }
     },
     {
       "convert": "Viên Minh đối với mấy cái này quả dại một cái cũng không nhận ra, sở dĩ ngắt lấy trở về, là bởi vì trong bụng truyền đến cảm giác đói khát trở nên càng mãnh liệt, đã đợi không được bẫy rập của hắn đại triển thần uy.",
       "dich": "Viên Minh chẳng biết gì về đám quả dại này, lý do hắn hái về là vì cảm giác đói cồn cào trong bụng càng lúc càng mãnh liệt, đợi không nổi tới lúc cạm bẫy đại triển thần uy nữa.",
       "suggest": "Viên Minh không hề nhận ra cái gì về chúng, sở dĩ hắn đem trả về là bởi vì trong bụng truyền đến cảm giác đói khát mãnh liệt, cho nên hắn đã không thể thoát khỏi lưới vây của bọn chúng.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭对这些野果一个都不认识，之所以采摘回来，是因为腹内传来的饥饿感变得越发强烈，已经等不到他的陷阱大展神威了。",
+        "text": "Viên Minh đối với mấy cái này quả dại không biết cái nào, chỗ tới nay hái trở lại, là bởi vì trong bụng truyền đến đích cảm giác đói bụng trở nên càng phát mãnh liệt, đã đợi không đến bẫy rập của hắn đại triển thần uy rồi .",
+        "index": 7
+      }
     },
     {
       "convert": "Hắn ngắt lấy lúc cũng là hết sức xoắn xuýt, sợ thu thập đến độc vật trở về, chỉ có thể đơn giản đất thông qua quan sát những thứ này quả dại có hay không bị dã thú ăn qua dấu vết, để làm phán đoán.",
       "dich": "Hắn lúc hái quả cũng rất xoắn xuýt, chỉ sợ hái phải trái độc nên chỉ có thể dùng cách tương đối đơn giản là quan sát xem trên mấy quả này có dấu răng dã thú hay không để phán đoán.",
       "suggest": "Lúc này hắn cũng hết sức xoắn xuýt, sợ sau khi thu thập được độc vật trở về, chỉ có thể thông qua quan sát những quả dại này có bị dã thú ăn qua hay không, để làm căn cứ phán đoán.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他采摘时也是十分纠结，生怕采到毒物回来，只能简单地通过观察这些野果有没有被野兽吃过的痕迹，来做判断。",
+        "text": "Hắn hái lượm thời cũng là thập phần rối rắm, sợ hái được độc vật trở lại, chỉ có thể giản đơn địa thông qua quan sát những này quả dại có hay không có bị dã thú nếm qua đích dấu vết, tới làm phán đoán .",
+        "index": 8
+      }
     },
     {
       "convert": "Mà bị hắn mang về huyệt động này mấy thứ, đều là trải qua hắn tuyển chọn phía sau đấy.",
@@ -123,7 +168,12 @@
           0.28
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "而被他带回洞穴的这几样，都是经过他拣选后的。",
+        "text": "Mà bị hắn mang về huyệt động đích mấy dạng này, đều là kinh qua hắn tuyển chọn sau .",
+        "index": 9
+      }
     },
     {
       "convert": "Dùng rễ cây ngăn cản tốt cửa động về sau, Viên Minh có chút do dự cầm lấy một cái nhỏ nhất màu đỏ cây mơ một dạng trái cây, bỏ vào trong miệng, một cái cắn xuống.",
@@ -139,7 +189,12 @@
           0.1
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "用树根挡好洞口后，袁铭有些踌躇的拿起一枚最小的红色树莓一样的果子，放进了嘴里，一口咬下。",
+        "text": "Dụng rễ cây cản hảo cái động khẩu sau, Viên Minh có chút do dự đích cầm lấy một viên nhỏ nhất đích màu đỏ cây mơ đồng dạng đích trái cây, bỏ vào trong miệng, một ngụm cắn xuống .",
+        "index": 10
+      }
     },
     {
       "convert": "Trong veo nước trong nháy mắt đầy tràn Viên Minh răng gò má, để hắn nhịn không được mở to hai mắt.",
@@ -151,7 +206,12 @@
           0.4
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "清甜的汁水瞬间溢满袁铭的齿颊，让他忍不住睁大了眼睛。",
+        "text": "Trong veo đích nước trong nháy mắt tràn đầy Viên Minh đích răng gò má, khiến hắn nhịn không được trợn to mắt con ngươi .",
+        "index": 11
+      }
     },
     {
       "convert": "Nhỏ sau khi nếm thử, Viên Minh phát hiện cũng không có cái gì đặc biệt cảm giác, lúc này tiếp tục bắt đầu ăn.",
@@ -170,7 +230,12 @@
       "dich": "Có điều, ăn xong trái cây màu đỏ này cũng chỉ thỏa mãn được vị giác một chút chứ cơ bản tình trạng đói khát cồn cào của hắn chẳng thuyên giảm gì.",
       "suggest": "Quả màu đỏ sau khi ăn xong chỉ thỏa mãn một vị giác, đối với tình hình đói khát của hắn không hề giảm bớt chút nào.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "红色的小果子吃完之后，只是满足了一下味蕾，对于他饥饿的状况没有丝毫缓解。",
+        "text": "Màu đỏ quả nhỏ sau khi ăn xong, chỉ là thỏa mãn một chút nhũ đầu, đối với hắn đói khát đích trạng huống không có chút nào hoãn giải .",
+        "index": 13
+      }
     },
     {
       "convert": "Vì vậy, Viên Minh lại bắt đầu thử nghiệm loại thứ hai màu sắc đỏ thẫm, nhỏ như anh đào một dạng trái cây.",
@@ -182,14 +247,24 @@
           0.31
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "于是，袁铭又开始尝试第二种颜色殷红，小如樱桃一样的果子。",
+        "text": "Thế là, Viên Minh lại bắt đầu thử loại thứ hai nhan sắc đỏ sẫm, nhỏ như anh đào đồng dạng đích trái cây .",
+        "index": 14
+      }
     },
     {
       "convert": "Cái quả này màu sắc so với màu đỏ cây mơ càng thêm tươi đẹp, nhìn óng ánh sáng long lanh lại hết sức sung mãn khéo đưa đẩy, nhìn qua hương vị nên không sai.",
       "dich": "Quả này màu sắc so với quả mâm xôi trước còn tươi đẹp hơn, nhìn vỏ sáng lại căng mọng, có vẻ hương vị sẽ không tệ.",
       "suggest": "Màu sắc quả này so với mơ hồ càng thêm tươi đẹp, ánh sáng óng ánh xen lẫn chút hồng hào, nhìn qua có vẻ rất vừa miệng, vừa ngửi thấy vị rất vừa miệng.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "这果子颜色比红色树莓更加鲜艳，看着晶莹剔透又十分饱满圆滑，一看味道就应该不错。",
+        "text": "Cái quả này nhan sắc so màu đỏ cây mơ càng thêm tiên diễm, nhìn xem trong suốt trong sáng lại thập phần sung mãn trơn tru, xem xét mùi vị nên không tệ .",
+        "index": 15
+      }
     },
     {
       "convert": "Viên Minh nhặt lên một viên bỏ vào trong miệng, nhấm nuốt trong nháy mắt, hắn liền thất vọng.",
@@ -201,35 +276,60 @@
           0.2
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭拈起一颗放进嘴里，咀嚼的瞬间，他就大失所望。",
+        "text": "Viên Minh nhặt lên một viên bỏ vào trong miệng, nhai kỹ đích trong nháy mắt, hắn liền thất vọng .",
+        "index": 16
+      }
     },
     {
       "convert": "Một cỗ chua xót tê dại chất lỏng hỗn tạp lấy cứng rắn thịt quả, tại hắn răng gò má ở giữa lưu chuyển ra, cảm giác kia so với nhai một bó to hạt tiêu còn muốn tới được mãnh liệt.",
       "dich": "Một dòng nước quả mang tạo cảm giác tê dại lẫn thịt quả cứng còng lưu chuyển qua lại giữa hai bên má hắn, tư vị còn khó chịu hơn nhải cả đống tiêu.",
       "suggest": "Một dòng chất lỏng lỏng chua xót tê dại, dính chặt vào xương quả cứng rắn của hắn, lưu chuyển trên mặt hắn. Cảm giác này so với việc hắn nhai một nắm hạt tiêu to còn mãnh liệt hơn.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一股酸涩发麻的汁液混杂着硬邦邦的果肉，在他的齿颊间流转开来，那感觉比嚼了一大把花椒还要来得强烈。",
+        "text": "Một luồng chua chát run lên đích chất lỏng hỗn tạp cứng rắn đích thịt quả, tại hắn răng gò má gian lưu chuyển mở ra, cảm giác kia so nhai một bó to hoa tiêu còn muốn tới mãnh liệt .",
+        "index": 17
+      }
     },
     {
       "convert": "Viên Minh một bên \"Hừ hừ\" đất phun ra trái cây cặn, một bên hộc ra đầu lưỡi.",
       "dich": "Viên Minh vừa phì phì phun phần trái cây trong miệng, vừa lè lưỡi lắc đầu.",
       "suggest": "Viên Minh vừa hừ hừ đất, vừa há miệng phun ra mấy ngụm nước bọt, còn đầu lưỡi thì lại mở ra.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭一边“呸呸”地吐出果子残渣，一边吐出了舌头。",
+        "text": "Viên Minh một bên “ phì phì ” địa phun ra trái cây cặn, một bên phun ra đầu lưỡi .",
+        "index": 18
+      }
     },
     {
       "convert": "Kết quả khi hắn muốn dùng cây mơ trái cây hồi hồi mùi vị lúc, mới phát hiện vừa rồi chút bất tri bất giác đã đem kia trái cây ăn được ngăn nắp, sạch sẽ.",
       "dich": "Khi hắn định dùng quả mâm xôi khôi phục lại vị giác thì mới phát hiện mình bất tri bất giác đã ăn hết loại quả đó rồi.",
       "suggest": "Kết quả là khi hắn đang dùng quả mơ chín thơm lừng hồi lâu, mới phát hiện ra quả mơ vừa rồi không biết đã ngăn nắp, sạch sẽ.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "结果当他想要用树莓果子回回味儿时，才发现方才不知不觉间已经将那果子吃得干干净净。",
+        "text": "Kết quả khi hắn muốn dụng cây mơ trái cây dân tộc Hồi mùi vị thời, mới phát hiện mới trong bất tri bất giác đã đem kia trái cây ăn đến sạch sẽ .",
+        "index": 19
+      }
     },
     {
       "convert": "Bất đắc dĩ trong miệng cái loại này chết lặng cảm giác, chẳng những không có theo thời gian lưu chuyển mà chậm lại, trái lại trở nên càng mãnh liệt bắt đầu, thậm chí đã lan tràn đến Viên Minh quai hàm.",
       "dich": "Hơn nữa, cái cảm giác tê dại trong miệng này chẳng những không có giảm đi theo thời gian, trái lại càng lúc càng mạnh lên, thậm chí bắt đầu lan tràn tới quai hàm của Viên Minh.",
       "suggest": "Bất đắc dĩ loại cảm giác chết lặng này, chẳng những không theo thời gian lưu chuyển mà trở nên mãnh liệt, thậm chí đã lan tràn đến quai hàm Viên Minh.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "无奈嘴里那种麻木的感觉，不但没有随着时间的流转而减缓，反而变得越发强烈起来，甚至已经蔓延到了袁铭的腮帮子。",
+        "text": "Bất đắc dĩ miệng trong loại kia mê muội đích cảm giác, chẳng những không có theo thời gian lưu chuyển mà giảm hoãn, ngược lại trở nên càng phát mãnh liệt, thậm chí đã lan tràn đến rồi Viên Minh đích quai hàm .",
+        "index": 20
+      }
     },
     {
       "convert": "Hắn đành phải cầm lấy cuối cùng cái loại này to như quả táo một dạng đỏ tía trái cây, một cái cắn ra.",
@@ -241,7 +341,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他只得拿起最后那种大如苹果一样的紫红果子，一口咬了上去。",
+        "text": "Hắn đành phải cầm lấy tối hậu loại kia to như cây táo đồng dạng đích tử hồng trái cây, một ngụm cắn đi lên .",
+        "index": 21
+      }
     },
     {
       "convert": "\"Két xùy\" một tiếng vang.",
@@ -260,7 +365,12 @@
           0.39
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "紫红果子的果皮一被咬破，一股微甜微酸的味道立即覆盖住了那股子麻味儿，取而代之的则是一股很难形容的香味。",
+        "text": "Tử hồng trái cây đích vỏ trái cây mỗi lần bị cắn nứt, một luồng hơi chút ngọt vị chua đích mùi vị lập tức bao trùm rồi cỗ này đay gai mùi vị, thay thế đích thì là một luồng rất khó hình dung mùi .",
+        "index": 23
+      }
     },
     {
       "convert": "Giống như là quýt cùng quả táo hỗn hợp hương vị, càng nghe thấy còn càng để cho người ta có bay thẳng trong đầu, muốn ngừng mà không được cảm giác.",
@@ -272,7 +382,12 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就好像是橘子和苹果混合的味道，越闻还越让人有着直冲脑海，欲罢不能的感觉。",
+        "text": "Giống như là quýt tử cùng cây táo hỗn hợp đích mùi vị, càng nghe còn càng để cho người ta có thẳng hướng đầu óc, muốn ngừng mà không được đích cảm giác .",
+        "index": 24
+      }
     },
     {
       "convert": "\"Đồ ngon!\"",
@@ -291,7 +406,12 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭忍不住深嗅了一口，浓郁的味道冲入鼻腔的瞬间，他的眼前忽然一片模糊，浑身随即变得无比僵硬，朝着一旁直挺挺地倒了下去。",
+        "text": "Viên Minh nhịn không được hít sâu rồi một ngụm, mùi nồng nặc nhảy vào xoang mũi đích trong nháy mắt, trước mắt hắn bỗng nhiên hoàn toàn mơ hồ, toàn thân lập tức trở nên vô cùng cứng đờ, hướng tới một bên thẳng tắp địa ngã xuống .",
+        "index": 26
+      }
     },
     {
       "convert": "\"Hướng, hướng, bức vẽ...\"",
@@ -310,14 +430,24 @@
           0.23
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭僵硬的舌头已经无法准确说出“中毒”两个字，随即两眼一翻，昏死了过去。",
+        "text": "Viên Minh cứng đờ đích đầu lưỡi đã vô pháp nói cho đúng ra “ trúng độc ” hai cái chữ, lập tức hai mắt khẽ đảo, chết ngất qua đi .",
+        "index": 28
+      }
     },
     {
       "convert": "Chờ hắn lại tỉnh lại thì, đã là lúc chạng vạng tối, phía ngoài trời chiều không cách nào theo cửa động phương hướng chiếu vào mảy may, trong động đất lộ ra có chút âm u.",
       "dich": "Chờ tới khi hắn tỉnh đã là lúc xế chiều, ánh hoàng hôn không thể chiếu tới cửa động khiến không gian trong động có vẻ u ám.",
       "suggest": "Đến lúc hắn tỉnh lại thì đã là chạng vạng tối, ánh sáng bên ngoài cửa động không thể nào chiếu vào được, động đất trong động lộ ra chút âm u.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "等他再醒来时，已经是傍晚时分，外面的夕阳无法从洞口方向照进来分毫，地洞里显得有些幽暗。",
+        "text": "Chờ hắn tỉnh nữa lúc đến, đã là lúc chạng vạng tối, phía ngoài trời chiều vô pháp từ cái động khẩu phương hướng chiếu vào mảy may, địa động bên trong có vẻ hơi u ám .",
+        "index": 29
+      }
     },
     {
       "convert": "Viên Minh tay chống đất ngồi dậy, sống bỗng nhúc nhích tay chân, phát hiện trừ đi thoáng có chút đau xót căng ra dùng bên ngoài, cũng không có cái gì rõ ràng dị thường, thậm chí đầu óc đều không có cái gì hồ đồ tăng cảm giác, liền giống như chẳng qua là ngủ một giấc mà thôi.",
@@ -329,7 +459,12 @@
           0.27
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭手撑着地坐起身，活动了一下手脚，发现除了略微有些酸胀以外，再没有什么明显异常，甚至头脑都没有什么昏涨之感，就仿佛只是睡了一觉而已。",
+        "text": "Viên Minh tay chống đất ngồi dậy, hoạt động một chút thủ cước, phát hiện trừ bỏ thoáng có chút mỏi căng ngoài ra, sẽ không có gì rõ ràng dị thường, thậm chí đầu não đều không có gì hôn trướng cảm giác, liền phảng phất chỉ là ngủ một giấc mà thôi .",
+        "index": 30
+      }
     },
     {
       "convert": "Hắn xoa nhẹ mi tâm, nhìn thoáng qua trên mặt đất không ăn xong quả dại, bụng lại \"Lải nhải\" đất kêu lên.",
@@ -341,7 +476,12 @@
           0.31
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他揉了揉眉心，看了一眼地上没吃完的野果，肚子又“咕”地叫了起来。",
+        "text": "Hắn xoa nhẹ mi tâm, nhìn thoáng qua địa thượng không ăn xong đích quả dại, bụng lại “ cục cục ” địa kêu lên .",
+        "index": 31
+      }
     },
     {
       "convert": "\"Không thể tiếp tục như vậy nữa, bằng không đừng nói giết một đầu dã thú lấy tinh huyết, e rằng trước phải bị chết đói, trở thành dã thú khẩu phần lương thực.\"",
@@ -353,7 +493,12 @@
           0.41
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "“不能再这样下去，否则别说杀一头野兽取精血了，恐怕先得被饿死，成为野兽的口粮。”",
+        "text": "“ không thể còn tiếp tục như vậy, nếu không đừng nói giết một đầu dã thú lấy tinh huyết rồi, sợ trước được bị chết đói, trở thành dã thú đồ ăn . ”",
+        "index": 32
+      }
     },
     {
       "convert": "Viên Minh một phen tư lượng, đứng người lên, đi ra khỏi huyệt động.",
@@ -365,7 +510,12 @@
           0.43
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭略一思量，站起身，走出了洞穴。",
+        "text": "Viên Minh một phen tư lượng, đứng người lên, đi ra huyệt động .",
+        "index": 33
+      }
     },
     {
       "convert": "Nhìn sắp đã đến ban đêm, hắn nhanh hơn bước chân, một lần nữa trở lại cái kia bờ sông.",
@@ -377,14 +527,24 @@
           0.49
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "看着即将到来的夜晚，他加快脚步，重新回到了那条河边。",
+        "text": "Nhìn xem sắp đến ban đêm, hắn tăng nhanh cước bộ, lần nữa về tới cái kia bờ sông .",
+        "index": 34
+      }
     },
     {
       "convert": "Nếu như quả dại không thể tuỳ ý ăn bậy, vả lại cũng khó có thể no bụng, còn không bằng trở về bắt chút thực nhân ngư đỡ đói.",
       "dich": "Nếu như không thể ăn quả dại lung tung, hơn nữa ăn cũng không no bụng, chi bằng quay về đây kiếm ít Thực Nhân Ngư lót dạ.",
       "suggest": "Nếu như quả dại không thể tùy tiện ăn bậy, vả lại cũng khó có thể no bụng, còn không bằng trở về bắt một con Ngư Ngư ăn chút thịt nướng để đỡ đói.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "既然野果不能随便乱吃，且也难以果腹，还不如回来抓些食人鱼充饥。",
+        "text": "Đã quả dại không thể tùy tiện ăn bậy, lại còn cũng khó có thể no bụng, còn không bằng trở lại tóm chút thực nhân ngư đỡ đói .",
+        "index": 35
+      }
     },
     {
       "convert": "Viên Minh đi tới bên bờ, nhìn trọc [đục] sóng đục sóng to, chính đang nghĩ nên như thế nào vớt lúc, đột nhiên nghe thấy sau lưng trong núi rừng có từng trận thú rống thanh âm truyền đến.",
@@ -396,28 +556,48 @@
           0.33
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭走到岸边，看着浊浊浪涛，正想着该如何捕捞时，忽然听见身后的山林里有阵阵兽吼之声传来。",
+        "text": "Viên Minh đi đến bên bờ, nhìn xem trọc trọc lãng đào, đang nghĩ ngợi nên như thế nào vớt thời, bỗng nhiên nghe thấy sau lưng trong núi rừng có trận trận 兽 rống thanh âm truyền đến .",
+        "index": 36
+      }
     },
     {
       "convert": "Hắn lập tức khẩn trương lên, vài bước chạy ra về sau, thân hình hướng nhảy lên, trực tiếp nhảy ra cao đến hai trượng, leo ở một gốc cây gốc cây già ngang cành, bò tới trên cây.",
       "dich": "Hắn lập tức trở nên căng thẳng, chạy lại mấy bước rồi tung người nhảy lên cao hơn hai trượng, bám vào một cành ngang rồi bò tới chỗ thân cây.",
       "suggest": "Hắn khẩn trương lên, sau vài bước chạy ra, thân hình lập tức nhảy lên, trực tiếp nhảy ra khỏi một gốc cây to cao đến hai trượng, trèo thẳng lên một thân cây gôc cao tới hai trượng, bò tới trên một thân cây.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他立马紧张起来，几步跑出之后，身形向上一纵，直接跳出两丈来高，攀住一棵老树横枝，爬到了树上。",
+        "text": "Hắn lập tức khẩn trương lên, vài bước chạy ra sau đó, thân hình hướng về phía trước nhảy lên, trực tiếp nhảy ra cao đến hai trượng, nhờ vả trụ một cây cây già ngang chi, bò tới trên cây .",
+        "index": 37
+      }
     },
     {
       "convert": "Hắn nằm rạp xuống lấy cơ thể, theo chỗ cao hướng âm thanh đến chỗ nhìn lại, lại bị xa xa ban bác cành cây lá cây chống đỡ, cái gì đều không thể thấy rõ.",
       "dich": "Hắn ép sát cơ thể vào cành cây, đưa mắt nhìn về phía phát ra âm thanh, nhưng tầm nhìn bị cành lá rậm rạp che khuất nên chẳng nhìn ra cái gì.",
       "suggest": "Hắn cúi rạp xuống cơ thể, từ trên cao nhìn xuống âm thanh phát ra, lại bị một cành cây to che khuất, bất cứ thứ gì cũng không thể nhìn rõ được.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他匍匐着身子，从高处往声音来处望去，却被远处斑驳的枝丫树叶遮挡，什么都无法看清。",
+        "text": "Hắn bò lổm ngổm thân thể, từ chỗ cao hướng thanh âm tới chỗ nhìn lại, lại bị viễn xứ pha tạp đích cành cây lá cây che, gì đều không thể xem rõ .",
+        "index": 38
+      }
     },
     {
       "convert": "Một phen chần chừ phía dưới, Viên Minh vẫn còn là trong rừng lay động cánh tay dựng lên, cẩn thận hướng bên kia lại gần qua.",
       "dich": "Do dự mất một lúc, Viên Minh vẫn quyết định vung tay lên, bắt đầu ở trong rừng cẩn thận di chuyển lại gần nơi có âm thanh.",
       "suggest": "Sau một phen chần chờ, cánh tay Viên Minh vẫn còn đang ở trong rừng lay động, cẩn thận từng li từng tí bước tới gần.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一番犹豫之下，袁铭还是在林间荡臂而起，小心朝着那边靠了过去。",
+        "text": "Một phen do dự phía dưới, Viên Minh vẫn là giữa khu rừng đãng cánh tay mà khởi, cẩn thận hướng tới bên kia tới gần .",
+        "index": 39
+      }
     },
     {
       "convert": "Bay vọt qua bảy tám cây về sau, Viên Minh dừng ở một gốc cây to lớn đại thụ che trời bên trên, mặc dù còn cách mười trượng trở lại xa, nhưng xuyên thấu qua phía trước nhánh cây khe hở, hắn đã có thể nhìn tới đó tình hình.",
@@ -429,7 +609,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "飞跃过七八棵树后，袁铭停在了一棵硕大的参天大树上，虽然还隔着十来丈远，但透过前面树枝的缝隙，他已经能够看到那里的状况了。",
+        "text": "Bay nhảy qua bảy tám cái cây sau, Viên Minh đứng tại một cây cực đại đích trên đại thụ che trời, tuy rằng còn cách mười trượng trở lại xa, nhưng xuyên thấu qua phía trước nhánh cây đích khe hở, hắn đã có thể nhìn thấy nơi đó trạng huống rồi .",
+        "index": 40
+      }
     },
     {
       "convert": "\"Phanh \"",
@@ -452,7 +637,12 @@
       "dich": "Một tiếng va đập nặng nề vang lên. Chỉ thấy ở mảnh rừng đằng trước, một con sói xanh bị một con sói xám có hình thể nhỉnh hơn kha khá đánh cho ngã lăn, người đập ngang vào một gốc cây làm thân cây rung mạnh, lá rụng xuống ào ào.",
       "suggest": "Một tiếng va đập vang lên, trong núi rừng phía trước, một đầu sói xám lớn hơn một vòng sói xám đánh ngã lăn xuống đất, thân thể đụng phải một gốc cây gôc già, thân thể đụng vào một gốc cây gôc già, thân thể giẫm mạnh lên lá cây, lá cây rì rào rơi xuống.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "一声沉闷的撞击声响起，前方的山林里，一头青狼被另一头身形更大一圈的灰狼撞翻，身子横撞在了一棵老树身上，直撞得老树巨震，树叶簌簌下落。",
+        "text": "Một tiếng trầm muộn tiếng va chạm vang lên khởi, phía trước trong núi rừng, một đầu sói xanh bị bên kia thân hình càng lớn một vòng đích hôi lang đụng đổ, thân thể ngang đâm vào rồi một cây cây già trên thân, đánh thẳng được cây già rung mạnh, lá cây rì rào hạ lạc .",
+        "index": 42
+      }
     },
     {
       "convert": "Kia sói xanh đứng dậy về sau, không có chút nào dừng lại, thả người nhảy lên, trực tiếp đánh về phía sói xám, cũng xé cắn vào nhau.",
@@ -464,7 +654,12 @@
           0.13
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "那青狼起身之后，没有丝毫停留，纵身跃起，直接扑向了灰狼，与之撕咬在了一起。",
+        "text": "Kia sói xanh đứng dậy sau đó, không có chút nào dừng lại, nhún người vọt khởi, trực tiếp nhào về phía rồi hôi lang, tới cắn xé ở cùng nhau .",
+        "index": 43
+      }
     },
     {
       "convert": "Viên Minh nhìn một màn này, lông mày nhưng không khỏi nhíu lại.",
@@ -476,7 +671,12 @@
           0.22
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭看着这一幕，眉头却不禁皱了起来。",
+        "text": "Viên Minh nhìn xem một màn này, đầu mi nhưng không khỏi nhíu lại .",
+        "index": 44
+      }
     },
     {
       "convert": "Trước kia đụng gãy cây sói xanh động tác có chút không nói ra được cổ quái, bất kể thế nào nhìn, đều cảm thấy có chút không được tự nhiên.",
@@ -488,7 +688,12 @@
           0.32
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "先前撞断树的青狼动作有些说不出的古怪，不管怎么看，都觉得有些别扭。",
+        "text": "Lúc trước đụng gãy cây đích sói xanh động tác có chút không nói ra được cổ quái, bất kể thế nào coi, đều cảm thấy có chút không được tự nhiên .",
+        "index": 45
+      }
     },
     {
       "convert": "Không đợi hắn suy nghĩ cẩn thận, kia hai phía lang chém giết liền đã đến khâu cuối cùng.",
@@ -500,7 +705,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "还没等他想明白，那两头狼的厮杀就已经到了尾声。",
+        "text": "Không đợi hắn suy nghĩ cẩn thận, kia hai đầu sói đích chém giết cũng đã đến rồi phần cuối .",
+        "index": 46
+      }
     },
     {
       "convert": "Từ lúc Viên Minh đến lúc trước, chúng nó cũng đã lẫn nhau đả thương nặng đối phương, trước mắt cả hai đều đã không có bao nhiêu sức chiến đấu, sói xám cắn sói xanh cổ họng, bụng của mình cũng đã nứt ra một đường vết rách, máu tươi bụng đã chảy đầy đất.",
@@ -512,14 +722,24 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "早在袁铭到达之前，它们就已经互相重创了对方，眼下两者都已经没有多少战斗力，灰狼咬住了青狼的咽喉，自己的腹部也裂开了一道口子，鲜血肚肠已经淌了一地。",
+        "text": "Sớm tại Viên Minh tới trước đó, chúng nó cũng đã hỗ tương đả thương nặng đối phương, trước mắt cả hai đều đã không có bao nhiêu sức chiến đấu, hôi lang cắn sói xanh đích cổ họng, bụng của mình cũng nứt ra rồi một đường vết rách, máu tươi bụng đã chảy đầy đất .",
+        "index": 47
+      }
     },
     {
       "convert": "Trong sân, cũng chỉ còn lại có hai phía lang sắp chết lúc nức nở tiếng.",
       "dich": "Lúc này, trên hiện trường cũng chỉ còn hai con sói sắp chết đang rên rỉ.",
       "suggest": "Trong sân chỉ còn lại hai hàng lang đang sắp chết, hai hàng lang như sắp chết.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "场地中央，就只剩下了两头狼垂死时的呜咽声了。",
+        "text": "Giữa sân, cũng chỉ còn lại có rồi hai đầu sói giãy chết thời đích tiếng nghẹn ngào rồi .",
+        "index": 48
+      }
     },
     {
       "convert": "\"Đi mòn gót sắt tìm chẳng thấy, tới khi thấy được chẳng mất công, xem ra vận khí của ta cũng không tệ lắm nha.\"",
@@ -555,7 +775,12 @@
           0.22
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "只要能够拿到这两头狼的兽血，他这不就算是完成任务了？",
+        "text": "Chỉ cần có thể giành được này hai đầu sói đích thú huyết, hắn này không cho dù là hoàn thành nhiệm vụ ?",
+        "index": 50
+      }
     },
     {
       "convert": "\"Được nhân lúc còn nóng hồ, đều chết hết huyết dịch ngưng kết, có thể đã làm cho không ra ngoài.\"",
@@ -581,7 +806,12 @@
       "dich": "Nhưng ngay khi vừa nhảy lên, hắn liền thấy được một màn khiến sống lưng lạnh toát.",
       "suggest": "Nhưng trong nháy mắt, hắn đã thấy sống lưng mát lạnh của Lưu Vũ Vũ.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "然而，身形跃起的一瞬，他就看到了令他后脊一凉的一幕。",
+        "text": "Nhưng mà, thân hình vọt khởi đích một cái chớp mắt, hắn liền thấy làm hắn sau xương sống chợt lạnh đích một màn .",
+        "index": 52
+      }
     },
     {
       "convert": "Đầu kia bị cắn đứt yết hầu sói xanh, tại hắn nhìn chăm chú thân hình một chút xíu thu nhỏ lại, theo rộng lớn da sói xuống, lộ ra hai chỉ thuộc về Nhân tộc lòng bàn chân, tiếp theo là bắp chân, cuối cùng hóa thành một cỗ hoàn chỉnh Nhân tộc thân thể.",
@@ -593,7 +823,12 @@
           0.29
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "那头被咬断了喉咙的青狼，在他的注视下身形一点点缩小，从宽大的狼皮下，露出两只属于人族的脚掌，继而是小腿，最终化作一具完整的人族之躯。",
+        "text": "Đầu kia bị cắn đoạn mất yết hầu đích sói xanh, tại hắn nhìn chăm chú thân hình một chút điểm thu nhỏ lại, sẽ khoan hồng lớn da sói hạ, lộ ra hai con thuộc về nhân tộc bàn chân, tiếp đó là cẳng chân, sau cùng hóa thành một bộ hoàn chỉnh nhân tộc thân thể .",
+        "index": 53
+      }
     },
     {
       "convert": "Kia sói xanh, rõ ràng là trước kia cùng mình đồng hành mấy cái dã nhân một trong, sở biến hóa xuất ra khoác trên vai lông thú.",
@@ -605,7 +840,12 @@
           0.35
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "那青狼，赫然是先前与自己同行的那几个野人之一，所变化出的披毛兽。",
+        "text": "Kia sói xanh, rõ ràng là lúc trước cùng mình đồng hành mấy cái kia dã nhân một trong, biến hóa ra đích khoác lông 兽 .",
+        "index": 54
+      }
     },
     {
       "convert": "Nhìn đến đây, Viên Minh không khỏi động tác cứng đờ, dừng ở một gốc cây trên cây, trong lòng dâng lên bi thương cảm giác.",
@@ -617,7 +857,12 @@
           0.29
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "看到这里，袁铭不禁动作一僵，停在了一棵老树上，心中升起悲凉之感。",
+        "text": "Nhìn đến đây, Viên Minh không khỏi động tác cứng đờ, đứng tại một cây trên cây, trong lòng dâng lên bi thương cảm giác .",
+        "index": 55
+      }
     },
     {
       "convert": "Cũng chính là cái mảnh này khắc dừng lại, cứu hắn một mạng.",
@@ -629,7 +874,12 @@
           0.4
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "也正是这片刻的停留，救了他一命。",
+        "text": "Cũng chính là mảnh này 刻 đích dừng lại, cứu được hắn một mạng .",
+        "index": 56
+      }
     },
     {
       "convert": "Phía dưới trong bụi cỏ cỏ cây làm rung động, tất cả toàn thân đất hạt, dài khắp tạp mao linh cẩu theo bốn phương tám hướng vọt ra, tốc độ nhanh được kinh người, chạy thẳng tới lấy đầu kia sói xám thi thể liền cắn xé ra.",
@@ -641,7 +891,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "下方的灌木丛里草木耸动，一头头浑身土褐，长满杂毛的鬣狗从四面八方冲了出来，速度快得惊人，直奔着那头灰狼的尸体就撕咬了上去。",
+        "text": "Phía dưới đích lùm cây trong thảo mộc rúng động, một đầu 头 toàn thân thổ hạt, mọc đầy tạp mao đích linh cẩu từ bốn phương tám hướng vọt ra, tốc độ nhanh đến kinh người, băng băng chạy đến lấy đầu kia hôi lang đích thi thể liền cắn xé rồi đi lên .",
+        "index": 57
+      }
     },
     {
       "convert": "Rất nhanh, một đầu linh cẩu phát hiện dã nhân thi thể, một cái cắn chân của hắn mắt cá chân, đem theo sói xanh da thú dưới kéo đi ra, lập tức liền đưa tới mặt khác hai phía linh cẩu tranh đoạt.",
@@ -653,7 +908,12 @@
           0.2
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "很快，一头鬣狗发现了野人的尸体，一口咬住他的脚踝，将之从青狼兽皮下拖了出来，马上就引来了另外两头鬣狗的争抢。",
+        "text": "Rất nhanh, một đầu linh cẩu phát hiện rồi dã nhân đích thi thể, cắn một cái vào mắt cá chân hắn, đem từ sói xanh da thú hạ kéo ra, lập tức liền đưa tới cái khác hai đầu linh cẩu đích tranh đoạt .",
+        "index": 58
+      }
     },
     {
       "convert": "Ba đầu linh cẩu xé rách lấy dã nhân thân thể, rất nhanh liền đem kia phân ra ăn hầu như không còn, chỉ còn lại một đống bạch cốt.",
@@ -665,7 +925,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "三头鬣狗撕扯着野人的身躯，很快就将其分食殆尽，只余下一堆白骨。",
+        "text": "Tam đầu linh cẩu xé rách lấy dã nhân đích thân thể, rất nhanh liền đem nó chia ăn hầu như không còn, chỉ còn lại một đống bạch cốt .",
+        "index": 59
+      }
     },
     {
       "convert": "Viên Minh nhìn phía dưới thảm thiết cảnh tượng, vui mừng chính mình chưa từng có đi, bằng không ở đó mười mấy đầu linh cẩu vây công xuống, là tuyệt đối không có còn sống khả năng đấy.",
@@ -677,14 +942,24 @@
           0.28
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭看着下方惨烈的景象，庆幸自己没有过去，否则在那十数头鬣狗的围攻下，是绝对没有生还可能的。",
+        "text": "Viên Minh nhìn phía dưới cảnh tượng thê thảm, vui mừng chính mình không có quá khứ, nếu không tại kia hơn mười 头 linh cẩu đích vây công hạ, là tuyệt đối không có còn sống khả năng đích .",
+        "index": 60
+      }
     },
     {
       "convert": "Chẳng qua là đáng tiếc đầu kia sói xám, thú huyết là nhất định lấy không tới.",
       "dich": "Chỉ tiếc với tình cảnh này, cơ hội thu lấy máu sói xám cũng không còn.",
       "suggest": "Chỉ có điều đáng tiếc, máu thịt của đầu sói xám kia nhất định không có khả năng lấy đi.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "只是可惜了那头灰狼，兽血是肯定取不到了。",
+        "text": "Chỉ là đáng tiếc đầu kia hôi lang, thú huyết là khẳng định lấy không tới .",
+        "index": 61
+      }
     },
     {
       "convert": "Viên Minh tiếp tục nằm rạp xuống trên tàng cây, toàn bộ hành trình vây xem này tràng dã thú phân ra ăn thịnh yến, không dám phát ra nửa điểm âm thanh.",
@@ -696,7 +971,12 @@
           0.36
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭继续匍匐在树上，全程围观了这场野兽分食的盛宴，没敢发出半点声响。",
+        "text": "Viên Minh tiếp tục phủ phục trên tàng cây, toàn bộ hành trình vây xem trận này dã thú chia ăn đích thịnh yến, không dám phát ra mảy may tiếng vang .",
+        "index": 62
+      }
     },
     {
       "convert": "Đã qua ước chừng thời gian một chén trà công phu, những cái kia linh cẩu phân ra ăn hoàn tất, đem hai cỗ thi thể ăn được ngăn nắp, sạch sẽ, ngay cả nội tạng bụng đều không có buông tha, chỉ còn lại từng chồng bạch cốt, sau đó mới đồng thời rời đi.",
@@ -708,7 +988,12 @@
           0.21
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "过了约莫一盏茶的功夫，那些鬣狗分食完毕，将两具尸体吃得干干净净，连内脏肚肠都没有放过，只余下累累白骨，随后才一起离去。",
+        "text": "Qua ước chừng thời gian một chén trà công phu, những cái kia linh cẩu chia ăn xong, đem hai bộ thi thể ăn đến sạch sẽ, liền nội tạng bụng đều không có buông tha, chỉ còn lại từng chồng bạch cốt, theo sau mới cùng nhau rời đi .",
+        "index": 63
+      }
     },
     {
       "convert": "Viên Minh nhẫn nại tính tình, trên tàng cây đợi đã lâu, gặp thủy chung cũng không có những dã thú khác sau khi xuất hiện, mới từ trên cây lay động qua.",
@@ -720,7 +1005,12 @@
           0.19
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭耐着性子，在树上等了许久，见始终再没有其他野兽出现后，才从树上荡了过去。",
+        "text": "Viên Minh nén lấy tính khí, trên tàng cây đợi đã lâu, kiến thủy chung không còn những dã thú khác xuất hiện sau, mới từ trên cây đu qua .",
+        "index": 64
+      }
     },
     {
       "convert": "Sau khi rơi xuống đất, chứng kiến đầy đất bừa bộn, ngửi được trong không khí mùi tanh, hắn rốt cuộc không ngờ không có cảm thấy buồn nôn, trái lại còn cảm thấy kia mùi huyết tinh bên trong, có một tia mê người vị ngọt.",
@@ -732,7 +1022,12 @@
           0.41
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "落地之后，看到满地狼藉，嗅到空气中的腥气，他竟出乎意料的没有觉得反胃，反而还觉得那血腥气息里，有着一丝丝诱人的甜味。",
+        "text": "Sau khi rơi xuống đất, nhìn thấy đầy đất hỗn loạn, ngửi được trong không khí đích mùi tanh, hắn nhưng lại ngoài ý liệu không có cảm thấy buồn nôn, ngược lại còn cảm thấy kia mùi huyết tinh trong, có một tia tơ mê người đích vị ngọt .",
+        "index": 65
+      }
     },
     {
       "convert": "Hắn theo những cái kia còn lại sói xám khung xương bên trong, đã tìm được một chút chưa bị gặm ăn sạch sẽ xương cốt, ôm vào trong ngực lại bò lên trên cây, đợi đến lúc an toàn, mới bắt đầu gặm ăn bắt đầu.",
@@ -744,7 +1039,12 @@
           0.1
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他从那些剩余的灰狼骨架里，找到了一些尚未被啃食干净的骨头，抱在怀里又爬上了树，等到安全了，才开始啃食起来。",
+        "text": "Hắn từ những cái kia còn thừa đích hôi lang khung xương trong, tìm được rồi một chút còn chưa bị cắn nuốt sạch sẽ đích xương cốt, ôm vào trong ngực lại bò lên trên cây, đợi đến an toàn, mới bắt đầu cắn nuốt lên tới .",
+        "index": 66
+      }
     },
     {
       "convert": "Đến giờ phút này, Viên Minh tâm trạng đã vô cùng bình tĩnh, hắn không có suy nghĩ tiếp chút vô dụng đồ vật, chẳng qua là tỉnh táo đất tự hỏi kế tiếp nên làm như thế nào, mới có thể hoàn thành nhiệm vụ, sống sót trở lại báo cáo kết quả công tác.",
@@ -756,7 +1056,12 @@
           0.57
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "到了此刻，袁铭的心绪已经无比平静，他没有再去想些无用的东西，只是冷静地思考着接下来该如何做，才能完成任务，活着回去交差。",
+        "text": "Đến rồi lúc này, Viên Minh tâm tư đã vô cùng bình tĩnh, hắn không tiếp tục suy nghĩ chút vô dụng đồ vật, chỉ là tỉnh táo tự hỏi tiếp theo nên làm như thế nào, mới có thể hoàn thành nhiệm vụ, sống trở về báo cáo kết quả công tác .",
+        "index": 67
+      }
     },
     {
       "convert": "Ngày mai sẽ là ngày cuối cùng, hắn thời gian còn lại cũng không nhiều.",
@@ -768,7 +1073,12 @@
           0.2
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "明天就是最后一天了，他剩下的时间可不多了。",
+        "text": "Ngày mai sẽ là ngày cuối cùng rồi, hắn còn lại đích thời gian cũng không nhiều .",
+        "index": 68
+      }
     },
     {
       "convert": "Ăn xong rồi những cái kia sói xám huyết nhục, Viên Minh đem xương cốt ném cây, đứng người lên lúc, lập tức cảm giác được một cổ nhiệt lưu từ bụng nhỏ lan tràn ra, toàn thân cũng bắt đầu ấm áp...mà bắt đầu.",
@@ -780,7 +1090,12 @@
           0.12
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "吃完了那些灰狼血肉，袁铭将骨头扔下树，站起身时，随即感觉到一股热流从小腹蔓延开来，浑身都开始暖了起来。",
+        "text": "Đã ăn xong những cái kia hôi lang huyết nhục, Viên Minh đem xương cốt ném cây, đứng người lên thời, lập tức cảm giác được một dòng nước nóng từ nhỏ bụng lan tràn ra, toàn thân cũng bắt đầu ấm ...mà bắt đầu .",
+        "index": 69
+      }
     },
     {
       "convert": "\"Này huyết nhục thật không ngờ bổ dưỡng, lực lượng cũng khôi phục không ít, so với cái kia cá sông quả dại gì gì đó, nhưng mạnh hơn nhiều lắm.\"",
@@ -811,7 +1126,12 @@
       "dich": "Hắn đi tới cạnh bộ xương sói xám, chọn mấy khúc xương bén nhọn, tiếp đó lại chọn thêm hai khúc xương ống dài ba, bốn thước, xong dùng một dây leo bó lại.",
       "suggest": "Hắn đi tới bên cạnh thi cốt của sói xám, lấy ra mấy cái xương sườn sắc nhọn, sau đó tuyển chọn hai ba bốn cái xương ống chân, tìm một cái dây buộc lại.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他来到灰狼尸骨旁，从里面挑出了几根尖锐的肋骨，又拣选了两根三四尺长的胫骨，找了根树藤捆了起来。",
+        "text": "Hắn đi tới hôi lang thi cốt bên cạnh, từ giữa mặt lấy ra rồi mấy cây bén nhọn đích xương sườn, lại tuyển chọn rồi hai cây dài ba, bốn thước đích xương ống chân, tìm căn cây mây trói lên tới .",
+        "index": 71
+      }
     },
     {
       "convert": "Trở lại lúc, Viên Minh chứng kiến kia đồ đã mệt rã cả rời dã nhân thi cốt, chần chừ sau đó, vẫn là giúp hắn khép lại đến đồng thời, dùng thổ thạch lá cây dấu giấu đi.",
@@ -854,7 +1174,12 @@
           0.3
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "说罢，他站起身，看了一眼掉落在一旁的那张青狼的披毛兽皮，还是忍住了将之拿走的冲动，拖着那一捆兽骨离开了。",
+        "text": "Dứt lời, hắn đứng người lên, nhìn thoáng qua rơi xuống ở một bên tấm kia sói xanh đích khoác lông da thú, vẫn là nhịn được đem lấy đi đích xung động, kéo kia một bó thú cốt ly khai .",
+        "index": 74
+      }
     },
     {
       "convert": "Chờ hắn đi rồi không bao lâu, hắn nơi cất giấu thân gốc cây già sau cùng, cao hơn toàn bộ rừng rậm tán cây chỗ, một đạo nhân ảnh đứng chắp tay, kia thân hình cao lớn, đúng là trưởng lão Hô Hỏa.",
@@ -866,14 +1191,24 @@
           0.16
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "等他走后没多久，他所藏身的老树顶端，高出整个森林树冠的地方，一道人影负手而立，其身形高大，正是长老呼火。",
+        "text": "Chờ hắn sau khi đi không bao lâu, hắn cất giấu 身 đích cây già đỉnh, cao hơn cả rừng rậm tán cây đích địa phương, một bóng người khoanh tay mà đứng, thân hình cao lớn, chính là trưởng lão hô lửa .",
+        "index": 75
+      }
     },
     {
       "convert": "Chỉ thấy kia mũi chân một chút, theo ngọn cây nhẹ nhàng hạ xuống, cúi người nhặt lên kia khối sói xanh da thú.",
       "dich": "Chỉ thấy lão nhón nhẹ mũi chân một cái, người liền nhẹ nhàng từ trên cây hạ xuống, cúi người nhặt miếng da sói xanh lên.",
       "suggest": "Chỉ thấy mũi chân hắn khẽ động, từ dưới ngọn cây nhẹ nhàng cúi người nhặt lấy khối da thú màu xanh kia.",
       "similarity": [],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "只见其足尖一点，从树顶轻盈落下，俯身捡起了那块青狼兽皮。",
+        "text": "Chỉ kiến nó mủi chân một chút, từ ngọn cây nhẹ nhàng rơi xuống, cúi người nhặt lên khối kia sói xanh da thú .",
+        "index": 76
+      }
     },
     {
       "convert": "\"Cái này người Trung Nguyên, trái lại có chút ý tứ.\"",

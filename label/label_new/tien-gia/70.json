@@ -77,37 +77,67 @@
       "convert": "Viên Minh đối luyện khí cũng không hứng thú, không cách nào trải nghiệm Trần Uyển ý nghĩ, ngược lại suy tính tới Khu Vật Thuật sự tình.",
       "dich": "Viên Minh không hứng thú với luyện khí mấy nên không cách nào thấu hiểu được suy nghĩ của Trần Uyển, chỉ đang nghĩ tới chuyện Khu Vật Thuật.",
       "suggest": "Viên Minh đối với luyện khí cũng không có hứng thú, không cách nào trải nghiệm ý nghĩ của Trần Uyển, trái lại còn tính tới chuyện Khu Vật Thuật.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭对炼器并无兴趣，无法体会陈婉的想法，转而考虑起了驱物术的事情。",
+        "text": "Viên Minh đối luyện khí cũng không hứng thú, vô pháp lĩnh hội trần uyển đích cách nghĩ, ngược lại suy tính tới rồi Khu vật thuật đích sự tình .",
+        "index": 4
+      }
     },
     {
       "convert": "Hắn nhập môn đã nửa tháng, đối Bích La Động cũng có một chút cơ bản hiểu rõ, Trần Uyển nói Quy Tàng Các là Bích La Động cất giữ pháp thuật, bí thuật, công pháp địa phương.",
       "dich": "Hắn nhập môn đã được nửa tháng, cũng đã có những hiểu biết cơ bản về Bích La Động, Quy Tàng Các trong lời Trần Uyển chính là nơi Bích La Động cất giữ pháp thuật, bí thuật, công pháp.",
       "suggest": "Hắn nhập môn đã nửa tháng, đối với Bích La Động cũng có một chút hiểu biết cơ bản. Trần Uyển nói Quy Tàng Các là địa điểm cất giữ pháp thuật, bí thuật, công pháp của Bích La Động.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "他入门已经半个月，对碧罗洞也有了一些基本了解，陈婉说的归藏阁是碧罗洞存放法术，秘术，功法的地方。",
+        "text": "Hắn nhập môn đã nửa cái nguyệt, đối Bích La Động cũng có một chút cơ bản hiểu rõ, trần uyển nói quy tàng các là Bích La Động lưu giữ pháp thuật, bí thuật, công pháp đích địa phương .",
+        "index": 5
+      }
     },
     {
       "convert": "Bích La Động tại đệ tử truyền đạo thụ nghiệp bên trên, làm có chút qua loa, trừ bỏ bị trưởng lão, động chủ nhóm thu nhập dưới trướng nội môn đệ tử, phổ thông ký danh đệ tử muốn học tập công pháp mới, bí thuật, đều là đi Quy Tàng Các hối đoái, sau đó tự hành lĩnh hội.",
       "dich": "Trên phương diện truyền đạo thụ nghiệp cho đệ tử thì Bích La Động làm tương đối cẩu thả, ngoại trừ đệ tử nội môn được các trưởng lão, động chủ thu về dưới trướng, các đệ tử ký danh bình thường nếu muốn học tập công pháp, bí thuật mới đều phải đi tới Quy Tàng Các đổi rồi về tự nghiên cứu lĩnh hội.",
       "suggest": "Bích La Động từ khi thụ nghiệp đệ tử truyền đạo đến nay, làm khá qua loa, trừ khi bị trưởng lão, động chủ thu nhận vào nội môn đệ tử, còn lại những đệ tử ký danh muốn học công pháp mới, bí thuật phổ thông, đều đi Quy Tàng Các hối đoái, sau đó tự mình lĩnh hội.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "碧罗洞在弟子的传道授业上，做的颇为马虎，除了被长老，洞主们收入麾下的内门弟子，普通的记名弟子想要学习新的功法，秘术，都是去归藏阁兑换，而后自行参悟。",
+        "text": "Bích La Động tại đệ tử đích truyền đạo thụ nghiệp thượng, làm đích có chút qua loa, trừ bỏ bị trưởng lão, động chủ nhóm thu nhập dưới trướng đích nội môn đệ tử, phổ thông đích ký danh đệ tử muốn học tập công pháp mới, bí thuật, đều là đi quy tàng các đổi, sau đó tự hành tham ngộ .",
+        "index": 6
+      }
     },
     {
       "convert": "Quy Tàng Các làm tông môn quan phương cơ cấu, không thể so Cáp Mô Cốc, ở đây đổi lấy pháp thuật không cách nào lấy vật đổi vật, cần dùng đến một loại được xưng là \"Điểm cống hiến\" đồ vật.",
       "dich": "Cơ cấu của Quy Tàng Các là một bộ phận quan trọng của tông môn, không thể so sánh với Cáp Mô Cốc, ở đây đổi lấy pháp thuật không thể nào lấy vật đổi vật được, cần phải dùng đến một thứ được gọi là \"Điểm cống hiến\".",
       "suggest": "Cơ cấu của Tàng Các là một bộ phận quan trọng của tông môn, không thể so sánh với Cáp Mô Cốc, ở đây đổi lấy pháp thuật không thể nào lấy vật đổi vật được, cần phải dùng đến một loại đồ vật được gọi là \"Điểm cống hiến\".",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "归藏阁作为宗门官方机构，不比蛤蟆谷，在这里换取法术无法以物易物，需得用到一种被称为“贡献值”的东西。",
+        "text": "Quy tàng các là tông môn chính thức cơ cấu, không thể so cóc cốc, ở chỗ này đổi lấy pháp thuật vô pháp lấy vật đổi vật, cần dùng đến một loại được xưng vi “ cống hiến trực ” đồ vật .",
+        "index": 7
+      }
     },
     {
       "convert": "Đối với mới nhập môn ký danh đệ tử, tông môn sẽ ban cho hai mươi điểm cống hiến giá trị, để nó tại trong tông đặt chân, bất quá muốn tới cuối tháng mới có thể chính thức cấp cho.",
       "dich": "Đối với đệ tử ký danh mới nhập môn, tông môn sẽ ban cho hai mươi điểm cống hiến, coi như để đệ tử đó có chỗ đặt chân trong tôn môn, có điều cũng phải hết tháng mới chính thức cấp cho.",
       "suggest": "Đối với đệ tử ký danh mới nhập môn, tông môn sẽ ban thưởng hai mươi điểm cống hiến, để nó đặt chân trong tông, nhưng phải tới cuối tháng mới có thể cấp cho nó.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "对于新入门的记名弟子，宗门会赐予二十点贡献值，让其在宗内立足，不过要到月底才会正式发放。",
+        "text": "Đối với mới nhập môn đích ký danh đệ tử, tông môn sẽ ban cho hai mươi điểm cống hiến trực, khiến nó tại tông nội đặt chân, chẳng qua muốn tới cuối tháng mới có thể chính thức cấp phát .",
+        "index": 8
+      }
     },
     {
       "convert": "Viên Minh tại Hỏa phường bên trong làm việc, cũng có thể được một chút điểm cống hiến, nhưng tương tự phải chờ tới cuối tháng mới có thể cầm tới, cho nên cho đến ngày nay đều tạm thời không có cách nào hối đoái bất luận cái gì thuật pháp.",
       "dich": "Viên Minh làm việc ở Hỏa phường cũng có thể kiếm được ít đuển cống hiến, nhưng cũng phải chờ tới cuối tháng mới được cầm đi, thế nên cho tới hiện giờ, hắn tạm thời chẳng thể đổi được bất kỳ thuật pháp nào.",
       "suggest": "Viên Minh làm việc trong Hỏa phường cũng có thể kiếm được một chút điểm cống hiến, nhưng cũng phải tới cuối tháng mới có thể nhận được. Cho nên cho đến tận bây giờ hắn cũng không có cách nào hối đoái bất cứ thuật pháp nào.",
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭在火坊内做事，也能得到一些贡献值，但同样要等到月底才能拿到，所以时至今日都暂时没法兑换任何术法。",
+        "text": "Viên Minh tại lửa trong phường làm việc, cũng có thể được một chút cống hiến trực, nhưng tương tự muốn chờ đến cuối tháng mới có thể giành được, do đó cho đến nay đều tạm thời không cách nào đổi bất luận cái gì thuật pháp .",
+        "index": 9
+      }
     },
     {
       "convert": "\"Ngươi cũng đừng mơ mộng hão huyền quá, dùng Khu Vật Thuật phụ trợ rèn đúc, trên lý luận mặc dù có thể thực hiện, thực tế làm lại là khó khăn trùng điệp, bởi vì thuật này tuy nhập cửa dễ dàng, nếu muốn cùng nhục thân lực lượng kết hợp cùng sử dụng tại luyện khí bên trên lại là không dễ, chí ít đối Luyện Khí kỳ tu sĩ là như thế này.",

@@ -23,7 +23,12 @@
           0.15
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "就在袁铭专心致志修炼步法之时，蛤蟆谷内依旧人来人往，颇为热闹。",
+        "text": "Ngay tại Viên Minh hết sức chuyên chú tu luyện bộ pháp thời điểm, cóc trong cốc như cũ người đến người đi, có chút náo nhiệt .",
+        "index": 0
+      }
     },
     {
       "convert": "Khoảng cách Cáp Mô Cốc hơn ngoài mười dặm một chỗ bóng rừng đất trống, Thanh Lang Bang chủ Ô Bảo ngồi xếp bằng, nhắm mắt hô hấp thổ nạp.",
@@ -35,7 +40,12 @@
           0.5
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "距离蛤蟆谷十余里外的一处林荫空地，青狼帮主乌保盘膝而坐，闭目呼吸吐纳。",
+        "text": "Cự ly cóc cốc hơn ngoài mười dặm đích một chỗ bóng rừng đất trống, sói xanh bang chủ ô bảo vệ ngồi xếp bằng, nhắm mắt hô hấp thổ nạp .",
+        "index": 1
+      }
     },
     {
       "convert": "Đột nhiên, một hồi gấp rút tiếng bước chân vang lên, một thân ảnh bước nhanh chạy vào.",
@@ -47,7 +57,12 @@
           0.46
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "忽然间，一阵急促脚步声响起，一个身影快步跑了进来。",
+        "text": "Đột nhiên, một trận dồn dập tiếng bước chân vang lên, một thân ảnh bước nhanh chạy vào .",
+        "index": 2
+      }
     },
     {
       "convert": "\"Tán Bái, sự tình thăm dò được như thế nào?\"",
@@ -199,7 +214,12 @@
           1
         ]
       ],
-      "approved": true
+      "approved": true,
+      "chinese": {
+        "raw": "乌保只是看着赞拜，没有说话。",
+        "text": "Ô bảo vệ chỉ là nhìn xem Zambai, không nói gì .",
+        "index": 7
+      }
     },
     {
       "convert": "\"Trong đó một cái là ký danh đệ tử Triệu Đồng, có chút tham tài, lấp chút chỗ tốt về sau, nghe nói chỉ là bán cho Viên Minh một môn bộ pháp.",
@@ -463,7 +483,7 @@
     },
     {
       "convert": "Càng là tu luyện, hắn càng là có thể trải nghiệm Vô Ảnh Bộ pháp huyền diệu, một khi thi triển ra, thân hình nhanh như gió, quả thật có thể làm được \"Vô ảnh\" hai chữ.",
-      "dich": "Càng tu luyện, hắn càng trải nghiệm được sự huyền diệu của Vô Ảnh bộ pháp, một khi thi triển ra, người nhanh như gió, quả thực không hổ hai chữ 'Vô Ảnh'.",
+      "dich": "Càng tu luyện, hắn càng trải nghiệm được sự huyền diệu của Vô Ảnh Bộ pháp, một khi thi triển ra, người nhanh như gió, quả thực không hổ hai chữ 'Vô Ảnh'.",
       "suggest": "Càng tu luyện, hắn càng có thể trải nghiệm bộ pháp quyết vô ảnh huyền diệu, một khi thi triển ra, thân hình nhanh như gió, quả thật có thể làm được hai chữ 'Vô ảnh'.",
       "similarity": [
         [

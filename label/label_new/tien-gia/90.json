@@ -1,4 +1,5 @@
 {
+  "currentLine": 104,
   "next": {
     "id": 91,
     "title": "Chương 91: Không chạy"
@@ -15,543 +16,994 @@
     {
       "convert": "Mấy ngày về sau, sáng sớm.",
       "dich": "Một sáng sớm của mấy ngày sau đó.",
-      "suggest": "Mấy ngày sau, trời đã sáng rồi."
+      "suggest": "Mấy ngày sau, trời đã sáng rồi.",
+      "approved": true,
+      "chinese": {
+        "raw": "几日后，清晨。",
+        "text": "Mấy ngày sau, sáng sớm .",
+        "index": 0
+      }
     },
     {
       "convert": "Giờ Mão chưa đến, Hỏa Phường ở bên trong liền có đinh đương chùy vang thanh âm truyền đến.",
       "dich": "Chưa đến giờ Mão, bên trong Hỏa phường đã có tiếng vung búa đinh đương truyền ra.",
-      "suggest": "Giờ Mão chưa đến, bên trong Hỏa Phường đã có tiếng đinh đinh từ trong đinh nhọn truyền ra."
+      "suggest": "Giờ Mão chưa đến, bên trong Hỏa Phường đã có tiếng đinh đinh từ trong đinh nhọn truyền ra.",
+      "approved": true,
+      "chinese": {
+        "raw": "卯时未至，火坊里便有叮当锤响之声传来。",
+        "text": "Giờ mão chưa đến, lửa trong phường liền có đinh đương chùy vang thanh âm truyền đến .",
+        "index": 1
+      }
     },
     {
       "convert": "Một gian chế tạo trong phòng, nhiệt khí bốc hơi, đánh lấy mình trần Viên Minh đang tay cầm Chú Tạo Chùy, liên tục đập nện lấy cái đe sắt bên trên phôi sắt, sáng tỏ đỏ tươi hoả tinh tứ tán vẩy ra.",
       "dich": "Trong một phòng rèn đúc, hơi nóng bốc lên, Viên Minh cởi trần đang cầm búa rèn nện liên tục lên phôi trên đe sắt, tia lửa đỏ thắm từ đó bắn ra tung tóe.",
-      "suggest": "Trong một gian chế tạo, nhiệt khí bốc hơi, đánh vào tay Viên Minh đang cầm Chú Tạo Chùy, liên tục đâp nên lên phôi sắt đỏ tươi, tỏa ánh lửa đỏ tươi."
+      "suggest": "Trong một gian chế tạo, nhiệt khí bốc hơi, đánh vào tay Viên Minh đang cầm Chú Tạo Chùy, liên tục đâp nên lên phôi sắt đỏ tươi, tỏa ánh lửa đỏ tươi.",
+      "approved": true,
+      "chinese": {
+        "raw": "一间铸造屋内，热气蒸腾，打着赤膊的袁铭正手持铸造锤，连续击打着铁砧上的胚铁，明亮鲜红的火星四散飞溅。",
+        "text": "Một gian đúc trong phòng, nhiệt khí bốc hơi, đánh lấy đỏ thẫm cánh tay đích Viên Minh đang tay cầm đúc chùy, liên tục giã lấy thiết châm thượng đích phôi thiết, sáng ngời đỏ tươi đích đốm lửa bốn phía vẩy ra .",
+        "index": 2
+      }
     },
     {
       "convert": "Ánh mắt của hắn chuyên chú, hai mắt tập trung ở phôi sắt phía trên, trong mắt tựa hồ không có vật gì khác nữa.",
       "dich": "Viên Minh trông rất chăm chú, hai mắt tập trung vào phôi sắt, trong mắt dường như không có gì khác.",
-      "suggest": "Ánh mắt hắn chăm chú, hai mắt tập trung lên phôi sắt, trong mắt tựa hồ không có thứ gì khác."
+      "suggest": "Ánh mắt hắn chăm chú, hai mắt tập trung lên phôi sắt, trong mắt tựa hồ không có thứ gì khác.",
+      "approved": true,
+      "chinese": {
+        "raw": "他的神情专注，双目聚焦在胚铁之上，眼中似乎再无他物。",
+        "text": "Ánh mắt của hắn chuyên chú, hai mắt ngắm nhìn tại phôi thiết phía trên, trong mắt tựa hồ không có vật gì khác nữa .",
+        "index": 3
+      }
     },
     {
       "convert": "Cánh tay của hắn cùng Chú Tạo Chùy chặt chẽ kết nối, nhìn như chỉ là đơn giản cầm nắm, kì thực lại là âm thầm vận chuyển Khu Vật Thuật, đem pháp lực quán chú vào chùy bên trong, tạo thành một loại như cánh tay chỉ điểm toàn vẹn cảm giác.",
       "dich": "Cánh tay hắn kết nối chặt chẽ với búa rèn, trông như chỉ là cầm nắm đơn giản, kỳ thực lại đang âm thầm vẩn chuyển Khu Vật Thuật, quán chú pháp lực vào trong búa, hình thành một loại cảm giác giống hệt như điều khiển cánh tay.",
-      "suggest": "Cánh tay của hắn và Chú Tạo Chùy chặt chẽ kết nối, thoạt nhìn tưởng như chỉ là cầm nắm, kỳ thật lại âm thầm vận chuyển Thuật Khu Vật, quán chú pháp lực vào trong thanh chùy, tạo thành một cảm giác toàn vẹn như cánh tay chỉ điểm."
+      "suggest": "Cánh tay của hắn và Chú Tạo Chùy chặt chẽ kết nối, thoạt nhìn tưởng như chỉ là cầm nắm, kỳ thật lại âm thầm vận chuyển Thuật Khu Vật, quán chú pháp lực vào trong thanh chùy, tạo thành một cảm giác toàn vẹn như cánh tay chỉ điểm.",
+      "approved": true,
+      "chinese": {
+        "raw": "他的手臂与铸造锤紧密连接，看似只是简单的抓握，实则却是暗自运转了驱物术，将法力灌注入了锤中，形成了一种如臂指使的浑然之感。",
+        "text": "Cánh tay hắn cùng đúc chùy chặt chẽ liên tiếp, nhìn như chỉ là giản đơn đích cầm nắm, kì thực lại là âm thầm vận chuyển Khu vật thuật, đem pháp lực quán chú vào chùy trung, tạo thành một loại 如 cánh tay chỉ điểm hoàn toàn cảm giác .",
+        "index": 4
+      }
     },
     {
       "convert": "Viên Minh một chùy tiếp theo một chùy rơi đập, tốc độ càng lúc càng nhanh, không ngừng hướng phía cái mục tiêu kia tới gần.",
       "dich": "Viên Minh nện từng búa từng búa nối tiếp nhau, tốc độ càng lúc càng nhanh, không ngừng tiếp cận mục tiêu kia.",
-      "suggest": "Viên Minh liên tiếp giáng xuống, cước bộ càng lúc càng nhanh, không ngừng tiến về phía mục tiêu kia."
+      "suggest": "Viên Minh liên tiếp giáng xuống, cước bộ càng lúc càng nhanh, không ngừng tiến về phía mục tiêu kia.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭一锤接着一锤砸落，速度越来越快，不断朝着那个目标逼近。",
+        "text": "Viên Minh một chùy tiếp theo một chùy rơi đập, tốc độ càng ngày càng nhanh, không ngừng hướng tới cái mục tiêu kia tới gần .",
+        "index": 5
+      }
     },
     {
       "convert": "Vội vàng tiếng vang như châu rơi khay ngọc, rốt cục cũng tạo thành vận luật đặc biệt.",
       "dich": "Tiếng vang dồn dập như châu rơi đĩa ngọc, cuối cùng cũng hình thành một nhịp điệu đặc biệt.",
-      "suggest": "Tiếng vang như châu rơi xuống khay ngọc cuối cùng cũng tạo thành vận luật đặc biệt."
+      "suggest": "Tiếng vang như châu rơi xuống khay ngọc cuối cùng cũng tạo thành vận luật đặc biệt.",
+      "approved": true,
+      "chinese": {
+        "raw": "急切的声响如珠落玉盘，终于也形成了独特的韵律。",
+        "text": "Cấp thiết đích tiếng vang như châu lạc ngọc bàn, cuối cùng cũng tạo thành vận luật đặc biệt .",
+        "index": 7
+      }
     },
     {
       "convert": "Tám trăm ba mười bảy, mười tám trăm ba mươi tám . ",
       "dich": "Tám trăm ba mươi bảy, tám trăm ba mươi tám ...",
-      "suggest": "Tám trăm ba mươi bảy, mười tám trăm ba mươi tám ."
+      "suggest": "Tám trăm ba mươi bảy, mười tám trăm ba mươi tám .",
+      "approved": true
     },
     {
       "convert": "Chín trăm bốn mươi mốt, chín trăm bốn mươi hai, chín trăm bốn mươi ba ",
       "dich": "Chín trăm bốn mươi mốt, chín trăm bốn mươi hai, chín trăm bốn mươi ba ...",
-      "suggest": "Chín trăm bốn mươi mốt, chín trăm bốn mươi hai, chín trăm bốn mươi ba "
+      "suggest": "Chín trăm bốn mươi mốt, chín trăm bốn mươi hai, chín trăm bốn mươi ba ",
+      "approved": true
     },
     {
       "convert": "Viên Minh toàn thân mồ hôi ra như dầu, trên trán mồ hôi hột lớn chừng hạt đậu càng là không ngừng lăn xuống, ba ba quẳng địa.",
       "dich": "Viên Minh cả người mồ hôi bóng loáng, từng giọt to như hạt đậu không ngừng lăn trên trán, tí tách rơi xuống nền đất.",
-      "suggest": "Viên Minh mồ hôi ra như dầu, mồ hôi hột lớn bằng hạt đậu trên trán không ngừng lăn ra, lăn ba bốn lần trên mặt đất."
+      "suggest": "Viên Minh mồ hôi ra như dầu, mồ hôi hột lớn bằng hạt đậu trên trán không ngừng lăn ra, lăn ba bốn lần trên mặt đất.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭浑身汗出如油，额头上豆大的汗珠更是不断滚落，啪啪摔地。",
+        "text": "Viên Minh toàn thân mồ hôi ra 如 dầu, trên trán to như hạt đậu đích mồ hôi càng là không ngừng cuộn rơi, pằng pằng quẳng địa .",
+        "index": 10
+      }
     },
     {
       "convert": "\"Sắp rồi, cũng nhanh \" Viên Minh cắn chặt hàm răng, trong lòng cũng đang không ngừng nhắc tới.",
-      "dich": "Chín trăm bảy mươi tám, chín trăm bảy mươi chín ...",
-      "suggest": "\"Đã xong rồi, cũng nhanh rồi.\" Viên Minh cắn chặt hàm răng, trong lòng cũng đang không ngừng nhắc tới."
+      "dich": "\"Sắp xong rồi, cũng nhanh thôi.\" Viên Minh cắn chặt hàm răng, trong lòng cũng đang không ngừng nhắc.",
+      "suggest": "\"Đã xong rồi, cũng nhanh rồi.\" Viên Minh cắn chặt hàm răng, trong lòng cũng đang không ngừng nhắc tới.",
+      "approved": true
     },
     {
       "convert": "Chín trăm bảy mươi tám, chín trăm bảy mươi chín ",
-      "dich": "Cánh tay hắn đã cứng ngắc, động tác vung búa nện xuống bắt đầu hơi lệch đi nhưng hắn vẫn đang cố gắng khống chế, không để việc nện búa xuất hiện sai sót nào.",
-      "suggest": "Chín trăm bảy mươi tám, chín trăm chín mươi chín cái."
+      "dich": "Chín trăm bảy mươi tám, chín trăm bảy mươi chín ...",
+      "suggest": "Chín trăm bảy mươi tám, chín trăm chín mươi chín cái.",
+      "approved": true
     },
     {
       "convert": "Cánh tay của hắn đã cứng ngắc, vung mạnh nện động tác bắt đầu có chút biến hình, nhưng ném ở cố gắng khống chế, không cho gõ chùy xuất hiện sai lệch chút nào.",
-      "dich": "Nhưng sức người chung quy cũng có hạn, không phải cứ có ý chí là có thể vượt qua.",
-      "suggest": "Cánh tay hắn cứng ngắc, động tác vung mạnh tay bắt đầu có chút biến đổi, nhưng vẫn cố gắng khống chế, không để cho cú đập của cây chùy xuất hiện sai lệch chút nào."
+      "dich": "Cánh tay hắn đã cứng ngắc, động tác vung búa nện xuống bắt đầu hơi lệch đi nhưng hắn vẫn đang cố gắng khống chế, không để việc nện búa xuất hiện sai sót nào.",
+      "suggest": "Cánh tay hắn cứng ngắc, động tác vung mạnh tay bắt đầu có chút biến đổi, nhưng vẫn cố gắng khống chế, không để cho cú đập của cây chùy xuất hiện sai lệch chút nào.",
+      "approved": true,
+      "chinese": {
+        "raw": "他的手臂已经僵直，抡捶的动作开始有些变形，但扔在努力控制，不让落锤出现丝毫偏差。",
+        "text": "Cánh tay hắn đã cứng ngắc, vung đấm đích động tác bắt đầu có chút biến hình, nhưng ném ở cố gắng khống chế, không cho gõ chùy xuất hiện sai lệch chút nào .",
+        "index": 13
+      }
     },
     {
       "convert": "Nhưng nhân lực có lúc cạn kiệt, cuối cùng không phải chỉ dựa vào ý chí liền có thể khắc phục.",
-      "dich": "Búa thứ chín trăm tám mươi mốt vừa rơi xuống, tiếng nện búa vốn đang trong trẻo dễ nghe chợt có thêm một tia trầm đục không nên có.",
-      "suggest": "Nhưng nhân lực có lúc cạn kiệt, cuối cùng không phải chỉ dựa vào ý chí là có thể khắc phục được."
+      "dich": "Nhưng sức người chung quy cũng có hạn, không phải cứ có ý chí là có thể vượt qua.",
+      "suggest": "Nhưng nhân lực có lúc cạn kiệt, cuối cùng không phải chỉ dựa vào ý chí là có thể khắc phục được.",
+      "approved": true,
+      "chinese": {
+        "raw": "但人力有穷尽时，终究不是仅凭意志就能克服的。",
+        "text": "Nhưng nhân lực có lúc cạn kiệt, chung quy không phải chỉ dựa vào ý chí liền có thể khắc phục .",
+        "index": 14
+      }
     },
     {
       "convert": "Thứ chín trăm tám mươi mốt chùy rơi xuống một cái chớp mắt, nguyên bản thanh âm thanh thúy dễ nghe, lại hiện ra một tia không nên có ngột ngạt.",
-      "dich": "Viên Minh lập tức biết mình lại thất bại.",
-      "suggest": "Một chùy thứ chín rơi xuống chỉ trong chớp mắt, thanh âm vốn dĩ trong trẻo dễ nghe, lại hiện ra một chút ngột ngạt không thể nén được."
+      "dich": "Búa thứ chín trăm tám mươi mốt vừa rơi xuống, tiếng nện búa vốn đang trong trẻo dễ nghe chợt có thêm một tia trầm đục không nên có.",
+      "suggest": "Một chùy thứ chín rơi xuống chỉ trong chớp mắt, thanh âm vốn dĩ trong trẻo dễ nghe, lại hiện ra một chút ngột ngạt không thể nén được.",
+      "approved": true,
+      "chinese": {
+        "raw": "第九百八十一锤落下的一瞬，原本清脆悦耳的声音，却显出了一丝不该有的沉闷。",
+        "text": "Thứ chín trăm tám mươi mốt chùy rơi xuống đích một cái chớp mắt, nguyên bản thanh thúy dễ nghe đích thanh âm, nhưng hiện ra một tia không nên có đích nặng nề .",
+        "index": 15
+      }
     },
     {
       "convert": "Viên Minh liền biết, lại thất bại.",
-      "dich": "Hắn ngưng động tác lại, không tiếp tục tiến hành nện gõ vô nghĩa, mà chỉ trơ mắt nhìn phôi sắt trên đe dần nguội đi.",
-      "suggest": "Viên Minh biết mình lại thất bại."
+      "dich": "Viên Minh lập tức biết mình lại thất bại.",
+      "suggest": "Viên Minh biết mình lại thất bại.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭便知道，又失败了。",
+        "text": "Viên Minh liền biết, lại thất bại .",
+        "index": 16
+      }
     },
     {
       "convert": "Hắn dừng động tác lại, không tiếp tục tiến hành không có ý nghĩa nện gõ, trơ mắt nhìn xem cái đe sắt bên trên phôi sắt một chút xíu làm lạnh.",
-      "dich": "Chồn lửa vẫn luôn ở bên cạnh quan sát, phát giác Viên Minh thất vọng liền nhanh chóng chạy tới trước mặt hắn, duỗi móng vuốt ra chộp cây búa rèn, tựa như muốn giúp hắn rèn tiếp.",
-      "suggest": "Hắn dừng động tác lại, không tiếp tục tiến hành những cú gõ không có ý nghĩa gì nữa, trơ mắt nhìn phôi sắt đông lạnh trên đe sắt."
+      "dich": "Hắn ngưng động tác lại, không tiếp tục tiến hành nện gõ vô nghĩa, mà chỉ trơ mắt nhìn phôi sắt trên đe dần nguội đi.",
+      "suggest": "Hắn dừng động tác lại, không tiếp tục tiến hành những cú gõ không có ý nghĩa gì nữa, trơ mắt nhìn phôi sắt đông lạnh trên đe sắt.",
+      "approved": true,
+      "chinese": {
+        "raw": "他停下了动作，没有再进行无意义的锤击，眼睁睁看着铁砧上的胚铁一点点冷却。",
+        "text": "Hắn dừng động tác lại, không tiếp tục tiến hành vô ý nghĩa đích chùy kích, trơ mắt nhìn xem thiết châm thượng đích phôi thiết một chút điểm làm lạnh .",
+        "index": 17
+      }
     },
     {
       "convert": "Một mực tại một bên vây xem Hỏa Chồn, cũng đã nhận ra Viên Minh thất lạc, nhanh chóng chạy tới trước mặt của hắn, duỗi ra móng vuốt đi bắt Chú Tạo Chùy, tựa hồ là muốn giúp hắn tiếp tục rèn luyện.",
-      "dich": "Viên Minh xoa xoa đầu nó, mỉm cười rồi đặt búa rèn qua một bên.",
-      "suggest": "Hỏa Chồn đang vây xem một bên cũng nhận ra Viên Minh đã thất lạc, liền nhanh chóng chạy tới trước mặt Viên Minh, duỗi móng vuốt bắt lấy Chú Tạo Chùy, tựa như muốn giúp hắn tiếp tục rèn luyện."
+      "dich": "Chồn lửa vẫn luôn ở bên cạnh quan sát, phát giác Viên Minh thất vọng liền nhanh chóng chạy tới trước mặt hắn, duỗi móng vuốt ra chộp cây búa rèn, tựa như muốn giúp hắn rèn tiếp.",
+      "suggest": "Hỏa Chồn đang vây xem một bên cũng nhận ra Viên Minh đã thất lạc, liền nhanh chóng chạy tới trước mặt Viên Minh, duỗi móng vuốt bắt lấy Chú Tạo Chùy, tựa như muốn giúp hắn tiếp tục rèn luyện.",
+      "approved": true,
+      "chinese": {
+        "raw": "一直在一旁围观的火貂，也察觉到了袁铭的失落，快速跑到了他的跟前，伸出爪子去抓铸造锤，似乎是想帮他继续锤炼。",
+        "text": "Một mạch ở một bên vây xem đích lửa chồn, cũng đã nhận ra Viên Minh đích thất lạc, nhanh chóng chạy tới trước mặt của hắn, vươn trảo đi bắt đúc chùy, tựa hồ là muốn giúp hắn tiếp tục rèn luyện .",
+        "index": 18
+      }
     },
     {
       "convert": "Viên Minh sờ lên đầu của nó, cười đem Chú Tạo Chùy đặt ở một bên.",
-      "dich": "Trên thực tế, Viên Minh không phải cảm thấy thất vọng mà chỉ đang hồi tưởng lại quá trình vừa rồi.",
-      "suggest": "Viên Minh sờ sờ đầu nó, cười cười đặt Chú Tạo Chùy sang một bên."
+      "dich": "Viên Minh xoa xoa đầu nó, mỉm cười rồi đặt búa rèn qua một bên.",
+      "suggest": "Viên Minh sờ sờ đầu nó, cười cười đặt Chú Tạo Chùy sang một bên.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭摸了摸它的脑袋，笑着将铸造锤放在了一边。",
+        "text": "Viên Minh sờ sờ nó cái đầu, cười đem đúc chùy đặt ở một bên .",
+        "index": 19
+      }
     },
     {
       "convert": "Hắn trên thực tế cũng không phải là ở thất lạc, mà chỉ là ở nghĩ lại, bởi vì thần hồn chi lực không yếu, hắn Khu Vật Thuật tu luyện coi như trôi chảy, nhưng khoảng cách dung hội quán thông còn có một số khoảng cách, đây cũng là hắn luyện phôi thất bại nguyên nhân chủ yếu.",
-      "dich": "Hắn thấy lực lượng thần hồn bản thân không yếu, Khu Vật Thuật của hắn cũng xem như liền mạch lưu loát, thế nhưng khoảng cách tới mức dung hội quán thông vẫn còn thiếu một chút, đây cũng chính là nguyên nhân chủ yếu khiến hắn rèn phôi thất bại.",
-      "suggest": "Trên thực tế hắn cũng không thất lạc, mà chỉ là suy nghĩ lại. Bởi vì thần hồn chi lực không yếu, thuật Khu Vật của hắn tu luyện cũng coi như trôi chảy, nhưng khoảng cách dung hội quán thông với bản thân còn có một số khoảng cách. Đây cũng là nguyên nhân chủ yếu khiến cho việc luyện phôi thất bại."
+      "dich": "Trên thực tế, hắn không phải cảm thấy thất vọng mà chỉ đang hồi tưởng lại quá trình vừa rồi. Hắn thấy lực lượng thần hồn bản thân không yếu, Khu Vật Thuật cũng xem như liền mạch lưu loát, thế nhưng khoảng cách tới mức dung hội quán thông vẫn còn thiếu một chút, đây cũng chính là nguyên nhân chủ yếu khiến hắn rèn phôi thất bại.",
+      "suggest": "Trên thực tế hắn cũng không thất lạc, mà chỉ là suy nghĩ lại. Bởi vì thần hồn chi lực không yếu, thuật Khu Vật của hắn tu luyện cũng coi như trôi chảy, nhưng khoảng cách dung hội quán thông với bản thân còn có một số khoảng cách. Đây cũng là nguyên nhân chủ yếu khiến cho việc luyện phôi thất bại.",
+      "approved": true,
+      "chinese": {
+        "raw": "他实际上并不是在失落，而只是在反思，因为神魂之力不弱，他的驱物术修炼还算顺遂，但距离融会贯通还有一些距离，这也是他炼胚失败的主要原因。",
+        "text": "Hắn trên thực tế chẳng hề là tại thất lạc, mà chỉ là tại nghĩ lại, vì thần hồn chi lực không kém, hắn Khu vật thuật tu luyện còn tính trôi chảy, nhưng cự ly thông hiểu đạo lí còn có một số cự ly, cái này cũng là hắn 炼 phôi thất bại đích nguyên nhân chủ yếu .",
+        "index": 20
+      }
     },
     {
       "convert": "Lúc này, một bóng người từ đằng xa đi tới, chính là Phương Cách.",
-      "dich": "Lúc này, bóng dáng Phương Cách từ đằng xa bước tới.",
-      "suggest": "Lúc này, một bóng người từ đằng xa đi tới, chính là Phương Cách."
+      "dich": "Lúc này, một bóng người từ đằng xa đi tới, chính là Phương Cách.",
+      "suggest": "Lúc này, một bóng người từ đằng xa đi tới, chính là Phương Cách.",
+      "approved": true,
+      "chinese": {
+        "raw": "这时，一道人影从远处走了过来，正是方格。",
+        "text": "Lúc này, một bóng người từ xa chỗ đi tới, chính là ô vuông .",
+        "index": 21
+      }
     },
     {
       "convert": "\"Tiến bộ của ngươi so với ta tưởng tượng phải nhanh, có thể ở ngắn ngủi mấy ngày bên trong có tiến bộ lớn như vậy, đã có thể liên tục nện gõ ra chín trăm tám mươi mốt chùy, đầy đủ luyện chế Linh thú bộ yên ngựa ghế ngồi loại hình.",
-      "dich": "\"Ngươi tiến bộ còn nhanh hơn ta tưởng.",
-      "suggest": "\"Tiến bộ của ngươi so với ta tưởng tượng còn nhanh hơn nhiều, trong mấy ngày ngắn ngủi đã có thể liên tục gõ lên tám mươi tám mươi mốt chùy, đủ để luyện chế một bộ ghế ngồi Linh thú bình thường."
+      "dich": "\"Ngươi tiến bộ còn nhanh hơn ta tưởng. Chỉ trong mấy ngày ngắn ngủi đã có tiến bộ lớn như vậy, có thể liên tục quai búa chín trăm tám mươi mốt lần, thừa đủ để luyện chế một món kiểu yên lưng linh thú.",
+      "suggest": "\"Tiến bộ của ngươi so với ta tưởng tượng còn nhanh hơn nhiều, trong mấy ngày ngắn ngủi đã có thể liên tục gõ lên tám mươi tám mươi mốt chùy, đủ để luyện chế một bộ ghế ngồi Linh thú bình thường.",
+      "approved": true
     },
     {
       "convert": "Có thể nói, trình độ của ngươi đã vượt qua Hỏa Luyện Đường đại đa số đệ tử.\"",
-      "dich": "Chỉ trong mấy ngày ngắn ngủi đã có tiến bộ lớn như vậy, có thể liên tục quai búa chín trăm tám mươi mốt lần, thừa đủ để luyện chế một món kiểu yên lưng linh thú.",
-      "suggest": "Có thể nói, trình độ của ngươi đã vượt qua đại đa số đệ tử Hỏa Luyện Đường.\""
+      "dich": "Có thể nói, trình độ của ngươi đã vượt xa đại đa số đệ tử Hỏa Luyện Đường.\"",
+      "suggest": "Có thể nói, trình độ của ngươi đã vượt qua đại đa số đệ tử Hỏa Luyện Đường.\"",
+      "approved": true
     },
     {
       "convert": "Hắn đi vào Viên Minh bên người dừng bước, trên dưới nhìn Viên Minh một chút, mở miệng nói ra.",
-      "dich": "Có thể nói, trình độ của ngươi đã vượt xa đại đa số đệ tử Hỏa Luyện Đường.\"",
-      "suggest": "Hắn đi tới bên người Viên Minh dừng bước, quan sát trên dưới Viên Minh một chút, mở miệng nói."
+      "dich": "Y đi tới cạnh Viên Minh, nhìn Viên Minh một lượt rồi mở miệng nói.",
+      "suggest": "Hắn đi tới bên người Viên Minh dừng bước, quan sát trên dưới Viên Minh một chút, mở miệng nói.",
+      "approved": true
     },
     {
       "convert": "\"Đa tạ sư huynh khích lệ, bất quá khoảng cách cái mục tiêu kia, hay là kém mười chín chùy.\"",
-      "dich": "Y đi tới cạnh Viên Minh, nhìn hắn một lượt rồi mở miệng nói.",
-      "suggest": "\"Đa tạ sư huynh khích lệ, nhưng khoảng cách tới mục tiêu kia vẫn còn hơn mười chín chùy.\""
-    },
-    {
-      "convert": "Viên Minh nói.",
       "dich": "\"Đa tạ sư huynh khích lệ, có điều khoảng cách đến mục tiêu kia vẫn còn thiếu mười chín búa.\"",
-      "suggest": "Viên Minh nói."
+      "suggest": "\"Đa tạ sư huynh khích lệ, nhưng khoảng cách tới mục tiêu kia vẫn còn hơn mười chín chùy.\"",
+      "approved": true
     },
     {
       "convert": "\"Sai một ly đi nghìn dặm, nhìn như chỉ kém mười chín chùy, kì thực cách còn rất xa.\"",
       "dich": "\"Sai một ly đi ngàn dặm, trông như chỉ thiếu có mười chín búa, kỳ thực còn cách rất xa.\"",
-      "suggest": "\"Một ly đi nghìn dặm, thoạt nhìn chỉ kém mười chín chùy, kỳ thật còn cách đó rất xa.\""
+      "suggest": "\"Một ly đi nghìn dặm, thoạt nhìn chỉ kém mười chín chùy, kỳ thật còn cách đó rất xa.\"",
+      "approved": true
     },
     {
       "convert": "Phương Cách gật gật đầu, vẻ mặt thành thật nói.",
       "dich": "Phương Cách gật gật đầu, lộ vẻ thành thật nói.",
-      "suggest": "Phương Cách gật gật đầu, vẻ mặt thành thật nói."
+      "suggest": "Phương Cách gật gật đầu, vẻ mặt thành thật nói.",
+      "approved": true
     },
     {
       "convert": "Viên Minh vốn còn muốn tiếp tục khách sáo vài câu ngạnh sinh sinh nuốt trở vào, không khỏi có chút xấu hổ, trong lòng tự nhủ ngươi đến cùng là tới cổ vũ ta, hay là tới tổn hại ta sao?",
       "dich": "Viên Minh đang tính nói thêm mấy câu khách sáo, nghe vậy chỉ có thể nuốt ngược vào, không khỏi xấu hổ, trong lòng thầm mắng rốt cuộc ngươi đến cổ vũ ta, hay là đến cười nhạo ta?",
-      "suggest": "Viên Minh vốn định tiếp tục khách sáo vài câu, nhưng lại bị nàng ta ép cho vào miệng, không khỏi có chút xấu hổ, trong lòng tự nhủ ngươi đến cùng là tới cổ vũ ta, hay là làm tổn thương ta?"
+      "suggest": "Viên Minh vốn định tiếp tục khách sáo vài câu, nhưng lại bị nàng ta ép cho vào miệng, không khỏi có chút xấu hổ, trong lòng tự nhủ ngươi đến cùng là tới cổ vũ ta, hay là làm tổn thương ta?",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭本还想继续客套几句的话硬生生咽了回去，不禁有些尴尬，心说你到底是来鼓励我的，还是来损我的？",
+        "text": "Viên Minh vốn còn muốn tiếp tục khách sáo vài câu thì cứng rắn nuốt trở vào, không khỏi có chút khó xử, trong lòng tự nhủ ngươi đến cùng là tới cổ vũ ta, vẫn là tới tổn ta ?",
+        "index": 25
+      }
     },
     {
       "convert": "\"Ta minh bạch, ta chênh lệch không chỉ là mười chín chùy vấn đề, mà là trên lực lượng, trên kỹ xảo, thậm chí chuyên chú mức độ bên trên, cũng đều có chênh lệch không nhỏ.\"",
       "dich": "\"Ta hiểu rõ thiếu sót của bản thân không chỉ là chuyện mười chín búa, mà trên phương diện lực lượng, kỹ xảo, thậm chí mức độ chuyên chú đều còn thiếu sót không nhỏ.\"",
-      "suggest": "\"Ta hiểu rõ, chênh lệch của ta không chỉ là mười chín chùy, mà cả về lực lượng, kỹ xảo, thậm chí mức độ chuyên chú cũng chênh lệch không nhỏ.\""
+      "suggest": "\"Ta hiểu rõ, chênh lệch của ta không chỉ là mười chín chùy, mà cả về lực lượng, kỹ xảo, thậm chí mức độ chuyên chú cũng chênh lệch không nhỏ.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh suy nghĩ một chút về sau, nói như thế.",
       "dich": "Viên Minh trầm ngâm ngẫm nghĩ một chút rồi nói.",
-      "suggest": "Viên Minh suy nghĩ một chút rồi nói."
+      "suggest": "Viên Minh suy nghĩ một chút rồi nói.",
+      "approved": true
     },
     {
       "convert": "\"Nhìn ra được, ngươi cũng không phải thật tâm thích luyện khí, cho nên ta có chút không rõ, sư tôn nàng đã đặc biệt đã thông báo, ngươi có thể không cần sàng lọc tài liệu luyện phôi, có thể ngươi vì sao còn muốn kiên trì như thế, thậm chí so với người khác nỗ lực càng nhiều cố gắng?\"",
       "dich": "\"Ta nhìn ra được, ngươi cũng không phải thật lòng thích luyện khí, thế nên ta thấy hơi khó hiểu, sư tôn người đã đặc biệt thông báo, ngươi có thể không làm sàng liệu, thế nhưng sao ngươi vẫn kiên trí như vậy, thậm chí còn bỏ công cố gắng nhiều hơn người khác?\"",
-      "suggest": "\"Xem ra ngươi cũng không phải thật tâm thích luyện khí, cho nên ta có chút không rõ, sư tôn nàng đã đặc biệt thông báo, ngươi có thể không cần luyện phôi, nhưng vì sao ngươi vẫn muốn kiên trì như vậy, thậm chí còn cố gắng hơn người khác nhiều?\""
+      "suggest": "\"Xem ra ngươi cũng không phải thật tâm thích luyện khí, cho nên ta có chút không rõ, sư tôn nàng đã đặc biệt thông báo, ngươi có thể không cần luyện phôi, nhưng vì sao ngươi vẫn muốn kiên trì như vậy, thậm chí còn cố gắng hơn người khác nhiều?\"",
+      "approved": true
     },
     {
       "convert": "Phương Cách mặt nghiêm túc bên trên, thêm ra một tia nghi hoặc thần sắc, hỏi.",
-      "dich": "\"Vì ta không thích đi đường vòng.\"",
-      "suggest": "Phương Cách trên mặt lộ ra vẻ nghi hoặc, hỏi."
+      "dich": "Phương Cách trên mặt nghiêm túc, lộ ra vẻ nghi hoặc hỏi.",
+      "suggest": "Phương Cách trên mặt lộ ra vẻ nghi hoặc, hỏi.",
+      "approved": true
     },
     {
       "convert": "\"Bởi vì ta không thích đường vòng.\"",
-      "dich": "Viên Minh nhìn về phía vị sư huynh nghiêm túc này, đáp.",
-      "suggest": "\"Bởi vì ta không thích đi đường vòng.\""
+      "dich": "\"Vì ta không thích đi đường vòng.\"",
+      "suggest": "\"Bởi vì ta không thích đi đường vòng.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh nhìn về phía vị này nghiêm túc sư huynh, trả lời.",
-      "dich": "\"Hửm?\"",
-      "suggest": "Viên Minh nhìn về phía vị sư huynh nghiêm túc này, đáp."
+      "dich": "Viên Minh nhìn về phía vị sư huynh nghiêm túc này, đáp.",
+      "suggest": "Viên Minh nhìn về phía vị sư huynh nghiêm túc này, đáp.",
+      "approved": true
     },
     {
       "convert": "\"Ừm?\"",
-      "dich": "Phương Cách càng thấy khó hiểu hơn.",
-      "suggest": "\"Ừm?\""
+      "dich": "\"Hửm?\"",
+      "suggest": "\"Ừm?\"",
+      "approved": true
     },
     {
       "convert": "Phương Cách càng thêm không hiểu.",
-      "dich": "\"Gặp phải một ngọn núi, ta thích vượt qua nó chứ không phải vòng qua.\"",
-      "suggest": "Phương Cách càng thêm khó hiểu."
+      "dich": "Phương Cách càng thấy khó hiểu hơn.",
+      "suggest": "Phương Cách càng thêm khó hiểu.",
+      "approved": true
     },
     {
       "convert": "\"Gặp được một ngọn núi, ta càng ưa thích lật qua, mà không phải đi vòng qua.\"",
-      "dich": "Viên Minh cười giải thích.",
-      "suggest": "\"Gặp được một ngọn núi, ta càng thích đi vòng qua mà không phải đi vòng qua.\""
+      "dich": "\"Gặp phải một ngọn núi, ta thích vượt qua nó chứ không phải vòng qua.\"",
+      "suggest": "\"Gặp được một ngọn núi, ta càng thích đi vòng qua mà không phải đi vòng qua.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh cười giải thích nói.",
-      "dich": "\"Hay lắm!",
-      "suggest": "Viên Minh cười giải thích."
+      "dich": "Viên Minh cười giải thích.",
+      "suggest": "Viên Minh cười giải thích.",
+      "approved": true
     },
     {
       "convert": "\"Rất tốt!",
-      "dich": "Nếu vậy, khoảng cách tới mục tiêu một ngàn búa của ngươi đã rất gần rồi.\"",
-      "suggest": "\"Rất tốt!"
+      "dich": "\"Hay lắm!",
+      "suggest": "\"Rất tốt!",
+      "approved": true
     },
     {
       "convert": "Như thế, ngươi khoảng cách ngàn chùy không ngừng mục tiêu, liền rất gần.\"",
-      "dich": "Phương Cách nghe vậy liền nở nụ cười, nói động viên...",
-      "suggest": "Như vậy, khoảng cách ngàn chùy của ngươi với mục tiêu ngàn chùy là rất gần.\""
+      "dich": "Nếu vậy, khoảng cách tới mục tiêu một ngàn búa của ngươi đã rất gần rồi.\"",
+      "suggest": "Như vậy, khoảng cách ngàn chùy của ngươi với mục tiêu ngàn chùy là rất gần.\"",
+      "approved": true
     },
     {
       "convert": "Phương Cách nghe vậy, trên mặt cũng lộ ra một vòng ý cười.",
-      "dich": "Trong đêm.",
-      "suggest": "Phương Cách nghe vậy, trên mặt cũng lộ vẻ cười."
+      "dich": "Phương Cách nghe vậy liền nở nụ cười, nói động viên...",
+      "suggest": "Phương Cách nghe vậy, trên mặt cũng lộ vẻ cười.",
+      "approved": true
     },
     {
       "convert": "Trong đêm.",
-      "dich": "Một vầng trăng treo phía trời Tây.",
-      "suggest": "Đêm đó."
+      "dich": "Trong đêm.",
+      "suggest": "Đêm đó.",
+      "approved": true,
+      "chinese": {
+        "raw": "夜里。",
+        "text": "Ban đêm .",
+        "index": 33
+      }
     },
     {
       "convert": "Một vòng trăng tròn treo ở Tây Thiên, trong trẻo ánh trăng như nước hắt vẫy, chiếu nhập cửa sổ.",
-      "dich": "Ánh trăng trong như nước trải xuống, xuyên qua cửa sổ.",
-      "suggest": "Một vầng trăng tròn treo trên Tây Thiên, ánh trăng trong veo như nước chiếu vào cửa sổ."
+      "dich": "Một vầng trăng treo phía trời Tây. Ánh trăng trong như nước trải xuống, xuyên qua cửa sổ.",
+      "suggest": "Một vầng trăng tròn treo trên Tây Thiên, ánh trăng trong veo như nước chiếu vào cửa sổ.",
+      "approved": true,
+      "chinese": {
+        "raw": "一轮满月挂在西天，清亮如水的月光泼洒，投映入窗。",
+        "text": "Một vòng đầy tháng treo ở Tây Thiên, trong trẻo ánh trăng như nước vẩy bắn, chiếu nhập cửa sổ .",
+        "index": 34
+      }
     },
     {
       "convert": "Viên Minh chính nhắm mắt khoanh chân ngồi trong phòng, trong ngực ôm lư hương, toàn thân bao phủ mông lung quang mang, tu luyện « Minh Nguyệt Quyết ».",
       "dich": "Viên Minh đang nhắm mắt khoanh chân ngồi trong phòng, ôm lư hương trong ngực, trên người phủ đầy ánh sáng mờ ảo, tu luyện Minh Nguyệt Quyết.",
-      "suggest": "Viên Minh nhắm mắt khoanh chân ngồi trong phòng, ngực ôm lư hương, toàn thân tỏa ánh sáng mờ ảo, tu luyện Minh Nguyệt Quyết."
+      "suggest": "Viên Minh nhắm mắt khoanh chân ngồi trong phòng, ngực ôm lư hương, toàn thân tỏa ánh sáng mờ ảo, tu luyện Minh Nguyệt Quyết.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭正闭目盘膝坐在房中，怀中抱着香炉，浑身笼罩着朦胧光芒，修炼《冥月诀》。",
+        "text": "Viên Minh chính nhắm mắt khoanh chân tọa trong phòng, trong ngực ôm lư hương, toàn thân bao phủ mông lung quang mang, tu luyện 《 Minh Nguyệt quyết 》 .",
+        "index": 35
+      }
     },
     {
       "convert": "Hỏa Sàm Nhi thoải mái mà dựa vào bên chân của hắn, hai mắt khép hờ, nửa mê nửa tỉnh.",
       "dich": "Hỏa Sàm Nhi thoải mái dựa vào bên chân hắn, hai mắt khép hờ, nửa mê nửa tỉnh.",
-      "suggest": "Hỏa Sàm Nhi thoải mái dựa sát vào chân hắn, hai mắt nhắm hờ, nửa mê nửa tỉnh."
+      "suggest": "Hỏa Sàm Nhi thoải mái dựa sát vào chân hắn, hai mắt nhắm hờ, nửa mê nửa tỉnh.",
+      "approved": true,
+      "chinese": {
+        "raw": "火馋儿舒服地倚靠在他的脚边，双眼微闭，半梦半醒。",
+        "text": "Lửa thèm muốn nhi thoải mái mà dựa tại bên chân của hắn, hai mắt khép hờ, nửa mê nửa tỉnh .",
+        "index": 36
+      }
     },
     {
       "convert": "Viên Minh thần niệm ngồi chiếu tự quan, đã có thể thấy rõ trong thức hải của chính mình cảnh, bên trong bởi vì tu luyện phi mao chi thuật mang tới tai hoạ ngầm đã cơ bản bị hắn một mực áp chế.",
       "dich": "Viên Minh dùng thần niệm tự quan sát chính mình, đã có thể thấy rõ tình hình trong thức hải của mình, xác định tai họa ngầm do việc tu luyện Phi Mao Thuật đem lại đã cơ bản đã bị hắn áp chế.",
-      "suggest": "Viên Minh ngồi xếp bằng trước tự quan, có thể thấy rõ được cảnh giới trong thức hải của mình, bên trong bởi vì tu luyện Phi Mao Thuật mà dẫn tới tai hoạ ngầm."
+      "suggest": "Viên Minh ngồi xếp bằng trước tự quan, có thể thấy rõ được cảnh giới trong thức hải của mình, bên trong bởi vì tu luyện Phi Mao Thuật mà dẫn tới tai hoạ ngầm.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭神念坐照自观，已经能够清晰地看到自己的识海内景，里面因为修炼披毛之术带来的隐患已经基本被他牢牢压制。",
+        "text": "Viên Minh thần niệm tọa chiếu tự quan, đã có thể thấy rõ trong thức hải của chính mình 景, bên trong vì tu luyện khoác lông thuật mang tới tai hoạ ngầm đã cơ bản bị hắn chặt chẽ áp chế .",
+        "index": 37
+      }
     },
     {
       "convert": "Kia tràn ngập ở trong thức hải của hắn màu đỏ sậm sương mù, đã đều đàng hoàng bị xua đuổi đến khu vực biên giới, không còn dám lỗ mãng.",
       "dich": "Nhưng sương mù màu đỏ tràn ngập trong thức hải của hắn trước kia, lúc này đều đã ngoan ngoãn bị đẩy tới vùng rìa, không còn dám lỗ mãng.",
-      "suggest": "Khói mù màu đỏ sậm tràn ngập trong thức hải của hắn đã bị xua đuổi tới rìa biển, không dám nhúc nhích."
+      "suggest": "Khói mù màu đỏ sậm tràn ngập trong thức hải của hắn đã bị xua đuổi tới rìa biển, không dám nhúc nhích.",
+      "approved": true,
+      "chinese": {
+        "raw": "那弥漫在他识海内的暗红色雾气，已经都老老实实地被驱赶到了边缘地带，不敢再造次。",
+        "text": "Kia tràn ngập tại trong thức hải của hắn đích màu đỏ sậm sương mù, đã đều đàng hoàng bị xua đuổi đến rồi khu vực biên giới, không còn dám lỗ mãng .",
+        "index": 38
+      }
     },
     {
       "convert": "Viên Minh hai tay pháp quyết kết động, trong lòng mặc niệm Minh Nguyệt Quyết pháp quyết, thần niệm bắt đầu tụ tập, lực lượng không ngừng tập trung.",
       "dich": "Viên Minh hai tay kháp động pháp quyết, trong lòng thầm niệm pháp quyết Minh Nguyệt Quyết, thần niệm bắt đầu tụ tập, lực lượng không ngừng tập trung.",
-      "suggest": "Viên Minh bấm niệm pháp quyết, trong lòng thầm niệm pháp quyết Minh Nguyệt Quyết, thần niệm bắt đầu tụ tập, lực lượng không ngừng tập trung."
+      "suggest": "Viên Minh bấm niệm pháp quyết, trong lòng thầm niệm pháp quyết Minh Nguyệt Quyết, thần niệm bắt đầu tụ tập, lực lượng không ngừng tập trung.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭双手法诀掐动，心中默念冥月诀法决，神念开始汇集，力量不断集中。",
+        "text": "Viên Minh hai tay pháp quyết kết động, trong lòng mặc niệm Minh Nguyệt quyết pháp quyết, thần niệm bắt đầu tụ tập, lực lượng không ngừng tập trung .",
+        "index": 39
+      }
     },
     {
       "convert": "Bỗng nhiên, hắn một cái tâm niệm thay nhau nổi lên, lực lượng thần thức liền bắt đầu xông ra thức hải, hướng phía quanh thân kinh mạch thăm dò mà đi.",
       "dich": "Bỗng nhiên, một tâm niệm của hắn liên lục lặp lại, theo đó lực lượng thần thức bắt đầu xông ra khỏi thức hải, tràn đi thăm dò kinh mạch quanh thân.",
-      "suggest": "Bỗng nhiên, mỗi ý niệm trong đầu hắn lại thay đổi, lực lượng thần thức bắt đầu xông ra khỏi thức hải, xông thẳng về phía kinh mạch xung quanh."
+      "suggest": "Bỗng nhiên, mỗi ý niệm trong đầu hắn lại thay đổi, lực lượng thần thức bắt đầu xông ra khỏi thức hải, xông thẳng về phía kinh mạch xung quanh.",
+      "approved": true,
+      "chinese": {
+        "raw": "忽然，他的一个心念迭起，神识之力便开始冲出识海，朝着周身经脉探索而去。",
+        "text": "Bỗng nhiên, hắn một cái tâm niệm thay nhau nổi lên, lực lượng thần thức liền bắt đầu lao ra thức hải, hướng tới quanh thân kinh mạch thăm dò mà đi .",
+        "index": 40
+      }
     },
     {
       "convert": "Hắn muốn nếm thử hoàn thành đối sở hữu kinh mạch nội thị.",
       "dich": "Hắn muốn thử hoàn thành nội thị tất cả kinh mạch.",
-      "suggest": "Hắn muốn thử nghiệm hoàn thành đối với kinh mạch nội thị."
+      "suggest": "Hắn muốn thử nghiệm hoàn thành đối với kinh mạch nội thị.",
+      "approved": true,
+      "chinese": {
+        "raw": "他要尝试完成对所有经脉的内视。",
+        "text": "Hắn muốn thử hoàn thành đối tất cả kinh mạch đích nội thị .",
+        "index": 41
+      }
     },
     {
       "convert": "Lực lượng thần thức xông ra thời điểm, đầu tiên phân lưu ra hai cỗ lực lượng, chia ra tiến vào Nhâm mạch cùng Đốc mạch.",
       "dich": "Thời điểm lực lượng thần thức xông ra, trước tiên tách ra thành hai cỗ lực lượng, đồng thời tiến vào Nhâm mạch và Đốc mạch.",
-      "suggest": "Khi thần thức xông ra, thần thức đầu tiên đã phân ra hai luồng lực lượng, chia làm hai hướng tiến vào Nhâm Mạch và Đốc Mạch."
+      "suggest": "Khi thần thức xông ra, thần thức đầu tiên đã phân ra hai luồng lực lượng, chia làm hai hướng tiến vào Nhâm Mạch và Đốc Mạch.",
+      "approved": true,
+      "chinese": {
+        "raw": "神识之力冲出之时，首先分流出两股力量，分别进入任脉和督脉。",
+        "text": "Lực lượng thần thức lao ra thời điểm, đầu tiên phân lưu ra hai cỗ lực lượng, phân biệt tiến vào nhâm mạch cùng đốc mạch .",
+        "index": 42
+      }
     },
     {
       "convert": "Này cả hai là thân người này mạch lạc bên trong lớn nhất âm dương hai mạch, thần niệm vừa vào, liền có thể rõ ràng nhìn thấy Nhâm mạch từ trước trán hướng phía dưới, qua mi tâm, chóp mũi, cổ họng, trong lồng ngực, một đường thẳng hướng mà xuống thẳng đi bụng cỗ.",
-      "dich": "Hai mạch này là hai mạch âm dương lớn nhất trong kinh mạch con người.",
-      "suggest": "Cả hai là hai mạch lớn nhất trong thân người, thần niệm vừa vào là có thể thấy rõ ràng được mạch máu từ trán xuống dưới, từ mi tâm, chóp mũi, cổ họng, lồng ngực, một đường thẳng từ bụng xuống dưới."
+      "dich": "Hai mạch này là hai mạch âm dương lớn nhất trong kinh mạch con người. Thần niệm vừa vào liền có thể thấy Nhâm mạch từ trán xuống dưới, qua mi tâm, chóp mũi, cổ họng, ngực, thẳng xuống bụng.",
+      "suggest": "Cả hai là hai mạch lớn nhất trong thân người, thần niệm vừa vào là có thể thấy rõ ràng được mạch máu từ trán xuống dưới, từ mi tâm, chóp mũi, cổ họng, lồng ngực, một đường thẳng từ bụng xuống dưới.",
+      "approved": true,
+      "chinese": {
+        "raw": "此两者为人身之脉络中最大的阴阳两脉，神念一入，便能清晰看到任脉从前额向下，过眉心，鼻尖，咽喉，胸中，一路直往而下直去腹股。",
+        "text": "Này cả hai là thân người chi mạch lạc trung lớn nhất đích âm dương lưỡng 脉, thần niệm vừa vào, liền có thể rõ rệt nhìn thấy nhâm mạch lúc trước trán hướng phía dưới, qua mi tâm, chóp mũi, cổ họng, trong lồng ngực, một đường nhắm thẳng mà hạ trực đi bụng luồng .",
+        "index": 43
+      }
     },
     {
       "convert": "Một người trong đó cái huyệt vị như một đầu dịch lộ bên trên dịch trạm, thắp sáng lấy khắp nơi đèn đuốc.",
-      "dich": "Thần niệm vừa vào liền có thể thấy Nhâm mạch từ trán xuống dưới, qua mi tâm, chóp mũi, cổ họng, ngực, thẳng xuống bụng.",
-      "suggest": "Một người trong đó có huyệt vị như một dịch vụ, thắp sáng khắp nơi."
+      "dich": "Mỗi một huyệt vị trong đó như một dịch trạm trên đường đi, khắp nơi thắp sáng đèn đuốc.",
+      "suggest": "Một người trong đó có huyệt vị như một dịch vụ, thắp sáng khắp nơi.",
+      "approved": true,
+      "chinese": {
+        "raw": "当中一个个穴位如一条驿路上的驿站，点亮着一处处灯火。",
+        "text": "Một người trong đó cái huyệt vị 如 một đầu dịch lộ thượng đích dịch trạm, thắp sáng lấy một chỗ chỗ đèn .",
+        "index": 44
+      }
     },
     {
       "convert": "Nhập Đốc mạch thần niệm, một đường bên trong quan, xuôi theo sau đầu bên trong sống lưng một đường hướng phía dưới, ven đường như Trường Thành vạn dặm, có xây san sát phong hoả đài, từng cái huyệt vị tới đối ứng, thiêu đốt lên hừng hực liệt hỏa.",
-      "dich": "Mỗi một huyệt vị trong đó như một dịch trạm trên đường đi, khắp nơi thắp sáng đèn đuốc.",
-      "suggest": "Thần niệm nhập Đốc Mạch, một đường từ trong đầu xuôi xuống, xuôi theo sống lưng, xuôi theo từng huyệt vị trên đầu, nơi có đài phong hoả, từng cái huyệt đối ứng, thiêu đốt từng cái huyệt."
+      "dich": "Thần niệm vào Đốc mạch, một đường nội quan, xuôi theo sau đại não đi xuống, dọc theo đường đi giống như Vạn Lý Trường Thành, có dựng phong hỏa đài san sát tương ứng với mỗi huyệt đạo, bốc lên lửa lớn hừng hực.",
+      "suggest": "Thần niệm nhập Đốc Mạch, một đường từ trong đầu xuôi xuống, xuôi theo sống lưng, xuôi theo từng huyệt vị trên đầu, nơi có đài phong hoả, từng cái huyệt đối ứng, thiêu đốt từng cái huyệt.",
+      "approved": true,
+      "chinese": {
+        "raw": "入督脉的神念，一路内观，沿脑后中脊一路向下，沿途如长城万里，建有座座烽火台，一个个穴位与之对应，燃烧着熊熊烈火。",
+        "text": "Nhập đốc mạch đích thần niệm, một đường nội quan, ven sau đầu trung xương sống một đường hướng phía dưới, dọc đường 如 Trường Thành vạn dặm, có xây san sát phong hoả đài, từng cái huyệt vị tới đối ứng, thiêu đốt lên hừng hực liệt hỏa .",
+        "index": 45
+      }
     },
     {
       "convert": "Hai cỗ thần niệm phân lưu thời khắc, Viên Minh chỉ cảm thấy đầu não ẩn ẩn làm đau, lại còn tại có thể nhẫn nại mức độ.",
-      "dich": "Thần niệm vào Đốc mạch, một đường nội quan, xuôi theo sau đại não đi xuống, dọc theo đường đi giống như Vạn Lý Trường Thành, có dựng phong hỏa đài san sát tương ứng với mỗi huyệt đạo, bốc lên lửa lớn hừng hực.",
-      "suggest": "Thời khắc hai cỗ thần niệm phân lưu, Viên Minh chỉ cảm thấy đầu óc trống rỗng, không biết mình còn có thể nhẫn nại được nữa."
+      "dich": "Thời khắc hai cỗ thần niệm vừa phân luồng, Viên Minh chỉ cảm thấy đau hơi nhói nhói, nhưng vẫn ở trong giới hạn chịu đựng.",
+      "suggest": "Thời khắc hai cỗ thần niệm phân lưu, Viên Minh chỉ cảm thấy đầu óc trống rỗng, không biết mình còn có thể nhẫn nại được nữa.",
+      "approved": true,
+      "chinese": {
+        "raw": "两股神念分流之际，袁铭只觉头脑隐隐作痛，却尚在可以忍耐的程度。",
+        "text": "Hai cỗ thần niệm phân lưu chi trung, Viên Minh chỉ cảm thấy đầu não ẩn ẩn cảm giác đau đớn, nhưng còn tại có thể nhẫn nại đích trình độ .",
+        "index": 46
+      }
     },
     {
       "convert": "Có thể từ này hai cỗ phân lưu về sau, đầu mặt phía trên vẫn còn Túc Dương Minh Vị kinh, Túc Thiếu Dương Đảm kinh, Túc Thái Dương Bàng Quang kinh, Thủ Dương Minh Đại Tràng kinh, Thủ Thiếu Dương Tam Tiêu kinh, Thủ Thái Dương Tiểu Tràng kinh cùng Túc Quyết Âm Can kinh bảy đầu kinh mạch.",
-      "dich": "Thời khắc hai cỗ thần niệm vừa phân luồng, Viên Minh chỉ cảm thấy đau hơi nhói nhói, nhưng vẫn ở trong giới hạn chịu đựng.",
-      "suggest": "Nhưng từ hai luồng phân lưu này, trên mặt đầu còn có Túc Dương Minh Vị kinh, Túc Thiếu Dương Đảm kinh, Túc Thái Dương Bàng Quang kinh, Túc Thái Dương Bàng Quang kinh, Thủ Đại Dương Tam Tiêu kinh, Thủ Thái Dương tiểu tràng kinh và bảy đầu kinh mạch Túc Quyết Âm Can kinh."
+      "dich": "Nhưng sau khi khi hai cỗ thần niệm này phân tách hẳn ra, trên mặt vẫn còn bảy đường kinh mạch Túc Dương Minh Vị kinh, Túc Thiếu Dương Đảm kinh, Túc Thái Dương Bàng Quang kinh, Thủ Dương Minh Đại Tràng kinh, Thủ Thiếu Dương Tam Tiêu kinh, Thủ Thái Dương Tiểu Tràng kinh cùng Túc Quyết Âm Can kinh.",
+      "suggest": "Nhưng từ hai luồng phân lưu này, trên mặt đầu còn có Túc Dương Minh Vị kinh, Túc Thiếu Dương Đảm kinh, Túc Thái Dương Bàng Quang kinh, Túc Thái Dương Bàng Quang kinh, Thủ Đại Dương Tam Tiêu kinh, Thủ Thái Dương tiểu tràng kinh và bảy đầu kinh mạch Túc Quyết Âm Can kinh.",
+      "approved": true,
+      "chinese": {
+        "raw": "可自这两股分流之后，头面之上犹有足阳明胃经、足少阳胆经、足太阳膀胱经、手阳明大肠经、手少阳三焦经、手太阳小肠经和足厥阴肝经七条经脉。",
+        "text": "Khả từ này hai cỗ phân lưu sau đó, đồ trang sức phía trên vẫn còn đủ dương minh dạ dày kinh, túc thiểu dương đảm kinh, Túc Thái Dương bàng quang kinh, thủ dương minh đại tràng kinh, thủ thiếu dương tam tiêu kinh, tay thái dương ruột non kinh cùng túc quyết âm can kinh bảy đầu kinh mạch .",
+        "index": 47
+      }
     },
     {
       "convert": "Thần niệm đồng dạng cần đồng thời tiến vào cái này bảy đầu kinh mạch bên trong, liền muốn lại phân bảy đạo.",
-      "dich": "Nhưng sau khi khi hai cỗ thần niệm này phân tách hẳn ra, trên mặt vẫn còn bảy đường kinh mạch Túc Dương Minh Vị kinh, Túc Thiếu Dương Đảm kinh, Túc Thái Dương Bàng Quang kinh, Thủ Dương Minh Đại Tràng kinh, Thủ Thiếu Dương Tam Tiêu kinh, Thủ Thái Dương Tiểu Tràng kinh cùng Túc Quyết Âm Can kinh.",
-      "suggest": "Thần niệm cùng lúc tiến vào trong bảy đầu kinh mạch này, muốn phân chia làm bảy đạo."
+      "dich": "Thần niệm nếu muốn đồng thời tiến vào trong bảy kinh mạch này thì cần phải tách thành bảy luồng.",
+      "suggest": "Thần niệm cùng lúc tiến vào trong bảy đầu kinh mạch này, muốn phân chia làm bảy đạo.",
+      "approved": true,
+      "chinese": {
+        "raw": "神念同样需要同时进入这七条经脉之中，便要再分七道。",
+        "text": "Thần niệm cùng 样 cần cùng thời tiến vào này bảy đầu kinh mạch bên trong, liền muốn lại phân bảy đạo .",
+        "index": 48
+      }
     },
     {
       "convert": "Vì « Minh Nguyệt Quyết » tu luyện có thể có tiến triển, Viên Minh quyết tâm liều mạng, ý niệm tỏa ra.",
-      "dich": "Thần niệm nếu muốn đồng thời tiến vào trong bảy kinh mạch này thì cần phải tách thành bảy luồng.",
-      "suggest": "Vì  Minh Nguyệt Quyết có thể tiến triển, Viên Minh quyết tâm liều mạng, ý niệm tỏa ra."
+      "dich": "Do việc tu luyện Minh Nguyệt Quyết có tiến triển, Viên Minh quyết tâm liều mạng, tỏa ý niệm ra.",
+      "suggest": "Vì  Minh Nguyệt Quyết có thể tiến triển, Viên Minh quyết tâm liều mạng, ý niệm tỏa ra.",
+      "approved": true,
+      "chinese": {
+        "raw": "为了《冥月诀》修炼能有进展，袁铭把心一横，意念顿生。",
+        "text": "Vì 《 Minh Nguyệt quyết 》 tu luyện năng có tiến triển, Viên Minh quyết tâm liều mạng, ý niệm chợt sinh .",
+        "index": 49
+      }
     },
     {
       "convert": "Tiếp theo một cái chớp mắt, hắn phân tán ra bảy đạo thần niệm, đồng thời tiến vào cái này mấy đầu kinh mạch, bắt đầu nội thị tự quan.",
-      "dich": "Do việc tu luyện Minh Nguyệt Quyết có tiến triển, Viên Minh quyết tâm liều mạng, tỏa ý niệm ra.",
-      "suggest": "Chớp mắt tiếp theo, hắn phân tán ra bảy đạo thần niệm, đồng thời tiến vào mấy đầu kinh mạch này, bắt đầu nội thị tự quan."
+      "dich": "Chớp mắt sau đó, hắn chia bảy luồng thần niệm đồng thời tiến vào mấy đường kinh mạch này, bắt đầu thử nội thị.",
+      "suggest": "Chớp mắt tiếp theo, hắn phân tán ra bảy đạo thần niệm, đồng thời tiến vào mấy đầu kinh mạch này, bắt đầu nội thị tự quan.",
+      "approved": true,
+      "chinese": {
+        "raw": "下一瞬，他分散开的七道神念，同时进入这几条经脉，开始内视自观。",
+        "text": "Tiếp theo một cái chớp mắt, hắn phân tán ra đích bảy đạo thần niệm, cùng thời tiến vào này mấy cái kinh mạch, bắt đầu nội thị tự quan .",
+        "index": 50
+      }
     },
     {
       "convert": "Trong lúc nhất thời, từng đầu mạch lạc nội cảnh, từng cái quanh thân đại huyệt, tất cả đều rõ ràng hiện ra ở Viên Minh trong óc.",
-      "dich": "Chớp mắt sau đó, hắn chia bảy luồng thần niệm đồng thời tiến vào mấy đường kinh mạch này, bắt đầu thử nội thị.",
-      "suggest": "Trong lúc nhất thời, nội cảnh, từng đại huyệt quanh người Viên Minh đều hiện ra trong đầu Viên Minh."
+      "dich": "Trong lúc nhất thời, cảnh tượng toàn bộ huyệt đạo và kinh mạch toàn thân hiện ra rõ ràng trong đầu Viên Minh.",
+      "suggest": "Trong lúc nhất thời, nội cảnh, từng đại huyệt quanh người Viên Minh đều hiện ra trong đầu Viên Minh.",
+      "approved": true,
+      "chinese": {
+        "raw": "一时间，一条条脉络内景，一个个周身大穴，全都清晰地展现在了袁铭脑海之中。",
+        "text": "Nhất thời gian, một đầu cái mạch lạc nội cảnh, từng cái quanh thân đại huyệt, tất cả đều rõ rệt địa hiện ra ở Viên Minh trong óc .",
+        "index": 51
+      }
     },
     {
       "convert": "Viên Minh đầu não cũng như muốn nổ bể ra, truyền đến một hồi đau nhức khó có thể chịu được.",
-      "dich": "Trong lúc nhất thời, cảnh tượng toàn bộ huyệt đạo và kinh mạch toàn thân hiện ra rõ ràng trong đầu Viên Minh.",
-      "suggest": "Đầu óc Viên Minh như muốn nổ tung ra, truyền đến một cảm giác đau nhức khó có thể chịu nổi."
+      "dich": "Đầu óc Viên Minh truyền ra một hồi cảm giác đau đớn khó mà chịu nổi, cảm giác như muốn nổ tung.",
+      "suggest": "Đầu óc Viên Minh như muốn nổ tung ra, truyền đến một cảm giác đau nhức khó có thể chịu nổi.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭的头脑也如要炸裂开一般，传来一阵难以忍受的剧痛。",
+        "text": "Viên Minh đích đầu não cũng 如 muốn nổ bể ra bình thường, truyền đến một trận khó có thể chịu được đau nhức .",
+        "index": 52
+      }
     },
     {
       "convert": "Hắn cắn chặt hàm răng, cưỡng ép ngăn chặn muốn mở hai mắt ra từ bỏ tiếp tục trùng kích xúc động, nhưng thân thể cũng đã không thể ức chế địa run rẩy lên.",
-      "dich": "Đầu óc Viên Minh truyền ra một hồi cảm giác đau đớn khó mà chịu nổi, cảm giác như muốn nổ tung.",
-      "suggest": "Hắn cắn chặt hàm răng, cố gắng ngăn chặn xúc động muốn mở mắt ra tiếp tục, nhưng thân thể cũng đã không thể khống chế run rẩy theo."
+      "dich": "Hắn cắn chặt răng, cố gắng nén đau định mở mắt ra và từ bỏ xúc động tiếp tục xung kích, có điều thân thể cũng đã bắt đầu run rẩy một cách mất kiểm soát.",
+      "suggest": "Hắn cắn chặt hàm răng, cố gắng ngăn chặn xúc động muốn mở mắt ra tiếp tục, nhưng thân thể cũng đã không thể khống chế run rẩy theo.",
+      "approved": true,
+      "chinese": {
+        "raw": "他牙关紧咬，强行压制住想要睁开双眼放弃继续冲击的冲动，但身躯却已经不可抑制地颤抖了起来。",
+        "text": "Hắn cắn chặt hàm răng, cường hành áp chế trụ muốn mở hai mắt ra buông tha tiếp tục trùng kích đích xung động, nhưng thân thể cũng đã không thể ức chế địa run rẩy lên .",
+        "index": 53
+      }
     },
     {
       "convert": "Đây là đau đớn kịch liệt, đưa tới bắp thịt cả người co rút.",
-      "dich": "Hắn cắn chặt răng, cố gắng nén đau định mở mắt ra và từ bỏ xúc động tiếp tục xung kích, có điều thân thể cũng đã bắt đầu run rẩy một cách mất kiểm soát.",
-      "suggest": "Đây là cảm giác đau đớn dữ dội, khiến bắp thịt cả người co rút lại."
+      "dich": "Đây là tình trạng bắp thịt cả người co rút do đau đớn dữ dội gây ra.",
+      "suggest": "Đây là cảm giác đau đớn dữ dội, khiến bắp thịt cả người co rút lại.",
+      "approved": true,
+      "chinese": {
+        "raw": "这是剧烈的疼痛，引起的浑身肌肉痉挛。",
+        "text": "Đây là kịch liệt đau đớn, đưa tới bắp thịt cả người co rút .",
+        "index": 54
+      }
     },
     {
       "convert": "Dựa vào bên chân hắn Hỏa Sàm Nhi bị Viên Minh dị dạng bừng tỉnh, không khỏi mở hai mắt ra.",
-      "dich": "Đây là tình trạng bắp thịt cả người co rút do đau đớn dữ dội gây ra.",
-      "suggest": "Dựa vào việc Hỏa Sàm Nhi bị Viên Minh làm cho giật mình, không khỏi mở to hai mắt."
+      "dich": "Hỏa Sàm Nhi đang dựa vào chân bị dị động của hắn làm bừng tỉnh, không khỏi mở hai mắt ra.",
+      "suggest": "Dựa vào việc Hỏa Sàm Nhi bị Viên Minh làm cho giật mình, không khỏi mở to hai mắt.",
+      "approved": true,
+      "chinese": {
+        "raw": "倚靠在他脚边的火馋儿被袁铭的异样惊醒，不由睁开了双眼。",
+        "text": "Dựa tại bên chân hắn lửa thèm muốn nhi bị Viên Minh đích dị dạng bừng tỉnh, bất giác mở ra hai mắt .",
+        "index": 55
+      }
     },
     {
       "convert": "Nó nhìn xem Viên Minh sắc mặt trắng bệch, cái trán thấm mồ hôi, toàn thân run rẩy bộ dáng, không khỏi gấp đến độ chi chi gọi bậy.",
-      "dich": "Hỏa Sàm Nhi đang dựa vào chân bị dị động của hắn làm bừng tỉnh, không khỏi mở hai mắt ra.",
-      "suggest": "Nó nhìn sắc mặt Viên Minh trắng bệch, trán thấm mồ hôi, toàn thân run rẩy, không khỏi gấp gáp hô lên."
+      "dich": "Nó nhìn Viên Minh mặt mũi tái nhợt, trán đẫm mồ hôi, cả người run rẩy mà không khỏi gấp tới mức kêu loạn cả lên.",
+      "suggest": "Nó nhìn sắc mặt Viên Minh trắng bệch, trán thấm mồ hôi, toàn thân run rẩy, không khỏi gấp gáp hô lên.",
+      "approved": true,
+      "chinese": {
+        "raw": "它看着袁铭面色惨白，额头渗汗，浑身颤抖的样子，不由急得吱吱乱叫。",
+        "text": "Nó nhìn xem Viên Minh sắc mặt trắng bệch, cái trán rướm mồ hôi, toàn thân run rẩy bộ dáng, bất giác gấp đến độ xèo xèo gọi bậy .",
+        "index": 56
+      }
     },
     {
       "convert": "Đúng lúc này, nó chợt thấy ngoài cửa sổ cổ tùng trên cây, đứng lên một đạo màu bạc cái bóng, lập tức chắp lên lưng, hướng phía bên kia nhe răng trợn mắt.",
-      "dich": "Nó nhìn Viên Minh mặt mũi tái nhợt, trán đẫm mồ hôi, cả người run rẩy mà không khỏi gấp tới mức kêu loạn cả lên.",
-      "suggest": "Đúng lúc này, nó chợt thấy trên cành tùng cổ kính ngoài cửa sổ có một cái bóng màu bạc đứng sừng sững, lập tức chắp lưng, nhe răng trợn mắt nhìn sang bên kia."
+      "dich": "Đúng lúc này, nó chợt thấy trên cây tùng bên ngoài cửa sổ, có một cái bóng bạc đứng dậy, lập tức nó thẳng lưng đứng lên, nhe răng trợn mắt với đối phương.",
+      "suggest": "Đúng lúc này, nó chợt thấy trên cành tùng cổ kính ngoài cửa sổ có một cái bóng màu bạc đứng sừng sững, lập tức chắp lưng, nhe răng trợn mắt nhìn sang bên kia.",
+      "approved": true,
+      "chinese": {
+        "raw": "就在这时，它忽然看到窗外的古松树上，站起了一道银色的影子，立马拱起了脊背，朝着那边龇牙咧嘴起来。",
+        "text": "Đúng lúc này, nó chợt thấy ngoài cửa sổ cổ tùng trên cây, đứng lên một đạo màu bạc đích cái bóng, lập tức chắp lên rồi sống lưng, hướng tới bên kia nhe răng trợn mắt lên tới .",
+        "index": 57
+      }
     },
     {
       "convert": "Cái kia đạo cái bóng nện bước ưu nhã bộ pháp, dần dần đi ra bóng cây, ở dưới ánh trăng hiển lộ ra một thân màu bạc trắng nhu hòa lông tóc, toàn thân tán phát ra quang mang, nhìn cao quý mà trang nhã.",
-      "dich": "Đúng lúc này, nó chợt thấy trên cây tùng bên ngoài cửa sổ, có một cái bóng bạc đứng dậy.",
-      "suggest": "Cái bóng kia nện bước ưu nhã theo sau, dần dần đi ra khỏi bóng cây, dưới ánh trăng soi rõ một thân lông tóc màu bạc trắng nhu hòa, toàn thân tỏa ánh sáng trắng, nhìn qua vô cùng trang nhã."
+      "dich": "Cái bóng kia lại chỉ khoan thai cất bước, dần dần đi ra khỏi tàng cây, dưới ánh trăng để lộ ra một thân phủ đầy lông mềm mượt màu trắng bạc, cả người tỏa hào quang, trông vừa cao quý lại thanh nhã.",
+      "suggest": "Cái bóng kia nện bước ưu nhã theo sau, dần dần đi ra khỏi bóng cây, dưới ánh trăng soi rõ một thân lông tóc màu bạc trắng nhu hòa, toàn thân tỏa ánh sáng trắng, nhìn qua vô cùng trang nhã.",
+      "approved": true,
+      "chinese": {
+        "raw": "那道影子迈着优雅的步伐，逐渐走出树荫，在月光下显露出一身银白色的柔和毛发，浑身散发着光芒，看起来高贵而典雅。",
+        "text": "Cái kia đạo cái bóng sải bước ưu nhã nhịp bước, dần dần đi ra bóng cây, ở dưới ánh trăng hiển lộ ra một thân màu bạc trắng nhu hòa lông tóc, toàn thân phát ra lấy quang mang, thoạt nhìn cao quý mà thanh lịch .",
+        "index": 58
+      }
     },
     {
       "convert": "Nhỏ Hỏa Chồn cũng không vì ngân miêu mỹ lệ bề ngoài mà buông lỏng cảnh giác, ngược lại nhe răng miệng ở bên trong, ẩn ẩn có ánh lửa sáng lên.",
-      "dich": "Hỏa Sàm Nhi lập tức thẳng lưng đứng người lên, nhe răng trợn mắt với đối phương.",
-      "suggest": "Hỏa Chồn cũng không vì vẻ đẹp kiều diễm của con mèo bạc mà lơi lỏng cảnh giác, ngược lại nhe răng, trong miệng ẩn ẩn có ánh lửa sáng ngời."
+      "dich": "Tiểu gia hỏa cũng không vì vẻ ngoại mỹ lệ của mèo bạc mà buông lỏng cảnh giác, trái lại còn trợn mắt nhe nanh, trong miệng nó còn lờ mờ thấy ánh lửa sáng lên.",
+      "suggest": "Hỏa Chồn cũng không vì vẻ đẹp kiều diễm của con mèo bạc mà lơi lỏng cảnh giác, ngược lại nhe răng, trong miệng ẩn ẩn có ánh lửa sáng ngời.",
+      "approved": true,
+      "chinese": {
+        "raw": "小火貂并未因为银猫美丽的外表而放松警惕，反而龇牙的嘴巴里，隐隐有火光亮起。",
+        "text": "Lửa nhỏ chồn cũng không vì ngân mèo xinh đẹp đích bề ngoài mà thả lỏng cảnh giác, ngược lại nhe răng miệng trong, ẩn ẩn có ánh lửa sáng lên .",
+        "index": 59
+      }
     },
     {
       "convert": "Nhưng mà, ngân miêu đối với nó cảnh cáo đe dọa hoàn toàn không thèm để ý, vẫn như cũ nện bước ưu nhã bộ pháp, dọc theo nhánh cây đi tới, nhẹ nhàng nhảy lên, liền rơi vào trên bệ cửa sổ.",
-      "dich": "Cái bóng kia lại chỉ khoan thai cất bước, dần dần đi ra khỏi tàng cây, dưới ánh trăng để lộ ra một thân phủ đầy lông mềm mượt màu trắng bạc, cả người tỏa hào quang, trông vừa cao quý lại thanh nhã.",
-      "suggest": "Nhưng con mèo bạc hoàn toàn không thèm để ý tới lời đe dọa của nó, vẫn tiếp tục nện bước ưu nhã, dọc theo nhánh cây đi tới, nhẹ nhàng nhảy lên, rơi thẳng lên bệ cửa sổ."
+      "dich": "Nhưng mèo bạc lại hoàn toàn không thèm để ý hành động đe dọa của nó, vẫn khoan thai cất bước, dọc theo nhanh cây đi tới rồi nhẹ nhàng nhảy lên, đáp xuống chỗ bậu cửa sổ.",
+      "suggest": "Nhưng con mèo bạc hoàn toàn không thèm để ý tới lời đe dọa của nó, vẫn tiếp tục nện bước ưu nhã, dọc theo nhánh cây đi tới, nhẹ nhàng nhảy lên, rơi thẳng lên bệ cửa sổ.",
+      "approved": true,
+      "chinese": {
+        "raw": "然而，银猫对它的警示恐吓全然不在意，依旧迈着优雅的步伐，沿着树枝走来，轻轻一跃，就落在了窗台上。",
+        "text": "Nhưng mà, ngân mèo đối với nó đích cảnh báo đe dọa hoàn toàn không để ý, như cũ sải bước ưu nhã nhịp bước, dọc theo nhánh cây đi tới, nhẹ nhàng nhảy lên, liền rơi vào rồi trên bệ cửa sổ .",
+        "index": 60
+      }
     },
     {
       "convert": "Ngay tại Hỏa Chồn cảm nhận được uy hiếp, sắp gây rối loạn lúc, cặp mắt của nó bỗng nhiên đối mặt ngân miêu kia một đôi dị sắc song đồng.",
-      "dich": "Tiểu gia hỏa cũng không vì vẻ ngoại mỹ lệ của mèo bạc mà buông lỏng cảnh giác, trái lại còn trợn mắt nhe nanh, trong miệng nó còn lờ mờ thấy ánh lửa sáng lên.",
-      "suggest": "Ngay khi Hỏa Chồn cảm nhận được uy hiếp, sắp gây rối, cặp mắt nó bỗng đối mặt với đôi đồng tử bạc dị sắc kia."
+      "dich": "Ngay khi chồn lửa cảm nhận được uy hiếp, toan xông ra ngăn trở, đôi mắt nó bỗng chạm phải cặp con ngươi khác màu của mèo bạc.",
+      "suggest": "Ngay khi Hỏa Chồn cảm nhận được uy hiếp, sắp gây rối, cặp mắt nó bỗng đối mặt với đôi đồng tử bạc dị sắc kia.",
+      "approved": true,
+      "chinese": {
+        "raw": "就在火貂感受到威胁，即将发难时，它的双眼忽然对上了银猫那一双异色的双瞳。",
+        "text": "Ngay tại lửa chồn cảm nhận được uy hiếp, sắp gây rối thời, nó hai mắt bỗng nhiên đối thượng rồi ngân mèo kia một đôi dị sắc đích song đồng .",
+        "index": 61
+      }
     },
     {
       "convert": "Kia trong con mắt sáng lên một vòng mê huyễn mà tia sáng yêu dị, nhỏ Hỏa Chồn liền phát hiện trước mắt cảnh vật biến ảo, phảng phất thấy được một tòa Hỏa Tinh Thạch cùng Hỏa Phác Ngọc đắp lên núi nhỏ.",
-      "dich": "Nhưng mèo bạc lại hoàn toàn không thèm để ý hành động đe dọa của nó, vẫn khoan thai cất bước, dọc theo nhanh cây đi tới rồi nhẹ nhàng nhảy lên, đáp xuống chỗ bậu cửa sổ.",
-      "suggest": "Trong con mắt kia lóe lên một tia sáng yêu dị, con mèo nhỏ vừa nhìn thấy cảnh vật trước mắt liền phát hiện cảnh vật biến ảo, phảng phất như thấy được một khối đá lửa cùng Hỏa Phác Ngọc đắp lên núi nhỏ."
+      "dich": "Một vòng sáng mê huyễn mà yêu dị hiện lên trong cặp mắt kia, tức thì chồn nhỏ liền phát hiện cảnh vật trước mắt biến ảo, phảng phất như nhìn thấy một ngọn núi nhỏ toàn là Hỏa Tinh Thạch và Hỏa Phác Ngọc.",
+      "suggest": "Trong con mắt kia lóe lên một tia sáng yêu dị, con mèo nhỏ vừa nhìn thấy cảnh vật trước mắt liền phát hiện cảnh vật biến ảo, phảng phất như thấy được một khối đá lửa cùng Hỏa Phác Ngọc đắp lên núi nhỏ.",
+      "approved": true,
+      "chinese": {
+        "raw": "那瞳孔里亮起一抹迷幻而妖异的光芒，小火貂就发现眼前景物变幻，仿佛看到了一座火晶石和火璞玉堆砌起来的小山。",
+        "text": "Kia trong con mắt sáng lên một vòng mê huyễn mà tia sáng yêu dị, lửa nhỏ chồn liền phát hiện trước mắt cảnh vật biến ảo, phảng phất thấy được một tòa hỏa tinh thạch cùng lửa ngọc thô đắp lên đích núi nhỏ .",
+        "index": 62
+      }
     },
     {
       "convert": "Cặp mắt của nó mê huyễn, khóe miệng không khỏi liệt lên, lộ ra mỉm cười độ cong, nhưng tựa hồ lại nghĩ tới Viên Minh gặp nguy hiểm, cưỡng ép giãy dụa lấy, muốn chống cự cái này dụ hoặc.",
-      "dich": "Ngay khi chồn lửa cảm nhận được uy hiếp, toan xông ra ngăn trở, đôi mắt nó bỗng chạm phải cặp con ngươi khác màu của mèo bạc.",
-      "suggest": "Cặp mắt nó mê huyễn, khóe miệng không khỏi nhếch lên, lộ vẻ mỉm cười, nhưng tựa hồ lại nghĩ tới Viên Minh gặp nguy hiểm, cưỡng ép giãy dụa hòng chống lại sự dụ hoặc này."
+      "dich": "Đôi mắt nó chợt mơ màng, khóe miệng không khỏi nhếch lên, lộ ra một nét cười, có điều đầu óc dường như lại nghĩ đến Viên Minh đang gặp nguy hiểm, cố gắng giằng co, chống cự lại sự dụ hoặc này.",
+      "suggest": "Cặp mắt nó mê huyễn, khóe miệng không khỏi nhếch lên, lộ vẻ mỉm cười, nhưng tựa hồ lại nghĩ tới Viên Minh gặp nguy hiểm, cưỡng ép giãy dụa hòng chống lại sự dụ hoặc này.",
+      "approved": true,
+      "chinese": {
+        "raw": "它的双眼迷幻，嘴角不由咧起，露出微笑般的弧度，但似乎又想到了袁铭有危险，强行挣扎着，想要抵抗这诱惑。",
+        "text": "Nó hai mắt mê huyễn, khóe miệng bất giác há khởi, lộ ra mỉm cười kiểu độ cong, nhưng tựa hồ lại nghĩ tới Viên Minh gặp nguy hiểm, cường hành giãy dụa lấy, muốn đề kháng này hấp dẫn .",
+        "index": 63
+      }
     },
     {
       "convert": "Nhưng khi những cái kia Hỏa Tinh Thạch cùng Hỏa Phác Ngọc \"Rầm rầm\" hướng phía nó lăn xuống tới thời điểm, nó vẫn không thể nào chống cự lại dụ hoặc, nhịn không được địa nhào tới.",
-      "dich": "Một vòng sáng mê huyễn mà yêu dị hiện lên trong cặp mắt kia, tức thì chồn nhỏ liền phát hiện cảnh vật trước mắt biến ảo, phảng phất như nhìn thấy một ngọn núi nhỏ toàn là Hỏa tinh thạch và Hỏa Phác Ngọc.",
-      "suggest": "Nhưng khi những viên Hỏa Tinh Thạch và Hỏa Phác Ngọc lăn rầm rầm xuống phía nó, nó vẫn không thể chống cự lại sự dụ hoặc của nó, nhịn không được nhào tới."
+      "dich": "Nhưng khi những Hỏa Phác Ngọc và Hỏa Tinh Thạch kia lăn rầm rầm xuống chỗ nó, nó rốt cuộc vẫn không chống lại sự dụ hoặc, nhịn không được nhào tới.",
+      "suggest": "Nhưng khi những viên Hỏa Tinh Thạch và Hỏa Phác Ngọc lăn rầm rầm xuống phía nó, nó vẫn không thể chống cự lại sự dụ hoặc của nó, nhịn không được nhào tới.",
+      "approved": true,
+      "chinese": {
+        "raw": "可当那些火晶石和火璞玉“哗啦啦”朝着它滚下来的时候，它还是没能抵抗住诱惑，忍不住地扑了上去。",
+        "text": "Nhưng khi những cái kia hỏa tinh thạch cùng lửa ngọc thô “ rầm rồi ” hướng tới nó lăn xuống tới thời điểm, nó vẫn không thể nào chống cự lại hấp dẫn, nhịn không được địa nhào tới .",
+        "index": 64
+      }
     },
     {
       "convert": "Không phải nó không có cốt khí, thật sự là Hỏa Tinh Thạch nhiều lắm.",
-      "dich": "Đôi mắt nó chợt mơ màng, khóe miệng không khỏi nhếch lên, lộ ra một nét cười, có điều đầu óc dường như lại nghĩ đến Viên Minh đang gặp nguy hiểm, cố gắng giằng co, chống cự lại sự dụ hoặc này.",
-      "suggest": "Không phải nó không có cốt khí, mà thật sự là nhiều Hỏa Tinh Thạch."
+      "dich": "Không phải nó không có cốt vì, mà vì Hỏa Tinh Thạch thực sự nhiều quá.",
+      "suggest": "Không phải nó không có cốt khí, mà thật sự là nhiều Hỏa Tinh Thạch.",
+      "approved": true,
+      "chinese": {
+        "raw": "不是它没骨气，实在是火晶石太多了。",
+        "text": "Không phải nó không cốt khí, thật sự là hỏa tinh thạch quá nhiều rồi .",
+        "index": 65
+      }
     },
     {
       "convert": "Ngân miêu liếc qua lăn lộn trên mặt đất mà chết thẳng cẳng mà, le đầu lưỡi liếm không khí nhỏ Hỏa Chồn, đầy mắt xem thường.",
-      "dich": "Nhưng khi những Hỏa Phác Ngọc và Hỏa tinh thạch kia lăn rầm rầm xuống chỗ nó, nó rốt cuộc vẫn không chống lại sự dụ hoặc, nhịn không được nhào tới.",
-      "suggest": "Con mèo bạc liếc mắt nhìn con mèo đang lăn lộn trên mặt đất, lè lưỡi liếm cái không khí nhỏ xíu có mùi máu của con mèo, ánh mắt đầy vẻ khinh thường."
+      "dich": "Mèo bạc liếc nhìn chồn nhỏ duỗi chân lăn lộn trên mặt đất, lè lưỡi liếm không khí với ánh mắt đầy vẻ xem thường.",
+      "suggest": "Con mèo bạc liếc mắt nhìn con mèo đang lăn lộn trên mặt đất, lè lưỡi liếm cái không khí nhỏ xíu có mùi máu của con mèo, ánh mắt đầy vẻ khinh thường.",
+      "approved": true,
+      "chinese": {
+        "raw": "银猫瞥了一眼在地上打滚儿蹬腿儿，伸着舌头舔空气的小火貂，满眼鄙夷。",
+        "text": "Ngân mèo liếc qua lăn lộn trên mặt đất nhi duỗi chân nhi, le đầu lưỡi liếm không khí đích lửa nhỏ chồn, đầy mắt hèn mọn .",
+        "index": 66
+      }
     },
     {
       "convert": "Sau đó, tầm mắt của nàng rơi vào Viên Minh trên thân.",
-      "dich": "Không phải nó không có cốt vì, mà vì Hỏa tinh thạch thực sự nhiều quá.",
-      "suggest": "Sau đó, tầm mắt nàng dừng lại trên người Viên Minh."
+      "dich": "Sau đó, tầm mắt của nó rơi lên trên người Viên Minh.",
+      "suggest": "Sau đó, tầm mắt nàng dừng lại trên người Viên Minh.",
+      "approved": true,
+      "chinese": {
+        "raw": "随后，她的视线落在了袁铭身上。",
+        "text": "Theo sau, tầm mắt của nàng rơi vào rồi Viên Minh trên thân .",
+        "index": 67
+      }
     },
     {
       "convert": "Thời khắc này Viên Minh, đã không chỉ là sắc mặt trắng bệch, lông mày của hắn nhíu chặt, một mặt vẻ thống khổ.",
-      "dich": "Mèo bạc liếc nhìn chồn nhỏ duỗi chân lăn lộn trên mặt đất, lè lưỡi liếm không khí với ánh mắt đầy vẻ xem thường.",
-      "suggest": "Viên Minh lúc này không chỉ có sắc mặt trắng bệch, mà còn nhíu chặt hai hàng lông mày, mặt đầy vẻ thống khổ."
-    },
-    {
-      "convert": "Thần thức của hắn đã cơ hồ dốc toàn bộ lực lượng, muốn nhất cử đi khắp sở hữu kinh mạch, tiếp theo bay thẳng đan",
-      "dich": "Sau đó, tầm mắt của nó rơi lên trên người Viên Minh.",
-      "suggest": "Thần thức của hắn gần như dốc toàn bộ sức lực, muốn đi khắp kinh mạch, tiếp đó bay thẳng tới đan điền"
-    },
-    {
-      "convert": "Ruộng, đem ba khu nội cảnh tất cả đều đặt vào nội thị, hoàn thành triệt để ngồi chiếu tự quan.",
       "dich": "Viên Minh giờ phút này đã không chỉ là sắc mặt trắng bệch mà lông mày của hắn còn đang nhíu chặt, bộ dạng vô cùng thống khổ.",
-      "suggest": "Ruộng đất xong, dồn tất cả vào trong nội thị, hoàn thành một cách hoàn chỉnh nhất."
+      "suggest": "Viên Minh lúc này không chỉ có sắc mặt trắng bệch, mà còn nhíu chặt hai hàng lông mày, mặt đầy vẻ thống khổ.",
+      "approved": true,
+      "chinese": {
+        "raw": "此刻的袁铭，已经不止是脸色发白了，他的眉头紧皱，一脸痛苦之色。",
+        "text": "Lúc này đích Viên Minh, đã không chỉ là sắc mặt trắng bệch rồi, lông mày của hắn nhíu chặt, một mặt vẻ thống khổ .",
+        "index": 68
+      }
+    },
+    {
+      "convert": "Thần thức của hắn đã cơ hồ dốc toàn bộ lực lượng, muốn nhất cử đi khắp sở hữu kinh mạch, tiếp theo bay thẳng đan ruộng, đem ba khu nội cảnh tất cả đều đặt vào nội thị, hoàn thành triệt để ngồi chiếu tự quan.",
+      "dich": "Thần trí của hắn gần như đã dốc hết toàn bộ lực lượng, muốn một lần hành động đi khắp tất cả các kinh mạch, sau đó phi thẳng xuống đan điền, nội thị hết cả ba khu nội cảnh, triệt để hoàn thành tọa chiếu tự quan.",
+      "suggest": "Thần thức của hắn gần như dốc toàn bộ sức lực, muốn đi khắp kinh mạch, tiếp đó bay thẳng tới đan điền. Ruộng đất xong, dồn tất cả vào trong nội thị, hoàn thành một cách hoàn chỉnh nhất.",
+      "approved": true,
+      "chinese": {
+        "raw": "他的神识已经几乎倾巢而出，想要一举走遍所有经脉，继而直冲丹田，将三处内景全都纳入内视，完成彻底的坐照自观。",
+        "text": "Thần trí của hắn đã cơ hồ dốc toàn bộ lực lượng, muốn nhất cử đi khắp tất cả kinh mạch, tiếp đó thẳng hướng đan điền, đem ba chỗ nội cảnh tất cả đều nạp vào nội thị, hoàn thành triệt để đích tọa chiếu tự quan .",
+        "index": 69
+      }
     },
     {
       "convert": "Nhưng đi tới một nửa, hắn liền cảm giác phân tán thần thức bắt đầu có chút hết sạch sức lực.",
-      "dich": "Thần trí của hắn gần như đã dốc hết toàn bộ lực lượng, muốn một lần hành động đi khắp tất cả các kinh mạch, sau đó phi thẳng xuống đan điền, nội thị hết cả ba khu nội cảnh, triệt để hoàn thành tọa chiếu tự quan.",
-      "suggest": "Nhưng đi được một nửa, hắn liền cảm giác được sự phân tán thần thức bắt đầu mất đi chút sức lực."
+      "dich": "Như mới đi một nửa, hắn bỗng cảm giác thần thức phân tán lúc đầu bắt đầu có dấu hiệu cạn hết sức lực.",
+      "suggest": "Nhưng đi được một nửa, hắn liền cảm giác được sự phân tán thần thức bắt đầu mất đi chút sức lực.",
+      "approved": true,
+      "chinese": {
+        "raw": "但行至一半，他便觉分散的神识开始有些后继无力了。",
+        "text": "Chỉ làm chí một nửa, hắn liền cảm giác phân tán đích thần thức bắt đầu có chút hết sạch sức lực rồi .",
+        "index": 70
+      }
     },
     {
       "convert": "\"Không phải là thần niệm cường độ không đủ?\"",
-      "dich": "Như mới đi một nửa, hắn bỗng cảm giác thần thức phân tán lúc đầu bắt đầu có dấu hiệu cạn hết sức lực.",
-      "suggest": "\"Không phải là thần niệm không đủ?\""
+      "dich": "\"Chẳng lẽ là cường độ thần niệm không đủ?\"",
+      "suggest": "\"Không phải là thần niệm không đủ?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh trong lòng nghi hoặc.",
-      "dich": "\"Chẳng lẽ là cường độ thần niệm không đủ?\"",
-      "suggest": "Viên Minh thầm nghi hoặc."
+      "dich": "Viên Minh thầm nghi hoặc trong lòng.",
+      "suggest": "Viên Minh thầm nghi hoặc.",
+      "approved": true
     },
     {
       "convert": "Chỉ là làm sơ chần chờ cùng do dự, trong thức hải của hắn còn lại lực lượng thần thức liền bắt đầu phân lưu mà ra, hướng phía kinh mạch tuôn chảy mà đi.",
-      "dich": "Viên Minh thầm nghi hoặc trong lòng.",
-      "suggest": "Chỉ là chần chờ do dự một chút, lực lượng thần thức còn lại trong thức hải của hắn bắt đầu phân tán ra, chảy về phía kinh mạch."
+      "dich": "Chỉ một thoáng chần chừ do dự, lực lượng thần thức còn dư trong thức hải của hắn lại bắt đầu phân lưu ra, tuôn chảy về phía kinh mạch.",
+      "suggest": "Chỉ là chần chờ do dự một chút, lực lượng thần thức còn lại trong thức hải của hắn bắt đầu phân tán ra, chảy về phía kinh mạch.",
+      "approved": true,
+      "chinese": {
+        "raw": "只是稍作迟疑和犹豫，他识海内剩余的神识之力就开始分流而出，朝着经脉涌流而去。",
+        "text": "Chỉ là làm sơ do dự cùng do dự, trong thức hải của hắn còn thừa đích lực lượng thần thức liền bắt đầu phân lưu mà ra, hướng tới kinh mạch tuôn chảy mà đi .",
+        "index": 72
+      }
     },
     {
       "convert": "Viên Minh thần thức nội thị này cảnh trong nháy mắt khuếch trương, mười hai đầu đứng đắn cùng kỳ kinh bát mạch tất cả đều trong nháy mắt này bị nội thị thông thấu.",
-      "dich": "Chỉ một thoáng chần chừ do dự, lực lượng thần thức còn dư trong thức hải của hắn lại bắt đầu phân lưu ra, tuôn chảy về phía kinh mạch.",
-      "suggest": "Thần thức Viên Minh lập tức khuếch trương, mười hai đầu kỳ kinh bát mạch cùng kỳ kinh bát mạch đều bị nội thị thông qua."
+      "dich": "Khung cảnh mà Viên Minh thần thức nội thị thấy được đột ngột mở rộng, tất cả mười hai đầu chính kinh và kỳ kinh bát mạch đều bị nội thị thông thấu chỉ trong nháy mắt sau đó.",
+      "suggest": "Thần thức Viên Minh lập tức khuếch trương, mười hai đầu kỳ kinh bát mạch cùng kỳ kinh bát mạch đều bị nội thị thông qua.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭神识内视之景瞬间扩张，十二条正经以及奇经八脉全都在这一瞬间被内视通透。",
+        "text": "Viên Minh thần thức nội thị chi 景 trong nháy mắt khuếch trương, mười hai đầu nghiêm chỉnh cùng với kỳ kinh bát mạch tất cả đều trong nháy mắt này bị nội thị thông thấu .",
+        "index": 73
+      }
     },
     {
       "convert": "\"Ngu xuẩn.\"",
-      "dich": "Khung cảnh mà Viên Minh thần thức nội thị thấy được đột ngột mở rộng, tất cả mười hai đầu chính kinh và kỳ kinh bát mạch đều bị nội thị thông thấu chỉ trong nháy mắt sau đó.",
-      "suggest": "\"Ngu xuẩn.\""
+      "dich": "\"Ngu xuẩn.\"",
+      "suggest": "\"Ngu xuẩn.\"",
+      "approved": true
     },
     {
       "convert": "Đúng lúc này, ngân miêu thanh âm đột ngột từ Viên Minh thức hải bên trong vang lên.",
-      "dich": "\"Ngu xuẩn.\"",
-      "suggest": "Đúng lúc này, tiếng ngân miêu đột ngột từ trong thức hải Viên Minh truyền ra."
+      "dich": "Đúng lúc, thanh âm mèo bạc chợt vang lên trong thức hải của Viên Minh.",
+      "suggest": "Đúng lúc này, tiếng ngân miêu đột ngột từ trong thức hải Viên Minh truyền ra.",
+      "approved": true,
+      "chinese": {
+        "raw": "就在这时，银猫的声音突兀地从袁铭识海中响起。",
+        "text": "Đúng lúc này, ngân mèo đích thanh âm đột ngột từ Viên Minh thức hải bên trong vang lên .",
+        "index": 75
+      }
     },
     {
       "convert": "Viên Minh bỗng nhiên, chỉ cảm thấy thanh âm kia cùng trước kia rất không giống nhau, lộ ra cách hắn rất xa, có chút phiêu hốt.",
-      "dich": "Đúng lúc, thanh âm mèo bạc chợt vang lên trong thức hải của Viên Minh.",
-      "suggest": "Viên Minh bỗng nhiên, chỉ cảm thấy thanh âm kia khác xa so với trước kia, lộ vẻ rất phiêu hốt, có chút phiêu hốt."
+      "dich": "Viên Minh giật mình, chỉ cảm thấy thanh âm này không giống với trước kia, nghe như cách hắn rất xa lại có chút phiêu hốt.",
+      "suggest": "Viên Minh bỗng nhiên, chỉ cảm thấy thanh âm kia khác xa so với trước kia, lộ vẻ rất phiêu hốt, có chút phiêu hốt.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭恍然间，只觉得那声音和以前很不相同，显得离他很远，有些飘忽。",
+        "text": "Viên Minh bừng tỉnh gian, chỉ cảm thấy thanh âm kia cùng trước đó rất không giống nhau, lộ ra cách hắn rất xa, có chút phiêu hốt .",
+        "index": 76
+      }
     },
     {
       "convert": "Còn không đợi hắn trả lời, đã cảm thấy đầu não đột nhiên không còn, một cỗ mãnh liệt hỗn độn sát niệm ở thức hải bên trong dâng lên, khó mà ngăn chặn.",
-      "dich": "Viên Minh giật mình, chỉ cảm thấy thanh âm này không giống với trước kia, nghe như cách hắn rất xa lại có chút phiêu hốt.",
-      "suggest": "Nhưng không đợi hắn trả lời, đã cảm thấy đầu óc trống rỗng, một luồng sát niệm mãnh liệt dâng lên trong thức hải, khó mà ngăn cản."
+      "dich": "Còn chưa kịp đáp lại, hắn đã cảm thấy đầu não đột nhiên trống không, ngay tiếp đó, một cỗ sát niệm hỗn độn mãnh liệt, khó có thể ngăn chặn dâng lên trong thức hải.",
+      "suggest": "Nhưng không đợi hắn trả lời, đã cảm thấy đầu óc trống rỗng, một luồng sát niệm mãnh liệt dâng lên trong thức hải, khó mà ngăn cản.",
+      "approved": true,
+      "chinese": {
+        "raw": "还不等他回应，就觉得头脑突然一空，一股强烈的混沌杀念在识海中涌起，难以遏制。",
+        "text": "Còn không đợi hắn hồi ứng, đã cảm thấy đầu não đột nhiên không còn, một luồng mãnh liệt hỗn độn sát niệm tại thức hải bên trong dâng lên, khó có thể ngăn chặn .",
+        "index": 77
+      }
     },
     {
       "convert": "Ở trong đầu của hắn, nguyên bản bị áp chế đỏ sậm sương mù, bắt đầu điên cuồng lan tràn, lại không lực lượng thần thức áp chế chống lại, bắt đầu toàn diện ăn mòn Viên Minh thức hải.",
-      "dich": "Còn chưa kịp đáp lại, hắn đã cảm thấy đầu não đột nhiên trống không, ngay tiếp đó, một cỗ sát niệm hỗn độn mãnh liệt, khó có thể ngăn chặn dâng lên trong thức hải.",
-      "suggest": "Hắn vốn bị áp chế bởi tầng sương mù màu đỏ sậm, bắt đầu điên cuồng lan tràn, nhưng không có thần thức nào chống lại nổi, bắt đầu ăn mòn thức hải của Viên Minh."
+      "dich": "Trong đầu hắn, dưới tình huống không bị lực lượng thần thức áp chế, sương mù đỏ sậm vốn đã bị áp chế lại bắt đầu điên cuồng lan tràn, ăn mòn thức hải Viên Minh.",
+      "suggest": "Hắn vốn bị áp chế bởi tầng sương mù màu đỏ sậm, bắt đầu điên cuồng lan tràn, nhưng không có thần thức nào chống lại nổi, bắt đầu ăn mòn thức hải của Viên Minh.",
+      "approved": true,
+      "chinese": {
+        "raw": "在他的识海之中，原本被压制的暗红雾气，开始疯狂蔓延，再无神识之力压制抗衡，开始全面侵蚀袁铭的识海。",
+        "text": "Tại trong đầu của hắn, nguyên bản bị áp chế đích đỏ sậm sương mù, bắt đầu điên cuồng lan tràn, lại không lực lượng thần thức áp chế chống lại, bắt đầu toàn diện ăn mòn Viên Minh đích thức hải .",
+        "index": 78
+      }
     },
     {
       "convert": "Mà Viên Minh phân tán ở trong kinh mạch thần niệm, tựa như là chinh chiến bên ngoài tướng sĩ, bị người trực đảo hoàng long, muốn trở về cứu viện, lại cũng không kịp.",
-      "dich": "Trong đầu hắn, dưới tình huống không bị lực lượng thần thức áp chế, sương mù đỏ sậm vốn đã bị áp chế lại bắt đầu điên cuồng lan tràn, ăn mòn thức hải Viên Minh.",
-      "suggest": "Mà thần niệm Viên Minh phân tán trong kinh mạch, tựa như tướng sĩ đi chinh chiến bên ngoài, bị người đánh cho hoàng long, muốn quay về cứu viện cũng không kịp."
+      "dich": "Trong lúc này, thần niệm Viên Minh lại đang phân tán ở trong kinh mạch, tựa như tướng sĩ chinh chiến bên ngoài, thấy kinh thành bị người công phá, muốn quay về cứu viện thì đã muộn mất.",
+      "suggest": "Mà thần niệm Viên Minh phân tán trong kinh mạch, tựa như tướng sĩ đi chinh chiến bên ngoài, bị người đánh cho hoàng long, muốn quay về cứu viện cũng không kịp.",
+      "approved": true,
+      "chinese": {
+        "raw": "而袁铭分散在经脉中的神念，就像是征战在外的将士，被人直捣了黄龙，想要回还救援，却都来不及了。",
+        "text": "Mà Viên Minh phân tán ở trong kinh mạch đích thần niệm, tựa như là chinh chiến tại ngoại đích tướng sĩ, bị người trực đảo rồi hoàng long, muốn trở về cứu viện, lại đều không còn kịp rồi .",
+        "index": 79
+      }
     },
     {
       "convert": "Mắt thấy thức hải của hắn liền bị triệt để xâm chiếm thời điểm, một đạo trong trẻo ánh trăng bao phủ xuống, Viên Minh vang lên bên tai một hồi không linh huyền diệu tiếng ngâm xướng vang.",
-      "dich": "Trong lúc này, thần niệm Viên Minh lại đang phân tán ở trong kinh mạch, tựa như tướng sĩ chinh chiến bên ngoài, thấy kinh thành bị người công phá, muốn quay về cứu viện thì đã muộn mất.",
-      "suggest": "Khi thấy thức hải của hắn đã bị triệt để xâm chiếm, một vầng trăng trong trẻo ánh trăng bao phủ, Viên Minh khẽ ngân lên một hồi những tiếng ngâm xướng lung linh."
+      "dich": "Thời điểm thức hải của hắn sắp bị xâm chiếm hoàn toàn, một cột ánh trăng trong trẻo phủ xuống, đồng thời một tràng tiếng ngâm xướng không linh huyền diệu vang lên bên tai Viên Minh.",
+      "suggest": "Khi thấy thức hải của hắn đã bị triệt để xâm chiếm, một vầng trăng trong trẻo ánh trăng bao phủ, Viên Minh khẽ ngân lên một hồi những tiếng ngâm xướng lung linh.",
+      "approved": true,
+      "chinese": {
+        "raw": "眼看他的识海就要被彻底侵占之时，一道清亮月光笼罩而下，袁铭的耳边响起一阵空灵玄妙的吟唱声响。",
+        "text": "Mắt thấy thức hải của hắn liền bị triệt để xâm chiếm thời điểm, một đạo trong trẻo ánh trăng bao phủ mà hạ, Viên Minh đích vang lên bên tai một trận linh hoạt kỳ ảo huyền diệu tiếng ngâm xướng vang .",
+        "index": 80
+      }
     },
     {
       "convert": "Cái kia đã bị ăn mòn trong thức hải, chợt có quang minh sáng lên, đỏ sậm sương mù lập tức bị bức lui.",
-      "dich": "Thời điểm thức hải của hắn sắp bị xâm chiếm hoàn toàn, một cột ánh trăng trong trẻo phủ xuống, đồng thời một tràng tiếng ngâm xướng không linh huyền diệu vang lên bên tai Viên Minh.",
-      "suggest": "Thức hải đã bị ăn mòn kia chợt có ánh sáng xanh rọi vào, khói mù màu đỏ sậm lập tức bị bức lui."
+      "dich": "Trong thức hải đã bị ăn mòn của hắn chợt có ảnh sáng bừng lên, theo đó sương mù đỏ sậm lập tức bị bức lui.",
+      "suggest": "Thức hải đã bị ăn mòn kia chợt có ánh sáng xanh rọi vào, khói mù màu đỏ sậm lập tức bị bức lui.",
+      "approved": true,
+      "chinese": {
+        "raw": "他那已经被侵蚀的识海里，忽有光明亮起，暗红雾气顿时被逼退。",
+        "text": "Cái kia đã bị ăn mòn đích trong thức hải, chợt có quang minh sáng lên, đỏ sậm sương mù tức khắc bị buộc lui .",
+        "index": 81
+      }
     },
     {
       "convert": "Viên Minh thật vất vả được một tia cơ hội thở dốc, thần niệm lập tức bắt đầu kiềm chế trở về thức hải, sau một hồi lâu, mới một lần nữa vững chắc.",
-      "dich": "Trong thức hải đã bị ăn mòn của hắn chợt có ảnh sáng bừng lên, theo đó sương mù đỏ sậm lập tức bị bức lui.",
-      "suggest": "Viên Minh vất vả lắm mới có được một chút cơ hội thở dốc, thần niệm lập tức bắt đầu trở về thức hải, sau một hồi lâu mới vững vàng trở lại."
+      "dich": "Viên Minh thật vất vả mới có được cơ hội thở dốc, lập tức bắt đầu thu rút thần niệm về thức hải, qua một lúc lâu sau mới ổn định lại được.",
+      "suggest": "Viên Minh vất vả lắm mới có được một chút cơ hội thở dốc, thần niệm lập tức bắt đầu trở về thức hải, sau một hồi lâu mới vững vàng trở lại.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭好不容易得了一丝喘息之机，神念立即开始收束返回识海，良久之后，才重新稳固。",
+        "text": "Viên Minh rất không dễ được rồi một tia cơ hội thở dốc, thần niệm lập tức bắt đầu kiềm chế phản hồi thức hải, sau một hồi lâu, mới một lần nữa vững chắc .",
+        "index": 82
+      }
     },
     {
       "convert": "Cặp mắt của hắn bỗng nhiên mở ra, đáy mắt vằn vện tia máu, toàn thân đã bị mồ hôi lạnh thấm ướt.",
-      "dich": "Viên Minh thật vất vả mới có được cơ hội thở dốc, lập tức bắt đầu thu rút thần niệm về thức hải, qua một lúc lâu sau mới ổn định lại được.",
-      "suggest": "Hai mắt hắn bỗng nhiên mở ra, trong mắt vằn lên những tia máu, cả người đã bị mồ hôi lạnh thấm ướt."
+      "dich": "Hai mắt hắn đột nhiên mở ra, đáy mắt vằn vện đầy những tia máu, cả người ướt đẫm mồ hôi lạnh.",
+      "suggest": "Hai mắt hắn bỗng nhiên mở ra, trong mắt vằn lên những tia máu, cả người đã bị mồ hôi lạnh thấm ướt.",
+      "approved": true,
+      "chinese": {
+        "raw": "他的双眼豁然睁开，眼底布满血丝，浑身已经被冷汗浸湿。",
+        "text": "Cặp mắt của hắn thoạt nhiên mở, đáy mắt vằn vện tia máu, toàn thân đã bị mồ hôi lạnh ẩm thấp .",
+        "index": 83
+      }
     },
     {
       "convert": "Viên Minh hai mắt ngưng lại, đầu tiên là nhìn thoáng qua lăn lộn trên mặt đất mà Hỏa Sàm Nhi, chợt vừa nhìn về phía bệ cửa sổ.",
-      "dich": "Hai mắt hắn đột nhiên mở ra, đáy mắt vằn vện đầy những tia máu, cả người ướt đẫm mồ hôi lạnh.",
-      "suggest": "Viên Minh nheo mắt, đầu tiên là nhìn Hỏa Sàm Nhi đang lăn lộn trên mặt đất, sau đó lại nhìn về phía bệ cửa sổ."
+      "dich": "Viên Minh hơi nheo mắt lại, đầu tiên là nhìn Hỏa Sàm Nhi đang lăn lộn trên đất, sau đó lại nhìn về phía bệ cửa sổ.",
+      "suggest": "Viên Minh nheo mắt, đầu tiên là nhìn Hỏa Sàm Nhi đang lăn lộn trên mặt đất, sau đó lại nhìn về phía bệ cửa sổ.",
+      "approved": true,
+      "chinese": {
+        "raw": "袁铭双目微凝，先是看了一眼在地上打滚儿的火馋儿，旋即又看向了窗台。",
+        "text": "Viên Minh hai mắt ngưng lại, đầu tiên là nhìn thoáng qua lăn lộn trên mặt đất nhi đích lửa thèm muốn nhi, lát sau vừa nhìn về phía cửa sổ .",
+        "index": 84
+      }
     },
     {
       "convert": "Một con mỹ lệ mà thần bí ngân miêu, chính ưu nhã ngồi chồm hổm ở trên bệ cửa sổ, một đôi dị sắc con ngươi chính khinh bỉ nhìn xem hắn, giống nhau lúc trước xem kia vụng về nhỏ Hỏa Chồn.",
-      "dich": "Viên Minh hơi nheo mắt lại, đầu tiên là nhìn Hỏa Sàm Nhi đang lăn lộn trên đất, sau đó lại nhìn về phía bệ cửa sổ.",
-      "suggest": "Một con mèo bạc xinh đẹp mà thần bí, đang ưu nhã ngồi chồm hổm trên bệ cửa sổ, đôi con ngươi dị sắc đang khinh bỉ nhìn hắn, giống hệt con mèo nhỏ vụng về lúc trước."
+      "dich": "Một con mèo bạc mỹ lệ mà thần bí đang ưu nhã ngồi xổm trên bệ cửa sổ, đưa đôi mắt khác màu nhìn hắn đầy khinh bỉ, giống y cái cách nó nhìn chồn nhỏ ngốc nghếch khi trước.",
+      "suggest": "Một con mèo bạc xinh đẹp mà thần bí, đang ưu nhã ngồi chồm hổm trên bệ cửa sổ, đôi con ngươi dị sắc đang khinh bỉ nhìn hắn, giống hệt con mèo nhỏ vụng về lúc trước.",
+      "approved": true,
+      "chinese": {
+        "raw": "一只美丽而神秘的银猫，正优雅地蹲坐在窗台上，一双异色的眸子正鄙夷地看着他，一如先前看那蠢笨的小火貂一般。",
+        "text": "Một con xinh đẹp mà thần bí đích ngân mèo, chính ưu nhã ngồi chồm hổm ở trên bệ cửa sổ, một đôi dị sắc đích con ngươi chính khinh bỉ nhìn xem hắn, giống như lúc trước coi kia vụng về đích lửa nhỏ chồn bình thường .",
+        "index": 85
+      }
     },
     {
       "convert": "\"Đa tạ.\" Viên Minh đứng dậy, hướng phía ngân miêu nói lời cảm tạ.",
-      "dich": "Một con mèo bạc mỹ lệ mà thần bí đang ưu nhã ngồi xổm trên bệ cửa sổ, đưa đôi mắt khác màu nhìn hắn đầy khinh bỉ, giống y cái cách nó nhìn chồn nhỏ ngốc nghếch khi trước.",
-      "suggest": "\"Đa tạ.\" Viên Minh đứng dậy, nói lời cảm ơn với con mèo bạc."
+      "dich": "\"Đa tạ.\" Viên Minh đứng dậy, nói lời cảm tạ với mèo bạc.",
+      "suggest": "\"Đa tạ.\" Viên Minh đứng dậy, nói lời cảm ơn với con mèo bạc.",
+      "approved": true,
+      "chinese": {
+        "raw": "“多谢。”袁铭起身，朝着银猫道谢。",
+        "text": "“ đa tạ . ” Viên Minh đứng dậy, hướng tới ngân mèo nói lời cảm tạ .",
+        "index": 86
+      }
     },
     {
       "convert": "Ngân miêu nhìn trong tay hắn ôm lư hương một chút, không có để ý, hơi chần chờ về sau, quay người muốn đi gấp.",
-      "dich": "\"Đa tạ.\" Viên Minh đứng dậy, nói lời cảm tạ với mèo bạc.",
-      "suggest": "Con mèo bạc nhìn lư hương trong tay hắn rồi không thèm để ý, sau một thoáng chần chờ liền quay người đi gấp."
+      "dich": "Mèo bạc nhìn lư hương hắn ôm trong tay một chút nhưng không để ý lắm, do dự một lúc rồi quay người muốn rời đi.",
+      "suggest": "Con mèo bạc nhìn lư hương trong tay hắn rồi không thèm để ý, sau một thoáng chần chờ liền quay người đi gấp.",
+      "approved": true,
+      "chinese": {
+        "raw": "银猫看了他手中抱着的香炉一眼，没有理睬，略一迟疑后，转身欲走。",
+        "text": "Ngân mèo nhìn trong tay hắn ôm lư hương một chút, không có để ý, hơi chần chờ sau, chuyển thân muốn đi .",
+        "index": 87
+      }
     },
     {
       "convert": "\"Dừng bước.\" Viên Minh thấy thế, vội vàng giữ lại.",
-      "dich": "Mèo bạc nhìn lư hương hắn ôm trong tay một chút nhưng không để ý lắm, do dự một lúc rồi quay người muốn rời đi.",
-      "suggest": "\"Dừng bước.\" Viên Minh thấy thế, vội vàng giữ lại."
+      "dich": "\"Dừng bước.\" Viên Minh thấy thế, vội vàng gọi giật lại.",
+      "suggest": "\"Dừng bước.\" Viên Minh thấy thế, vội vàng giữ lại.",
+      "approved": true
     },
     {
       "convert": "Ngân miêu thân hình dừng lại, chần chờ một lát sau, bên cạnh chuyển nửa cái đầu, nhìn lại.",
-      "dich": "\"Dừng bước.\" Viên Minh thấy thế, vội vàng gọi giật lại.",
-      "suggest": "Thân hình con mèo bạc dừng lại, sau một hồi chần chờ, nửa cái đầu quay sang phía bên cạnh, nhìn lại."
+      "dich": "Mèo bạc ngừng lại, chần chừ một lúc xong mới quay nửa đầu qua một bên, nhìn lại.",
+      "suggest": "Thân hình con mèo bạc dừng lại, sau một hồi chần chờ, nửa cái đầu quay sang phía bên cạnh, nhìn lại.",
+      "approved": true,
+      "chinese": {
+        "raw": "银猫身子一顿，迟疑了片刻后，侧转半个头颅，看了过来。",
+        "text": "Ngân thân mèo tử một trận, chần chờ một lát sau, bên chuyển nửa cái đầu lâu, nhìn lại .",
+        "index": 89
+      }
     },
     {
       "convert": "\"Các hạ lúc trước đưa tặng « Minh Nguyệt Quyết », là nhìn ra ta có phi mao chi thuật phản phệ tệ nạn, cố ý gây nên a?\"",
-      "dich": "Viên Minh ngừng lại, chần chừ một lúc xong mới quay nửa đầu qua một bên, nhìn lại.",
-      "suggest": "\"Lúc trước các hạ đưa tặng Minh Nguyệt Quyết là nhìn ra ta có Phi Mao Thuật phản phệ tệ nạn, cố ý gây nên?\""
+      "dich": "\"Các hạ lúc trước đưa tặng 'Minh Nguyệt Quyết', là do nhìn ra ta có tật bệnh do Phi Mao Thuật phản phệ nên mới cố tình làm vậy phải không?\"",
+      "suggest": "\"Lúc trước các hạ đưa tặng Minh Nguyệt Quyết là nhìn ra ta có Phi Mao Thuật phản phệ tệ nạn, cố ý gây nên?\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh mở miệng hỏi thăm.",
-      "dich": "\"Các hạ lúc trước đưa tặng 'Minh Nguyệt Quyết', là do nhìn ra ta có tật bệnh do Phi Mao Thuật phản phệ nên mới cố tình làm vậy phải không?\"",
-      "suggest": "Viên Minh cất lời hỏi thăm."
+      "dich": "Viên Minh mở miệng hỏi dò.",
+      "suggest": "Viên Minh cất lời hỏi thăm.",
+      "approved": true
     },
     {
       "convert": "\"Coi như có thể cứu  không có ngốc đến mức đầu.\"",
-      "dich": "Viên Minh mở miệng hỏi dò.",
-      "suggest": "\"Cũng có thể cứu được  không ngốc đến mức đó.\""
+      "dich": "\"Coi như có thể cứu. Không đến nỗi quá ngu.\"",
+      "suggest": "\"Cũng có thể cứu được  không ngốc đến mức đó.\"",
+      "approved": true
     },
     {
       "convert": "Ngân miêu rốt cục có chỗ trả lời, nhưng như cũ không có lời gì tốt.",
-      "dich": "\"Coi như có thể cứu.",
-      "suggest": "Ngân miêu rút cuộc cũng có câu trả lời, nhưng vẫn như cũ, không có lời gì tốt."
+      "dich": "Mèo bạc rốt cuộc đã đáp lại, có điều vẫn như trước, chẳng nói được lời nào tốt đẹp.",
+      "suggest": "Ngân miêu rút cuộc cũng có câu trả lời, nhưng vẫn như cũ, không có lời gì tốt.",
+      "approved": true
     },
     {
       "convert": "\"Quả là thế, là tại hạ thiếu ngươi một phần ân tình.\"",
-      "dich": "Không đến nỗi quá ngu.\"",
-      "suggest": "\"Quả nhiên là thế, là tại hạ thiếu ngươi một phần ân tình.\""
+      "dich": "\"Quả nhiên là thế, là tại hạ nợ ngươi một phần ân tình.\"",
+      "suggest": "\"Quả nhiên là thế, là tại hạ thiếu ngươi một phần ân tình.\"",
+      "approved": true
     },
     {
       "convert": "Viên Minh không có để ý, chân thành nói.",
-      "dich": "Mèo bạc rốt cuộc đã đáp lại, có điều vẫn như trước, chẳng nói được lời nào tốt đẹp.",
-      "suggest": "Viên Minh không thèm để ý, chân thành nói."
-    },
-    {
-      "dich": "\"Quả nhiên là thế, là tại hạ nợ ngươi một phần ân tình.\""
-    },
-    {
-      "dich": "Viên Minh cũng không có để ý, chỉ chân thành nói."
+      "dich": "Viên Minh cũng không có để ý, chỉ chân thành nói.",
+      "suggest": "Viên Minh không thèm để ý, chân thành nói.",
+      "approved": true
     }
-  ]
+  ],
+  "currentWorkingLine": 105,
+  "changed": true
 }
