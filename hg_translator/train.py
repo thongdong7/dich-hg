@@ -133,8 +133,8 @@ print("Tokenizing test data...")
 tokenized_test_data = test_data.map(preprocess_function, batched=True)
 
 print("Sample tokenized data:", tokenized_train_data[0])
-print("Done")
-exit(1)
+# print("Done")
+# exit(1)
 
 data_collator = DataCollatorForSeq2Seq(tokenizer=tokenizer, model=checkpoint)
 
