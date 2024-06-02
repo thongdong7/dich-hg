@@ -9,4 +9,4 @@ per_device_eval_batch_size = 12
 checkpoint = "google/mt5-small"
 
 # prefix = "dịch sang tiên hiệp: "
-prefix = ""
+prefix = "translate from chinese to vietnamese: "
