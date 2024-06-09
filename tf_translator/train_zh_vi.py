@@ -229,7 +229,7 @@ def _train(
 
     print("Fit...")
     start = time()
-    transformer.fit(train_batches, epochs=epochs, validation_data=val_batches)
+    # transformer.fit(train_batches, epochs=epochs, validation_data=val_batches)
     print(f"Time to train: {time() - start:.2f}s")
 
     print("Create translator...")
@@ -255,6 +255,9 @@ def _train(
 
     tf.saved_model.save(translator, export_dir=save_as)
     print(f"Translator saved to {save_as}")
+
+    loaded_translator = tf.saved_model.load(save_as)
+    print("Loaded translator")
 
 
 if __name__ == "__main__":

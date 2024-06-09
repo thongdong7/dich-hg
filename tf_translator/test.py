@@ -1,10 +1,11 @@
 from functools import partial
 import tensorflow as tf
+import tensorflow_text as text
 
 
 def _test(translator, src: str, target: str):
     print("Input: ", src)
-    translated = translator.translate(src)
+    translated = translator(src).numpy().decode("utf-8")
     print("Output: ", translated)
     print("Expected: ", target)
     print("-" * 30)
