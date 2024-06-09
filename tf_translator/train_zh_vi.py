@@ -20,6 +20,8 @@ from .tokenizers.spm_utils import load_translate_tokenizer
 from .tokenizers.config import zh_vi_small_config
 from .train_config import MAX_TOKENS
 
+print("Num GPUs Available: ", len(tf.config.list_physical_devices("GPU")))
+
 repo_dir = dirname(dirname(abspath(__file__)))
 
 
