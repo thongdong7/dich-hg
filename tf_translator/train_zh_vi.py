@@ -54,26 +54,23 @@ def _load_dataset():
     return train_examples, val_examples
 
 
-def gen(file_contain: str = None, file_not_contain: str = None):
+def gen(folder_contain: str = None, folder_not_contain: str = None):
     # Get all .json files in the label directory
     print(
-        f"Start gen with folder_contain={file_contain}, folder_not_contain={file_not_contain}"
+        f"Start gen with folder_contain={folder_contain}, folder_not_contain={folder_not_contain}"
     )
     print("Label directory:", label_dir)
     for root, dirs, files in os.walk(label_dir):
+        if folder_contain and folder_contain not in root:
+            continue
+
+        if folder_not_contain and folder_not_contain in root:
+            continue
 
         for file in files:
             if file.endswith(".json"):
                 file_path = os.path.join(root, file)
                 file_id = os.path.relpath(file_path, label_dir).split(".")[0]
-
-                if file_contain and not file_id.endswith(file_contain):
-                    # print(f"Skip {file_id} because it does not contain {file_contain}")
-                    continue
-
-                if file_not_contain and file_id.endswith(file_not_contain):
-                    # print(f"Skip {file_id} because it contain {file_not_contain}")
-                    continue
 
                 # print("Processing file:", file_id, flush=True)
                 with open(file_path, "r") as f:
@@ -100,7 +97,7 @@ def gen(file_contain: str = None, file_not_contain: str = None):
 def _get_ds_train():
     # Get all .json files in the label directory which folder not contain pham-nhan-tu-tien
     return tf.data.Dataset.from_generator(
-        lambda: gen(file_not_contain="pham-nhan-tu-tien/1"),
+        lambda: gen(folder_not_contain="pham-nhan-tu-tien"),
         output_signature=(
             tf.TensorSpec(shape=(), dtype=tf.string),
             tf.TensorSpec(shape=(), dtype=tf.string),
@@ -111,7 +108,7 @@ def _get_ds_train():
 def _get_ds_validation():
     # Get all .json files in the label directory which folder contain pham-nhan-tu-tien
     return tf.data.Dataset.from_generator(
-        lambda: gen(file_contain="pham-nhan-tu-tien/1"),
+        lambda: gen(folder_contain="pham-nhan-tu-tien"),
         output_signature=(
             tf.TensorSpec(shape=(), dtype=tf.string),
             tf.TensorSpec(shape=(), dtype=tf.string),
@@ -151,31 +148,31 @@ def _train(
     print("Train size: ", len(list(train_examples)))
     print("Validation size: ", len(list(val_examples)))
 
-    # print(train_examples)
-    # for src_examples, target_examples in train_examples.batch(3).take(1):
-    #     print("> Examples in source:")
-    #     for pt in src_examples.numpy():
-    #         print(pt.decode("utf-8"))
-    #     print()
-    # print("> Examples in target:")
-    # for target in target_examples.numpy():
-    #     print(target.decode("utf-8"))
+    print(train_examples)
+    for src_examples, target_examples in train_examples.batch(3).take(1):
+        print("> Examples in source:")
+        for pt in src_examples.numpy():
+            print(pt.decode("utf-8"))
+        print()
+    print("> Examples in target:")
+    for target in target_examples.numpy():
+        print(target.decode("utf-8"))
 
-    # print("> This is a batch of strings:")
-    # for target in target_examples.numpy():
-    #     print(target.decode("utf-8"))
+    print("> This is a batch of strings:")
+    for target in target_examples.numpy():
+        print(target.decode("utf-8"))
 
-    # encoded = tokenizers.target.tokenize(target_examples)
+    encoded = tokenizers.target.tokenize(target_examples)
 
-    # print("> This is a padded-batch of token IDs:")
-    # for row in encoded.to_list():
-    #     print(row)
+    print("> This is a padded-batch of token IDs:")
+    for row in encoded.to_list():
+        print(row)
 
-    # round_trip = tokenizers.target.detokenize(encoded)
+    round_trip = tokenizers.target.detokenize(encoded)
 
-    # print("> This is human-readable text:")
-    # for line in round_trip.numpy():
-    #     print(line.decode("utf-8"))
+    print("> This is human-readable text:")
+    for line in round_trip.numpy():
+        print(line.decode("utf-8"))
     # exit(1)
 
     def prepare_batch(src, target):
