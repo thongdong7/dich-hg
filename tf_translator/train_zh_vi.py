@@ -20,7 +20,6 @@ from .tokenizers.spm_utils import load_translate_tokenizer
 from .tokenizers.config import zh_vi_small_config
 from .train_config import MAX_TOKENS
 
-print("Num GPUs Available: ", len(tf.config.list_physical_devices("GPU")))
 
 repo_dir = dirname(dirname(abspath(__file__)))
 
@@ -259,4 +258,4 @@ def _train(
 
 
 if __name__ == "__main__":
-    _train(save_as="zh_vi_transformer", epochs=10)
+    _train(save_as="zh_vi_transformer", epochs=20)
