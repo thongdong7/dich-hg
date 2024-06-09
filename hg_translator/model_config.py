@@ -9,7 +9,7 @@ per_device_eval_batch_size = 8
 checkpoint = "google/mt5-base"
 
 # prefix = "dịch sang tiên hiệp: "
-prefix = "translate from Chinese to Vietnamese: "
+prefix = "translate Chinese to Vietnamese: "
 
 
 source_lang = "zh"
