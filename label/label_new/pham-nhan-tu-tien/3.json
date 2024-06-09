@@ -1,210 +1,270 @@
 {
-  "currentLine": 37,
+  "currentLine": 24,
+  "approved": false,
+  "changed": true,
+  "currentWorkingLine": 25,
+  "lines": [
+    {
+      "approved": true,
+      "chinese": {
+        "index": 0,
+        "raw": "车内的气味显然并不好闻，这也难怪本应只能乘做十几人的车厢挤进了近三十名孩童。虽说小孩块头比成年人小很多，但仍使车内拥挤不堪。",
+        "text": "Bên trong xe đích mùi hiển nhiên cũng không tốt nghe, cái này cũng khó trách vốn nên chỉ có thể cưỡi làm mười mấy người đích thùng xe chen vào gần ba mươi danh hài đồng. Tuy nói tiểu hài tử tướng tá so người trưởng thành nhỏ rất nhiều, nhưng vẫn sử bên trong xe chật chội chịu không nổi."
+      },
+      "convert": "Trong xe mùi hiển nhiên cũng khó ngửi, cái này cũng khó trách vốn nên chỉ có thể lợi dụng làm mười mấy người thùng xe chen vào gần ba mươi tên hài đồng",
+      "dich": "Không khí trong xe khá tù túng, điều này cũng phải thôi, thùng xe dành cho mười mấy người nhét vào hơn ba mươi tên hài đồng. Tuy nói là tiểu hài tử nhỏ hơn nhiều so với người trưởng thành, nhưng với số lượng thế này, cũng đủ để làm bầu không khí trong xe trở nên ngột ngạt."
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 1,
+        "raw": "韩立机灵的把瘦弱的身子缩到车厢内的边角里，偷偷的打量着车内的其他孩童。",
+        "text": "Hàn Lập cơ trí đích đem gầy yếu đích thân thể rụt đến thùng xe nội đích bên lề trong, len lén đánh giá bên trong xe đích cái khác hài đồng."
+      },
+      "convert": "Tuy nói tiểu hài tử khổ người so với người trưởng thành nhỏ rất nhiều, nhưng vẫn sử dụng trong xe chen chúc chịu không nổi",
+      "dich": "Hàn Lập tinh ranh đã chui ngay vào một góc nằm sâu trong xe, len lén đánh giá mấy tiểu hài đồng còn lại."
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 2,
+        "raw": "来参加入门考查的孩童从衣着打扮，从出身上看明显分为了三类人。",
+        "text": "Tới tham gia nhập môn khảo tra đích hài đồng từ quần áo trang phục, từ xuất thân thượng coi rõ ràng phân làm ba loại người."
+      },
+      "convert": "Hàn Lập lanh lợi bả thân thể gầy yếu co lại đến trong xe cạnh góc trong, len lén đánh giá trong xe cái khác hài đồng",
+      "dich": "Tới tham gia kỳ khảo thí lần này, từ cách ăn mặc và nói chuyện, hắn dễ dàng nhận thấy có ba dạng người."
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 3,
+        "raw": "第一类人是坐在车厢正中，正被其余大部分孩童簇拥其中的锦衣少年这一类人。",
+        "text": "Loại người thứ nhất là tọa tại thùng xe chính giữa, đang bị còn lại đại bộ phận hài đồng vây quanh trong đó đích thiếu niên mặc áo gấm loại này người."
+      },
+      "convert": "Tới tham gia vào cửa khảo tra hài đồng theo ăn vận trang hoàng, theo xuất thân nhìn lên rõ ràng phân làm ba loại người",
+      "dich": "Loại người thứ nhất ngồi ở giữa xe, được đám trẻ con vây quanh ủng hộ. Một thiếu niên mặc cẩm y chính là thuộc dạng người này."
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 4,
+        "raw": "这名少年叫舞岩，今年十三岁，是车内年龄最大的一人。本来年龄已超过了规定，但其有一表姐嫁给七玄门内的一名掌权人物，年龄问题自然也就不成问题了。舞岩家开了一间武馆，家中颇为富裕，还自小练了一些拳脚功夫，虽然并不怎吗高明，但对付象韩立这样只有一些笨力气并从未习过武的小孩，还是绰绰有余。",
+        "text": "Gã thiếu niên này gọi múa nham, năm nay mười ba tuổi, là bên trong xe tuổi tác lớn nhất đích một người. Vốn dĩ tuổi tác đã vượt qua quy định, nhưng nó có một biểu tỷ gả cho Thất Huyền môn nội đích một chưởng quyền nhân vật, vấn đề tuổi tác tự nhiên cũng liền không thành vấn đề rồi. Múa nham gia mở một gian võ quán, gia trung có chút sung túc, còn từ nhỏ luyện một chút công phu quyền cước, tuy rằng chẳng hề sao lại cao minh, nhưng đối phó với tượng Hàn Lập thế này chỉ có một ít dốt khí lực đồng thời chưa bao giờ tập qua võ đích tiểu hài tử, vẫn là dư dả."
+      },
+      "convert": "Loại người thứ nhất là ngồi ở thùng xe giữa, đang bị còn lại đại bộ phận hài đồng túm tụm trong đó thiếu niên mặc áo gấm một loại người này",
+      "dich": "Thiếu niên này tên gọi Vũ Nham, năm nay mười ba tuổi, là đứa trẻ lớn nhất ở trong xe lúc này. Vốn tuổi của hắn đã vượt quá quy định, nhưng hắn có một vị biểu tỷ được gả cho một nhân vật có đại quyền trong Thất Huyền Môn, nên cho dù quá tuổi thì cũng không phải là vấn đề gì to tát. Gia đình Vũ Nham mở một võ quán, thân gia có chút giàu có, bản thân hắn tuy còn nhỏ nhưng cũng có tập võ qua. Công phu mặc dù không có gì cao minh, nhưng đối phó với những đứa trẻ một điểm khí lực cũng không có như Hàn Lập là dư sức."
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 5,
+        "raw": "很显然像舞岩这类人，家里有钱又有势，还会几手功夫，自然就自发的成为了车内大部分孩童的“大哥”。",
+        "text": "Rất hiển nhiên giống múa nham loại người này, trong nhà có tiền lại có thế, sẽ còn mấy tay công phu, tự nhiên là tự phát đích trở thành rồi bên trong xe đại bộ phận hài đồng đích “đại ca”."
+      },
+      "convert": "Gã thiếu niên này gọi là Vũ Nham, năm nay mười ba tuổi, là trong xe tuổi lớn nhất một người",
+      "dich": "Rất hiển nhiên, loại người như Vũ Nham có tiền, có thế, tự nhiên sẽ trở thành đại ca của phần đông đám tiểu hài tử trong xe."
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 6,
+        "raw": "另一类人就是簇拥着舞岩的这些孩童，这部分人出身五花八门，家里有开店铺的，有打工的，有靠手艺吃饭的等等，但都有同一个特点就是：都是在城镇中长大的，自然或多或少的跟家里大人学会了一些察颜观色，逐利而行的本事，因此这些人都簇拥着舞岩，并左一声“舞少爷”右一声“舞大哥”的称呼着，舞岩看起来对此早以习以为常，非常的受用这些称呼。",
+        "text": "Một loại người khác chính là vây quanh múa nham đích những hài đồng này, bộ phận này người xuất thân đủ loại, trong nhà có mở cửa hàng đích, có làm công đích, có tay dựa 艺 ăn cơm v.v, nhưng đều có cùng một cái đặc điểm chính là: đều là tại thành trấn trung lớn lên, tự nhiên hoặc nhiều hoặc ít đích cùng người lớn trong nhà học xong một chút quan sát nét mặt, thấy lợi là làm đích bản lĩnh, bởi vậy những người này đều vây quanh múa nham, đồng thời bên trái một tiếng “Vũ thiếu gia” bên phải một tiếng “Vũ đại ca” đích xưng hô, múa nham thoạt nhìn đối với cái này sớm dĩ tập mãi thành thói quen, vô cùng hưởng thụ những danh xưng này."
+      },
+      "convert": "Vốn tuổi đã vượt qua quy định, nhưng có một biểu tỷ gả cho Thất Huyền Môn bên trong một gã chưởng quyền nhân vật, vấn đề tuổi tác tự nhiên cũng liền không thành vấn đề rồi",
+      "dich": "Loại người thứ hai là những hài đồng ủng hộ Vũ Nham, có xuất thân từ đủ loại gia cảnh, có đứa trong nhà mở cửa hàng, có đứa phải đi làm công ... nói chung những hài tử này đều có điểm chung: Đều lớn lên trong thành trấn, ít nhiều đã từng quan sát cách xử sự của những người có học vấn, xu hướng có lợi thì làm đã thành bản sự rồi. Do đó những đứa trẻ này dốc sức ủng hộ Vũ Nham, một câu ‘Vũ thiếu gia’ hai câu ‘Vũ đại ca’ mà gọi. Vũ Nham đối với việc này đã tập mãi thành quen, vô cùng hưởng thụ những danh xưng này."
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 7,
+        "raw": "最后一类人就是韩立这类人，这类人都来自偏僻的穷乡僻壤，家里一般都是靠山吃山，靠水吃水，非常的穷苦。这类人在车里是最少的了，只有五六人，神态多半畏手畏脚不敢大声言语，只是看别人放声说笑，和不时大声喧闹的那部分童子形成了鲜明的对比。",
+        "text": "Tối hậu một loại người chính là Hàn Lập loại người này, loại người này đều đến từ hẻo lánh đích thâm sơn cùng cốc, trong nhà bình thường đều là dựa vào núi ăn núi, xuống sông uống nước, nghèo khổ vô cùng. Loại người này ở trong xe là ít nhất, chỉ có năm sáu người, thần thái hơn phân nửa bó tay bó chân không dám nói lớn tiếng, chỉ là coi người khác lên tiếng nói đùa, cùng thỉnh thoảng lớn tiếng huyên náo đích kia bộ phận đồng tử tạo thành rõ ràng đích so đọ."
+      },
+      "convert": "Vũ Nham nhà mở một gian võ quán, trong nhà có chút giàu có, còn từ nhỏ luyện đi một tí công phu quyền cước, tuy rằng cũng không sao ư cao minh, nhưng đối phó với giống như Hàn Lập như vậy chỉ có một chút đần khí lực tịnh chưa bao giờ luyện tập qua võ tiểu hài tử, hay là dư xài",
+      "dich": "Loại cuối cùng, tất nhiên là dạng người giống như Hàn Lập, đều đến từ thâm sơn cùng cốc, cả nhà đều lên núi kiếm ăn, xuống sông uống nước, nghèo khổ vô cùng. Loại người như vậy trong xe rất ít, chỉ có tầm năm sáu đứa mà thôi. Thần thái của bọn chúng đa phần là e dè, không dám nói năng gì, chỉ ngồi nhìn người khác nói cười. Những tiểu hài tử này cùng với những đứa trẻ đang huyên náo còn lại tạo thành một khung cảnh đối lập rõ ràng."
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 8,
+        "raw": "马车从青牛镇出发一路向西飞奔，路途中又去了好几个地方，又接了几个孩童，终于在第五天傍晚时分赶到了彩霞山，七玄门总门所在地。",
+        "text": "Xe ngựa từ Thanh Ngưu 镇 xuất phát một đường hướng tây chạy vội, dọc đường lại đi mấy cái địa phương, lại tiếp mấy cái hài đồng, cuối cùng tại ngày thứ năm lúc chạng vạng tối chạy tới Thải Hà sơn, Thất Huyền môn tổng môn sở tại địa."
+      },
+      "convert": "Rất hiển nhiên như Vũ Nham loại người này, trong nhà có tiền lại có thế, còn biết mấy tay công phu, dĩ nhiên là tự phát đã trở thành trong xe đại bộ phận hài đồng \"Đại ca\"",
+      "dich": "Xe ngựa xuất phát từ Thanh Ngưu trấn thẳng tiến về hướng Tây, trên lộ trình còn đi qua thêm vài địa phương, tiếp nhận thêm vài đứa trẻ nữa. Cuối cùng đến chiều ngày thứ năm thì cũng tới được Thái Hà Sơn, tổng đàn của Thất Huyền Môn."
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 9,
+        "raw": "所有的孩子一下车，都被彩霞山那五彩的落日美景深深的迷住了，直到王护法催促声起，大家才清醒过来继续往前走。",
+        "text": "Tất cả đích hài tử vừa xuống xe, đều bị Thải Hà sơn kia ngũ sắc đích mặt trời lặn cảnh đẹp thật sâu đích mê hoặc, thẳng đến Vương hộ pháp lên tiếng thúc giục, mọi người mới thanh tỉnh lại tiếp tục đi lên phía trước."
+      },
+      "convert": "Một loại người khác chính là vây quanh Vũ Nham những hài đồng này, cái này bộ phận người xuất thân đủ loại, trong nhà có mở cửa hàng đấy, có làm công đấy, có tay dựa nghệ ăn cơm. chờ một chút, nhưng đều có cùng một cái đặc điểm chính là:",
+      "dich": "Hầu hết tiểu hài tử khi xuống xe đều bị cảnh quan tươi đẹp của Thái Hà Sơn làm cho mê mẩn. Chỉ đến khi Vương hộ pháp lên tiếng thúc giục, mọi người mới thanh tỉnh trở lại rồi tiếp tục đi tới."
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 10,
+        "raw": "彩霞山原名落凤山，相传古时一头五色彩凤落在此地，化成此山。后由于来此的人发现此山在落日时分美丽异常，犹如彩霞笼罩，又被人改为彩霞山。当然此山自从被七玄门zhan有后，外人自然不能再来此随意欣赏如此美景。",
+        "text": "Thải Hà sơn nguyên danh Lạc Phượng núi, tương truyền thời cổ một đầu ngũ sắc Thải Phượng rơi vào nơi đây, hóa thành núi này. Sau bởi vì tới đây đích người phát hiện núi này tại mặt trời lặn thời gian xinh đẹp dị thường, giống như thải hà bao phủ, lại bị người cải thành Thải Hà sơn. Đương nhiên núi này từ bị Thất Huyền môn gian có hậu, ngoại nhân tự nhiên không thể lại đến này tùy ý thưởng thức như thế cảnh đẹp."
+      },
+      "convert": "Đều là tại thành trấn trong lớn lên đấy, tự nhiên hoặc nhiều hoặc ít cùng nhà trong đại nhân học xong một chút quan sát nét mặt, bản lĩnh thấy lợi là làm, bởi vậy những người này đều vây quanh Vũ Nham, tịnh trái một tiếng \"Vũ thiếu gia\" phải một tiếng \"Vũ đại ca\" xưng hô.",
+      "dich": "Thái Hà Sơn nguyên danh gọi là Lạc Phượng sơn, tương truyền rằng nơi đây từng có một con phượng hoàng ngũ sắc rơi xuống rồi hóa thành núi này. Về sau, có kẻ phát hiện cảnh sắc ngọn núi vào lúc mặt trời xuống mỹ lệ vô cùng, như có đám mây đỏ rực bao phủ đỉnh núi, do vậy nơi đây được người ta đổi tên thành Thái Hà Sơn. Đương nhiên, từ khi bị Thất Huyền Môn chiếm cứ, người ngoài đã không còn cơ hội thưởng ngoạn cảnh đẹp ở đây."
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 11,
+        "raw": "彩霞山是镜州境内第二大山，除了另一座百莽山，就数此山占地最广，方圆十几里内都是此山的山脉所在。此山拥有大大小小的山峰十几个，各个都十分险要，因此全都被七玄门各个分堂所占据。彩霞山的主峰“落日峰”更是险恶无比，不但奇高陡峭，而且从山底到峰顶只有一条路可走，七玄门将总堂便放在此处后，又在这条路险要之处，一连设下了十三处或明或暗的哨卡，可称的上是万无一失，高枕无忧。",
+        "text": "Thải Hà sơn là Kính Châu cảnh nội đệ hai đại núi, trừ bỏ một tòa khác trăm mãng núi, liền số núi này chiếm diện tích phổ biến nhất, chu vi hơn mười dặm nội đều là núi này đích sơn mạch sở tại. Núi này nắm giữ to to nhỏ nhỏ đích ngọn núi mười mấy, mỗi cái đều thập phần hiểm yếu, bởi vậy tất cả đều bị Thất Huyền môn mỗi cái phân đường sở chiếm cứ. Thải Hà sơn đích chủ phong “Lạc Nhật Phong” càng là hiểm ác vô cùng, chẳng những 奇 cao dốc đứng, hơn nữa từ chân núi đến đỉnh núi chỉ có một con đường có thể đi, Thất Huyền môn đem tổng đường liền đặt ở chỗ này sau, lại tại con đường này hiểm yếu chỗ, liên tiếp thiết hạ rồi mười ba nơi hoặc sáng hoặc tối đích đồn biên phòng, có thể xưng đích thượng là vạn vô nhất thất, kê cao gối ngủ."
+      },
+      "convert": "Vũ Nham xem ra đối với lần này sớm lấy tập mãi thành thói quen, vô cùng hưởng thụ những danh xưng này.",
+      "dich": "Thái Hà Sơn là một trong những ngọn núi lớn của Kính Châu, diện tích chỉ nhỏ hơn Bách Mãng sơn một chút, phương viên mười dặm xung quanh đều là núi non chập trùng. Tính ra trên núi có hơn mười sơn phong lớn nhỏ khác nhau. Hầu hết đều có địa thế vô cùng hiểm yếu, tất cả đều bị người của các phân đường Thất Huyền Môn chiếm cứ. Ngọn chủ phong của Thái Hà Sơn là Lạc Nhật Phong càng hiểm ác vô cùng, chẳng những là đỉnh cao nhất, mà ở đó cũng chỉ có duy nhất một con đường độc đạo dẫn lên núi, do vậy mà Thất Huyền Môn đem tổng đàn đặt lên đỉnh núi này. Con đường này không những hiểm trở, mà dọc theo con đường tông môn còn thiết lập mười ba trạm gác cả minh lẫn ám, có thể nói là vạn vô nhất thất, không có gì để phải lo lắng."
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 12,
+        "raw": "韩立边打量着四周边跟着前边的人向前走，忽然前头的队伍停了下来，接着传来一声豪爽的话语声。",
+        "text": "Hàn Lập vừa quan sát bốn phía bên theo phía trước đích người đi về phía trước, bỗng nhiên đằng trước đích đội ngũ ngừng lại, tiếp theo truyền đến một tiếng hào sảng thanh âm đàm thoại."
+      },
+      "convert": "Cuối cùng một loại người chính là Hàn Lập loại người này, loại người này đều đến từ vắng vẻ thâm sơn cùng cốc, trong nhà đồng dạng đều là lên núi kiếm ăn, xuống sông uống nước, nghèo khổ vô cùng",
+      "dich": "Hàn Lập đang nhìn ngó bốn phía xung quanh, bỗng nhiên thấy phía trước mọi người đều dừng lại, tiếp đó một âm thanh hào sảng truyền đến."
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 13,
+        "raw": "“王老弟，怎么才到可比预定时间晚了两天。”",
+        "text": "“Vương lão đệ, thế nào mới đến có thể so sánh dự định thời gian chậm hai ngày.”"
+      },
+      "convert": "Loại người này trong xe là ít nhất rồi, chỉ năm sáu người, thần thái hơn phân nửa bó tay bó chân không dám nói lớn tiếng, chỉ là xem người khác lên tiếng nói giỡn, cùng thỉnh thoảng lớn tiếng huyên náo cái kia bộ phận đồng tử tạo thành chênh lệch rõ ràng",
+      "dich": "\"Vương lão đệ, có chuyện gì mà đến bây giờ mới đến nơi? So với dự định thì trễ mất hai ngày thời gian rồi.\""
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 14,
+        "raw": "“岳堂主，路上耽搁了些时间，老烦您老费心了。”王护法站在人群前，恭敬的向一位红脸的老者施了一礼，一改路上一直的跋扈神色，脸上露出几分媚色。",
+        "text": "“Nhạc đường chủ, trên đường trì hoãn rồi chút thời gian, lão phiền ngài phí tâm.” Vương hộ pháp đứng tại trước đám người, cung kính đích hướng một vị lão giả mặt đỏ thi cái lễ, thay đổi trên đường một mực ương ngạnh thần sắc, trên mặt lộ ra mấy phần mị sắc."
+      },
+      "convert": "Xe ngựa theo Thanh Ngưu trấn xuất phát trên đường hướng tây chạy vội, dọc đường lại đi tốt mấy nơi, lại tiếp vài cái hài đồng, cuối cùng tại ngày thứ năm lúc chạng vạng tối chạy tới Thái Hà Sơn, Thất Huyền Môn luôn cửa chỗ ở",
+      "dich": "\"Nhạc đường chủ, trên đường đi có chút chậm trễ, phiền ngài để tâm rồi.\" Vương hộ pháp đứng đầu đám người, cung kính thi lễ về phía vị lão giả mặt mũi hồng hào. Bộ mặt ngang tàng khi đi đường của gã đã được thay bằng một thái độ trông rất xiểm nịnh."
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 15,
+        "raw": "“这是第几批送到山上的弟子了”",
+        "text": "“Đây là nhóm thứ mấy đưa đến sơn thượng đích đệ tử”"
+      },
+      "convert": "Tất cả hài tử vừa xuống xe, đều bị Thái Hà Sơn cái kia năm màu tà dương cảnh đẹp thật sâu mê hoặc, cho đến Vương hộ pháp lên tiếng thúc giục, mọi người mới thanh tỉnh lại tiếp tục đi lên phía trước",
+      "dich": "\"Đây là nhóm đệ tử thứ mấy được đưa đến vậy?\""
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 16,
+        "raw": "“第十七批人了。”",
+        "text": "“Thứ mười bảy nhóm người rồi.”"
+      },
+      "convert": "Thái Hà Sơn nguyên danh Lạc Phượng núi, tương truyền thời cổ một đầu ngũ sắc Thải Phượng rơi ở chỗ này, hóa thành núi này",
+      "dich": "\"Là nhóm thứ mười bảy.\""
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 17,
+        "raw": "“恩”这位岳堂主大模大样的看了几眼韩立他们。",
+        "text": "“Ân” vị này Nhạc đường chủ ngông nghênh đích nhìn mấy lần Hàn Lập bọn họ."
+      },
+      "convert": "Sau đó bởi vì tới đây người phát hiện núi này tại tà dương thời gian xinh đẹp dị thường, giống như màu ngũ sắc bao phủ, lại bị người cải thành Thái Hà Sơn",
+      "dich": "\"Ân!\" Vị Nhạc đường chủ này khinh khỉnh nhìn xuống đám tiểu hài tử Hàn Lập"
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 18,
+        "raw": "“送到清客院，让他们好好休息一晚，明天一早就开始选拔合格弟子。没过关的，及早让他们下山，免的犯了山上的规矩。”",
+        "text": "“Đưa đến môn khách viện, để bọn hắn hảo hảo nghỉ ngơi một đêm, sáng sớm ngày mai liền bắt đầu chọn lựa đủ tư cách đệ tử. Không quá quan, nhanh chóng để bọn hắn xuống núi, miễn phạm vào sơn thượng đích quy củ.”"
+      },
+      "convert": "Đương nhiên núi này từ khi bị Thất Huyền Môn gian có hậu, ngoại nhân tự nhiên không thể lại đến ấy tùy ý thưởng thức cảnh đẹp như thế",
+      "dich": "\"Đưa đến Thanh Khách viện, để bọn chúng nghỉ ngơi một đêm cho tốt, sáng mai bắt đầu chọn lựa đệ tử rồi. Một khi bị loại, phải sớm đưa bọn chúng xuống núi, đừng để phạm vào quy định của bản môn.\""
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 19,
+        "raw": "“遵命，岳堂主。”",
+        "text": "“Tuân mệnh, Nhạc đường chủ.”"
+      },
+      "convert": "Thái Hà Sơn là Kính Châu cảnh nội thứ hai núi lớn, ngoại trừ một tòa khác trăm Mãng Sơn, liền đếm núi này chiếm diện tích phổ biến nhất, trong phạm vi mười mấy dặm đều là núi này sơn mạch chỗ",
+      "dich": "\"Tuân mệnh, Nhạc đường chủ!\""
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 20,
+        "raw": "走在上山的石阶上，所有的小孩都兴奋不已，但没有人敢大声说话，虽然众人年纪都不大，却都知道这里就是决定自己未来命运的地方。",
+        "text": "Tẩu ở trên núi đích trên thềm đá, tất cả đích tiểu hài tử đều hưng phấn không thôi, nhưng không người nào dám nói chuyện lớn tiếng, tuy rằng chúng nhân niên kỷ cũng không lớn, cũng đều biết nơi này chính là quyết định tương lai mình vận mệnh đích địa phương."
+      },
+      "convert": "Núi này có được tất cả lớn nhỏ ngọn núi mười cái, các đều thập phần hiểm yếu, bởi vậy tất cả đều bị Thất Huyền Môn các Phân đường sở chiếm cứ",
+      "dich": "Đi trên con đường đá dẫn lên núi, đám tiểu hài tử đều hưng phấn mãi không thôi, nhưng không có ai dám lớn tiếng nói chuyện. Tuy bọn chúng đều chưa trưởng thành, nhưng cũng hiểu được nơi này sẽ quyết định vận mệnh tương lai của mình."
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 21,
+        "raw": "王护法一边在前面带路，一边面带微笑的与路上遇到的人打着招呼，可以看的出他在门内熟人很多，人缘不错。",
+        "text": "Vương hộ pháp một bên ở phía trước dẫn đường, một bên mặt mỉm cười đích cùng trên đường gặp phải người chào hỏi, khả dĩ nhìn ra hắn tại trong môn người quen rất nhiều, nhân duyên không tệ."
+      },
+      "convert": "Thái Hà Sơn ngọn núi cao nhất \"Lạc Nhật Phong\" càng là hiểm ác vô cùng, chẳng những kỳ Cao dốc đứng, hơn nữa theo chân núi đến đỉnh núi chỉ một con đường có thể đi, Thất Huyền Môn đem Tổng đường liền để ở nơi này về sau, lại đang con đường này hiểm yếu chỗ, liên tiếp thiết lập mười ba nơi hoặc sáng hoặc tối đồn biên phòng, có thể xưng là trên là không sơ hở tý nào, vô tư",
+      "dich": "Vương hộ pháp vừa đi trước dẫn đội, vừa tươi cười chào hỏi những người gặp trên đường. Có thể nhìn ra gã tại môn nội quen biết khá nhiều người, sinh hoạt trong môn sau này cũng lạc quan."
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 22,
+        "raw": "一路遇到的人大都身穿青缎衣，身上或挎着刀，或背着剑，偶尔一些赤授空拳的人腰间也鼓鼓囊囊的，不知揣着升吗东西，从行为举止上，可以看出这些人身手矫健，都有一身不错的功夫在身。",
+        "text": "Một đường gặp phải đại hội đại biểu nhân dân toàn quốc đều mặc thanh gấm áo, trên thân hoặc vác lấy 刀, hoặc vác kiếm, ngẫu nhiên một chút đỏ thẫm thụ không quyền đích người bên hông cũng phình túi túi đích, không biết cất thăng chứ đồ vật, từ hành vi cử chỉ thượng, có thể thấy được những người này thân thủ mạnh mẽ, đều có một thân không tệ đích công phu trong người."
+      },
+      "convert": "Hàn Lập vừa quan sát bốn phía vừa cùng theo phía trước người đi về phía trước, đột nhiên đằng trước đội ngũ ngừng lại, tiếp theo truyền đến một tiếng hào sảng thanh âm đàm thoại",
+      "dich": "Dọc đường chỉ thấy mọi người ở đây đều mặc áo bó ngắn màu xanh, trên thân hoặc đeo đao, hoặc dắt kiếm. Thỉnh thoảng có người đi tay không nhưng ở thắt lưng phồng lên, khó mà đoán được bên trong là cái gì. Từ cử chỉ hành vi, có thể nhìn ra người đó thân thủ mạnh mẽ, chắc hẳn phải mang trong mình một thân công phu không sai."
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 23,
+        "raw": "韩立等人被带到一座较矮的山峰上，山顶有一片土房，在这里韩立等人住了一宿。在晚上的睡梦中，韩立在梦里梦到自己身穿锦衣，手拿金剑，身怀绝世武功，把村里自己一直都打不过的铁匠的儿子痛打了一顿，好不威风，直到第二天早上起来仍回味不已。",
+        "text": "Hàn Lập đám người được đưa tới một tòa hơi lùn đích trên ngọn núi, đỉnh núi có một mảnh phòng đất, ở chỗ này Hàn Lập đám người ở một đêm. Ở buổi tối đích trong lúc ngủ mơ, Hàn Lập ở trong mơ mơ thấy chính mình mặc cẩm y, tay cầm kim kiếm, người mang võ công tuyệt thế, đem trong thôn chính mình vẫn luôn đánh không lại đích thợ rèn đích nhi tử đánh một trận đau nhức, được không uy phong, thẳng đến sáng ngày thứ hai lên tới vẫn dư vị không thôi."
+      },
+      "convert": "\"Vương lão đệ, thế nào mới đến? Có thể so sánh dự định thời gian đã chậm hai ngày.\"",
+      "dich": "Hàn Lập được dẫn đến một đỉnh núi thấp nhỏ, trên đỉnh núi có sẵn một căn phòng đất. Bọn Hàn Lập sẽ ở chỗ này một đêm. Trong giấc mộng, Hàn Lập mơ thấy mình mặc cẩm y, tay cầm kim kiếm, thân hoài tuyệt kỹ võ công, đánh cho con lão thợ rèn trong làng mà ngày trước hắn không đánh nổi một trận no nê, mất hết cả uy phong, mãi đến tận ngày thứ hai vẫn chưa đứng lên nổi."
+    },
+    {
+      "approved": true,
+      "chinese": {
+        "index": 24,
+        "raw": "早上起来后，王护法并没有让大家吃早饭，直接把众人带到山下的一大片种满竹子的斜坡跟前。在那里，昨天已见过的姓岳的堂主和其他几位不认识的年青人已等在那里。:",
+        "text": "Buổi sáng sau, Vương hộ pháp không hề có khiến mọi người ăn điểm tâm, trực tiếp đem chúng nhân dẫn đến dưới chân núi đích một mảng lớn đủ loại gậy trúc đích sườn dốc sắp tới. Ở đó, ngày hôm qua đã thấy qua họ Nhạc đích đường chủ cùng cái khác vài vị không quen biết người thanh niên đã đợi ở đó.:"
+      },
+      "convert": "\"Nhạc đường chủ, trên đường đi chậm trễ chút thời gian, lão phiền Nâm Lão phí tâm.\" Vương hộ pháp đứng ở trước đám người, cung kính hướng một vị lão giả mặt đỏ thi cái lễ, thay đổi trên đường đi một mực bướng bỉnh thần sắc, trên mặt lộ ra vài phần quyến rũ sắc",
+      "dich": "Hôm sau trời vừa sáng, Vương hộ pháp cũng không để cho mọi người được ăn điểm tâm, trực tiếp mang cả bọn xuống núi, tới trước một khu rừng trúc rậm rạp. Tại đây, ngoài vị đường chủ họ Nhạc đã gặp ngày hôm qua còn có mấy vị thanh niên khác đã đứng chờ sẵn."
+    }
+  ],
   "next": {
     "id": 4,
     "title": "Chương 4: Luyện Cốt nhai"
-  },
-  "title": {
-    "convert": "Chương 3: Thất Huyền Môn",
-    "dich": "Chương 3: Thất Huyền Môn"
   },
   "previous": {
     "id": 2,
     "title": "Chương 2: Thanh Ngưu trấn"
   },
-  "currentWorkingLine": 38,
-  "changed": true,
-  "approved": false,
-  "lines": [
-    {
-      "convert": "Trong xe mùi hiển nhiên cũng khó ngửi, cái này cũng khó trách vốn nên chỉ có thể lợi dụng làm mười mấy người thùng xe chen vào gần ba mươi tên hài đồng",
-      "dich": "Không khí trong xe khá tù túng, điều này cũng phải thôi, thùng xe dành cho mười mấy người nhét vào hơn ba mươi tên hài đồng",
-      "approved": true
-    },
-    {
-      "convert": "Tuy nói tiểu hài tử khổ người so với người trưởng thành nhỏ rất nhiều, nhưng vẫn sử dụng trong xe chen chúc chịu không nổi",
-      "dich": "Tuy nói là tiểu hài tử nhỏ hơn nhiều so với người trưởng thành, nhưng với số lượng thế này, cũng đủ để làm bầu không khí trong xe trở nên ngột ngạt",
-      "approved": true
-    },
-    {
-      "convert": "Hàn Lập lanh lợi bả thân thể gầy yếu co lại đến trong xe cạnh góc trong, len lén đánh giá trong xe cái khác hài đồng",
-      "dich": "Hàn Lập tinh ranh đã chui ngay vào một góc nằm sâu trong xe, len lén đánh giá mấy tiểu hài đồng còn lại",
-      "approved": true
-    },
-    {
-      "convert": "Tới tham gia vào cửa khảo tra hài đồng theo ăn vận trang hoàng, theo xuất thân nhìn lên rõ ràng phân làm ba loại người",
-      "dich": "Tới tham gia kỳ khảo thí lần này, từ cách ăn mặc và nói chuyện, hắn dễ dàng nhận thấy có ba dạng người",
-      "approved": true
-    },
-    {
-      "convert": "Loại người thứ nhất là ngồi ở thùng xe giữa, đang bị còn lại đại bộ phận hài đồng túm tụm trong đó thiếu niên mặc áo gấm một loại người này",
-      "dich": "Loại người thứ nhất ngồi ở giữa xe, được đám trẻ con vây quanh ủng hộ. Một thiếu niên mặc cẩm y chính là thuộc dạng người này",
-      "approved": true
-    },
-    {
-      "convert": "Gã thiếu niên này gọi là Vũ Nham, năm nay mười ba tuổi, là trong xe tuổi lớn nhất một người",
-      "dich": "Thiếu niên này tên gọi Vũ Nham, năm nay mười ba tuổi, là đứa trẻ lớn nhất ở trong xe lúc này",
-      "approved": true
-    },
-    {
-      "convert": "Vốn tuổi đã vượt qua quy định, nhưng có một biểu tỷ gả cho Thất Huyền Môn bên trong một gã chưởng quyền nhân vật, vấn đề tuổi tác tự nhiên cũng liền không thành vấn đề rồi",
-      "dich": "Vốn tuổi của hắn đã vượt quá quy định, nhưng hắn có một vị biểu tỷ được gả cho một nhân vật có đại quyền trong Thất Huyền Môn, nên cho dù quá tuổi thì cũng không phải là vấn đề gì to tát",
-      "approved": true
-    },
-    {
-      "convert": "Vũ Nham nhà mở một gian võ quán, trong nhà có chút giàu có, còn từ nhỏ luyện đi một tí công phu quyền cước, tuy rằng cũng không sao ư cao minh, nhưng đối phó với giống như Hàn Lập như vậy chỉ có một chút đần khí lực tịnh chưa bao giờ luyện tập qua võ tiểu hài tử, hay là dư xài",
-      "dich": "Gia đình Vũ Nham mở một võ quán, thân gia có chút giàu có, bản thân hắn tuy còn nhỏ nhưng cũng có tập võ qua. Công phu mặc dù không có gì cao minh, nhưng đối phó với những đứa trẻ một điểm khí lực cũng không có như Hàn Lập là dư sức",
-      "approved": true
-    },
-    {
-      "convert": "Rất hiển nhiên như Vũ Nham loại người này, trong nhà có tiền lại có thế, còn biết mấy tay công phu, dĩ nhiên là tự phát đã trở thành trong xe đại bộ phận hài đồng \"Đại ca\"",
-      "dich": "Rất hiển nhiên, loại người như Vũ Nham có tiền, có thế, tự nhiên sẽ trở thành đại ca của phần đông đám tiểu hài tử trong xe",
-      "approved": true
-    },
-    {
-      "convert": "Một loại người khác chính là vây quanh Vũ Nham những hài đồng này, cái này bộ phận người xuất thân đủ loại, trong nhà có mở cửa hàng đấy, có làm công đấy, có tay dựa nghệ ăn cơm. chờ một chút, nhưng đều có cùng một cái đặc điểm chính là:",
-      "dich": "Loại người thứ hai là những hài đồng ủng hộ Vũ Nham, có xuất thân từ đủ loại gia cảnh, có đứa trong nhà mở cửa hàng, có đứa phải đi làm công ... nói chung những hài tử này đều có điểm chung:.",
-      "approved": true
-    },
-    {
-      "convert": "Đều là tại thành trấn trong lớn lên đấy, tự nhiên hoặc nhiều hoặc ít cùng nhà trong đại nhân học xong một chút quan sát nét mặt, bản lĩnh thấy lợi là làm, bởi vậy những người này đều vây quanh Vũ Nham, tịnh trái một tiếng \"Vũ thiếu gia\" phải một tiếng \"Vũ đại ca\" xưng hô.",
-      "dich": "Đều lớn lên trong thành trấn, ít nhiều đã từng quan sát cách xử sự của những người có học vấn, xu hướng có lợi thì làm đã thành bản sự rồi. Do đó những đứa trẻ này dốc sức ủng hộ Vũ Nham, một câu ‘Vũ thiếu gia’ hai câu ‘Vũ đại ca’ mà gọi.",
-      "approved": true
-    },
-    {
-      "convert": "Vũ Nham xem ra đối với lần này sớm lấy tập mãi thành thói quen, vô cùng hưởng thụ những danh xưng này.",
-      "dich": "Vũ Nham đối với việc này đã tập mãi thành quen, vô cùng hưởng thụ những danh xưng này.",
-      "approved": true
-    },
-    {
-      "convert": "Cuối cùng một loại người chính là Hàn Lập loại người này, loại người này đều đến từ vắng vẻ thâm sơn cùng cốc, trong nhà đồng dạng đều là lên núi kiếm ăn, xuống sông uống nước, nghèo khổ vô cùng",
-      "dich": "Loại cuối cùng, tất nhiên là dạng người giống như Hàn Lập, đều đến từ thâm sơn cùng cốc, cả nhà đều lên núi kiếm ăn, xuống sông uống nước, nghèo khổ vô cùng.",
-      "approved": true
-    },
-    {
-      "convert": "Loại người này trong xe là ít nhất rồi, chỉ năm sáu người, thần thái hơn phân nửa bó tay bó chân không dám nói lớn tiếng, chỉ là xem người khác lên tiếng nói giỡn, cùng thỉnh thoảng lớn tiếng huyên náo cái kia bộ phận đồng tử tạo thành chênh lệch rõ ràng",
-      "dich": "Loại người như vậy trong xe rất ít, chỉ có tầm năm sáu đứa mà thôi. Thần thái của bọn chúng đa phần là e dè, không dám nói năng gì, chỉ ngồi nhìn người khác nói cười. Những tiểu hài tử này cùng với những đứa trẻ đang huyên náo còn lại tạo thành một khung cảnh đối lập rõ ràng",
-      "approved": true
-    },
-    {
-      "convert": "Xe ngựa theo Thanh Ngưu trấn xuất phát trên đường hướng tây chạy vội, dọc đường lại đi tốt mấy nơi, lại tiếp vài cái hài đồng, cuối cùng tại ngày thứ năm lúc chạng vạng tối chạy tới Thái Hà Sơn, Thất Huyền Môn luôn cửa chỗ ở",
-      "dich": "Xe ngựa xuất phát từ Thanh Ngưu trấn thẳng tiến về hướng Tây, trên lộ trình còn đi qua thêm vài địa phương, tiếp nhận thêm vài đứa trẻ nữa. Cuối cùng đến chiều ngày thứ năm thì cũng tới được Thái Hà Sơn, tổng đàn của Thất Huyền Môn",
-      "approved": true
-    },
-    {
-      "convert": "Tất cả hài tử vừa xuống xe, đều bị Thái Hà Sơn cái kia năm màu tà dương cảnh đẹp thật sâu mê hoặc, cho đến Vương hộ pháp lên tiếng thúc giục, mọi người mới thanh tỉnh lại tiếp tục đi lên phía trước",
-      "dich": "Hầu hết tiểu hài tử khi xuống xe đều bị cảnh quan tươi đẹp của Thái Hà Sơn làm cho mê mẩn. Chỉ đến khi Vương hộ pháp lên tiếng thúc giục, mọi người mới thanh tỉnh trở lại rồi tiếp tục đi tới",
-      "approved": true
-    },
-    {
-      "convert": "Thái Hà Sơn nguyên danh Lạc Phượng núi, tương truyền thời cổ một đầu ngũ sắc Thải Phượng rơi ở chỗ này, hóa thành núi này",
-      "dich": "Thái Hà Sơn nguyên danh gọi là Lạc Phượng sơn, tương truyền rằng nơi đây từng có một con phượng hoàng ngũ sắc rơi xuống rồi hóa thành núi này",
-      "approved": true
-    },
-    {
-      "convert": "Sau đó bởi vì tới đây người phát hiện núi này tại tà dương thời gian xinh đẹp dị thường, giống như màu ngũ sắc bao phủ, lại bị người cải thành Thái Hà Sơn",
-      "dich": "Về sau, có kẻ phát hiện cảnh sắc ngọn núi vào lúc mặt trời xuống mỹ lệ vô cùng, như có đám mây đỏ rực bao phủ đỉnh núi, do vậy nơi đây được người ta đổi tên thành Thái Hà Sơn",
-      "approved": true
-    },
-    {
-      "convert": "Đương nhiên núi này từ khi bị Thất Huyền Môn gian có hậu, ngoại nhân tự nhiên không thể lại đến ấy tùy ý thưởng thức cảnh đẹp như thế",
-      "dich": "Đương nhiên, từ khi bị Thất Huyền Môn chiếm cứ, người ngoài đã không còn cơ hội thưởng ngoạn cảnh đẹp ở đây",
-      "approved": true
-    },
-    {
-      "convert": "Thái Hà Sơn là Kính Châu cảnh nội thứ hai núi lớn, ngoại trừ một tòa khác trăm Mãng Sơn, liền đếm núi này chiếm diện tích phổ biến nhất, trong phạm vi mười mấy dặm đều là núi này sơn mạch chỗ",
-      "dich": "Thái Hà Sơn là một trong những ngọn núi lớn của Kính Châu, diện tích chỉ nhỏ hơn Bách Mãng sơn một chút, phương viên mười dặm xung quanh đều là núi non chập trùng",
-      "approved": true
-    },
-    {
-      "convert": "Núi này có được tất cả lớn nhỏ ngọn núi mười cái, các đều thập phần hiểm yếu, bởi vậy tất cả đều bị Thất Huyền Môn các Phân đường sở chiếm cứ",
-      "dich": "Tính ra trên núi có hơn mười sơn phong lớn nhỏ khác nhau. Hầu hết đều có địa thế vô cùng hiểm yếu, tất cả đều bị người của các phân đường Thất Huyền Môn chiếm cứ",
-      "approved": true
-    },
-    {
-      "convert": "Thái Hà Sơn ngọn núi cao nhất \"Lạc Nhật Phong\" càng là hiểm ác vô cùng, chẳng những kỳ Cao dốc đứng, hơn nữa theo chân núi đến đỉnh núi chỉ một con đường có thể đi, Thất Huyền Môn đem Tổng đường liền để ở nơi này về sau, lại đang con đường này hiểm yếu chỗ, liên tiếp thiết lập mười ba nơi hoặc sáng hoặc tối đồn biên phòng, có thể xưng là trên là không sơ hở tý nào, vô tư",
-      "dich": "Ngọn chủ phong của Thái Hà Sơn là Lạc Nhật Phong càng hiểm ác vô cùng, chẳng những là đỉnh cao nhất, mà ở đó cũng chỉ có duy nhất một con đường độc đạo dẫn lên núi, do vậy mà Thất Huyền Môn đem tổng đàn đặt lên đỉnh núi này. Con đường này không những hiểm trở, mà dọc theo con đường tông môn còn thiết lập mười ba trạm gác cả minh lẫn ám, có thể nói là vạn vô nhất thất, không có gì để phải lo lắng",
-      "approved": true
-    },
-    {
-      "convert": "Hàn Lập vừa quan sát bốn phía vừa cùng theo phía trước người đi về phía trước, đột nhiên đằng trước đội ngũ ngừng lại, tiếp theo truyền đến một tiếng hào sảng thanh âm đàm thoại",
-      "dich": "Hàn Lập đang nhìn ngó bốn phía xung quanh, bỗng nhiên thấy phía trước mọi người đều dừng lại, tiếp đó một âm thanh hào sảng truyền đến",
-      "approved": true
-    },
-    {
-      "convert": "\"Vương lão đệ, thế nào mới đến? Có thể so sánh dự định thời gian đã chậm hai ngày.\"",
-      "dich": "\"Vương lão đệ, có chuyện gì mà đến bây giờ mới đến nơi? So với dự định thì trễ mất hai ngày thời gian rồi.\"",
-      "approved": true
-    },
-    {
-      "convert": "\"Nhạc đường chủ, trên đường đi chậm trễ chút thời gian, lão phiền Nâm Lão phí tâm.\" Vương hộ pháp đứng ở trước đám người, cung kính hướng một vị lão giả mặt đỏ thi cái lễ, thay đổi trên đường đi một mực bướng bỉnh thần sắc, trên mặt lộ ra vài phần quyến rũ sắc",
-      "dich": "\"Nhạc đường chủ, trên đường đi có chút chậm trễ, phiền ngài để tâm rồi.\" Vương hộ pháp đứng đầu đám người, cung kính thi lễ về phía vị lão giả mặt mũi hồng hào. Bộ mặt ngang tàng khi đi đường của gã đã được thay bằng một thái độ trông rất xiểm nịnh",
-      "approved": true
-    },
-    {
-      "convert": "\"Đây là nhóm thứ mấy đưa đến trên núi đệ tử?\"",
-      "dich": "\"Đây là nhóm đệ tử thứ mấy được đưa đến vậy?\"",
-      "approved": true
-    },
-    {
-      "convert": "\"Thứ mười bảy nhóm người rồi.\"",
-      "dich": "\"Là nhóm thứ mười bảy.\"",
-      "approved": true
-    },
-    {
-      "convert": "\"Ân!\" Vị này Nhạc đường chủ ngông nghênh nhìn mấy lần Hàn Lập bọn hắn",
-      "dich": "\"Ân!\" Vị Nhạc đường chủ này khinh khỉnh nhìn xuống đám tiểu hài tử Hàn Lập",
-      "approved": true
-    },
-    {
-      "convert": "\"Đưa đến môn khách viện, để cho bọn họ nghỉ ngơi thật tốt một đêm, sáng sớm ngày mai mà bắt đầu tuyển chọn hợp cách đệ tử",
-      "dich": "\"Đưa đến Thanh Khách viện, để bọn chúng nghỉ ngơi một đêm cho tốt, sáng mai bắt đầu chọn lựa đệ tử rồi",
-      "approved": true
-    },
-    {
-      "convert": "Không có vượt qua kiểm tra đấy, cùng sớm để cho bọn hắn xuống núi, miễn phạm vào trên núi quy củ.\"",
-      "dich": "Một khi bị loại, phải sớm đưa bọn chúng xuống núi, đừng để phạm vào quy định của bản môn.\"",
-      "approved": true
-    },
-    {
-      "convert": "\"Tuân mệnh, Nhạc đường chủ.\"",
-      "dich": "\"Tuân mệnh, Nhạc đường chủ!\"",
-      "approved": true
-    },
-    {
-      "convert": "Đi tại lên núi trên thềm đá, tất cả tiểu hài tử đều hưng phấn không thôi, nhưng không người nào dám nói chuyện lớn tiếng, tuy rằng mọi người niên kỷ cũng không lớn, cũng đều biết nơi này chính là quyết định tương lai mình vận mạng địa phương",
-      "dich": "Đi trên con đường đá dẫn lên núi, đám tiểu hài tử đều hưng phấn mãi không thôi, nhưng không có ai dám lớn tiếng nói chuyện. Tuy bọn chúng đều chưa trưởng thành, nhưng cũng hiểu được nơi này sẽ quyết định vận mệnh tương lai của mình",
-      "approved": true
-    },
-    {
-      "convert": "Vương hộ pháp một bên ở phía trước dẫn đường, một bên mặt mỉm cười cùng trên đường đi gặp phải người chào hỏi, có thể nhìn ra hắn bên trong môn quen thuộc rất nhiều người, nhân duyên không sai",
-      "dich": "Vương hộ pháp vừa đi trước dẫn đội, vừa tươi cười chào hỏi những người gặp trên đường. Có thể nhìn ra gã tại môn nội quen biết khá nhiều người, sinh hoạt trong môn sau này cũng lạc quan",
-      "approved": true
-    },
-    {
-      "convert": "Trên đường gặp phải người phần lớn mặc thanh đoạn y, trên người hoặc vác lấy đao, hoặc lưng đeo kiếm, ngẫu nhiên một chút xích thụ không quyền người bên hông cũng căng phồng đấy, không biết suy đoán lên cao ư đồ vật, theo hành động cử chỉ lên, đó có thể thấy được những người này thân thủ kiện tráng, đều có một thân thật tốt công phu trong người",
-      "dich": "Dọc đường chỉ thấy mọi người ở đây đều mặc áo bó ngắn màu xanh, trên thân hoặc đeo đao, hoặc dắt kiếm. Thỉnh thoảng có người đi tay không nhưng ở thắt lưng phồng lên, khó mà đoán được bên trong là cái gì. Từ cử chỉ hành vi, có thể nhìn ra người đó thân thủ mạnh mẽ, chắc hẳn phải mang trong mình một thân công phu không sai",
-      "approved": true
-    },
-    {
-      "convert": "Hàn Lập đám người được đưa tới một cái so sánh thấp trên ngọn núi, đỉnh núi có một mảnh đất phòng, ở chỗ này Hàn Lập đám người ở một đêm",
-      "dich": "Hàn Lập được dẫn đến một đỉnh núi thấp nhỏ, trên đỉnh núi có sẵn một căn phòng đất. Bọn Hàn Lập sẽ ở chỗ này một đêm",
-      "approved": true
-    },
-    {
-      "convert": "Ở buổi tối trong lúc ngủ mơ, Hàn Lập tại trong mộng mơ tới bản thân thân mặc cẩm y, tay cầm kim kiếm, người mang võ công tuyệt thế, bả trong thôn bản thân vẫn luôn đánh không lại thợ rèn nhi tử đánh một trận đau nhức, thật là không uy phong, cho đến sáng ngày thứ hai lên vẫn hiểu được không thôi",
-      "dich": "Trong giấc mộng, Hàn Lập mơ thấy mình mặc cẩm y, tay cầm kim kiếm, thân hoài tuyệt kỹ võ công, đánh cho con lão thợ rèn trong làng mà ngày trước hắn không đánh nổi một trận no nê, mất hết cả uy phong, mãi đến tận ngày thứ hai vẫn chưa đứng lên nổi",
-      "approved": true
-    },
-    {
-      "convert": "Buổi sáng về sau, Vương hộ pháp cũng không có nhường mọi người ăn điểm tâm, trực tiếp bả nhiều người người tới dưới núi một mảng lớn đủ loại cây trúc sườn dốc trước mặt",
-      "dich": "Hôm sau trời vừa sáng, Vương hộ pháp cũng không để cho mọi người được ăn điểm tâm, trực tiếp mang cả bọn xuống núi, tới trước một khu rừng trúc rậm rạp",
-      "approved": true
-    },
-    {
-      "convert": "Tại đó, ngày hôm qua đã thấy qua Đường chủ họ Nhạc cùng mấy vị khác không biết thanh thiếu niên đã chờ ở nơi đó",
-      "dich": "Tại đây, ngoài vị đường chủ họ Nhạc đã gặp ngày hôm qua còn có mấy vị thanh niên khác đã đứng chờ sẵn",
-      "approved": true
-    }
-  ]
+  "title": {
+    "convert": "Chương 3: Thất Huyền Môn",
+    "dich": "Chương 3: Thất Huyền Môn"
+  }
 }

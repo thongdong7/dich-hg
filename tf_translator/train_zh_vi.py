@@ -21,7 +21,21 @@ from .tokenizers.config import zh_vi_small_config
 from .train_config import MAX_TOKENS
 
 repo_dir = dirname(dirname(abspath(__file__)))
-label_dir = join(repo_dir, "tien_hiep/label_new")
+
+
+def detect_label_dir():
+    options = ["label", "tien_hiep/label_new"]
+    for option in options:
+        label_dir_ = join(repo_dir, option)
+        if os.path.exists(label_dir_):
+            return label_dir_
+
+    raise FileNotFoundError(f"Cannot find label directory in {options}")
+
+
+label_dir = detect_label_dir()
+print("Label directory:", label_dir)
+
 
 num_layers = 4
 d_model = 128
@@ -246,4 +260,4 @@ def _train(
 
 
 if __name__ == "__main__":
-    _train(save_as="zh_vi_transformer", epochs=3)
+    _train(save_as="zh_vi_transformer", epochs=10)

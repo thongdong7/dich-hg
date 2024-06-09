@@ -31,6 +31,9 @@ def _train(
 
 
 def _train_for_config(config: Config):
+    if exists(config.model_file):
+        return
+
     print(
         f"Train tokenizer for {config.lang} ({config.ds_size/1000}k, {config.vocab_size/1000}k)"
     )
