@@ -195,8 +195,8 @@ def _train(
     # attn_scores = transformer.decoder.dec_layers[-1].last_attn_scores
     # print(attn_scores.shape)  # (batch, heads, target_seq, input_seq)
 
-    # print(transformer.summary())
-    exit(1)
+    print(transformer.summary())
+    # exit(1)
 
     learning_rate = CustomSchedule(d_model)
 
@@ -243,4 +243,4 @@ def _train(
 
 
 if __name__ == "__main__":
-    _train(save_as="zh_vi_transformer", epochs=20)
+    _train(save_as="zh_vi_transformer", epochs=30)
