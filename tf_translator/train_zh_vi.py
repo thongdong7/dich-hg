@@ -200,10 +200,15 @@ def _train(
     train_batches = make_batches(train_examples)
     val_batches = make_batches(val_examples)
 
-    # for (src, target), target_labels in train_batches.take(1):
-    #     break
+    for (src, target), target_labels in train_batches.take(3):
+        print("src shape", src.shape)
+        # print("src ", src)
+        # print("src ", src[0])
+        for item in src:
+            print("item", item)
+        break
 
-    # print(src.shape)
+    # print("src shape", src.shape)
     # print(target.shape)
     # print(target_labels.shape)
 
@@ -214,7 +219,7 @@ def _train(
     # print(attn_scores.shape)  # (batch, heads, target_seq, input_seq)
 
     # print(transformer.summary())
-    # exit(1)
+    exit(1)
 
     learning_rate = CustomSchedule(d_model)
 
@@ -229,7 +234,7 @@ def _train(
 
     print("Fit...")
     start = time()
-    # transformer.fit(train_batches, epochs=epochs, validation_data=val_batches)
+    transformer.fit(train_batches, epochs=epochs, validation_data=val_batches)
     print(f"Time to train: {time() - start:.2f}s")
 
     print("Create translator...")
