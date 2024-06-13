@@ -55,50 +55,27 @@ def _load_dataset():
     return train_examples, val_examples
 
 
-def gen(folder_contain: str = None, folder_not_contain: str = None):
-    # Get all .json files in the label directory
-    print(
-        f"Start gen with folder_contain={folder_contain}, folder_not_contain={folder_not_contain}"
-    )
+def gen(name: str):
     print("Label directory:", label_dir)
-    for root, dirs, files in os.walk(label_dir):
-        if folder_contain and folder_contain not in root:
-            continue
+    file = f"{name}.txt"
 
-        if folder_not_contain and folder_not_contain in root:
-            continue
+    file_path = os.path.join(label_dir, file)
+    file_id = os.path.relpath(file_path, label_dir).split(".")[0]
 
-        for file in files:
-            if file.endswith(".json"):
-                file_path = os.path.join(root, file)
-                file_id = os.path.relpath(file_path, label_dir).split(".")[0]
+    # print("Processing file:", file_id, flush=True)
+    with open(file_path, "r") as f:
+        for line in f:
+            if not line.strip():
+                continue
 
-                # print("Processing file:", file_id, flush=True)
-                with open(file_path, "r") as f:
-                    data = json.load(f)
-
-                for i, line in enumerate(data["lines"]):
-                    if (
-                        line.get("approved")
-                        and line.get("chinese")
-                        and line.get("dich")
-                    ):
-                        # Ignore too long line
-                        chinese_words = len(line["chinese"]["raw"])
-                        if chinese_words > 100:
-                            print(
-                                f"Line {file_id}_{i} is too long ({chinese_words} words), ignoring...",
-                                flush=True,
-                            )
-                            continue
-
-                        yield line["chinese"]["raw"], line["dich"]
+            parts = json.loads(line.strip())
+            yield parts[0], parts[1]
 
 
 def _get_ds_train():
     # Get all .json files in the label directory which folder not contain pham-nhan-tu-tien
     return tf.data.Dataset.from_generator(
-        lambda: gen(folder_not_contain="pham-nhan-tu-tien"),
+        lambda: gen(name="train"),
         output_signature=(
             tf.TensorSpec(shape=(), dtype=tf.string),
             tf.TensorSpec(shape=(), dtype=tf.string),
@@ -109,7 +86,7 @@ def _get_ds_train():
 def _get_ds_validation():
     # Get all .json files in the label directory which folder contain pham-nhan-tu-tien
     return tf.data.Dataset.from_generator(
-        lambda: gen(folder_contain="pham-nhan-tu-tien"),
+        lambda: gen(name="validation"),
         output_signature=(
             tf.TensorSpec(shape=(), dtype=tf.string),
             tf.TensorSpec(shape=(), dtype=tf.string),
