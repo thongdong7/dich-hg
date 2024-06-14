@@ -183,8 +183,6 @@ def _train(
 
     # attn_scores = transformer.decoder.dec_layers[-1].last_attn_scores
     # print(attn_scores.shape)  # (batch, heads, target_seq, input_seq)
-
-    print(transformer.summary())
     # exit(1)
 
     learning_rate = CustomSchedule(d_model)
@@ -197,6 +195,8 @@ def _train(
     transformer.compile(
         loss=masked_loss, optimizer=optimizer, metrics=[masked_accuracy]
     )
+
+    print(transformer.summary())
 
     print("Fit...")
     start = time()
