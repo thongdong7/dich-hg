@@ -96,7 +96,6 @@ def _train(
     config: TrainConfig,
     epochs: int = 1,
     ds_shuffle_buffer_size: int = 20000,
-    ds_batch_size: int = 64,
 ):
     logging.getLogger("tensorflow").setLevel(logging.ERROR)
     # train_examples, val_examples = _load_dataset()
@@ -168,7 +167,7 @@ def _train(
     def make_batches(ds):
         return (
             ds.shuffle(ds_shuffle_buffer_size)
-            .batch(ds_batch_size)
+            .batch(config.batch_size)
             .map(prepare_batch, tf.data.AUTOTUNE)
             .prefetch(buffer_size=tf.data.AUTOTUNE)
         )

@@ -15,6 +15,7 @@ class TrainConfig:
         dff (int): The number of units in the feed-forward layer.
         num_heads (int): The number of attention heads in the multi-head attention layer.
         dropout_rate (float): The dropout rate to apply to the model's layers.
+        batch_size (int): The batch size for training.
     """
 
     num_layers: int
@@ -22,7 +23,7 @@ class TrainConfig:
     dff: int
     num_heads: int
     dropout_rate: float
-    # batch_size: int
+    batch_size: int
     # epochs: int
     # learning_rate: float
     # max_tokens: int
@@ -35,6 +36,7 @@ sample_config = TrainConfig(
     dff=512,
     num_heads=8,
     dropout_rate=0.1,
+    batch_size=128,
 )
 
 base_config = TrainConfig(
@@ -43,4 +45,5 @@ base_config = TrainConfig(
     dff=2048,
     num_heads=8,
     dropout_rate=0.1,
+    batch_size=64,
 )
