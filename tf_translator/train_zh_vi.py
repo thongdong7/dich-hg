@@ -127,6 +127,8 @@ def _train(
 
     tokenizers = load_translate_tokenizer(zh_vi_small_config)
 
+    print(f"Input vocab size: {tokenizers.src.get_vocab_size()}")
+    print(f"Target vocab size: {tokenizers.target.get_vocab_size()}")
     transformer = Transformer(
         num_layers=num_layers,
         d_model=d_model,
