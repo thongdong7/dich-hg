@@ -58,11 +58,12 @@ def _load_dataset():
 def gen(name: str):
     print("Label directory:", label_dir)
     file = f"{name}.txt"
+    is_sample = os.environ.get("SAMPLE") == "1"
 
     file_path = os.path.join(label_dir, file)
-    file_id = os.path.relpath(file_path, label_dir).split(".")[0]
 
     data = []
+    count = 0
     with open(file_path, "r") as f:
         for line in f:
             if not line.strip():
@@ -70,6 +71,9 @@ def gen(name: str):
 
             parts = json.loads(line.strip())
             data.append((parts[0], parts[1]))
+            count += 1
+            if is_sample and count > 100:
+                break
     return data
 
 
