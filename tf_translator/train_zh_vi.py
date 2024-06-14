@@ -18,7 +18,7 @@ from .util import (
 from .transformer import Transformer
 from .tokenizers.spm_utils import load_translate_tokenizer
 from .tokenizers.config import zh_vi_small_config
-from .train_config import MAX_TOKENS
+from .train_config import MAX_TOKENS, base_config, TrainConfig
 
 
 repo_dir = dirname(dirname(abspath(__file__)))
@@ -36,13 +36,6 @@ def detect_label_dir():
 
 label_dir = detect_label_dir()
 print("Label directory:", label_dir)
-
-
-num_layers = 4
-d_model = 128
-dff = 512
-num_heads = 8
-dropout_rate = 0.1
 
 
 def _load_dataset():
@@ -100,6 +93,7 @@ def _load_dataset_from_generator():
 
 def _train(
     save_as: str,
+    config: TrainConfig,
     epochs: int = 1,
     ds_shuffle_buffer_size: int = 20000,
     ds_batch_size: int = 64,
@@ -127,16 +121,23 @@ def _train(
 
     tokenizers = load_translate_tokenizer(zh_vi_small_config)
 
+    print("-" * 20)
     print(f"Input vocab size: {tokenizers.src.get_vocab_size()}")
     print(f"Target vocab size: {tokenizers.target.get_vocab_size()}")
+    print(f"Number layers: {config.num_layers}")
+    print(f"d_model: {config.d_model}")
+    print(f"dff: {config.dff}")
+    print(f"num_heads: {config.num_heads}")
+    print(f"dropout_rate: {config.dropout_rate}")
+    print("-" * 20)
     transformer = Transformer(
-        num_layers=num_layers,
-        d_model=d_model,
-        num_heads=num_heads,
-        dff=dff,
+        num_layers=config.num_layers,
+        d_model=config.d_model,
+        num_heads=config.num_heads,
+        dff=config.dff,
         input_vocab_size=tokenizers.src.get_vocab_size().numpy(),
         target_vocab_size=tokenizers.target.get_vocab_size().numpy(),
-        dropout_rate=dropout_rate,
+        dropout_rate=config.dropout_rate,
     )
 
     encoded = tokenizers.target.tokenize(target_examples)
@@ -176,26 +177,26 @@ def _train(
     train_batches = make_batches(train_examples)
     val_batches = make_batches(val_examples)
 
-    # for (src, target), target_labels in train_batches.take(3):
-    #     print("src shape", src.shape)
-    #     # print("src ", src)
-    #     # print("src ", src[0])
-    #     for item in src:
-    #         print("item", item)
-    #     break
+    for (src, target), target_labels in train_batches.take(3):
+        # print("src shape", src.shape)
+        # print("src ", src)
+        # print("src ", src[0])
+        # for item in src:
+        #     print("item", item)
+        break
 
-    # print("src shape", src.shape)
-    # print(target.shape)
-    # print(target_labels.shape)
+    print("src shape", src.shape)
+    print(target.shape)
+    print(target_labels.shape)
 
-    # output = transformer((src, target))
-    # print(output.shape)
+    output = transformer((src, target))
+    print(output.shape)
 
-    # attn_scores = transformer.decoder.dec_layers[-1].last_attn_scores
-    # print(attn_scores.shape)  # (batch, heads, target_seq, input_seq)
+    attn_scores = transformer.decoder.dec_layers[-1].last_attn_scores
+    print(attn_scores.shape)  # (batch, heads, target_seq, input_seq)
     # exit(1)
 
-    learning_rate = CustomSchedule(d_model)
+    learning_rate = CustomSchedule(config.d_model)
 
     optimizer = tf.keras.optimizers.Adam(
         learning_rate, beta_1=0.9, beta_2=0.98, epsilon=1e-9
@@ -242,4 +243,4 @@ def _train(
 
 
 if __name__ == "__main__":
-    _train(save_as="zh_vi_transformer", epochs=30)
+    _train(save_as="zh_vi_transformer", epochs=30, config=base_config)
