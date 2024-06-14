@@ -128,6 +128,7 @@ def _train(
     print(f"dff: {config.dff}")
     print(f"num_heads: {config.num_heads}")
     print(f"dropout_rate: {config.dropout_rate}")
+    print(f"batch_size: {config.batch_size}")
     print("-" * 20)
     transformer = Transformer(
         num_layers=config.num_layers,
@@ -184,15 +185,15 @@ def _train(
         #     print("item", item)
         break
 
-    print("src shape", src.shape)
-    print(target.shape)
-    print(target_labels.shape)
+    print("src", src.shape)
+    print("target", target.shape)
+    print("target label", target_labels.shape)
 
     output = transformer((src, target))
-    print(output.shape)
+    print("output", output.shape)
 
     attn_scores = transformer.decoder.dec_layers[-1].last_attn_scores
-    print(attn_scores.shape)  # (batch, heads, target_seq, input_seq)
+    print("attn_scores", attn_scores.shape)  # (batch, heads, target_seq, input_seq)
     # exit(1)
 
     learning_rate = CustomSchedule(config.d_model)

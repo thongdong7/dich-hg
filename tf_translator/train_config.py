@@ -18,11 +18,17 @@ class TrainConfig:
         batch_size (int): The batch size for training.
     """
 
+    # The number of layers in the transformer model.
     num_layers: int
+    # The dimensionality of the model's hidden states.
     d_model: int
+    # The number of units in the feed-forward layer.
     dff: int
+    # The number of attention heads in the multi-head attention layer.
     num_heads: int
+    # The dropout rate to apply to the model's layers.
     dropout_rate: float
+    # The batch size for training.
     batch_size: int
     # epochs: int
     # learning_rate: float
