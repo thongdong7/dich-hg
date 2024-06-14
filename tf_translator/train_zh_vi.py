@@ -77,14 +77,18 @@ def gen(name: str):
     return data
 
 
+def split_src_target(example):
+    return example[0], example[1]
+
+
 def _get_ds_train():
     data = gen(name="train")
-    return tf.data.Dataset.from_tensor_slices(data)
+    return tf.data.Dataset.from_tensor_slices(data).map(split_src_target)
 
 
 def _get_ds_validation():
     data = gen(name="validation")
-    return tf.data.Dataset.from_tensor_slices(data)
+    return tf.data.Dataset.from_tensor_slices(data).map(split_src_target)
 
 
 def _load_dataset_from_generator():
@@ -100,18 +104,6 @@ def _train(
     ds_shuffle_buffer_size: int = 20000,
     ds_batch_size: int = 64,
 ):
-    tokenizers = load_translate_tokenizer(zh_vi_small_config)
-
-    transformer = Transformer(
-        num_layers=num_layers,
-        d_model=d_model,
-        num_heads=num_heads,
-        dff=dff,
-        input_vocab_size=tokenizers.src.get_vocab_size().numpy(),
-        target_vocab_size=tokenizers.target.get_vocab_size().numpy(),
-        dropout_rate=dropout_rate,
-    )
-
     logging.getLogger("tensorflow").setLevel(logging.ERROR)
     # train_examples, val_examples = _load_dataset()
     train_examples, val_examples = _load_dataset_from_generator()
@@ -132,6 +124,18 @@ def _train(
     print("> This is a batch of strings:")
     for target in target_examples.numpy():
         print(target.decode("utf-8"))
+
+    tokenizers = load_translate_tokenizer(zh_vi_small_config)
+
+    transformer = Transformer(
+        num_layers=num_layers,
+        d_model=d_model,
+        num_heads=num_heads,
+        dff=dff,
+        input_vocab_size=tokenizers.src.get_vocab_size().numpy(),
+        target_vocab_size=tokenizers.target.get_vocab_size().numpy(),
+        dropout_rate=dropout_rate,
+    )
 
     encoded = tokenizers.target.tokenize(target_examples)
 
