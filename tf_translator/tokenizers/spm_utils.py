@@ -1,3 +1,5 @@
+import os
+from posixpath import join
 from typing import List
 import tensorflow_text as text
 import tensorflow as tf
@@ -63,4 +65,5 @@ def export_translate_tokenizer(config: TranslateConfig):
 
 
 def load_translate_tokenizer(config: TranslateConfig):
-    return tf.saved_model.load(config.model_name)
+    tokenizer_root = os.environ.get("TOKENIZER_ROOT", ".")
+    return tf.saved_model.load(join(tokenizer_root, config.model_name))

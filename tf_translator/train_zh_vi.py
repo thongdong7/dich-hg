@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+from genericpath import exists
 import json
 import logging
 import os
@@ -25,6 +26,10 @@ repo_dir = dirname(dirname(abspath(__file__)))
 
 
 def detect_label_dir():
+    dataset_root = os.environ.get("DATASET_ROOT")
+    if dataset_root and exists(dataset_root):
+        return dataset_root
+
     options = ["label", "tien_hiep/label_new"]
     for option in options:
         label_dir_ = join(repo_dir, option)
