@@ -72,7 +72,18 @@ def masked_loss(label, pred):
     return loss
 
 
-def masked_accuracy(label, pred):
+def masked_accuracy(label: tf.Tensor, pred: tf.Tensor) -> tf.Tensor:
+    """
+    Computes the accuracy of a sequence prediction task, such as named entity recognition or part-of-speech tagging,
+    where some tokens may be padded and should not contribute to the accuracy computation.
+
+    Args:
+        label (Tensor): The ground truth labels.
+        pred (Tensor): The predicted labels.
+
+    Returns:
+        Tensor: The computed accuracy.
+    """
     pred = tf.argmax(pred, axis=2)
     label = tf.cast(label, pred.dtype)
     match = label == pred

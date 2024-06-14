@@ -62,36 +62,25 @@ def gen(name: str):
     file_path = os.path.join(label_dir, file)
     file_id = os.path.relpath(file_path, label_dir).split(".")[0]
 
-    # print("Processing file:", file_id, flush=True)
+    data = []
     with open(file_path, "r") as f:
         for line in f:
             if not line.strip():
                 continue
 
             parts = json.loads(line.strip())
-            yield parts[0], parts[1]
+            data.append((parts[0], parts[1]))
+    return data
 
 
 def _get_ds_train():
-    # Get all .json files in the label directory which folder not contain pham-nhan-tu-tien
-    return tf.data.Dataset.from_generator(
-        lambda: gen(name="train"),
-        output_signature=(
-            tf.TensorSpec(shape=(), dtype=tf.string),
-            tf.TensorSpec(shape=(), dtype=tf.string),
-        ),
-    )
+    data = gen(name="train")
+    return tf.data.Dataset.from_tensor_slices(data)
 
 
 def _get_ds_validation():
-    # Get all .json files in the label directory which folder contain pham-nhan-tu-tien
-    return tf.data.Dataset.from_generator(
-        lambda: gen(name="validation"),
-        output_signature=(
-            tf.TensorSpec(shape=(), dtype=tf.string),
-            tf.TensorSpec(shape=(), dtype=tf.string),
-        ),
-    )
+    data = gen(name="validation")
+    return tf.data.Dataset.from_tensor_slices(data)
 
 
 def _load_dataset_from_generator():
@@ -177,13 +166,13 @@ def _train(
     train_batches = make_batches(train_examples)
     val_batches = make_batches(val_examples)
 
-    for (src, target), target_labels in train_batches.take(3):
-        print("src shape", src.shape)
-        # print("src ", src)
-        # print("src ", src[0])
-        for item in src:
-            print("item", item)
-        break
+    # for (src, target), target_labels in train_batches.take(3):
+    #     print("src shape", src.shape)
+    #     # print("src ", src)
+    #     # print("src ", src[0])
+    #     for item in src:
+    #         print("item", item)
+    #     break
 
     # print("src shape", src.shape)
     # print(target.shape)
