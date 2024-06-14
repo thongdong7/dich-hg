@@ -218,6 +218,7 @@ def _train(
     print(f"Time to train: {time() - start:.2f}s")
 
     print("Create translator...")
+    start = time()
     translator = Translator(tokenizers, transformer)
 
     def print_translation(sentence, tokens, ground_truth):
@@ -240,6 +241,7 @@ def _train(
 
     tf.saved_model.save(translator, export_dir=save_as)
     print(f"Translator saved to {save_as}")
+    print(f"Time to create translator: {time() - start:.2f}s")
 
     loaded_translator = tf.saved_model.load(save_as)
     print("Loaded translator")
