@@ -212,6 +212,9 @@ def _train(
     print("Fit...")
     start = time()
     transformer.fit(train_batches, epochs=epochs, validation_data=val_batches)
+    print("-" * 20)
+    print(f"Config: {config}")
+    print(transformer.summary())
     print(f"Time to train: {time() - start:.2f}s")
 
     print("Create translator...")

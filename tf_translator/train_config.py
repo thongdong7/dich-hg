@@ -34,6 +34,13 @@ class TrainConfig:
     # learning_rate: float
     # max_tokens: int
 
+    def __str__(self) -> str:
+        return (
+            f"num_layers: {self.num_layers}, d_model: {self.d_model}, "
+            f"dff: {self.dff}, num_heads: {self.num_heads}, "
+            f"dropout_rate: {self.dropout_rate}, batch_size: {self.batch_size}"
+        )
+
 
 # For testing purpose
 sample_config = TrainConfig(
