@@ -65,7 +65,7 @@ def gen(name: str):
             parts = json.loads(line.strip())
             data.append((parts[0], parts[1]))
             count += 1
-            if is_sample and count > 10:
+            if is_sample and count > 100:
                 break
     return data
 
