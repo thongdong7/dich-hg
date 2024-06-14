@@ -49,7 +49,7 @@ sample_config = TrainConfig(
     dff=512,
     num_heads=8,
     dropout_rate=0.1,
-    batch_size=1024,
+    batch_size=512,
 )
 
 base_config = TrainConfig(
@@ -58,5 +58,5 @@ base_config = TrainConfig(
     dff=2048,
     num_heads=8,
     dropout_rate=0.1,
-    batch_size=64,
+    batch_size=512,
 )
