@@ -30,7 +30,8 @@ class TrainConfig:
     dropout_rate: float
     # The batch size for training.
     batch_size: int
-    # epochs: int
+
+    epochs: int
     # learning_rate: float
     # max_tokens: int
 
@@ -38,7 +39,8 @@ class TrainConfig:
         return (
             f"num_layers: {self.num_layers}, d_model: {self.d_model}, "
             f"dff: {self.dff}, num_heads: {self.num_heads}, "
-            f"dropout_rate: {self.dropout_rate}, batch_size: {self.batch_size}"
+            f"dropout_rate: {self.dropout_rate}, batch_size: {self.batch_size}, "
+            f"epochs: {self.epochs}"
         )
 
 
@@ -50,6 +52,7 @@ sample_config = TrainConfig(
     num_heads=8,
     dropout_rate=0.1,
     batch_size=128,
+    epochs=1,
 )
 
 base_config = TrainConfig(
@@ -59,4 +62,5 @@ base_config = TrainConfig(
     num_heads=8,
     dropout_rate=0.1,
     batch_size=128,
+    epochs=30,
 )
