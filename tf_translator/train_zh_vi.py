@@ -108,10 +108,10 @@ def _train(
     # train_examples, val_examples = _load_dataset()
     train_examples, val_examples = _load_dataset_from_generator()
 
-    print("Train size: ", len(list(train_examples)))
-    print("Validation size: ", len(list(val_examples)))
+    # print("Train size: ", len(list(train_examples)))
+    # print("Validation size: ", len(list(val_examples)))
 
-    print(train_examples)
+    # print(train_examples)
     for src_examples, target_examples in train_examples.batch(3).take(1):
         print("> Examples in source:")
         for pt in src_examples.numpy():
