@@ -99,7 +99,6 @@ def _load_dataset_from_generator():
 def _train(
     save_as: str,
     config: TrainConfig,
-    epochs: int = 1,
     ds_shuffle_buffer_size: int = 20000,
 ):
     logging.getLogger("tensorflow").setLevel(logging.ERROR)
@@ -214,9 +213,9 @@ def _train(
 
     print(transformer.summary())
 
-    print("Fit...")
+    print(f"Fit (epochs={config.epochs})...")
     start = time()
-    transformer.fit(train_batches, epochs=epochs, validation_data=val_batches)
+    transformer.fit(train_batches, epochs=config.epochs, validation_data=val_batches)
     print("-" * 20)
     print(f"Config: {config}")
     print(transformer.summary())
@@ -253,4 +252,4 @@ def _train(
 
 
 if __name__ == "__main__":
-    _train(save_as="zh_vi_transformer", epochs=30, config=base_config)
+    _train(save_as="zh_vi_transformer", config=base_config)
