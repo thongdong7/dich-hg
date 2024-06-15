@@ -78,8 +78,10 @@ print("Label directory:", label_dir)
 #     return example[0], example[1]
 
 
-def parse_line(line: str):
-    return json.loads(line.strip())
+def parse_line(line):
+    # return json.loads(line.strip())
+    line = tf.strings.strip(line)
+    return tf.io.decode_json_example(line)
 
 
 def _get_ds_train():
@@ -220,7 +222,7 @@ def _train(
     print("-" * 20)
     print(f"Config: {config}")
     print(transformer.summary())
-    print(f"Time to train: {time() - start:.2f}s")
+    print(f"Time to train: {time() - start:.2f}s", flush=True)
 
     print("Create translator...")
     start = time()
