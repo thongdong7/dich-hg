@@ -61,6 +61,6 @@ base_config = TrainConfig(
     dff=2048,
     num_heads=8,
     dropout_rate=0.1,
-    batch_size=32,
+    batch_size=16,
     epochs=30,
 )
