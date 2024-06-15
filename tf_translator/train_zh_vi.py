@@ -43,50 +43,51 @@ label_dir = detect_label_dir()
 print("Label directory:", label_dir)
 
 
-def _load_dataset():
-    examples, metadata = tfds.load(
-        "ted_hrlr_translate/pt_to_en", with_info=True, as_supervised=True
-    )
+# def _load_dataset():
+#     examples, metadata = tfds.load(
+#         "ted_hrlr_translate/pt_to_en", with_info=True, as_supervised=True
+#     )
 
-    train_examples, val_examples = examples["train"], examples["validation"]
+#     train_examples, val_examples = examples["train"], examples["validation"]
 
-    return train_examples, val_examples
-
-
-def gen(name: str):
-    print("Label directory:", label_dir)
-    file = f"{name}.txt"
-    is_sample = os.environ.get("SAMPLE") == "1"
-
-    file_path = os.path.join(label_dir, file)
-
-    data = []
-    count = 0
-    with open(file_path, "r") as f:
-        for line in f:
-            if not line.strip():
-                continue
-
-            parts = json.loads(line.strip())
-            data.append((parts[0], parts[1]))
-            count += 1
-            if is_sample and count > 100:
-                break
-    return data
+#     return train_examples, val_examples
 
 
-def split_src_target(example):
-    return example[0], example[1]
+# def gen(name: str):
+#     file = f"{name}.txt"
+#     is_sample = os.environ.get("SAMPLE") == "1"
+
+#     file_path = os.path.join(label_dir, file)
+
+#     data = []
+#     count = 0
+#     with open(file_path, "r") as f:
+#         for line in f:
+#             if not line.strip():
+#                 continue
+
+#             parts = json.loads(line.strip())
+#             data.append((parts[0], parts[1]))
+#             count += 1
+#             if is_sample and count > 100:
+#                 break
+#     return data
+
+
+# def split_src_target(example):
+#     return example[0], example[1]
+
+
+def parse_line(line: str):
+    return json.loads(line.strip())
 
 
 def _get_ds_train():
-    data = gen(name="train")
-    return tf.data.Dataset.from_tensor_slices(data).map(split_src_target)
+    return tf.data.TextLineDataset(join(label_dir, "train.txt")).map(parse_line)
 
 
 def _get_ds_validation():
-    data = gen(name="validation")
-    return tf.data.Dataset.from_tensor_slices(data).map(split_src_target)
+    return tf.data.TextLineDataset(join(label_dir, "validation.txt")).map(parse_line)
 
 
 def _load_dataset_from_generator():
@@ -121,7 +122,7 @@ def _train(
     print("> This is a batch of strings:")
     for target in target_examples.numpy():
         print(target.decode("utf-8"))
-
+    exit(1)
     tokenizers = load_translate_tokenizer(zh_vi_small_config)
 
     print("-" * 20)
@@ -247,8 +248,8 @@ def _train(
     print(f"Translator saved to {save_as}")
     print(f"Time to create translator: {time() - start:.2f}s")
 
-    loaded_translator = tf.saved_model.load(save_as)
-    print("Loaded translator")
+    # loaded_translator = tf.saved_model.load(save_as)
+    # print("Loaded translator")
 
 
 if __name__ == "__main__":
