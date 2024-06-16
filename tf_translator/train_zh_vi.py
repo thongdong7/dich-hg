@@ -128,7 +128,7 @@ def _train(
     print("> This is a batch of strings:")
     for target in target_examples.numpy():
         print(target.decode("utf-8"))
-    exit(1)
+
     tokenizers = load_translate_tokenizer(zh_vi_small_config)
 
     print("-" * 20)
