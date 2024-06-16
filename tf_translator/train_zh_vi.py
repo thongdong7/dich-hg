@@ -87,13 +87,13 @@ def parse_line(line):
 def _get_ds_train():
     return tf.data.experimental.CsvDataset(
         join(label_dir, "train.csv"), [tf.string, tf.string], header=True
-    ).map(parse_line)
+    )
 
 
 def _get_ds_validation():
     return tf.data.experimental.CsvDataset(
         join(label_dir, "validation.csv"), [tf.string, tf.string], header=True
-    ).map(parse_line)
+    )
 
 
 def _load_dataset_from_generator():
