@@ -64,6 +64,6 @@ base_config = TrainConfig(
     # batch size = 32 -> error: not enough memory
     # batch size = 16 -> Registers are spilled to local memory in function '__cuda_sm3x_div_rn_noftz_f32_slowpath', 4 bytes spill stores, 4 bytes spill loads
     # batch size = 8 -> Registers are spilled to local memory in function '__cuda_sm3x_div_rn_noftz_f32_slowpath', 4 bytes spill stores, 4 bytes spill loads -> Your notebook tried to allocate more memory than is available.0 (die)
-    batch_size=8,
+    batch_size=4,
     epochs=30,
 )
