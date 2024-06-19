@@ -44,8 +44,13 @@ if __name__ == "__main__":
     train(
         data_folder=data_folder,
         config=TrainConfig(
-            src_vocab_size=1,  # we dont use this number
-            target_vocab_size=1,  # we dont use this number
+            num_layers=4,
+            d_model=128,
+            dff=512,
+            num_heads=8,
+            dropout_rate=0.1,
+            batch_size=128,
+            epochs=1,
         ),
         tokenizer_config=TokenizerConfig(
             src_vocab_size=src_vocab_size,
