@@ -2,6 +2,7 @@ from dataclasses import dataclass
 from posixpath import join
 from time import time
 from tf_translator.tokenizers.config import TranslateConfig
+from tf_translator.tokenizers.spm_utils import CustomTokenizer
 from tf_translator.train_config import TrainConfig
 import tensorflow as tf
 
@@ -53,6 +54,8 @@ def _train_tokenizer2(
     print("Model type: ", model_type)
     print(f"Train Tokenizer Time: {time() - start:.2f}s")
 
+    return model_prefix + ".model"
+
 
 @dataclass
 class TokenizerConfig:
@@ -65,19 +68,25 @@ def _train_tokenizer(data_folder: str, output_folder: str, config: TokenizerConf
         join(data_folder, "train.csv"), output_dir=data_folder
     )
 
-    _train_tokenizer2(
+    src_model_file = _train_tokenizer2(
         file_path=src_file,
         model_prefix=join(output_folder, "spm_src"),
         vocab_size=config.src_vocab_size,
         model_type="unigram",
     )
 
-    _train_tokenizer2(
+    target_model_file = _train_tokenizer2(
         file_path=target_file,
         model_prefix=join(output_folder, "spm_target"),
         vocab_size=config.target_vocab_size,
         model_type="unigram",
     )
+
+    # Export tokenizer
+    tokenizers = tf.Module()
+    tokenizers.__setattr__("src", CustomTokenizer(src_model_file))
+    tokenizers.__setattr__("target", CustomTokenizer(target_model_file))
+    tf.saved_model.save(tokenizers, join(output_folder, "tokenizers"))
 
 
 def train(data_folder: str, config: TrainConfig, tokenizer_config: TokenizerConfig):
@@ -88,13 +97,15 @@ def train(data_folder: str, config: TrainConfig, tokenizer_config: TokenizerConf
         data_folder=data_folder, output_folder=data_folder, config=tokenizer_config
     )
 
+    # Load the tokenizer
+
     # Load the dataset
-    # train_ds = tf.data.experimental.CsvDataset(
-    #     join(data_folder, "train.csv"), [tf.string, tf.string], header=True
-    # )
-    # val_ds = tf.data.experimental.CsvDataset(
-    #     join(data_folder, "validation.csv"), [tf.string, tf.string], header=True
-    # )
+    train_ds = tf.data.experimental.CsvDataset(
+        join(data_folder, "train.csv"), [tf.string, tf.string], header=True
+    )
+    val_ds = tf.data.experimental.CsvDataset(
+        join(data_folder, "validation.csv"), [tf.string, tf.string], header=True
+    )
 
     # # Train the model
     # train_model(train_ds, val_ds, config)
