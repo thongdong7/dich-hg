@@ -1,4 +1,6 @@
 import csv
+import os
+from subprocess import run
 from typing import List, Tuple
 
 from tf_translator.train import TokenizerConfig, train
@@ -14,7 +16,7 @@ def _write_to_csv_file(data: List[Tuple[str, str]], file_path: str):
 
 
 if __name__ == "__main__":
-    data_folder = ""
+    data_folder = os.getcwd()
     sample_train = [
         [
             "hello",
@@ -50,3 +52,6 @@ if __name__ == "__main__":
             target_vocab_size=src_vocab_size,
         ),
     )
+
+    # Show the output
+    run(["ls", "-lh", data_folder], check=True)
