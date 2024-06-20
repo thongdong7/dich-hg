@@ -41,8 +41,8 @@ if __name__ == "__main__":
             "Xin chào Peter",
         ],
     ]
-    src_vocab_size = 15
-    target_vocab_size = 15
+    src_vocab_size = 30
+    target_vocab_size = 30
 
     _write_to_csv_file(
         data=sample_train,
