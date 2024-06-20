@@ -36,9 +36,13 @@ if __name__ == "__main__":
             "sorry Pat",
             "xin lỗi Pat",
         ],
+        [
+            "Hello Peter",
+            "Xin chào Peter",
+        ],
     ]
-    src_vocab_size = 5
-    target_vocab_size = 5
+    src_vocab_size = 15
+    target_vocab_size = 15
 
     _write_to_csv_file(
         data=sample_train,
