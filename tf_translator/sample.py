@@ -19,18 +19,26 @@ if __name__ == "__main__":
     data_folder = os.getcwd()
     sample_train = [
         [
-            "hello",
-            "xin chao",
-        ]
+            "hello Pat",
+            "xin chào Pat",
+        ],
+        [
+            "sorry Peter",
+            "xin lỗi Peter",
+        ],
     ]
     sample_validation = [
         [
-            "good bye",
-            "tam biet",
-        ]
+            "hello Peter",
+            "xin chào Peter",
+        ],
+        [
+            "sorry Pat",
+            "xin lỗi Pat",
+        ],
     ]
-    src_vocab_size = 10
-    target_vocab_size = 10
+    src_vocab_size = 5
+    target_vocab_size = 5
 
     _write_to_csv_file(
         data=sample_train,
